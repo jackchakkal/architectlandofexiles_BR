@@ -1,12 +1,10 @@
 # Architect: Land of Exiles — Português brasileiro
 
-**Quer jogar em português?** O projeto está preparando um instalador simples para jogadores. Consulte [Instalação para jogadores](docs/INSTALACAO-PARA-JOGADORES.md) para ver o processo planejado e o estado atual.
-
-> **Ainda não há um instalador público.** A v12 está aplicada e validada no computador dos mantenedores. Esta página contém os arquivos de tradução e as ferramentas do projeto; não é um download pronto para instalar no jogo. Não é preciso que jogadores comuns usem Git, Python, PowerShell, chaves AES ou ferramentas de modificação.
+**Quer jogar em português?** Consulte [Instalação para jogadores](docs/INSTALACAO-PARA-JOGADORES.md). No momento, ainda não há um pacote de distribuição validado para jogadores.
 
 ## Para jogadores
 
-Quando a versão distribuível estiver pronta, será publicada em **Releases** como um instalador do Windows. A instalação deverá localizar o jogo, fazer backup automático e oferecer restauração. A chave AES e os arquivos originais do jogo não serão distribuídos.
+O ZIP experimental anterior foi retirado: instalado sozinho em `Content/Paks`, traduziu a tela inicial, mas telas de carregamento e textos durante o jogo continuaram em inglês. Não o distribua como tradução completa. O diagnóstico e o plano para testar a necessidade de um ou dois arquivos estão em [Investigação de carregamento dos PAKs](docs/INVESTIGACAO-CARREGAMENTO-PAK.md).
 
 ## Para colaboradores e mantenedores
 

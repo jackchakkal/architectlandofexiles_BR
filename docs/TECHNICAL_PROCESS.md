@@ -2,9 +2,9 @@
 
 Este documento descreve a estrutura da tradução instalada, como extrair e editar as tabelas, como gerar os arquivos `.pak`, como instalá-los e como reverter a instalação. O procedimento foi preparado para Windows/PowerShell.
 
-## Estado desta versão
+## Estado técnico e cautela de distribuição
 
-- Versão preparada: `v12-corrections` (snapshot e PAKs validados; instalação ainda pendente). O pacote instalado anteriormente é a v11.
+- Snapshot de tradução: `v12-corrections` (227 CSVs auditados). Dois PAKs foram preparados e instalados temporariamente em 2026-09-27, mas o teste com apenas o PAK de override traduziu somente a tela inicial. O jogo foi então restaurado ao estado limpo. A distribuição v12 está bloqueada até a investigação em `docs/INVESTIGACAO-CARREGAMENTO-PAK.md` concluir a matriz de testes.
 - Ferramenta de PAK: `repak_cli 0.2.3`, código-fonte em `work/repak` e executável em `work/repak/target/release/repak.exe`.
 - O pacote principal contém 6.749 arquivos; o pacote de localização contém 227 tabelas CSV.
 - Os dois arquivos usam formato Unreal PAK V11, índice criptografado, mount point `../../../` e path hash seed `E92532A4`.
@@ -12,15 +12,16 @@ Este documento descreve a estrutura da tradução instalada, como extrair e edit
 - Os arquivos preparados estão em `outputs/v12-corrections/pakchunk0-Windows-ptbr.pak` e `outputs/v12-corrections/pakchunk9999-Windows_1_P-ptbr.pak`.
 - SHA-256 do pacote principal v12: `91c7e1993d51d36cd028886e75edc529aa6faf477a5a8f31e58347526bfc79b1`.
 - SHA-256 do pacote de localização v12: `2711910e4b57b5d57a26d81cdf2d2256cab851b357786fd9ab3ece86de50c197`.
-- Cópias de segurança imediatamente anteriores à instalação estão em `work/backups/*before-v11-quality.pak`.
+- Backups de testes e originais estão em `work/backups/`; confira os hashes e leia o manifesto antes de restaurar qualquer arquivo.
 - A auditoria reproduzível da v12 está em `docs/AUDIT-v12.json`; o resumo está em `releases/v12-corrections/manifest.json`.
-- O manifesto da v12 preparada está em `releases/v12-corrections/manifest.json`. Os arquivos v12 foram instalados em 2026-09-27 e os hashes nos destinos foram conferidos contra o manifesto.
+- O manifesto da v12 preparada está em `releases/v12-corrections/manifest.json`. Ele registra os hashes dos PAKs de manutenção; eles não são um pacote de jogador validado.
 
 ## Aplicativos e dependências
 
 - Windows e PowerShell (os exemplos usam caminhos e comandos PowerShell).
 - Python 3.11 ou compatível; os scripts usam a biblioteca padrão, sem pacote Python adicional.
 - `repak_cli 0.2.3` para manipular os PAKs.
+- `tools/locres_export.py` exporta recursos binários LocRes UE v0–v3 para CSV/JSON na investigação de strings fora das tabelas CSV customizadas.
 - Rust/Cargo somente se precisar compilar o repak a partir do código-fonte. Na pasta `work/repak`, execute `cargo build --release -p repak_cli`; o executável será `work/repak/target/release/repak.exe`.
 - Não é necessário abrir o Unreal Editor para editar essas tabelas CSV.
 - O jogo foi compilado com Unreal Engine 5.5 (indicado pelo relatório de crash fornecido); seus arquivos PAK usam versão V11. Confirme a versão do PAK com `repak info` depois de atualizações do jogo.
@@ -36,8 +37,8 @@ Este documento descreve a estrutura da tradução instalada, como extrair e edit
 | `work/download-pak0-full-v11/` | Árvore completa de 6.749 arquivos que forma o pacote principal. Foi derivada da árvore integral v10 e recebeu as tabelas PT-BR v11. |
 | `work/v12-override/` | Árvore de 227 tabelas para o pacote de localização de prioridade alta. Recebe as mesmas tabelas v11. |
 | `outputs/` | PAKs preparados, antes de instalá-los no jogo. |
-| `H:\Games\Architect\ProjectTT\Saved\PersistentDownloadDir\DownloadContent\pakchunk0-Windows.pak` | Destino do pacote principal instalado. |
-| `H:\Games\Architect\ProjectTT\Content\Paks\pakchunk9999-Windows_1_P.pak` | Destino do pacote de localização com prioridade alta. |
+| `ProjectTT/Saved/PersistentDownloadDir/DownloadContent/pakchunk0-Windows.pak` | Destino experimental do pacote principal; a versão preparada é uma cópia integral da árvore do jogo com as tabelas editadas. Não substituir o original sem backup verificado. |
+| `ProjectTT/Content/Paks/pakchunk9999-Windows_1_P.pak` | Destino experimental do PAK com as tabelas de localização de prioridade alta. Sozinho, não traduziu toda a interface. |
 
 Os CSVs permanecem no diretório `L10N/en` porque esse é o caminho de localização usado pelo pacote original e pela instalação atual. O jogo carrega os textos dessas tabelas em runtime.
 
@@ -131,7 +132,7 @@ As correções históricas da v11 foram preparadas por um script local que depen
 
 ### 2. Sincronizar as duas árvores de empacotamento
 
-O jogo usa os dois PAKs instalados. A mesma tabela deve ser incluída nos dois, para que um pacote antigo não sobrescreva a correção do outro.
+O fluxo de manutenção gera os dois PAKs com as mesmas tabelas, mas ainda não está demonstrado que ambos sejam indispensáveis. O teste com o PAK de prioridade alta sozinho traduziu a tela inicial e deixou telas de jogo em inglês; não se pode atribuir esse resultado só à ordem de montagem, pois há lacunas no snapshot e possível carregamento tardio de conteúdo. Veja `docs/INVESTIGACAO-CARREGAMENTO-PAK.md` antes de instalar ou recomendar qualquer pacote.
 
 ```powershell
 @'
@@ -280,20 +281,20 @@ A chave AES é necessária para extração e empacotamento. Neste checkout ela f
 
 ## Incidentes e causa raiz já encontrados
 
-- Uma tradução antiga ficou parcialmente ativa porque só o PAK de prioridade alta havia sido atualizado; `pakchunk0-Windows.pak` ainda continha as tabelas anteriores. A v11 agora substitui o par de arquivos. Ao lançar uma nova versão, sempre construa e instale ambos.
+- Em testes históricos, foi observada uma tradução parcial quando o conteúdo do PAK principal e o do override não estavam na mesma versão. Isso justifica manter versões e hashes sincronizados, mas não prova que o jogador precise instalar dois PAKs. O teste mais recente com um override sozinho também foi parcial; as hipóteses restantes estão em `docs/INVESTIGACAO-CARREGAMENTO-PAK.md`.
 - Uma checagem anterior olhava apenas para a coluna `Item_Name.Name`. Títulos montados dinamicamente também incorporam `ParamN`; 126 desses fragmentos ainda estavam traduzidos. A correção restaura os fragmentos referenciados pelo template original.
 - Uma checagem da torre não reconhecia o apóstrofo curvo `’` nem marcação que dividia as palavras por tags. A correção foi comparada com cada célula-fonte e conferida após extrair o PAK instalado.
-- O primeiro PAK de correção usou chave AES errada e foi rejeitado pelo Unreal como índice corrompido. Os pacotes instalados atualmente foram lidos e extraídos com a chave confirmada; não reutilize o PAK rejeitado que está em `work/backups/pakchunk9999-Windows_1_P-rejected-v10.pak`.
+- O primeiro PAK de correção usou uma chave AES errada e foi rejeitado pelo Unreal como índice corrompido. Não reutilize o PAK rejeitado que está em `work/backups/pakchunk9999-Windows_1_P-rejected-v10.pak`; os PAKs v12 de manutenção foram lidos e extraídos com a chave confirmada.
 
 
 ## Registro detalhado da v12-corrections
 
 - Snapshot novo: `translations/v12-corrections/ProjectTT/Content/TT/Data/CSV/L10N/en/`, preservando os 227 CSVs; `v0-upload` até `v11-quality` permanecem intactos. O diff célula a célula fica em `changes/v11-to-v12-corrections/changes.json`.
 - Foram corrigidos placeholders ausentes/duplicados em descrições, tags de cor quebradas em diálogos e tutoriais, nomes de interface que estavam vazios, nomes de categorias/ações e uma série de parâmetros dinâmicos. `Skill` e `Codex` permanecem em inglês. Nomes próprios de itens continuam originais; a descrição do acessório expande os parâmetros em português, mas o título e os parâmetros que formam título foram conferidos separadamente.
-- Auditoria contra as tabelas originais: 227 tabelas encontradas; 0 IDs ausentes/novos; 0 traduções vazias em campos não vazios; 0 divergências de placeholders/tags verificadas; 0 alterações em nomes/templates/parâmetros de títulos de itens; 0 menções encontradas com `Giant's Tower` traduzido. O relatório registra 10 candidatos de `left`; os 10 foram revistos como uso direcional (botão à esquerda, instruções de virar e referências à esquerda/direita), não como contador de tempo.
+- Auditoria contra as tabelas originais: 227 tabelas encontradas; 0 IDs ausentes/novos; 0 traduções vazias em campos não vazios; 0 divergências de placeholders/tags verificadas; 0 alterações em nomes/templates/parâmetros de títulos de itens; 0 menções encontradas com `Giant's Tower` traduzido. O relatório contém dez alertas de busca por `left`; o alerta não classifica sozinho o significado. Foram conferidos exemplos direcionais e contadores; chaves de tempo/quantidade restantes usam “restante(s)”, como `AUCTION_MENU_LEFTTIME`, `CLAN_EXCHANGE_LEFT_TIME`, `CLAN_RESEARCH_TOGGLE_ACTIVATE_LEFT_TIME`, `COMMON_LEFT` e `COMMON_LEFT_TIME`.
 - Os 227 CSVs do PAK override recém-construído foram extraídos novamente para `work/validate-v12b/` e os hashes dos bytes de todos coincidiram com o snapshot v12. `repak info` confirmou 6.749 entradas no pacote principal e 227 no override; ambos V11, índice criptografado, mount `../../../`, seed `E92532A4`; compressão Zlib no principal e None no override.
-- Arquivos prontos: `outputs/v12-corrections/pakchunk0-Windows-ptbr.pak` e `outputs/v12-corrections/pakchunk9999-Windows_1_P-ptbr.pak`. Hashes completos e tamanhos em `releases/v12-corrections/manifest.json`. Os PAKs não são publicados no GitHub; podem conter dados do jogo e são grandes.
-- **Estado de instalação:** v12 instalada em 2026-09-27. Os PAKs do jogo coincidem com os arquivos preparados pelos hashes SHA-256 do manifesto. Backups anteriores preservados em `work/backups/pakchunk0-Windows-20260927-014418.pak` e `work/backups/pakchunk9999-Windows_1_P-20260927-014418.pak`.
+- Arquivos de manutenção preparados: `outputs/v12-corrections/pakchunk0-Windows-ptbr.pak` e `outputs/v12-corrections/pakchunk9999-Windows_1_P-ptbr.pak`. Não são downloads para jogadores; hashes e tamanhos estão no manifesto.
+- **Estado de instalação:** instalação local limpa depois do teste do override único. Backups dos arquivos instalados temporariamente e do PAK original estão em `work/backups/clean-test-20260927/` e `work/backups/download-pakchunk0-Windows-original-before-v5.pak`. Confirme o hash do PAK ativo antes de qualquer nova operação.
 
 ## Credencial AES: continuidade segura
 

@@ -7,9 +7,9 @@ Cada pasta `translations/vN-.../` preserva um snapshot completo e imutável. As 
 - 227 tabelas; nenhum ID ausente ou novo em comparação à extração original.
 - Auditoria: sem placeholders/tags divergentes, campos traduzíveis vazios, alterações de nome/template/parâmetros de itens ou menções detectadas de Giant's Tower traduzidas.
 - Reparo de tags e placeholders em diálogos, quests, tutoriais e descrições de Skills. Traduções preenchidas em rótulos e ações de interface que estavam vazios. Nomes próprios de itens foram mantidos em inglês para preservar busca no Marketplace.
-- Dez alertas de `left` foram revisados como instruções/referências direcionais; nenhum é contador de tempo restante.
+- A busca automática produziu dez alertas com `left`; a lista contém tanto direções reais quanto contadores restantes. No snapshot v12, chaves de contador como `AUCTION_MENU_LEFTTIME`, `CLAN_EXCHANGE_LEFT_TIME`, `CLAN_RESEARCH_TOGGLE_ACTIVATE_LEFT_TIME`, `COMMON_LEFT` e `COMMON_LEFT_TIME` estão traduzidas com “restante(s)”.
 - Os arquivos v12 foram extraídos do PAK override construído e todos os 227 hashes coincidem com o snapshot.
-- Pacotes instalados em 2026-09-27; hashes conferidos nos dois destinos e backups datados preservados em `work/backups/`.
+- Dois PAKs foram instalados temporariamente em 2026-09-27 e os hashes foram conferidos. Depois, o teste de um único override mostrou tradução apenas na tela inicial. O jogo foi restaurado ao estado limpo; distribuição bloqueada até concluir a investigação documentada em `docs/INVESTIGACAO-CARREGAMENTO-PAK.md`.
 
 ## v11-quality e anteriores
 

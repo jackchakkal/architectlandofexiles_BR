@@ -4,8 +4,8 @@
   "repak": "repak_cli 0.2.3",
   "credential_file": "work/.architect-aes-key (AES-256, 64 hex characters; value intentionally not stored in public repository)",
   "install_paths": {
-    "main": "H:\\Games\\Architect\\ProjectTT\\Saved\\PersistentDownloadDir\\DownloadContent\\pakchunk0-Windows.pak",
-    "override": "H:\\Games\\Architect\\ProjectTT\\Content\\Paks\\pakchunk9999-Windows_1_P.pak"
+    "main": "ProjectTT/Saved/PersistentDownloadDir/DownloadContent/pakchunk0-Windows.pak",
+    "override": "ProjectTT/Content/Paks/pakchunk9999-Windows_1_P.pak"
   },
   "format": {
     "pak_version": "V11",
@@ -18,6 +18,10 @@
     "override_entries": 227
   },
   "files": {
+    "player_download": {
+      "filename": null,
+      "status": "blocked; the single-PAK experiment translated the start screen only and was removed from releases"
+    },
     "main": {
       "filename": "pakchunk0-Windows-ptbr.pak",
       "bytes": 77438792,
@@ -42,6 +46,6 @@
     "override_extraction_matches_all_csv_hashes": true,
     "changed_cells_from_v11": 91
   },
-  "installation_status": "Installed on 2026-09-27. SHA-256 was verified at both destinations. Backups: work/backups/pakchunk0-Windows-20260927-014418.pak and work/backups/pakchunk9999-Windows_1_P-20260927-014418.pak.",
-  "installed_hashes_match_prepared_files": true
+  "installation_status": "The game installation was returned to its clean state after the one-PAK experiment on 2026-09-27. See docs/INVESTIGACAO-CARREGAMENTO-PAK.md.",
+  "installed_hashes_match_prepared_files": false
 }
