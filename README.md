@@ -8,6 +8,10 @@
 
 <p align="center">Tradução comunitária para a versão <strong>Windows do launcher oficial</strong>. Projeto independente, não oficial e feito por fã.</p>
 
+> ### 🎁 Quer apoiar o criador desta tradução?
+>
+> No **Evento de convite de amigo** do jogo, insira o código **`DC9PMZRL`**. Se você for elegível e cumprir as missões do evento, **você e o criador do projeto podem receber recompensas**. É uma forma opcional de reconhecer o trabalho e aproveitar o evento. [Veja onde inserir o código](#apoie-o-projeto-com-o-código-de-amigo).
+
 <p align="center"><a href="https://architect-br.vercel.app/#galeria"><img src="site/images/lena-dialogo.webp" alt="Diálogo com Lena exibido em português no jogo" width="900"></a><br><sub>Diálogo com Lena em português. Clique para abrir a galeria no site.</sub></p>
 
 ## O mundo do jogo, agora mais fácil de acompanhar
@@ -72,6 +76,20 @@ O instalador localiza o jogo, confere o hash do arquivo e copia **um PAK de text
 
 **Compatibilidade:** versão Windows do launcher oficial. Uma atualização do jogo pode exigir nova versão da tradução. Como o jogo é online e usa anticheat, o uso de modificações fica sujeito às regras do serviço; leia os [cuidados antes de instalar](docs/INSTALACAO-PARA-JOGADORES.md#antes-de-começar).
 
+## Apoie o projeto com o código de amigo
+
+A tradução é um trabalho de fã disponibilizado para a comunidade. Se ela tornou sua experiência melhor, você pode ajudar o criador usando **`DC9PMZRL`** no evento de convite do próprio jogo. Quando as condições do evento são atendidas, há recompensas para quem registra o código e para quem convidou.
+
+1. No jogo, abra **Desafio do Arquiteto → Eventos → Evento de convite de amigo**.
+2. Acesse **Detalhes do convite → Insira o código de convite**.
+3. Digite **`DC9PMZRL`**, clique em **Registrar** e confira as missões do evento.
+
+| Evento de convite | Onde registrar o código | Código mostrado no jogo |
+| --- | --- | --- |
+| <a href="site/images/convite-evento.webp"><img src="site/images/convite-evento.webp" alt="Evento de convite de amigo no jogo" width="290"></a> | <a href="site/images/convite-inserir.webp"><img src="site/images/convite-inserir.webp" alt="Tela de inserção do código de convite" width="290"></a> | <a href="site/images/convite-codigo.webp"><img src="site/images/convite-codigo.webp" alt="Código DC9PMZRL na tela do jogo" width="290"></a> |
+
+**Participação opcional.** O evento e suas regras pertencem ao jogo. Disponibilidade, elegibilidade, missões e recompensas podem mudar; confira as condições atuais na própria tela do evento. [O site também explica o passo a passo e permite copiar o código](https://architect-br.vercel.app/#convite).
+
 ## O que permanece em inglês?
 
 Alguns nomes de **itens, monstros, chefes, NPCs, áreas e masmorras** foram preservados para facilitar a busca no Marketplace e a conversa com jogadores de outras regiões. As descrições podem estar traduzidas mesmo quando o nome permanece original. Termos como `Skill`, `Codex` e `Giant's Tower` também são mantidos.
@@ -80,7 +98,7 @@ Textos enviados prontos pelo servidor, textos gravados em imagens e alguns conte
 
 ## Conheça o Architect Atlas
 
-**[Acesse architect-br.vercel.app](https://architect-br.vercel.app/)** para explorar a wiki em português, pesquisar **76 guias**, ampliar as capturas de tela, consultar a página da tradução e entender cada etapa da instalação. O site reúne também [transparência sobre os arquivos](https://architect-br.vercel.app/#transparencia), [feedback sobre a tradução](https://architect-br.vercel.app/#feedback) e um [canal privado de contato](https://architect-br.vercel.app/contato) para colaboração, parcerias ou pedidos de revisão e remoção.
+**[Acesse architect-br.vercel.app](https://architect-br.vercel.app/)** para explorar a wiki em português, pesquisar **76 guias**, ampliar as capturas de tela, consultar a página da tradução e entender cada etapa da instalação. O site reúne também o [código de amigo e as instruções do evento](https://architect-br.vercel.app/#convite), [transparência sobre os arquivos](https://architect-br.vercel.app/#transparencia), [feedback sobre a tradução](https://architect-br.vercel.app/#feedback) e um [canal privado de contato](https://architect-br.vercel.app/contato) para colaboração, parcerias ou pedidos de revisão e remoção.
 
 > **Sua experiência ajuda a próxima versão.** Encontrou uma frase estranha, uma opção cortada ou um trecho em inglês? [Envie uma sugestão pelo site](https://architect-br.vercel.app/#feedback) ou [abra uma Issue](https://github.com/jackchakkal/architectlandofexiles_BR/issues) com a tela e, se possível, uma captura. Para mensagens que não devem ser públicas, use a [página de contato](https://architect-br.vercel.app/contato).
 

@@ -22,5 +22,6 @@ O site não instala nada no computador do visitante. A busca dos guias roda some
 ## Atualização
 
 - Capturas em `images/` foram convertidas das imagens fornecidas pelo jogador para WebP. Capturas repetidas aparecem uma vez.
+- O código de amigo aparece na faixa de `index.html` e `contato.html`, na seção `#convite` e no README da raiz. Revise a disponibilidade do evento e atualize ou remova essas referências quando ele terminar. As três capturas `convite-*.webp` mostram onde registrar o código.
 - `guides.js` contém apenas os 76 guias adaptados do acervo local da wiki. Cada guia oferece link para sua fonte oficial.
 - Atualize links de download e manifestos quando uma nova release for publicada.
