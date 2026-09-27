@@ -12,6 +12,8 @@ Tradução comunitária, não oficial, dos textos do jogo **Architect: Land of E
 
 Guia completo, com o que acontece no seu computador e como remover: [docs/INSTALACAO-PARA-JOGADORES.md](docs/INSTALACAO-PARA-JOGADORES.md).
 
+Se você prefere não executar scripts, o guia mostra como **copiar o PAK manualmente**. A [wiki pública e página da tradução](site/) ficam na pasta `site/`, pronta para publicação na Vercel.
+
 - **O que exatamente o instalador faz** (transparência total): [docs/TRANSPARENCIA.md](docs/TRANSPARENCIA.md)
 - **O que está e o que não está traduzido**: [docs/CONTEUDO-DA-TRADUCAO.md](docs/CONTEUDO-DA-TRADUCAO.md)
 - Erros de tradução, texto cortado, sugestões: abra uma *Issue* com uma captura de tela.

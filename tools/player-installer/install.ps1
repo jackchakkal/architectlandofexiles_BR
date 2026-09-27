@@ -11,6 +11,10 @@ $Release   = Get-Content $ReleaseFile -Raw -Encoding UTF8 | ConvertFrom-Json
 $PakName   = $Release.pak
 $PakSha256 = $Release.sha256.ToUpperInvariant()
 $Version   = $Release.version
+if ($PakName -cne 'pakchunk9999-Windows_21474835_P.pak' -or $PakSha256 -notmatch '^[0-9A-F]{64}$') {
+    Write-Host 'ERRO: release.json contém nome de arquivo ou hash inesperado.' -ForegroundColor Red
+    exit 1
+}
 
 function Write-Title($t){ Write-Host ''; Write-Host "== $t ==" -ForegroundColor Cyan }
 function Fail($m){ Write-Host ''; Write-Host "ERRO: $m" -ForegroundColor Red; Write-Host ''; Read-Host 'Pressione ENTER para sair' | Out-Null; exit 1 }
@@ -55,12 +59,15 @@ Write-Host "Jogo encontrado em: $GameRoot"
 
 Assert-GameClosed
 
-# remove overrides antigos deste projeto (qualquer pakchunk9999-Windows*_P.pak)
-$old = Get-ChildItem $PaksDir -Filter 'pakchunk9999-Windows*_P.pak' -ErrorAction SilentlyContinue
+# Só estes nomes foram usados por este projeto. Nunca apagar por curinga.
+$knownNames = @($PakName, 'pakchunk9999-Windows_1_P.pak')
+$knownFiles = @($knownNames | ForEach-Object { Join-Path $PaksDir $_ } | Where-Object { Test-Path -LiteralPath $_ -PathType Leaf })
 if ($Uninstall) {
     Write-Title 'Removendo a tradução'
-    if (-not $old) { Write-Host 'Nenhum arquivo da tradução encontrado. Nada a fazer.' }
-    foreach ($f in $old) { Remove-Item $f.FullName -Force; Write-Host "Removido: $($f.Name)" }
+    if (-not $knownFiles) { Write-Host 'Nenhum arquivo da tradução encontrado. Nada a fazer.' }
+    foreach ($file in $knownFiles) { Remove-Item -LiteralPath $file -Force; Write-Host "Removido: $(Split-Path -Leaf $file)" }
+    $record = Join-Path $PaksDir 'traducao-ptbr.json'
+    if (Test-Path -LiteralPath $record -PathType Leaf) { Remove-Item -LiteralPath $record -Force; Write-Host 'Removido: traducao-ptbr.json' }
     Write-Host ''; Write-Host 'Pronto. O jogo voltou ao idioma original.' -ForegroundColor Green
     Read-Host 'Pressione ENTER para sair' | Out-Null; exit 0
 }
@@ -73,12 +80,25 @@ if ($h -ne $PakSha256) { Fail "O arquivo $PakName está corrompido ou não é o 
 Write-Host 'Arquivo íntegro (SHA-256 confere).'
 
 Write-Title 'Instalando'
-foreach ($f in $old) { if ($f.Name -ne $PakName) { Remove-Item $f.FullName -Force; Write-Host "Removida versão antiga: $($f.Name)" } }
 $dst = Join-Path $PaksDir $PakName
-$tmp = "$dst.tmp"
-Copy-Item $src $tmp -Force
-if ((Get-FileHash $tmp -Algorithm SHA256).Hash -ne $PakSha256) { Remove-Item $tmp -Force; Fail 'A cópia falhou na verificação. Nada foi alterado.' }
-Move-Item $tmp $dst -Force
+$tmp = "$dst.new"
+$backup = "$dst.previous-$([guid]::NewGuid().ToString('N'))"
+try {
+    Copy-Item -LiteralPath $src -Destination $tmp -Force
+    if ((Get-FileHash -LiteralPath $tmp -Algorithm SHA256).Hash -ne $PakSha256) { throw 'A cópia falhou na verificação.' }
+    if (Test-Path -LiteralPath $dst -PathType Leaf) { Move-Item -LiteralPath $dst -Destination $backup }
+    try { Move-Item -LiteralPath $tmp -Destination $dst }
+    catch {
+        if (Test-Path -LiteralPath $backup -PathType Leaf) { Move-Item -LiteralPath $backup -Destination $dst }
+        throw
+    }
+    if (Test-Path -LiteralPath $backup -PathType Leaf) { Remove-Item -LiteralPath $backup -Force }
+} catch {
+    if (Test-Path -LiteralPath $tmp -PathType Leaf) { Remove-Item -LiteralPath $tmp -Force }
+    Fail $_.Exception.Message
+}
+$legacy = Join-Path $PaksDir 'pakchunk9999-Windows_1_P.pak'
+if (Test-Path -LiteralPath $legacy -PathType Leaf) { Remove-Item -LiteralPath $legacy -Force; Write-Host 'Removida versão antiga deste projeto.' }
 Write-Host "Instalado: $dst"
 [ordered]@{ version=$Version; pak=$PakName; sha256=$PakSha256; installedAt=(Get-Date).ToString('s') } | ConvertTo-Json | Set-Content -Encoding UTF8 (Join-Path $PaksDir 'traducao-ptbr.json')
 

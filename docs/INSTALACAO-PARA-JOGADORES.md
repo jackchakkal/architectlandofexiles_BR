@@ -12,9 +12,15 @@
 2. Extraia o ZIP inteiro em qualquer pasta (Área de Trabalho, Downloads…). Não execute de dentro do ZIP.
 3. Feche o jogo e o launcher.
 4. Dê dois cliques em **`Instalar-Traducao-PTBR.bat`**.
-   - O Windows pode mostrar o aviso "SmartScreen" por ser um script sem assinatura digital. Clique em *Mais informações* → *Executar assim mesmo*. Se preferir, leia o `install.ps1` antes — é texto puro.
+   - O Windows pode mostrar o aviso "SmartScreen" por ser um script sem assinatura digital. Leia o `install.ps1` antes de decidir executá-lo; é texto puro. Se preferir, use a instalação manual abaixo.
    - O instalador procura a pasta do jogo sozinho. Se não encontrar, cole o caminho da pasta que contém `Architect.exe` (por exemplo `H:\Games\Architect`).
 5. Abra o jogo. No seletor de idioma, escolha **Português (Brasil)** (é a posição que antes era "English").
+
+### Instalação manual, sem executar scripts
+
+1. Feche o jogo e extraia o ZIP completo.
+2. Copie **somente** `pakchunk9999-Windows_21474835_P.pak` para `ProjectTT\Content\Paks\` dentro da pasta do jogo (a pasta que contém `Architect.exe`). Se o Windows perguntar se deve substituir uma versão anterior com esse mesmo nome, confirme apenas se ela for da tradução deste projeto.
+3. Abra o jogo e escolha **Português (Brasil)**. Para remover, feche o jogo e apague esse PAK da pasta `Paks`.
 
 ## Remover
 

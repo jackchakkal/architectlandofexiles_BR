@@ -12,7 +12,7 @@ Este repositório contém dois tipos de conteúdo com licenças diferentes.
    Este projeto não tem vínculo com a desenvolvedora nem com a publisher e não reivindica direitos
    sobre esse material. A pedido dos detentores, o conteúdo será removido.
 
-2. FERRAMENTAS E SCRIPTS (pasta tools/ e docs/)
+2. FERRAMENTAS, SCRIPTS E CÓDIGO DO SITE (pastas tools/, docs/ e código em site/)
    Licença MIT
 
    Copyright (c) 2026 Jack Chakkal e colaboradores
@@ -31,3 +31,8 @@ Este repositório contém dois tipos de conteúdo com licenças diferentes.
    NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
    DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+3. CAPTURAS DE TELA E CONTEÚDO DO JOGO (site/images/ e referências do jogo)
+   As capturas foram fornecidas pelo jogador para ilustrar este projeto de fãs.
+   A licença MIT do código do site não concede direitos sobre personagens,
+   imagens, marcas ou textos originais do jogo, que pertencem aos titulares.

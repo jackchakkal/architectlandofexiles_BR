@@ -9,6 +9,11 @@ COMO INSTALAR
    da pasta que contém Architect.exe (exemplo: H:\Games\Architect).
 4. Abra o jogo. Pronto.
 
+SEM EXECUTAR SCRIPTS
+Com o jogo fechado, copie somente pakchunk9999-Windows_21474835_P.pak
+para <pasta do jogo>\ProjectTT\Content\Paks\. Para remover, apague
+esse mesmo arquivo. O guia completo está no repositório do projeto.
+
 COMO REMOVER
 Dê dois cliques em "Desinstalar-Traducao-PTBR.bat". O jogo volta ao original.
 
