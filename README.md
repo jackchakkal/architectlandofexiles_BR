@@ -2,9 +2,9 @@
 
 <p align="center"><strong>Tradução de fãs para explorar, lutar e acompanhar a história entendendo o que aparece na tela.</strong></p>
 
-<p align="center"><strong>137.224 células de texto traduzidas</strong> · <strong>227 tabelas</strong> · <strong>um arquivo de tradução de ~12 MB</strong></p>
+<p align="center"><strong>131.948 células de texto traduzidas</strong> · <strong>227 tabelas</strong> · <strong>um arquivo de tradução de ~12 MB</strong></p>
 
-<p align="center"><a href="https://github.com/jackchakkal/architectlandofexiles_BR/releases/download/v13/Architect-PTBR-v13.zip"><strong>⬇️ Baixar a tradução v13</strong></a> · <a href="https://architect-br.vercel.app/"><strong>🌐 Conhecer o site e a wiki</strong></a> · <a href="docs/INSTALACAO-PARA-JOGADORES.md"><strong>📖 Guia de instalação</strong></a></p>
+<p align="center"><a href="https://github.com/jackchakkal/architectlandofexiles_BR/releases/download/v14/Architect-PTBR-v14.zip"><strong>⬇️ Baixar a tradução v14</strong></a> · <a href="https://architect-br.vercel.app/"><strong>🌐 Conhecer o site e a wiki</strong></a> · <a href="docs/INSTALACAO-PARA-JOGADORES.md"><strong>📖 Guia de instalação</strong></a></p>
 
 <p align="center">Tradução comunitária para a versão <strong>Windows do launcher oficial</strong>. Projeto independente, não oficial e feito por fã.</p>
 
@@ -16,7 +16,7 @@
 
 ## O mundo do jogo, agora mais fácil de acompanhar
 
-Missões, diálogos, objetivos, tutoriais, descrições e boa parte da interface podem ser lidos em português do Brasil. A tradução foi construída sobre **128.598 registros em 227 tabelas de texto**, com **137.224 células traduzidas** na versão v13. O pacote para jogadores vem em um ZIP de cerca de **1,7 MB**; depois de extraído, o arquivo PAK de tradução tem cerca de **12 MB**.
+Missões, diálogos, objetivos, tutoriais, descrições e boa parte da interface podem ser lidos em português do Brasil. A tradução foi construída sobre **128.598 registros em 227 tabelas de texto**, com **131.948 células traduzidas** na versão v14. O pacote para jogadores vem em um ZIP de cerca de **1,7 MB**; depois de extraído, o arquivo PAK de tradução tem cerca de **12 MB**.
 
 | Área | O que você encontra em português |
 | --- | --- |
@@ -26,7 +26,7 @@ Missões, diálogos, objetivos, tutoriais, descrições e boa parte da interface
 | **Exploração e atividades** | Mapas, masmorras, Rift, comissões, clã, tutoriais e descrições de conteúdo. |
 | **Itens e recompensas** | Descrições de itens, trajes, lojas, coleções e conquistas. |
 
-Veja a [lista detalhada de cobertura e limitações](docs/CONTEUDO-DA-TRADUCAO.md). A v13 corrigiu rótulos que estouravam a interface e traduziu mais de quatro mil células que ainda estavam em inglês. A tradução continua recebendo correções com base nas telas enviadas pelos jogadores.
+Veja a [lista detalhada de cobertura e limitações](docs/CONTEUDO-DA-TRADUCAO.md). A **v14** mantém nomes de Skills, itens e masmorras em inglês em todas as menções, facilitando a correspondência com livros de Skill, buscas e nomes exibidos no jogo. Descrições, objetivos e instruções continuam em português. Foram ajustadas **5.970 células** em relação à v13; a contagem de células traduzidas caiu porque nomes próprios voltaram ao original de propósito. A tradução continua recebendo correções com base nas telas enviadas pelos jogadores.
 
 ## Veja a tradução dentro do jogo
 
@@ -61,7 +61,7 @@ As 15 imagens abaixo são capturas reais do projeto. Elas mostram tanto a abrang
 
 ## Instale e jogue em português
 
-1. [**Baixe o ZIP da v13**](https://github.com/jackchakkal/architectlandofexiles_BR/releases/download/v13/Architect-PTBR-v13.zip) e extraia todos os arquivos.
+1. [**Baixe o ZIP da v14**](https://github.com/jackchakkal/architectlandofexiles_BR/releases/download/v14/Architect-PTBR-v14.zip) e extraia todos os arquivos.
 2. Feche o jogo e o launcher. Execute **`Instalar-Traducao-PTBR.bat`** na pasta extraída.
 3. Abra o jogo e selecione **Português (Brasil)** no lugar da opção “English”.
 
@@ -70,8 +70,8 @@ O instalador localiza o jogo, confere o hash do arquivo e copia **um PAK de text
 | Quer conferir antes de instalar? | Acesso direto |
 | --- | --- |
 | Ler exatamente o que o instalador faz | [Explicação simples](docs/TRANSPARENCIA.md) · [Código do instalador](tools/player-installer/install.ps1) |
-| Conferir a versão e a integridade | [Manifesto v13 e hashes SHA-256](releases/v13/manifest.json) |
-| Ver os textos e propor correções | [Tabelas traduzidas da v13](translations/v13/) · [Glossário e regras](docs/GLOSSARIO-E-REGRAS.md) |
+| Conferir a versão e a integridade | [Manifesto v14 e hashes SHA-256](releases/v14/manifest.json) |
+| Ver os textos e propor correções | [Tabelas traduzidas da v14](translations/v14/) · [Glossário e regras](docs/GLOSSARIO-E-REGRAS.md) |
 | Entender por que o arquivo funciona | [Como o jogo carrega a tradução](docs/COMO-A-TRADUCAO-E-CARREGADA.md) |
 
 **Compatibilidade:** versão Windows do launcher oficial. Uma atualização do jogo pode exigir nova versão da tradução. Como o jogo é online e usa anticheat, o uso de modificações fica sujeito às regras do serviço; leia os [cuidados antes de instalar](docs/INSTALACAO-PARA-JOGADORES.md#antes-de-começar).
@@ -104,7 +104,7 @@ Textos enviados prontos pelo servidor, textos gravados em imagens e alguns conte
 
 ## Para quem quer colaborar
 
-As tabelas publicadas em [`translations/v13/`](translations/v13/) podem ser revisadas por qualquer pessoa. As versões preservam seus próprios snapshots; alterações ficam documentadas em [`changes/`](changes/). O [processo técnico](docs/TECHNICAL_PROCESS.md) descreve extração, comparação depois de atualizações, auditoria e criação do PAK. A chave AES usada na manutenção do pacote não é publicada neste repositório.
+As tabelas publicadas em [`translations/v14/`](translations/v14/) podem ser revisadas por qualquer pessoa. As versões preservam seus próprios snapshots; alterações ficam documentadas em [`changes/`](changes/). O [processo técnico](docs/TECHNICAL_PROCESS.md) descreve extração, comparação depois de atualizações, auditoria e criação do PAK. A chave AES usada na manutenção do pacote não é publicada neste repositório.
 
 ## Projeto de fãs, sem vínculo oficial
 
