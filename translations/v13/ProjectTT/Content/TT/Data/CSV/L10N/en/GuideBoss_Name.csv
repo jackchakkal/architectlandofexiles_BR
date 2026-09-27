@@ -1,0 +1,63 @@
+﻿Id,PlaceName,Name,Description,ContentsShortButtonText
+BossCategory1_WorldBoss1,Scything Barrens,Ancient Monster Behemoth,do Demônio Antigo Ancient Giant Besta,Verifique a localização
+BossCategory1_WorldBoss2,Giant's Garden,Shahgar The King of Greed,Rei das Plantas Parasitas Sencientes,Verifique a localização
+BossCategory1_WorldBoss22,Giant's Garden,Desolator Shahgal,Cataclismo Carmesim,Verifique a localização
+BossCategory1_WorldBoss3,Pulsing Ridge,"Agarash, The Wings of Ruin",Sky Sovereign que está no ápice dos Wyverns,Verifique a localização
+BossCategory1_WorldBoss33,Pulsing Ridge,Agarash the Desolator,Chama inabalável,Verifique a localização
+BossCategory1_WorldBoss4,Starfall Plateau,"Dariente, The Immortal Winter Lord",O absoluto que respira nos campos de neve silenciosos,Verifique a localização
+BossCategory3_GuardianBoss1,Giant's Tower 1F,Gishkal the Lava Fist,Guardião do 1º andar da Giant's Tower,Vá para a Giant's Tower
+BossCategory3_GuardianBoss2,Giant's Tower 2F,Halpasiam the Frozen Blade,Guardião do 2º andar da Giant's Tower,Vá para a Giant's Tower
+BossCategory3_GuardianBoss3,Giant's Tower 3F,Drugamu the Thunder Mace,Guardião do 3º andar da Giant's Tower,Vá para a Giant's Tower
+BossCategory3_GuardianBoss4,Giant's Tower 4F,Farseer Arcanon,Guardião da Giant's Tower 4F,Vá para a Giant's Tower
+BossCategory4_Sector1_FieldBoss1,Gorge of Perdition,Black Reaper Karugura,,Verifique a localização
+BossCategory4_Sector2_FieldBoss1,Kuduru's Domain,Red Mane Tagar,,Verifique a localização
+BossCategory4_Sector3_FieldBoss1,Ember-Choke Grove,Infected Beast King Gigas,,Verifique a localização
+BossCategory4_Sector3_FieldBoss2,Hallowed Obsidian Mountain,Storm Spear Urukur,,Verifique a localização
+BossCategory4_Sector4_FieldBoss1,Gray Forest,Mushugal The Fallen,,Verifique a localização
+BossCategory4_Sector4_FieldBoss2,White Stag's Cradle,Landslide Kirzhur,,Verifique a localização
+BossCategory4_Sector1_FieldBoss2,Shrieking Vale,Entrail Harvester Shagriga,,Verifique a localização
+BossCategory4_Sector1_FieldBoss3,Red Rock Garden,Iron Queen Ereshianna,,Verifique a localização
+BossCategory4_Sector1_FieldBoss4,Red Plains,Sand King Sahar-Unugar,,Verifique a localização
+BossCategory4_Sector2_FieldBoss2,Forsaken Mine,Ashen Butcher Daedalkur,,Verifique a localização
+BossCategory4_Sector2_FieldBoss3,Hallowed Mana-Sanctum,Blue Lightning Saurgir,,Verifique a localização
+BossCategory4_Sector2_FieldBoss4,Wyvern’s Nest,Blood Queen Galarusia,,Verifique a localização
+BossCategory4_Sector3_FieldBoss3,Thunderfall Ridges,Sun Devourer Alruk,,Verifique a localização
+BossCategory4_Sector3_FieldBoss4,Ruins of the Forgotten Kingdom,Dark Fangs Kakaju,,Verifique a localização
+BossCategory4_Sector3_FieldBoss5,Flay-Stone Reef,Dancing Death Lugaz,,Verifique a localização
+BossCategory4_Sector4_FieldBoss3,Shrill-Whistle Coast,Corrupt Tyrant Gnumar,,Verifique a localização
+BossCategory4_Sector4_FieldBoss4,Giant's Refuge,Wings of Death Tilaga,,Verifique a localização
+BossCategory4_Sector4_FieldBoss5,End of the Forsaken Land,"Shagan, The Avatar of Wind",,Verifique a localização
+BossCategory4_Sector5_FieldBoss1,Valley of Beasts,Crimson Stalker Damuradid,,Verifique a localização
+BossCategory4_Sector5_FieldBoss2,Hunter's Platform,Nurbahar the Twilight Hunter,,Verifique a localização
+BossCategory5_InterServer1_MainBoss1,Throne of Ruin,Kagaltus,Overlord of the Abyss,Vá para Abyss Battlefield
+BossCategory5_InterServer1_SubBoss1_1,,Solitary Asura Nergar,O sangue sem fim,Vá para Abyss Battlefield
+BossCategory5_InterServer1_SubBoss1_2,,Solitary Asura Nergar,O sangue sem fim,Vá para Abyss Battlefield
+BossCategory5_InterServer1_SubBoss1_3,,Solitary Asura Nergar,O sangue sem fim,Vá para Abyss Battlefield
+BossCategory5_InterServer1_SubBoss2_1,,Gaping Maw Urmash,Impiedoso Hunter,Vá para Abyss Battlefield
+BossCategory5_InterServer1_SubBoss2_2,,Gaping Maw Urmash,Impiedoso Hunter,Vá para Abyss Battlefield
+BossCategory5_InterServer1_SubBoss2_3,,Gaping Maw Urmash,Impiedoso Hunter,Vá para Abyss Battlefield
+BossCategory5_InterServer1_SubBoss3_1,,Silent Storm Imdugur,Demônio Faminto do Vazio,Vá para Abyss Battlefield
+BossCategory5_InterServer1_SubBoss3_2,,Silent Storm Imdugur,Demônio Faminto do Vazio,Vá para Abyss Battlefield
+BossCategory5_InterServer1_SubBoss3_3,,Silent Storm Imdugur,Demônio Faminto do Vazio,Vá para Abyss Battlefield
+BossCategory5_InterServer1_SubBoss4_1,,Ravenous Calamity Nimgal,O sem ninho,Vá para Abyss Battlefield
+BossCategory5_InterServer1_SubBoss4_2,,Ravenous Calamity Nimgal,O sem ninho,Vá para Abyss Battlefield
+BossCategory5_InterServer1_SubBoss4_3,,Ravenous Calamity Nimgal,O sem ninho,Vá para Abyss Battlefield
+BossCategory5_InterServer1_SubBoss5_1,,Corrupted Sky Udugal,Mestre das Asas Amaldiçoadas,Vá para Abyss Battlefield
+BossCategory5_InterServer1_SubBoss5_2,,Corrupted Sky Udugal,Mestre das Asas Amaldiçoadas,Vá para Abyss Battlefield
+BossCategory5_InterServer1_SubBoss5_3,,Corrupted Sky Udugal,Mestre das Asas Amaldiçoadas,Vá para Abyss Battlefield
+BossCategory5_InterServer2_MainBoss1,Throne of Apocalypse,Kagaltus,Overlord of the Abyss,Vá para Abyss Battlefield
+BossCategory5_InterServer2_SubBoss1_1,,Solitary Asura Nergar,O sangue sem fim,Vá para Abyss Battlefield
+BossCategory5_InterServer2_SubBoss1_2,,Solitary Asura Nergar,O sangue sem fim,Vá para Abyss Battlefield
+BossCategory5_InterServer2_SubBoss1_3,,Solitary Asura Nergar,O sangue sem fim,Vá para Abyss Battlefield
+BossCategory5_InterServer2_SubBoss2_1,,Gaping Maw Urmash,Impiedoso Hunter,Vá para Abyss Battlefield
+BossCategory5_InterServer2_SubBoss2_2,,Gaping Maw Urmash,Impiedoso Hunter,Vá para Abyss Battlefield
+BossCategory5_InterServer2_SubBoss2_3,,Gaping Maw Urmash,Impiedoso Hunter,Vá para Abyss Battlefield
+BossCategory5_InterServer2_SubBoss3_1,,Silent Storm Imdugur,Demônio Faminto do Vazio,Vá para Abyss Battlefield
+BossCategory5_InterServer2_SubBoss3_2,,Silent Storm Imdugur,Demônio Faminto do Vazio,Vá para Abyss Battlefield
+BossCategory5_InterServer2_SubBoss3_3,,Silent Storm Imdugur,Demônio Faminto do Vazio,Vá para Abyss Battlefield
+BossCategory5_InterServer2_SubBoss4_1,,Ravenous Calamity Nimgal,O sem ninho,Vá para Abyss Battlefield
+BossCategory5_InterServer2_SubBoss4_2,,Ravenous Calamity Nimgal,O sem ninho,Vá para Abyss Battlefield
+BossCategory5_InterServer2_SubBoss4_3,,Ravenous Calamity Nimgal,O sem ninho,Vá para Abyss Battlefield
+BossCategory5_InterServer2_SubBoss5_1,,Corrupted Sky Udugal,Mestre das Asas Amaldiçoadas,Vá para Abyss Battlefield
+BossCategory5_InterServer2_SubBoss5_2,,Corrupted Sky Udugal,Mestre das Asas Amaldiçoadas,Vá para Abyss Battlefield
+BossCategory5_InterServer2_SubBoss5_3,,Corrupted Sky Udugal,Mestre das Asas Amaldiçoadas,Vá para Abyss Battlefield

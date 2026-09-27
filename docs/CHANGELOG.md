@@ -2,6 +2,17 @@
 
 Cada pasta `translations/vN-.../` preserva um snapshot completo e imutável. As mudanças entre snapshots ficam em `changes/`.
 
+## v13
+
+- Distribuição refeita: um único PAK de override `pakchunk9999-Windows_21474835_P.pak` em `Content/Paks`, com prioridade acima do conteúdo baixado. Sem substituição do `pakchunk0`; sem conteúdo original do jogo no pacote. Ver `docs/COMO-A-TRADUCAO-E-CARREGADA.md`.
+- Instalador para jogadores (`tools/player-installer/`) e `tools/build_release.ps1`, que gera PAK + `release.json` + ZIP.
+- Total: 4.420 células alteradas (`changes/v12-to-v13/changes.json`).
+- 293 rótulos de `ClientString_Name.csv` encurtados/corrigidos para não estourar a interface (ex.: "Só é possível recuperar na Vila.", "Recuperações grátis restantes: [Count]", "Capacidade de recuperação"); removidas duplicações ("Recompensas da temporada Recompensas da temporada") e resíduos ("perceptível Configurações…", "Slayer"). Lista completa em `changes/v12-to-v13/changes.json`.
+- "Giant's Blessing" padronizado como "Bênção do Gigante" em 6 tabelas (antes "Bênção de Giant" e variações quebradas).
+- `SupportLanguage_Name.csv`: linhas `ko` e `id` restauradas ao original (estavam parcialmente traduzidas); linha `en` exibe "Português (Brasil)" no seletor de idioma e usa "Transferir Servidor" (verbo) em vez de "Servidor de transferência".
+- Novo `tools/check_completeness.py`: usa outra cultura do jogo (zh-CN) como referência para achar células que ficaram iguais ao inglês onde o chinês foi traduzido. Revelou lacunas invisíveis à auditoria antiga; 4.127 células foram traduzidas a partir dessa lista (descrições e níveis de masmorras, balcões da cidade — "Guardião do depósito", "Sacerdote curandeiro" —, 200+ rótulos de UI como "Batalha", "Trocar", "Rolar tudo", títulos de missões e conquistas, efeitos genéricos como "Empurrão"/"Derrubada"). Nomes de modos/sistemas continuam em inglês por convenção (Abyss Battlefield, Monolith War, Powerstone, OOParts, Marketplace…). Restam ~500 títulos de NPC (`Npc_Name.Title`) para revisão.
+- Novos `tools/apply_overrides.py` (snapshot a partir de `overrides.json`, por ID ou por texto, com validação de placeholders/tags), `tools/build_pak.py` (gera o PAK V11 sem repak.exe; validado contra a saída do repak) e `tools/find_overflow_candidates.py`.
+
 ## v12-corrections
 
 - 227 tabelas; nenhum ID ausente ou novo em comparação à extração original.
@@ -9,7 +20,7 @@ Cada pasta `translations/vN-.../` preserva um snapshot completo e imutável. As 
 - Reparo de tags e placeholders em diálogos, quests, tutoriais e descrições de Skills. Traduções preenchidas em rótulos e ações de interface que estavam vazios. Nomes próprios de itens foram mantidos em inglês para preservar busca no Marketplace.
 - A busca automática produziu dez alertas com `left`; a lista contém tanto direções reais quanto contadores restantes. No snapshot v12, chaves de contador como `AUCTION_MENU_LEFTTIME`, `CLAN_EXCHANGE_LEFT_TIME`, `CLAN_RESEARCH_TOGGLE_ACTIVATE_LEFT_TIME`, `COMMON_LEFT` e `COMMON_LEFT_TIME` estão traduzidas com “restante(s)”.
 - Os arquivos v12 foram extraídos do PAK override construído e todos os 227 hashes coincidem com o snapshot.
-- Dois PAKs foram instalados temporariamente em 2026-09-27 e os hashes foram conferidos. Depois, o teste de um único override mostrou tradução apenas na tela inicial. O jogo foi restaurado ao estado limpo; distribuição bloqueada até concluir a investigação documentada em `docs/INVESTIGACAO-CARREGAMENTO-PAK.md`.
+- Em 2026-09-27 o override `_1_P` sozinho traduziu só a tela inicial; o par de PAKs traduziu tudo, mas não era distribuível. A causa (prioridade de montagem) foi identificada e resolvida na v13 com o sufixo `_21474835_P`; ver `docs/COMO-A-TRADUCAO-E-CARREGADA.md`.
 
 ## v11-quality e anteriores
 

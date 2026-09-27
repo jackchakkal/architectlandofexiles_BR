@@ -1,0 +1,29 @@
+﻿TRADUÇÃO PT-BR — Architect: Land of Exiles
+===========================================
+
+COMO INSTALAR
+1. Extraia TODO o conteúdo deste ZIP em uma pasta qualquer.
+2. Feche o jogo e o launcher.
+3. Dê dois cliques em "Instalar-Traducao-PTBR.bat".
+   O instalador localiza o jogo sozinho. Se não encontrar, cole o caminho
+   da pasta que contém Architect.exe (exemplo: H:\Games\Architect).
+4. Abra o jogo. Pronto.
+
+COMO REMOVER
+Dê dois cliques em "Desinstalar-Traducao-PTBR.bat". O jogo volta ao original.
+
+O QUE O INSTALADOR FAZ
+Copia um único arquivo (pakchunk9999-Windows_21474835_P.pak, ~12 MB) para
+<pasta do jogo>\ProjectTT\Content\Paks\. Nenhum arquivo original do jogo é
+modificado; por isso a remoção é simplesmente apagar esse arquivo.
+
+ATUALIZAÇÕES DO JOGO
+Após uma atualização do jogo, textos novos podem aparecer em inglês até
+sairmos com uma nova versão da tradução. Se a tradução sumir por completo,
+basta executar o instalador de novo.
+
+AVISO
+Projeto comunitário, sem vínculo com a desenvolvedora ou a publisher.
+Nomes de itens, monstros, NPCs, chefes e masmorras são mantidos em inglês
+de propósito (busca no Marketplace e comunicação com outros jogadores).
+Reporte erros de tradução em: https://github.com/jackchakkal/architectlandofexiles_BR

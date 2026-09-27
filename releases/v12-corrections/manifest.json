@@ -4,8 +4,8 @@
   "repak": "repak_cli 0.2.3",
   "credential_file": "work/.architect-aes-key (AES-256, 64 hex characters; value intentionally not stored in public repository)",
   "install_paths": {
-    "main": "ProjectTT/Saved/PersistentDownloadDir/DownloadContent/pakchunk0-Windows.pak",
-    "override": "ProjectTT/Content/Paks/pakchunk9999-Windows_1_P.pak"
+    "override": "ProjectTT/Content/Paks/pakchunk9999-Windows_21474835_P.pak",
+    "note": "Desde 2026-09-27 apenas o override é instalado; o pakchunk0 do DownloadContent permanece original. O par principal+override está obsoleto."
   },
   "format": {
     "pak_version": "V11",
@@ -19,13 +19,16 @@
   },
   "files": {
     "player_download": {
-      "filename": null,
-      "status": "not published; the single-PAK experiment was the override only, not the complete v12 installation"
+      "filename": "Architect-PTBR-v12.zip",
+      "contains": "pakchunk9999-Windows_21474835_P.pak (mesmo conteúdo e SHA-256 do override abaixo) + instalador",
+      "pak_sha256": "2711910e4b57b5d57a26d81cdf2d2256cab851b357786fd9ab3ece86de50c197",
+      "status": "testado in-game em 2026-09-27 com DownloadContent original"
     },
     "main": {
       "filename": "pakchunk0-Windows-ptbr.pak",
       "bytes": 77438792,
-      "sha256": "91c7e1993d51d36cd028886e75edc529aa6faf477a5a8f31e58347526bfc79b1"
+      "sha256": "91c7e1993d51d36cd028886e75edc529aa6faf477a5a8f31e58347526bfc79b1",
+      "status": "obsoleto; não distribuir"
     },
     "override": {
       "filename": "pakchunk9999-Windows_1_P-ptbr.pak",

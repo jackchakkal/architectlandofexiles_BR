@@ -1,0 +1,34 @@
+﻿Id,Adventure,DifficultyName,Param
+1,,,
+101,,Level {Param},1
+102,,Level {Param},2
+103,,Level {Param},3
+104,,Level {Param},4
+201,,Level {Param},1
+202,,Level {Param},2
+203,,Level {Param},3
+204,,Level {Param},4
+301,,Level {Param},1
+302,,Level {Param},2
+303,,Level {Param},3
+304,,Level {Param},4
+1101,,Level {Param},1
+1102,,Level {Param},2
+1103,,Level {Param},3
+1011,,Level {Param},1
+1021,,Level {Param},2
+1031,,Level {Param},3
+1041,,Level {Param},4
+2011,,Level {Param},1
+2021,,Level {Param},2
+2031,,Level {Param},3
+2041,,Level {Param},4
+2111,,Level {Param},1
+2121,,Level {Param},2
+2131,,Level {Param},3
+2141,,Level {Param},4
+3011,,Level {Param},1
+3012,,Level {Param},2
+3013,,Level {Param},3
+3014,,Level {Param},4
+4000,,,

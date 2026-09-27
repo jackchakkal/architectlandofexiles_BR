@@ -1,20 +1,15 @@
 # Tradução PT-BR do Architect — procedimento reproduzível
 
-Este documento descreve a estrutura da tradução instalada, como extrair e editar as tabelas, como gerar os arquivos `.pak`, como instalá-los e como reverter a instalação. O procedimento foi preparado para Windows/PowerShell.
+Este documento descreve, para mantenedores, como extrair e comparar as tabelas do jogo, editar a tradução, auditar, gerar o PAK e publicar uma versão. O procedimento foi preparado para Windows/PowerShell. Para o mecanismo de carregamento e os testes que levaram à solução atual, veja [COMO-A-TRADUCAO-E-CARREGADA.md](COMO-A-TRADUCAO-E-CARREGADA.md); para o que o jogador recebe, [TRANSPARENCIA.md](TRANSPARENCIA.md).
 
-## Estado técnico e cautela de distribuição
+## Estado técnico
 
-- Snapshot de tradução: `v12-corrections` (227 CSVs, 128.598 registros, 486.563 células, 368.441 não vazias). O par v12 está aplicado na instalação local e os hashes dos dois destinos coincidem com os PAKs preparados. O teste de um arquivo foi só do override; ele não representa o par completo.
-- Ferramenta de PAK: `repak_cli 0.2.3`, código-fonte em `../work/repak` e executável em `../work/repak/target/release/repak.exe`.
-- O pacote principal contém 6.749 arquivos; o pacote de localização contém 227 tabelas CSV.
-- Os dois arquivos usam formato Unreal PAK V11, índice criptografado, mount point `../../../` e path hash seed `E92532A4`.
-- O pacote principal usa compressão Zlib. O pacote de localização usa entradas sem compressão, como a versão funcional anterior.
-- Os arquivos preparados estão em `../outputs/v12-corrections/pakchunk0-Windows-ptbr.pak` e `../outputs/v12-corrections/pakchunk9999-Windows_1_P-ptbr.pak`.
-- SHA-256 do pacote principal v12: `91c7e1993d51d36cd028886e75edc529aa6faf477a5a8f31e58347526bfc79b1`.
-- SHA-256 do pacote de localização v12: `2711910e4b57b5d57a26d81cdf2d2256cab851b357786fd9ab3ece86de50c197`.
-- Backups de testes e originais estão em `../work/backups/`; confira os hashes e leia o manifesto antes de restaurar qualquer arquivo.
-- A auditoria reproduzível da v12 está em `docs/AUDIT-v12.json`; o resumo está em `releases/v12-corrections/manifest.json`.
-- O manifesto `releases/v12-corrections/manifest.json` registra os hashes preparados e aplicados. Os PAKs não formam ainda um download público: o pacote principal contém conteúdo original do jogo.
+- Snapshot publicado: `v12-corrections` (227 CSVs). Em preparação: `v13` (293 rótulos de interface encurtados + `SupportLanguage_Name.csv` corrigida), gerado por `tools/apply_overrides.py` a partir de `changes/v12-to-v13/overrides.json`.
+- **Distribuição: um único PAK de override**, `pakchunk9999-Windows_21474835_P.pak`, instalado em `ProjectTT/Content/Paks/`. Contém só os 227 CSVs. O método antigo do "par" (substituir o `pakchunk0` do `DownloadContent`) está obsoleto; os scripts ficaram em `tools/legacy/` apenas como histórico.
+- Ferramenta de PAK: `repak_cli 0.2.3` (`../work/repak/target/release/repak.exe`). Formato: Unreal PAK V11, índice criptografado, mount point `../../../`, path hash seed `E92532A4` (decimal 3911529124), entradas sem compressão.
+- Build e empacotamento para jogadores: `tools/build_release.ps1`. Instalação (mantenedor ou jogador): `tools/player-installer/install.ps1`.
+- Auditoria reproduzível: `tools/audit_translation.py`; relatório da v12 em `docs/AUDIT-v12.json`; resumo por versão em `releases/<versão>/manifest.json`.
+- Backups de testes e originais ficam em `../work/backups/` (fora do repositório).
 
 ## Aplicativos e dependências
 
@@ -30,17 +25,16 @@ Este documento descreve a estrutura da tradução instalada, como extrair e edit
 
 | Arquivo ou pasta | Função |
 | --- | --- |
-| `work/.architect-aes-key` | Credencial local AES-256, em 64 caracteres hexadecimais. É necessária para ler e criar estes PAKs. Não publicar, enviar por chat, incluir em documentação compartilhada ou commitar no Git. |
-| `../work/repak/target/release/repak.exe` | Extrai, lista, inspeciona e empacota arquivos `.pak`. |
-| `../work/download-pak0-original/ProjectTT/Content/TT/Data/CSV/L10N/en/` | Cópia de referência das 227 tabelas originais em inglês, extraídas antes das traduções. Serve para comparar IDs, nomes oficiais, parâmetros de nomes, placeholders e texto-fonte. |
-| `translations/v12-corrections/ProjectTT/Content/TT/Data/CSV/L10N/en/` no repositório (snapshot público e fonte local atual) | Tabelas PT-BR finais editáveis. É a fonte do pacote de localização. |
-| `../work/download-pak0-full-v11/` | Árvore completa de 6.749 arquivos que forma o pacote principal; serve de base local e recebe as 227 tabelas v12 durante o build. |
-| `../work/architect-ptbr-pakroot-v11/` | Árvore de 227 tabelas para o pacote de localização de prioridade alta. |
-| `../outputs/v12-corrections/` | PAKs preparados para a instalação local v12. |
-| `ProjectTT/Saved/PersistentDownloadDir/DownloadContent/pakchunk0-Windows.pak` | Destino experimental do pacote principal; a versão preparada é uma cópia integral da árvore do jogo com as tabelas editadas. Não substituir o original sem backup verificado. |
-| `ProjectTT/Content/Paks/pakchunk9999-Windows_1_P.pak` | Destino experimental do PAK com as tabelas de localização de prioridade alta. Sozinho, não traduziu toda a interface. |
+| `work/.architect-aes-key` | Credencial local AES-256 (64 hex). Necessária para ler os PAKs do jogo e gerar o override no formato validado. Nunca publicar. |
+| `../work/repak/target/release/repak.exe` | Extrai, lista, inspeciona e empacota `.pak`. |
+| `../work/download-pak0-original/ProjectTT/Content/TT/Data/CSV/L10N/en/` | Referência dos 227 CSVs originais em inglês da versão em que a tradução foi feita. Base de comparação por ID. |
+| `translations/<versão>/ProjectTT/Content/TT/Data/CSV/L10N/en/` | Snapshot PT-BR. Cada versão é imutável; correções vão para uma pasta nova. |
+| `changes/<de>-to-<para>/overrides.json` | Alterações por ID aplicadas sobre o snapshot anterior (`tools/apply_overrides.py`). `changes.json` é o diff resultante. |
+| `tools/player-installer/` | Instalador para jogadores; entra no ZIP da Release. |
+| `../outputs/<versão>/` | PAK, `release.json` e ZIP gerados pelo build (não versionados). |
+| `ProjectTT/Content/Paks/pakchunk9999-Windows_21474835_P.pak` (no jogo) | Destino do override. Único arquivo que a tradução acrescenta ao jogo. |
 
-Os CSVs permanecem no diretório `L10N/en` porque esse é o caminho de localização usado pelo pacote original e pela instalação atual. O jogo carrega os textos dessas tabelas em runtime.
+Os CSVs permanecem no diretório `L10N/en` porque o jogo não tem entrada para português em `SupportLanguage.csv`; a tradução ocupa a posição do inglês e `SupportLanguage_Name.csv` mostra "Português (Brasil)" no seletor.
 
 ## Credencial AES e acesso por outra IA
 
@@ -128,50 +122,69 @@ Não edite a árvore original. Guarde a cópia limpa das tabelas em `../work/dow
 
 Edite os arquivos em `translations/v12-corrections/ProjectTT/Content/TT/Data/CSV/L10N/en/` no repositório (snapshot público e fonte local atual). Cada tabela contém IDs e tipos de texto diferentes; não renomeie tabelas ou colunas.
 
-As correções históricas da v11 foram preparadas por um script local que dependia de arquivos de pesquisa não publicados; esse script não faz parte do repositório e não é necessário para continuar. Para reproduzir o estado atual, use o snapshot v12 versionado e confira o diff de 91 células em `changes/v11-to-v12-corrections/changes.json`. Para versões futuras, o fluxo reproduzível está nos scripts `tools/compare_localization.py`, `tools/merge_updated_tables.py`, `tools/audit_translation.py` e `tools/build_translation_paks.ps1`.
+As correções históricas da v11 foram preparadas por um script local que dependia de arquivos de pesquisa não publicados; esse script não faz parte do repositório e não é necessário para continuar. Para reproduzir o estado atual, use o snapshot v12 versionado e confira o diff de 91 células em `changes/v11-to-v12-corrections/changes.json`. Para versões futuras, o fluxo reproduzível está nos scripts `tools/compare_localization.py`, `tools/merge_updated_tables.py`, `tools/audit_translation.py`, `tools/apply_overrides.py` e `tools/build_release.ps1`.
 
-### 2. Preparar o par
+### 2. Gerar um snapshot novo a partir de overrides
 
-O script de build cria duas árvores temporárias a partir de uma só fonte de CSV. Não sincronize tabelas manualmente: assim se evita empacotar a v12 em um PAK e deixar o outro com uma revisão antiga. A árvore completa original tem de estar em `../work/download-pak0-full-v11/`; a saída `../work/build-v12/` e `../outputs/v12-corrections/` ficam fora do clone e não são versionadas.
-
-## Empacotamento
-
-Use o script versionado `tools/build_translation_paks.ps1`, que por padrão lê a árvore completa local, usa o snapshot v12 e gera os dois PAKs em `../outputs/v12-corrections/`. A chave AES local e o executável repak não entram no repositório. Para reproduzir o build a partir da raiz do clone:
+Não edite `translations/vN/` publicado. Registre as mudanças em `changes/vN-to-vM/overrides.json` (`{"Tabela.csv": {"ID": "novo texto"}}`) e gere o snapshot:
 
 ```powershell
-pwsh -File tools/build_translation_paks.ps1
+python tools/apply_overrides.py --base translations/v12-corrections --overrides changes/v12-to-v13/overrides.json `
+  --source ..\work\download-pak0-original --out translations/v13 --report changes/v12-to-v13/changes.json
 ```
 
-O script empacota o principal com Zlib e o override sem compressão, em V11, mount `../../../` e seed decimal `3911529124` (`E92532A4`). A inclusão de `--aes-key` cria o índice criptografado.
+O script só altera a coluna de valor, preserva BOM/CRLF/IDs e falha se placeholders ou tags do novo texto não coincidirem com o inglês. Para tabelas com várias colunas de texto, edite o CSV do snapshot novo diretamente e registre no changelog.
 
-## Validação antes da instalação
-
-Inspecione ambos os arquivos e confirme V11, índice criptografado, seed `E92532A4`, mount point `../../../`, 6.749 entradas no pacote principal e 227 no override:
+## Empacotamento e pacote para jogadores
 
 ```powershell
-$key = (Get-Content work/.architect-aes-key -Raw).Trim()
-..\work\repak\target\release\repak.exe --aes-key $key info ..\outputs\v12-corrections\pakchunk0-Windows-ptbr.pak
-..\work\repak\target\release\repak.exe --aes-key $key info ..\outputs\v12-corrections\pakchunk9999-Windows_1_P-ptbr.pak
-Remove-Variable key
+pwsh -File tools/build_release.ps1 -Version v13 -TranslationRoot translations/v13
 ```
 
-Extraia pelo menos `Item_Name.csv`, `QuestTask_Name.csv`, `TutorialWalkthrough_Name.csv`, `Dialog_Name.csv` e `ClientString_Name.csv` dos PAKs preparados. Compare os arquivos extraídos com a árvore `architectlandofexiles_BR/translations/v12-corrections/`. Confira também:
+Sem repak.exe (ou em Linux/macOS), o PAK pode ser gerado por `tools/build_pak.py --input <pasta com ProjectTT/...> --output <pak> --key-file <chave>`; ele reproduz o formato do repak (V11, índice criptografado, sem compressão) e foi validado contra a saída do repak entrada por entrada. Nesse caso monte `release.json` e o ZIP manualmente (ver `releases/v13/manifest.json` para os campos).
 
-- todos os campos `Item_Name.Name` e os `ParamN` referenciados nesses nomes coincidem com o original;
-- as menções à torre usam `Giant's Tower`;
-- os nomes oficiais de monstros, chefes, NPCs e masmorras foram preservados;
-- contadores usam “restante(s)” nos contextos de tempo/quantidade;
-- placeholders e tags estão presentes e balanceados.
+Gera em `../outputs/v13/`: o PAK (`pakchunk9999-Windows_21474835_P.pak`, V11, mount `../../../`, seed `E92532A4`, índice criptografado, sem compressão), `release.json` (versão + SHA-256, lido pelo instalador) e `Architect-PTBR-v13.zip` com o instalador. O script imprime os hashes do PAK e do ZIP para a Release.
+
+O nome do PAK importa: `pakchunk9999` (número inexistente no jogo) e `_21474835_P` (prioridade acima do conteúdo baixado). Não renomeie.
+
+## Fila de rótulos longos (estouro de tela)
+
+`tools/find_overflow_candidates.py` compara o comprimento de cada célula com o inglês e lista rótulos curtos que cresceram demais:
+
+```powershell
+python tools/find_overflow_candidates.py --source ..\work\download-pak0-original --translation translations/v13 --out ..\work\overflow-candidates.json
+```
+
+Revise a lista, escreva as versões curtas em `changes/<de>-to-<para>/overrides.json` e gere o snapshot com `apply_overrides.py`. Regras de estilo em `GLOSSARIO-E-REGRAS.md`.
+
+## Completude por cruzamento com outra cultura
+
+O jogo traz as mesmas tabelas em `zh-CN`, `zh-TW`, `id`, `th`, `jp`. Uma célula em que o PT-BR continua igual ao inglês, mas o chinês difere do inglês, é provavelmente uma lacuna (ou um nome mantido de propósito). `tools/check_completeness.py` lista essas células por tabela/coluna:
+
+```powershell
+python tools/check_completeness.py --game-l10n ..\work\download-pak0-full-v11\ProjectTT\Content\TT\Data\CSV\L10N `
+  --en-dir ..\work\download-pak0-original\ProjectTT\Content\TT\Data\CSV\L10N\en --translation translations/v13 --out ..\work\completeness.json
+```
+
+Passe `--en-dir` com o inglês ORIGINAL (a árvore extraída pode já conter a tradução no lugar de `en`). Colunas de nomes próprios (`Item_Name.Name`, `Npc_Name.Name`, masmorras, áreas) são ignoradas. Traduza as lacunas reais com a seção `__by_text__` do `overrides.json` (um texto em inglês → um texto PT-BR, aplicado em todas as células idênticas daquela coluna).
+
+## Validação antes de publicar
+
+1. `repak --aes-key <chave> info` no PAK gerado: V11, índice criptografado, seed `E92532A4`, mount `../../../`, 227 entradas.
+2. Extraia o PAK (`repak unpack`) e compare os 227 CSVs byte a byte com o snapshot.
+3. `python tools/audit_translation.py --source <en original> --translation <snapshot> --out ../work/audit-vN.json`: zero IDs ausentes/novos, zero divergências de placeholders/tags, zero nomes de itens alterados, zero `Giant's Tower` traduzido, nenhum marcador `QZXKEEP\d{5}XZQ`.
+4. Instale no PC do mantenedor com o ZIP gerado (não com cópia manual) e verifique no jogo: tela inicial, menu de personagem, missões, inventário, tutorial e uma tela de modo IA.
 
 ## Instalação e reversão
 
-Feche o jogo e o DRIMAGE Launcher. O script verifica que os processos não estão ativos, cria backups verificados para os dois destinos, prepara ambos antes de substituir qualquer arquivo, confere os hashes instalados e tenta reverter o par anterior se houver falha. A partir da raiz do clone, use:
+Use o mesmo instalador dos jogadores, extraído do ZIP gerado pelo build:
 
 ```powershell
-pwsh -File tools/install_translation.ps1
+pwsh -File ..\outputs\v13\Architect-PTBR-v13\install.ps1 -GameRoot 'H:\Games\Architect'
+pwsh -File ..\outputs\v13\Architect-PTBR-v13\install.ps1 -Uninstall
 ```
 
-O padrão de instalação aponta para `H:\Games\Architect\ProjectTT`; passe `-GameRoot` se sua instalação estiver em outra pasta. Para reverter, use os arquivos nomeados no `install-manifest.json` criado dentro do diretório de backup daquela execução e restaure os dois juntos.
+Ele exige o jogo fechado, confere o SHA-256 do `release.json`, remove overrides antigos (`pakchunk9999-Windows*_P.pak`) e grava `traducao-ptbr.json` ao lado do PAK. Nenhum arquivo original é tocado, portanto não há backup a restaurar.
 
 ## Correções aplicadas nesta versão
 
@@ -189,7 +202,7 @@ Uma atualização do jogo pode substituir `pakchunk0-Windows.pak`, alterar IDs/c
 
 ## Continuidade pelo repositório
 
-O repositório guarda snapshots completos em `translations/v0-upload/`, `translations/v1/` até `translations/v11-quality/` e `translations/v12-corrections/`. O arquivo inicial enviado antes do projeto está preservado em `v0-upload`; ele é histórico e não é a versão atual. `changes/v11-to-v12-corrections/changes.json` registra as células alteradas para a v12. Não edite uma versão publicada: crie uma nova pasta `v13-draft`, revise-a e só então publique um novo snapshot.
+O repositório guarda snapshots completos em `translations/v0-upload/`, `translations/v1/` até `translations/v11-quality/` e `translations/v12-corrections/`. O arquivo inicial enviado antes do projeto está preservado em `v0-upload`; ele é histórico e não é a versão atual. `changes/v11-to-v12-corrections/changes.json` registra as células alteradas para a v12. Não edite uma versão publicada: crie uma nova pasta `v13`, revise-a e só então publique um novo snapshot.
 
 O repositório contém as traduções e ferramentas, não o PAK integral nem os arquivos extraídos do jogo. Extraia os pacotes localmente e mantenha os resultados em `work/`, ignorado pelo Git.
 
@@ -221,27 +234,9 @@ Traduza e revise todos os IDs/células indicados nos relatórios. Rode a auditor
 python tools/audit_translation.py --source $new --translation ..\work\draft-v13 --out ..\work\audit-v13.json
 ```
 
-Quando a revisão estiver concluída, copie as tabelas para `translations/v13-draft/ProjectTT/Content/TT/Data/CSV/L10N/en/`, crie `changes/v12-to-v13/` com um manifesto das células revistas e atualize o changelog. Preserve todas as versões anteriores.
+Quando a revisão estiver concluída, copie as tabelas para `translations/v13/ProjectTT/Content/TT/Data/CSV/L10N/en/`, crie `changes/v12-to-v13/` com um manifesto das células revistas e atualize o changelog. Preserve todas as versões anteriores.
 
-Extraia o PAK principal atualizado por completo e gere o novo par de pacotes. O diretório passado em `-FullPakRoot` deve ser a raiz extraída do pacote, aquela que contém `ProjectTT/`:
-
-```powershell
-pwsh -File tools/build_translation_paks.ps1 `
-  -FullPakRoot ..\work\extracted-new\pakchunk0-Windows `
-  -TranslationRoot translations/v13-draft `
-  -WorkRoot ..\work\build-v13 `
-  -OutputRoot ..\outputs\v13
-```
-
-Confira `repak info`, extraia tabelas dos PAKs recém-gerados, rode `tools/audit_translation.py` no snapshot e confira os hashes. Só depois instale:
-
-```powershell
-pwsh -File tools/install_translation.ps1 `
-  -MainPak ..\outputs\v13\pakchunk0-Windows-ptbr.pak `
-  -OverridePak ..\outputs\v13\pakchunk9999-Windows_1_P-ptbr.pak
-```
-
-O instalador exige que o jogo esteja fechado, cria backups com data, verifica os arquivos preparados e compara SHA-256 depois da cópia. Não altere `translations/v12-corrections/` retroativamente.
+Gere o PAK e o ZIP com `tools/build_release.ps1 -Version vN -TranslationRoot translations/vN-draft`, valide conforme a seção "Validação antes de publicar" e instale com o ZIP gerado. Não altere snapshots publicados retroativamente.
 
 ### Publicação da credencial para mantenedores
 
@@ -249,7 +244,7 @@ A chave AES é necessária para extração e empacotamento. Neste checkout ela f
 
 ## Incidentes e causa raiz já encontrados
 
-- Em testes históricos, foi observada uma tradução parcial quando o conteúdo do PAK principal e o do override não estavam na mesma versão. Isso justifica manter versões e hashes sincronizados, mas não prova que o jogador precise instalar dois PAKs. O teste mais recente com um override sozinho também foi parcial; as hipóteses restantes estão em `docs/INVESTIGACAO-CARREGAMENTO-PAK.md`.
+- O override com sufixo `_1_P` só traduzia a tela inicial porque o conteúdo baixado (`DownloadContent`) é montado com prioridade maior. A solução foi o sufixo `_21474835_P`; ver `docs/COMO-A-TRADUCAO-E-CARREGADA.md`. O "par" de PAKs foi uma solução intermediária e está abandonado.
 - Uma checagem anterior olhava apenas para a coluna `Item_Name.Name`. Títulos montados dinamicamente também incorporam `ParamN`; 126 desses fragmentos ainda estavam traduzidos. A correção restaura os fragmentos referenciados pelo template original.
 - Uma checagem da torre não reconhecia o apóstrofo curvo `’` nem marcação que dividia as palavras por tags. A correção foi comparada com cada célula-fonte e conferida após extrair o PAK instalado.
 - O primeiro PAK de correção usou uma chave AES errada e foi rejeitado pelo Unreal como índice corrompido. Não reutilize o PAK rejeitado que está em `../work/backups/pakchunk9999-Windows_1_P-rejected-v10.pak`; os PAKs v12 de manutenção foram lidos e extraídos com a chave confirmada.
@@ -260,9 +255,7 @@ A chave AES é necessária para extração e empacotamento. Neste checkout ela f
 - Snapshot novo: `translations/v12-corrections/ProjectTT/Content/TT/Data/CSV/L10N/en/`, preservando os 227 CSVs; `v0-upload` até `v11-quality` permanecem intactos. O diff célula a célula fica em `changes/v11-to-v12-corrections/changes.json`.
 - Foram corrigidos placeholders ausentes/duplicados em descrições, tags de cor quebradas em diálogos e tutoriais, nomes de interface que estavam vazios, nomes de categorias/ações e uma série de parâmetros dinâmicos. `Skill` e `Codex` permanecem em inglês. Nomes próprios de itens continuam originais; a descrição do acessório expande os parâmetros em português, mas o título e os parâmetros que formam título foram conferidos separadamente.
 - Auditoria contra as tabelas originais: 227 tabelas encontradas; 0 IDs ausentes/novos; 0 traduções vazias em campos não vazios; 0 divergências de placeholders/tags verificadas; 0 alterações em nomes/templates/parâmetros de títulos de itens; 0 menções encontradas com `Giant's Tower` traduzido. O relatório contém dez alertas de busca por `left`; o alerta não classifica sozinho o significado. Foram conferidos exemplos direcionais e contadores; chaves de tempo/quantidade restantes usam “restante(s)”, como `AUCTION_MENU_LEFTTIME`, `CLAN_EXCHANGE_LEFT_TIME`, `CLAN_RESEARCH_TOGGLE_ACTIVATE_LEFT_TIME`, `COMMON_LEFT` e `COMMON_LEFT_TIME`.
-- Os 227 CSVs do PAK override foram extraídos novamente para `../work/validate-v12b/` e os hashes dos bytes coincidiram com o snapshot v12. `repak info` confirmou 6.749 entradas no pacote principal e 227 no override; ambos V11, índice criptografado, mount `../../../`, seed `E92532A4`; compressão Zlib no principal e None no override.
-- Arquivos de manutenção preparados: `outputs/v12-corrections/pakchunk0-Windows-ptbr.pak` e `outputs/v12-corrections/pakchunk9999-Windows_1_P-ptbr.pak`. Não são downloads para jogadores; hashes e tamanhos estão no manifesto.
-- **Estado de instalação:** par v12 aplicado e hashes conferidos. O PAK principal ativo tem SHA-256 `91c7e1993d51d36cd028886e75edc529aa6faf477a5a8f31e58347526bfc79b1`; o override ativo tem SHA-256 `2711910e4b57b5d57a26d81cdf2d2256cab851b357786fd9ab3ece86de50c197`. Backup pré-instalação em `../work/backups/reapply-v12-20260927-142909/`.
+- Nota (2026-09-27): os PAKs "principal" e o override `_1_P` citados nas auditorias históricas foram substituídos pelo override único `_21474835_P`; os CSVs são os mesmos.
 
 ## Credencial AES: continuidade segura
 
@@ -273,7 +266,7 @@ Para uma pessoa mantenedora continuar em outro computador, ela deve obter a chav
 ## Falhas conhecidas que orientam o processo
 
 1. **Crash `Corrupt pak index detected`:** ocorreu quando se empacotou com chave AES que não correspondia ao jogo. Só instalar depois de `repak info` conseguir reabrir o PAK recém-gerado com a mesma chave e formato esperado.
-2. **Tradução antiga ainda aparecia em tela:** só um dos dois PAKs havia sido atualizado. Sempre preparar e instalar o par junto, preservando a prioridade do override.
+2. **Tradução antiga ainda aparecia em tela:** havia um override antigo com outro nome em `Content/Paks`. O instalador remove todos os `pakchunk9999-Windows*_P.pak` antes de copiar o novo.
 3. **Títulos de itens traduzidos:** nomes de exibição são compostos por `Item_Name.Name` e podem incluir `ParamN`. Comparar o campo e cada parâmetro referenciado com a fonte original. Esta regra também protege a busca do Marketplace.
 4. **Chaves internas sobrescritas:** uma versão anterior alterou valores da coluna `Key` em `ClientString_Name.csv` ao tratar cabeçalhos como linhas. Scripts devem alterar apenas campos de conteúdo, nunca IDs, chaves, cabeçalhos ou ordem das colunas. A v12 tem 0 IDs ausentes/novos.
 5. **Marcadores temporários de tradução:** o lote antigo deixou marcadores `QZXKEEP00000XZQ` em textos. Rode a busca por `QZXKEEP\d{5}XZQ` e falhe a auditoria se encontrar qualquer ocorrência. Scripts de reparo devem fazer correspondência pelo texto-fonte/ID; não substituir tokens cegamente.

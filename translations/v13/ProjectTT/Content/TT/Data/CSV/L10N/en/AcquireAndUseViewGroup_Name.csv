@@ -1,0 +1,796 @@
+﻿ViewGroupId,Desc,Param
+100,Marketplace,
+200,Reputação da Adventurers Alliance alcançada - {Param},Guilda de Comerciantes
+300,Reputação da Adventurers Alliance alcançada - {Param},Guilda dos Ferreiros
+400,Reputação da Adventurers Alliance alcançada - {Param},Artisans Guild
+500,Reputação da Adventurers Alliance alcançada - {Param},Guilda dos Avaliadores
+600,Reputação da Adventurers Alliance alcançada - {Param},Hunters Guild
+700,Reputação da Adventurers Alliance alcançada - {Param},Guilda dos Exploradores
+800,Reputação da Adventurers Alliance alcançada - {Param},Wayfinders Guild
+900,Conquistas da Aliança de Aventureiros - {Param},Guilda de Comerciantes
+1000,Conquistas da Aliança de Aventureiros - {Param},Guilda dos Ferreiros
+1100,Conquistas da Aliança de Aventureiros - {Param},Artisans Guild
+1200,Conquistas da Aliança de Aventureiros - {Param},Guilda dos Avaliadores
+1300,Conquistas da Aliança de Aventureiros - {Param},Hunters Guild
+1400,Conquistas da Aliança de Aventureiros - {Param},Guilda dos Exploradores
+1500,Conquistas da Aliança de Aventureiros - {Param},Wayfinders Guild
+1600,Tarefa da Aliança de Aventureiros - {Param},Guilda de Comerciantes
+1700,Tarefa da Aliança de Aventureiros - {Param},Guilda dos Ferreiros
+1800,Tarefa da Aliança de Aventureiros - {Param},Artisans Guild
+1900,Tarefa da Aliança de Aventureiros - {Param},Guilda dos Avaliadores
+2000,Tarefa da Aliança de Aventureiros - {Param},Hunters Guild
+2100,Tarefa da Aliança de Aventureiros - {Param},Guilda dos Exploradores
+2200,Tarefa da Aliança de Aventureiros - {Param},Wayfinders Guild
+2300,Monolith War,
+2400,Monolith War - {Param},Vitória Recompensa Privada
+2500,Monolith War - {Param},Derrotar recompensa privada
+2600,Monolith War - {Param},Vitória Recompensa do Clã
+2700,Monolith War - {Param},Derrote a recompensa do clã
+2800,Monolith War - {Param},Venda de Buff
+3000,Invocar traje,
+3100,Fantasia de fusível,
+3200,Fusível Arma Fantasma,
+3501,Passe de temporada,
+3601,Passe de Temporada - {Param},Missão
+3700,{Param},Passe de Convocação
+3701,{Param},[5★ garantido] Passe de convocação
+3800,{Param} Missão,Passe da loja
+3801,{Param} Missão,Passe da loja
+3900,{Param},Passe da loja II
+4000,{Param} Missão,Passe da loja II
+4003,{Param},Halo Pass
+4004,{Param} Missão,Halo Pass
+4100,Fusível Graça das constelações,
+4200,Graça das constelações Fusão falhou,
+4300,Avanço da Relíquia Sagrada,
+4400,Quest - {Param},Épico
+4500,Quest - {Param},Sub
+4600,Quest - {Param},Episódio
+4700,Quest - {Param},Arquivo
+4800,Quest - {Param},Recompensa da missão
+4900,- {Param},Recompensa de nível
+5000,Codex,
+5100,Troféu,
+5200,Pontuação do troféu,
+5300,Artesanato,
+5400,Crista dos Antigos desmontada,
+5500,Clã {Param},Recompensa semanal
+5600,Clã {Param},Doação
+5700,Clã {Param},Venda Interna
+5800,Terra Abandonada - Lv.[Level] [Keyword],
+5900,Giant's Tower - Lv.[Level] [Keyword],
+5950,Abyss Battlefield - Lv.[Level] [Keyword],
+5970,Barreira Temporal - Lv.[Level] [Keyword],
+6000,[Keyword] - Recompensa de contribuição,
+6100,[Keyword] - Recompensa de morte de monstro,
+6200,- {Param},Recompensa de Contribuição
+6300,- {Param},Recompensa de mortes de monstros
+6500,Angbar Arena - {Param},Privado Recompensa
+6600,Angbar Arena - {Param},Recompensas do clã
+6650,Angbar Arena - {Param},Recompensa de Participação
+6701,Loja - {Param},Step-Up
+6702,Loja - {Param},Especial
+6707,Loja - {Param},Alterar classe
+6708,Loja - {Param},Novo suporte
+6711,Loja - {Param},Sacred Relic Exchange Shop
+6712,Loja - {Param},Loja diária por tempo limitado
+6713,Loja - {Param},Loja de aniversário de 300 dias
+6806,Loja - Produto ({Param}),Semanal/mensal
+6807,Loja - Produto ({Param}),Celebração de lançamento global
+6808,Loja - Produto ({Param}),Semanal/mensal
+6809,Loja - Produto ({Param}),Loja do Festival Chuseok
+6810,Loja - Produto ({Param}),Semanal/mensal
+6900,Loja - Produto ({Param}),Atualização
+7000,Loja - Produto ({Param}),Assinatura
+7100,Loja - Produto ({Param}),Relíquia Sagrada
+7200,Loja - Produto ({Param}),Recursos
+7300,Loja - Produto ({Param}),Ofertas quentes
+7400,Loja - Produto ({Param}),Loja de suporte ao aventureiro
+7500,Loja - Produto ({Param}),Diversos
+7600,Loja - Convocar ({Param}),Invocar traje
+7700,Loja - Convocar ({Param}),Invocação de trajes
+7800,Loja - Convocar ({Param}),Convocar arma fantasma
+7801,Loja - Convocar ({Param}),Keyring Summon
+7900,Loja - Missão ({Param}),Presença
+8000,Loja - {Param},Step-Up
+8100,Loja - Missão ({Param}),Realm Achievement
+8200,Loja - Missão ({Param}),Conquista de Nível
+8300,Loja - Missão ({Param}),Passar
+8400,Loja - Missão ({Param}),Passe de 3 Linhas
+8500,Loja - Quilometragem ({Param}),Relíquia Sagrada
+8600,Loja - Quilometragem ({Param}),Upgrade Essentials
+10000,Loja Geral,
+10100,Sunset Brewery - {Param},Loja Geral
+10200,Babylon - {Param},Loja Geral
+10300,Loja da Aliança dos Aventureiros - {Param},Guilda de Comerciantes
+10400,Loja da Aliança dos Aventureiros - {Param},Guilda dos Ferreiros
+10500,Loja da Aliança dos Aventureiros - {Param},Artisans Guild
+10600,Loja da Aliança dos Aventureiros - {Param},Guilda dos Avaliadores
+10700,Loja da Aliança dos Aventureiros - {Param},Hunters Guild
+10800,Loja da Aliança dos Aventureiros - {Param},Guilda dos Exploradores
+10900,Loja da Aliança dos Aventureiros - {Param},Wayfinders Guild
+11500,Ancient Coin Shop,
+11600,Clan’s Ancient Coins Shop,
+11700,Adventurers’ Alliance Guild Coin Shop,
+11800,Giant's Tower - {Param},Black Crystal Shop
+11810,Abyss Battlefield - {Param},Gold Crystal Shop
+11820,Rift Shop,
+11830,Abyssal Token Shop,
+11840,Arena Shop,
+11900,Skill Loja,
+12000,Codex - {Param},Recompensa de conclusão
+12200,Rift - {Param},Blue Demon Ruins
+12210,Rift - {Param},Abyss Hunter's Swamp
+12220,Rift - {Param},Grave of Dead Roots
+12250,Evento Rift,
+12300,Trial Gates - [Keyword],
+12400,Trial Gates - {Param},Recompensa de conclusão
+12600,Santuário Etéreo - [Keyword],
+12700,Santuário Etéreo - {Param},Recompensa de conclusão
+12800,Arbiter’s Ordeal - {Param},Traje
+12900,Arbiter’s Ordeal - {Param},Skill
+13000,Arbiter’s Ordeal - {Param},Graça das constelações
+13100,Arbiter’s Ordeal - {Param},Ouro
+13200,Baú de tesouro,
+13300,Vending Machine,
+13301,Aburu Vending Machine,
+13400,Giant’s Vending Machine,
+13500,Commission House Quest - [Keyword],
+13600,Commission House Quest - [Keyword],
+13700,Chefe de Campo - [Keyword],
+13800,Chefe do mundo - [Keyword],
+13900,Giant's Tower chefe - [Keyword],
+13950,Abyss Battlefield Chefe - [Keyword],
+13951,Abyss Battlefield Chefe - [Keyword],
+13952,Abyss Battlefield Chefe - [Keyword],
+13953,Abyss Battlefield Chefe - [Keyword],
+13954,Abyss Battlefield Chefe - [Keyword],
+13955,Abyss Battlefield Chefe - [Keyword],
+13960,Abyss Battlefield Chefe - [Keyword],
+13961,Abyss Battlefield Chefe - [Keyword],
+13962,Abyss Battlefield Chefe - [Keyword],
+13963,Abyss Battlefield Chefe - [Keyword],
+13964,Abyss Battlefield Chefe - [Keyword],
+13965,Abyss Battlefield Chefe - [Keyword],
+14000,Guia de aventura,
+14100,Eventos - [Keyword],
+14200,Eventos - [Keyword],
+14300,Eventos - [Keyword],
+14400,Eventos - [Keyword],
+14500,Eventos - [Keyword],
+14600,Eventos - [Keyword],
+14700,Eventos - [Keyword],
+14701,Eventos - [Keyword],
+14702,Eventos - [Keyword],
+14703,Eventos - [Keyword],
+14704,Eventos - [Keyword],
+14705,Eventos - [Keyword],
+14706,Eventos - [Keyword],
+14707,Eventos - [Keyword],
+14708,Eventos - [Keyword],
+14709,Eventos - [Keyword],
+14710,Eventos - [Keyword],
+14711,Eventos - [Keyword],
+14712,Eventos - [Keyword],
+14713,Eventos - [Keyword],
+14714,Eventos - [Keyword],
+14715,Eventos - [Keyword],
+14716,Eventos - [Keyword],
+14717,Eventos - [Keyword],
+14718,[Keyword],
+14719,Eventos - [Keyword],
+14720,Eventos - [Keyword],
+14721,Eventos - [Keyword],
+14722,Eventos - [Keyword],
+14723,Eventos - [Keyword],
+14724,Eventos - [Keyword],
+14725,Eventos - [Keyword],
+14726,Eventos - [Keyword],
+14727,Eventos - [Keyword],
+14728,Eventos - [Keyword],
+14729,Eventos - [Keyword],
+14730,Eventos - [Keyword],
+14800,Eventos - [Keyword],
+14900,Eventos - [Keyword] (Recompensa de conclusão),(Recompensa de conclusão)
+15000,Eventos - [Keyword],
+15001,Eventos - [Keyword],
+15002,Eventos - [Keyword],
+15003,Eventos - [Keyword],
+15100,Eventos - [Keyword] (Recompensa de conclusão),(Recompensa de conclusão)
+15101,Eventos - [Keyword] (Recompensa de conclusão),(Recompensa de conclusão)
+15102,Eventos - [Keyword] (Recompensa de conclusão),
+15103,Eventos - [Keyword] (Recompensa de conclusão),
+15200,Eventos - [Keyword],
+15300,Eventos - [Keyword],
+15400,Eventos - [Keyword],
+15401,Eventos - [Keyword],
+15402,Eventos - [Keyword],
+15403,Eventos - [Keyword],
+15404,Eventos - [Keyword],
+15405,Eventos - [Keyword],
+15406,Eventos - [Keyword],
+15407,Eventos - [Keyword],
+15408,Eventos - [Keyword],
+15409,Eventos - [Keyword],
+15410,Eventos - [Keyword],
+15411,Eventos - [Keyword],
+15412,Eventos - [Keyword],
+15413,Eventos - [Keyword],
+15414,Eventos - [Keyword],
+15500,Eventos - [Keyword],
+15600,Eventos - [Keyword],
+15700,Eventos - [Keyword],
+15701,Eventos - [Keyword],
+15702,Eventos - [Keyword],
+15703,Eventos - [Keyword],
+15704,Eventos - [Keyword],
+15705,Eventos - [Keyword],
+15706,Eventos - [Keyword],
+15707,Eventos - [Keyword],
+15708,Eventos - [Keyword],
+15709,Eventos - [Keyword],
+16900,Eventos - [Keyword],
+18200,Eventos - [Keyword],
+18201,Eventos - [Keyword],
+18202,Eventos - [Keyword] Recompensa de Missão,
+18203,Eventos - [Keyword] Recompensa de Missão,
+18204,Eventos - [Keyword] Recompensa de Missão,
+18205,Eventos - [Keyword] Recompensa de Missão,
+18206,Eventos - [Keyword] Recompensa de Missão,
+18207,Eventos - [Keyword] Recompensa de Missão,
+18208,Eventos - [Keyword] Recompensa de Missão,
+18209,Eventos - [Keyword] Recompensa de Missão,
+18210,Eventos - [Keyword] Recompensa de Missão,
+18211,Eventos - [Keyword] Recompensa de Missão,
+18212,Eventos - [Keyword] Recompensa de Missão,
+18213,Eventos - [Keyword] Recompensa de Missão,
+18214,Eventos - [Keyword] Recompensa,
+18215,Eventos - [Keyword] Recompensa de Missão,
+18216,Eventos - [Keyword] Recompensa de Missão,
+18217,Eventos - [Keyword] Recompensa de Missão,
+18218,Eventos - [Keyword] Recompensa de Missão,
+18219,Eventos - [Keyword] Recompensa de Missão,
+18220,Eventos - [Keyword] Recompensa de Missão,
+18221,Eventos - [Keyword] Recompensa,
+18222,Eventos - [Keyword] Recompensa de Missão,
+18223,Eventos - [Keyword] Recompensa de Missão,
+18224,Eventos - [Keyword] Recompensa de Missão,
+18225,Eventos - [Keyword] Recompensa de Missão,
+18226,Eventos - [Keyword] Recompensa de Missão,
+18227,Eventos - [Keyword] Recompensa de Missão,
+18228,Eventos - [Keyword] Recompensa de Missão,
+18229,Eventos - [Keyword] Recompensa,
+18230,Eventos - [Keyword] Recompensa de Missão,
+18231,Eventos - [Keyword] Recompensa de Missão,
+18232,Eventos - [Keyword] Recompensa de Missão,
+18233,Eventos - [Keyword] Recompensa de Missão,
+18234,Eventos - [Keyword] Recompensa de Missão,
+18235,Eventos - [Keyword] Recompensa de Missão,
+18236,Eventos - [Keyword] Recompensa de Missão,
+18237,Eventos - [Keyword] Recompensa de Missão,
+18238,Eventos - [Keyword] Recompensa de Missão,
+18239,Eventos - [Keyword] Recompensa de Missão,
+18240,Eventos - [Keyword] Recompensa de Missão,
+18241,Eventos - [Keyword] Recompensa de Missão,
+18242,Eventos - [Keyword] Recompensa de Missão,
+18243,Eventos - [Keyword] Recompensa de Missão,
+18244,[Keyword] Recompensa de missão,
+18245,Eventos - [Keyword] Recompensa de Missão,
+18246,[Keyword] Recompensa de missão,
+18247,Eventos - [Keyword] Recompensa de Missão,
+18248,Eventos - [Keyword] Recompensa de Missão,
+18249,Eventos - [Keyword] Recompensa de Missão,
+18250,Eventos - [Keyword] Recompensa de Missão,
+18251,Eventos - [Keyword] Recompensa de Missão,
+18252,Eventos - [Keyword] Recompensa de Missão,
+18254,Eventos - [Keyword] Recompensa de Missão,
+18256,Eventos - [Keyword] Recompensa de Missão,
+18257,Eventos - [Keyword] Recompensa de Missão,
+18258,Eventos - [Keyword] Recompensa de Missão,
+18259,Eventos - [Keyword] Recompensa de Missão,
+18260,Eventos - [Keyword] Recompensa de Missão,
+18261,Eventos - [Keyword] Recompensa de Missão,
+18262,Eventos - [Keyword] Recompensa de Missão,
+18263,Eventos - [Keyword] Recompensa de Missão,
+18264,Eventos - [Keyword] Recompensa de Missão,
+18265,Eventos - [Keyword] Recompensa de Missão,
+18266,Eventos - [Keyword] Recompensa de Missão,
+18267,Eventos - [Keyword] Recompensa de Missão,
+18268,Eventos - [Keyword] Recompensa de Missão,
+18269,Eventos - [Keyword] Recompensa de Missão,
+18270,Eventos - [Keyword] Recompensa de Missão,
+18271,Eventos - [Keyword] Recompensa de Missão,
+18272,Eventos - [Keyword] Recompensa de Missão,
+18273,Eventos - [Keyword] Recompensa de Missão,
+18274,Eventos - [Keyword] Recompensa de Missão,
+18275,Eventos - [Keyword] Recompensa de Missão,
+18276,Eventos - [Keyword] Recompensa de Missão,
+18277,Eventos - [Keyword] Recompensa de Missão,
+18278,Eventos - [Keyword] Recompensa de Missão,
+18279,Eventos - [Keyword] Recompensa de Missão,
+18280,Eventos - [Keyword] Recompensa de Missão,
+18281,Eventos - [Keyword] Recompensa de Missão,
+18282,Eventos - [Keyword] Recompensa de Missão,
+18283,Eventos - [Keyword] Recompensa de Missão,
+18284,Eventos - [Keyword] Recompensa de Missão,
+18285,Eventos - [Keyword] Recompensa de Missão,
+18286,Eventos - [Keyword] Recompensa de Missão,
+18287,Eventos - [Keyword] Recompensa de Missão,
+19300,Eventos - [Keyword],
+20600,Eventos - [Keyword],
+20601,Eventos - [Keyword],
+20602,Eventos - [Keyword],
+20603,Eventos - [Keyword],
+20604,Eventos - [Keyword],
+20605,Eventos - [Keyword],
+20606,Eventos - [Keyword],
+20607,Eventos - [Keyword],
+20608,Eventos - [Keyword],
+20609,Eventos - [Keyword],
+20610,Eventos - [Keyword],
+20611,Eventos - [Keyword],
+20612,Eventos - [Keyword],
+20613,Eventos - [Keyword],
+20614,Eventos - [Keyword],
+20615,Eventos - [Keyword],
+20616,Eventos - [Keyword],
+20617,Eventos - [Keyword],
+20618,Eventos - [Keyword],
+20619,Eventos - [Keyword],
+20620,Eventos - [Keyword],
+20621,Eventos - [Keyword],
+20622,Eventos - [Keyword],
+20623,Eventos - [Keyword],
+20624,Eventos - [Keyword],
+20625,Eventos - [Keyword],
+20626,Eventos - [Keyword],
+20627,Eventos - [Keyword],
+20628,Eventos - [Keyword],
+20629,Eventos - [Keyword],
+20630,Eventos - [Keyword],
+20631,Eventos - [Keyword],
+20632,Eventos - [Keyword],
+20633,Eventos - [Keyword],
+20634,Eventos - [Keyword],
+20635,Eventos - [Keyword],
+20636,Eventos - [Keyword],
+20637,Eventos - [Keyword],
+20638,Eventos - [Keyword],
+20639,Eventos - [Keyword],
+20640,Eventos - [Keyword],
+20641,[Keyword],
+20642,Eventos - [Keyword],
+20643,[Keyword],
+20644,Eventos - [Keyword],
+20645,Eventos - [Keyword],
+20646,Eventos - [Keyword],
+20647,Eventos - [Keyword],
+20648,Eventos - [Keyword],
+20649,Eventos - [Keyword],
+20651,Eventos - [Keyword],
+20653,Eventos - [Keyword],
+20654,Eventos - [Keyword],
+20655,Eventos - [Keyword],
+20656,Eventos - [Keyword],
+20657,Eventos - [Keyword],
+20658,Eventos - [Keyword],
+20659,Eventos - [Keyword],
+20660,Eventos - [Keyword],
+20661,Eventos - [Keyword],
+20662,Eventos - [Keyword],
+20663,Eventos - [Keyword],
+20664,Eventos - [Keyword],
+20665,Eventos - [Keyword],
+20666,Eventos - [Keyword],
+20667,Eventos - [Keyword],
+20668,Eventos - [Keyword],
+20669,Eventos - [Keyword],
+20670,Eventos - [Keyword],
+20671,Eventos - [Keyword],
+20672,Eventos - [Keyword],
+20673,Eventos - [Keyword],
+20674,Eventos - [Keyword],
+20675,Eventos - [Keyword],
+20676,Eventos - [Keyword],
+20677,Eventos - [Keyword],
+21700,Eventos - [Keyword],
+23100,Eventos - [Keyword],
+23101,Eventos - [Keyword],
+23102,Eventos - [Keyword],
+23103,Eventos - [Keyword],
+23104,Eventos - [Keyword],
+23105,Eventos - [Keyword],
+23106,Eventos - [Keyword],
+23107,Eventos - [Keyword],
+23108,Eventos - [Keyword],
+23109,Eventos - [Keyword],
+23110,Eventos - [Keyword],
+23111,Eventos - [Keyword],
+23112,Eventos - [Keyword],
+23113,Eventos - [Keyword],
+23114,Eventos - [Keyword],
+23115,Eventos - [Keyword],
+23116,Eventos - [Keyword],
+23117,Eventos - [Keyword],
+23118,Eventos - [Keyword],
+23119,Eventos - [Keyword],
+23120,Eventos - [Keyword],
+23121,Eventos - [Keyword],
+23122,Eventos - [Keyword],
+23123,Eventos - [Keyword],
+23124,Eventos - [Keyword],
+23125,Eventos - [Keyword],
+23126,Eventos - [Keyword],
+23127,Eventos - [Keyword],
+23128,Eventos - [Keyword],
+23129,Eventos - [Keyword],
+23130,Eventos - [Keyword],
+23131,Eventos - [Keyword],
+23132,Eventos - [Keyword],
+23133,Eventos - [Keyword],
+23134,Eventos - [Keyword],
+23135,Eventos - [Keyword],
+23136,Eventos - [Keyword],
+23137,Eventos - [Keyword],
+23138,Eventos - [Keyword],
+23139,Eventos - [Keyword],
+23140,Eventos - [Keyword],
+23141,Eventos - [Keyword],
+23142,Eventos - [Keyword],
+23143,Eventos - [Keyword],
+23144,Eventos - [Keyword],
+23145,Eventos - [Keyword],
+23146,Eventos - [Keyword],
+23147,Eventos - [Keyword],
+23148,Eventos - [Keyword],
+23200,Eventos - [Keyword],
+23300,Eventos - [Keyword],
+23400,Eventos - [Keyword],
+23500,Eventos - [Keyword],
+23600,Eventos - [Keyword],
+23700,Eventos - [Keyword],
+23800,Eventos - [Keyword],
+23900,Eventos - [Keyword],
+24000,Eventos - [Keyword],
+24100,Eventos - [Keyword],
+24200,Eventos - [Keyword],
+24300,Eventos - [Keyword],
+24400,Eventos - [Keyword],
+24500,Eventos - [Keyword],
+24600,Eventos - [Keyword],
+24700,Eventos - [Keyword],
+24800,Eventos - [Keyword],
+24900,Eventos - [Keyword],
+25000,Eventos - [Keyword],
+25100,Eventos - [Keyword],
+25200,Eventos - [Keyword],
+25300,Eventos - [Keyword],
+25400,Eventos - [Keyword],
+25500,Eventos - [Keyword],
+25600,Eventos - [Keyword],
+25700,Eventos - [Keyword],
+25800,Eventos - [Keyword],
+25900,Eventos - [Keyword],
+26000,Eventos - [Keyword],
+26100,Eventos - [Keyword],
+26200,Eventos - [Keyword],
+26300,Eventos - [Keyword],
+26400,Eventos - [Keyword],
+26500,Eventos - [Keyword],
+26600,Eventos - [Keyword],
+26700,Eventos - [Keyword],
+26800,Eventos - [Keyword],
+26900,Eventos - [Keyword],
+27000,Eventos - [Keyword],
+27100,Eventos - [Keyword],
+27200,Eventos - [Keyword],
+27300,Eventos - [Keyword],
+27400,Eventos - [Keyword],
+27500,Eventos - [Keyword],
+27600,Eventos - [Keyword],
+27700,Eventos - [Keyword],
+27800,Eventos - [Keyword],
+27900,Eventos - [Keyword],
+27901,Eventos - [Keyword],
+27902,Eventos - [Keyword],
+27903,Eventos - [Keyword],
+28000,Eventos - [Keyword],
+28100,Eventos - [Keyword],
+28200,Eventos - [Keyword],
+28300,Eventos - [Keyword],
+28400,Eventos - [Keyword],
+28500,Eventos - [Keyword],
+28600,Eventos - [Keyword],
+28700,Eventos - [Keyword],
+28800,Eventos - [Keyword],
+28900,Eventos - [Keyword],
+29000,Eventos - [Keyword],
+29100,Eventos - [Keyword],
+29200,Eventos - [Keyword],
+29300,Eventos - [Keyword],
+29400,Eventos - [Keyword],
+29500,Eventos - [Keyword],
+29600,Eventos - [Keyword],
+29700,Eventos - [Keyword],
+29800,Eventos - [Keyword],
+29900,Eventos - [Keyword],
+30000,Eventos - [Keyword],
+30100,Eventos - [Keyword],
+30200,Eventos - [Keyword],
+30300,Eventos - [Keyword],
+30400,Eventos - [Keyword],
+30401,Eventos - [Keyword],
+30402,Eventos - [Keyword],
+30403,Eventos - [Keyword],
+30500,Eventos - [Keyword],
+30600,Eventos - [Keyword],
+30700,Eventos - [Keyword],
+30800,Eventos - [Keyword],
+30900,Eventos - [Keyword],
+30901,Eventos - [Keyword],
+30902,Eventos - [Keyword],
+30903,Eventos - [Keyword],
+30904,Eventos - [Keyword],
+30905,Eventos - [Keyword],
+31000,Eventos - [Keyword],
+31001,Eventos - [Keyword],
+31002,Eventos - [Keyword],
+31003,Eventos - [Keyword],
+31004,Eventos - [Keyword],
+31005,Eventos - [Keyword],
+31100,Eventos - [Keyword],
+31101,Eventos - [Keyword] (Recompensa Cumulativa),
+31102,Eventos - [Keyword],
+31103,Eventos - [Keyword] (Recompensa Cumulativa),
+31104,Eventos - [Keyword] (Recompensa Cumulativa),
+31105,Eventos - [Keyword] (Recompensa Cumulativa),
+31202,Evento de Vagão Dourado Rappie!,
+31203,Evento de Vagão Dourado Rappie!,
+31204,Evento de Vagão Dourado Rappie!,
+31205,Loja de ouro de 100 dias de aniversário,
+31206,Loja de ouro de 100 dias de aniversário,
+31207,Loja de ouro de 100 dias de aniversário,
+31208,Loja de Ouro Especial de Aman,
+31209,Loja de Ouro Especial de Aman,
+31210,Loja de Ouro Especial de Aman,
+31211,Loja de Ouro Especial de Aman,
+31212,Loja de ouro de aniversário de 300 dias,
+31213,Loja de ouro de aniversário de 300 dias,
+31214,Loja de ouro de aniversário de 300 dias,
+31300,Tesouro do Clã,
+31301,High Pass - Recompensas de conclusão de missão,
+31302,Evento de Convite de Amigo para Passa Alta,
+31303,High Pass Evento de Missão de Amigo,
+31304,OOParts - {Param},Extrair
+31305,Descubra o tesouro oculto de Naruru!,
+31306,Abyss Battlefield - Akarakatum,
+31307,Decorações duplicadas obtidas,
+31400,Snow Goblin Comoção - {Param},Recompensas cumulativas semanais
+31500,Snow Goblin Comoção - {Param},Recompensas individuais repetíveis
+31600,Snow Goblin Comoção - {Param},Repetível Recompensas do clã
+31700,Corredor Perpétuo - {Param},Recompensas da temporada Recompensas da temporada
+31800,Corredor Perpétuo - {Param},Recompensas de classificação
+31900,Corredor Perpétuo - {Param},Recompensas de fase
+32000,Tesseract - {Param},Recompensa de instalação exclusiva
+32100,Tesseract - {Param},Recompensas de queda de monstros
+32200,Tesseract - {Param},Recompensa de Contribuição
+32300,Recompensa de conclusão da missão do clã,
+32400,Recompensa de pontuação da missão do clã - {Param},Privado
+32500,Recompensa de pontuação da missão do clã - {Param},Clã
+32600,Recompensa de Expedição de Clã - {Param},Privado
+32700,Recompensa de Expedição de Clã - {Param},Clã
+32800,Incursão de Sombra - {Param},Fragmento de Sombra
+32904,Keyring Milestone Summon Rewards,
+32905,Loja - Recompensa de compra cumulativa ({Param}),Semanal/mensal
+32906,Loja - Recompensa de compra cumulativa ({Param}),Celebração de lançamento global
+32907,Loja - Recompensa de compra cumulativa ({Param}),Semanal/mensal
+32908,Loja - Recompensa de compra cumulativa ({Param}),Semanal/mensal
+33000,Loja - Missão do Reino {Param},[Realm 1 Clear] Novo Pacote All-in-One de Invocação
+33001,Loja - Missão do Reino {Param},[Realm 2 Ascension] Pacote 4-Star Mount Black King
+33002,Loja - Missão do Reino {Param},[Realm 3 Clear] Novo Constellation Master Pack
+33003,Loja - Missão do Reino {Param},[Realm 4 Clear] Novo Summon Master Pack
+33004,Loja - Missão do Reino {Param},[Realm 5 Clear] Novo pacote de colecionador de chaveiro
+33005,Loja - Missão de nível {Param},[Lv. 30 Milestone] Novo pacote multifuncional de convocação
+33006,Loja - Missão de nível {Param},[Lv. 40 Milestone] Novo pacote multifuncional de convocação
+33007,Loja - Missão de nível {Param},[Lv. 45 Marco] Novo pacote multifuncional de convocação
+33008,Loja - Missão de nível {Param},[Lv. 50 Milestone] Novo pacote multifuncional de convocação
+33100,Loja - {Param},Pacote de check-in de ingressos de reforço de atualização de verão
+33103,Loja - {Param},[Lançamento global] 4★ Quadro de check-in do desafio
+33104,Loja - {Param},Pacote de check-in de ajuda de atualização de chaveiro
+33105,Loja - {Param},[Conclusão de 7 dias] Pacote de check-in de convocação
+33106,Loja - {Param},Relíquia Sagrada do Conflito Pacote de Check-In
+33200,Desafio de nível - {Param},Recompensa da missão
+33201,Desafio de Poder de Combate - {Param},Recompensa da missão
+33202,Desafio de conteúdo - {Param},Recompensa da missão
+33300,Desafio de nível - {Param},Recompensa de conclusão
+33301,Desafio de Poder de Combate - {Param},Recompensa de conclusão
+33302,Desafio de conteúdo - {Param},Recompensa de conclusão
+33400,[Keyword] Recompensas de participação,
+33500,[Keyword] Recompensas de classificação,
+33600,Abyss Battlefield Recompensas semanais de classificação,
+33700,Abyss Battlefield Recompensas da temporada de classificação,
+33800,Arena - {Param},Recompensas de marco da liga
+33900,Arena - {Param},Recompensas da temporada Recompensas da temporada
+34000,Arena - {Param},Recompensa de Vitória
+34100,Arena - {Param},Derrotar recompensas
+34200,Arena - {Param},Sorteio de Recompensas
+34300,Arena - {Param},Bônus de MVP Recompensas
+34400,Hall of Proof - {Param},Recompensa de participação individual
+34500,Hall of Proof - {Param},Recompensa de participação no clã
+34600,Hall of Proof - {Param},Recompensa de temporada individual
+34700,Hall of Proof - {Param},Recompensa da temporada do clã
+34800,Loja - {Param},Invocar traje
+34900,Loja - {Param},Aumentar a taxa de invocação de fantasia
+35000,Loja - {Param},Convocar arma fantasma
+35100,Loja - {Param},Keyring Summon
+35200,Loja - {Param},Thunder Mane Step-Up
+35203,Loja - {Param},S2 Thorstein Step-Up de Suprimentos Especiais
+35204,Loja - {Param},Invocação de bônus Step-Up
+35205,Loja - {Param},Pacote de check-in de ajuda de atualização de chaveiro
+35206,Loja - {Param},[Lançamento global] 4★ Quadro de check-in do desafio
+35207,Loja - {Param},[Conclusão de 7 dias] Pacote de check-in de convocação
+35208,Loja - {Param},Relíquia Sagrada do Conflito Pacote de Check-In
+35300,OOParts - {Param},Investigação
+35400,Semente de réplica - [Keyword],
+100100,Despertar - {Param},Desbloquear célula
+100200,Despertar - {Param},Célula de atualização
+100300,Monolith War,
+100400,Compre Monolith Buff,
+100500,Graça das constelações - {Param},Aumento de nível
+100600,Graça das constelações - {Param},Transcender
+100700,Avanço de classe,
+100800,- {Param},Aumento de nível
+100900,- {Param},Transcender
+101000,Crista dos Antigos - {Param},Redefinir nível de crista
+101100,Crista dos Antigos - {Param},Aumento de nível da crista
+101200,Crista dos Antigos - {Param},Refinar Powerstone
+101300,Melhorar equipamento,
+101400,Infundir Equipamento,
+101500,Infundir Equipamento,
+101600,Sacred Relic - {Param},Avanço
+101700,Apoio à Aliança dos Aventureiros,
+101800,Aliança de Aventureiros de Apoio - {Param},Guilda de Comerciantes
+101900,Aliança de Aventureiros de Apoio - {Param},Guilda dos Ferreiros
+102000,Aliança de Aventureiros de Apoio - {Param},Artisans Guild
+102100,Aliança de Aventureiros de Apoio - {Param},Guilda dos Avaliadores
+102200,Aliança de Aventureiros de Apoio - {Param},Hunters Guild
+102300,Aliança de Aventureiros de Apoio - {Param},Guilda dos Exploradores
+102400,Aliança de Aventureiros de Apoio - {Param},Wayfinders Guild
+102500,Pesquisa da Adventurers Alliance - {Param},Guilda de Comerciantes
+102600,Pesquisa da Adventurers Alliance - {Param},Guilda dos Ferreiros
+102700,Pesquisa da Adventurers Alliance - {Param},Artisans Guild
+102800,Pesquisa da Adventurers Alliance - {Param},Guilda dos Avaliadores
+102900,Pesquisa da Adventurers Alliance - {Param},Hunters Guild
+103000,Pesquisa da Adventurers Alliance - {Param},Guilda dos Exploradores
+103100,Pesquisa da Adventurers Alliance - {Param},Wayfinders Guild
+103200,Pesquisa da Adventurers Alliance - {Param},Guilda de Comerciantes
+103300,Pesquisa da Adventurers Alliance - {Param},Guilda dos Ferreiros
+103400,Pesquisa da Adventurers Alliance - {Param},Artisans Guild
+103500,Pesquisa da Adventurers Alliance - {Param},Guilda dos Avaliadores
+103600,Pesquisa da Adventurers Alliance - {Param},Hunters Guild
+103700,Pesquisa da Adventurers Alliance - {Param},Guilda dos Exploradores
+103800,Pesquisa da Adventurers Alliance - {Param},Wayfinders Guild
+103900,Pesquisa da Adventurers Alliance - {Param},Guilda de Comerciantes
+104000,Pesquisa da Adventurers Alliance - {Param},Guilda dos Ferreiros
+104100,Pesquisa da Adventurers Alliance - {Param},Artisans Guild
+104200,Pesquisa da Adventurers Alliance - {Param},Guilda dos Avaliadores
+104300,Pesquisa da Adventurers Alliance - {Param},Hunters Guild
+104400,Pesquisa da Adventurers Alliance - {Param},Guilda dos Exploradores
+104500,Pesquisa da Adventurers Alliance - {Param},Wayfinders Guild
+104600,Loja da Aliança dos Aventureiros - {Param},Guilda de Comerciantes
+104700,Loja da Aliança dos Aventureiros - {Param},Guilda dos Ferreiros
+104800,Loja da Aliança dos Aventureiros - {Param},Artisans Guild
+104900,Loja da Aliança dos Aventureiros - {Param},Guilda dos Avaliadores
+105000,Loja da Aliança dos Aventureiros - {Param},Hunters Guild
+105100,Loja da Aliança dos Aventureiros - {Param},Guilda dos Exploradores
+105200,Loja da Aliança dos Aventureiros - {Param},Wayfinders Guild
+105300,Memórias de Gudua,
+105400,Artesanato - [Keyword],
+105500,Skill - {Param},Adquirir
+105600,Skill - {Param},Aumento de nível
+105700,Skill - {Param},Transcender
+105800,Skill - {Param},Desbloquear slot Spellstone
+105900,Recarregar Arbiter’s Ordeal,Recarregar Arbiter’s Ordeal
+106000,Rift,
+106050,Evento Rift,
+106100,Giant's Tower - {Param},Floor 1
+106200,Giant's Tower - {Param},Floor 2
+106300,Giant's Tower - {Param},Ativar algoritmo
+106400,Montagem - {Param},Convocar
+106500,Planador - {Param},Convocar
+106600,Montagem - {Param},Ascend
+106700,Planador - {Param},Ascend
+106800,Montagem - {Param},Habilidades Potenciais
+106900,Planador - {Param},Habilidades Potenciais
+107000,Vending Machine,
+107100,Giant’s Vending Machine,
+107200,Aburu Vending Machine,
+107201,Ataque a Titan Vending Machine,
+107300,Loja - Produto ({Param}),Comemoração de lançamento
+107400,Loja - Produto ({Param}),Semanal/mensal
+107500,Loja - Produto ({Param}),Atualização
+107600,Loja - Produto ({Param}),Assinatura
+107700,Loja - Produto ({Param}),Relíquia Sagrada
+107800,Loja - Produto ({Param}),Recursos
+107900,Loja - Produto ({Param}),Ofertas quentes
+108000,Loja - Produto ({Param}),Loja de suporte ao aventureiro
+108100,Loja - Produto ({Param}),Diversos
+108200,Loja - Convocar ({Param}),Invocar traje
+108300,Loja - Convocar ({Param}),Invocação de trajes
+108400,Loja - Convocar ({Param}),Convocar arma fantasma
+108450,Loja - Convocar ({Param}),Keyring Summon
+108500,Loja - Missão ({Param}),Presença
+108600,Loja - {Param},Step-Up
+108700,Loja - Missão ({Param}),Realm Achievement
+108800,Loja - Missão ({Param}),Conquista de Nível
+108900,Loja - Missão ({Param}),Passar
+109000,Loja - Missão ({Param}),Passe de 3 Linhas
+109100,Loja - Quilometragem ({Param}),Relíquia Sagrada
+109200,Loja - Quilometragem ({Param}),Upgrade Essentials
+109300,Loja Geral,
+109400,Sunset Brewery - {Param},Loja Geral de Cervejaria
+109500,Babylon - {Param},Babylon General Store
+109600,Loja da Aliança dos Aventureiros - {Param},Guilda de Comerciantes
+109700,Loja da Aliança dos Aventureiros - {Param},Guilda dos Ferreiros
+109800,Loja da Aliança dos Aventureiros - {Param},Artisans Guild
+109900,Loja da Aliança dos Aventureiros - {Param},Guilda dos Avaliadores
+110000,Loja da Aliança dos Aventureiros - {Param},Hunters Guild
+110100,Loja da Aliança dos Aventureiros - {Param},Guilda dos Exploradores
+110200,Loja da Aliança dos Aventureiros - {Param},Wayfinders Guild
+110300,Ancient Coin Shop,
+110400,Clan’s Ancient Coins Shop,
+110500,Adventurers’ Alliance Guild Coin Shop,
+110600,Giant's Tower - {Param},Black Crystal Shop
+110700,Skill Loja,
+110800,Relíquias de uma civilização perdida! Compre,Relíquias da Civilização! Comprar
+110810,Abyss Battlefield - {Param},Gold Crystal Shop
+110820,Rift Shop,
+110830,Abyssal Token Shop,
+110850,Loja - Produto ({Param}),Sacred Relic Exchange Shop
+111000,Loja - {Param},Invocar traje
+111001,Loja - {Param},Aumentar a taxa de invocação de fantasia
+111002,Loja - {Param},Convocar arma fantasma
+111003,Loja - {Param},Keyring Summon
+111100,Clan’s Ancient Coins Shop,Ancient Coin Shop
+111200,Adventurers’ Alliance Guild Coin Shop,Loja de moedas da aliança
+111300,Giant's Tower - {Param},Black Crystal Shop
+111400,Clã {Param},Doação
+111500,Clã {Param},Hostil
+111600,Clã {Param},Pesquisa
+111700,Clã {Param},Distribuir recursos
+111800,Eventos - [Keyword],
+111900,Eventos - [Keyword],
+112000,Eventos - [Keyword],
+112100,Eventos - [Keyword],
+112200,Eventos - [Keyword],
+112201,Eventos - [Keyword],
+112202,Eventos - [Keyword],Troca de token de aniversário de 100 dias
+112203,Eventos - [Keyword],Troca de Restos da Incursão
+112204,Eventos - [Keyword],Evento de troca de detritos do abismo
+112205,Eventos - [Keyword],Evento de troca de token do Dia da Mentira
+112206,Eventos - [Keyword],Troca de Caixa Misteriosa!
+112207,Eventos - [Keyword],Evento de troca de detritos do abismo
+112300,Tesseract - {Param},Criar
+112400,Roleta de Natal e Feliz Ano Novo,
+112401,Upgrade Boost Roulette,
+112402,Evento de roleta de aniversário de 200 dias,
+112403,Roleta de reforço de atualização de verão,
+112500,Evento de Rolagem de Dados - {Param},Inverno na Terra Abandonada!
+112501,Evento de Rolagem de Dados - {Param},Festival de Dados da Primavera!
+112502,Evento de Rolagem de Dados - {Param},Festival de Dados de Verão!
+112600,- [Keyword],
+112700,Redefinição de ressonância - [Keyword],
+112800,Ressonância - [Keyword] Amplificação de ressonância,
+112900,Expedição de Clã Entrance,
+113000,- {Param},Desbloquear
+113100,- {Param},Transcender
+113200,- {Param},Aumento de nível
+113300,Trial Gates - Missão de conclusão instantânea,
+113400,Santuário Etéreo - Missão Completa Instantaneamente,
+113401,Descubra o tesouro oculto de Naruru!,
+113402,Melhorar OOPArt,
+113500,Ascensão do limite do chaveiro,
+113600,Treinamento de chaveiro,
+113700,Title Desbloquear,
+113800,OOParts - {Param},Investigação
+113900,Ativar Semente de Réplica,

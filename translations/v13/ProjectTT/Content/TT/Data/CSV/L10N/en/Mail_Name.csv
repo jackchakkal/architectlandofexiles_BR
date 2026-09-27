@@ -1,0 +1,229 @@
+﻿Id,Sender,Title,Content
+1,Sistema,O e-mail chegou,"Por favor, verifique os itens no correio."
+2,Sistema,Convocar Recompensa de Contagem,Enviado por correio devido a espaço insuficiente no inventário.
+101,Sistema,Recompensa do Rift,Enviado por correio devido a espaço insuficiente no inventário.
+102,Sistema,Algoritmo de Giant's Tower - Fornecimento de,Enviado por correio devido a espaço insuficiente no inventário.
+103,Sistema,Recompensa do fornecedor,Enviado por correio devido a espaço insuficiente no inventário.
+104,Sistema,[PassName] Recompensa,Enviado por correio devido a espaço insuficiente no inventário.
+105,Sistema,Arbiter’s Ordeal Recompensa,Enviado por correio devido a espaço insuficiente no inventário.
+106,Sistema,Baú de tesouro,Enviado por correio devido a espaço insuficiente no inventário.
+107,Sistema,Baú de Tesouro Especial,Enviado por correio devido a espaço insuficiente no inventário.
+108,Sistema,Recompensa premium do passe de temporada,Enviado por correio devido a espaço insuficiente no inventário.
+109,Sistema,Recompensa de Incursão,Enviado por correio devido a espaço insuficiente no inventário.
+110,Sistema,Recompensa da Grande Incursão,Enviado por correio devido a espaço insuficiente no inventário.
+111,Sistema,Recompensa do chefe do Rift,Enviado por correio devido a espaço insuficiente no inventário.
+112,Sistema,Recompensas da Shadow Incursion,Enviado por correio devido a espaço insuficiente no inventário.
+113,Sistema,[PassName] O período de recompensa premium,Enviado por correio devido a espaço insuficiente no inventário.
+114,Sistema,Recompensa do Passe de Convocação,Enviado por correio devido a espaço insuficiente no inventário.
+201,Sistema,A recompensa foi alterada.,[OriginalCount] [OriginalName] alterado para [MigratedCount] [MigratedName].
+202,Sistema,Restos do evento de incursão encerrado,[OriginalCount] [OriginalName] alterado para [MigratedCount] [MigratedName].
+203,Sistema,Restos do evento de incursão encerrado,[OriginalCount] [OriginalName] alterado para [MigratedCount] [MigratedName].
+204,Sistema,Restos do evento de incursão encerrado,[OriginalCount] [OriginalName] alterado para [MigratedCount] [MigratedName].
+205,Sistema,Restos do evento de incursão encerrado,[OriginalCount] [OriginalName] alterado para [MigratedCount] [MigratedName].
+206,Sistema,Infinito Temporada do corredor encerrada,[OriginalCount] [OriginalName] alterado para [MigratedCount] [MigratedName].
+207,Sistema,Festival de Halo encerrado,[OriginalCount] [OriginalName] alterado para [MigratedCount] [MigratedName].
+208,Sistema,foram convertidas em ouro.,[OriginalName] x[OriginalCount] convertido em [MigratedName] x[MigratedCount].
+209,Sistema,Melhorias no token de extermínio do Rift,"Seu [OriginalName] x[OriginalCount] foi convertido para recursos.
+Eles não ocupam mais slots de inventário e podem ser visualizados na guia Recursos."
+210,Sistema,Moedas Especiais de Arma Fantasma foram convertidas em Ouro.,[OriginalName] x[OriginalCount] convertido em [MigratedName] x[MigratedCount].
+211,Sistema,foram convertidas em ouro.,Moedas de Fantasia Especial foram convertidas em Ouro. Uma única moeda é convertida em 1.000 ouro.
+212,Sistema,Ataque em Titan Moedas Especiais foram convertidas em Ouro.,O ataque às moedas especiais Titan foi convertido em ouro. Uma única moeda é convertida em 1.000 ouro.
+213,Sistema,Moedas Especiais de Relíquias Sagradas foram convertidas em Ouro.,Moedas Especiais de Relíquia Sagrada foram convertidas em Ouro. Uma única moeda é convertida em 1.000 ouro.
+214,Sistema,O Impulso da Atualização de Verão Os bilhetes de roleta foram convertidos em Ouro.,Cada bilhete da Summer Upgrade Boost Roulette foi convertido em 1.000 Gold.
+215,Sistema,Moedas Especiais de Arma Fantasma foram convertidas em Ouro.,Moedas especiais de arma fantasma foram convertidas em ouro a uma taxa de 1.000 ouro por moeda.
+301,Sistema,Transferência do servidor do clã,Seu clã foi transferido para o servidor [ServerName].
+302,Sistema,Ticket de transferência de servidor de conta expirado,Ticket de transferência de servidor de conta expirou e o valor da compra foi reembolsado.
+303,Sistema,O ticket de transferência do servidor do clã expirou,O ticket de transferência do servidor do clã expirou e a compra valor foi reembolsado.
+304,Sistema,Moeda de mudança de classe expirada,expiraram; elas foram substituídas por moedas de mudança de classe antiga.
+305,Sistema,Ticket de Mudança de Classe Expirado,Tickets de Mudança de Classe expiraram; eles foram reembolsados.
+306,Sistema,Transferência de servidor High Pass concluída,Bilhetes de transferência não utilizados foram reembolsados.
+307,Sistema,Marketplace Item retirado,Marketplace itens foram retirados devido a transferência forçada.
+308,Sistema,Liquidação não reclamada paga,As vendas não pagas de Marketplace foram pagas devido à transferência forçada.
+309,Sistema,Moeda de mudança de classe expirada,Moedas de mudança de classe foram convertidas em ouro. Uma única moeda é convertida em 1.000 ouro. As moedas de mudança de classe
+1000,Sistema,Convite para bate-papo em grupo,Aceita o convite de [ChatRoomName]?
+1001,Sistema,Resultado do Pedido de Vingança,"Membro do Clã [CharacterName] derrotou [TargetName], completando seu vingança."
+1002,Sistema,Resultado da solicitação de recompensa,"[CharacterName] derrotou [TargetName], completando a recompensa."
+1003,Sistema,Recompensa de recompensa,Recebeu uma recompensa de [CharacterName] por derrotar [TargetName].
+1004,Sistema,Mensagem de provocação chegou,"Uma mensagem de provocação chegou de [CharacterName] que derrotou você.
+:[TauntMessage]"
+1005,Sistema,Recompensa de restauração EXP,Recebeu uma recompensa porque [CharacterName] prosseguiu com a restauração de EXP.
+1006,Sistema,Monolith War Recompensa de participação,"[MonolithName] recompensa de participação para [WinLose] A guerra chegou.
+Verifique os itens anexados."
+1007,Sistema,Monolith War Recompensa de classificação,"Monolith War a recompensa de classificação chegou.
+Verifique os itens anexados."
+1008,Sistema,Inventário Cheio,Enviado por correio devido a espaço insuficiente no inventário.
+1009,Sistema,Tesseract Recompensa de contribuição,Enviado por correio devido a espaço insuficiente no estoque para recompensa de contribuição [ItemName].
+1010,Sistema,Tesseract Recompensa de instalação,Enviado por correio devido a espaço insuficiente no inventário para o prêmio de instalação [ItemName].
+1011,Sistema,Recompensa de distribuição de recursos do clã,As recompensas de recursos distribuídas pelo Clã chegaram. Verifique os itens anexados.
+1012,Sistema,Santuário Etéreo Recompensa de conclusão,[DungeonName] Etéreo A recompensa do Santuário chegou. Verifique os itens anexados.
+1013,Sistema,Trial Gate Clear Reward,[DungeonName] A recompensa do Trial Gate chegou. Verifique os itens anexados.
+1014,Sistema,Recompensa de Classificação de Evento Evento,Recebeu uma recompensa por alcançar [EventName] em [Ranking].
+1015,Sistema,Compra de Evento Recompensas de Marco,Recebeu uma recompensa por atingir pontos [EventName] em [RewardGrade].
+1016,Sistema,Você ganhou o clã “Random Draw Sale”,"O item comprado ao vencer o sorteio aleatório no Clã Marketplace chegou.
+Verifique os itens anexados."
+1017,Sistema,Você não ganhou a “Venda de sorteio aleatório” do clã,"Recurso reembolsado devido a não vitória chegou a venda por sorteio aleatório no Clã Marketplace.
+Confira os itens anexados."
+1018,Sistema,Você ganhou o “Leilão de lance mais alto” do clã,"Você ganhou o item vendido através do leilão de lance mais alto no clã Marketplace.
+Verifique os itens anexados."
+1019,Sistema,Reembolso do “leilão de lance mais alto” do clã,"Um leilão de lance mais alto foi realizado em um item listado no Clã Marketplace. Seu lance foi reembolsado.
+Verifique os itens anexados."
+1020,Sistema,Notificação de recompensa,[CharacterName] registrou você como alvo de recompensa.
+1021,Sistema,Compra de Evento Recompensas de Marco,Enviado para caixa de entrada devido ao estoque cheio.
+1022,Sistema,Recompensa de conclusão da missão da loja,Recebeu a recompensa [EventName] de [RewardGrade].
+1023,Sistema,[Privilégio do Sucessor] Chave do Árbitro Emitida,"Como benefício do Privilégio do Sucessor, a Chave Arbiter’s Ordeal é emitida diariamente."
+1024,Sistema,Recompensa de Produto do Clã,Um presente de [CharacterName] chegou.
+1025,Sistema,[TargetName] Aviso de expiração,"[TargetName] expirou e todos os benefícios terminaram.
+Reinscreva-se para continuar usando os benefícios."
+1026,Sistema,Limite de recurso excedido,Enviado por correio devido a exceder o limite de recursos.
+1027,Sistema,Limite de item excedido,Enviado por correio por exceder o limite de itens.
+1028,Sistema,Recompensa de conclusão do estágio do corredor infinito,"Enviado por correio devido a exceder o limite de itens.
+Recompensa para a Temporada do Corredor Infinito[SeasonNo] O estágio [StageNo] chegou."
+1029,Sistema,Recompensa de classificação de final de temporada do corredor infinito,"Enviado por correio porque o limite de itens foi excedido.
+O prêmio da Temporada do Corredor Infinito [SeasonNo] [LeagueName] A fase de classificação da liga chegou."
+1030,Sistema,Recompensa da Liga de Fim de Temporada do Corredor Infinito,"Enviado por correio devido a exceder o limite de itens.
+Recompensa pela Temporada do Corredor Infinito [SeasonNo] [LeagueName] A adesão à Liga chegou."
+1049,Sistema,Temporada do corredor infinito terminando em breve,Temporada do Corredor Infinito [SeasonNo] fecha em 3 dias.
+1050,Sistema,Temporada do corredor infinito terminando em breve,Temporada do corredor infinito [SeasonNo] fecha em 1 dia.
+1051,Sistema,Recompensa de Participação no Corredor Perpétuo do Clã,"Enviado por correio devido à capacidade máxima de itens.
+A recompensa de participação para a temporada do corredor perpétuo do clã [SeasonNo] chegou."
+1052,Sistema,Recompensa de Classificação de Final de Temporada do Corredor Perpétuo do Clã,"Enviado por correio devido à capacidade máxima de itens.
+A recompensa de classificação para a Temporada do Corredor Perpétuo do Clã [SeasonNo] chegou."
+1031,Sistema,[EventName] Recompensas de marco de pontuação do evento,[EventName] A recompensa por marco de pontuação do evento chegou.
+1032,Sistema,[EventName] Recompensa de classificação do evento,[EventName] A recompensa de classificação do evento chegou.
+1033,Sistema,Hidden Trial Gate Clear Reward,A recompensa de conclusão do Hidden Trial Gate chegou. Verifique os itens anexados.
+1037,Sistema,[EventName] Recompensa por realização de convite,Chegou uma recompensa por convidar amigos [Count] para [EventName].
+1038,Sistema,[EventName] Recompensa por realização de missão,Chegou uma recompensa por completar a missão [EventName].
+1039,Sistema,Recompensa de missão de amigo High Pass,Chegou uma recompensa por completar um evento High Pass Friend Mission após aceitar um convite de amigo.
+1040,Sistema,Recompensa de convite de amigo High Pass,Uma recompensa chegou porque um amigo completou todos os eventos High Pass Friend Mission.
+1041,Sistema,Recompensa de convite de amigo High Pass,Uma recompensa chegou porque 3 amigos completaram todos os eventos High Pass Friend Mission.
+1042,Sistema,Recompensa de convite de amigo High Pass,Uma recompensa chegou porque 5 amigos completaram todos os eventos High Pass Friend Mission.
+1043,Sistema,Recompensa de Expedição de Clã,"A recompensa da expedição do clã chegou.
+Por favor, verifique os itens anexados."
+1044,Sistema,Missão do clã,As recompensas não reclamadas da Missão do Clã da semana passada chegaram.
+1045,Sistema,[Bênção do Gigante]: Bilhete de recarga Hot Time da Giant's Tower,Giant: Bilhete de recarga Hot Time da Giant's Tower entregue diariamente.
+1046,Sistema,[Bênção do Gigante]: Cristal de Autoridade,Bênção do Gigante: Cristal de Autoridade entregue diariamente. Bênção de
+1047,Sistema,Abyss Battlefield: Recompensas de classificação da temporada,Abyss Battlefield: As recompensas de classificação da temporada chegaram. Verifique os itens anexados.
+1048,Sistema,Abyss Battlefield: Recompensas de classificação semanal,Abyss Battlefield As recompensas de classificação semanal chegaram. Por favor verifique os itens anexados.
+1055,Sistema,Recompensa da Liga da Arena,Recompensa da Liga da Arena enviada por correio devido a inventário insuficiente.
+1056,Sistema,Recompensa de final de temporada de arena,Recompensa de temporada de arena enviada por correio devido a inventário insuficiente.
+1057,Sistema,Apostas em torneio #[Rank] Recompensa,"Sua recompensa por colocar #[Rank] nas apostas [TournamentName] foi enviada para seu e-mail.
+Recompensa total: [TotalReward]
+#[Rank] Taxa de distribuição: [Rate]%
+#[Rank] Conquistadores: [Count]
+※ Se uma classificação não tiver jogadores qualificados, sua parcela de recompensa será redistribuída igualmente entre as classificações ativas restantes. Os índices de distribuição finais podem variar da taxa básica."
+1058,Sistema,Recompensas de Predição Correta do Clã Vencedor do Torneio,"Você previu corretamente o [TournamentName] Champion! Sua recompensa foi enviada por correio.
+Clã campeão: [WinnerClanName]"
+1059,Sistema,Clã Vencedor do Torneio Predição Incorreta Recompensas,"Você previu corretamente o clã [TournamentName] Champion! Sua recompensa foi enviada por correio.
+Sua previsão: [PickClanName]
+Clã campeão: [WinnerClanName]"
+1060,Sistema,Previsão da Rodada do Torneio: Recompensas de Pontuação Total,"Sua recompensa de pontuação total para previsões da rodada [TournamentName] foi enviada por correio.
+Pontuação total obtida: [Score]"
+1061,Sistema,Servidor de Torneio Recompensas de Vitória do Clã,Clã [ClanName] do seu servidor de won em [TournamentName] [RoundName]! Sua recompensa foi enviada por correio.
+1062,Sistema,Resultados finais do torneio e recompensas de classificação,Sua recompensa pessoal com base nos resultados finais e classificações de [TournamentName] foi enviada por correio.
+1063,Sistema,Recompensas de participação em torneio não reivindicadas,Você saiu do campo de batalha antes de reivindicar sua recompensa de participação no torneio. Foi enviado via Mail.
+1064,Sistema,Recompensas MVP de torneio não reivindicadas,Você saiu do campo de batalha antes de reivindicar sua recompensa de MVP do torneio. Foi enviado via Mail.
+1070,Sistema,Convite de amigo Evento Recompensa,"Sua recompensa não reclamada do evento de convite de amigo chegou.
+Verifique os itens anexados."
+5001,Sistema,[PassName] Finalizar recompensa,[PassName] terminou. Aqui estão as recompensas restantes.
+5002,Sistema,Recompensa,A recompensa do evento de participação de 7 dias chegou. Verifique os itens anexados.
+5003,Sistema,Recompensa,A recompensa do evento de participação de 28 dias chegou. Verifique os itens anexados.
+5004,Sistema,Recompensa,A recompensa do evento de missão “Jornada de Aventureiro Parte 1” chegou. Verifique os itens anexados.
+5005,Sistema,Recompensa,A recompensa do evento de missão “Jornada de Aventureiro Parte 2” chegou. Verifique os itens anexados.
+5006,Sistema,Recompensa,A recompensa do evento de missão “Jornada de Aventureiro Parte 3” chegou. Verifique os itens anexados.
+5007,Sistema,Recompensa,A recompensa do evento de missão “Jornada de Aventureiro Parte 4” chegou. Verifique os itens anexados.
+5008,Sistema,Recompensa,A recompensa do Evento de Missão “Vamos Melhorar! Campanha” chegou. Verifique os itens anexados.
+10000,Evrin ,Primeira Carta de Saudações,"Já faz um tempo, Aventureiro.
+É Evrin da Wayfinders Guild.
+
+Como é a vida no Abandoned Land?
+Há muitos monstros aqui que você nunca viu antes e as armas disponíveis para você são diferentes. Mesmo assim, acredito que você se adaptará bem.
+
+Não é nada grandioso, mas preparei um presente.
+Isso ajudará você a se adaptar à vida aqui.
+Até mais."
+10001,Evrin ,Segunda carta de saudações,"Como você está, aventureiro?
+É Evrin da Wayfinders Guild.
+
+Estou curioso para saber como está indo sua jornada no deserto.
+Você está encontrando o que procura sem dificuldade?
+
+Se você estiver perdido para o que fazer, pode ser útil abrir o <Yellow>Guidebook</>. Apenas completar as missões concede recompensas.
+
+Ah, certo, não é nada grandioso, mas trouxe outro pequeno presente.
+Espero que ajude sua vida aqui, mesmo que só um pouco."
+10002,Henrik,Você está são e salvo?,"Sou eu, Henrik.
+Ei…! Nem pense em fechar isso. Não estou entrando em contato com você por causa do meu irmão.
+
+Como estão seus armamentos? Para lutar adequadamente contra monstros, você precisa cuidar dele regularmente.
+Portanto, não faça nada inútil como economizar <Yellow>Pedras de aprimoramento</>.
+
+Aproveite esta oportunidade para verificar seu aprimoramento status.
+Criar é importante, é claro, mas deve ser adequadamente aprimorado para funcionar plenamente.
+Cortar esses bastardos ao meio não é tão difícil, eu lhe digo.
+
+Ah, certo, quando você vier para Babylon, dê uma passada no Blacksmith Guild.
+Mesmo meu irmão não seria tão teimoso quanto antes.
+
+Estarei esperando."
+10003,Evrin ,Terceira Carta de Saudações,"É Evrin da Wayfinders Guild.
+Já é a terceira carta.
+
+Originalmente, este é o trabalho do Explorer Guild Master, mas como ele é uma pessoa tão ocupada, acabei pisando in.
+
+Você conhece bem os <Yellow>Portões de teste</> e <Yellow>Santuários etéreos</> em Abandoned Land, certo? Ouvi dizer que eles são famosos entre os aventureiros como uma das maneiras de obter recompensas especiais e ficar mais fortes, então me pergunto como é para você.
+
+Seria uma pena apenas dizer para você ir de forma imprudente, então anexei um presente como sempre.
+Até mais."
+10004,Guilda dos Exploradores,Codex Informações,"Olá, aqui é o Explorer Guild.
+Estamos enviando esta carta para fornecer informações sobre o Codex, então verifique.
+
+◈ Como usar o Codex ◈ 
+1. Encontre <Yellow> Baús de Tesouro</> e <Yellow>Resquícios do Gigante</>escondidos em todos os lugares.
+2. Quando o registro for registrado no <Yellow>Codex</>, uma recompensa será concedida.
+
+※ Esta carta recebeu permissão oficial de Orica, o Explorer Guild Master.
+※ A Explorer Guild sempre dá as boas-vindas a novos aventureiros.
+
+◈ Avaliações de aventureiros que gravaram o Codex ◈
+※ Este conteúdo foi escrito com o consentimento dos aventureiros.
+1. Aventureiro Áspero C: Ha! Não há ninguém que encontre as coisas tão bem quanto eu! Este nível de dificuldade não é nada!
+2. Calm Scholar V: Se você está sedento por novas descobertas, o Codex irá saciar essa sede."
+10005,Aman,Do Mestre da Aliança do Aventureiro,"Já faz um tempo.
+Tenho ouvido muito sobre você em Babylon ultimamente...
+Todos estão elogiando seu excelente skills e caráter confiável.
+
+Então, o que você diga para completar <Yellow>Tarefas da Aliança do Aventureiro</> e <Yellow>Sub Missões</> sempre que tiver tempo? Pode ser uma experiência pequena, mas essas relações acumuladas não poderiam levar a um crescimento maior? 
+
+É modesto, mas enviei uma recompensa junto com isso, então não se esqueça de reivindicá-la.
+Esperando pelo dia em que nos encontraremos novamente."
+10006,Henrik,Informações importantes compartilhadas,"Sou eu, Henrik.
+Você está cuidando bem de seus braços e armadura, certo? Hmm, seria um pouco problemático se você não estivesse.
+
+Na verdade, um relatório urgente foi para a Guilda dos Caçadores e fluiu até aqui.
+Ouvi dizer que você pode obter <Red>Equipamento poderoso</> no <Red>Sunrise Slope</> ou o <Blue>Tenebrous Hollow</>.
+
+Se você desenvolveu bem seus braços e armadura até agora, algo assim não deveria ser nada, então por que você não faz isso? vá dar uma olhada?
+
+Ah, por que estou te contando isso de repente?
+Bem… Isso é porque você tem que continuar atendendo nossos pedidos!
+Isso é tudo que sei, então vá verificar os detalhes você mesmo.
+
+Boa sorte."
+10007,Evrin ,Parabéns!,"Este é Evrin da Wayfinders Guild.
+
+Ouvi dizer que você completou com sucesso seu primeiro Avanço? Todos estão simplesmente maravilhados, porque nenhum outro Aventureiro alcançou seu primeiro Avanço tão rápido.
+
+Eu gostaria de poder terminar esta carta com uma nota de parabéns, mas <Red>Incursões</> têm ocorrido com frequência em todo o mundo. land.
+
+Agora que você ficou mais forte, não seria ótimo usar esse poder para uma causa significativa?
+Monstros poderosos estão saindo de fendas criadas por Incursões, representando perigo extremo. Mas ouvi dizer que eles oferecem recompensas satisfatórias se você conseguir derrotá-los.
+
+Bem, talvez você queira se tornar um modelo para aqueles que não têm experiência...
+
+E aqui estou eu, divagando novamente.
+Encluí um presente em antecipação de suas futuras façanhas. Espero que gostem.
+
+Esperamos que nos encontremos novamente com boas notícias."
+30000,Sistema,Giant’s Vending Machine Sorteio de recompensa,Sua recompensa de sorteio do Giant’s Vending Machine chegou.
+99998,Sistema,Reembolso da taxa de postagem no mercado,"O item que você postou no mercado expirou, então a taxa Gold de registro foi reembolsada."
+99999,Sistema,[ShopName],Seu [ShopName] chegou.

@@ -1,0 +1,23 @@
+﻿Id,EmoticonName,EmoticonCommand,EmoticonDescription
+1,Olá,({EmoticonName}),Este é o emote {EmoticonName}.
+2,Hehe,({EmoticonName}),Este é o emote {EmoticonName}.
+3,Emocionado,({EmoticonName}),Este é o emote {EmoticonName}.
+4,Obrigado,({EmoticonName}),Este é o emote {EmoticonName}.
+5,Melhor,({EmoticonName}),Este é o emote {EmoticonName}.
+6,"Vá, vá",({EmoticonName}),Este é o emote {EmoticonName}.
+7,Entediado,({EmoticonName}),Este é o emote {EmoticonName}.
+8,Cheer,({EmoticonName}),Este é o emote {EmoticonName}.
+9,Por favor,({EmoticonName}),Este é o emote {EmoticonName}.
+10,Coração,({EmoticonName}),Este é o emote {EmoticonName}.
+11,Sono,({EmoticonName}),Este é o emote {EmoticonName}.
+12,Ok,({EmoticonName}),Este é o emote {EmoticonName}.
+13,Não não,({EmoticonName}),Este é o emote {EmoticonName}.
+14,Rir,({EmoticonName}),Este é o emote {EmoticonName}.
+15,Hmph,({EmoticonName}),Este é o emote {EmoticonName}.
+16,Desculpe,({EmoticonName}),Este é o emote {EmoticonName}.
+17,Tímido,({EmoticonName}),Este é o emote {EmoticonName}.
+18,Choro,({EmoticonName}),Este é o emote {EmoticonName}.
+19,Sério,({EmoticonName}),Este é o emote {EmoticonName}.
+20,Pergunta,({EmoticonName}),Este é o emote {EmoticonName}.
+21,Gasp,({EmoticonName}),Este é o emote {EmoticonName}.
+22,Hmm,({EmoticonName}),Este é o emote {EmoticonName}.

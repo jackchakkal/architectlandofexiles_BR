@@ -1,0 +1,13 @@
+﻿Id,DayOver,DayOverNextUnit,HourOver,HourOverNextUnit,MinOver,MinOverNextUnit,MinUnder
+0,[d] d [h] h restantes,,[h] h [m] m restantes,,[m] m [s] s restantes,,[s] s restantes
+1,[d] d restantes,,[h] h restantes,,[m] m restantes,,[s] s restantes
+2,[hh]:[mm]:[ss] restantes,,[hh]:[mm]:[ss] restantes,,[mm]:[ss] restantes,,[mm]:[ss] restantes
+3,[d] d [h] h [s] s restantes,,[h] h [m] m [s] s restantes,,[m] m [s] s restantes,,[s] s restantes
+4,[d] dias,[d] dia(s) [h] hora(s),[h] horas,[h] hora(s) [m] min(s),[m] minutos,[m] min(s) [s] seg(s),[s] segundos
+5,[d] dias,,[h] horas,,[m] minutos,,[s] segundos
+6,[hh]:[mm]:[ss],,[hh]:[mm]:[ss],,[mm]:[ss],,[mm]:[ss]
+7,[d] d [h] h [s] s,,[h] hora(s) [m] min(s) [s] seg(s),,[m] min(s) [s] seg(s),,[s] segundos
+9,[hh]:[mm]:[ss],,[hh]:[mm]:[ss],,[hh]:[mm]:[ss],,[hh]:[mm]:[ss]
+10,[hh]:[mm]:[ss],[hh]:[mm]:[ss],[hh]:[mm]:[ss],[mm]:[ss],[mm]:[ss],[mm]:[ss],[mm]:[ss]
+8,[YYYY]-[MM]-[DD] [hh]:[mm],,[YYYY]-[MM]-[DD] [hh]:[mm],,[YYYY]-[MM]-[DD] [hh]:[mm],,[YYYY]-[MM]-[DD] [hh]:[mm]
+11,,,,,,,[s] segundos

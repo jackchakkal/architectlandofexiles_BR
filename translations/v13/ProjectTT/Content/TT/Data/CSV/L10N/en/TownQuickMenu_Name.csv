@@ -1,0 +1,465 @@
+﻿Id,Name
+1,Loja de Moedas Antigas
+2,Casa de Comissões
+3,Sacerdote curandeiro
+4,Mercador geral
+5,Guardião do depósito
+6,Loja de Moedas da Adventurers Alliance
+7,Máquina de venda
+8,Máquina de venda do Gigante
+9,Mercador de livros de Skill
+10,Loja de Moedas Antigas do Clã
+11,Mercador geral
+12,Guardião do depósito
+13,Sacerdote curandeiro
+14,Loja de Moedas Antigas
+15,Mercador de livros de Skill
+16,Loja de Moedas da Adventurers Alliance
+17,Casa de Comissões
+18,Loja de Moedas Antigas do Clã
+19,Mercador geral
+20,Guardião do depósito
+21,Sacerdote curandeiro
+22,Mercador de livros de Skill
+23,Loja de Moedas Antigas
+24,Loja de Moedas da Adventurers Alliance
+25,Casa de Comissões
+26,Loja de Moedas Antigas do Clã
+27,Mercador geral
+28,Guardião do depósito
+29,Sacerdote curandeiro
+30,Mercador geral
+31,Guardião do depósito
+32,Sacerdote curandeiro
+33,Mercador geral
+34,Guardião do depósito
+35,Sacerdote curandeiro
+36,Mercador geral
+37,Guardião do depósito
+38,Sacerdote curandeiro
+39,Mercador geral
+40,Guardião do depósito
+41,Sacerdote curandeiro
+42,Mercador geral
+43,Guardião do depósito
+44,Sacerdote curandeiro
+50,Mercador geral
+51,Guardião do depósito
+52,Casa de Comissões
+53,Loja de Moedas Antigas
+54,Sacerdote curandeiro
+55,Loja de Moedas da Adventurers Alliance
+56,Máquina de venda
+57,Mercador de livros de Skill
+58,Loja de Moedas Antigas do Clã
+59,Mercador geral
+60,Guardião do depósito
+61,Sacerdote curandeiro
+62,Casa de Comissões
+63,Mercador de livros de Skill
+64,Loja de Moedas Antigas
+65,Loja de Moedas da Adventurers Alliance
+66,Loja de Moedas Antigas do Clã
+67,Mercador geral
+68,Guardião do depósito
+69,Sacerdote curandeiro
+70,Mercador de livros de Skill
+71,Loja de Moedas Antigas
+72,Loja de Moedas da Adventurers Alliance
+73,Casa de Comissões
+74,Loja de Moedas Antigas do Clã
+75,Mercador geral
+76,Guardião do depósito
+77,Sacerdote curandeiro
+78,Mercador geral
+79,Guardião do depósito
+80,Sacerdote curandeiro
+81,Mercador geral
+82,Guardião do depósito
+83,Sacerdote curandeiro
+90,Loja de Moedas Antigas
+91,Casa de Comissões
+92,Sacerdote curandeiro
+93,Mercador geral
+94,Guardião do depósito
+95,Loja de Moedas da Adventurers Alliance
+96,Máquina de venda
+97,Mercador de livros de Skill
+98,Loja de Moedas Antigas do Clã
+99,Mercador geral
+100,Guardião do depósito
+101,Sacerdote curandeiro
+102,Mercador de livros de Skill
+103,Loja de Moedas Antigas
+104,Loja de Moedas da Adventurers Alliance
+105,Casa de Comissões
+106,Loja de Moedas Antigas do Clã
+108,Mercador geral
+109,Guardião do depósito
+110,Sacerdote curandeiro
+111,Mercador de livros de Skill
+112,Loja de Moedas Antigas
+113,Loja de Moedas da Adventurers Alliance
+114,Casa de Comissões
+115,Loja de Moedas Antigas do Clã
+116,Mercador geral
+117,Guardião do depósito
+118,Sacerdote curandeiro
+119,Mercador geral
+120,Guardião do depósito
+121,Sacerdote curandeiro
+122,Mercador geral
+123,Guardião do depósito
+124,Sacerdote curandeiro
+130,Mercador geral
+131,Guardião do depósito
+132,Casa de Comissões
+133,Loja de Moedas Antigas
+134,Sacerdote curandeiro
+135,Loja de Moedas da Adventurers Alliance
+136,Máquina de venda
+137,Mercador de livros de Skill
+138,Loja de Moedas Antigas do Clã
+139,Mercador geral
+140,Guardião do depósito
+141,Sacerdote curandeiro
+142,Mercador de livros de Skill
+143,Loja de Moedas Antigas
+144,Loja de Moedas da Adventurers Alliance
+145,Casa de Comissões
+146,Loja de Moedas Antigas do Clã
+147,Mercador geral
+148,Guardião do depósito
+149,Sacerdote curandeiro
+150,Mercador de livros de Skill
+151,Loja de Moedas Antigas
+152,Loja de Moedas da Adventurers Alliance
+153,Casa de Comissões
+154,Loja de Moedas Antigas do Clã
+155,Mercador geral
+156,Guardião do depósito
+157,Sacerdote curandeiro
+158,Mercador geral
+159,Guardião do depósito
+160,Sacerdote curandeiro
+161,Mercador geral
+162,Guardião do depósito
+163,Sacerdote curandeiro
+164,Mercador geral
+165,Guardião do depósito
+166,Sacerdote curandeiro
+167,Mercador geral
+168,Guardião do depósito
+169,Sacerdote curandeiro
+170,Mercador geral
+171,Guardião do depósito
+172,Sacerdote curandeiro
+210,Mercador geral
+211,Guardião do depósito
+212,Casa de Comissões
+213,Loja de Moedas Antigas
+214,Sacerdote curandeiro
+215,Loja de Moedas da Adventurers Alliance
+216,Máquina de venda
+217,Mercador de livros de Skill
+218,Loja de Moedas Antigas do Clã
+230,Mercador geral
+231,Guardião do depósito
+232,Sacerdote curandeiro
+233,Mercador de livros de Skill
+234,Loja de Moedas Antigas
+235,Loja de Moedas da Adventurers Alliance
+236,Casa de Comissões
+237,Loja de Moedas Antigas do Clã
+261,Mercador geral
+262,Guardião do depósito
+263,Sacerdote curandeiro
+264,Mercador geral
+265,Guardião do depósito
+266,Sacerdote curandeiro
+267,Mercador geral
+268,Guardião do depósito
+269,Sacerdote curandeiro
+270,Mercador geral
+271,Guardião do depósito
+272,Sacerdote curandeiro
+173,Loja de Cristais Dourados
+174,Loja de Cristais Dourados
+175,Loja de Cristais Dourados
+176,Loja de Cristais Dourados
+177,Loja de Cristais Dourados
+178,Loja de Cristais Dourados
+179,Loja de Cristais Dourados
+180,Loja de Cristais Dourados
+181,Loja de Cristais Dourados
+182,Loja de Cristais Dourados
+183,Loja de Cristais Dourados
+184,Loja de Cristais Dourados
+219,Loja de Cristais Dourados
+238,Loja de Cristais Dourados
+185,Loja do Rift
+186,Loja do Rift
+187,Loja do Rift
+188,Loja do Rift
+189,Loja do Rift
+190,Loja do Rift
+191,Loja do Rift
+192,Loja do Rift
+193,Loja do Rift
+194,Loja do Rift
+195,Loja do Rift
+196,Loja do Rift
+220,Loja do Rift
+239,Loja do Rift
+197,Loja de Fichas do Abismo
+198,Loja de Fichas do Abismo
+199,Loja de Fichas do Abismo
+200,Loja de Fichas do Abismo
+201,Loja de Fichas do Abismo
+202,Loja de Fichas do Abismo
+203,Loja de Fichas do Abismo
+204,Loja de Fichas do Abismo
+205,Loja de Fichas do Abismo
+206,Loja de Fichas do Abismo
+207,Loja de Fichas do Abismo
+208,Loja de Fichas do Abismo
+221,Loja de Fichas do Abismo
+240,Loja de Fichas do Abismo
+301,Loja da Arena
+302,Loja da Arena
+303,Loja da Arena
+304,Loja da Arena
+305,Loja da Arena
+306,Loja da Arena
+307,Loja da Arena
+308,Loja da Arena
+309,Loja da Arena
+310,Loja da Arena
+311,Loja da Arena
+312,Loja da Arena
+313,Loja da Arena
+314,Loja da Arena
+40011,Entrada
+40012,Mercador geral
+40013,Guardião do depósito
+40014,Loja de Cristais Negros
+40015,Sacerdote curandeiro
+40021,Entrada
+40022,Mercador geral
+40023,Guardião do depósito
+40024,Loja de Cristais Negros
+40025,Sacerdote curandeiro
+40031,Entrada
+40032,Mercador geral
+40033,Guardião do depósito
+40034,Loja de Cristais Negros
+40035,Sacerdote curandeiro
+40041,Entrada
+40042,Mercador geral
+40043,Guardião do depósito
+40044,Loja de Cristais Negros
+40045,Sacerdote curandeiro
+500211,Mercador geral
+500212,Guardião do depósito
+500213,Sacerdote curandeiro
+500214,Loja de Cristais Dourados
+500215,Loja de Fichas do Abismo
+500221,Mercador geral
+500222,Guardião do depósito
+500223,Sacerdote curandeiro
+500224,Loja de Cristais Dourados
+500225,Loja de Fichas do Abismo
+500231,Mercador geral
+500232,Guardião do depósito
+500233,Sacerdote curandeiro
+500234,Loja de Cristais Dourados
+500235,Loja de Fichas do Abismo
+500241,Mercador geral
+500242,Guardião do depósito
+500243,Sacerdote curandeiro
+500244,Loja de Cristais Dourados
+500245,Loja de Fichas do Abismo
+500251,Mercador geral
+500252,Guardião do depósito
+500253,Sacerdote curandeiro
+500254,Loja de Cristais Dourados
+500255,Loja de Fichas do Abismo
+500261,Mercador geral
+500262,Guardião do depósito
+500263,Sacerdote curandeiro
+500264,Loja de Cristais Dourados
+500265,Loja de Fichas do Abismo
+500311,Mercador geral
+500312,Guardião do depósito
+500313,Sacerdote curandeiro
+500314,Loja de Cristais Dourados
+500315,Loja de Fichas do Abismo
+500321,Mercador geral
+500322,Guardião do depósito
+500323,Sacerdote curandeiro
+500324,Loja de Cristais Dourados
+500325,Loja de Fichas do Abismo
+500331,Mercador geral
+500332,Guardião do depósito
+500333,Sacerdote curandeiro
+500334,Loja de Cristais Dourados
+500335,Loja de Fichas do Abismo
+500341,Mercador geral
+500342,Guardião do depósito
+500343,Sacerdote curandeiro
+500344,Loja de Cristais Dourados
+500345,Loja de Fichas do Abismo
+500351,Mercador geral
+500352,Guardião do depósito
+500353,Sacerdote curandeiro
+500354,Loja de Cristais Dourados
+500355,Loja de Fichas do Abismo
+500361,Mercador geral
+500362,Guardião do depósito
+500363,Sacerdote curandeiro
+500364,Loja de Cristais Dourados
+500365,Loja de Fichas do Abismo
+600111,Mercador geral
+600112,Guardião do depósito
+600113,Sacerdote curandeiro
+600114,Mercador geral
+600115,Guardião do depósito
+600116,Sacerdote curandeiro
+600121,Mercador geral
+600122,Guardião do depósito
+600123,Sacerdote curandeiro
+600124,Mercador geral
+600125,Guardião do depósito
+600126,Sacerdote curandeiro
+600131,Mercador geral
+600132,Guardião do depósito
+600133,Sacerdote curandeiro
+600134,Mercador geral
+600135,Guardião do depósito
+600136,Sacerdote curandeiro
+600141,Mercador geral
+600142,Guardião do depósito
+600143,Sacerdote curandeiro
+600144,Mercador geral
+600145,Guardião do depósito
+600146,Sacerdote curandeiro
+600151,Mercador geral
+600152,Guardião do depósito
+600153,Sacerdote curandeiro
+600154,Mercador geral
+600155,Guardião do depósito
+600156,Sacerdote curandeiro
+600161,Mercador geral
+600162,Guardião do depósito
+600163,Sacerdote curandeiro
+600164,Mercador geral
+600165,Guardião do depósito
+600166,Sacerdote curandeiro
+600171,Mercador geral
+600172,Guardião do depósito
+600173,Sacerdote curandeiro
+600174,Mercador geral
+600175,Guardião do depósito
+600176,Sacerdote curandeiro
+600181,Mercador geral
+600182,Guardião do depósito
+600183,Sacerdote curandeiro
+600184,Mercador geral
+600185,Guardião do depósito
+600186,Sacerdote curandeiro
+600211,Mercador geral
+600212,Guardião do depósito
+600213,Sacerdote curandeiro
+600214,Mercador geral
+600215,Guardião do depósito
+600216,Sacerdote curandeiro
+600221,Mercador geral
+600222,Guardião do depósito
+600223,Sacerdote curandeiro
+600224,Mercador geral
+600225,Guardião do depósito
+600226,Sacerdote curandeiro
+600231,Mercador geral
+600232,Guardião do depósito
+600233,Sacerdote curandeiro
+600234,Mercador geral
+600235,Guardião do depósito
+600236,Sacerdote curandeiro
+600241,Mercador geral
+600242,Guardião do depósito
+600243,Sacerdote curandeiro
+600244,Mercador geral
+600245,Guardião do depósito
+600246,Sacerdote curandeiro
+600251,Mercador geral
+600252,Guardião do depósito
+600253,Sacerdote curandeiro
+600254,Mercador geral
+600255,Guardião do depósito
+600256,Sacerdote curandeiro
+600261,Mercador geral
+600262,Guardião do depósito
+600263,Sacerdote curandeiro
+600264,Mercador geral
+600265,Guardião do depósito
+600266,Sacerdote curandeiro
+600271,Mercador geral
+600272,Guardião do depósito
+600273,Sacerdote curandeiro
+600274,Mercador geral
+600275,Guardião do depósito
+600276,Sacerdote curandeiro
+600281,Mercador geral
+600282,Guardião do depósito
+600283,Sacerdote curandeiro
+600284,Mercador geral
+600285,Guardião do depósito
+600286,Sacerdote curandeiro
+700111,Mercador geral
+700112,Guardião do depósito
+700113,Sacerdote curandeiro
+700114,Mercador geral
+700115,Guardião do depósito
+700116,Sacerdote curandeiro
+700121,Mercador geral
+700122,Guardião do depósito
+700123,Sacerdote curandeiro
+700124,Mercador geral
+700125,Guardião do depósito
+700126,Sacerdote curandeiro
+700131,Mercador geral
+700132,Guardião do depósito
+700133,Sacerdote curandeiro
+700134,Mercador geral
+700135,Guardião do depósito
+700136,Sacerdote curandeiro
+700141,Mercador geral
+700142,Guardião do depósito
+700143,Sacerdote curandeiro
+700144,Mercador geral
+700145,Guardião do depósito
+700146,Sacerdote curandeiro
+700151,Mercador geral
+700152,Guardião do depósito
+700153,Sacerdote curandeiro
+700154,Mercador geral
+700155,Guardião do depósito
+700156,Sacerdote curandeiro
+700161,Mercador geral
+700162,Guardião do depósito
+700163,Sacerdote curandeiro
+700164,Mercador geral
+700165,Guardião do depósito
+700166,Sacerdote curandeiro
+700171,Mercador geral
+700172,Guardião do depósito
+700173,Sacerdote curandeiro
+700174,Mercador geral
+700175,Guardião do depósito
+700176,Sacerdote curandeiro
+700181,Mercador geral
+700182,Guardião do depósito
+700183,Sacerdote curandeiro
+700184,Mercador geral
+700185,Guardião do depósito
+700186,Sacerdote curandeiro

@@ -1,0 +1,39 @@
+{
+  "version": "v13",
+  "translation_snapshot": "translations/v13",
+  "changes": "changes/v12-to-v13/changes.json",
+  "built_with": "tools/build_pak.py (equivalente a repak_cli 0.2.3 pack --version V11)",
+  "install_path": "ProjectTT/Content/Paks/pakchunk9999-Windows_21474835_P.pak",
+  "format": {
+    "pak_version": "V11",
+    "mount_point": "../../../",
+    "encrypted_index": true,
+    "path_hash_seed": "E92532A4",
+    "compression": "None",
+    "entries": 227
+  },
+  "files": {
+    "player_download": {
+      "filename": "Architect-PTBR-v13.zip",
+      "sha256": "4bbb78371d069e049281f989a3d22c679f26bfb8cd7889a5a9cc77f90b23db93"
+    },
+    "pak": {
+      "filename": "pakchunk9999-Windows_21474835_P.pak",
+      "bytes": 12447000,
+      "sha256": "2fbd0c5700ae3a932b556eb6b0ffd85ebabe3df318e6b86396b8896afdfe9486"
+    }
+  },
+  "validation": {
+    "audit": "../work/audit-v13.json",
+    "missing_tables": 0,
+    "missing_ids": 0,
+    "new_ids": 0,
+    "empty_translations": 0,
+    "placeholder_mismatches": 0,
+    "item_name_mismatches": 0,
+    "bad_tower_mentions": 0,
+    "pak_entries_match_snapshot": "227/227",
+    "completeness_zhCN": "../work/completeness-v13-zhCN.json"
+  },
+  "summary": "4.420 células alteradas: 293 rótulos de interface encurtados/corrigidos (por ID) e 4.127 células traduzidas a partir de lacunas detectadas por cruzamento com zh-CN (descrições de masmorras, balcões da cidade, rótulos de UI, títulos de missões/conquistas). 'Bênção do Gigante' padronizado; SupportLanguage_Name corrigida (seletor mostra 'Português (Brasil)'). Distribuição por override único."
+}
