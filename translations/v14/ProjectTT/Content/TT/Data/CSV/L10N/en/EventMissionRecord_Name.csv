@@ -11,7 +11,7 @@
 20306,Concluído {RequiredStackCount} Comissões semanais,Concluído {RequiredStackCount} Comissões semanais
 20307,Ganhe recompensas de contribuição de incursão {RequiredStackCount} vezes,Ganhe recompensas de contribuição de incursão {RequiredStackCount} vezes
 20308,Colete {RequiredStackCount} brilhos,Colete {RequiredStackCount} brilhos
-20309,Derrote monstros {RequiredStackCount} nas Terras Abandonadas,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+20309,Derrote monstros {RequiredStackCount} nas Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 20310,Doe para o seu clã {RequiredStackCount} vezes,Doe para o seu clã {RequiredStackCount} vezes
 20311,Concluído {RequiredStackCount} Comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 20312,Tentativa de aprimoramento de equipamento {RequiredStackCount} vezes,Tentativa de aprimoramento de equipamento {RequiredStackCount} vezes
@@ -23,7 +23,7 @@
 20406,Derrote os monstros chefes {RequiredStackCount} nos Campos de Caça,Derrote os monstros chefes {RequiredStackCount} nos Campos de Caça
 20407,Concluído {RequiredStackCount} Comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 20408,Tentativa de despertar da célula {RequiredStackCount} vezes,Tentativa de despertar da célula {RequiredStackCount} vezes
-20409,Derrote monstros {RequiredStackCount} nas Terras Abandonadas,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+20409,Derrote monstros {RequiredStackCount} nas Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 20410,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
 20411,Desmontar item {RequiredStackCount} vezes,Desmontar item {RequiredStackCount} vezes
 20501,Alcance o nível. {RequiredStackCount},Alcance o nível. {RequiredStackCount}
@@ -34,7 +34,7 @@
 20506,Lute em tempos Monolith War {RequiredStackCount},Lute em tempos Monolith War {RequiredStackCount}
 20507,Use 8 horas de Tempo quente da Giant's Tower,Use 8 horas de Tempo quente da Giant's Tower
 20508,Ganhe recompensas de contribuição de incursão {RequiredStackCount} vezes,Ganhe recompensas de contribuição de incursão {RequiredStackCount} vezes
-20509,Derrote monstros {RequiredStackCount} nas Terras Abandonadas,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+20509,Derrote monstros {RequiredStackCount} nas Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 20510,Concluído {RequiredStackCount} Comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 20511,Tentativa de aprimoramento de equipamento {RequiredStackCount} vezes,Tentativa de aprimoramento de equipamento {RequiredStackCount} vezes
 20601,Alcance o nível. {RequiredStackCount},Alcance o nível. {RequiredStackCount}
@@ -46,31 +46,31 @@
 20607,Commit PK {RequiredStackCount} vezes,Commit PK {RequiredStackCount} vezes
 20608,Use Tesseract {RequiredStackCount} vezes,Use Tesseract {RequiredStackCount} vezes
 20609,Limpar Rift {RequiredStackCount} Vezes,Limpar Rift {RequiredStackCount} Vezes
-20610,Derrote monstros {RequiredStackCount} nas Terras Abandonadas,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+20610,Derrote monstros {RequiredStackCount} nas Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 20611,Concluído {RequiredStackCount} Projetos de pesquisa da Adventurers Alliance,Concluído {RequiredStackCount} Projetos de pesquisa da Adventurers Alliance
-21001,Alcance a reputação da guilda dos ferreiros Lv. {RequiredStackCount},Alcance a reputação da guilda dos ferreiros Lv. {RequiredStackCount}
+21001,Alcance a reputação da Blacksmiths Guild Lv. {RequiredStackCount},Alcance a reputação da Blacksmiths Guild Lv. {RequiredStackCount}
 21002,Alcance Artisans Guild Reputação Lv. {RequiredStackCount},Alcance Artisans Guild Reputação Lv. {RequiredStackCount}
-21003,Alcance a reputação da guilda dos ferreiros Lv. {RequiredStackCount},Alcance a reputação da guilda dos ferreiros Lv. {RequiredStackCount}
+21003,Alcance a reputação da Blacksmiths Guild Lv. {RequiredStackCount},Alcance a reputação da Blacksmiths Guild Lv. {RequiredStackCount}
 21004,Alcance Artisans Guild Reputação Lv. {RequiredStackCount},Alcance Artisans Guild Reputação Lv. {RequiredStackCount}
 21005,Usar Weapon Enhancement Stone Recipe,Usar Weapon Enhancement Stone Recipe
 21006,Subir de nível Gudua,Subir de nível em qualquer Gudua {RequiredStackCount} vezes
-21007,Alcance a reputação da guilda dos ferreiros Lv. {RequiredStackCount},Alcance a reputação da guilda dos ferreiros Lv. {RequiredStackCount}
+21007,Alcance a reputação da Blacksmiths Guild Lv. {RequiredStackCount},Alcance a reputação da Blacksmiths Guild Lv. {RequiredStackCount}
 21008,Alcance Artisans Guild Reputação Lv. {RequiredStackCount},Alcance Artisans Guild Reputação Lv. {RequiredStackCount}
 3011,Subir de nível Gudua,Subir de nível em qualquer Gudua {RequiredStackCount} vezes
-3012,Insira o portão de teste,Insira Trial Gates {RequiredStackCount} vezes
-3013,Concluir portão de teste,Limpar Trial Gates {RequiredStackCount} Vezes
+3012,Insira o Trial Gate,Insira Trial Gates {RequiredStackCount} vezes
+3013,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
 3014,Traje para subir de nível,Traje para subir de nível {RequiredStackCount} Vezes
 3015,Aprimorar equipamento,Aprimorar equipamento {RequiredStackCount} vezes
 3016,Derrote monstros na Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
 3017,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 3018,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 3019,Lute na batalha Monolith War,Lute em tempos Monolith War {RequiredStackCount}
-3020,Concluir portão de teste,Limpar Trial Gates {RequiredStackCount} Vezes
+3020,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
 3021,Conclua o Santuário Etéreo,Limpe o Santuário Etéreo {RequiredStackCount} Vezes
 3022,Completar comissões semanais,Concluído {RequiredStackCount} Comissões semanais
 3023,Ganhe recompensas de contribuição de incursão,Ganhe recompensas de contribuição de incursão {RequiredStackCount} vezes
 3024,Colete brilhos,Colete {RequiredStackCount} brilhos
-3025,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+3025,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 3026,Doação do Clã,Doe para o seu clã {RequiredStackCount} vezes
 3027,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 3028,Tentativa de aprimoramento de equipamento,Tentativa de aprimoramento de equipamento {RequiredStackCount} vezes
@@ -82,7 +82,7 @@
 3034,Derrote os chefes do Hunting Grounds,Derrote os monstros chefes {RequiredStackCount} nos Campos de Caça
 3035,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 3036,Tentativa de despertar da célula,Tentativa de despertar da célula {RequiredStackCount} vezes
-3037,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+3037,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 3038,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
 3039,Desmontar item,Desmontar item {RequiredStackCount} vezes
 3040,Conquista de Nível,Alcance o nível. {RequiredStackCount}
@@ -93,7 +93,7 @@
 3045,Lute na batalha Monolith War,Lute em tempos Monolith War {RequiredStackCount}
 3046,Use o tempo quente da Giant's Tower,Use 8 horas de Tempo quente da Giant's Tower
 3047,Ganhe recompensas de contribuição de incursão,Ganhe recompensas de contribuição de incursão {RequiredStackCount} vezes
-3048,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+3048,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 3049,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 3050,Tentativa de aprimoramento de equipamento,Tentativa de aprimoramento de equipamento {RequiredStackCount} vezes
 3051,Conquista de Nível,Alcance o nível. {RequiredStackCount}
@@ -105,28 +105,28 @@
 3057,Commit PK,Commit PK {RequiredStackCount} vezes
 3058,Usar Tesseract,Use Tesseract {RequiredStackCount} vezes
 3059,Limpar Rifts,Limpar Rift {RequiredStackCount} Vezes
-3060,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+3060,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 3061,Conclua o projeto de pesquisa da Adventurers Alliance,Concluído {RequiredStackCount} Projetos de pesquisa da Adventurers Alliance
-3062,Ganhe reputação na Guilda dos Ferreiros,Alcance a reputação da guilda dos ferreiros Lv. {RequiredStackCount}
+3062,Ganhe reputação na Blacksmiths Guild,Alcance a reputação da Blacksmiths Guild Lv. {RequiredStackCount}
 3063,Ganhe reputação Artisans Guild,Alcance Artisans Guild Reputação Lv. {RequiredStackCount}
-3064,Ganhe reputação na Guilda dos Ferreiros,Alcance a reputação da guilda dos ferreiros Lv. {RequiredStackCount}
+3064,Ganhe reputação na Blacksmiths Guild,Alcance a reputação da Blacksmiths Guild Lv. {RequiredStackCount}
 3065,Ganhe reputação Artisans Guild,Alcance Artisans Guild Reputação Lv. {RequiredStackCount}
 3066,Usar itens,Usar ‘Weapon Enhancement Stone Recipe’
 3067,Subir de nível Gudua,Subir de nível em qualquer Gudua {RequiredStackCount} vezes
-3068,Insira o portão de teste,Insira Trial Gates {RequiredStackCount} vezes
-3069,Concluir portão de teste,Limpar Trial Gates {RequiredStackCount} Vezes
+3068,Insira o Trial Gate,Insira Trial Gates {RequiredStackCount} vezes
+3069,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
 3070,Traje para subir de nível,Traje para subir de nível {RequiredStackCount} Vezes
 3071,Aprimorar equipamento,Aprimorar equipamento {RequiredStackCount} vezes
 3072,Derrote monstros na Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
 3073,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 3074,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 3075,Lute na batalha Monolith War,Lute em tempos Monolith War {RequiredStackCount}
-3076,Concluir portão de teste,Limpar Trial Gates {RequiredStackCount} Vezes
+3076,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
 3077,Conclua o Santuário Etéreo,Limpe o Santuário Etéreo {RequiredStackCount} Vezes
 3078,Completar comissões semanais,Concluído {RequiredStackCount} Comissões semanais
 3079,Ganhe recompensas de contribuição de incursão,Ganhe recompensas de contribuição de incursão {RequiredStackCount} vezes
 3080,Colete brilhos,Colete {RequiredStackCount} brilhos
-3081,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+3081,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 3082,Doação do Clã,Doe para o seu clã {RequiredStackCount} vezes
 3083,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 3084,Tentativa de aprimoramento de equipamento,Tentativa de aprimoramento de equipamento {RequiredStackCount} vezes
@@ -138,7 +138,7 @@
 3090,Derrote os chefes do Hunting Grounds,Derrote os monstros chefes {RequiredStackCount} nos Campos de Caça
 3091,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 3092,Tentativa de despertar da célula,Tentativa de despertar da célula {RequiredStackCount} vezes
-3093,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+3093,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 3094,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
 3095,Desmontar item,Desmontar item {RequiredStackCount} vezes
 3096,Conquista de Nível,Alcance o nível. {RequiredStackCount}
@@ -149,7 +149,7 @@
 3101,Lute na batalha Monolith War,Lute em tempos Monolith War {RequiredStackCount}
 3102,Use o tempo quente da Giant's Tower,Use 8 horas de Tempo quente da Giant's Tower
 3103,Ganhe recompensas de contribuição de incursão,Ganhe recompensas de contribuição de incursão {RequiredStackCount} vezes
-3104,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+3104,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 3105,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 3106,Tentativa de aprimoramento de equipamento,Tentativa de aprimoramento de equipamento {RequiredStackCount} vezes
 3107,Conquista de Nível,Alcance o nível. {RequiredStackCount}
@@ -161,28 +161,28 @@
 3113,Commit PK,Commit PK {RequiredStackCount} vezes
 3114,Usar Tesseract,Use Tesseract {RequiredStackCount} vezes
 3115,Limpar Rifts,Limpar Rift {RequiredStackCount} Vezes
-3116,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+3116,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 3117,Conclua o projeto de pesquisa da Adventurers Alliance,Concluído {RequiredStackCount} Projetos de pesquisa da Adventurers Alliance
-3118,Ganhe reputação na Guilda dos Ferreiros,Alcance a reputação da guilda dos ferreiros Lv. {RequiredStackCount}
+3118,Ganhe reputação na Blacksmiths Guild,Alcance a reputação da Blacksmiths Guild Lv. {RequiredStackCount}
 3119,Ganhe reputação Artisans Guild,Alcance Artisans Guild Reputação Lv. {RequiredStackCount}
-3120,Ganhe reputação na Guilda dos Ferreiros,Alcance a reputação da guilda dos ferreiros Lv. {RequiredStackCount}
+3120,Ganhe reputação na Blacksmiths Guild,Alcance a reputação da Blacksmiths Guild Lv. {RequiredStackCount}
 3121,Ganhe reputação Artisans Guild,Alcance Artisans Guild Reputação Lv. {RequiredStackCount}
 3122,Usar itens,Usar ‘Weapon Enhancement Stone Recipe’
 3123,Subir de nível Gudua,Subir de nível em qualquer Gudua {RequiredStackCount} vezes
-3124,Insira o portão de teste,Insira Trial Gates {RequiredStackCount} vezes
-3125,Concluir portão de teste,Limpar Trial Gates {RequiredStackCount} Vezes
+3124,Insira o Trial Gate,Insira Trial Gates {RequiredStackCount} vezes
+3125,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
 3126,Traje para subir de nível,Traje para subir de nível {RequiredStackCount} Vezes
 3127,Aprimorar equipamento,Aprimorar equipamento {RequiredStackCount} vezes
 3128,Derrote monstros na Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
 3129,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 3130,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 3131,Lute na batalha Monolith War,Lute em tempos Monolith War {RequiredStackCount}
-3132,Concluir portão de teste,Limpar Trial Gates {RequiredStackCount} Vezes
+3132,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
 3133,Conclua o Santuário Etéreo,Limpe o Santuário Etéreo {RequiredStackCount} Vezes
 3134,Completar comissões semanais,Concluído {RequiredStackCount} Comissões semanais
 3135,Ganhe recompensas de contribuição de incursão,Ganhe recompensas de contribuição de incursão {RequiredStackCount} vezes
 3136,Colete brilhos,Colete {RequiredStackCount} brilhos
-3137,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+3137,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 3138,Doação do Clã,Doe para o seu clã {RequiredStackCount} vezes
 3139,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 3140,Tentativa de aprimoramento de equipamento,Tentativa de aprimoramento de equipamento {RequiredStackCount} vezes
@@ -194,7 +194,7 @@
 3146,Derrote os chefes do Hunting Grounds,Derrote os monstros chefes {RequiredStackCount} nos Campos de Caça
 3147,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 3148,Tentativa de despertar da célula,Tentativa de despertar da célula {RequiredStackCount} vezes
-3149,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+3149,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 3150,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
 3151,Desmontar item,Desmontar item {RequiredStackCount} vezes
 3152,Conquista de Nível,Alcance o nível. {RequiredStackCount}
@@ -205,7 +205,7 @@
 3157,Lute na batalha Monolith War,Lute em tempos Monolith War {RequiredStackCount}
 3158,Use o tempo quente da Giant's Tower,Use 8 horas de Tempo quente da Giant's Tower
 3159,Ganhe recompensas de contribuição de incursão,Ganhe recompensas de contribuição de incursão {RequiredStackCount} vezes
-3160,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+3160,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 3161,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 3162,Tentativa de aprimoramento de equipamento,Tentativa de aprimoramento de equipamento {RequiredStackCount} vezes
 3163,Conquista de Nível,Alcance o nível. {RequiredStackCount}
@@ -217,28 +217,28 @@
 3169,Commit PK,Commit PK {RequiredStackCount} vezes
 3170,Usar Tesseract,Use Tesseract {RequiredStackCount} vezes
 3171,Limpar Rifts,Limpar Rift {RequiredStackCount} Vezes
-3172,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+3172,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 3173,Conclua o projeto de pesquisa da Adventurers Alliance,Concluído {RequiredStackCount} Projetos de pesquisa da Adventurers Alliance
-3174,Ganhe reputação na Guilda dos Ferreiros,Alcance a reputação da guilda dos ferreiros Lv. {RequiredStackCount}
+3174,Ganhe reputação na Blacksmiths Guild,Alcance a reputação da Blacksmiths Guild Lv. {RequiredStackCount}
 3175,Ganhe reputação Artisans Guild,Alcance Artisans Guild Reputação Lv. {RequiredStackCount}
-3176,Ganhe reputação na Guilda dos Ferreiros,Alcance a reputação da guilda dos ferreiros Lv. {RequiredStackCount}
+3176,Ganhe reputação na Blacksmiths Guild,Alcance a reputação da Blacksmiths Guild Lv. {RequiredStackCount}
 3177,Ganhe reputação Artisans Guild,Alcance Artisans Guild Reputação Lv. {RequiredStackCount}
 3178,Usar itens,Usar ‘Weapon Enhancement Stone Recipe’
 4011,Subir de nível Gudua,Subir de nível em qualquer Gudua {RequiredStackCount} vezes
-4012,Insira o portão de teste,Insira Trial Gates {RequiredStackCount} vezes
-4013,Concluir portão de teste,Limpar Trial Gates {RequiredStackCount} Vezes
+4012,Insira o Trial Gate,Insira Trial Gates {RequiredStackCount} vezes
+4013,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
 4014,Traje para subir de nível,Traje para subir de nível {RequiredStackCount} Vezes
 4015,Aprimorar equipamento,Aprimorar equipamento {RequiredStackCount} vezes
 4016,Derrote monstros na Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
 4017,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 4018,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 4019,Lute na batalha Monolith War,Lute em tempos Monolith War {RequiredStackCount}
-4020,Concluir portão de teste,Limpar Trial Gates {RequiredStackCount} Vezes
+4020,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
 4021,Conclua o Santuário Etéreo,Limpe o Santuário Etéreo {RequiredStackCount} Vezes
 4022,Completar comissões semanais,Concluído {RequiredStackCount} Comissões semanais
 4023,Ganhe recompensas de contribuição de incursão,Ganhe recompensas de contribuição de incursão {RequiredStackCount} vezes
 4024,Colete brilhos,Colete {RequiredStackCount} brilhos
-4025,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+4025,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 4026,Doação do Clã,Doe para o seu clã {RequiredStackCount} vezes
 4027,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 4028,Tentativa de aprimoramento de equipamento,Tentativa de aprimoramento de equipamento {RequiredStackCount} vezes
@@ -250,27 +250,27 @@
 4034,Derrote os chefes do Hunting Grounds,Derrote os monstros chefes {RequiredStackCount} nos Campos de Caça
 4035,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 4036,Tentativa de despertar da célula,Tentativa de despertar da célula {RequiredStackCount} vezes
-4037,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+4037,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 4038,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
 4039,Desmontar item,Desmontar item {RequiredStackCount} vezes
 4040,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 4041,Usar Tesseract,Use Tesseract {RequiredStackCount} vezes
 4042,Aprimorar armadura,Aprimorar armadura {RequiredStackCount} vezes
 4067,Subir de nível Gudua,Subir de nível em qualquer Gudua {RequiredStackCount} vezes
-4068,Insira o portão de teste,Insira Trial Gates {RequiredStackCount} vezes
-4069,Concluir portão de teste,Limpar Trial Gates {RequiredStackCount} Vezes
+4068,Insira o Trial Gate,Insira Trial Gates {RequiredStackCount} vezes
+4069,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
 4070,Traje para subir de nível,Traje para subir de nível {RequiredStackCount} Vezes
 4071,Aprimorar equipamento,Aprimorar equipamento {RequiredStackCount} vezes
 4072,Derrote monstros na Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
 4073,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 4074,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 4075,Lute na batalha Monolith War,Lute em tempos Monolith War {RequiredStackCount}
-4076,Concluir portão de teste,Limpar Trial Gates {RequiredStackCount} Vezes
+4076,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
 4077,Conclua o Santuário Etéreo,Limpe o Santuário Etéreo {RequiredStackCount} Vezes
 4078,Completar comissões semanais,Concluído {RequiredStackCount} Comissões semanais
 4079,Ganhe recompensas de contribuição de incursão,Ganhe recompensas de contribuição de incursão {RequiredStackCount} vezes
 4080,Colete brilhos,Colete {RequiredStackCount} brilhos
-4081,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+4081,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 4082,Doação do Clã,Doe para o seu clã {RequiredStackCount} vezes
 4083,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 4084,Tentativa de aprimoramento de equipamento,Tentativa de aprimoramento de equipamento {RequiredStackCount} vezes
@@ -282,27 +282,27 @@
 4090,Derrote os chefes do Hunting Grounds,Derrote os monstros chefes {RequiredStackCount} nos Campos de Caça
 4091,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 4092,Tentativa de despertar da célula,Tentativa de despertar da célula {RequiredStackCount} vezes
-4093,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+4093,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 4094,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
 4095,Desmontar item,Desmontar item {RequiredStackCount} vezes
 4096,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 4097,Usar Tesseract,Use Tesseract {RequiredStackCount} vezes
 4098,Aprimorar armadura,Aprimorar armadura {RequiredStackCount} vezes
 4123,Subir de nível Gudua,Subir de nível em qualquer Gudua {RequiredStackCount} vezes
-4124,Insira o portão de teste,Insira Trial Gates {RequiredStackCount} vezes
-4125,Concluir portão de teste,Limpar Trial Gates {RequiredStackCount} Vezes
+4124,Insira o Trial Gate,Insira Trial Gates {RequiredStackCount} vezes
+4125,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
 4126,Traje para subir de nível,Traje para subir de nível {RequiredStackCount} Vezes
 4127,Aprimorar equipamento,Aprimorar equipamento {RequiredStackCount} vezes
 4128,Derrote monstros na Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
 4129,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 4130,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 4131,Lute na batalha Monolith War,Lute em tempos Monolith War {RequiredStackCount}
-4132,Concluir portão de teste,Limpar Trial Gates {RequiredStackCount} Vezes
+4132,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
 4133,Conclua o Santuário Etéreo,Limpe o Santuário Etéreo {RequiredStackCount} Vezes
 4134,Completar comissões semanais,Concluído {RequiredStackCount} Comissões semanais
 4135,Ganhe recompensas de contribuição de incursão,Ganhe recompensas de contribuição de incursão {RequiredStackCount} vezes
 4136,Colete brilhos,Colete {RequiredStackCount} brilhos
-4137,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+4137,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 4138,Doação do Clã,Doe para o seu clã {RequiredStackCount} vezes
 4139,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 4140,Tentativa de aprimoramento de equipamento,Tentativa de aprimoramento de equipamento {RequiredStackCount} vezes
@@ -314,7 +314,7 @@
 4146,Derrote os chefes do Hunting Grounds,Derrote os monstros chefes {RequiredStackCount} nos Campos de Caça
 4147,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 4148,Tentativa de despertar da célula,Tentativa de despertar da célula {RequiredStackCount} vezes
-4149,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+4149,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 4150,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
 4151,Desmontar item,Desmontar item {RequiredStackCount} vezes
 4152,Conquista de Nível,Alcance o nível. {RequiredStackCount}
@@ -327,7 +327,7 @@
 1011005,Assistência com Adventurers Alliance Research,Concluído {RequiredStackCount} Projetos de pesquisa da Adventurers Alliance
 1011006,Crie Pedras de Aprimoramento de Arma,Crie Pedras de Aprimoramento de Arma {RequiredStackCount} vezes
 1011007,Limpar Guia,Limpar Estágio do Guia {RequiredStackCount}
-1011008,Doe para a Aliança de Aventureiros,Doe para a Aliança de Aventureiros {RequiredStackCount} vezes
+1011008,Doe para a Adventurers Alliance,Doe para a Adventurers Alliance {RequiredStackCount} vezes
 1011009,Limpar comissões diárias,Limpar {RequiredStackCount} Comissões Diárias
 1011010,Participe de Incursões,Participe de incursões {RequiredStackCount} vezes
 1011011,Participe da Grande Incursão,Participe de Grandes Incursões {RequiredStackCount} vezes
@@ -339,7 +339,7 @@
 1011017,Limpar Rifts,Limpar Rifts {RequiredStackCount} vezes
 1011018,Núcleos de infusão artesanal,Criar {RequiredStackCount} Núcleos de infusão
 1011019,Limpar Guia,Limpar Estágio do Guia {RequiredStackCount}
-1011020,Aumentar a reputação da aliança de aventureiros,Aumentar a reputação com a Aliança de Aventureiros para {RequiredStackCount} ou superior
+1011020,Aumentar a reputação da Adventurers Alliance,Aumentar a reputação com a Adventurers Alliance para {RequiredStackCount} ou superior
 1011021,Obtenha ouro,Obtenha ouro {RequiredStackCount}
 1011022,Limpar Arbiter’s Ordeal,Receba recompensas após limpar Arbiter’s Ordeal {RequiredStackCount} vezes
 1011023,Participe da Grande Incursão,Participe de Grandes Incursões {RequiredStackCount} vezes
@@ -435,11 +435,11 @@
 5001005,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount}
 5001006,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount}
 6011,Subir de nível Gudua,Subir de nível em qualquer Gudua {RequiredStackCount} vezes
-6012,Insira o portão de teste,Insira Trial Gates {RequiredStackCount} vezes
-6013,Concluir portão de teste,Limpar Trial Gates {RequiredStackCount} Vezes
+6012,Insira o Trial Gate,Insira Trial Gates {RequiredStackCount} vezes
+6013,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
 6014,Traje para subir de nível,Traje para subir de nível {RequiredStackCount} Vezes
 6015,Lute na batalha Monolith War,Lute em tempos Monolith War {RequiredStackCount}
-6016,Concluir portão de teste,Limpar Trial Gates {RequiredStackCount} Vezes
+6016,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
 6017,Conclua o Santuário Etéreo,Limpe o Santuário Etéreo {RequiredStackCount} Vezes
 6018,Completar comissões semanais,Concluído {RequiredStackCount} Comissões semanais
 6019,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
@@ -448,7 +448,7 @@
 6022,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 6023,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 6024,Tentativa de despertar da célula,Tentativa de despertar da célula {RequiredStackCount} vezes
-6025,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+6025,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 6026,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
 6027,Aprimorar acessório,Melhorar os acessórios {RequiredStackCount} vezes
 6028,Melhore a arma,Melhore as armas {RequiredStackCount} vezes
@@ -463,19 +463,19 @@
 6037,Commit PK,Commit PK {RequiredStackCount} vezes
 6038,Usar Tesseract,Use Tesseract {RequiredStackCount} vezes
 6039,Limpar Rifts,Limpar Rift {RequiredStackCount} Vezes
-6040,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+6040,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 6041,Conclua o projeto de pesquisa da Adventurers Alliance,Concluído {RequiredStackCount} Projetos de pesquisa da Adventurers Alliance
-6042,Ganhe reputação na Guilda dos Ferreiros,Alcance a reputação da guilda dos ferreiros Lv. {RequiredStackCount}
+6042,Ganhe reputação na Blacksmiths Guild,Alcance a reputação da Blacksmiths Guild Lv. {RequiredStackCount}
 6043,Ganhe reputação Artisans Guild,Alcance Artisans Guild Reputação Lv. {RequiredStackCount}
-6044,Ganhe reputação na Guilda dos Ferreiros,Alcance a reputação da guilda dos ferreiros Lv. {RequiredStackCount}
+6044,Ganhe reputação na Blacksmiths Guild,Alcance a reputação da Blacksmiths Guild Lv. {RequiredStackCount}
 6045,Ganhe reputação Artisans Guild,Alcance Artisans Guild Reputação Lv. {RequiredStackCount}
 6046,Usar itens,Usar ‘Weapon Enhancement Stone Recipe’
 7011,Subir de nível Gudua,Subir de nível em qualquer Gudua {RequiredStackCount} vezes
-7012,Insira o portão de teste,Insira Trial Gates {RequiredStackCount} vezes
-7013,Concluir portão de teste,Limpar Trial Gates {RequiredStackCount} Vezes
+7012,Insira o Trial Gate,Insira Trial Gates {RequiredStackCount} vezes
+7013,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
 7014,Traje para subir de nível,Traje para subir de nível {RequiredStackCount} Vezes
 7015,Lute na batalha Monolith War,Lute em tempos Monolith War {RequiredStackCount}
-7016,Concluir portão de teste,Limpar Trial Gates {RequiredStackCount} Vezes
+7016,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
 7017,Conclua o Santuário Etéreo,Limpe o Santuário Etéreo {RequiredStackCount} Vezes
 7018,Completar comissões semanais,Concluído {RequiredStackCount} Comissões semanais
 7019,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
@@ -484,7 +484,7 @@
 7022,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 7023,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 7024,Tentativa de despertar da célula,Tentativa de despertar da célula {RequiredStackCount} vezes
-7025,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+7025,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 7026,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
 8011,Tentativa de aprimoramento de equipamento,Tentativa de aprimoramento de equipamento {RequiredStackCount} vezes
 101801,Use pedras de aprimoramento de armas,Use {RequiredStackCount} Pedras de aprimoramento de arma
@@ -536,7 +536,7 @@
 9011303,UlTaimate Baba Liquor,Usar {RequiredStackCount} Baba Liquor
 9011304,Criar Pedras Mágicas,Criar Pedras Mágicas {RequiredStackCount} vezes
 9011305,Memorite,Consumir memórias {RequiredStackCount}
-9011306,Purifique a Terra Abandonada,Derrote {RequiredStackCount} Monstros na Terra Abandonada
+9011306,Purifique a Forsaken Land,Derrote {RequiredStackCount} Monstros na Forsaken Land
 9011307,Grande Incursão,Participe da Grande Incursão {RequiredStackCount} vezes
 9011308,Gastar Ouro,Gaste {RequiredStackCount}Gold
 9011309,Tentativa de aprimoramento de equipamento,Tentativa de aprimoramento de equipamento {RequiredStackCount} vezes
@@ -723,13 +723,13 @@
 9012205,Parar a incursão,Participe de incursões {RequiredStackCount} vezes
 9012206,Derrote os monstros da Giant's Tower,Derrote {RequiredStackCount} Monstros na Giant's Tower
 9012207,Participe da Grande Incursão,Participe da Grande Incursão {RequiredStackCount} vezes
-9012208,Derrote monstros da Terra Abandonada,Derrote {RequiredStackCount} Monstros na Terra Abandonada
+9012208,Derrote monstros da Forsaken Land,Derrote {RequiredStackCount} Monstros na Forsaken Land
 9012301,Usar Halo Bread,Usar {RequiredStackCount} Halo Bread
 9012302,Use biscoitos Star Halo,Use {RequiredStackCount} Star Halo Cookies
 9012303,Use Moon Halo Wine,Use {RequiredStackCount} Moon Halo Wine
 9012304,Criar Pedras Mágicas,Criar Pedras Mágicas {RequiredStackCount} vezes
 9012305,Memorite,Consumir memórias {RequiredStackCount}
-9012306,Derrote monstros da Terra Abandonada,Derrote {RequiredStackCount} Monstros na Terra Abandonada
+9012306,Derrote monstros da Forsaken Land,Derrote {RequiredStackCount} Monstros na Forsaken Land
 9012307,Participe da Grande Incursão,Participe da Grande Incursão {RequiredStackCount} vezes
 9012308,Gastar Ouro,Gaste {RequiredStackCount}Gold
 9012309,Tentativa de aprimoramento de equipamento,Tentativa de aprimoramento de equipamento {RequiredStackCount} vezes
@@ -918,32 +918,32 @@
 104115,Use Anima Cores,Use {RequiredStackCount} Núcleos de animação
 104116,Use Anima Cores,Use {RequiredStackCount} Núcleos de animação
 104117,Use Anima Cores,Use {RequiredStackCount} Núcleos de animação
-104210,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+104210,Derrote monstros da Forsaken Land,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 104211,Complete as comissões diárias Commission House,Concluído {RequiredStackCount} Comissões diárias
 104212,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
 104213,Ativar Vitalização Santuários,Grave o Santuário Vitalizante {RequiredStackCount} vezes
 104214,Aprimoramentos de itens,Melhorar itens {RequiredStackCount} vezes
-104220,Derrote monstros da Terra Abandonada,Derrote {RequiredStackCount} monstros de Terras Abandonadas
+104220,Derrote monstros da Forsaken Land,Derrote {RequiredStackCount} monstros de Forsaken Lands
 104221,Complete as comissões diárias Commission House,Concluído {RequiredStackCount} Comissões diárias
 104222,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
 104223,Derrote chefes de campo,Derrote chefes de campo {RequiredStackCount} vezes
 104224,Participe da Grande Incursão,Participe de Grandes Incursões {RequiredStackCount} vezes
-104230,Derrote monstros da Terra Abandonada,Derrote {RequiredStackCount} monstros de Terras Abandonadas
+104230,Derrote monstros da Forsaken Land,Derrote {RequiredStackCount} monstros de Forsaken Lands
 104231,Completar comissões semanais Commission House,Concluído {RequiredStackCount} Comissões semanais
 104232,Derrote chefes de campo,Derrote chefes de campo {RequiredStackCount} vezes
 104233,Itens de artesanato,Itens de artesanato {RequiredStackCount} vezes
 104234,Aprimoramentos de itens,Melhorar itens {RequiredStackCount} vezes
-104240,Derrote monstros da Terra Abandonada,Derrote {RequiredStackCount} monstros de Terras Abandonadas
+104240,Derrote monstros da Forsaken Land,Derrote {RequiredStackCount} monstros de Forsaken Lands
 104241,Use máquinas de venda automática de Giant,Use máquinas de venda automática de Giant {RequiredStackCount} vezes
 104242,Derrote chefes de campo,Derrote chefes de campo {RequiredStackCount} vezes
 104243,Participe da Grande Incursão,Participe de Grandes Incursões {RequiredStackCount} vezes
 104244,Junte-se ao Tesseract Batalha,Participe de Tesseract {RequiredStackCount} vezes
-104250,Derrote monstros da Terra Abandonada,Derrote {RequiredStackCount} monstros de Terras Abandonadas
+104250,Derrote monstros da Forsaken Land,Derrote {RequiredStackCount} monstros de Forsaken Lands
 104251,Participe do Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
 104252,Derrote chefes de campo,Derrote chefes de campo {RequiredStackCount} vezes
 104253,Itens de artesanato,Itens de artesanato {RequiredStackCount} vezes
 104254,Junte-se ao Tesseract Batalha,Participe de Tesseract {RequiredStackCount} vezes
-104260,Derrote monstros da Terra Abandonada,Derrote {RequiredStackCount} monstros de Terras Abandonadas
+104260,Derrote monstros da Forsaken Land,Derrote {RequiredStackCount} monstros de Forsaken Lands
 104261,Lute na Arena Angbar,Lute na Angbar Arena {RequiredStackCount} vezes
 104262,Derrote chefes de campo,Derrote chefes de campo {RequiredStackCount} vezes
 104263,Participe da Grande Incursão,Participe de Grandes Incursões {RequiredStackCount} vezes
@@ -1007,7 +1007,7 @@
 104709,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
 104710,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
 104711,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
-104810,Derrote monstros da Terra Abandonada,Derrote {RequiredStackCount} monstros de Terras Abandonadas
+104810,Derrote monstros da Forsaken Land,Derrote {RequiredStackCount} monstros de Forsaken Lands
 104811,Participe de Incursões,Participe de incursões {RequiredStackCount} vezes
 104812,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 104813,Equipar Spellstones,Equipar Spellstones {RequiredStackCount} vezes
@@ -1119,13 +1119,13 @@
 200104,Derrote chefes de campo,Derrote chefes de campo {RequiredStackCount} vezes
 200105,Derrote chefes de campo,Derrote chefes de campo {RequiredStackCount} vezes
 200106,Derrote chefes de campo,Derrote chefes de campo {RequiredStackCount} vezes
-200111,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
-200112,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
-200113,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
-200114,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
-200115,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
-200116,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
-200117,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+200111,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
+200112,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
+200113,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
+200114,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
+200115,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
+200116,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
+200117,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 200121,Derrote os monstros da Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
 200122,Derrote os monstros da Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
 200123,Derrote os monstros da Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
@@ -1237,8 +1237,8 @@
 106002,Doação do Clã,Doe para o seu clã {RequiredStackCount} vezes
 106003,Missão do clã concluída,Complete as missões do clã {RequiredStackCount} vezes
 106004,Missão do clã concluída,Complete as missões do clã {RequiredStackCount} vezes
-106005,Concluir Expedição de Clã,Limpar expedição de clã {RequiredStackCount} vezes
-106006,Concluir Expedição de Clã,Limpar expedição de clã {RequiredStackCount} vezes
+106005,Concluir Clan Expedition,Limpar Clan Expedition {RequiredStackCount} vezes
+106006,Concluir Clan Expedition,Limpar Clan Expedition {RequiredStackCount} vezes
 106007,Limpar Angbar Arena,Limpar Angbar Arena {RequiredStackCount} vezes
 106100,Participe de Shadow Incursion,Participe da Shadow Incursion {RequiredStackCount} vezes
 106101,Participe de Shadow Incursion,Participe da Shadow Incursion {RequiredStackCount} vezes
@@ -1375,7 +1375,7 @@
 107435,Use Attack on Titan Vending Machine,Usar ataque em Titan Vending Machine {RequiredStackCount} tempo(s)
 107442,Participe do Beast Giant,Participe do(s) tempo(s) Beast Giant {RequiredStackCount}
 107443,Reivindicar recompensa Beast Giant,Reivindicar recompensa Beast Giant {RequiredStackCount} tempo(s)
-107444,Aumenta o colossal Titan Nível da página de sintonia,Alcance o nível {RequiredStackCount} na página de sintonização Colossal Titan
+107444,Aumentar o nível da página de sintonia de Colossal Titan,Alcance o nível {RequiredStackCount} na página de sintonização Colossal Titan
 107445,Use Attack on Titan Vending Machine,Usar ataque em Titan Vending Machine {RequiredStackCount} tempo(s)
 210000,Conquista de Nível,Alcance o nível {RequiredStackCount}
 210001,Conquista de Nível,Alcance o nível {RequiredStackCount}
@@ -1473,16 +1473,16 @@
 107605,Derrote Abyss Battlefield Monstros,Derrotar {RequiredStackCount} Abyss Battlefield Monstros
 107606,Derrote Abyss Battlefield Monstros,Derrotar {RequiredStackCount} Abyss Battlefield Monstros
 107607,Derrote Abyss Battlefield Monstros,Derrotar {RequiredStackCount} Abyss Battlefield Monstros
-1080001,Derrote monstros da Terra Abandonada,Derrotar {RequiredStackCount} Monstros de Terras Abandonadas
-1080002,Derrote monstros da Terra Abandonada,Derrotar {RequiredStackCount} Monstros de Terras Abandonadas
-1080003,Derrote monstros da Terra Abandonada,Derrotar {RequiredStackCount} Monstros de Terras Abandonadas
-1080004,Derrote monstros da Terra Abandonada,Derrotar {RequiredStackCount} Monstros de Terras Abandonadas
-1080005,Derrote monstros da Terra Abandonada,Derrotar {RequiredStackCount} Monstros de Terras Abandonadas
-1080006,Derrote monstros da Terra Abandonada,Derrotar {RequiredStackCount} Monstros de Terras Abandonadas
-1080007,Derrote monstros da Terra Abandonada,Derrotar {RequiredStackCount} Monstros de Terras Abandonadas
-1080008,Derrote monstros da Terra Abandonada,Derrotar {RequiredStackCount} Monstros de Terras Abandonadas
-1080009,Derrote monstros da Terra Abandonada,Derrotar {RequiredStackCount} Monstros de Terras Abandonadas
-1080010,Derrote monstros da Terra Abandonada,Derrotar {RequiredStackCount} Monstros de Terras Abandonadas
+1080001,Derrote monstros da Forsaken Land,Derrotar {RequiredStackCount} Monstros de Forsaken Land
+1080002,Derrote monstros da Forsaken Land,Derrotar {RequiredStackCount} Monstros de Forsaken Land
+1080003,Derrote monstros da Forsaken Land,Derrotar {RequiredStackCount} Monstros de Forsaken Land
+1080004,Derrote monstros da Forsaken Land,Derrotar {RequiredStackCount} Monstros de Forsaken Land
+1080005,Derrote monstros da Forsaken Land,Derrotar {RequiredStackCount} Monstros de Forsaken Land
+1080006,Derrote monstros da Forsaken Land,Derrotar {RequiredStackCount} Monstros de Forsaken Land
+1080007,Derrote monstros da Forsaken Land,Derrotar {RequiredStackCount} Monstros de Forsaken Land
+1080008,Derrote monstros da Forsaken Land,Derrotar {RequiredStackCount} Monstros de Forsaken Land
+1080009,Derrote monstros da Forsaken Land,Derrotar {RequiredStackCount} Monstros de Forsaken Land
+1080010,Derrote monstros da Forsaken Land,Derrotar {RequiredStackCount} Monstros de Forsaken Land
 1081001,Use Selo da Fenda,Use {RequiredStackCount} Rift Seals em Rifts
 1082001,Adquira Chaveiros,Adquirir chaveiros {RequiredStackCount} vezes
 1082002,Adquira Chaveiros,Adquirir chaveiros {RequiredStackCount} vezes
@@ -1506,8 +1506,8 @@
 1084003,Missão do clã concluída,Complete as missões do clã {RequiredStackCount} vezes
 1084004,Missão do clã concluída,Complete as missões do clã {RequiredStackCount} vezes
 1084005,Missão do clã concluída,Complete as missões do clã {RequiredStackCount} vezes
-1084006,Junte-se a uma Expedição de Clã,Junte-se a uma Expedição de Clã {RequiredStackCount} vezes
-1084007,Junte-se a uma Expedição de Clã,Junte-se a uma Expedição de Clã {RequiredStackCount} vezes
+1084006,Junte-se a uma Clan Expedition,Junte-se a uma Clan Expedition {RequiredStackCount} vezes
+1084007,Junte-se a uma Clan Expedition,Junte-se a uma Clan Expedition {RequiredStackCount} vezes
 1084008,Lute na Arena Angbar,Lute na Angbar Arena {RequiredStackCount} vezes
 1084009,Lute na Arena Angbar,Lute na Angbar Arena {RequiredStackCount} vezes
 1085001,Equipamento de artesanato,Equipamento de artesanato {RequiredStackCount} vezes
@@ -1663,14 +1663,14 @@
 2003007,Derrote Monstros Chefes de Campo,Derrote chefes de campo {RequiredStackCount} vezes
 2003008,Derrote Monstros Chefes de Campo,Derrote chefes de campo {RequiredStackCount} vezes
 2003009,Derrote Monstros Chefes de Campo,Derrote chefes de campo {RequiredStackCount} vezes
-2003101,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
-2003102,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
-2003103,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
-2003104,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
-2003105,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
-2003106,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
-2003107,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
-2003108,Derrote monstros da Terra Abandonada,Derrote monstros {RequiredStackCount} nas Terras Abandonadas
+2003101,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
+2003102,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
+2003103,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
+2003104,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
+2003105,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
+2003106,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
+2003107,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
+2003108,Derrote monstros da Forsaken Lands,Derrote monstros {RequiredStackCount} nas Forsaken Lands
 2003201,Derrote os monstros da Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
 2003202,Derrote os monstros da Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
 2003203,Derrote os monstros da Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
@@ -1818,31 +1818,31 @@
 2004216,Primeiro a limpar o Clan Raid,Limpar Angbar Arena IV (Fácil)
 2004217,Primeiro a limpar o Clan Raid,Limpar Angbar Arena IV (Normal)
 2004218,Primeiro a limpar o Clan Raid,Limpar Angbar Arena IV (Difícil)
-2004219,Limpar expedição de clã pela primeira vez,Concluir Expedição de Clã Lv. 1
-2004220,Limpar expedição de clã pela primeira vez,Conclua a Expedição do Clã Lv. 2
-2004221,Limpar expedição de clã pela primeira vez,Conclua a Expedição do Clã Lv. 3
-2004222,Limpar expedição de clã pela primeira vez,Conclua a Expedição do Clã Lv. 4
-2004301,Guilda de Comerciantes,Alcance o nível de afinidade da Guilda dos Comerciantes. {RequiredStackCount}
+2004219,Limpar Clan Expedition pela primeira vez,Concluir Clan Expedition Lv. 1
+2004220,Limpar Clan Expedition pela primeira vez,Conclua a Clan Expedition Lv. 2
+2004221,Limpar Clan Expedition pela primeira vez,Conclua a Clan Expedition Lv. 3
+2004222,Limpar Clan Expedition pela primeira vez,Conclua a Clan Expedition Lv. 4
+2004301,Merchants Guild,Alcance o nível de afinidade da Merchants Guild. {RequiredStackCount}
 2004302,Artisans Guild,Alcance Artisans Guild Reputação Lv. {RequiredStackCount}
-2004303,Guilda dos Avaliadores,Reach Appraisers Guild Affinity Lv. {RequiredStackCount}
-2004304,Guilda dos Exploradores,Alcance o Nv. de Afinidade da Guilda dos Exploradores. {RequiredStackCount}
-2004305,Hunters Guild,Alcance o nível de afinidade da Guilda dos Caçadores. {RequiredStackCount}
-2004306,Guilda dos Ferreiros,Alcance a reputação da guilda dos ferreiros Lv. {RequiredStackCount}
-2004307,Wayfinders Guild,Alcance a afinidade da guilda Wayfinders Nv. {RequiredStackCount}
-2004308,Guilda de Comerciantes,Alcance o nível de afinidade da Guilda dos Comerciantes. {RequiredStackCount}
+2004303,Appraisers' Guild,Reach Appraisers Guild Affinity Lv. {RequiredStackCount}
+2004304,Explorers Guild,Alcance o Nv. de Afinidade da Explorers Guild. {RequiredStackCount}
+2004305,Hunters Guild,Alcance o nível de afinidade da Hunters Guild. {RequiredStackCount}
+2004306,Blacksmiths Guild,Alcance a reputação da Blacksmiths Guild Lv. {RequiredStackCount}
+2004307,Wayfinders Guild,Alcance a afinidade da Wayfinders Guild Nv. {RequiredStackCount}
+2004308,Merchants Guild,Alcance o nível de afinidade da Merchants Guild. {RequiredStackCount}
 2004309,Artisans Guild,Alcance Artisans Guild Reputação Lv. {RequiredStackCount}
-2004310,Guilda dos Avaliadores,Reach Appraisers Guild Affinity Lv. {RequiredStackCount}
-2004311,Guilda dos Exploradores,Alcance o Nv. de Afinidade da Guilda dos Exploradores. {RequiredStackCount}
-2004312,Hunters Guild,Alcance o nível de afinidade da Guilda dos Caçadores. {RequiredStackCount}
-2004313,Guilda dos Ferreiros,Alcance a reputação da guilda dos ferreiros Lv. {RequiredStackCount}
-2004314,Wayfinders Guild,Alcance a afinidade da guilda Wayfinders Nv. {RequiredStackCount}
-2004315,Guilda de Comerciantes,Alcance o nível de afinidade da Guilda dos Comerciantes. {RequiredStackCount}
+2004310,Appraisers' Guild,Reach Appraisers Guild Affinity Lv. {RequiredStackCount}
+2004311,Explorers Guild,Alcance o Nv. de Afinidade da Explorers Guild. {RequiredStackCount}
+2004312,Hunters Guild,Alcance o nível de afinidade da Hunters Guild. {RequiredStackCount}
+2004313,Blacksmiths Guild,Alcance a reputação da Blacksmiths Guild Lv. {RequiredStackCount}
+2004314,Wayfinders Guild,Alcance a afinidade da Wayfinders Guild Nv. {RequiredStackCount}
+2004315,Merchants Guild,Alcance o nível de afinidade da Merchants Guild. {RequiredStackCount}
 2004316,Artisans Guild,Alcance Artisans Guild Reputação Lv. {RequiredStackCount}
-2004317,Guilda dos Avaliadores,Reach Appraisers Guild Affinity Lv. {RequiredStackCount}
-2004318,Guilda dos Exploradores,Alcance o Nv. de Afinidade da Guilda dos Exploradores. {RequiredStackCount}
-2004319,Hunters Guild,Alcance o nível de afinidade da Guilda dos Caçadores. {RequiredStackCount}
-2004320,Guilda dos Ferreiros,Alcance a reputação da guilda dos ferreiros Lv. {RequiredStackCount}
-2004321,Wayfinders Guild,Alcance a afinidade da guilda Wayfinders Nv. {RequiredStackCount}
+2004317,Appraisers' Guild,Reach Appraisers Guild Affinity Lv. {RequiredStackCount}
+2004318,Explorers Guild,Alcance o Nv. de Afinidade da Explorers Guild. {RequiredStackCount}
+2004319,Hunters Guild,Alcance o nível de afinidade da Hunters Guild. {RequiredStackCount}
+2004320,Blacksmiths Guild,Alcance a reputação da Blacksmiths Guild Lv. {RequiredStackCount}
+2004321,Wayfinders Guild,Alcance a afinidade da Wayfinders Guild Nv. {RequiredStackCount}
 2004322,Conseguir Pesquisa da Guilda dos Ferreiros,Primeiro a alcançar a Pesquisa da Guilda dos Ferreiros {RequiredStackCount} vezes
 2004323,Conseguir Pesquisa da Guilda dos Ferreiros,Primeiro a alcançar a Pesquisa da Guilda dos Ferreiros {RequiredStackCount} vezes
 2004324,Conseguir Pesquisa da Guilda dos Ferreiros,Primeiro a alcançar a Pesquisa da Guilda dos Ferreiros {RequiredStackCount} vezes
@@ -1916,7 +1916,7 @@
 1102006,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 1102007,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 1103001,Alcance o nível {RequiredStackCount},Alcance o nível {RequiredStackCount}
-1103002,Pesquisa da Aliança de Aventureiros,Concluído {RequiredStackCount} Projetos de pesquisa da Adventurers Alliance
+1103002,Pesquisa da Adventurers' Alliance,Concluído {RequiredStackCount} Projetos de pesquisa da Adventurers Alliance
 1103003,Melhorar equipamento,Aprimorar equipamento {RequiredStackCount} vezes
 1103004,Alcance Skill Lv. {RequiredStackCount},Alcance Skill Lv. {RequiredStackCount}
 1103005,Alcance o nível {RequiredStackCount},Alcance o nível {RequiredStackCount}
@@ -1987,7 +1987,7 @@
 9021303,UlTaimate Baba Liquor,Usar {RequiredStackCount} Baba Liquor
 9021304,Criar Pedras Mágicas,Criar Pedras Mágicas {RequiredStackCount} vezes
 9021305,Memorite,Consumir memórias {RequiredStackCount}
-9021306,Purifique a Terra Abandonada,Derrote {RequiredStackCount} Monstros na Terra Abandonada
+9021306,Purifique a Forsaken Land,Derrote {RequiredStackCount} Monstros na Forsaken Land
 9021307,Grande Incursão,Participe da Grande Incursão {RequiredStackCount} vezes
 9021308,Gastar Ouro,Gaste {RequiredStackCount}Gold
 9021309,Tentativa de aprimoramento de equipamento,Tentativa de aprimoramento de equipamento {RequiredStackCount} vezes

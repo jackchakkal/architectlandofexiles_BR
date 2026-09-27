@@ -15,12 +15,12 @@
   "files": {
     "player_download": {
       "filename": "Architect-PTBR-v14.zip",
-      "sha256": "ab8486d4c3197269906b4b2ff62b7fb1cc030df910803138b17971804f075175"
+      "sha256": "19de7ac8782c0effdebaf75465f1ca015632a7bdca7cb1d1982360b0f0f5c88c"
     },
     "pak": {
       "filename": "pakchunk9999-Windows_21474835_P.pak",
-      "bytes": 12428232,
-      "sha256": "581b020749c1d011578aaa380cb60ab762d8abd194fa703bba922a6d5214ac83"
+      "bytes": 12383136,
+      "sha256": "54153104e47f31fdac6fbd2501e83bbb9270556acfbc029613b12fa7c05207af"
     }
   },
   "validation": {
@@ -36,5 +36,5 @@
     "completeness_zhCN": "../work/completeness-v13-zhCN.json",
     "name_mentions": "../work/name-mentions-v14.json (5 falsos positivos restantes)"
   },
-  "summary": "Nomes de Skills, itens e masmorras em inglês em qualquer menção (5.970 células sobre a v13). Ver CHANGELOG."
+  "summary": "Todo nome próprio em inglês em qualquer menção (regra completa no GLOSSARIO); falantes descritivos e moedas em PT; On→Ligado. 15.197 células sobre a v13."
 }

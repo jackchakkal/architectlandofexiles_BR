@@ -302,30 +302,30 @@ As células se multiplicam em ritmo explosivo.",Shagan
 802010301,Defend {StringParam},Defenda a Tocha Sagrada de Athraharis contra os monstros enfurecidos.,Desolate Citadel
 802010302,Defend {StringParam},Defenda a Tocha Sagrada de Athraharis contra os monstros enfurecidos.,Desolate Citadel
 802010303,Defend {StringParam},Defenda a Tocha Sagrada de Athraharis contra os monstros enfurecidos.,Desolate Citadel
-130101101,Ordeal of Binding,Vença a Provação do Árbitro para provar sua força!,
-130101102,Ordeal of Binding,Vença a Provação do Árbitro para provar sua força!,
-130101103,Ordeal of Binding,Vença a Provação do Árbitro para provar sua força!,
-130101104,Ordeal of Binding,Vença a Provação do Árbitro para provar sua força!,
-130101105,Ordeal of Binding,Vença a Provação do Árbitro para provar sua força!,
-130101106,Ordeal of Binding,Vença a Provação do Árbitro para provar sua força!,
-130101201,Ordeal of Skill,Vença a Provação do Árbitro para provar sua força!,
-130101202,Ordeal of Skill,Vença a Provação do Árbitro para provar sua força!,
-130101203,Ordeal of Skill,Vença a Provação do Árbitro para provar sua força!,
-130101204,Ordeal of Skill,Vença a Provação do Árbitro para provar sua força!,
-130101205,Ordeal of Skill,Vença a Provação do Árbitro para provar sua força!,
-130101206,Ordeal of Skill,Vença a Provação do Árbitro para provar sua força!,
-130101301,Ordeal of Constellations,Vença a Provação do Árbitro para provar sua força!,
-130101302,Ordeal of Constellations,Vença a Provação do Árbitro para provar sua força!,
-130101303,Ordeal of Constellations,Vença a Provação do Árbitro para provar sua força!,
-130101304,Ordeal of Constellations,Vença a Provação do Árbitro para provar sua força!,
-130101305,Ordeal of Constellations,Vença a Provação do Árbitro para provar sua força!,
-130101306,Ordeal of Constellations,Vença a Provação do Árbitro para provar sua força!,
-130101401,Ordeal of Gold,Vença a Provação do Árbitro para provar sua força!,
-130101402,Ordeal of Gold,Vença a Provação do Árbitro para provar sua força!,
-130101403,Ordeal of Gold,Vença a Provação do Árbitro para provar sua força!,
-130101404,Ordeal of Gold,Vença a Provação do Árbitro para provar sua força!,
-130101405,Ordeal of Gold,Vença a Provação do Árbitro para provar sua força!,
-130101406,Ordeal of Gold,Vença a Provação do Árbitro para provar sua força!,
+130101101,Ordeal of Binding,Vença a Arbiter’s Ordeal para provar sua força!,
+130101102,Ordeal of Binding,Vença a Arbiter’s Ordeal para provar sua força!,
+130101103,Ordeal of Binding,Vença a Arbiter’s Ordeal para provar sua força!,
+130101104,Ordeal of Binding,Vença a Arbiter’s Ordeal para provar sua força!,
+130101105,Ordeal of Binding,Vença a Arbiter’s Ordeal para provar sua força!,
+130101106,Ordeal of Binding,Vença a Arbiter’s Ordeal para provar sua força!,
+130101201,Ordeal of Skill,Vença a Arbiter’s Ordeal para provar sua força!,
+130101202,Ordeal of Skill,Vença a Arbiter’s Ordeal para provar sua força!,
+130101203,Ordeal of Skill,Vença a Arbiter’s Ordeal para provar sua força!,
+130101204,Ordeal of Skill,Vença a Arbiter’s Ordeal para provar sua força!,
+130101205,Ordeal of Skill,Vença a Arbiter’s Ordeal para provar sua força!,
+130101206,Ordeal of Skill,Vença a Arbiter’s Ordeal para provar sua força!,
+130101301,Ordeal of Constellations,Vença a Arbiter’s Ordeal para provar sua força!,
+130101302,Ordeal of Constellations,Vença a Arbiter’s Ordeal para provar sua força!,
+130101303,Ordeal of Constellations,Vença a Arbiter’s Ordeal para provar sua força!,
+130101304,Ordeal of Constellations,Vença a Arbiter’s Ordeal para provar sua força!,
+130101305,Ordeal of Constellations,Vença a Arbiter’s Ordeal para provar sua força!,
+130101306,Ordeal of Constellations,Vença a Arbiter’s Ordeal para provar sua força!,
+130101401,Ordeal of Gold,Vença a Arbiter’s Ordeal para provar sua força!,
+130101402,Ordeal of Gold,Vença a Arbiter’s Ordeal para provar sua força!,
+130101403,Ordeal of Gold,Vença a Arbiter’s Ordeal para provar sua força!,
+130101404,Ordeal of Gold,Vença a Arbiter’s Ordeal para provar sua força!,
+130101405,Ordeal of Gold,Vença a Arbiter’s Ordeal para provar sua força!,
+130101406,Ordeal of Gold,Vença a Arbiter’s Ordeal para provar sua força!,
 120101011,Explore {StringParam},Sobreviva às ameaças dos monstros ao lado dos seus aliados.,Blue Demon Ruins
 120101021,Explore {StringParam},Sobreviva às ameaças dos monstros ao lado dos seus aliados.,Blue Demon Ruins
 120101031,Explore {StringParam},Sobreviva às ameaças dos monstros ao lado dos seus aliados.,Blue Demon Ruins
@@ -865,14 +865,14 @@ Slaying chefes grants massive points!",
 150102061,Golden Barrier Level {StringParam},"Você está na Barreira Dourada, nível {StringParam}.",6
 150102071,Golden Barrier Level {StringParam},"Você está na Barreira Dourada, nível {StringParam}.",7
 150102081,Golden Barrier Level {StringParam},"Você está na Barreira Dourada, nível {StringParam}.",8
-150701011,Barrier of the Unknown Level {StringParam},"Você está na Barreira do Desconhecido, nível {StringParam}.",1
-150701021,Barrier of the Unknown Level {StringParam},"Você está na Barreira do Desconhecido, nível {StringParam}.",2
-150701031,Barrier of the Unknown Level {StringParam},"Você está na Barreira do Desconhecido, nível {StringParam}.",3
-150701041,Barrier of the Unknown Level {StringParam},"Você está na Barreira do Desconhecido, nível {StringParam}.",4
-150701051,Barrier of the Unknown Level {StringParam},"Você está na Barreira do Desconhecido, nível {StringParam}.",5
-150701061,Barrier of the Unknown Level {StringParam},"Você está na Barreira do Desconhecido, nível {StringParam}.",6
-150701071,Barrier of the Unknown Level {StringParam},"Você está na Barreira do Desconhecido, nível {StringParam}.",7
-150701081,Barrier of the Unknown Level {StringParam},"Você está na Barreira do Desconhecido, nível {StringParam}.",8
+150701011,Barrier of the Unknown Level {StringParam},"Você está na Barrier of the Unknown, nível {StringParam}.",1
+150701021,Barrier of the Unknown Level {StringParam},"Você está na Barrier of the Unknown, nível {StringParam}.",2
+150701031,Barrier of the Unknown Level {StringParam},"Você está na Barrier of the Unknown, nível {StringParam}.",3
+150701041,Barrier of the Unknown Level {StringParam},"Você está na Barrier of the Unknown, nível {StringParam}.",4
+150701051,Barrier of the Unknown Level {StringParam},"Você está na Barrier of the Unknown, nível {StringParam}.",5
+150701061,Barrier of the Unknown Level {StringParam},"Você está na Barrier of the Unknown, nível {StringParam}.",6
+150701071,Barrier of the Unknown Level {StringParam},"Você está na Barrier of the Unknown, nível {StringParam}.",7
+150701081,Barrier of the Unknown Level {StringParam},"Você está na Barrier of the Unknown, nível {StringParam}.",8
 160101011,Averus Level {StringParam},Derrote Averus e liberte o espaço-tempo que ele aprisionou.,1
 160101021,Averus Level {StringParam},Derrote Averus e liberte o espaço-tempo que ele aprisionou.,2
 160101031,Averus Level {StringParam},Derrote Averus e liberte o espaço-tempo que ele aprisionou.,3

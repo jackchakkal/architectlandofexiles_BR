@@ -647,32 +647,32 @@ Removido ao atacar",Status imunológico a danos,
  Aumenta o poder de ataque em <Orange>{EffectParam1}</>% enquanto o Shield está ativo",,
 1011,Earth Tremor,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
 1031,Preparing for Battle,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Aumenta o poder de ataque,
-1041,Protection Strike,Increases Defense em <Orange>{EffectParam1}</>,Melhora a defesa,
-1101,Blade Surge,Reduces Defense em <Red>{EffectParam1}</>,Enfraquece a Defesa,
+1041,Protection Strike,Aumenta a defesa em <Orange>{EffectParam1}</>,Melhora a defesa,
+1101,Blade Surge,Reduz a Defesa em <Red>{EffectParam1}</>,Enfraquece a Defesa,
 1111,Concentration,Aumenta Precisão em <Orange>{EffectParam1}</>,Aumenta o poder de ataque,
 1112,Concentration,"Aumenta a Precisão em <Orange>{EffectParam1}</>
- Increases Evasion em <Orange>{EffectParam2}</>",Melhora o ataque e a defesa,
+ Aumenta a Evasão em <Orange>{EffectParam2}</>",Melhora o ataque e a defesa,
 1113,Concentration,"Aumenta a Precisão em <Orange>{EffectParam1}</>
- Increases Evasion em <Orange>{EffectParam2}</>
+ Aumenta a Evasão em <Orange>{EffectParam2}</>
  Aumenta a taxa de precisão em <Orange>{EffectParam3}</>%",Melhora o ataque e a defesa,
 1121,Unleash Rage,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
 1201,Blade of Rupture,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
-1211,Physical Enhancement,aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%,Attack Speed Increase,
+1211,Physical Enhancement,aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%,Aumento de velocidade de ataque,
 1212,Physical Enhancement,"Aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%
  Aumenta o dano de ataque básico em <Orange>{EffectParam2}</>% (dobrado em PVE)",Aumenta o poder de ataque,
 1213,Physical Enhancement,"Aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%
 Aumenta o dano de ataque básico em <Orange>{EffectParam2}</>% (dobrado em PVE)
- Increases Skill Damage em <Orange>{EffectParam3}</>% (dobrado em PVE)",Aumenta o poder de ataque,
+ Aumenta o dano de Skill em <Orange>{EffectParam3}</>% (dobrado em PVE)",Aumenta o poder de ataque,
 1251,Declare Combat,,,
 1252,Declare Combat,,,
 1253,Declare Combat,Reduz Skill Dano de Acerto Crítico Sofrido por <Orange>{EffectParam1}</>%,Melhora a defesa,
-1254,Declare Combat,"Increases Defense em <Orange>{EffectParam1}</>
-Reduces Basic Attack Damage Taken por <Orange>{EffectParam2}</>%",Melhora a defesa,
-1255,Declare Combat,"Increases Defense em <Orange>{EffectParam1}</>
-Reduces Basic Attack Damage Taken por <Orange>{EffectParam2}</>%",Melhora a defesa,
-1256,Declare Combat,"Increases Defense em <Orange>{EffectParam1}</>
-Reduces Basic Attack Damage Taken por <Orange>{EffectParam2}</>%",Melhora a defesa,
-1257,Declare Combat,Reduz o Poder de Ataque em <Red>{EffectParam1}</>,Reduces Attack Power,
+1254,Declare Combat,"Aumenta a defesa em <Orange>{EffectParam1}</>
+Reduz o dano de ataque básico recebido por <Orange>{EffectParam2}</>%",Melhora a defesa,
+1255,Declare Combat,"Aumenta a defesa em <Orange>{EffectParam1}</>
+Reduz o dano de ataque básico recebido por <Orange>{EffectParam2}</>%",Melhora a defesa,
+1256,Declare Combat,"Aumenta a defesa em <Orange>{EffectParam1}</>
+Reduz o dano de ataque básico recebido por <Orange>{EffectParam2}</>%",Melhora a defesa,
+1257,Declare Combat,Reduz o Poder de Ataque em <Red>{EffectParam1}</>,reduz Poder de Ataque,
 1258,Declare Combat,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
 1259,Declare Combat,Reduz a Velocidade de Ataque em <Red>{EffectParam1}</>%,Reduz a Velocidade de Ataque,
 1261,Sword's Brand,"Reduz o dano causado ao lançador por <Red>{EffectParam1}</>%
@@ -683,7 +683,7 @@ Aumenta o dano recebido do lançador em <Red>{EffectParam2}</>%",Enfraquece o At
 Aumenta o dano recebido do lançador em <Red>{EffectParam2}</>%",Enfraquece o Ataque e a Capacidade de Sobrevivência,
 1264,Sword's Brand,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
 1265,Sword's Brand,Reduz a taxa de evasão em <Red>{EffectParam1}</>%,Enfraquece a Sobrevivência Skills,
-1301,Poder da Ruína,Reduz os danos sofridos por <Orange>{EffectParam1}</>%,Reduces Damage Taken,
+1301,Poder da Ruína,Reduz os danos sofridos por <Orange>{EffectParam1}</>%,Reduz o dano recebido,
 1302,Poder da Ruína,Desativado enquanto <Red>Suppressed</>,Suprimido,
 1303,Poder da Ruína,Aumenta o dano recebido do lançador por <Red>{EffectParam1}</>%,Enfraquece a Defesa,
 1311,Ironclad Rage,"Aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%
@@ -705,16 +705,16 @@ Aumenta o dano crítico do ataque básico em <Orange>{EffectParam6}</>% (dobrado
 1353,Chain Bind,Consumables Unavailable,Consumables Unavailable,
 1354,Chain Bind,Consumables Unavailable,Consumables Unavailable,
 1361,Leap Slash,"Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%
-Reduces Damage Taken por <Orange>{EffectParam2}</>%",Melhora a defesa,
+Reduz o dano recebido por <Orange>{EffectParam2}</>%",Melhora a defesa,
 1401,Resonance of the Sword,aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>%,Melhora a defesa,
 1411,Fighting Spirit of the Overlord,"Aumenta o dano de acerto crítico em <Orange>{EffectParam1}</>%
 Reduz Skill Dano recebido por <Orange>{EffectParam2}</>%
-Increases Critical Hit Resistance em <Orange>{EffectParam3}</>",Melhora o ataque e a defesa,
+Aumenta a resistência a golpes críticos em <Orange>{EffectParam3}</>",Melhora o ataque e a defesa,
 1412,Fighting Spirit of the Overlord,"Aumenta crítico Dano de acerto por <Orange>{EffectParam1}</>%
 Reduz Skill Dano recebido por <Orange>{EffectParam2}</>%
 Aumenta a taxa de resistência a golpes críticos em <Orange>{EffectParam3}</>
  Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam4}</>%
- Increases Defense em <Orange>{EffectParam5}</>",Melhora o ataque e a defesa,
+ Aumenta a defesa em <Orange>{EffectParam5}</>",Melhora o ataque e a defesa,
 1413,Fighting Spirit of the Overlord,"Aumenta o dano de acerto crítico por <Orange>{EffectParam1}</>%
 Reduz Skill Dano Sofrido por <Orange>{EffectParam2}</>%
  Aumenta a taxa de resistência a golpes críticos em <Orange>{EffectParam3}</>
@@ -729,13 +729,13 @@ Aumenta a taxa de resistência de maximização em <Orange>{EffectParam3}</>%",M
 Aumenta a taxa de resistência a golpes críticos em <Orange>{EffectParam2}</>%
  Aumenta a taxa de resistência de maximização em <Orange>{EffectParam3}</>%
 Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam4}</>%",Melhora a defesa,
-1463,Protection of Steel,"Reduces Damage Taken em <Orange>{EffectParam1}</>%
+1463,Protection of Steel,"Reduz o dano recebido em <Orange>{EffectParam1}</>%
 Aumenta a taxa de resistência a golpes críticos em <Orange>{EffectParam2}</>%
  Aumenta a taxa de resistência de maximização em <Orange>{EffectParam3}</>%
 Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam4}</>%
 Reduz o dano de acerto crítico recebido por <Orange>{EffectParam5}</>%",Melhora a defesa,
 2001,Mana Bolt,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
-2031,Preparing for Battle,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Attack Power Increase,
+2031,Preparing for Battle,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Aumento de Poder de Ataque,
 2041,Mana Reverse,Shield Generation,Escudo,
 2101,Mana Sigil,Causa dano bônus ao ser atingido 3 vezes enquanto o selo está ativo,,
 2102,Mana Sigil,,,
@@ -745,18 +745,18 @@ Reduz o dano de acerto crítico recebido por <Orange>{EffectParam5}</>%",Melhora
 2106,Mana Sigil,Causa dano bônus ao ser atingido 3 vezes enquanto o selo está ativo,,
 2111,Concentration,Aumenta Precisão em <Orange>{EffectParam1}</>,Aumenta o poder de ataque,
 2112,Concentration,"Aumenta a Precisão em <Orange>{EffectParam1}</>
- Increases Evasion em <Orange>{EffectParam2}</>",Melhora o ataque e a defesa,
+ Aumenta a Evasão em <Orange>{EffectParam2}</>",Melhora o ataque e a defesa,
 2113,Concentration,"Aumenta a Precisão em <Orange>{EffectParam1}</>
- Increases Evasion em <Orange>{EffectParam2}</>
+ Aumenta a Evasão em <Orange>{EffectParam2}</>
  Aumenta a taxa de precisão em <Orange>{EffectParam3}</>%",Melhora o ataque e a defesa,
 2201,Burn,Oferece <Red>{EffectParam1}</>% de poder como dano para <Red>{EffectParam2}</>s,Danos ao longo do tempo,
 2202,Hellfire,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
-2211,Physical Enhancement,aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%,Attack Speed Increase,
+2211,Physical Enhancement,aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%,Aumento de velocidade de ataque,
 2212,Physical Enhancement,"Aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%
  Aumenta o dano de ataque básico em <Orange>{EffectParam2}</>% (dobrado em PVE)",Aumenta o poder de ataque,
 2213,Physical Enhancement,"Aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%
 Aumenta o dano de ataque básico em <Orange>{EffectParam2}</>% (dobrado em PVE)
- Increases Skill Damage em <Orange>{EffectParam3}</>% (dobrado em PVE)",Aumenta o poder de ataque,
+ Aumenta o dano de Skill em <Orange>{EffectParam3}</>% (dobrado em PVE)",Aumenta o poder de ataque,
 2251,Mana Shield,Shield Generation,Escudo,
 2252,Mana Shield,"Geração de escudo
 Aumenta o dano em <Orange>{EffectParam2}</>% enquanto o escudo está ativo",Aumenta o escudo e o dano,
@@ -783,26 +783,26 @@ Aumenta Básico Poder de ataque em <Orange>{EffectParam4}</>
  Aumenta o poder de ataque em Skill <Orange>{EffectParam5}</>
 Aumenta o dano crítico do ataque básico em <Orange>{EffectParam6}</>% (dobrado em PVE)
  Aumenta o dano crítico de Skill em <Orange>{EffectParam7}</>% (dobrado em PVE)",Aumenta o poder de ataque,
-2351,Ice Pillar,Increases Defense em <Orange>{EffectParam1}</>,Increases Defense,
+2351,Ice Pillar,Aumenta a defesa em <Orange>{EffectParam1}</>,Aumenta a defesa,
 2352,Ice Pillar,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
 2353,Shock,Desativado enquanto <Red>Shocked</>,Este é um efeito de controle de multidões.,
 2354,Shock,Desativado enquanto <Red>Shocked</>,Este é um efeito de controle de multidões.,
-2361,Blessing,Reduz os danos sofridos por <Orange>{EffectParam1}</>%,Reduces Damage Taken,
-2362,Blessing,Reduz os danos sofridos por <Orange>{EffectParam1}</>%,Reduces Damage Taken,
+2361,Blessing,Reduz os danos sofridos por <Orange>{EffectParam1}</>%,Reduz o dano recebido,
+2362,Blessing,Reduz os danos sofridos por <Orange>{EffectParam1}</>%,Reduz o dano recebido,
 2363,Blessing,"Reduz Dano recebido por <Orange>{EffectParam1}</>% 
  Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam2}</>%",Melhora a defesa,
 2403,Frost Hell,Reduz o dano causado ao lançador por <Red>{EffectParam1}</>%,Enfraquece o Poder de Ataque,
 2411,Eternal Wisdom,"Aumenta o Dano de Acerto Crítico em <Orange>{EffectParam1}</>%
 Reduz Skill Dano Recebido por <Orange>{EffectParam2}</>%
-Increases Defense em <Orange>{EffectParam3}</>",Melhora o ataque e a defesa,
+Aumenta a defesa em <Orange>{EffectParam3}</>",Melhora o ataque e a defesa,
 2412,Eternal Wisdom,"Aumenta o Dano de Acerto Crítico em <Orange>{EffectParam1}</>%
 Reduz Skill Dano Sofrido por <Orange>{EffectParam2}</>%
-Increases Defense em <Orange>{EffectParam3}</>
+Aumenta a defesa em <Orange>{EffectParam3}</>
 Aumenta o controle de multidão Taxa de resistência em <Orange>{EffectParam4}</>% 
  Aumenta a taxa de resistência a golpes críticos em <Orange>{EffectParam5}</>",Melhora o ataque e a defesa,
 2413,Eternal Wisdom,"Aumenta o dano de acerto crítico em <Orange>{EffectParam1}</>%
 Reduz o dano recebido por Skill <Orange>{EffectParam2}</>%
-Increases Defense em <Orange>{EffectParam3}</>
+Aumenta a defesa em <Orange>{EffectParam3}</>
 Aumenta o controle de multidão Taxa de resistência em <Orange>{EffectParam4}</>%
  Aumenta a taxa de resistência a golpes críticos em <Orange>{EffectParam5}</>
  Aumenta o poder de ataque ignorado em <Orange>{EffectParam6}</>",Melhora o ataque e a defesa,
@@ -826,27 +826,27 @@ Aumenta a Taxa de Resistência a Acertos Críticos em <Orange>{EffectParam2}</>%
 Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam4}</>%
 Reduz o dano de acerto crítico recebido por <Orange>{EffectParam5}</>%",Melhora a defesa,
 3001,Tidal Smite,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
-3031,Preparing for Battle,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Attack Power Increase,
-3101,Moonlight Glide,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
-3102,Twisted Torrent,"Reduces Defense em <Red>{EffectParam1}</>
+3031,Preparing for Battle,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Aumento de Poder de Ataque,
+3101,Moonlight Glide,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
+3102,Twisted Torrent,"Reduz a Defesa em <Red>{EffectParam1}</>
 Aumenta o dano causado aos jogadores por <Red>{EffectParam2}</>%",Enfraquece a Defesa,
 3111,Concentration,Aumenta Precisão em <Orange>{EffectParam1}</>,Aumenta o poder de ataque,
 3112,Concentration,"Aumenta a Precisão em <Orange>{EffectParam1}</>
- Increases Evasion em <Orange>{EffectParam2}</>",Melhora o ataque e a defesa,
+ Aumenta a Evasão em <Orange>{EffectParam2}</>",Melhora o ataque e a defesa,
 3113,Concentration,"Aumenta a Precisão em <Orange>{EffectParam1}</>
- Increases Evasion em <Orange>{EffectParam2}</>
+ Aumenta a Evasão em <Orange>{EffectParam2}</>
  Aumenta a taxa de precisão em <Orange>{EffectParam3}</>%",Melhora o ataque e a defesa,
 3201,Wind Surge,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
-3211,Physical Enhancement,aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%,Attack Speed Increase,
+3211,Physical Enhancement,aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%,Aumento de velocidade de ataque,
 3212,Physical Enhancement,"Aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%
  Aumenta o dano de ataque básico em <Orange>{EffectParam2}</>% (dobrado em PVE)",Aumenta o poder de ataque,
 3213,Physical Enhancement,"Aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%
 Aumenta o dano de ataque básico em <Orange>{EffectParam2}</>% (dobrado em PVE)
- Increases Skill Damage em <Orange>{EffectParam3}</>% (dobrado em PVE)",Aumenta o poder de ataque,
+ Aumenta o dano de Skill em <Orange>{EffectParam3}</>% (dobrado em PVE)",Aumenta o poder de ataque,
 3261,Purify,,,
-3262,Purify,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
+3262,Purify,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
 3263,Purify,Aumenta a cura recebida por <Orange>{EffectParam1}</>%,Aumento da cura de HP recebida,
-3264,Purify,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
+3264,Purify,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
 3311,Force of Nature,"Aumenta a chance de acerto crítico por <Orange>{EffectParam1}</>%
 Aumenta a velocidade de movimento por <Orange>{EffectParam2}</>%
 Aumenta Poder de ataque básico por <Orange>{EffectParam3}</>",Aumenta o poder de ataque,
@@ -867,22 +867,22 @@ Aumenta o dano crítico do ataque básico em <Orange>{EffectParam6}</>% (dobrado
 3361,Focused Healing,Recupere HP por <Orange>{EffectParam1}</>,Recupere HP ao longo do tempo,
 3362,Focused Healing,,,
 3363,Focused Healing,Recupere HP por <Orange>{EffectParam1}</>,Recupere HP ao longo do tempo,
-3364,Light Body,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
+3364,Light Body,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
 3365,Focused Healing,Recupere HP por <Orange>{EffectParam1}</>,Recupere HP ao longo do tempo,
-3366,Light Body,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
+3366,Light Body,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
 3401,Abyssal Spring,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
 3402,Mist of the Spring,Reduz a taxa de acertos do controle de multidão em <Orange>{EffectParam1}</>%,Enfraquece o Poder de Ataque,
 3411,Breath of the Judge,"Aumenta o Dano de Acerto Crítico em <Orange>{EffectParam1}</>%
 Reduz Skill Dano Recebido por <Orange>{EffectParam2}</>%
-Increases Defense em <Orange>{EffectParam3}</>",Melhora o ataque e a defesa,
+Aumenta a defesa em <Orange>{EffectParam3}</>",Melhora o ataque e a defesa,
 3412,Breath of the Judge,"Aumenta o Dano de Acerto Crítico em <Orange>{EffectParam1}</>%
 Reduz Skill Dano Sofrido por <Orange>{EffectParam2}</>%
-Increases Defense em <Orange>{EffectParam3}</>
+Aumenta a defesa em <Orange>{EffectParam3}</>
 Aumenta o controle de multidão Taxa de resistência em <Orange>{EffectParam4}</>% 
  Aumenta a taxa de resistência a golpes críticos em <Orange>{EffectParam5}</>",Melhora o ataque e a defesa,
 3413,Breath of the Judge,"Aumenta o dano de acerto crítico em <Orange>{EffectParam1}</>%
 Reduz o dano recebido por Skill <Orange>{EffectParam2}</>%
-Increases Defense em <Orange>{EffectParam3}</>
+Aumenta a defesa em <Orange>{EffectParam3}</>
 Aumenta o controle de multidão Taxa de resistência em <Orange>{EffectParam4}</>%
  Aumenta a taxa de resistência a golpes críticos em <Orange>{EffectParam5}</>
  Aumenta o poder de ataque ignorado em <Orange>{EffectParam6}</>",Melhora o ataque e a defesa,
@@ -913,23 +913,23 @@ Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam4
  Aumenta a taxa de resistência de maximização em <Orange>{EffectParam3}</>%
 Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam4}</>%
 Reduz o dano de acerto crítico recebido por <Orange>{EffectParam5}</>%",Melhora a defesa,
-4031,Preparing for Battle,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Attack Power Increase,
-4101,Shadow Surge,Reduces Defense em <Red>{EffectParam1}</>,Reduces Defense,
+4031,Preparing for Battle,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Aumento de Poder de Ataque,
+4101,Shadow Surge,Reduz a Defesa em <Red>{EffectParam1}</>,Reduz a Defesa,
 4111,Concentration,Aumenta Precisão em <Orange>{EffectParam1}</>,Aumenta o poder de ataque,
 4112,Concentration,"Aumenta a Precisão em <Orange>{EffectParam1}</>
- Increases Evasion em <Orange>{EffectParam2}</>",Melhora o ataque e a defesa,
+ Aumenta a Evasão em <Orange>{EffectParam2}</>",Melhora o ataque e a defesa,
 4113,Concentration,"Aumenta a Precisão em <Orange>{EffectParam1}</>
- Increases Evasion em <Orange>{EffectParam2}</>
+ Aumenta a Evasão em <Orange>{EffectParam2}</>
  Aumenta a taxa de precisão em <Orange>{EffectParam3}</>%",Melhora o ataque e a defesa,
 4121,Sand Toss,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
 4201,Poison Mist,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
-4202,Poison Mist,Aumenta a Chance de Evasão em <Orange>{EffectParam1}</>%,Increases Evasion Chance,
-4211,Physical Enhancement,aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%,Attack Speed Increase,
+4202,Poison Mist,Aumenta a Chance de Evasão em <Orange>{EffectParam1}</>%,aumenta a chance de evasão,
+4211,Physical Enhancement,aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%,Aumento de velocidade de ataque,
 4212,Physical Enhancement,"Aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%
  Aumenta o dano de ataque básico em <Orange>{EffectParam2}</>% (dobrado em PVE)",Aumenta o poder de ataque,
 4213,Physical Enhancement,"Aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%
 Aumenta o dano de ataque básico em <Orange>{EffectParam2}</>% (dobrado em PVE)
- Increases Skill Damage em <Orange>{EffectParam3}</>% (dobrado em PVE)",Aumenta o poder de ataque,
+ Aumenta o dano de Skill em <Orange>{EffectParam3}</>% (dobrado em PVE)",Aumenta o poder de ataque,
 4252,Flying Dagger,Consumables Unavailable,Consumables Unavailable,
 4261,Hunt Begins,"Aumenta a taxa de acerto crítico contra jogadores em <Orange>{EffectParam1}</>%
 Reduz o dano de ataque básico recebido em <Orange>{EffectParam2}</>%",Melhora o ataque e a defesa,
@@ -941,7 +941,7 @@ Aumenta o dano de acerto crítico contra jogadores em <Orange>{EffectParam2}</>%
 Reduz o dano de ataque básico recebido por <Orange>{EffectParam3}</>%",Melhora o ataque e a defesa,
 4264,Iniciar Caça: Saque,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>% e a velocidade de ataque em <Orange>{EffectParam2}</>%,Melhora o ataque e a defesa,
 4301,Assault,Aumenta o dano recebido de lançadores de assalto em <Red>{EffectParam1}</>%,Aumenta o dano recebido,
-4302,Assault,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
+4302,Assault,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
 4311,Path of the Assassin,"Aumenta Chance de acerto crítico em <Orange>{EffectParam1}</>%
 Aumenta a velocidade de movimento em <Orange>{EffectParam2}</>%
  Aumenta o poder de ataque em <Orange>{EffectParam3}</>",Aumenta o poder de ataque,
@@ -967,15 +967,15 @@ Garantido Acerto crítico ao acertar um ataque enquanto estiver furtivo
 Ignora colisão enquanto estiver furtivo",Furtiva,
 4354,,,,
 4361,Annihilation,"Reduz a regeneração de HP, a cura de poções de HP e a cura por <Red>{EffectParam1}</>%",Reduz a cura de HP,
-4401,Afterimage Effect,Aumenta a Chance de Evasão em <Orange>{EffectParam1}</>%,Increases Evasion Chance,
+4401,Afterimage Effect,Aumenta a Chance de Evasão em <Orange>{EffectParam1}</>%,aumenta a chance de evasão,
 4411,Glare of Malice,"Aumenta o dano de acerto crítico em <Orange>{EffectParam1}</>%
 Reduz Skill Dano recebido por <Orange>{EffectParam2}</>%
-Increases Critical Hit Resistance em <Orange>{EffectParam3}</>",Melhora o ataque e a defesa,
+Aumenta a resistência a golpes críticos em <Orange>{EffectParam3}</>",Melhora o ataque e a defesa,
 4412,Glare of Malice,"Aumenta crítico Dano de acerto por <Orange>{EffectParam1}</>%
 Reduz Skill Dano recebido por <Orange>{EffectParam2}</>%
 Aumenta a taxa de resistência a golpes críticos em <Orange>{EffectParam3}</>
  Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam4}</>%
- Increases Defense em <Orange>{EffectParam5}</>",Melhora o ataque e a defesa,
+ Aumenta a defesa em <Orange>{EffectParam5}</>",Melhora o ataque e a defesa,
 4413,Glare of Malice,"Aumenta o dano de acerto crítico por <Orange>{EffectParam1}</>%
 Reduz Skill Dano Sofrido por <Orange>{EffectParam2}</>%
  Aumenta a taxa de resistência a golpes críticos em <Orange>{EffectParam3}</>
@@ -998,21 +998,21 @@ Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam4
 Reduz o dano de acerto crítico recebido por <Orange>{EffectParam5}</>%",Melhora a defesa,
 5011,Suppression Arrow,,,
 5012,Suppression Arrow,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
-5031,Preparing for Battle,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Attack Power Increase,
+5031,Preparing for Battle,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Aumento de Poder de Ataque,
 5101,Rapid Fire,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
 5111,Concentration,Aumenta Precisão em <Orange>{EffectParam1}</>,Aumenta o poder de ataque,
 5112,Concentration,"Aumenta a Precisão em <Orange>{EffectParam1}</>
- Increases Evasion em <Orange>{EffectParam2}</>",Melhora o ataque e a defesa,
+ Aumenta a Evasão em <Orange>{EffectParam2}</>",Melhora o ataque e a defesa,
 5113,Concentration,"Aumenta a Precisão em <Orange>{EffectParam1}</>
- Increases Evasion em <Orange>{EffectParam2}</>
+ Aumenta a Evasão em <Orange>{EffectParam2}</>
  Aumenta a taxa de precisão em <Orange>{EffectParam3}</>%",Melhora o ataque e a defesa,
 5201,Arrow Rain,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
-5211,Physical Enhancement,aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%,Attack Speed Increase,
+5211,Physical Enhancement,aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%,Aumento de velocidade de ataque,
 5212,Physical Enhancement,"Aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%
  Aumenta o dano de ataque básico em <Orange>{EffectParam2}</>% (dobrado em PVE)",Aumenta o poder de ataque,
 5213,Physical Enhancement,"Aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%
 Aumenta o dano de ataque básico em <Orange>{EffectParam2}</>% (dobrado em PVE)
- Increases Skill Damage em <Orange>{EffectParam3}</>% (dobrado em PVE)",Aumenta o poder de ataque,
+ Aumenta o dano de Skill em <Orange>{EffectParam3}</>% (dobrado em PVE)",Aumenta o poder de ataque,
 5251,Tracking Arrow,,,
 5252,Tracking Arrow,,,
 5253,Tracking Arrow,,,
@@ -1040,7 +1040,7 @@ Reduz a precisão em <Red>{EffectParam2}</>%",Enfraquece o Poder de Ataque,
 5284,Weak Point Attack,Aumenta a taxa de precisão de ataque básico em <Orange>{EffectParam1}</>%,Aumentar a taxa de precisão de ataque normal,
 5285,Weak Point Attack,Aumenta a taxa de precisão de ataque básico em <Orange>{EffectParam1}</>%,Aumentar a taxa de precisão de ataque normal,
 5301,Soul Arrow,Aumenta o dano recebido do lançador por <Red>{EffectParam1}</>%,Aumenta o dano recebido do lançador,
-5302,Soul Arrow,aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%,Attack Speed Increase,
+5302,Soul Arrow,aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%,Aumento de velocidade de ataque,
 5311,Hunting Instinct,"Aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%
  Aumenta a chance de lançamento de Skill em <Orange>{EffectParam2}</>%
  Aumenta o poder de ataque básico em <Orange>{EffectParam3}</>",Aumenta o poder de ataque,
@@ -1072,7 +1072,7 @@ Reduz Skill Dano recebido por <Orange>{EffectParam2}</>%
  Aumenta o poder de ataque de Ignorar em <Orange>{EffectParam3}</>
  Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam4}</>%
 Aumenta a taxa de resistência a golpes críticos em <Orange>{EffectParam5}</>
- Increases Defense em <Orange>{EffectParam6}</>",Melhora o ataque e a defesa,
+ Aumenta a defesa em <Orange>{EffectParam6}</>",Melhora o ataque e a defesa,
 5451,Wind Snare,Consumables Unavailable,Consumables Unavailable,
 5452,Wind Snare,Consumables Unavailable,Consumables Unavailable,
 5461,Ruler’s Gaze,"Aumenta a chance de acerto do Crowd Control em <Orange>{EffectParam1}</>%
@@ -1087,28 +1087,28 @@ Aumenta a taxa de resistência a acertos críticos em <Orange>{EffectParam2}</>%
  Aumenta a taxa de resistência de maximização em <Orange>{EffectParam3}</>%
 Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam4}</>%
 Reduz o dano de acerto crítico recebido por <Orange>{EffectParam5}</>%",Melhora o ataque e a defesa,
-21100,Basic Combat,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Attack Power Increase,
-21101,Defensive Stance,Increases Defense em <Orange>{EffectParam1}</>,Increases Defense,
-21102,Prepare to Strike,Aumenta o acerto crítico em <Orange>{EffectParam1}</>,Critical Hit Increase,
-21200,Precise Aim,Aumenta Precisão em <Orange>{EffectParam1}</>,Accuracy Increase,
-21201,Sharp Instincts,Increases Evasion em <Orange>{EffectParam1}</>,Increases Evasion,
-21300,Power of the Combat,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Attack Power Increase,
+21100,Basic Combat,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Aumento de Poder de Ataque,
+21101,Defensive Stance,Aumenta a defesa em <Orange>{EffectParam1}</>,Aumenta a defesa,
+21102,Prepare to Strike,Aumenta o acerto crítico em <Orange>{EffectParam1}</>,Aumento de acerto crítico,
+21200,Precise Aim,Aumenta Precisão em <Orange>{EffectParam1}</>,Aumento de precisão,
+21201,Sharp Instincts,Aumenta a Evasão em <Orange>{EffectParam1}</>,Aumenta a Evasão,
+21300,Power of the Combat,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Aumento de Poder de Ataque,
 21301,Heavy Blow,"Aumenta a maximização Taxa em <Orange>{EffectParam1}</>%
  Aumenta o poder de ataque básico em <Orange>{EffectParam2}</>",Aumenta o poder de ataque,
 21302,Enhance Vitality,"Aumenta o máximo HP por <Orange>{EffectParam1}</>
  Aumenta a cura de poções de HP por <Orange>{EffectParam2}</>%",Melhore a sobrevivência Skills,
 21400,Flow of the Battlefield,"Aumenta a regeneração de MP <Orange>{EffectParam1}</>
  Aumenta o poder de ataque de Skill em <Orange>{EffectParam2}</>",Aumenta o poder de ataque,
-21401,Focused Breathing,Aumenta a taxa de precisão em <Orange>{EffectParam1}</>%,Accuracy Rate Increase,
+21401,Focused Breathing,Aumenta a taxa de precisão em <Orange>{EffectParam1}</>%,Aumento da taxa de precisão,
 21402,Indomitable Body,"Aumenta a taxa de resistência a golpes críticos de Skill em <Orange>{EffectParam1}</>%
 Reduz o dano de acerto crítico recebido por <Orange>{EffectParam2}</>%",Melhora a defesa,
-21500,Hero’s Aura,"Reduces Damage Taken em <Orange>{EffectParam1}</>%
+21500,Hero’s Aura,"Reduz o dano recebido em <Orange>{EffectParam1}</>%
 Aumenta a velocidade de movimento em <Orange>{EffectParam2}</>%",Melhora a Defesa e a Sobrevivência Skills,
 21501,Gale Resolve,"Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>%
 Aumenta Skill Velocidade de lançamento em <Orange>{EffectParam2}</>%",Melhoria de defesa e velocidade de lançamento,
 21502,Deathless Flesh,"Aumenta o máximo HP por <Orange>{EffectParam1}</>
-Reduces Damage Taken de skills de alvo único por <Orange>{EffectParam2}</>%",Melhore a sobrevivência Skills,
-21140,Swordsmanship Training,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Attack Power Increase,
+Reduz o dano recebido de skills de alvo único por <Orange>{EffectParam2}</>%",Melhore a sobrevivência Skills,
+21140,Swordsmanship Training,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Aumento de Poder de Ataque,
 21240,Greatsword Enhancement,Aumenta a Defesa de Ignorar em <Orange>{EffectParam1}</>,Aumenta a Defesa de Ignorar,
 21340,Combat Will: Warrior,"Aumenta o dano a monstros em <Orange>{EffectParam1}</>%
  Aumenta o poder de ataque de Skill em <Orange>{EffectParam2}</>",Aumenta o poder de ataque,
@@ -1122,17 +1122,17 @@ Aumenta o dano a inimigos aéreos em <Orange>{EffectParam2}</>%",Aumenta o poder
  Aumenta a velocidade de movimento em <Orange>{EffectParam2}</>%",Melhora o Ataque e a Sobrevivência Skills,
 21443,Blazing Fury,"Aumenta o dano contra alvos queimados em <Orange>{EffectParam1}</>%
 Aumenta o dano contra alvos de sangramento em <Orange>{EffectParam2}</>%",Aumenta o poder de ataque,
-21444,Blazing Fury,aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%,Attack Speed Increase,
-21540,Sword of Destruction,Aumenta o dano por <Orange>{EffectParam1}</>%,Damage Increase,
-21541,Sword of Destruction,Increases Skill Damage em <Orange>{EffectParam1}</>%,Increases Skill Damage,
+21444,Blazing Fury,aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%,Aumento de velocidade de ataque,
+21540,Sword of Destruction,Aumenta o dano por <Orange>{EffectParam1}</>%,Aumento de dano,
+21541,Sword of Destruction,Aumenta o dano de Skill em <Orange>{EffectParam1}</>%,Aumenta o dano de Skill,
 21170,Combat Instinct: Warrior,Aumenta o Poder de Ataque de Ignorar em <Orange>{EffectParam1}</>,Aumenta Ignorar Poder de Ataque,
-21270,Strong Will,"Increases Defense por <Orange>{EffectParam1}</>
+21270,Strong Will,"Aumenta a defesa por <Orange>{EffectParam1}</>
  Aumenta a geração de Aggro em <Orange>{EffectParam2}</>%",Melhora a defesa,
 21370,Honorable Combat,"Reduz a resistência a golpes críticos em <Orange>{EffectParam1}</>
 Reduz o ataque básico Dano sofrido por <Orange>{EffectParam2}</>",Melhora a defesa,
 21371,Steel Heart,"Aumenta a regeneração de HP em <Orange>{EffectParam1}</> 
 Reduz Skill Dano Sofrido por <Orange>{EffectParam2}</>%",Melhora a Defesa e a Sobrevivência Skills,
-21470,Domination of Rage,"Reduces Damage Taken por <Orange>{EffectParam1}</>%
+21470,Domination of Rage,"Reduz o dano recebido por <Orange>{EffectParam1}</>%
 Aumenta Geração Aggro por <Orange>{EffectParam2}</>%",Melhora a defesa,
 21471,Earth's Blessing,"Aumenta o HP máximo em <Orange>{EffectParam1}</>%
 Aumenta HP Potion Healing por <Orange>{EffectParam2}</>
@@ -1142,31 +1142,31 @@ Reduz a duração do controle de multidão em <Orange>{EffectParam4}</>%",Melhor
 21473,Tenacious Combat,"Aumenta a taxa de precisão em <Orange>{EffectParam1}</>%
 Reduz Skill Dano de acerto crítico sofrido por <Orange>{EffectParam2}</>%",Precisão e aprimoramento de defesa,
 21570,Ironclad Protection,"Aumenta a resistência ao controle de multidão em <Orange>{EffectParam1}</>%
-Reduces Damage Taken enquanto a multidão é controlada por <Orange>{EffectParam2}</>%",Melhora a defesa,
+Reduz o dano recebido enquanto a multidão é controlada por <Orange>{EffectParam2}</>%",Melhora a defesa,
 21572,Battle-Hardened Courage,"Reduz o dano de acerto crítico recebido em <Orange>{EffectParam1}</>%
 Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam2}</>%",Melhore a sobrevivência Skills,
-21573,Veteran's Insight,Aumenta o dano causado a alvos protegidos em <Orange>{EffectParam1}</>%,Increased Damage to Shielded Targets,
-22100,Basic Combat,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Attack Power Increase,
-22101,Defensive Stance,Increases Defense em <Orange>{EffectParam1}</>,Increases Defense,
-22102,Prepare to Strike,Aumenta o acerto crítico em <Orange>{EffectParam1}</>,Critical Hit Increase,
-22200,Precise Aim,Aumenta Precisão em <Orange>{EffectParam1}</>,Accuracy Increase,
-22201,Sharp Instincts,Increases Evasion em <Orange>{EffectParam1}</>,Increases Evasion,
-22300,Power of the Combat,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Attack Power Increase,
+21573,Veteran's Insight,Aumenta o dano causado a alvos protegidos em <Orange>{EffectParam1}</>%,Aumento de dano a alvos protegidos,
+22100,Basic Combat,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Aumento de Poder de Ataque,
+22101,Defensive Stance,Aumenta a defesa em <Orange>{EffectParam1}</>,Aumenta a defesa,
+22102,Prepare to Strike,Aumenta o acerto crítico em <Orange>{EffectParam1}</>,Aumento de acerto crítico,
+22200,Precise Aim,Aumenta Precisão em <Orange>{EffectParam1}</>,Aumento de precisão,
+22201,Sharp Instincts,Aumenta a Evasão em <Orange>{EffectParam1}</>,Aumenta a Evasão,
+22300,Power of the Combat,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Aumento de Poder de Ataque,
 22301,Heavy Blow,"Aumenta a maximização Taxa em <Orange>{EffectParam1}</>%
  Aumenta o poder de ataque básico em <Orange>{EffectParam2}</>",Aumenta o poder de ataque,
 22302,Enhance Vitality,"Aumenta o HP máximo em <Orange>{EffectParam1}</>
  Aumenta a cura de poções de HP em <Orange>{EffectParam2}</>",Melhore a sobrevivência Skills,
 22400,Flow of the Battlefield,"Aumenta a regeneração de MP <Orange>{EffectParam1}</>
  Aumenta o poder de ataque de Skill em <Orange>{EffectParam2}</>",Aumenta o poder de ataque,
-22401,Focused Breathing,Aumenta a taxa de precisão em <Orange>{EffectParam1}</>%,Accuracy Rate Increase,
+22401,Focused Breathing,Aumenta a taxa de precisão em <Orange>{EffectParam1}</>%,Aumento da taxa de precisão,
 22402,Indomitable Body,"Aumenta a taxa de resistência a golpes críticos de Skill em <Orange>{EffectParam1}</>%
 Reduz o dano de acerto crítico recebido por <Orange>{EffectParam2}</>%",Melhora a defesa,
-22500,Hero’s Aura,"Reduces Damage Taken em <Orange>{EffectParam1}</>%
+22500,Hero’s Aura,"Reduz o dano recebido em <Orange>{EffectParam1}</>%
 Aumenta a velocidade de movimento em <Orange>{EffectParam2}</>%",Melhora a Defesa e a Sobrevivência Skills,
 22501,Gale Resolve,"Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>%
 Aumenta Skill Velocidade de lançamento em <Orange>{EffectParam2}</>%",Melhoria de defesa e velocidade de lançamento,
 22502,Deathless Flesh,"Aumenta o máximo HP por <Orange>{EffectParam1}</>
-Reduces Damage Taken de skills de alvo único por <Orange>{EffectParam2}</>%",Melhore a sobrevivência Skills,
+Reduz o dano recebido de skills de alvo único por <Orange>{EffectParam2}</>%",Melhore a sobrevivência Skills,
 22140,Mana Training,Aumenta o poder de ataque básico em <Orange>{EffectParam1}</>,Aumenta o poder de ataque básico,
 22240,Staff Enhancement,aumenta o poder de ataque de Skill em <Orange>{EffectParam1}</>,aumenta o poder de ataque de Skill,
 22340,Combat Will: Mage,"Aumenta o dano a monstros em <Orange>{EffectParam1}</>%
@@ -1180,47 +1180,47 @@ Reduces Damage Taken de skills de alvo único por <Orange>{EffectParam2}</>%",Me
  Aumenta a velocidade de movimento em <Orange>{EffectParam2}</>%",Aumenta o poder de ataque,
 22443,Frozen Flame,"Aumenta o dano contra alvos queimados em <Orange>{EffectParam1}</>%
  Aumenta o dano contra alvos congelados em <Orange>{EffectParam2}</>%",Aumenta o poder de ataque,
-22444,Frozen Flame,Increases Skill Damage em <Orange>{EffectParam1}</>%,Increases Skill Damage,
-22540,Burning Heart,Aumenta o dano por <Orange>{EffectParam1}</>%,Damage Increase,
-22541,Burning Heart,Increases Skill Damage em <Orange>{EffectParam1}</>%,Increases Skill Damage,
-22170,Combat Instinct: Mage,Aumenta o acerto crítico Resistência por <Orange>{EffectParam1}</>,Increases Critical Hit Resistance,
-22270,Will of Mana,"Increases Defense em <Orange>{EffectParam1}</>
+22444,Frozen Flame,Aumenta o dano de Skill em <Orange>{EffectParam1}</>%,Aumenta o dano de Skill,
+22540,Burning Heart,Aumenta o dano por <Orange>{EffectParam1}</>%,Aumento de dano,
+22541,Burning Heart,Aumenta o dano de Skill em <Orange>{EffectParam1}</>%,Aumenta o dano de Skill,
+22170,Combat Instinct: Mage,Aumenta o acerto crítico Resistência por <Orange>{EffectParam1}</>,Aumenta a resistência a golpes críticos,
+22270,Will of Mana,"Aumenta a defesa em <Orange>{EffectParam1}</>
  Aumenta a regeneração de MP em <Orange>{EffectParam2}</>",Melhora o ataque e a defesa,
 22370,Magic Focus,"Aumenta Evasão por <Orange>{EffectParam1}</>
  Aumenta Skill Chance de lançamento em <Orange>{EffectParam2}</>%",Melhora o ataque e a defesa,
-22371,Mana Amplification,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Attack Power Increase,
+22371,Mana Amplification,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Aumento de Poder de Ataque,
 22470,Mana Armor,Shield Generation,Escudo,
-22471,Mana Armor,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
+22471,Mana Armor,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
 22472,Foresight,Aumenta a taxa de evasão de Skill em <Orange>{EffectParam1}</>%,Aumenta Skill Taxa de evasão,
 22473,Foresight,Reduz o cooldown de Skill em <Orange>{EffectParam1}</>s,Redução do tempo de espera Skill,
 22474,Spell Acceleration,"aumenta Taxa de precisão em <Orange>{EffectParam1}</>%
-Increases Skill Damage em <Orange>{EffectParam2}</>%
+Aumenta o dano de Skill em <Orange>{EffectParam2}</>%
 Aumenta a velocidade de lançamento de Skill em <Orange>{EffectParam3}</>%",Precisão e aprimoramento de ataque,
-22570,Eye of the Battlefield,Aumenta o dano por <Orange>{EffectParam1}</>%,Damage Increase,
+22570,Eye of the Battlefield,Aumenta o dano por <Orange>{EffectParam1}</>%,Aumento de dano,
 22572,Mana Erosion,"Reduz o dano de acerto crítico recebido por <Orange>{EffectParam1}</>%
 Reduz a duração do controle de multidão de entrada em <Orange>{EffectParam2}</>%",Melhore a sobrevivência Skills,
-22573,Mana Insight,Aumenta o dano causado a alvos protegidos em <Orange>{EffectParam1}</>%,Increased Damage to Shielded Targets,
-23100,Basic Combat,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Attack Power Increase,
-23101,Defensive Stance,Increases Defense em <Orange>{EffectParam1}</>,Increases Defense,
-23102,Prepare to Strike,Aumenta o acerto crítico em <Orange>{EffectParam1}</>,Critical Hit Increase,
-23200,Precise Aim,Aumenta Precisão em <Orange>{EffectParam1}</>,Accuracy Increase,
-23201,Sharp Instincts,Increases Evasion em <Orange>{EffectParam1}</>,Increases Evasion,
-23300,Power of the Combat,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Attack Power Increase,
+22573,Mana Insight,Aumenta o dano causado a alvos protegidos em <Orange>{EffectParam1}</>%,Aumento de dano a alvos protegidos,
+23100,Basic Combat,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Aumento de Poder de Ataque,
+23101,Defensive Stance,Aumenta a defesa em <Orange>{EffectParam1}</>,Aumenta a defesa,
+23102,Prepare to Strike,Aumenta o acerto crítico em <Orange>{EffectParam1}</>,Aumento de acerto crítico,
+23200,Precise Aim,Aumenta Precisão em <Orange>{EffectParam1}</>,Aumento de precisão,
+23201,Sharp Instincts,Aumenta a Evasão em <Orange>{EffectParam1}</>,Aumenta a Evasão,
+23300,Power of the Combat,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Aumento de Poder de Ataque,
 23301,Heavy Blow,"Aumenta a maximização Taxa em <Orange>{EffectParam1}</>%
  Aumenta o poder de ataque básico em <Orange>{EffectParam2}</>",Aumenta o poder de ataque,
 23302,Enhance Vitality,"Aumenta o HP máximo em <Orange>{EffectParam1}</>
  Aumenta a cura de poções de HP em <Orange>{EffectParam2}</>",Melhore a sobrevivência Skills,
 23400,Flow of the Battlefield,"Aumenta a regeneração de MP <Orange>{EffectParam1}</>
  Aumenta o poder de ataque de Skill em <Orange>{EffectParam2}</>",Aumenta o poder de ataque,
-23401,Focused Breathing,Aumenta a taxa de precisão em <Orange>{EffectParam1}</>%,Accuracy Rate Increase,
+23401,Focused Breathing,Aumenta a taxa de precisão em <Orange>{EffectParam1}</>%,Aumento da taxa de precisão,
 23402,Indomitable Body,"Aumenta a taxa de resistência a golpes críticos de Skill em <Orange>{EffectParam1}</>%
 Reduz o dano de acerto crítico recebido por <Orange>{EffectParam2}</>%",Melhora a defesa,
-23500,Hero’s Aura,"Reduces Damage Taken em <Orange>{EffectParam1}</>%
+23500,Hero’s Aura,"Reduz o dano recebido em <Orange>{EffectParam1}</>%
 Aumenta a velocidade de movimento em <Orange>{EffectParam2}</>%",Melhora a Defesa e a Sobrevivência Skills,
 23501,Gale Resolve,"Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>%
 Aumenta Skill Velocidade de lançamento em <Orange>{EffectParam2}</>%",Melhoria de defesa e velocidade de lançamento,
 23502,Deathless Flesh,"Aumenta o máximo HP por <Orange>{EffectParam1}</>
-Reduces Damage Taken de skills de alvo único por <Orange>{EffectParam2}</>%",Melhore a sobrevivência Skills,
+Reduz o dano recebido de skills de alvo único por <Orange>{EffectParam2}</>%",Melhore a sobrevivência Skills,
 23140,Divine Training,Aumenta o poder de ataque básico em <Orange>{EffectParam1}</>,Aumenta o poder de ataque básico,
 23240,Orb Enhancement,aumenta o poder de ataque de Skill em <Orange>{EffectParam1}</>,aumenta o poder de ataque de Skill,
 23340,Combat Will: Battle Priest,"Aumenta o dano a monstros em <Orange>{EffectParam1}</>%
@@ -1234,56 +1234,56 @@ Aumenta o Poder de Ataque Ignorado em <Orange>{EffectParam2}</>",Melhora o ataqu
  e a velocidade de movimento em <Orange>{EffectParam2}</>%",Aumenta o poder de ataque,
 23443,Frozen Miasma,"Aumenta o dano contra alvos congelados em <Orange>{EffectParam1}</>%
 Aumenta o dano contra alvos envenenados em <Orange>{EffectParam2}</>%",Aumenta o poder de ataque,
-23444,Frozen Miasma,Increases Skill Damage em <Orange>{EffectParam1}</>%,Increases Skill Damage,
-23540,Divine Judgment,Aumenta o dano por <Orange>{EffectParam1}</>%,Damage Increase,
+23444,Frozen Miasma,Aumenta o dano de Skill em <Orange>{EffectParam1}</>%,Aumenta o dano de Skill,
+23540,Divine Judgment,Aumenta o dano por <Orange>{EffectParam1}</>%,Aumento de dano,
 23541,Divine Judgment,Aumenta o dano de ataque básico em <Orange>{EffectParam1}</>%,Aumenta o dano de ataques básicos,
-23170,Combat Instinct: Battle Priest,Increases Defense em <Orange>{EffectParam1}</>,Increases Defense,
+23170,Combat Instinct: Battle Priest,Aumenta a defesa em <Orange>{EffectParam1}</>,Aumenta a defesa,
 23270,Will of Nature,"Aumenta o HP máximo em <Orange>{EffectParam1}</>
 Aumenta a regeneração de MP em <Orange>{EffectParam2}</>",Aumenta o poder de ataque,
-23370,Recovery Shield,"Increases Defense por <Orange>{EffectParam1}</> e
+23370,Recovery Shield,"Aumenta a defesa por <Orange>{EffectParam1}</> e
 Quantidade de cura por <Orange>{EffectParam2}</>%",Melhora a Defesa e a Sobrevivência Skills,
 23371,Healing Suppression,Aumenta a precisão do ataque básico em <Orange>{EffectParam1}</>,Aumenta a precisão do ataque básico,
 23372,Healing Suppression,Reduz a cura de HP recebida por <Red>{EffectParam1}</>%,Reduz a cura de HP recebida,
 23470,Combat Blessing,Cria um escudo anulador <Orange>{EffectParam1}</> vezes,Escudo anulador,
 23471,Regroup,"Reduz o resfriamento de Skill em <Orange>{EffectParam1}</>%
 Reduz a duração do controle de multidão em <Orange>{EffectParam2}</>%",Melhora o ataque e a defesa,
-23472,Regroup,Recupere HP por <Orange>{EffectParam1}</>,HP Recovery,
+23472,Regroup,Recupere HP por <Orange>{EffectParam1}</>,Recuperação de HP,
 23473,Divine Suppression,"Aumenta a taxa de precisão em <Orange>{EffectParam1}</>%
-Increases Skill Damage em <Orange>{EffectParam2}</>%
+Aumenta o dano de Skill em <Orange>{EffectParam2}</>%
 Aumenta a chance de acerto do controle de multidão em <Orange>{EffectParam3}</>%",Precisão e aprimoramento de ataque,
-23570,Sanctuary,Aumenta a cura em <Orange>{EffectParam1}</>%,Healing Amount Increase,
+23570,Sanctuary,Aumenta a cura em <Orange>{EffectParam1}</>%,Aumento da quantidade de cura,
 23571,Sanctuary,"Aumenta a taxa de evasão em <Orange>{EffectParam1}</>%
 Aumenta a velocidade de movimento em <Orange>{EffectParam2}</>%",Melhora a defesa,
 23572,Holy Blessing,"Reduz o dano de acerto crítico recebido em <Orange>{EffectParam1}</>%
 Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam2}</>%",Melhore a sobrevivência Skills,
-23573,Sacred Insight,Aumenta o dano causado a alvos protegidos em <Orange>{EffectParam1}</>%,Increased Damage to Shielded Targets,
-24100,Basic Combat,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Attack Power Increase,
-24101,Defensive Stance,Increases Defense em <Orange>{EffectParam1}</>,Increases Defense,
-24102,Prepare to Strike,Aumenta o acerto crítico em <Orange>{EffectParam1}</>,Critical Hit Increase,
-24200,Precise Aim,Aumenta Precisão em <Orange>{EffectParam1}</>,Accuracy Increase,
-24201,Sharp Instincts,Increases Evasion em <Orange>{EffectParam1}</>,Increases Evasion,
-24300,Power of the Combat,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Attack Power Increase,
+23573,Sacred Insight,Aumenta o dano causado a alvos protegidos em <Orange>{EffectParam1}</>%,Aumento de dano a alvos protegidos,
+24100,Basic Combat,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Aumento de Poder de Ataque,
+24101,Defensive Stance,Aumenta a defesa em <Orange>{EffectParam1}</>,Aumenta a defesa,
+24102,Prepare to Strike,Aumenta o acerto crítico em <Orange>{EffectParam1}</>,Aumento de acerto crítico,
+24200,Precise Aim,Aumenta Precisão em <Orange>{EffectParam1}</>,Aumento de precisão,
+24201,Sharp Instincts,Aumenta a Evasão em <Orange>{EffectParam1}</>,Aumenta a Evasão,
+24300,Power of the Combat,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Aumento de Poder de Ataque,
 24301,Heavy Blow,"Aumenta a maximização Taxa em <Orange>{EffectParam1}</>%
  Aumenta o poder de ataque básico em <Orange>{EffectParam2}</>",Aumenta o poder de ataque,
 24302,Enhance Vitality,"Aumenta o HP máximo em <Orange>{EffectParam1}</>
  Aumenta a cura de poções de HP em <Orange>{EffectParam2}</>",Melhore a sobrevivência Skills,
 24400,Flow of the Battlefield,"Aumenta a regeneração de MP <Orange>{EffectParam1}</>
  Aumenta o poder de ataque de Skill em <Orange>{EffectParam2}</>",Aumenta o poder de ataque,
-24401,Focused Breathing,Aumenta a taxa de precisão em <Orange>{EffectParam1}</>%,Accuracy Rate Increase,
+24401,Focused Breathing,Aumenta a taxa de precisão em <Orange>{EffectParam1}</>%,Aumento da taxa de precisão,
 24402,Indomitable Body,"Aumenta a taxa de resistência a golpes críticos de Skill em <Orange>{EffectParam1}</>%
 Reduz o dano de acerto crítico recebido por <Orange>{EffectParam2}</>%",Melhora a defesa,
-24500,Hero’s Aura,"Reduces Damage Taken em <Orange>{EffectParam1}</>%
+24500,Hero’s Aura,"Reduz o dano recebido em <Orange>{EffectParam1}</>%
 Aumenta a velocidade de movimento em <Orange>{EffectParam2}</>%",Melhora a Defesa e a Sobrevivência Skills,
 24501,Gale Resolve,"Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>%
 Aumenta Skill Velocidade de lançamento em <Orange>{EffectParam2}</>%",Melhoria de defesa e velocidade de lançamento,
 24502,Deathless Flesh,"Aumenta o máximo HP por <Orange>{EffectParam1}</>
-Reduces Damage Taken de skills de alvo único por <Orange>{EffectParam2}</>%",Melhore a sobrevivência Skills,
+Reduz o dano recebido de skills de alvo único por <Orange>{EffectParam2}</>%",Melhore a sobrevivência Skills,
 24140,Assassination Training,Aumenta a Defesa de Ignorar em <Orange>{EffectParam1}</>,Aumenta a Defesa de Ignorar,
-24240,Dagger Enhancement,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Attack Power Increase,
+24240,Dagger Enhancement,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Aumento de Poder de Ataque,
 24340,Combat Will: Assassin,"Aumenta o dano a monstros em <Orange>{EffectParam1}</>%
  Aumenta o poder de ataque de Skill em <Orange>{EffectParam2}</>",Aumenta o poder de ataque,
 24341,Shadow Discipline,"Aumenta Crítico Dano por <Orange>{EffectParam1}</>%
- Increases Evasion em <Orange>{EffectParam2}</>",Melhora o ataque e a defesa,
+ Aumenta a Evasão em <Orange>{EffectParam2}</>",Melhora o ataque e a defesa,
 24440,Assassin's Aura,"aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%
  Aumenta o poder de ataque básico em <Orange>{EffectParam2}</>",Aumenta o poder de ataque,
 24441,Shadow Blade,Aumenta o dano ao alvo atordoado em <Orange>{EffectParam1}</>%,Aumenta o poder de ataque,
@@ -1291,59 +1291,59 @@ Reduces Damage Taken de skills de alvo único por <Orange>{EffectParam2}</>%",Me
  Aumenta a velocidade de movimento em <Orange>{EffectParam2}</>%",Aumenta o poder de ataque,
 24443,Cruel Imprint,"Aumenta o dano contra alvos envenenados em <Orange>{EffectParam1}</>%
 Aumenta o dano contra alvos com sangramento em <Orange>{EffectParam2}</>%",Aumenta o poder de ataque,
-24444,Cruel Imprint,aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%,Attack Speed Increase,
-24540,Assassin's Breath,Aumenta o dano por <Orange>{EffectParam1}</>%,Damage Increase,
-24541,Assassin's Breath,Increases Skill Damage em <Orange>{EffectParam1}</>%,Increases Skill Damage,
+24444,Cruel Imprint,aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%,Aumento de velocidade de ataque,
+24540,Assassin's Breath,Aumenta o dano por <Orange>{EffectParam1}</>%,Aumento de dano,
+24541,Assassin's Breath,Aumenta o dano de Skill em <Orange>{EffectParam1}</>%,Aumenta o dano de Skill,
 24170,Combat Instinct: Assassin,Aumenta Acerto crítico do jogador por <Orange>{EffectParam1}</>,Aumenta acerto crítico do jogador,
 24270,Will of Darkness,"Aumenta o poder de ataque do jogador em <Orange>{EffectParam1}</>
  Aumenta a precisão do jogador em <Orange>{EffectParam2}</>",Aumenta o poder de ataque,
 24370,Echo of Blood,"Aumenta a capacidade do jogador Taxa de precisão em <Orange>{EffectParam1}</>%
 Aumenta o dano ao alvo de sangramento em <Orange>{EffectParam2}</>%",Aumenta o poder de ataque,
-24371,Dark Focus,Aumenta o dano por <Orange>{EffectParam1}</>%,Damage Increase,
+24371,Dark Focus,Aumenta o dano por <Orange>{EffectParam1}</>%,Aumento de dano,
 24470,Blood Aura,"Aumenta a taxa de evasão em <Orange>{EffectParam1}</>%
 Aumenta a velocidade de movimento em <Orange>{EffectParam2}</>%",Melhora a defesa,
-24471,Dark Amplification,Aumenta o dano crítico do jogador em <Orange>{EffectParam1}</>%,Player Critical Damage Increase,
+24471,Dark Amplification,Aumenta o dano crítico do jogador em <Orange>{EffectParam1}</>%,Aumento do dano crítico do jogador,
 24472,Shadow Instinct,"Aumenta a taxa de precisão em <Orange>{EffectParam1}</>%
 Reduz a duração do controle de multidão em <Orange>{EffectParam2}</>%",Precisão e aprimoramento de defesa,
-24570,Judgment,Aumenta a chance de acerto crítico do jogador em <Orange>{EffectParam1}</>%,Player Critical Hit Chance Increase,
+24570,Judgment,Aumenta a chance de acerto crítico do jogador em <Orange>{EffectParam1}</>%,Aumento da chance de acerto crítico do jogador,
 24572,Cruel Instinct,"Reduz Dano de acerto crítico sofrido por <Orange>{EffectParam1}</>%
 Aumenta a taxa de resistência ao efeito de aflição em <Orange>{EffectParam2}</>%",Melhore a sobrevivência Skills,
-24573,Cruel Insight,Aumenta o dano causado a alvos protegidos em <Orange>{EffectParam1}</>%,Increased Damage to Shielded Targets,
-25100,Basic Combat,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Attack Power Increase,
-25101,Defensive Stance,Increases Defense em <Orange>{EffectParam1}</>,Increases Defense,
-25102,Prepare to Strike,Aumenta o acerto crítico em <Orange>{EffectParam1}</>,Critical Hit Increase,
-25200,Precise Aim,Aumenta Precisão em <Orange>{EffectParam1}</>,Accuracy Increase,
-25201,Sharp Instincts,Increases Evasion em <Orange>{EffectParam1}</>,Increases Evasion,
-25300,Power of the Combat,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Attack Power Increase,
+24573,Cruel Insight,Aumenta o dano causado a alvos protegidos em <Orange>{EffectParam1}</>%,Aumento de dano a alvos protegidos,
+25100,Basic Combat,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Aumento de Poder de Ataque,
+25101,Defensive Stance,Aumenta a defesa em <Orange>{EffectParam1}</>,Aumenta a defesa,
+25102,Prepare to Strike,Aumenta o acerto crítico em <Orange>{EffectParam1}</>,Aumento de acerto crítico,
+25200,Precise Aim,Aumenta Precisão em <Orange>{EffectParam1}</>,Aumento de precisão,
+25201,Sharp Instincts,Aumenta a Evasão em <Orange>{EffectParam1}</>,Aumenta a Evasão,
+25300,Power of the Combat,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Aumento de Poder de Ataque,
 25301,Heavy Blow,"Aumenta a maximização Taxa em <Orange>{EffectParam1}</>%
  Aumenta o poder de ataque básico em <Orange>{EffectParam2}</>",Aumenta o poder de ataque,
 25302,Enhance Vitality,"Aumenta o HP máximo em <Orange>{EffectParam1}</>
  Aumenta a cura de poções de HP em <Orange>{EffectParam2}</>",Melhore a sobrevivência Skills,
 25400,Flow of the Battlefield,"Aumenta a regeneração de MP <Orange>{EffectParam1}</>
  Aumenta o poder de ataque de Skill em <Orange>{EffectParam2}</>",Aumenta o poder de ataque,
-25401,Focused Breathing,Aumenta a taxa de precisão em <Orange>{EffectParam1}</>%,Accuracy Rate Increase,
+25401,Focused Breathing,Aumenta a taxa de precisão em <Orange>{EffectParam1}</>%,Aumento da taxa de precisão,
 25402,Indomitable Body,"Aumenta a taxa de resistência a golpes críticos de Skill em <Orange>{EffectParam1}</>%
 Reduz o dano de acerto crítico recebido por <Orange>{EffectParam2}</>%",Melhora a defesa,
-25500,Hero’s Aura,"Reduces Damage Taken em <Orange>{EffectParam1}</>%
+25500,Hero’s Aura,"Reduz o dano recebido em <Orange>{EffectParam1}</>%
 Aumenta a velocidade de movimento em <Orange>{EffectParam2}</>%",Melhora a Defesa e a Sobrevivência Skills,
 25501,Gale Resolve,"Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>%
 Aumenta Skill Velocidade de lançamento em <Orange>{EffectParam2}</>%",Melhoria de defesa e velocidade de lançamento,
 25502,Deathless Flesh,"Aumenta o máximo HP por <Orange>{EffectParam1}</>
-Reduces Damage Taken de skills de alvo único por <Orange>{EffectParam2}</>%",Melhore a sobrevivência Skills,
+Reduz o dano recebido de skills de alvo único por <Orange>{EffectParam2}</>%",Melhore a sobrevivência Skills,
 25140,Archery Training,aumenta o poder de ataque de Skill em <Orange>{EffectParam1}</>,aumenta o poder de ataque de Skill,
 25240,Longbow Enhancement,Aumenta o poder de ataque básico em <Orange>{EffectParam1}</>,Aumenta o poder de ataque básico,
 25340,Combat Will: Hunter,"Aumenta o dano a monstros em <Orange>{EffectParam1}</>%
 Aumenta o poder de ataque básico em <Orange>{EffectParam2}</>",Aumenta o poder de ataque,
 25341,Gale Arrow,"Aumenta o Dano Crítico em <Orange>{EffectParam1}</>%
-Increases Critical Hit Resistance em <Orange>{EffectParam2}</>",Melhora o ataque e a defesa,
+Aumenta a resistência a golpes críticos em <Orange>{EffectParam2}</>",Melhora o ataque e a defesa,
 25440,Hunter's Aura,"Aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%
  Aumenta o poder de ataque de Skill em <Orange>{EffectParam2}</>",Aumenta o poder de ataque,
 25441,Beast's Fang,Aumenta Dano ao alvo com velocidade de movimento reduzida em <Orange>{EffectParam1}</>%,Aumenta o poder de ataque,
-25442,Beast's Fang,"Increases Skill Damage em <Orange>{EffectParam1}</>%
+25442,Beast's Fang,"Aumenta o dano de Skill em <Orange>{EffectParam1}</>%
  Aumenta a velocidade de movimento em <Orange>{EffectParam2}</>%",Aumenta o poder de ataque,
 25443,Bloodstained Instinct,Aumenta o dano contra alvos de sangramento em <Orange>{EffectParam1}</>%,Aumenta o poder de ataque,
 25444,Bloodstained Instinct,Aumenta o dano de ataque básico em <Orange>{EffectParam1}</>%,Aumenta o dano de ataques básicos,
-25540,Perfect Stance,Aumenta o dano por <Orange>{EffectParam1}</>%,Damage Increase,
+25540,Perfect Stance,Aumenta o dano por <Orange>{EffectParam1}</>%,Aumento de dano,
 25541,Perfect Stance,Aumenta o dano de ataque básico em <Orange>{EffectParam1}</>%,Aumenta o dano de ataques básicos,
 25170,Combat Instinct: Hunter,Aumenta a Defesa de Ignorar em <Orange>{EffectParam1}</>,Aumenta a Defesa de Ignorar,
 25270,Arrow’s Will,"Aumenta o HP máximo em <Orange>{EffectParam1}</>
@@ -1351,17 +1351,17 @@ Aumenta a regeneração de HP em <Orange>{EffectParam2}</>",Melhore a sobrevivê
 25370,Hunting Prowess,"Aumenta Precisão em <Orange>{EffectParam1}</>
  Aumenta a chance de acerto do controle de multidão em <Orange>{EffectParam2}</>%",Aumenta o poder de ataque,
 25371,Beast Instinct,Reduz a resistência ao controle de multidão em <Red>{EffectParam1}</>%,Reduz a resistência ao Crowd Control,
-25470,Hunting Essence,Reduces Defense em <Red>{EffectParam1}</>,Reduces Defense,
+25470,Hunting Essence,Reduz a Defesa em <Red>{EffectParam1}</>,Reduz a Defesa,
 25471,Defense Break,Reduz a resistência a golpes críticos em <Red>{EffectParam1}</>%,Reduz a resistência a golpes críticos,
 25472,Weakness Hunting,"Aumenta a taxa de precisão em <Orange>{EffectParam1}</>%
 Aumenta o dano contra alvos controlados por multidão em <Orange>{EffectParam2}</>%",Precisão e aprimoramento de ataque,
 25570,Ashen Arrow,Aumenta a duração do Crowd Control em <Orange>{EffectParam1}</>%,Aumenta a duração do controle de multidão,
-25571,Ashen Arrow,Item Disabled,Item Disabled,
+25571,Ashen Arrow,Item desativado Item,Item desativado Item,
 25572,Venom Tracker,"Reduz Dano de acerto crítico sofrido por <Orange>{EffectParam1}</>%
 Aumenta a taxa de resistência ao efeito de aflição em <Orange>{EffectParam2}</>%",Melhore a sobrevivência Skills,
-25573,Venomous Insight,Aumenta o dano causado a alvos protegidos em <Orange>{EffectParam1}</>%,Increased Damage to Shielded Targets,
+25573,Venomous Insight,Aumenta o dano causado a alvos protegidos em <Orange>{EffectParam1}</>%,Aumento de dano a alvos protegidos,
 35002,Mage Descida Skill,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
-35003,Mage Descida Skill,Increases Defense em <Orange>{EffectParam1}</>%,Increases Defense,
+35003,Mage Descida Skill,Aumenta a defesa em <Orange>{EffectParam1}</>%,Aumenta a defesa,
 40011,Mudando Buff,,,
 40012,Mudando Buff,,,
 40021,Mudando Buff,,,
@@ -1376,88 +1376,88 @@ Aumenta a taxa de resistência ao efeito de aflição em <Orange>{EffectParam2}<
 45372,Shield Generation,<Orange>{EffectParam1}</> Escudo,Escudo,
 45373,Shield Generation,<Orange>{EffectParam1}</> Escudo,Escudo,
 45374,Shield Generation,<Orange>{EffectParam1}</> Escudo,Escudo,
-45381,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
-45382,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
-45383,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
-45384,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
-45394,Reduces Damage Taken,Reduz os danos sofridos por <Orange>{EffectParam1}</>%,Reduces Damage Taken,
-45395,Reduces Damage Taken,Reduz os danos sofridos por <Orange>{EffectParam1}</>%,Reduces Damage Taken,
-45404,Increases Evasion Chance,Aumenta a Chance de Evasão em <Orange>{EffectParam1}</>%,Increases Evasion Chance,
-45405,Increases Evasion Chance,Aumenta a Chance de Evasão em <Orange>{EffectParam1}</>%,Increases Evasion Chance,
-45414,Crowd Control Resistance Increase,aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>%,Crowd Control Resistance Increase,
-45415,Crowd Control Resistance Increase,aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>%,Crowd Control Resistance Increase,
-45474,Increase Critical Hit Resistance Rate ,Aumenta a taxa de resistência a golpes críticos em <Orange>{EffectParam1}</>%,Increase Critical Hit Resistance Rate,
-45475,Increase Critical Hit Resistance Rate ,Aumenta a taxa de resistência a golpes críticos em <Orange>{EffectParam1}</>%,Increase Critical Hit Resistance Rate,
-45484,Attack Power Increase,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Attack Power Increase,
-45485,Attack Power Increase,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Attack Power Increase,
-45494,Increases Defense,Increases Defense em <Orange>{EffectParam1}</>,Increases Defense,
-45495,Increases Defense,Increases Defense em <Orange>{EffectParam1}</>,Increases Defense,
-45504,Increase Skill Cast Speed,Aumenta a velocidade de lançamento de Skill em <Orange>{EffectParam1}</>%,Increase Skill Cast Speed,
-45505,Increase Skill Cast Speed,Aumenta a velocidade de lançamento de Skill em <Orange>{EffectParam1}</>%,Increase Skill Cast Speed,
-46081,Reduces Attack Power,Reduz o Poder de Ataque em <Red>{EffectParam1}</>,Reduces Attack Power,
-46082,Reduces Attack Power,Reduz o Poder de Ataque em <Red>{EffectParam1}</>,Reduces Attack Power,
-46083,Reduces Attack Power,Reduz o Poder de Ataque em <Red>{EffectParam1}</>,Reduces Attack Power,
-46084,Reduces Attack Power,Reduz o Poder de Ataque em <Red>{EffectParam1}</>,Reduces Attack Power,
-46085,Reduces Attack Power,Reduz o Poder de Ataque em <Red>{EffectParam1}</>,Reduces Attack Power,
-46091,Reduces Defense,Reduces Defense em <Red>{EffectParam1}</>,Reduces Defense,
-46092,Reduces Defense,Reduces Defense em <Red>{EffectParam1}</>,Reduces Defense,
-46093,Reduces Defense,Reduces Defense em <Red>{EffectParam1}</>,Reduces Defense,
-46094,Reduces Defense,Reduces Defense em <Red>{EffectParam1}</>,Reduces Defense,
-46095,Reduces Defense,Reduces Defense em <Red>{EffectParam1}</>,Reduces Defense,
+45381,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
+45382,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
+45383,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
+45384,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
+45394,Reduces Damage Taken,Reduz os danos sofridos por <Orange>{EffectParam1}</>%,Reduz o dano recebido,
+45395,Reduces Damage Taken,Reduz os danos sofridos por <Orange>{EffectParam1}</>%,Reduz o dano recebido,
+45404,Increases Evasion Chance,Aumenta a Chance de Evasão em <Orange>{EffectParam1}</>%,aumenta a chance de evasão,
+45405,Increases Evasion Chance,Aumenta a Chance de Evasão em <Orange>{EffectParam1}</>%,aumenta a chance de evasão,
+45414,Crowd Control Resistance Increase,aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>%,Aumento da resistência ao controle de multidão,
+45415,Crowd Control Resistance Increase,aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>%,Aumento da resistência ao controle de multidão,
+45474,Increase Critical Hit Resistance Rate ,Aumenta a taxa de resistência a golpes críticos em <Orange>{EffectParam1}</>%,Aumenta a taxa de resistência a acerto crítico contra jogadores,
+45475,Increase Critical Hit Resistance Rate ,Aumenta a taxa de resistência a golpes críticos em <Orange>{EffectParam1}</>%,Aumenta a taxa de resistência a acerto crítico contra jogadores,
+45484,Attack Power Increase,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Aumento de Poder de Ataque,
+45485,Attack Power Increase,Aumenta Poder de ataque em <Orange>{EffectParam1}</>,Aumento de Poder de Ataque,
+45494,Increases Defense,Aumenta a defesa em <Orange>{EffectParam1}</>,Aumenta a defesa,
+45495,Increases Defense,Aumenta a defesa em <Orange>{EffectParam1}</>,Aumenta a defesa,
+45504,Increase Skill Cast Speed,Aumenta a velocidade de lançamento de Skill em <Orange>{EffectParam1}</>%,Aumentar Skill Velocidade de lançamento,
+45505,Increase Skill Cast Speed,Aumenta a velocidade de lançamento de Skill em <Orange>{EffectParam1}</>%,Aumentar Skill Velocidade de lançamento,
+46081,Reduces Attack Power,Reduz o Poder de Ataque em <Red>{EffectParam1}</>,reduz Poder de Ataque,
+46082,Reduces Attack Power,Reduz o Poder de Ataque em <Red>{EffectParam1}</>,reduz Poder de Ataque,
+46083,Reduces Attack Power,Reduz o Poder de Ataque em <Red>{EffectParam1}</>,reduz Poder de Ataque,
+46084,Reduces Attack Power,Reduz o Poder de Ataque em <Red>{EffectParam1}</>,reduz Poder de Ataque,
+46085,Reduces Attack Power,Reduz o Poder de Ataque em <Red>{EffectParam1}</>,reduz Poder de Ataque,
+46091,Reduces Defense,Reduz a Defesa em <Red>{EffectParam1}</>,Reduz a Defesa,
+46092,Reduces Defense,Reduz a Defesa em <Red>{EffectParam1}</>,Reduz a Defesa,
+46093,Reduces Defense,Reduz a Defesa em <Red>{EffectParam1}</>,Reduz a Defesa,
+46094,Reduces Defense,Reduz a Defesa em <Red>{EffectParam1}</>,Reduz a Defesa,
+46095,Reduces Defense,Reduz a Defesa em <Red>{EffectParam1}</>,Reduz a Defesa,
 46244,Inflicts Movement Speed Reduction,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
 46245,Inflicts Movement Speed Reduction,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
-46344,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
-46345,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
+46344,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
+46345,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
 47025,Increases Count,Adicione 1 traço,Aumenta a contagem de avanços,
 47044,Crowd Control Resistance Increase,aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>%,Aumenta tudo Resistência ao controle de multidão,
 47045,Crowd Control Resistance Increase,aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>%,Aumenta tudo Resistência ao controle de multidão,
-47051,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
-47052,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
-47053,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
-47054,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
-47055,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
-47064,Increases Evasion Chance,Aumenta a Chance de Evasão em <Orange>{EffectParam1}</>%,Increases Evasion Chance,
-47065,Increases Evasion Chance,Aumenta a Chance de Evasão em <Orange>{EffectParam1}</>%,Increases Evasion Chance,
+47051,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
+47052,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
+47053,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
+47054,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
+47055,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
+47064,Increases Evasion Chance,Aumenta a Chance de Evasão em <Orange>{EffectParam1}</>%,aumenta a chance de evasão,
+47065,Increases Evasion Chance,Aumenta a Chance de Evasão em <Orange>{EffectParam1}</>%,aumenta a chance de evasão,
 47071,,,,
 47072,,,,
 47075,Crowd Control Resistance Increase,aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>%,Aumenta tudo Resistência ao controle de multidão,
-47091,Casting Speed Increase,Aumenta a velocidade de lançamento em <Orange>{EffectParam1}</>%,Casting Speed Increase,
-47092,Casting Speed Increase,Aumenta a velocidade de lançamento em <Orange>{EffectParam1}</>%,Casting Speed Increase,
-47093,Casting Speed Increase,Aumenta a velocidade de lançamento em <Orange>{EffectParam1}</>%,Casting Speed Increase,
-47094,Casting Speed Increase,Aumenta a velocidade de lançamento em <Orange>{EffectParam1}</>%,Casting Speed Increase,
-47095,Casting Speed Increase,Aumenta a velocidade de lançamento em <Orange>{EffectParam1}</>%,Casting Speed Increase,
-47104,Increases Defense,Increases Defense em <Orange>{EffectParam1}</>,Increases Defense,
-47105,Increases Defense,Increases Defense em <Orange>{EffectParam1}</>,Increases Defense,
-47111,Increases monster’s Defense,Increases monster’s Defense em <Orange>{EffectParam1}</>,Increases monster’s Defense,
-47112,Increases monster’s Defense,Increases monster’s Defense em <Orange>{EffectParam1}</>,Increases monster’s Defense,
-47113,Increases monster’s Defense,Increases monster’s Defense em <Orange>{EffectParam1}</>,Increases monster’s Defense,
-47121,Increases player’s Defense,Increases player’s Defense em <Orange>{EffectParam1}</>,Increases player’s Defense,
-47122,Increases player’s Defense,Increases player’s Defense em <Orange>{EffectParam1}</>,Increases player’s Defense,
-47123,Increases player’s Defense,Increases player’s Defense em <Orange>{EffectParam1}</>,Increases player’s Defense,
-47134,Increases Evasion,Increases Evasion em <Orange>{EffectParam1}</>,Increases Evasion,
-47135,Increases Evasion,Increases Evasion em <Orange>{EffectParam1}</>,Increases Evasion,
-47141,Increases monster’s Evasion,Increases monster’s Evasion em <Orange>{EffectParam1}</>,Increases monster’s Evasion,
-47142,Increases monster’s Evasion,Increases monster’s Evasion em <Orange>{EffectParam1}</>,Increases monster’s Evasion,
-47143,Increases monster’s Evasion,Increases monster’s Evasion em <Orange>{EffectParam1}</>,Increases monster’s Evasion,
-47151,Increases player’s Evasion,Increases player’s Evasion em <Orange>{EffectParam1}</>,Increases player’s Evasion,
-47152,Increases player’s Evasion,Increases player’s Evasion em <Orange>{EffectParam1}</>,Increases player’s Evasion,
-47153,Increases player’s Evasion,Increases player’s Evasion em <Orange>{EffectParam1}</>,Increases player’s Evasion,
-47164,Increases Critical Hit Resistance,Aumenta o acerto crítico Resistência por <Orange>{EffectParam1}</>,Increases Critical Hit Resistance,
-47165,Increases Critical Hit Resistance,Aumenta o acerto crítico Resistência por <Orange>{EffectParam1}</>,Increases Critical Hit Resistance,
-47171,Increases monster’s Critical Hit Resistance,Aumenta a resistência ao acerto crítico do monstro em <Orange>{EffectParam1}</>,Increases monster’s Critical Hit Resistance,
-47172,Increases monster’s Critical Hit Resistance,Aumenta a resistência ao acerto crítico do monstro em <Orange>{EffectParam1}</>,Increases monster’s Critical Hit Resistance,
-47173,Increases monster’s Critical Hit Resistance,Aumenta a resistência ao acerto crítico do monstro em <Orange>{EffectParam1}</>,Increases monster’s Critical Hit Resistance,
-47181,Increases player’s Critical Hit Resistance,Aumenta a resistência a golpes críticos do jogador em <Orange>{EffectParam1}</>,Increases player’s Critical Hit Resistance,
-47182,Increases player’s Critical Hit Resistance,Aumenta a resistência a golpes críticos do jogador em <Orange>{EffectParam1}</>,Increases player’s Critical Hit Resistance,
-47183,Increases player’s Critical Hit Resistance,Aumenta a resistência a golpes críticos do jogador em <Orange>{EffectParam1}</>,Increases player’s Critical Hit Resistance,
-47194,Reduces Basic Attack Damage Taken,Reduces Basic Attack Damage Taken por <Orange>{EffectParam1}</>%,Reduces Basic Attack Damage Taken,
-47195,Reduces Basic Attack Damage Taken,Reduces Basic Attack Damage Taken por <Orange>{EffectParam1}</>%,Reduces Basic Attack Damage Taken,
-47204,Reduces Skill Damage Taken,Reduces Skill Damage Taken por <Orange>{EffectParam1}</>%,Reduces Skill Damage Taken,
-47205,Reduces Skill Damage Taken,Reduces Skill Damage Taken por <Orange>{EffectParam1}</>%,Reduces Skill Damage Taken,
-47214,Reduces Damage Taken from monsters,Reduz Dano recebido de monstros por <Orange>{EffectParam1}</>%,Reduces Damage Taken from monsters,
-47215,Reduces Damage Taken from monsters,Reduz Dano recebido de monstros por <Orange>{EffectParam1}</>%,Reduces Damage Taken from monsters,
-47224,Reduces Damage Taken from players,Reduces Damage Taken from players por <Orange>{EffectParam1}</>%,Reduces Damage Taken from players,
-47225,Reduces Damage Taken from players,Reduces Damage Taken from players por <Orange>{EffectParam1}</>%,Reduces Damage Taken from players,
+47091,Casting Speed Increase,Aumenta a velocidade de lançamento em <Orange>{EffectParam1}</>%,Aumento da velocidade de lançamento,
+47092,Casting Speed Increase,Aumenta a velocidade de lançamento em <Orange>{EffectParam1}</>%,Aumento da velocidade de lançamento,
+47093,Casting Speed Increase,Aumenta a velocidade de lançamento em <Orange>{EffectParam1}</>%,Aumento da velocidade de lançamento,
+47094,Casting Speed Increase,Aumenta a velocidade de lançamento em <Orange>{EffectParam1}</>%,Aumento da velocidade de lançamento,
+47095,Casting Speed Increase,Aumenta a velocidade de lançamento em <Orange>{EffectParam1}</>%,Aumento da velocidade de lançamento,
+47104,Increases Defense,Aumenta a defesa em <Orange>{EffectParam1}</>,Aumenta a defesa,
+47105,Increases Defense,Aumenta a defesa em <Orange>{EffectParam1}</>,Aumenta a defesa,
+47111,Increases monster’s Defense,Aumenta a defesa do monstro em <Orange>{EffectParam1}</>,Aumenta a defesa do monstro,
+47112,Increases monster’s Defense,Aumenta a defesa do monstro em <Orange>{EffectParam1}</>,Aumenta a defesa do monstro,
+47113,Increases monster’s Defense,Aumenta a defesa do monstro em <Orange>{EffectParam1}</>,Aumenta a defesa do monstro,
+47121,Increases player’s Defense,Aumenta a defesa do jogador em <Orange>{EffectParam1}</>,Aumenta a defesa do jogador,
+47122,Increases player’s Defense,Aumenta a defesa do jogador em <Orange>{EffectParam1}</>,Aumenta a defesa do jogador,
+47123,Increases player’s Defense,Aumenta a defesa do jogador em <Orange>{EffectParam1}</>,Aumenta a defesa do jogador,
+47134,Increases Evasion,Aumenta a Evasão em <Orange>{EffectParam1}</>,Aumenta a Evasão,
+47135,Increases Evasion,Aumenta a Evasão em <Orange>{EffectParam1}</>,Aumenta a Evasão,
+47141,Increases monster’s Evasion,Aumenta a evasão do monstro em <Orange>{EffectParam1}</>,Aumenta a evasão do monstro,
+47142,Increases monster’s Evasion,Aumenta a evasão do monstro em <Orange>{EffectParam1}</>,Aumenta a evasão do monstro,
+47143,Increases monster’s Evasion,Aumenta a evasão do monstro em <Orange>{EffectParam1}</>,Aumenta a evasão do monstro,
+47151,Increases player’s Evasion,Aumenta a evasão do jogador em <Orange>{EffectParam1}</>,Aumenta a evasão do jogador,
+47152,Increases player’s Evasion,Aumenta a evasão do jogador em <Orange>{EffectParam1}</>,Aumenta a evasão do jogador,
+47153,Increases player’s Evasion,Aumenta a evasão do jogador em <Orange>{EffectParam1}</>,Aumenta a evasão do jogador,
+47164,Increases Critical Hit Resistance,Aumenta o acerto crítico Resistência por <Orange>{EffectParam1}</>,Aumenta a resistência a golpes críticos,
+47165,Increases Critical Hit Resistance,Aumenta o acerto crítico Resistência por <Orange>{EffectParam1}</>,Aumenta a resistência a golpes críticos,
+47171,Increases monster’s Critical Hit Resistance,Aumenta a resistência ao acerto crítico do monstro em <Orange>{EffectParam1}</>,Aumenta a resistência a golpes críticos do monstro,
+47172,Increases monster’s Critical Hit Resistance,Aumenta a resistência ao acerto crítico do monstro em <Orange>{EffectParam1}</>,Aumenta a resistência a golpes críticos do monstro,
+47173,Increases monster’s Critical Hit Resistance,Aumenta a resistência ao acerto crítico do monstro em <Orange>{EffectParam1}</>,Aumenta a resistência a golpes críticos do monstro,
+47181,Increases player’s Critical Hit Resistance,Aumenta a resistência a golpes críticos do jogador em <Orange>{EffectParam1}</>,Aumenta a resistência ao acerto crítico do jogador,
+47182,Increases player’s Critical Hit Resistance,Aumenta a resistência a golpes críticos do jogador em <Orange>{EffectParam1}</>,Aumenta a resistência ao acerto crítico do jogador,
+47183,Increases player’s Critical Hit Resistance,Aumenta a resistência a golpes críticos do jogador em <Orange>{EffectParam1}</>,Aumenta a resistência ao acerto crítico do jogador,
+47194,Reduces Basic Attack Damage Taken,Reduz o dano de ataque básico recebido por <Orange>{EffectParam1}</>%,Reduz o dano de ataque básico recebido,
+47195,Reduces Basic Attack Damage Taken,Reduz o dano de ataque básico recebido por <Orange>{EffectParam1}</>%,Reduz o dano de ataque básico recebido,
+47204,Reduces Skill Damage Taken,Reduz Skill Dano sofrido por <Orange>{EffectParam1}</>%,Reduz Skill Dano sofrido,
+47205,Reduces Skill Damage Taken,Reduz Skill Dano sofrido por <Orange>{EffectParam1}</>%,Reduz Skill Dano sofrido,
+47214,Reduces Damage Taken from monsters,Reduz Dano recebido de monstros por <Orange>{EffectParam1}</>%,Reduz o dano recebido de monstros,
+47215,Reduces Damage Taken from monsters,Reduz Dano recebido de monstros por <Orange>{EffectParam1}</>%,Reduz o dano recebido de monstros,
+47224,Reduces Damage Taken from players,Reduz o dano recebido de jogadores por <Orange>{EffectParam1}</>%,Reduz o dano recebido de jogadores,
+47225,Reduces Damage Taken from players,Reduz o dano recebido de jogadores por <Orange>{EffectParam1}</>%,Reduz o dano recebido de jogadores,
 47235,Remove Pain Effect,Aumenta toda a resistência aos efeitos de dor em <Orange>{EffectParam1}</>%,Aumenta toda a resistência aos efeitos de dor,
 47245,Grant Invisibility,O ataque quebra a invisibilidade,,
 51401,Quick Heal,Aumenta a cura em <Orange>{EffectParam1}</>%,Efeito equipado com arma fantasma,
@@ -1472,7 +1472,7 @@ Aumenta a taxa de resistência ao efeito de aflição em <Orange>{EffectParam2}<
 51410,Skill Burst,Aumenta o dano crítico de Skill em <Orange>{EffectParam1}</>%,Efeito equipado com arma fantasma,
 51411,Rift Fissure,Aumenta o Dano Crítico em <Orange>{EffectParam1}</>%,Efeito equipado com arma fantasma,
 51412,Unleashed Power,Aumenta o dano de ataque básico em <Orange>{EffectParam1}</>%,Efeito equipado com arma fantasma,
-51413,Unleashed Skills,Increases Skill Damage em <Orange>{EffectParam1}</>%,Efeito equipado com arma fantasma,
+51413,Unleashed Skills,Aumenta o dano de Skill em <Orange>{EffectParam1}</>%,Efeito equipado com arma fantasma,
 51414,Heartbeat,Aumenta o dano por <Orange>{EffectParam1}</>%,Efeito equipado com arma fantasma,
 51415,Keen Inner Self,Aumenta o dano ao jogador em <Orange>{EffectParam1}</>%,Efeito equipado com arma fantasma,
 51416,Predator's Aura,Aumenta o dano a todos os monstros em <Orange>{EffectParam1}</>%,Efeito equipado com arma fantasma,
@@ -1487,7 +1487,7 @@ Aumenta Chance de acerto crítico em <Orange>{EffectParam2}</>%",Efeito equipado
 51505,Power Unbound,"Aumenta a precisão Taxa em <Orange>{EffectParam1}</>%
 Aumenta o dano de ataque básico em <Orange>{EffectParam2}</>%",Efeito equipado com arma fantasma,
 51506,Skill Unbound,"Aumenta a taxa de precisão por <Orange>{EffectParam1}</>%
-Increases Skill Damage em <Orange>{EffectParam2}</>%",Efeito equipado com arma fantasma,
+Aumenta o dano de Skill em <Orange>{EffectParam2}</>%",Efeito equipado com arma fantasma,
 51507,Beast Instinct,"Aumenta a taxa de precisão em <Orange>{EffectParam1}</>%
 Aumenta Dano a todos os monstros em <Orange>{EffectParam2}</>%",Efeito equipado com arma fantasma,
 51508,Inner Resolve,"Aumenta a taxa de precisão em <Orange>{EffectParam1}</>%
@@ -1522,7 +1522,7 @@ Aumenta a taxa de acerto de dor em <Orange>{EffectParam2}</>%",Efeito equipado c
 Aumenta a taxa de acerto de dor em <Orange>{EffectParam2}</>%",Efeito equipado com arma fantasma,
 53601,Thrilling Blade Dance,Reinicia o tempo de espera do último Skill ativo usado,,
 53602,Blade’s Cry of the Primordial,"Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%
- Aumenta a velocidade de ataque em <Orange>{EffectParam2}</>%",Movement Speed Increase,
+ Aumenta a velocidade de ataque em <Orange>{EffectParam2}</>%",Aumento de velocidade de movimento,
 53603,Absolute Accuracy,"Aumenta Taxa de precisão em <Orange>{EffectParam1}</>% 
  Aumenta a taxa de acertos de CC em <Orange>{EffectParam2}</>%",Aumenta o poder de ataque,
 54401,Quick Heal,Aumenta a cura recebida por <Orange>{EffectParam1}</>%,Efeito de Traje Equipado,
@@ -1542,13 +1542,13 @@ Aumenta a taxa de acerto de dor em <Orange>{EffectParam2}</>%",Efeito equipado c
 54415,Pulverize Resistance,Reduz o dano crítico de ataque básico recebido por <Orange>{EffectParam1}</>%,Efeito de Traje Equipado,
 54416,Damage Mitigation,Reduz o dano crítico de Skill recebido por <Orange>{EffectParam1}</>%,Efeito de Traje Equipado,
 54417,Survival Instincts,Reduz o Dano Crítico de todos os monstros em <Orange>{EffectParam1}</>%,Efeito de Traje Equipado,
-54418,Shock Suppression,Reduces Critical Damage recebido do jogador em <Orange>{EffectParam1}</>%,Efeito de Traje Equipado,
+54418,Shock Suppression,Reduz o dano crítico recebido do jogador em <Orange>{EffectParam1}</>%,Efeito de Traje Equipado,
 54419,Pain Resistance,reduz o dano crítico recebido em <Orange>{EffectParam1}</>%,Efeito de Traje Equipado,
-54420,Strike Mitigation,Reduces Basic Attack Damage Taken por <Orange>{EffectParam1}</>%,Efeito de Traje Equipado,
-54421,Skill Defense,Reduces Skill Damage Taken por <Orange>{EffectParam1}</>%,Efeito de Traje Equipado,
-54422,Hunt Endurance,Reduces Damage Taken de todos os monstros em <Orange>{EffectParam1}</>%,Efeito de Traje Equipado,
-54423,Duel Defense,Reduces Damage Taken from players por <Orange>{EffectParam1}</>%,Efeito de Traje Equipado,
-54424,Hunt Instincts,Reduces Damage Taken de chefes por <Orange>{EffectParam1}</>%,Efeito de Traje Equipado,
+54420,Strike Mitigation,Reduz o dano de ataque básico recebido por <Orange>{EffectParam1}</>%,Efeito de Traje Equipado,
+54421,Skill Defense,Reduz Skill Dano sofrido por <Orange>{EffectParam1}</>%,Efeito de Traje Equipado,
+54422,Hunt Endurance,Reduz o dano recebido de todos os monstros em <Orange>{EffectParam1}</>%,Efeito de Traje Equipado,
+54423,Duel Defense,Reduz o dano recebido de jogadores por <Orange>{EffectParam1}</>%,Efeito de Traje Equipado,
+54424,Hunt Instincts,Reduz o dano recebido de chefes por <Orange>{EffectParam1}</>%,Efeito de Traje Equipado,
 54425,Defense Essence,Reduz a taxa de redução de danos sofridos em <Orange>{EffectParam1}</>%,Efeito de Traje Equipado,
 54501,Instant Heal,"Aumenta a taxa de evasão em <Orange>{EffectParam1}</>%
  Aumenta a cura recebida por <Orange>{EffectParam2}</>%",Efeito de Traje Equipado,
@@ -1563,36 +1563,36 @@ Aumenta o Escudo Recebido por <Orange>{EffectParam2}</>%",Efeito de Traje Equipa
 54506,Resistance Instincts,"Aumenta a taxa de evasão em <Orange>{EffectParam1}</>%
 Aumenta a taxa de resistência a golpes críticos em <Orange>{EffectParam2}</>%",Efeito de Traje Equipado,
 54507,Unyielding Survival,"Aumenta a taxa de evasão em <Orange>{EffectParam1}</>%
-Reduces Critical Damage recebido de todos os monstros por <Orange>{EffectParam2}</>%",Efeito de Traje Equipado,
+Reduz o dano crítico recebido de todos os monstros por <Orange>{EffectParam2}</>%",Efeito de Traje Equipado,
 54508,Memories of Pain,"Aumenta a taxa de evasão em <Orange>{EffectParam1}</>%
 Reduz críticos Dano causado aos jogadores por <Orange>{EffectParam2}</>%",Efeito de Traje Equipado,
 54509,Explosion Resistance,"Aumenta a taxa de evasão em <Orange>{EffectParam1}</>%
-Reduces Critical Damage recebido em <Orange>{EffectParam2}</>%",Efeito de Traje Equipado,
+Reduz o dano crítico recebido em <Orange>{EffectParam2}</>%",Efeito de Traje Equipado,
 54510,Strike Mitigation,"Aumenta a taxa de evasão em <Orange>{EffectParam1}</>%
 Reduz o ataque básico Danos sofridos por <Orange>{EffectParam2}</>%",Efeito de Traje Equipado,
 54511,Skill Mitigation,"Aumenta a taxa de evasão em <Orange>{EffectParam1}</>%
 Reduz Skill Dano Sofrido por <Orange>{EffectParam2}</>%",Efeito de Traje Equipado,
 54512,Endurance of the Hunt,"Aumenta a evasão Taxa em <Orange>{EffectParam1}</>%
-Reduces Damage Taken de todos os monstros em <Orange>{EffectParam2}</>%",Efeito de Traje Equipado,
+Reduz o dano recebido de todos os monstros em <Orange>{EffectParam2}</>%",Efeito de Traje Equipado,
 54513,Survival’s Instincts,"Aumenta a taxa de evasão em <Orange>{EffectParam1}</>%
 Reduz danos Retirado dos jogadores por <Orange>{EffectParam2}</>%",Efeito de Traje Equipado,
 54514,Predator’s Aura,"Aumenta a taxa de evasão em <Orange>{EffectParam1}</>%
-Reduces Damage Taken de chefes por <Orange>{EffectParam2}</>%",Efeito de Traje Equipado,
+Reduz o dano recebido de chefes por <Orange>{EffectParam2}</>%",Efeito de Traje Equipado,
 54515,Indomitable Will,"Aumenta a taxa de evasão em <Orange>{EffectParam1}</>%
-Reduces Damage Taken por <Orange>{EffectParam2}</>%",Efeito de Traje Equipado,
+Reduz o dano recebido por <Orange>{EffectParam2}</>%",Efeito de Traje Equipado,
 54516,Death-Defying Will,"Aumenta a evasão em <Orange>{EffectParam1}</>%
-Reduces Damage Taken por <Orange>{EffectParam2}</>%
-Reduces Critical Damage sofrido por <Orange>{EffectParam3}</>%",Efeito de Traje Equipado,
+Reduz o dano recebido por <Orange>{EffectParam2}</>%
+Reduz o dano crítico sofrido por <Orange>{EffectParam3}</>%",Efeito de Traje Equipado,
 54517,Silent Endurance,"Aumenta a taxa de evasão em <Orange>{EffectParam1}</>%
-Reduces Damage Taken por <Orange>{EffectParam2}</>%",Efeito de Traje Equipado,
+Reduz o dano recebido por <Orange>{EffectParam2}</>%",Efeito de Traje Equipado,
 54518,Shock Dissipation,"Aumenta a evasão em <Orange>{EffectParam1}</>%
-Reduces Damage Taken por <Orange>{EffectParam2}</>%
-Reduces Critical Damage sofrido por <Orange>{EffectParam3}</>%",Efeito de Traje Equipado,
+Reduz o dano recebido por <Orange>{EffectParam2}</>%
+Reduz o dano crítico sofrido por <Orange>{EffectParam3}</>%",Efeito de Traje Equipado,
 54601,Hem of Calamity,"Aumenta a evasão Avaliar por <Orange>{EffectParam1}</>%
 Aumenta a cura recebida por <Orange>{EffectParam2}</>%
 Aumenta o escudo recebido por <Orange>{EffectParam3}</>%
 Aumenta Chance de resistência de maximização por <Orange>{EffectParam4}</>% 
-Reduces Critical Damage recebido por <Orange>{EffectParam5}</>%",Efeito de Traje Equipado,
+Reduz o dano crítico recebido por <Orange>{EffectParam5}</>%",Efeito de Traje Equipado,
 54602,Pain Seal,"Aumenta a taxa de evasão em <Orange>{EffectParam1}</>%
  Aumenta a cura de HP recebida por <Orange>{EffectParam2}</>%
 Aumenta o escudo recebido por <Orange>{EffectParam3}</>%
@@ -1602,25 +1602,25 @@ Aumenta Chance de resistência de maximização em <Orange>{EffectParam4}</>%
 Aumenta a cura recebida por <Orange>{EffectParam2}</>%
 Aumenta o escudo recebido por <Orange>{EffectParam3}</>%
 Aumenta Chance de resistência de maximização por <Orange>{EffectParam4}</>%
-Reduces Damage Taken por <Orange>{EffectParam5}</>%",Efeito de Traje Equipado,
+Reduz o dano recebido por <Orange>{EffectParam5}</>%",Efeito de Traje Equipado,
 54604,Cry of Protection,"Aumenta a taxa de evasão em <Orange>{EffectParam1}</>%
  Aumenta a cura recebida por <Orange>{EffectParam2}</>%
 Aumenta o escudo recebido por <Orange>{EffectParam3}</>%
 Aumenta Chance de Resistência de Maximização em <Orange>{EffectParam4}</>%
 Aumenta a Taxa de Resistência Crítica em <Orange>{EffectParam5}</>%
-Reduces Damage Taken por <Orange>{EffectParam6}</>%",Efeito de Traje Equipado,
+Reduz o dano recebido por <Orange>{EffectParam6}</>%",Efeito de Traje Equipado,
 54605,Despair of the Blade,"Aumenta a taxa de evasão em <Orange>{EffectParam1}</>%
  Aumenta a cura recebida por <Orange>{EffectParam2}</>%
 Aumenta o escudo recebido por <Orange>{EffectParam3}</>%
 Aumenta Chance de Resistência de Maximização por <Orange>{EffectParam4}</>%
 Reduz Dano Crítico Sofrido por <Orange>{EffectParam5}</>%
-Reduces Damage Taken por <Orange>{EffectParam6}</>%",Efeito de Traje Equipado,
+Reduz o dano recebido por <Orange>{EffectParam6}</>%",Efeito de Traje Equipado,
 55501,Warrior’s Form,"Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>%
  Aumenta a taxa de resistência à dor em <Orange>{EffectParam2}</>%",Efeito de Traje Equipado,
 55601,Hero’s Radiance,"Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>%
  Aumenta a taxa de resistência à dor em <Orange>{EffectParam2}</>%",Efeito de Traje Equipado,
-56601,Ruler’s Commanding Spirit,Reduces Basic Attack Damage Taken por <Orange>{EffectParam1}</>%,Reduces Basic Attack Damage Taken,
-56602,Radiant Flow,Reduces Skill Damage Taken por <Orange>{EffectParam1}</>%,Reduces Skill Damage Taken,
+56601,Ruler’s Commanding Spirit,Reduz o dano de ataque básico recebido por <Orange>{EffectParam1}</>%,Reduz o dano de ataque básico recebido,
+56602,Radiant Flow,Reduz Skill Dano sofrido por <Orange>{EffectParam1}</>%,Reduz Skill Dano sofrido,
 56603,Moonlight Aura,<Orange>{EffectParam1}</> Escudo,Escudo,
 56604,Astral Sight,Aumenta a taxa de evasão de ataque básico em <Orange>{EffectParam1}</>%,Aumenta a taxa de evasão de ataque básico,
 56605,Prophet’s Veil,Aumenta a taxa de evasão de Skill em <Orange>{EffectParam1}</>%,Aumenta Skill Taxa de evasão,
@@ -1661,18 +1661,18 @@ Reduz o custo de MP em <Orange>{EffectParam3}</>%",Montagem Equipada Efeito,
 58203,Improve Combat Ability,"Aumenta a regeneração de HP em <Orange>{EffectParam1}</>
  Aumenta a regeneração de MP em <Orange>{EffectParam2}</>
  Aumenta HP Poção de cura por <Orange>{EffectParam3}</>",Montagem Equipada Efeito,
-58501,Thundermane’s Roar,Reduces Damage Taken de todos os monstros em <Orange>{EffectParam1}</>%,Montagem Equipada Efeito,
-58502,Wanderer’s Cry,Reduces Basic Attack Damage Taken por <Orange>{EffectParam1}</>%,Montagem Equipada Efeito,
-58503,Boosts Defense,Reduces Skill Damage Taken por <Orange>{EffectParam1}</>%,Montagem Equipada Efeito,
+58501,Thundermane’s Roar,Reduz o dano recebido de todos os monstros em <Orange>{EffectParam1}</>%,Montagem Equipada Efeito,
+58502,Wanderer’s Cry,Reduz o dano de ataque básico recebido por <Orange>{EffectParam1}</>%,Montagem Equipada Efeito,
+58503,Boosts Defense,Reduz Skill Dano sofrido por <Orange>{EffectParam1}</>%,Montagem Equipada Efeito,
 59021,Ring of Lightning,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
 59041,Descent of Protection,Reduz os danos sofridos por <Orange>{EffectParam1}</>%,Melhora a defesa,
 59051,Descent of Corruption,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
 59061,Dark Lightning,,,
 59062,Dark Lightning,Reduz a resistência a golpes críticos em <Red>{EffectParam1}</>%,Enfraquece a Defesa,
 59071,Wings of Fate,Buff aleatório,Buff aleatório,
-59072,Wings of Fate: aumenta a Velocidade de Movimento,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
-59073,Wings of Fate: aumenta a Taxa de Conjuração,Aumenta a velocidade de lançamento em <Orange>{EffectParam1}</>%,Casting Speed Increase,
-59074,Wings of Fate: aumenta a Velocidade de Ataque,aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%,Attack Speed Increase,
+59072,Wings of Fate: aumenta a Velocidade de Movimento,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
+59073,Wings of Fate: aumenta a Taxa de Conjuração,Aumenta a velocidade de lançamento em <Orange>{EffectParam1}</>%,Aumento da velocidade de lançamento,
+59074,Wings of Fate: aumenta a Velocidade de Ataque,aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%,Aumento de velocidade de ataque,
 59075,Wings of Fate: reduz a recarga de Skills,Reduz Recarga de Skill em <Orange>{EffectParam1}</> %,Reduz Skill Cooldown,
 59121,Blessed Fragment,Aumenta o dano aos monstros chefes em <Orange>{EffectParam1}</>%,Aumenta o poder de ataque,
 59501,Heavenly Warrior,"Aumenta o HP máximo em <Orange>{EffectParam1}</>%
@@ -1723,7 +1723,7 @@ Aumenta o dano contra monstros Comuns e Elite em <Orange>{EffectParam2}</>%",Pla
 61002,Latch of the Veiled Moon,Aumenta o dano aos monstros chefes em <Orange>{EffectParam1}</>%,Chaveiro Efeito equipado,
 61003,Knot of the Dawn Mist,Reduz Dano recebido de monstros por <Orange>{EffectParam1}</>%,Chaveiro Efeito equipado,
 61004,Knot of the Dawn Mist,Reduz Dano recebido de monstros por <Orange>{EffectParam1}</>%,Chaveiro Efeito equipado,
-61005,Jaws of the Black Tide,Increases Skill Damage contra monstros chefes em <Orange>{EffectParam1}</>%,Chaveiro Efeito equipado,
+61005,Jaws of the Black Tide,Aumenta o dano de Skill contra monstros chefes em <Orange>{EffectParam1}</>%,Chaveiro Efeito equipado,
 61006,Fractured Constellation,Aumenta o dano de ataque básico contra monstros chefes em <Orange>{EffectParam1}</>%,Chaveiro Efeito equipado,
 61007,Knot of the Dawn Mist,Reduz Dano recebido de monstros por <Orange>{EffectParam1}</>%,Chaveiro Efeito equipado,
 61008,Ashen Eyelid,Aumenta o dano aos monstros chefes em <Orange>{EffectParam1}</>%,Chaveiro Efeito equipado,
@@ -1810,7 +1810,7 @@ Recupera MP em <Orange>{EffectParam2}</>%",Chaveiro Efeito equipado,
 63001,Echo of Warmth,"Aumenta o HP máximo em <Orange>{EffectParam1}</>%
  Aumenta o HP Potion Cura por <Orange>{EffectParam2}</>",Chaveiro Efeito equipado,
 63002,Iron Curtain,"Aumenta o HP máximo em <Orange>{EffectParam1}</>%
- Increases Skill Damage contra monstros chefes em <Orange>{EffectParam2}</>%",Chaveiro Efeito equipado,
+ Aumenta o dano de Skill contra monstros chefes em <Orange>{EffectParam2}</>%",Chaveiro Efeito equipado,
 63003,Lantern of Silence,"Aumenta o HP máximo em <Orange>{EffectParam1}</>%
 Aumenta a taxa de resistência ao silêncio em <Orange>{EffectParam2}</>%
  Aumenta a regeneração de MP em <Orange>{EffectParam3}</>",Chaveiro Efeito equipado,
@@ -1826,7 +1826,7 @@ Reduz o custo de MP em <Orange>{EffectParam2}</>%
 Aumenta o silêncio Taxa de resistência em <Orange>{EffectParam2}</>% 
 Reduz o custo de MP em <Orange>{EffectParam3}</>%",Chaveiro Efeito equipado,
 63007,Echo of Steel,"Aumenta o HP máximo em <Orange>{EffectParam1}</>%
-Reduces Critical Damage recebido de monstros por <Orange>{EffectParam2}</>%",Chaveiro Efeito equipado,
+Reduz o dano crítico recebido de monstros por <Orange>{EffectParam2}</>%",Chaveiro Efeito equipado,
 63008,Undying Warmth,"Aumenta o máximo HP por <Orange>{EffectParam1}</>%
  Aumenta a cura de poções de HP em <Orange>{EffectParam2}</>
 Reduz o custo de MP em <Orange>{EffectParam3}</>%
@@ -1839,7 +1839,7 @@ Aumenta a regeneração de MP em <Orange>{EffectParam3}</>
 Reduz o custo de MP por <Orange>{EffectParam4}</>%",Chaveiro Efeito equipado,
 85021,Sentry Awakening,"Aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%
  e a velocidade de movimento em <Orange>{EffectParam2}</>%",Combat Skill Aprimoramento,
-85031,Aegis Domain,Reduces Damage Taken from players por <Orange>{EffectParam1}</>%,Melhora a defesa,
+85031,Aegis Domain,Reduz o dano recebido de jogadores por <Orange>{EffectParam1}</>%,Melhora a defesa,
 85041,Beacon Veil,"entra em modo furtivo, tornando-se invisível aos inimigos.",Beacon Stealth,
 85050,Frontline of Life,"Aumenta a regeneração de HP em <Orange>{EffectParam1}</>%
 Aumenta a regeneração de MP em <Orange>{EffectParam2}</>%
@@ -1851,58 +1851,58 @@ Reduz o dano causado aos jogadores por <Orange>{EffectParam2}</>%
 Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam3}</>%
 Reduz a duração do controle de multidão em <Orange>{EffectParam4}</>%",Combat Skill Aprimoramento,
 85071,,,,
-85080,Vanguard Breakthrough,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
+85080,Vanguard Breakthrough,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
 85081,,,,
 85091,,Redefine a descida Skill Cooldowns,Redefine a descida Skill Cooldowns,
 85101,,Convoca à força membros do clã,Convoca à força membros do clã,
 85110,Focus Mark,Aumenta o dano recebido por o alvo marcado dos membros do clã do lançador por <Orange>{EffectParam1}</>%,Focus Mark,
 85111,Focus Mark,Aumenta o dano contra alvos marcados em <Orange>{EffectParam1}</>%,Aumenta o dano contra alvos marcados,
-91001,Poção de HP Menor,,,
+91001,Minor HP Potion,,,
 91002,Poção de HP Menor,,,
 91003,Poção HP padrão,,,
 91004,Poção de HP maior,,,
 91009,Poção especial de HP,,,
-91011,Poção de MP Menor,Cura Max MP por <Orange>{EffectParam1}</>%,MP Recovery,
-91012,Poção de MP Menor,Cura Max MP por <Orange>{EffectParam1}</>%,MP Recovery,
-91013,Poção MP Padrão,Cura Max MP por <Orange>{EffectParam1}</>%,MP Recovery,
-91014,Poção de MP maior,Cura Max MP por <Orange>{EffectParam1}</>%,MP Recovery,
-91019,Poção especial de MP,Cura Max MP por <Orange>{EffectParam1}</>%,MP Recovery,
+91011,Poção de MP Menor,Cura Max MP por <Orange>{EffectParam1}</>%,Recuperação de MP de,
+91012,Poção de MP Menor,Cura Max MP por <Orange>{EffectParam1}</>%,Recuperação de MP de,
+91013,Poção MP Padrão,Cura Max MP por <Orange>{EffectParam1}</>%,Recuperação de MP de,
+91014,Poção de MP maior,Cura Max MP por <Orange>{EffectParam1}</>%,Recuperação de MP de,
+91019,Poção especial de MP,Cura Max MP por <Orange>{EffectParam1}</>%,Recuperação de MP de,
 91021,Elixir de Ataque I,"Aumenta o poder de ataque em <Orange>{EffectParam1}</>
 
-<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Attack Power Increase,
+<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumento de Poder de Ataque,
 91022,Elixir de Ataque II,"Aumenta o poder de ataque em <Orange>{EffectParam1}</>
 
-<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Attack Power Increase,
+<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumento de Poder de Ataque,
 91023,Elixir de Ataque III,"Aumenta o poder de ataque em <Orange>{EffectParam1}</>
 
-<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Attack Power Increase,
-91031,Elixir de defesa I,"Increases Defense em <Orange>{EffectParam1}</>
+<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumento de Poder de Ataque,
+91031,Elixir de defesa I,"Aumenta a defesa em <Orange>{EffectParam1}</>
 
-<Orange>※ Não se aplica aos campos de batalha da Arena.</>",Increases Defense,
-91032,Elixir de defesa II,"Increases Defense em <Orange>{EffectParam1}</>
+<Orange>※ Não se aplica aos campos de batalha da Arena.</>",Aumenta a defesa,
+91032,Elixir de defesa II,"Aumenta a defesa em <Orange>{EffectParam1}</>
 
-<Orange>※ Não se aplica aos campos de batalha da Arena.</>",Increases Defense,
-91033,Elixir de defesa III,"Increases Defense em <Orange>{EffectParam1}</>
+<Orange>※ Não se aplica aos campos de batalha da Arena.</>",Aumenta a defesa,
+91033,Elixir de defesa III,"Aumenta a defesa em <Orange>{EffectParam1}</>
 
-<Orange>※ Não se aplica aos campos de batalha da Arena.</>",Increases Defense,
+<Orange>※ Não se aplica aos campos de batalha da Arena.</>",Aumenta a defesa,
 91041,Elixir de Precisão I,"Aumenta a precisão em <Orange>{EffectParam1}</>
 
-<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Accuracy Increase,
+<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumento de precisão,
 91042,Elixir de Precisão II,"Aumenta a precisão em <Orange>{EffectParam1}</>
 
-<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Accuracy Increase,
+<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumento de precisão,
 91043,Elixir de Precisão III,"Aumenta a precisão em <Orange>{EffectParam1}</>
 
-<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Accuracy Increase,
-91051,Elixir de Evasão I,"Increases Evasion em <Orange>{EffectParam1}</>
+<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumento de precisão,
+91051,Elixir de Evasão I,"Aumenta a Evasão em <Orange>{EffectParam1}</>
 
-<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Increases Evasion,
-91052,Elixir de Evasão II,"Increases Evasion em <Orange>{EffectParam1}</>
+<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumenta a Evasão,
+91052,Elixir de Evasão II,"Aumenta a Evasão em <Orange>{EffectParam1}</>
 
-<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Increases Evasion,
-91053,Elixir de Evasão III,"Increases Evasion em <Orange>{EffectParam1}</>
+<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumenta a Evasão,
+91053,Elixir de Evasão III,"Aumenta a Evasão em <Orange>{EffectParam1}</>
 
-<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Increases Evasion,
+<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumenta a Evasão,
 91061,Elixir de HP I,"Aumenta HP em <Orange>{EffectParam1}</>
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumenta HP,
@@ -1923,22 +1923,22 @@ Reduz a duração do controle de multidão em <Orange>{EffectParam4}</>%",Combat
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumenta a taxa de precisão do jogador,
 91081,Elixir de Aceleração I,"Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%
 
-<Orange>※ Não se aplica na Arena </>",Movement Speed Increase,
+<Orange>※ Não se aplica na Arena </>",Aumento de velocidade de movimento,
 91082,Elixir de Aceleração da Aceleração II,"Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%
 
-<Orange>※ Não se aplica na Arena </>",Movement Speed Increase,
+<Orange>※ Não se aplica na Arena </>",Aumento de velocidade de movimento,
 91083,Elixir da Aceleração III,"Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%
 
-<Orange>※ Não se aplica na Arena </>",Movement Speed Increase,
+<Orange>※ Não se aplica na Arena </>",Aumento de velocidade de movimento,
 91091,Elixir de resistência ao controle de multidão I,"Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>%
 
-<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Crowd Control Resistance Increase,
+<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumento da resistência ao controle de multidão,
 91092,Elixir de resistência de controle II,"Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>%
 
-<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Crowd Control Resistance Increase,
+<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumento da resistência ao controle de multidão,
 91093,Elixir de resistência ao controle de multidão III,"Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>%
 
-<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Crowd Control Resistance Increase,
+<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumento da resistência ao controle de multidão,
 91101,Elixir do Herói I,"Aumenta o dano a monstros chefes em <Orange>{EffectParam1}</>%
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumenta o dano contra monstros chefes,
@@ -1995,22 +1995,22 @@ Reduz a duração do controle de multidão em <Orange>{EffectParam4}</>%",Combat
 91153,Elixir de Erosão III,"Aumenta a taxa de resistência à erosão em <Orange>{EffectParam1}</>%
 
 <Orange>※ Não se aplica na Arena campos de batalha.</>",aumenta a taxa de resistência à erosão,
-91201,Baba Bread,"Reduces Damage Taken from monsters em <Orange>{EffectParam1}</>%
+91201,Baba Bread,"Reduz o dano recebido de monstros em <Orange>{EffectParam1}</>%
 
-<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Reduces Damage Taken from monsters,
+<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Reduz o dano recebido de monstros,
 91202,Baba Crackers,"Aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%
 
-<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Attack Speed Increase,
+<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumento de velocidade de ataque,
 91203,Baba Liquor,"Ao derrotar monstros, aumenta o ganho de EXP em <Orange>{EffectParam1}</>%
 
 <Orange>※ Não se aplica na Arena campos de batalha.</>",Aumenta o ganho de EXP,
 91204,Halo Bread,"Reduz Dano recebido de monstros por <Orange>{EffectParam1}</>%
-Reduces Damage Taken from players por <Orange>{EffectParam2}</>%
+Reduz o dano recebido de jogadores por <Orange>{EffectParam2}</>%
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Reduz Dano de Monstros e Jogadores,
 91205,Star Halo Cookie,"Aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%
 
-<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Attack Speed Increase,
+<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumento de velocidade de ataque,
 91206,Moon Halo Wine,"Ao derrotar monstros, aumenta o ganho de EXP em <Orange>{EffectParam1}</>%
 
 <Orange>※ Não se aplica na Arena campos de batalha.</>",Aumenta o ganho de EXP,
@@ -2022,12 +2022,12 @@ Reduces Damage Taken from players por <Orange>{EffectParam2}</>%
 
 <Orange>※ Não se aplica na Arena campos de batalha.</>",Aumenta o ganho de EXP,
 91209,Crusty Bread,"Reduz Dano recebido de monstros por <Orange>{EffectParam1}</>%
-Reduces Damage Taken from players por <Orange>{EffectParam2}</>%
+Reduz o dano recebido de jogadores por <Orange>{EffectParam2}</>%
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Reduz Dano de Monstros e Jogadores,
 91210,Halved Potato,"Aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%
 
-<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Attack Speed Increase,
+<Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumento de velocidade de ataque,
 91211,Cup of Black Tea,"Ao derrotar monstros, aumenta o ganho de EXP em <Orange>{EffectParam1}</>%
 
 <Orange>※ Não se aplica na Arena campos de batalha.</>",Aumenta o ganho de EXP,
@@ -2040,7 +2040,7 @@ Reduces Damage Taken from players por <Orange>{EffectParam2}</>%
 <Orange>※ Não se aplica na Arena campos de batalha.</>",Aumenta o ganho de EXP,
 91501,Maelstrom Horn Delicacy,"Aumenta Poder de ataque contra monstros em <Orange>{EffectParam1}</>
  Aumenta a chance de acerto crítico contra monstros em <Orange>{EffectParam2}</>%
-Reduces Damage Taken from monsters por <Orange>{EffectParam3}</>%
+Reduz o dano recebido de monstros por <Orange>{EffectParam3}</>%
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumenta as estatísticas de combate contra monstros,
 91502,Golden Crisp Kubaba Drumstick,"Aumenta a precisão contra jogadores em <Orange>{EffectParam1}</>
@@ -2074,11 +2074,11 @@ Reduz MP Consumo por <Orange>{EffectParam4}</>%",Vitalizing Sanctum (Owner),
  Aumenta o ganho de ouro ao derrotar monstros em <Orange>{EffectParam2}</>%
 Aumenta a taxa de maximização em <Orange>{EffectParam3}</>%
 Reduz MP Consumo por <Orange>{EffectParam4}</>%",Santuário Vitalizante (Membro do Clã),
-70005,Bênção nas Terras Abandonadas,"Aumenta o ganho de EXP ao derrotar monstros por <Orange>{EffectParam1}</>%
+70005,Bênção nas Forsaken Lands,"Aumenta o ganho de EXP ao derrotar monstros por <Orange>{EffectParam1}</>%
  Aumenta o ganho de ouro ao derrotar monstros bty <Orange>{EffectParam2}</>%
 
 <Orange>※ Aplica-se apenas no Forsaken Terrenos.</>
-<Orange>※ O cronômetro deste efeito continua a correr mesmo quando você não está logado.</>",Bênção nas Terras Abandonadas,
+<Orange>※ O cronômetro deste efeito continua a correr mesmo quando você não está logado.</>",Bênção nas Forsaken Lands,
 70006,Bênção do Silêncio Estável,"Aumenta a taxa de precisão contra jogadores em <Orange>{EffectParam1}</>%
 Reduz Skill Dano recebido de jogadores por <Orange>{EffectParam2}</>%
 Reduz o dano de acerto crítico recebido de jogadores por <Orange>{EffectParam3}</>%
@@ -2105,7 +2105,7 @@ Reduz o dano recebido de monstros chefes por <Orange>{EffectParam3}</>%
 <Orange>※ O tempo decorre mesmo quando offline.</>",Bênção da Superação da Adversidade,
 70051,Bênção do pioneiro,"Ao derrotar monstros, aumenta o ganho de ouro em <Orange>{EffectParam1}</>%
 Aumenta o dano a monstros em <Orange>{EffectParam2}</>%
-Reduces Damage Taken from monsters por <Orange>{EffectParam3}</>%
+Reduz o dano recebido de monstros por <Orange>{EffectParam3}</>%
 
 <Orange>※ Não se aplica durante a Arena partidas.</>
 <Orange>※ O tempo decorre mesmo quando offline.</>",Bênção do pioneiro,
@@ -2168,14 +2168,14 @@ Aumentar Skill Chance de acerto crítico contra monstros em <Orange>{EffectParam
  Aumenta a velocidade de lançamento de Skill em <Orange>{EffectParam2}</>%
 Aumenta a velocidade de movimento em <Orange>{EffectParam3}</>%
 Aumenta Dano causado a Monstros Chefes por <Orange>{EffectParam4}</>%
-Reduces Damage Taken de Monstros Chefes por <Orange>{EffectParam5}</>%
+Reduz o dano recebido de Monstros Chefes por <Orange>{EffectParam5}</>%
 
 <Orange>※ Não se aplica em Monolith War, campos de batalha de Arena ou Abyss Battlefield.</>",Starfall Plateau Efeito Monólito,
 70032,Poder incompleto do Monólito Starfall Plateau,"Aumenta Velocidade de ataque em <Orange>{EffectParam1}</>%
  Aumenta a velocidade de lançamento de Skill em <Orange>{EffectParam2}</>%
 Aumenta a velocidade de movimento em <Orange>{EffectParam3}</>%
 Aumenta Dano causado a Monstros Chefes por <Orange>{EffectParam4}</>%
-Reduces Damage Taken de Monstros Chefes por <Orange>{EffectParam5}</>%
+Reduz o dano recebido de Monstros Chefes por <Orange>{EffectParam5}</>%
 
 <Orange>※ Não se aplica em Monolith War, campos de batalha de Arena ou Abyss Battlefield.</>",Starfall Plateau Efeito Monólito,
 70033,[TEST] Aura fraca do Starfall Plateau Monolith (30 min),,,
@@ -2200,26 +2200,26 @@ Reduz o resfriamento de Skill em <Orange>{EffectParam7}</>%
 <Orange>※ O efeito só se aplica dentro do Ancient Ruins.</>",Melhora significativamente Habilidade de Combate,
 71200,Resolução Adamant,"Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%
 <Orange>※ Aplica-se apenas dentro de Ancient Ruins</>",Aumenta a velocidade de movimento (máx. 20 pilhas),
-71201,Resolução Adamant: 1 Stack,Resolução inflexível: Pilha(s) {Param},Improve Combat Ability,1
-71202,Determinação Inflexível: Pilha 2,Resolução inflexível: Pilha(s) {Param},Improve Combat Ability,2
-71203,Determinação Inflexível: Pilha 3,Resolução inflexível: Pilha(s) {Param},Improve Combat Ability,3
-71204,Determinação Inflexível: Pilha 4,Resolução inflexível: Pilha(s) {Param},Improve Combat Ability,4
-71205,Determinação Inflexível: Pilha 5,Resolução inflexível: Pilha(s) {Param},Improve Combat Ability,5
-71206,Determinação Inflexível: Pilha 6,Resolução inflexível: Pilha(s) {Param},Improve Combat Ability,6
-71207,Determinação Inflexível: Pilha 7,Resolução inflexível: Pilha(s) {Param},Improve Combat Ability,7
-71208,Determinação Inflexível: Pilha 8,Resolução inflexível: Pilha(s) {Param},Improve Combat Ability,8
-71209,Determinação Inflexível: 9 Pilhas,Resolução inflexível: Pilha(s) {Param},Improve Combat Ability,9
-71210,Resolução Adamant: 10 Stacks,Resolução inflexível: Pilha(s) {Param},Improve Combat Ability,10
-71211,Resolução Adamant: 11 Stacks,Resolução inflexível: Pilha(s) {Param},Improve Combat Ability,11
-71212,Resolução Adamant: 12 Stacks,Resolução inflexível: Pilha(s) {Param},Improve Combat Ability,12
-71213,Resolução Adamant: 13 Stacks,Resolução inflexível: Pilha(s) {Param},Improve Combat Ability,13
-71214,Resolução Adamant: 14 Stacks,Resolução inflexível: Pilha(s) {Param},Improve Combat Ability,14
-71215,Resolução Adamant: 15 Stacks,Resolução inflexível: Pilha(s) {Param},Improve Combat Ability,15
-71216,Resolução Adamant: 16 Pilhas,Resolução inflexível: Pilha(s) {Param},Improve Combat Ability,16
-71217,Resolução Adamant: 17 Pilhas,Resolução inflexível: Pilha(s) {Param},Improve Combat Ability,17
-71218,Resolução Adamant: 18 pilhas,Resolução inflexível: Pilha(s) {Param},Improve Combat Ability,18
-71219,Resolução Adamant: 19 pilhas,Resolução inflexível: Pilha(s) {Param},Improve Combat Ability,19
-71220,Determinação Inflexível: 20 Pilhas,Resolução inflexível: Pilha(s) {Param},Improve Combat Ability,20
+71201,Resolução Adamant: 1 Stack,Resolução inflexível: Pilha(s) {Param},Melhorar a capacidade de combate,1
+71202,Determinação Inflexível: Pilha 2,Resolução inflexível: Pilha(s) {Param},Melhorar a capacidade de combate,2
+71203,Determinação Inflexível: Pilha 3,Resolução inflexível: Pilha(s) {Param},Melhorar a capacidade de combate,3
+71204,Determinação Inflexível: Pilha 4,Resolução inflexível: Pilha(s) {Param},Melhorar a capacidade de combate,4
+71205,Determinação Inflexível: Pilha 5,Resolução inflexível: Pilha(s) {Param},Melhorar a capacidade de combate,5
+71206,Determinação Inflexível: Pilha 6,Resolução inflexível: Pilha(s) {Param},Melhorar a capacidade de combate,6
+71207,Determinação Inflexível: Pilha 7,Resolução inflexível: Pilha(s) {Param},Melhorar a capacidade de combate,7
+71208,Determinação Inflexível: Pilha 8,Resolução inflexível: Pilha(s) {Param},Melhorar a capacidade de combate,8
+71209,Determinação Inflexível: 9 Pilhas,Resolução inflexível: Pilha(s) {Param},Melhorar a capacidade de combate,9
+71210,Resolução Adamant: 10 Stacks,Resolução inflexível: Pilha(s) {Param},Melhorar a capacidade de combate,10
+71211,Resolução Adamant: 11 Stacks,Resolução inflexível: Pilha(s) {Param},Melhorar a capacidade de combate,11
+71212,Resolução Adamant: 12 Stacks,Resolução inflexível: Pilha(s) {Param},Melhorar a capacidade de combate,12
+71213,Resolução Adamant: 13 Stacks,Resolução inflexível: Pilha(s) {Param},Melhorar a capacidade de combate,13
+71214,Resolução Adamant: 14 Stacks,Resolução inflexível: Pilha(s) {Param},Melhorar a capacidade de combate,14
+71215,Resolução Adamant: 15 Stacks,Resolução inflexível: Pilha(s) {Param},Melhorar a capacidade de combate,15
+71216,Resolução Adamant: 16 Pilhas,Resolução inflexível: Pilha(s) {Param},Melhorar a capacidade de combate,16
+71217,Resolução Adamant: 17 Pilhas,Resolução inflexível: Pilha(s) {Param},Melhorar a capacidade de combate,17
+71218,Resolução Adamant: 18 pilhas,Resolução inflexível: Pilha(s) {Param},Melhorar a capacidade de combate,18
+71219,Resolução Adamant: 19 pilhas,Resolução inflexível: Pilha(s) {Param},Melhorar a capacidade de combate,19
+71220,Determinação Inflexível: 20 Pilhas,Resolução inflexível: Pilha(s) {Param},Melhorar a capacidade de combate,20
 71300,Fúria da Sentinela,"Aumenta a taxa de precisão contra monstros em <Orange>{EffectParam1}</>%
  Aumenta a taxa de evasão contra monstros em <Orange>{EffectParam2}</>%
  Aumenta a Taxa de Redução de Dano de Ataque Básico contra monstros em <Orange>{EffectParam3}</>%
@@ -2258,32 +2258,32 @@ Aumenta o dano real do ataque básico contra jogadores em <Orange>{EffectParam2}
 71414,Aura distorcida,Aura Feroz do Pequeno Guardião,Melhora a capacidade de combate (máximo de 4 pilhas),
 71415,Carga distorcida,Aura Esmagadora do Pequeno Guardião,Melhora a capacidade de combate (máximo de 4 pilhas),
 71421,Olho do Buscador,"Aumenta a taxa de precisão em <Orange>{EffectParam1}</>%
-<Orange>※ Aplica-se apenas dentro de Ancient Ruins.</>",Accuracy Rate Increase,
+<Orange>※ Aplica-se apenas dentro de Ancient Ruins.</>",Aumento da taxa de precisão,
 71422,Windpath,"Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%
-<Orange>※ Aplica-se apenas dentro de Ancient Ruins</>",Movement Speed Increase,
+<Orange>※ Aplica-se apenas dentro de Ancient Ruins</>",Aumento de velocidade de movimento,
 71423,Aether Tether,"Recupera MP por <Orange>{EffectParam1}</>
-<Orange>※ Aplica-se apenas dentro de Ancient Ruins.</>",MP Recovery,
+<Orange>※ Aplica-se apenas dentro de Ancient Ruins.</>",Recuperação de MP de,
 71424,Ruptura,"Aumenta a chance de maximização por <Orange>{EffectParam1}</>%
-<Orange>※ Aplica-se apenas dentro de Ancient Ruins.</>",Maximization Chance Increase,
+<Orange>※ Aplica-se apenas dentro de Ancient Ruins.</>",Aumento de chance de maximização,
 71425,Campo de Força,"Aumenta a taxa de resistência a golpes críticos em <Orange>{EffectParam1}</>%
-<Orange>※ Aplica-se apenas dentro de Ancient Ruins.</>",Increase Critical Hit Resistance Rate,
+<Orange>※ Aplica-se apenas dentro de Ancient Ruins.</>",Aumenta a taxa de resistência a acerto crítico contra jogadores,
 71500,HP Recovery,"Restaura <Orange>{EffectParam1}</>% do HP máximo ao longo da duração
  Aumenta a cura de HP recebida por <Orange>{EffectParam2}</>%
 Aumenta a quantidade de escudo recebida por <Orange>{EffectParam3}</>%",Aprimoramento de recuperação,
 71510,Redução do tempo de espera Skill,Reduz Recarga de Skill em <Orange>{EffectParam1}</> %,Redução do tempo de espera Skill,
-71511,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
+71511,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
 79000,[Alignment] Neutro,Estágio neutro.,,
-79011,[Alignment] Bom Level 1,Regeneração de HP aumentada em <Orange>{EffectParam1}</>,Improve Combat Ability,
+79011,[Alignment] Bom Level 1,Regeneração de HP aumentada em <Orange>{EffectParam1}</>,Melhorar a capacidade de combate,
 79012,[Alignment] Bom Level 2,"Regeneração de HP aumentada em <Orange>{EffectParam1}</>
-MP Regeneração aumentada em <Orange>{EffectParam2}</>",Improve Combat Ability,
+MP Regeneração aumentada em <Orange>{EffectParam2}</>",Melhorar a capacidade de combate,
 79013,[Alignment] Bom Level 3,"Regeneração de HP aumentada em <Orange>{EffectParam1}</>
-MP Regeneração aumentada em <Orange>{EffectParam2}</>",Improve Combat Ability,
+MP Regeneração aumentada em <Orange>{EffectParam2}</>",Melhorar a capacidade de combate,
 79014,[Alignment] Bom Level 4,"Regeneração de HP aumentada em <Orange>{EffectParam1}</>
 MP Regeneração aumentada em <Orange>{EffectParam2}</>
-HP Cura de poções aumentada em <Orange>{EffectParam3}</>",Improve Combat Ability,
+HP Cura de poções aumentada em <Orange>{EffectParam3}</>",Melhorar a capacidade de combate,
 79015,[Alignment] Bom Level 5,"Regeneração de HP aumentada em <Orange>{EffectParam1}</>
 MP Regeneração aumentada em <Orange>{EffectParam2}</>
-HP Cura de poções aumentada em <Orange>{EffectParam3}</>",Improve Combat Ability,
+HP Cura de poções aumentada em <Orange>{EffectParam3}</>",Melhorar a capacidade de combate,
 79021,[Alignment] Mal Level 1,Dano recebido de monstros aumentado em <Red>{EffectParam1}</>%,Capacidade de combate reduzida,
 79022,[Alignment] Mal Level 2,"Dano reduzido em <Red>{EffectParam1}</>%
 Dano recebido aumentado em <Red>{EffectParam2}</>%",Capacidade de combate reduzida,
@@ -2338,26 +2338,26 @@ Aumenta a taxa de ganho de ouro em <Orange>{EffectParam5}</>%",Melhoria de habil
 82308,Golpe Mortal Level 8,Aumenta o dano crítico de Skill em <Orange>{EffectParam1}</>%,Skill Dano crítico aumentado,
 82309,Golpe Mortal Nível 9,Aumenta o dano crítico de Skill em <Orange>{EffectParam1}</>%,Skill Dano crítico aumentado,
 82310,Golpe Mortal Nível 10,Aumenta o dano crítico de Skill em <Orange>{EffectParam1}</>%,Skill Dano crítico aumentado,
-82401,Técnica Avançada Level 1,Increases Skill Damage em <Orange>{EffectParam1}</>%,Increases Skill Damage,
-82402,Técnica Avançada Level 2,Increases Skill Damage em <Orange>{EffectParam1}</>%,Increases Skill Damage,
-82403,Técnica Avançada Level 3,Increases Skill Damage em <Orange>{EffectParam1}</>%,Increases Skill Damage,
-82404,Técnica Avançada Level 4,Increases Skill Damage em <Orange>{EffectParam1}</>%,Increases Skill Damage,
-82405,Técnica Avançada Level 5,Increases Skill Damage em <Orange>{EffectParam1}</>%,Increases Skill Damage,
-82406,Técnica Avançada Level 6,Increases Skill Damage em <Orange>{EffectParam1}</>%,Increases Skill Damage,
-82407,Técnica Avançada Level 7,Increases Skill Damage em <Orange>{EffectParam1}</>%,Increases Skill Damage,
-82408,Técnica Avançada Level 8,Increases Skill Damage em <Orange>{EffectParam1}</>%,Increases Skill Damage,
-82409,Técnica Avançada Nível 9,Increases Skill Damage em <Orange>{EffectParam1}</>%,Increases Skill Damage,
-82410,Técnica Avançada Nível 10,Increases Skill Damage em <Orange>{EffectParam1}</>%,Increases Skill Damage,
-82501,Vital Aim Level 1,aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%,Critical Hit Chance Increase,
-82502,Vital Aim Level 2,aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%,Critical Hit Chance Increase,
-82503,Vital Aim Level 3,aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%,Critical Hit Chance Increase,
-82504,Objetivo Vital Level 4,aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%,Critical Hit Chance Increase,
-82505,Objetivo Vital Level 5,aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%,Critical Hit Chance Increase,
-82506,Objetivo Vital Level 6,aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%,Critical Hit Chance Increase,
-82507,Objetivo Vital Level 7,aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%,Critical Hit Chance Increase,
-82508,Mira Vital Level 8,aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%,Critical Hit Chance Increase,
-82509,Mira Vital Nível 9,aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%,Critical Hit Chance Increase,
-82510,Vital Aim Nível 10,aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%,Critical Hit Chance Increase,
+82401,Técnica Avançada Level 1,Aumenta o dano de Skill em <Orange>{EffectParam1}</>%,Aumenta o dano de Skill,
+82402,Técnica Avançada Level 2,Aumenta o dano de Skill em <Orange>{EffectParam1}</>%,Aumenta o dano de Skill,
+82403,Técnica Avançada Level 3,Aumenta o dano de Skill em <Orange>{EffectParam1}</>%,Aumenta o dano de Skill,
+82404,Técnica Avançada Level 4,Aumenta o dano de Skill em <Orange>{EffectParam1}</>%,Aumenta o dano de Skill,
+82405,Técnica Avançada Level 5,Aumenta o dano de Skill em <Orange>{EffectParam1}</>%,Aumenta o dano de Skill,
+82406,Técnica Avançada Level 6,Aumenta o dano de Skill em <Orange>{EffectParam1}</>%,Aumenta o dano de Skill,
+82407,Técnica Avançada Level 7,Aumenta o dano de Skill em <Orange>{EffectParam1}</>%,Aumenta o dano de Skill,
+82408,Técnica Avançada Level 8,Aumenta o dano de Skill em <Orange>{EffectParam1}</>%,Aumenta o dano de Skill,
+82409,Técnica Avançada Nível 9,Aumenta o dano de Skill em <Orange>{EffectParam1}</>%,Aumenta o dano de Skill,
+82410,Técnica Avançada Nível 10,Aumenta o dano de Skill em <Orange>{EffectParam1}</>%,Aumenta o dano de Skill,
+82501,Vital Aim Level 1,aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%,Aumento da chance de acerto crítico,
+82502,Vital Aim Level 2,aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%,Aumento da chance de acerto crítico,
+82503,Vital Aim Level 3,aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%,Aumento da chance de acerto crítico,
+82504,Objetivo Vital Level 4,aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%,Aumento da chance de acerto crítico,
+82505,Objetivo Vital Level 5,aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%,Aumento da chance de acerto crítico,
+82506,Objetivo Vital Level 6,aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%,Aumento da chance de acerto crítico,
+82507,Objetivo Vital Level 7,aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%,Aumento da chance de acerto crítico,
+82508,Mira Vital Level 8,aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%,Aumento da chance de acerto crítico,
+82509,Mira Vital Nível 9,aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%,Aumento da chance de acerto crítico,
+82510,Vital Aim Nível 10,aumenta a chance de acerto crítico em <Orange>{EffectParam1}</>%,Aumento da chance de acerto crítico,
 82601,Poder Fatal Level 1,Aumenta o dano crítico do ataque básico em <Orange>{EffectParam1}</>%,Dano crítico de ataque básico aumentado,
 82602,Poder Fatal Level 2,Aumenta o dano crítico do ataque básico em <Orange>{EffectParam1}</>%,Dano crítico de ataque básico aumentado,
 82603,Poder Fatal Level 3,Aumenta o dano crítico do ataque básico em <Orange>{EffectParam1}</>%,Dano crítico de ataque básico aumentado,
@@ -2378,24 +2378,24 @@ Você pode desligar o efeito ao operar um Vitalizing Sanctum ou atacar outros jo
 Taxa de queda de item aumentada em <Orange>{EffectParam2}</>%",Tempo Quente da Giant's Tower,
 129101,Autoridade do árbitro: Crescimento,"Ao derrotar monstros na Giant's Tower, o ganho de EXP dos membros do Clã Governante aumentou em <Orange>{EffectParam1}</>%",Aumenta o ganho de EXP,
 129201,Autoridade do árbitro: Ganância,"Ao derrotar monstros na Torre Giant's Tower, ganho de ouro dos membros do clã governante aumentado em <Orange>{EffectParam1}</>%",Aumenta o ganho de ouro,
-129301,Autoridade do árbitro: espírito de luta,"Na Giant's Tower, o dano dos Membros do Clã Governante contra Jogadores aumentou em <Orange>{EffectParam1}</>%",Player Damage Increase,
-129401,Autoridade do árbitro: Valor,"Na Giant's Tower Torre, Dano dos Membros do Clã Governante contra Monstros aumentado em <Orange>{EffectParam1}</>%",Monster Damage Increase,
-129501,Autoridade do árbitro: Gale,"Na Giant's Tower, a Velocidade de Movimento dos Membros do Clã Governante e a Velocidade de Movimento da Montaria aumentaram em <Orange>{EffectParam1}</>%",Movement Speed Increase,
+129301,Autoridade do árbitro: espírito de luta,"Na Giant's Tower, o dano dos Membros do Clã Governante contra Jogadores aumentou em <Orange>{EffectParam1}</>%",Aumento de Dano ao Jogador,
+129401,Autoridade do árbitro: Valor,"Na Giant's Tower Torre, Dano dos Membros do Clã Governante contra Monstros aumentado em <Orange>{EffectParam1}</>%",Aumento de Dano de Monstro,
+129501,Autoridade do árbitro: Gale,"Na Giant's Tower, a Velocidade de Movimento dos Membros do Clã Governante e a Velocidade de Movimento da Montaria aumentaram em <Orange>{EffectParam1}</>%",Aumento de velocidade de movimento,
 129102,Autoridade do árbitro: Crescimento,"Ao derrotar monstros na Giant's Tower, o ganho de EXP dos membros do Clã Governante aumentou em <Orange>{EffectParam1}</>%",Aumenta o ganho de EXP,
 129202,Autoridade do árbitro: Ganância,"Ao derrotar monstros na Torre Giant's Tower, ganho de ouro dos membros do clã governante aumentado em <Orange>{EffectParam1}</>%",Aumenta o ganho de ouro,
-129302,Autoridade do árbitro: espírito de luta,"Na Giant's Tower, o dano dos Membros do Clã Governante contra Jogadores aumentou em <Orange>{EffectParam1}</>%",Player Damage Increase,
-129402,Autoridade do árbitro: Valor,"Na Giant's Tower Torre, Dano dos Membros do Clã Governante contra Monstros aumentado em <Orange>{EffectParam1}</>%",Monster Damage Increase,
-129502,Autoridade do árbitro: Gale,"Na Giant's Tower, a Velocidade de Movimento dos Membros do Clã Governante e a Velocidade de Movimento da Montaria aumentaram em <Orange>{EffectParam1}</>%",Movement Speed Increase,
+129302,Autoridade do árbitro: espírito de luta,"Na Giant's Tower, o dano dos Membros do Clã Governante contra Jogadores aumentou em <Orange>{EffectParam1}</>%",Aumento de Dano ao Jogador,
+129402,Autoridade do árbitro: Valor,"Na Giant's Tower Torre, Dano dos Membros do Clã Governante contra Monstros aumentado em <Orange>{EffectParam1}</>%",Aumento de Dano de Monstro,
+129502,Autoridade do árbitro: Gale,"Na Giant's Tower, a Velocidade de Movimento dos Membros do Clã Governante e a Velocidade de Movimento da Montaria aumentaram em <Orange>{EffectParam1}</>%",Aumento de velocidade de movimento,
 129103,Autoridade do árbitro: Crescimento,"Ao derrotar monstros na Giant's Tower, o ganho de EXP dos membros do Clã Governante aumentou em <Orange>{EffectParam1}</>%",Aumenta o ganho de EXP,
 129203,Autoridade do árbitro: Ganância,"Ao derrotar monstros na Torre Giant's Tower, ganho de ouro dos membros do clã governante aumentado em <Orange>{EffectParam1}</>%",Aumenta o ganho de ouro,
-129303,Autoridade do árbitro: espírito de luta,"Na Giant's Tower, o dano dos Membros do Clã Governante contra Jogadores aumentou em <Orange>{EffectParam1}</>%",Player Damage Increase,
-129403,Autoridade do árbitro: Valor,"Na Giant's Tower Torre, Dano dos Membros do Clã Governante contra Monstros aumentado em <Orange>{EffectParam1}</>%",Monster Damage Increase,
-129503,Autoridade do árbitro: Gale,"Na Giant's Tower, a Velocidade de Movimento dos Membros do Clã Governante e a Velocidade de Movimento da Montaria aumentaram em <Orange>{EffectParam1}</>%",Movement Speed Increase,
+129303,Autoridade do árbitro: espírito de luta,"Na Giant's Tower, o dano dos Membros do Clã Governante contra Jogadores aumentou em <Orange>{EffectParam1}</>%",Aumento de Dano ao Jogador,
+129403,Autoridade do árbitro: Valor,"Na Giant's Tower Torre, Dano dos Membros do Clã Governante contra Monstros aumentado em <Orange>{EffectParam1}</>%",Aumento de Dano de Monstro,
+129503,Autoridade do árbitro: Gale,"Na Giant's Tower, a Velocidade de Movimento dos Membros do Clã Governante e a Velocidade de Movimento da Montaria aumentaram em <Orange>{EffectParam1}</>%",Aumento de velocidade de movimento,
 129104,Autoridade do árbitro: Crescimento,"Ao derrotar monstros na Giant's Tower, o ganho de EXP dos membros do Clã Governante aumentou em <Orange>{EffectParam1}</>%",Aumenta o ganho de EXP,
 129204,Autoridade do árbitro: Ganância,"Ao derrotar monstros na Torre Giant's Tower, ganho de ouro dos membros do clã governante aumentado em <Orange>{EffectParam1}</>%",Aumenta o ganho de ouro,
-129304,Autoridade do árbitro: espírito de luta,"Na Giant's Tower, o dano dos Membros do Clã Governante contra Jogadores aumentou em <Orange>{EffectParam1}</>%",Player Damage Increase,
-129404,Autoridade do árbitro: Valor,"Na Giant's Tower Torre, Dano dos Membros do Clã Governante contra Monstros aumentado em <Orange>{EffectParam1}</>%",Monster Damage Increase,
-129504,Autoridade do árbitro: Gale,"Na Giant's Tower, a Velocidade de Movimento dos Membros do Clã Governante e a Velocidade de Movimento da Montaria aumentaram em <Orange>{EffectParam1}</>%",Movement Speed Increase,
+129304,Autoridade do árbitro: espírito de luta,"Na Giant's Tower, o dano dos Membros do Clã Governante contra Jogadores aumentou em <Orange>{EffectParam1}</>%",Aumento de Dano ao Jogador,
+129404,Autoridade do árbitro: Valor,"Na Giant's Tower Torre, Dano dos Membros do Clã Governante contra Monstros aumentado em <Orange>{EffectParam1}</>%",Aumento de Dano de Monstro,
+129504,Autoridade do árbitro: Gale,"Na Giant's Tower, a Velocidade de Movimento dos Membros do Clã Governante e a Velocidade de Movimento da Montaria aumentaram em <Orange>{EffectParam1}</>%",Aumento de velocidade de movimento,
 129601,Melhorar Golem Guardião,Dano recebido pelo Guardian Golem reduzido e sua Evasão e Regeneração de HP aumentadas.,Melhorar Golem Guardião,
 129701,Recompensa Indomável,Recompensas adicionais concedidas ao defender com sucesso o Golem Guardião,Recompensas adicionais por defender o Golem Guardião,
 129801,Melhorar Golem Guardião,Dano recebido pelo Guardian Golem reduzido e sua Evasão e Regeneração de HP aumentadas.,Melhorar Golem Guardião,
@@ -2553,17 +2553,17 @@ Reduz o dano Skill de alvo único recebido por <Orange>{EffectParam2}</>%",Efeit
 140405,Anima Form I,Recupera um <Orange>{EffectParam1}</>% adicional do HP máximo após a ressurreição,Forma de animação I Efeito,
 140406,Anima Form I,Recupera um <Orange>{EffectParam1}</>% adicional do HP máximo após a ressurreição,Forma de animação I Efeito,
 140501,Anima Form II,"Aumenta o dano contra alvos congelados/sangrando em <Orange>{EffectParam1}</>%
-Reduces Damage Taken de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de forma de animação II,
+Reduz o dano recebido de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de forma de animação II,
 140502,Anima Form II,"Aumenta o dano contra alvos congelados/sangrando em <Orange>{EffectParam1}</>%
-Reduces Damage Taken de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de forma de animação II,
+Reduz o dano recebido de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de forma de animação II,
 140503,Anima Form II,"Aumenta o dano contra alvos congelados/sangrando em <Orange>{EffectParam1}</>%
-Reduces Damage Taken de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de forma de animação II,
+Reduz o dano recebido de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de forma de animação II,
 140504,Anima Form II,"Aumenta o dano contra alvos congelados/sangrando em <Orange>{EffectParam1}</>%
-Reduces Damage Taken de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de forma de animação II,
+Reduz o dano recebido de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de forma de animação II,
 140505,Anima Form II,"Aumenta o dano contra alvos congelados/sangrando em <Orange>{EffectParam1}</>%
-Reduces Damage Taken de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de forma de animação II,
+Reduz o dano recebido de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de forma de animação II,
 140506,Anima Form II,"Aumenta o dano contra alvos congelados/sangrando em <Orange>{EffectParam1}</>%
-Reduces Damage Taken de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de forma de animação II,
+Reduz o dano recebido de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de forma de animação II,
 140601,Anima Form III,Aumenta o bloqueio em <Orange>{EffectParam1}</>,Forma de animação III Efeito,
 140602,Anima Form III,Aumenta o bloqueio em <Orange>{EffectParam1}</>,Forma de animação III Efeito,
 140603,Anima Form III,Aumenta o bloqueio em <Orange>{EffectParam1}</>,Forma de animação III Efeito,
@@ -2571,29 +2571,29 @@ Reduces Damage Taken de vários alvos Skills em <Orange>{EffectParam2}</>%",Efei
 140605,Anima Form III,Aumenta o bloqueio em <Orange>{EffectParam1}</>,Forma de animação III Efeito,
 140606,Anima Form III,Aumenta o bloqueio em <Orange>{EffectParam1}</>,Forma de animação III Efeito,
 140701,Indomitable Form I,"Aumenta Dano recebido enquanto estiver na [Postura de Ataque] por <Orange>{EffectParam1}</>% 
-Reduces Damage Taken enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito Indomável Forma I,
+Reduz o dano recebido enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito Indomável Forma I,
 140702,Indomitable Form I,"Aumenta Dano recebido enquanto estiver na [Postura de Ataque] por <Orange>{EffectParam1}</>% 
-Reduces Damage Taken enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito Indomável Forma I,
+Reduz o dano recebido enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito Indomável Forma I,
 140703,Indomitable Form I,"Aumenta Dano recebido enquanto estiver na [Postura de Ataque] por <Orange>{EffectParam1}</>% 
-Reduces Damage Taken enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito Indomável Forma I,
+Reduz o dano recebido enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito Indomável Forma I,
 140704,Indomitable Form I,"Aumenta Dano recebido enquanto estiver na [Postura de Ataque] por <Orange>{EffectParam1}</>% 
-Reduces Damage Taken enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito Indomável Forma I,
+Reduz o dano recebido enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito Indomável Forma I,
 140705,Indomitable Form I,"Aumenta Dano recebido enquanto estiver na [Postura de Ataque] por <Orange>{EffectParam1}</>% 
-Reduces Damage Taken enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito Indomável Forma I,
+Reduz o dano recebido enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito Indomável Forma I,
 140706,Indomitable Form I,"Aumenta Dano recebido enquanto estiver na [Postura de Ataque] por <Orange>{EffectParam1}</>% 
-Reduces Damage Taken enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito Indomável Forma I,
+Reduz o dano recebido enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito Indomável Forma I,
 140801,Indomitable Form II,"Aumenta o dano em [{EffectParam1}]% enquanto estiver no <Orange>Special</> Postura
-Reduces Damage Taken em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Forma Indomável II Efeito,
+Reduz o dano recebido em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Forma Indomável II Efeito,
 140802,Indomitable Form II,"Aumenta o dano em [{EffectParam1}]% enquanto estiver no <Orange>Special</> Postura
-Reduces Damage Taken em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Forma Indomável II Efeito,
+Reduz o dano recebido em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Forma Indomável II Efeito,
 140803,Indomitable Form II,"Aumenta o dano em [{EffectParam1}]% enquanto estiver no <Orange>Special</> Postura
-Reduces Damage Taken em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Forma Indomável II Efeito,
+Reduz o dano recebido em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Forma Indomável II Efeito,
 140804,Indomitable Form II,"Aumenta o dano em [{EffectParam1}]% enquanto estiver no <Orange>Special</> Postura
-Reduces Damage Taken em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Forma Indomável II Efeito,
+Reduz o dano recebido em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Forma Indomável II Efeito,
 140805,Indomitable Form II,"Aumenta o dano em [{EffectParam1}]% enquanto estiver no <Orange>Special</> Postura
-Reduces Damage Taken em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Forma Indomável II Efeito,
+Reduz o dano recebido em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Forma Indomável II Efeito,
 140806,Indomitable Form II,"Aumenta o dano em [{EffectParam1}]% enquanto estiver no <Orange>Special</> Postura
-Reduces Damage Taken em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Forma Indomável II Efeito,
+Reduz o dano recebido em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Forma Indomável II Efeito,
 110000,Dano de queda,,,
 110010,Deslizar,,,
 100000,,,,
@@ -3229,7 +3229,7 @@ Reduces Damage Taken em [{EffectParam2}]% enquanto está na postura <Orange>Atta
 30004031,Rasgar armadura,Dano recebido de monstros aumentado em <Red>{EffectParam1}</>%,Enfraquece a Defesa,
 30004051,Knock Back,,,
 30005051,Grite,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
-30008041,Parasita,"Cada stack reduz a Velocidade de Movimento
+30008041,Parasite,"Cada stack reduz a Velocidade de Movimento
 Max stack convoca Monstros próximos",Lento,
 30008042,Parasite Infecção,Reduz a velocidade de movimento em <Red>{EffectParam1}</>% e invoca monstros próximos,Velocidade de movimento reduzida e invoca monstros,
 30013041,Eletrocussão,Dano ao longo do tempo enquanto estiver em <Red>{Param}</> estado,Danos ao longo do tempo,Eletrocussão
@@ -3262,9 +3262,9 @@ Precisão reduzida em <Red>{EffectParam2}</>%",Enfraquece o Poder de Ataque,
 30009063,Frenesi do campo de batalha Level 2,"Recebe menos dano, causa mais dano","Recebe menos dano, causa mais dano",
 30009064,Frenesi do campo de batalha Level 3,"Recebe significativamente menos dano, causa significativamente mais dano","Recebe menos dano, causa mais dano",
 30009065,Para pilhas de frenesi no campo de batalha,,,
-30009066,Cura do Frenesi do Campo de Batalha Level 1,Restaura uma pequena quantidade de HP durante um determinado período de tempo,HP Recovery,
-30009067,Cura do Frenesi do Campo de Batalha Level 2,Restaura HP durante um determinado período de tempo,HP Recovery,
-30009068,Cura do Frenesi do Campo de Batalha Level 3,Restaura uma grande quantidade de HP durante um determinado período de tempo,HP Recovery,
+30009066,Cura do Frenesi do Campo de Batalha Level 1,Restaura uma pequena quantidade de HP durante um determinado período de tempo,Recuperação de HP,
+30009067,Cura do Frenesi do Campo de Batalha Level 2,Restaura HP durante um determinado período de tempo,Recuperação de HP,
+30009068,Cura do Frenesi do Campo de Batalha Level 3,Restaura uma grande quantidade de HP durante um determinado período de tempo,Recuperação de HP,
 30009069,Para pilhas de frenesi no campo de batalha,,,
 3000110,Stun,Desativado enquanto em <Red>{Param}</> estado,Desativado,Stun
 3000111,Stun,Desativado enquanto em <Red>{Param}</> estado,Desativado,Stun
@@ -3292,11 +3292,11 @@ Precisão reduzida em <Red>{EffectParam2}</>%",Enfraquece o Poder de Ataque,
 32014101,,,,
 32017051,Movimento Sombrio,,,
 32017052,,,,
-31001031,Parasita,Velocidade de movimento e velocidade de ataque reduzidas em <Red>{EffectParam1}</>%,Velocidade de movimento e velocidade de ataque reduzidas,
+31001031,Parasite,Velocidade de movimento e velocidade de ataque reduzidas em <Red>{EffectParam1}</>%,Velocidade de movimento e velocidade de ataque reduzidas,
 31000001,Rasgar armadura,Dano recebido de monstros aumentado em <Red>{EffectParam1}</>%,Enfraquece a Defesa,
 31000002,Burn,Dano ao longo do tempo enquanto estiver em <Red>{Param}</> estado,Danos ao longo do tempo,Burn
-31002131,Annihilation Skill Cast Effect,,,
-31002141,Annihilation Skill Cast Effect,,,
+31002131,Aniquilação Skill Cast Effect,,,
+31002141,Aniquilação Skill Cast Effect,,,
 31003012,Chill,Reduz a velocidade de movimento e a velocidade de ataque. <Red>Cold Blast</> na pilha máxima,Velocidade de movimento e velocidade de ataque reduzidas,
 31003014,Frost Crystal Explosão,,,
 31003241,Explosão fria,Dispara uma rajada de frio. <Red>{Param}</> Incapaz de agir devido ao efeito de status,Desativado,Shock
@@ -3342,9 +3342,9 @@ Você deve fugir o mais longe possível.",,Arcanon
 34001083,Terror em área,,,
 34001085,Designação do alvo,,,
 34001086,Frenesi,,,
-34001087,Frenesi,"Os macacos estão em frenesi, aumentando o poder de ataque.",Attack Power Increase,
+34001087,Frenesi,"Os macacos estão em frenesi, aumentando o poder de ataque.",Aumento de Poder de Ataque,
 34001088,Frenesi,,,
-34001089,Frenesi,Poder de ataque aumentado devido ao frenesi,Attack Power Increase,
+34001089,Frenesi,Poder de ataque aumentado devido ao frenesi,Aumento de Poder de Ataque,
 34001091,Passos Pesados,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
 34001092,,,,
 34001093,,,,
@@ -3369,15 +3369,15 @@ Você deve deixar a área.",Danos ao longo do tempo,
 36000001,Shock,Desativado enquanto em <Red>{Param}</> estado,Desativado,Shock
 36000002,Aether Energy Stack,,,
 36000003,Kagaltus Respiração,"Com energia total, usa <Red>Breath</> no <Red>Aggro Target</>.",,
-36000010,Energia Éter,Aumenta o dano por <Orange>{EffectParam1}</>%,Damage Increase,
+36000010,Energia Éter,Aumenta o dano por <Orange>{EffectParam1}</>%,Aumento de dano,
 36000101,Designação do alvo,direcionado por Kagaltus,Definir alvo,
 36000102,Manter emissão de éter,,,
 37000001,Restrito / Não Controlado pela Multidão,Desativado enquanto em <Red>{Param}</> estado,Suprimido,Suppression
 37000002,Knock Down,Desativado enquanto em <Red>{Param}</> estado,Desativado,Knock Down
 37000003,Fall Motion,,,
-40000001,Aceleração,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
+40000001,Aceleração,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
 40000002,Desaceleração,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
-40000003,Aceleração,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Movement Speed Increase,
+40000003,Aceleração,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,Aumento de velocidade de movimento,
 40000004,Desaceleração,Reduz a velocidade de movimento em <Red>{EffectParam1}</>%,Lento,
 40000005,,,,
 40000006,Shock,Desativado enquanto em <Red>{Param}</> estado,Desativado,Shock
@@ -3906,5 +3906,5 @@ Você deve deixar a área.",Danos ao longo do tempo,
 15000001,Redução do tempo de espera Skill,Reduz Recarga de Skill em <Orange>{EffectParam1}</> %,,
 15000002,Movement Speed Increase,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%,,
 15000003,Aumento da precisão do chefe,Aumenta a precisão contra monstros chefes em <Orange>{EffectParam1}</>%,,
-15000004,Damage Increase do chefe,Aumenta o dano aos monstros chefes em <Orange>{EffectParam1}</>%,,
+15000004,Aumento de dano do chefe,Aumenta o dano aos monstros chefes em <Orange>{EffectParam1}</>%,,
 15000005,Dano Reduzido Sofrido de Chefes,Reduz o dano recebido de monstros chefes em <Orange>{EffectParam1}</>%,,

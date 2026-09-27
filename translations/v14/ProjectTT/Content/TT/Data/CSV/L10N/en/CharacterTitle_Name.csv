@@ -1,51 +1,51 @@
 ﻿Id,Name,Description,Param
-1001,Exaltado,Requisitos: Class Combat Power Rank #{Param},1
-1002,Exaltado,Requisitos: Class Combat Power Rank #{Param},1
-1003,Exaltado,Requisitos: Class Combat Power Rank #{Param},1
-1004,Exaltado,Requisitos: Class Combat Power Rank #{Param},1
-1005,Exaltado,Requisitos: Class Combat Power Rank #{Param},1
-1006,Lâmina do Rei,Requisitos: Class Combat Power Rank #{Param},2~10
-1007,Lâmina do Rei,Requisitos: Class Combat Power Rank #{Param},2~10
-1008,Lâmina do Rei,Requisitos: Class Combat Power Rank #{Param},2~10
-1009,Lâmina do Rei,Requisitos: Class Combat Power Rank #{Param},2~10
-1010,Lâmina do Rei,Requisitos: Class Combat Power Rank #{Param},2~10
-1011,Honorável,Requisitos: Classificação de nível #{Param},1
-1012,Herói Desperto,Requisitos: Classificação de nível #{Param},2~10
-1013,Bem-feito,Requisitos: Classificação Ouro #{Param},1
-1014,Coletor de sucata,Requisitos: Classificação de aquisição de equipamento #{Param},1
+1001,Exalted,Requisitos: Class Combat Power Rank #{Param},1
+1002,Exalted,Requisitos: Class Combat Power Rank #{Param},1
+1003,Exalted,Requisitos: Class Combat Power Rank #{Param},1
+1004,Exalted,Requisitos: Class Combat Power Rank #{Param},1
+1005,Exalted,Requisitos: Class Combat Power Rank #{Param},1
+1006,King's Blade,Requisitos: Class Combat Power Rank #{Param},2~10
+1007,King's Blade,Requisitos: Class Combat Power Rank #{Param},2~10
+1008,King's Blade,Requisitos: Class Combat Power Rank #{Param},2~10
+1009,King's Blade,Requisitos: Class Combat Power Rank #{Param},2~10
+1010,King's Blade,Requisitos: Class Combat Power Rank #{Param},2~10
+1011,Honorable,Requisitos: Classificação de nível #{Param},1
+1012,Awakened Hero,Requisitos: Classificação de nível #{Param},2~10
+1013,Well-To-Do,Requisitos: Classificação Ouro #{Param},1
+1014,Scrap Collector,Requisitos: Classificação de aquisição de equipamento #{Param},1
 1015,Slayer,Requisitos: Classificação de abate de monstros #{Param},1
-1016,Vanguarda de Incursão,Requisitos: Classificação de conclusão da incursão #{Param},1
-1017,Sentinela de Incursão,Requisitos: Classificação de conclusão da incursão #{Param},2~10
-1018,Destemido,Requisitos: Classificação PvP #{Param},1
+1016,Incursion Vanguard,Requisitos: Classificação de conclusão da incursão #{Param},1
+1017,Incursion Sentinel,Requisitos: Classificação de conclusão da incursão #{Param},2~10
+1018,Dauntless,Requisitos: Classificação PvP #{Param},1
 1019,Showman,"Requisitos: Ganhe a conquista “Palavras não são necessárias 12”
 [Ative {Param} Social Motions]",24
 1020,Poseur,"Requisitos: Ganhe a conquista ""Ei, você também? Sim, eu também! 12""
 [Ativar poses sociais {Param}]",24
-1021,Artesão da Forja Sombria,"Requisitos: Ganhe o Conquista “Expert-Crafted Weapon 20”
+1021,Shadowforge Artisan,"Requisitos: Ganhe o Conquista “Expert-Crafted Weapon 20”
 [Adquira {Param} 3★ Armas por meio de fabricação]",200
 1022,Lightforge Artisan,"Requisitos: Ganhe a conquista “Expert-Crafted Armor 20”
 [Adquira {Param} 3★ Armaduras via crafting]",200
-1023,Artesão da Forja do Caos,"Requisitos: Ganhe a conquista “Acessório Expert-Crafted 20”
+1023,Chaosforge Artisan,"Requisitos: Ganhe a conquista “Acessório Expert-Crafted 20”
 [Adquirir {Param} 3★ Acessórios via crafting]",200
-1024,Avaliador Mestre,"Requisitos: Ganhe o ""Em Busca do Poder Oculto 50"" conquista
+1024,Master Appraiser,"Requisitos: Ganhe o ""Em Busca do Poder Oculto 50"" conquista
 [Avaliar {Param} Powerstones]",2000
-1025,Favorecido pelo Fate,"Requisitos: Ganhe a conquista “Alma Unificada”
+1025,Favored by Fate,"Requisitos: Ganhe a conquista “Alma Unificada”
 [Adquira Relíquia de Lealdade de nível {Param}]",13
-1026,Soberano da Sorte,"Requisitos: Ganhe a conquista “Grande Jornada”
+1026,Sovereign of Luck,"Requisitos: Ganhe a conquista “Grande Jornada”
 [Adquira Tier {Param} Relíquia de Subjugação]",13
-1027,Benfeitor da Guerra,"Requisitos: Ganhe a conquista “Steadfast Partnership Built on Light 20”
+1027,Benefactor of War,"Requisitos: Ganhe a conquista “Steadfast Partnership Built on Light 20”
 [Doe diamante para um clã {Param} vezes]",120
-1028,Tempestade de Alvis,Requisitos: Arena #{Param},1
-1029,Chamas de Alvis,Requisitos: Arena #{Param},2
+1028,Alvis's Tempest,Requisitos: Arena #{Param},1
+1029,Alvis's Flames,Requisitos: Arena #{Param},2
 1030,Alvis's Wings,Requisitos: Arena #{Param},3
-1031,Garras de Alvis,Requisitos: Arena #{Param},4~10
-1032,Presas de Alvis,Requisitos: Arena #{Param},11~50
+1031,Alvis's Claws,Requisitos: Arena #{Param},4~10
+1032,Alvis's Fangs,Requisitos: Arena #{Param},11~50
 1033,Alvis's Warrior,Requisitos: Arena #{Param},51~100
-2001,Iniciar Corredor Perpétuo,{Param} na última temporada do Corredor Perpétuo,Bronze
-2002,Adepto do Corredor Perpétuo,{Param} na última temporada do Corredor Perpétuo,Prata
-2003,Veterano do Corredor Perpétuo,{Param} na última temporada do Corredor Perpétuo,Ouro
-2004,Corredor Perpétuo Champion,{Param} na última temporada do Corredor Perpétuo,Platina
-2005,Corredor Perpétuo Mestre,{Param} na última temporada do Corredor Perpétuo,Diamante
-2006,Conquistador do Corredor Perpétuo,{Param} na última temporada do Corredor Perpétuo,Mestre
-2007,Memórias de 300 dias,Compre itens da loja de aniversário de 300 dias,
-2008,O Sucessor da Pesquisa,Recompensa premium do passe de temporada,
+2001,Perpetual Corridor Initiate,{Param} na última temporada do Corredor Perpétuo,Bronze
+2002,Perpetual Corridor Adept,{Param} na última temporada do Corredor Perpétuo,Prata
+2003,Perpetual Corridor Veteran,{Param} na última temporada do Corredor Perpétuo,Ouro
+2004,Perpetual Corridor Champion,{Param} na última temporada do Corredor Perpétuo,Platina
+2005,Perpetual Corridor Master,{Param} na última temporada do Corredor Perpétuo,Diamante
+2006,Perpetual Corridor Conqueror,{Param} na última temporada do Corredor Perpétuo,Mestre
+2007,Memories of 300 Days,Compre itens da loja de aniversário de 300 dias,
+2008,The Successor of the Research,Recompensa premium do Season Pass,

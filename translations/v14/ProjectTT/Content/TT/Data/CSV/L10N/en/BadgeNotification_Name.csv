@@ -23,13 +23,13 @@ EventShopFreePurchase,{Param} produtos gratuitos disponíveis para compra,Evento
 Event_DiceFreeCount,{Param} Free Rolls,Dados de Evento
 Event_RouletteFreeCount,{Param} Free Rolls,Evento Roleta
 Event_RouletteUseCoupon,{Param} Cupom disponível,Evento Roleta
-Faction_FriendshipGetReward,{Param} Recompensa disponível,Afinidade da Aliança de Aventureiros
-Faction_GuideBookGetReward,{Param} Recompensa disponível,Tarefa da Aliança dos Aventureiros
-Faction_MissionGetReward,{Param} Recompensa disponível,Conquistas da Aliança de Aventureiros
-Faction_PossibleDonation,{Param} Disponível,Pesquisa da Aliança de Aventureiros
+Faction_FriendshipGetReward,{Param} Recompensa disponível,Afinidade da Adventurers' Alliance
+Faction_GuideBookGetReward,{Param} Recompensa disponível,Tarefa da Adventurers' Alliance
+Faction_MissionGetReward,{Param} Recompensa disponível,Conquistas da Adventurers' Alliance
+Faction_PossibleDonation,{Param} Disponível,Pesquisa da Adventurers' Alliance
 Faction_CollectionGetReward,{Param} Recompensa exigível,Pesquisa da Adventurers Alliance alcançada
 Faction_ShopFreeReward,{Param} produtos gratuitos disponíveis para compra,Adventurers Alliance
-Faction_PossibleGiveTribute,{Param} Disponível,Doação de medalha exclusiva da Aliança de Aventureiros
+Faction_PossibleGiveTribute,{Param} Disponível,Doação de medalha exclusiva da Adventurers Alliance
 InterServer,Abyss Battlefield Notificação de novo grupo correspondente,
 ViewUI_Battlefield_Progress,Monolith War Em andamento,
 ViewUI_Battlefield_EntryStart,{Param} Disponível,Monolith War Inscrição de entrada
@@ -69,7 +69,7 @@ Shop_NpcShopFreePurchase_900,{Param} produtos gratuitos disponíveis para compra
 Shop_NpcShopFreePurchase_910,{Param} produtos gratuitos disponíveis para compra,Rift Shop
 Shop_NpcShopFreePurchase_930,{Param} produtos gratuitos disponíveis para compra,Arena Shop
 ViewUI_ShopSubscribeRemainTime1,Privilégio do sucessor expirando em breve,
-ViewUI_ShopSubscribeRemainTime2,Bênção do Gigante Privilégio Expirando Em breve,
+ViewUI_ShopSubscribeRemainTime2,Giant's Blessing Privilégio Expirando Em breve,
 GachaShop_FreePurchase,{Param} produtos gratuitos disponíveis para compra,Evocar Loja
 Awakening_Possible,{Param} Disponível,Despertar Célula Desbloqueada
 Awakening_LimitBreak_Possible,Página pronta para despertar,
@@ -84,7 +84,7 @@ TrialGate_PointGetReward,{Param} Recompensa exigível,Trial Gates
 TreasureBox_PointGetReward,{Param} Recompensa exigível,Santuário Etéreo
 Guide,{Param} Recompensa exigível,Guia de aventura
 Record_GetReward,{Param} Recompensa exigível,Codex
-Pass_Mission,{Param} Recompensa exigível,Passe de temporada
+Pass_Mission,{Param} Recompensa exigível,Season Pass
 Pass_Level,{Param} Recompensa exigível,Nível da temporada
 GlobalBoss,Entrada do Rift chefe disponível,
 ViewUI_DungeonFrontierStartSeason,Infinite Spire Começa a nova temporada,

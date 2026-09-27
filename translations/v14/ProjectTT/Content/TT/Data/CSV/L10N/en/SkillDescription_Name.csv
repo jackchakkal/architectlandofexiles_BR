@@ -555,16 +555,16 @@
 7581,Mutation,Tem uma chance {EffectParam2}% de sofrer mutação para {EffectParam1}s
 7591,Mutation,Tem uma chance {EffectParam2}% de sofrer mutação para {EffectParam1}s
 7601,Mutation,Tem uma chance {EffectParam2}% de sofrer mutação para {EffectParam1}s
-8011,Mind Control,tem uma chance {EffectParam2}% de controle mental para {EffectParam1}s
-8021,Mind Control,tem uma chance {EffectParam2}% de controle mental para {EffectParam1}s
-8031,Mind Control,tem uma chance {EffectParam2}% de controle mental para {EffectParam1}s
-8041,Mind Control,tem uma chance {EffectParam2}% de controle mental para {EffectParam1}s
-8051,Mind Control,tem uma chance {EffectParam2}% de controle mental para {EffectParam1}s
-8061,Mind Control,tem uma chance {EffectParam2}% de controle mental para {EffectParam1}s
-8071,Mind Control,tem uma chance {EffectParam2}% de controle mental para {EffectParam1}s
-8081,Mind Control,tem uma chance {EffectParam2}% de controle mental para {EffectParam1}s
-8091,Mind Control,tem uma chance {EffectParam2}% de controle mental para {EffectParam1}s
-8101,Mind Control,tem uma chance {EffectParam2}% de controle mental para {EffectParam1}s
+8011,Mind Control,tem uma chance {EffectParam2}% de Mind Control para {EffectParam1}s
+8021,Mind Control,tem uma chance {EffectParam2}% de Mind Control para {EffectParam1}s
+8031,Mind Control,tem uma chance {EffectParam2}% de Mind Control para {EffectParam1}s
+8041,Mind Control,tem uma chance {EffectParam2}% de Mind Control para {EffectParam1}s
+8051,Mind Control,tem uma chance {EffectParam2}% de Mind Control para {EffectParam1}s
+8061,Mind Control,tem uma chance {EffectParam2}% de Mind Control para {EffectParam1}s
+8071,Mind Control,tem uma chance {EffectParam2}% de Mind Control para {EffectParam1}s
+8081,Mind Control,tem uma chance {EffectParam2}% de Mind Control para {EffectParam1}s
+8091,Mind Control,tem uma chance {EffectParam2}% de Mind Control para {EffectParam1}s
+8101,Mind Control,tem uma chance {EffectParam2}% de Mind Control para {EffectParam1}s
 8511,Fear,Tem {EffectParam2}% de chance de Temer por {EffectParam1}s
 8521,Fear,Tem {EffectParam2}% de chance de Temer por {EffectParam1}s
 8531,Fear,Tem {EffectParam2}% de chance de Temer por {EffectParam1}s
@@ -579,7 +579,7 @@
 10211,Knock Down,Tem {EffectParam2}% de chance de derrubar o alvo por {EffectParam1}s
 10311,Preparing for Battle,Aumenta o ataque em {EffectParam1} para {EffectParam2}s
 10411,Bleed,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
-10412,Protection Strike,Increases Defense em {EffectParam1} para {EffectParam2}s
+10412,Protection Strike,Aumenta a defesa em {EffectParam1} para {EffectParam2}s
 11011,Stun,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
 14011011,Damage Increase,Aumenta o dano de skill em {EffectParam1}%
 14011012,Reaching Surge,Aumenta a distância máxima de lançamento de skill em {EffectParam1}m
@@ -679,9 +679,9 @@ Aumenta o dano de acerto crítico em {EffectParam1}%
 Reduz o dano de Skill recebido por {EffectParam2}%
 Aumenta a taxa de resistência a golpes críticos em {EffectParam3}"
 14014111,Fighting Spirit of the Overlord,"Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}%
-Increases Defense em {EffectParam2}"
+Aumenta a defesa em {EffectParam2}"
 15014111,Fighting Spirit of the Overlord,"Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}%
-Increases Defense em {EffectParam2}
+Aumenta a defesa em {EffectParam2}
 Aumenta o poder de ataque de ignorar em {EffectParam3}"
 14511,Power of the Sword,80% de chance de puxar em direção ao centro
 14512,Burn,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
@@ -760,7 +760,7 @@ Aumenta o dano crítico do ataque básico em {EffectParam3}%
 (dobrado em PvE)
 Aumenta o dano crítico de Skill em {EffectParam4}%
 (dobrado em PvE)"
-23511,Ice Shield,Increases Defense dos membros do grupo próximos ao pilar de gelo em {EffectParam1}
+23511,Ice Shield,Aumenta a defesa dos membros do grupo próximos ao pilar de gelo em {EffectParam1}
 23512,Shock,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
 23513,Freeze,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
 14023511,Chill,Retarda os inimigos próximos ao pilar de gelo em {EffectParam1}% para {EffectParam2}s
@@ -779,7 +779,7 @@ Aumenta a contagem de alvos do pilar de gelo em {EffectParam1}"
 14024012,Endless Frost,Aumenta a duração de Skill em 1s
 15024011,Damage Increase,Aumenta o dano de skill em {EffectParam1}%
 15024012,Endless Frost,Aumenta a duração de Skill em 2s
-15024013,Frost Hell,Reduces Damage Taken de inimigos dentro da área do Inferno Congelado em {EffectParam1}%
+15024013,Frost Hell,Reduz o dano recebido de inimigos dentro da área do Inferno Congelado em {EffectParam1}%
 24111,Eternal Wisdom,"Para {EffectParam4} sec
 Aumenta o dano de acerto crítico em {EffectParam1}%
 Reduz Skill Dano recebido por {EffectParam2}%
@@ -933,7 +933,7 @@ Reduz Dano de acerto crítico recebido em {EffectParam2}%"
 14041012,Shadow Step,Aumenta a distância de lançamento de Skill em {EffectParam1}m
 15041011,Damage Increase,Aumenta o dano de skill em {EffectParam1}%
 15041012,Shadow Step,Aumenta a distância de lançamento de Skill em {EffectParam1}m
-15041013,Surge Shock,Reduces Defense em {EffectParam1}
+15041013,Surge Shock,Reduz a Defesa em {EffectParam1}
 41111,Concentration,Aumenta a precisão em {EffectParam1} para {EffectParam2}s
 14041111,Enhanced Focus,Aumenta a evasão em {EffectParam1}
 15041111,Unshakable Focus,"Aumenta a evasão em {EffectParam1}
@@ -996,10 +996,10 @@ Aumenta o dano crítico de Skill em {EffectParam4}%
  causa 100% de acerto crítico ao acertar enquanto estiver em modo furtivo."
 14043511,Flawless Stealth,"Aumenta a duração da Furtividade em {EffectParam1}s
  Aumenta a Velocidade de Movimento em {EffectParam2}% enquanto em Furtividade
- Increases Evasion em {EffectParam3}% enquanto em Furtividade"
+ Aumenta a Evasão em {EffectParam3}% enquanto em Furtividade"
 15043511,Absolute Stealth,"Aumenta a duração da Furtividade em {EffectParam1}s
 Aumenta a Velocidade de Movimento em {EffectParam2}% enquanto estiver em Furtividade
-Increases Evasion em {EffectParam3}% enquanto estiver em Furtividade Stealth
+Aumenta a Evasão em {EffectParam3}% enquanto estiver em Furtividade Stealth
 Ignorar colisão enquanto estiver em Stealth"
 43611,Suppression,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
 43612,Precise Strike,Aumenta a chance crítica em {EffectParam1}% contra jogadores
@@ -1021,9 +1021,9 @@ Aumenta o dano de acerto crítico em {EffectParam1}%
 Reduz o dano de Skill recebido por {EffectParam2}%
 Aumenta a taxa de resistência a golpes críticos em {EffectParam3}"
 14044111,Glare of Malice,"Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}%
-Increases Defense em {EffectParam2}"
+Aumenta a defesa em {EffectParam2}"
 15044111,Glare of Malice,"Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}%
-Increases Defense em {EffectParam2}
+Aumenta a defesa em {EffectParam2}
 Aumenta o poder de ataque de ignorar em {EffectParam3}"
 44511,Blind,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
 44512,Poison,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
@@ -1139,7 +1139,7 @@ Aumenta Ignorar o poder de ataque por {EffectParam3}"
 Aumenta a taxa de resistência a ataques críticos em {EffectParam2}"
 15054111,Master Archer’s Gaze,"Aumenta a taxa de resistência a ataques críticos em {EffectParam1}%
 Aumenta a taxa de resistência a ataques críticos em {EffectParam2}
-Increases Defense em {EffectParam3}"
+Aumenta a defesa em {EffectParam3}"
 54511,Bind,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
 54512,Poison,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
 14054511,Consumables Unavailable,Tem uma chance {EffectParam2}% de desabilitar o uso de itens consumíveis para {EffectParam1}s
@@ -1153,7 +1153,7 @@ Aumenta a taxa de resistência à maximização em {EffectParam3}%"
 15054611,Ruler’s Gaze,"Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}%
 Reduz Dano de acerto crítico recebido em {EffectParam2}%"
 211001,Basic Combat,Aumenta o poder de ataque em {EffectParam1}
-211011,Defensive Stance,Increases Defense em {EffectParam1}
+211011,Defensive Stance,Aumenta a defesa em {EffectParam1}
 211021,Prepare to Strike,Aumenta o acerto crítico em {EffectParam1}
 212001,Precise Aim,Aumenta Precisão em {EffectParam1}
 212011,Sharp Instincts,Aumenta a evasão em {EffectParam1}
@@ -1194,9 +1194,9 @@ Dano reduzido recebido de alvo único Skills em {EffectParam2}%"
 215401,Sword of Destruction,Aumenta o dano em {EffectParam1}%
 215402,Destructive Currents,"Após o acompanhamento bem-sucedido, skill atingiu, tem um {EffectParam2}% de chance de aumentar o dano de Skill em {EffectParam1}% por {EffectParam3} seg."
 211701,Combat Instinct: Warrior,Aumenta o poder de ataque de ignorar em {EffectParam1}
-212701,Strong Will,"Increases Defense em {EffectParam1}
+212701,Strong Will,"Aumenta a defesa em {EffectParam1}
  Aumenta a geração de Aggro em {EffectParam2}%"
-213701,Honorable Combat,"Increases Critical Hit Resistance em {EffectParam1}
+213701,Honorable Combat,"Aumenta a resistência a golpes críticos em {EffectParam1}
 Reduz o dano de ataque básico recebido por {EffectParam2}"
 213711,Steel Heart,Aumenta HP Regen por {EffectParam1}Reduz Skill Dano recebido por {EffectParam2}%
 214701,Domination of Rage,"Quando você sofre dano, por {EffectParam3} seg:
@@ -1213,11 +1213,11 @@ Reduz a duração do Crowd Control em {EffectParam4}%"
 Reduz Skill Dano de acerto crítico recebido por {EffectParam2}%"
 215701,Ironclad Protection,"Aumenta a resistência ao controle de multidão em {EffectParam1}% 
 Reduz o dano recebido enquanto está sob controle de multidão em {EffectParam2}%"
-215721,Battle-Hardened Courage,"Reduces Critical Damage recebido em {EffectParam1}%
+215721,Battle-Hardened Courage,"Reduz o dano crítico recebido em {EffectParam1}%
  Aumenta a taxa de resistência ao controle de multidão em {EffectParam2}%"
 215722,Veteran's Insight,"No golpe de Ataque Básico, tem {EffectParam2}% de chance de aumentar o Dano causado a alvos protegidos por {EffectParam1}% para {EffectParam3}s"
 221001,Basic Combat,Aumenta o poder de ataque em {EffectParam1}
-221011,Defensive Stance,Increases Defense em {EffectParam1}
+221011,Defensive Stance,Aumenta a defesa em {EffectParam1}
 221021,Prepare to Strike,Aumenta o acerto crítico em {EffectParam1}
 222001,Precise Aim,Aumenta Precisão em {EffectParam1}
 222011,Sharp Instincts,Aumenta a evasão em {EffectParam1}
@@ -1252,12 +1252,12 @@ Dano reduzido recebido de alvo único Skills em {EffectParam2}%"
 224431,Frozen Flame,"Aumenta o dano contra alvos queimados em {EffectParam1}% 
  Aumenta o dano contra alvos congelados em {EffectParam2}%"
 224432,Energy of Ice Flower,"Em ataques adicionais bem-sucedidos ataque, para {EffectParam1}s, 
- Increases Skill Damage em {EffectParam2}% 
+ Aumenta o dano de Skill em {EffectParam2}% 
  (CD: {EffectParam3}s)"
 225401,Burning Heart,Aumenta o dano em {EffectParam1}%
 225402,Fierce Heart,"Após o uso de skill de acompanhamento, aumenta o dano de Skill em {EffectParam1}% para {EffectParam2} sec
  (máximo de 5 pilhas)"
-221701,Combat Instinct: Mage,Increases Critical Hit Resistance em {EffectParam1}
+221701,Combat Instinct: Mage,Aumenta a resistência a golpes críticos em {EffectParam1}
 222701,Will of Mana,"Aumenta a Defesa em {EffectParam1}
  Aumenta a Regeneração de MP em {EffectParam2}"
 223701,Magic Focus,"Aumenta a evasão em {EffectParam1}
@@ -1270,14 +1270,14 @@ Dano reduzido recebido de alvo único Skills em {EffectParam2}%"
 224722,Successful Prediction,"Após o uso de skill, tem uma chance de {EffectParam1}% de reduzir Skill Recarga em {EffectParam2}s
  (recarga: {EffectParam3} seg.)"
 224741,Spell Acceleration,"Aumenta a taxa de precisão em {EffectParam1}%
-Increases Skill Damage em {EffectParam2}%
+Aumenta o dano de Skill em {EffectParam2}%
 Aumenta a velocidade de lançamento de Skill em {EffectParam3}%"
 225701,Eye of the Battlefield,"Após acertar o Ataque Básico, tem {EffectParam2}% de chance de aumentar o Dano causado por você e pelos membros do seu grupo em {EffectParam1}% por {EffectParam3} seg."
-225721,Mana Erosion,"Reduces Critical Damage recebido por {EffectParam1}%
+225721,Mana Erosion,"Reduz o dano crítico recebido por {EffectParam1}%
 Reduz a duração do controle de multidão recebido em {EffectParam2}%"
 225722,Mana Insight,"Ao acertar Skill, tem {EffectParam2}% de chance de aumentar o dano causado a alvos protegidos em {EffectParam1}% para {EffectParam3}s"
 231001,Basic Combat,Aumenta o poder de ataque em {EffectParam1}
-231011,Defensive Stance,Increases Defense em {EffectParam1}
+231011,Defensive Stance,Aumenta a defesa em {EffectParam1}
 231021,Prepare to Strike,Aumenta o acerto crítico em {EffectParam1}
 232001,Precise Aim,Aumenta Precisão em {EffectParam1}
 232011,Sharp Instincts,Aumenta a evasão em {EffectParam1}
@@ -1312,15 +1312,15 @@ Aumenta o Poder de Ataque de Ignorar em {EffectParam2}"
 234431,Frozen Miasma,"Aumenta o dano contra alvos congelados em {EffectParam1}% 
  Aumenta o dano contra alvos envenenados em {EffectParam2}%"
 234432,Energy of Frost Poison,"Em ataques adicionais bem-sucedidos ataque, para {EffectParam1}s, 
- Increases Skill Damage em {EffectParam2}% 
+ Aumenta o dano de Skill em {EffectParam2}% 
  (CD: {EffectParam3}s)"
 235401,Divine Judgment,Aumenta o dano em {EffectParam1}%
 235402,Dispencing Justice,"Após o acerto do Ataque Básico, aumenta o Dano do Ataque Básico em {EffectParam1}% para {EffectParam2} sec
  (máx. 10 stack seg)"
-231701,Combat Instinct: Battle Priest,Increases Defense em {EffectParam1}
+231701,Combat Instinct: Battle Priest,Aumenta a defesa em {EffectParam1}
 232701,Will of Nature,"Aumenta o HP máximo em {EffectParam1}
  Aumenta a regeneração de MP em {EffectParam2}"
-233701,Recovery Shield,"Increases Defense em {EffectParam1}
+233701,Recovery Shield,"Aumenta a defesa em {EffectParam1}
  Aumenta a quantidade de cura em {EffectParam2}%"
 233711,Suppressive Will,Aumenta a precisão do ataque básico em {EffectParam1}
 233712,Healing Suppression,"Ao acertar o Ataque Básico, tem {EffectParam2}% de chance de reduzir a Cura Recebida pelo alvo em {EffectParam1}% por {EffectParam3} seg."
@@ -1330,17 +1330,17 @@ Aumenta o Poder de Ataque de Ignorar em {EffectParam2}"
 Reduz a duração do controle de multidão em {EffectParam2}%"
 234712,Power of Healing,"Ao curar skill, tem uma chance de {EffectParam2}% de restaurar {EffectParam1} HP"
 234731,Divine Suppression,"Aumenta a taxa de precisão em {EffectParam1}% 
- Increases Skill Damage em {EffectParam2}% 
+ Aumenta o dano de Skill em {EffectParam2}% 
  Aumenta a chance de acerto do Crowd Control em {EffectParam3}%"
 235701,Sanctuary,Aumenta a quantidade de cura em {EffectParam1}%
 235702,Savior,"Ao curar o uso de skill, 
  aumenta a taxa de evasão em {EffectParam1}% e a velocidade de movimento em {EffectParam2}% para {EffectParam3} sec
  (cooldown: {EffectParam4} seg)"
-235721,Holy Blessing,"Reduces Critical Damage recebido em {EffectParam1}%
+235721,Holy Blessing,"Reduz o dano crítico recebido em {EffectParam1}%
  Aumenta a taxa de resistência ao controle de multidão em {EffectParam2}%"
 235722,Sacred Insight,"No golpe de Ataque Básico, tem {EffectParam2}% de chance de aumentar o Dano causado a alvos protegidos por {EffectParam1}% para {EffectParam3}s"
 241001,Basic Combat,Aumenta o poder de ataque em {EffectParam1}
-241011,Defensive Stance,Increases Defense em {EffectParam1}
+241011,Defensive Stance,Aumenta a defesa em {EffectParam1}
 241021,Prepare to Strike,Aumenta o acerto crítico em {EffectParam1}
 242001,Precise Aim,Aumenta Precisão em {EffectParam1}
 242011,Sharp Instincts,Aumenta a evasão em {EffectParam1}
@@ -1365,7 +1365,7 @@ Dano reduzido recebido de alvo único Skills em {EffectParam2}%"
 243401,Combat Will: Assassin,"Aumenta o dano contra monstros em {EffectParam1}% 
  Aumenta o poder de ataque de Skill em {EffectParam2}"
 243411,Shadow Discipline,"Aumenta o Dano de Acerto Crítico em {EffectParam1}%
-Increases Evasion em {EffectParam2}"
+Aumenta a Evasão em {EffectParam2}"
 244401,Assassin's Aura,"Aumenta a chance de acerto crítico em {EffectParam1}%
  Aumenta o poder de ataque básico em {EffectParam2}"
 244411,Shadow Blade,Aumenta o dano contra alvos atordoados em {EffectParam1}%
@@ -1394,11 +1394,11 @@ Aumenta a velocidade de movimento em {EffectParam2}%"
 Reduz a duração do Crowd Control em {EffectParam2}%"
 245701,Judgment,"Ao acertar skill, aumenta a chance de acerto crítico contra jogadores em {EffectParam1}% para {EffectParam2} sec
  (recarga: {EffectParam3} seg)"
-245721,Cruel Instinct,"Reduces Critical Damage recebido por {EffectParam1}%
+245721,Cruel Instinct,"Reduz o dano crítico recebido por {EffectParam1}%
 Aumenta Chance de resistência à aflição {EffectParam2}%"
 245722,Cruel Insight,"Ao acertar Skill, tem {EffectParam2}% de chance de aumentar o dano causado a alvos protegidos em {EffectParam1}% para {EffectParam3}s"
 251001,Basic Combat,Aumenta o poder de ataque em {EffectParam1}
-251011,Defensive Stance,Increases Defense em {EffectParam1}
+251011,Defensive Stance,Aumenta a defesa em {EffectParam1}
 251021,Prepare to Strike,Aumenta o acerto crítico em {EffectParam1}
 252001,Precise Aim,Aumenta Precisão em {EffectParam1}
 252011,Sharp Instincts,Aumenta a evasão em {EffectParam1}
@@ -1452,7 +1452,7 @@ Aumenta o dano a alvos controlados por multidão em {EffectParam2}%"
 255701,Ashen Arrow,Aumenta a duração do Crowd Control em {EffectParam1}%
 255702,Ashen Wound,"Ao acertar skill, {EffectParam1}% de chance de prevenir o alvo de usar consumíveis para {EffectParam3} sec
  (Recarga: {EffectParam2} sec)"
-255721,Venom Tracker,"Reduces Critical Damage recebido por {EffectParam1}%
+255721,Venom Tracker,"Reduz o dano crítico recebido por {EffectParam1}%
 Aumenta Chance de resistência à aflição {EffectParam2}%"
 255722,Venomous Insight,"Ao acertar Skill, tem {EffectParam2}% de chance de aumentar o dano causado a alvos protegidos em {EffectParam1}% para {EffectParam3}s"
 10010011,Attack Power Increase,"Ao usar Bound Skill, causa dano com Poder de Ataque aumentado em {EffectParam1}"
@@ -1835,7 +1835,7 @@ Causa dano a inimigos próximos com {EffectParam2}% de chance de atordoá-los po
 514101,Skill Burst,Aumenta o dano de acerto crítico de Skill em {EffectParam1}%
 514111,Rift Fissure,Aumenta o Dano de Acerto Crítico em {EffectParam1}%
 514121,Unleashed Power,Aumenta o dano de ataque básico em {EffectParam1}%
-514131,Unleashed Skills,Increases Skill Damage em {EffectParam1}%
+514131,Unleashed Skills,Aumenta o dano de Skill em {EffectParam1}%
 514141,Heartbeat,Aumenta o dano em {EffectParam1}%
 514151,Keen Inner Self,Aumenta o dano do jogador em {EffectParam1}%
 514161,Predator's Aura,Aumenta o dano a todos os monstros em {EffectParam1}%
@@ -1850,7 +1850,7 @@ Aumenta o dano de acerto crítico em {EffectParam2}%"
 515051,Power Unbound,"Aumenta a taxa de precisão em {EffectParam1}% 
  Aumenta o dano de ataque básico em {EffectParam2}%"
 515061,Skill Unbound,"Aumenta a taxa de precisão em {EffectParam1}% 
- Increases Skill Damage em {EffectParam2}%"
+ Aumenta o dano de Skill em {EffectParam2}%"
 515071,Beast Instinct,"Aumenta a taxa de precisão em {EffectParam1}% 
  Aumenta o dano contra todos os monstros em {EffectParam2}%"
 515081,Inner Resolve,"Aumenta a taxa de precisão em {EffectParam1}%
@@ -1927,9 +1927,9 @@ Aumenta a Taxa de Resistência a Acertos Críticos contra jogadores em {EffectPa
 545061,Resistance Instincts,"Aumenta a taxa de evasão em {EffectParam1}%
  Aumenta a taxa de resistência a acertos críticos em {EffectParam2}%"
 545071,Unyielding Survival,"Aumenta a taxa de evasão em {EffectParam1}% 
-Reduces Critical Damage recebido de todos os monstros em {EffectParam2}%"
+Reduz o dano crítico recebido de todos os monstros em {EffectParam2}%"
 545081,Memories of Pain,"Aumenta a taxa de evasão em {EffectParam1}%
-Reduces Critical Damage recebido dos jogadores em {EffectParam2}%"
+Reduz o dano crítico recebido dos jogadores em {EffectParam2}%"
 545091,Explosion Resistance,"Aumenta a Taxa de Evasão em {EffectParam1}%
 Reduz o Dano Crítico recebido por {EffectParam2}%"
 545101,Strike Mitigation,"Aumenta a taxa de evasão em {EffectParam1}%
@@ -1946,12 +1946,12 @@ Reduz o dano recebido de chefes em {EffectParam2}%"
 Reduz o dano recebido em {EffectParam2}%"
 545161,Death-Defying Will,"Aumenta a taxa de evasão em {EffectParam1}%
 Reduz o dano recebido por {EffectParam2}%
-Reduces Critical Damage recebido por {EffectParam3}%"
+Reduz o dano crítico recebido por {EffectParam3}%"
 545171,Silent Endurance,"Aumenta a taxa de evasão em {EffectParam1}%
 Reduz o dano recebido em {EffectParam2}%"
 545181,Shock Dissipation,"Aumenta a taxa de evasão em {EffectParam1}%
 Reduz o dano recebido por {EffectParam2}%
-Reduces Critical Damage recebido por {EffectParam3}%"
+Reduz o dano crítico recebido por {EffectParam3}%"
 546011,Hem of Calamity,"Aumenta a taxa de evasão em {EffectParam1}%
  Aumenta a quantidade de cura recebida por {EffectParam2}%
  Aumenta a quantidade de escudo recebida por {EffectParam3}%
@@ -1961,7 +1961,7 @@ Reduz o dano de acerto crítico recebido por {EffectParam5}%"
 Aumenta a Quantidade de Cura recebida por {EffectParam2}%
 Aumenta a quantidade de escudo recebida por {EffectParam3}%
 Aumenta a taxa de resistência de maximização em {EffectParam4}%
-Increases Critical Hit Resistance em {EffectParam5}%"
+Aumenta a resistência a golpes críticos em {EffectParam5}%"
 546031,Covenant of Survival,"Aumenta a taxa de evasão em {EffectParam1}%
 Aumenta a quantidade de cura recebida por {EffectParam2}%
 Aumenta a quantidade de escudo recebida por {EffectParam3}%
@@ -1971,7 +1971,7 @@ Reduz o dano recebido em {EffectParam5}%"
  Aumenta a quantidade de cura recebida por {EffectParam2}%
  Aumenta a quantidade de escudo recebida por {EffectParam3}%
 Aumenta a taxa de resistência de maximização em {EffectParam4}%
-Increases Critical Hit Resistance em {EffectParam5}%
+Aumenta a resistência a golpes críticos em {EffectParam5}%
 Reduz o dano recebido por {EffectParam6}%"
 546051,Despair of the Blade,"Aumenta a taxa de evasão em {EffectParam1}%
 Aumenta a quantidade de cura recebida por {EffectParam2}%
@@ -2045,14 +2045,14 @@ Reduz a redução do consumo de MP em {EffectParam3}%"
 590811,Chain Wave,"Causa dano à área de pouso 3 vezes
 1º acerto: 3m / 2º acerto: 4m / 3º acerto: 5m"
 590911,Earth Collapse,Tem {EffectParam2}% de chance por segundo de infligir Atordoamento em {EffectParam1}s na área de pouso
-591011,Tectonic Mallet,Causa dano na área de pouso com {EffectParam2}% de chance de infligir Airborne para {EffectParam1}s
+591011,Tectonic Mallet,Causa dano na área de pouso com {EffectParam2}% de chance de infligir Aerotransportado para {EffectParam1}s
 591111,Vacuum Implosion,Causas dano na área de pouso com {EffectParam2}% de chance de infligir atordoamento para {EffectParam1}s
 591211,Blessed Fragment,"Ao pousar, concede {EffectParam1}% de aumento de dano ao chefe para {EffectParam2}s"
 591311,Dragon Storm,Cria uma corrente ascendente no local de pouso que dura 10 segundos
 595011,Heavenly Warrior,"Aumenta o HP máximo em {EffectParam1}% 
  Aumenta o dano de ataque básico em {EffectParam2}%"
 595021,Heaven’s Cavalier,"Aumenta o HP máximo em {EffectParam1}% 
- Increases Skill Damage em {EffectParam2}%"
+ Aumenta o dano de Skill em {EffectParam2}%"
 595031,Wind Spirit,"Aumenta o HP máximo em {EffectParam1}%
 Aumenta a quantidade de cura em {EffectParam2}%"
 595041,Blessing of Levitation,"Aumenta o HP máximo em {EffectParam1}%
@@ -2175,11 +2175,11 @@ Aumenta o dano de ataque básico contra monstros chefes em {EffectParam2}%"
 Aumenta a taxa de resistência ao silêncio em {EffectParam2}%
 Reduz o custo de MP em {EffectParam3}%"
 630071,Echo of Steel,"Aumenta o HP máximo em {EffectParam1}% 
-Reduces Critical Damage recebido de monstros em {EffectParam2}%"
+Reduz o dano crítico recebido de monstros em {EffectParam2}%"
 630081,Undying Warmth,"Aumenta o HP máximo em {EffectParam1}%
 Aumenta HP Potion Healing em {EffectParam2}
 Reduz o custo de MP em {EffectParam3}%
-Reduces Critical Damage recebido de monstros por {EffectParam4}%"
+Reduz o dano crítico recebido de monstros por {EffectParam4}%"
 630091,Ashen Citadel,"Aumenta o HP máximo em {EffectParam1}%
 Aumenta o dano de acerto crítico em {EffectParam2}%"
 630101,Silent Sovereign,"Aumenta o HP máximo em {EffectParam1}%
@@ -2189,7 +2189,7 @@ Reduz o custo de MP em {EffectParam4}%"
 850101,,O Diretor causa dano aos jogadores inimigos.
 850201,,"Aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%
  e a velocidade de movimento em <Orange>{EffectParam2}</>%"
-850301,,Reduces Damage Taken from players por <Orange>{EffectParam1}</>%
+850301,,Reduz o dano recebido de jogadores por <Orange>{EffectParam1}</>%
 850401,,"entra em modo furtivo, tornando-se invisível aos inimigos."
 850501,,"Aumenta a regeneração de HP em <Orange>{EffectParam1}</>%
 Aumenta a regeneração de MP em <Orange>{EffectParam2}</>%
@@ -2234,17 +2234,17 @@ Reduz alvo único Skill Dano sofrido em {EffectParam2}%"
 1404051,Anima Form I,Restaura um {EffectParam1}% adicional do HP máximo após a ressurreição.
 1404061,Anima Form I,Restaura um {EffectParam1}% adicional do HP máximo após a ressurreição.
 1405011,Anima Form II,"Aumenta o dano contra alvos congelados/sangrando em {EffectParam1}%
-Reduces Damage Taken de Skills multialvo em {EffectParam2}%"
+Reduz o dano recebido de Skills multialvo em {EffectParam2}%"
 1405021,Anima Form II,"Aumenta o dano contra alvos congelados/sangrando em {EffectParam1}%
-Reduces Damage Taken de Skills multialvo em {EffectParam2}%"
+Reduz o dano recebido de Skills multialvo em {EffectParam2}%"
 1405031,Anima Form II,"Aumenta o dano contra alvos congelados/sangrando em {EffectParam1}%
-Reduces Damage Taken de Skills multialvo em {EffectParam2}%"
+Reduz o dano recebido de Skills multialvo em {EffectParam2}%"
 1405041,Anima Form II,"Aumenta o dano contra alvos congelados/sangrando em {EffectParam1}%
-Reduces Damage Taken de Skills multialvo em {EffectParam2}%"
+Reduz o dano recebido de Skills multialvo em {EffectParam2}%"
 1405051,Anima Form II,"Aumenta o dano contra alvos congelados/sangrando em {EffectParam1}%
-Reduces Damage Taken de Skills multialvo em {EffectParam2}%"
+Reduz o dano recebido de Skills multialvo em {EffectParam2}%"
 1405061,Anima Form II,"Aumenta o dano contra alvos congelados/sangrando em {EffectParam1}%
-Reduces Damage Taken de Skills multialvo em {EffectParam2}%"
+Reduz o dano recebido de Skills multialvo em {EffectParam2}%"
 1406011,Anima Form III,Tem uma chance de {EffectParam2}% de aumentar o Bloqueio em {EffectParam1} para {EffectParam3}s após o acerto de skill (CD: {EffectParam4}s)
 1406021,Anima Form III,Tem uma chance de {EffectParam2}% de aumentar o Bloqueio em {EffectParam1} para {EffectParam3}s após o acerto de skill (CD: {EffectParam4}s)
 1406031,Anima Form III,Tem uma chance de {EffectParam2}% de aumentar o Bloqueio em {EffectParam1} para {EffectParam3}s após o acerto de skill (CD: {EffectParam4}s)
@@ -2252,26 +2252,26 @@ Reduces Damage Taken de Skills multialvo em {EffectParam2}%"
 1406051,Anima Form III,Tem uma chance de {EffectParam2}% de aumentar o Bloqueio em {EffectParam1} para {EffectParam3}s após o acerto de skill (CD: {EffectParam4}s)
 1406061,Anima Form III,Tem uma chance de {EffectParam2}% de aumentar o Bloqueio em {EffectParam1} para {EffectParam3}s após o acerto de skill (CD: {EffectParam4}s)
 1407011,Indomitable Form I,"Aumenta o dano recebido enquanto estiver na [Postura de ataque] em {EffectParam1}%
-Reduces Damage Taken enquanto estiver em [Specialized] em {EffectParam2}%"
+Reduz o dano recebido enquanto estiver em [Specialized] em {EffectParam2}%"
 1407021,Indomitable Form I,"Aumenta o dano recebido enquanto estiver na [Postura de ataque] em {EffectParam1}%
-Reduces Damage Taken enquanto estiver em [Specialized] em {EffectParam2}%"
+Reduz o dano recebido enquanto estiver em [Specialized] em {EffectParam2}%"
 1407031,Indomitable Form I,"Aumenta o dano recebido enquanto estiver na [Postura de ataque] em {EffectParam1}%
-Reduces Damage Taken enquanto estiver em [Specialized] em {EffectParam2}%"
+Reduz o dano recebido enquanto estiver em [Specialized] em {EffectParam2}%"
 1407041,Indomitable Form I,"Aumenta o dano recebido enquanto estiver na [Postura de ataque] em {EffectParam1}%
-Reduces Damage Taken enquanto estiver em [Specialized] em {EffectParam2}%"
+Reduz o dano recebido enquanto estiver em [Specialized] em {EffectParam2}%"
 1407051,Indomitable Form I,"Aumenta o dano recebido enquanto estiver na [Postura de ataque] em {EffectParam1}%
-Reduces Damage Taken enquanto estiver em [Specialized] em {EffectParam2}%"
+Reduz o dano recebido enquanto estiver em [Specialized] em {EffectParam2}%"
 1407061,Indomitable Form I,"Aumenta o dano recebido enquanto estiver na [Postura de ataque] em {EffectParam1}%
-Reduces Damage Taken enquanto estiver em [Specialized] em {EffectParam2}%"
+Reduz o dano recebido enquanto estiver em [Specialized] em {EffectParam2}%"
 1408011,Indomitable Form II,"Aumenta o dano em {EffectParam1}% enquanto estiver no Postura [Special]
-Reduces Damage Taken em {EffectParam2}% enquanto na postura [Attack]"
+Reduz o dano recebido em {EffectParam2}% enquanto na postura [Attack]"
 1408021,Indomitable Form II,"Aumenta o dano em {EffectParam1}% enquanto estiver no Postura [Special]
-Reduces Damage Taken em {EffectParam2}% enquanto na postura [Attack]"
+Reduz o dano recebido em {EffectParam2}% enquanto na postura [Attack]"
 1408031,Indomitable Form II,"Aumenta o dano em {EffectParam1}% enquanto estiver no Postura [Special]
-Reduces Damage Taken em {EffectParam2}% enquanto na postura [Attack]"
+Reduz o dano recebido em {EffectParam2}% enquanto na postura [Attack]"
 1408041,Indomitable Form II,"Aumenta o dano em {EffectParam1}% enquanto estiver no Postura [Special]
-Reduces Damage Taken em {EffectParam2}% enquanto na postura [Attack]"
+Reduz o dano recebido em {EffectParam2}% enquanto na postura [Attack]"
 1408051,Indomitable Form II,"Aumenta o dano em {EffectParam1}% enquanto estiver no Postura [Special]
-Reduces Damage Taken em {EffectParam2}% enquanto na postura [Attack]"
+Reduz o dano recebido em {EffectParam2}% enquanto na postura [Attack]"
 1408061,Indomitable Form II,"Aumenta o dano em {EffectParam1}% enquanto estiver no Postura [Special]
-Reduces Damage Taken em {EffectParam2}% enquanto na postura [Attack]"
+Reduz o dano recebido em {EffectParam2}% enquanto na postura [Attack]"

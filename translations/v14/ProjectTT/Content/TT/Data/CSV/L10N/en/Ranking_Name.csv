@@ -19,12 +19,12 @@
 300102,Assistência,Assistência,[Value]
 300103,Mortes,Mortes,[Value]
 400100,Comissão Proxy,Comissões concluídas,[Value]
-400101,Guilda de Comerciantes,Comissões concluídas,[Value]
-400102,Guilda dos Ferreiros,Comissões concluídas,[Value]
+400101,Merchants Guild,Comissões concluídas,[Value]
+400102,Blacksmiths Guild,Comissões concluídas,[Value]
 400103,Artisans Guild,Comissões concluídas,[Value]
-400104,Guilda dos Avaliadores,Comissões concluídas,[Value]
+400104,Appraisers' Guild,Comissões concluídas,[Value]
 400105,Hunters Guild,Comissões concluídas,[Value]
-400106,Guilda dos Exploradores,Comissões concluídas,[Value]
+400106,Explorers Guild,Comissões concluídas,[Value]
 400107,Wayfinders Guild,Comissões concluídas,[Value]
 400200,Incursão concluída,Limpar,[Value]
 400201,Incursão da Tempestade,Limpar,[Value]
@@ -90,12 +90,12 @@
 1000700,Abyss Battlefield Evento de conquista,Pontuação,[Value]
 1000800,Evento de classificação do Incursion Chaser,Pontuação,[Value]
 1000900,Classificação da Anima,Anima usada,[Value]
-2000000,Inflexível Will,,
+2000000,Unbending Will,,
 2000001,Level 1,Tempo de limpeza,[Value]
 2000002,Level 2,Tempo de limpeza,[Value]
 2000003,Level 3,Tempo de limpeza,[Value]
 2000004,Level 4,Tempo de limpeza,[Value]
-2000100,Inflexível Will,,
+2000100,Unbending Will,,
 2000101,Level 1,Tempo de limpeza,[Value]
 2000102,Level 2,Tempo de limpeza,[Value]
 2000103,Level 3,Tempo de limpeza,[Value]

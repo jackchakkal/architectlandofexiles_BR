@@ -26,7 +26,7 @@
 123,Celebração CBT: Check-in de 7 dias
 124,Evento de participação para aventureiros que retornam!
 125,Primeiro Passo do Aventureiro! Quadro de Presença
-126,Quadro de check-in de 14 dias do Regimento Scout
+126,Quadro de check-in de 14 dias do Scout Regiment
 127,Evento especial de check-in de Evrin
 128,Evento de check-in de suporte ao campo de batalha
 129,SUMMER 14-Day Check-In Board
@@ -49,10 +49,10 @@
 1011,Pedido Especial de Naruru
 1012,Caminho do Herói: Crônicas do Sucessor
 1013,Monica! Pesquisa Animamateria de
-1014,Xeros’ Suppression de incursão
+1014,Xeros’ Supressão de incursão
 1015,Evrin!
 1016,Solicitação de Exploração de Orika
-1017,A Jornada do Pioneiro às Terras Abandonadas
+1017,A Jornada do Pioneiro às Forsaken Lands
 1018,Blacksmith Torcida de aprimoramento!
 1019,Monte! Guardiões da Fenda
 1020,Jornada do Aventureiro
@@ -77,7 +77,7 @@
 1039,Reunião do Clã
 1040,Missão especial de aniversário de 100 dias
 1041,Monica! Pesquisa Animamateria de
-1042,Ordem de Assentamento: Terras Abandonadas
+1042,Ordem de Assentamento: Forsaken Lands
 1043,Empurre seus limites! Conquista Perpétua do Corredor
 1044,Cooperativa de Ano Novo
 1045,Atualização de ressonância
@@ -93,7 +93,7 @@
 1055,Evento de missão de amizade
 1056,Rift Conquest Mission Event
 1057,Evento de suporte de upgrade avançado
-1058,Operação: Proteja a Terra Abandonada!
+1058,Operação: Proteja a Forsaken Land!
 1059,Evento de crescimento de sintonização
 1060,Evento de missão de unidade do clã
 1061,Operação de varredura de incursão!
@@ -113,9 +113,9 @@
 1075,Missões de suporte de cupom de convocação
 1076,Evento de Suporte Especial de Criação de Equipamento
 1077,Forsaken Land Scavenger
-1078,Operação de Recaptura Final da Terra Abandonada
+1078,Operação de Recaptura Final da Forsaken Land
 1079,Evento de missão de detritos abissais
-1080,Missão de Expurgo do Monstro da Terra Abandonada!
+1080,Missão de Expurgo do Monstro da Forsaken Land!
 1081,Tirsak Missão de Raid
 1082,Evento de melhoria do chaveiro
 1083,Missão de Purga do Monstro da Giant's Tower!
@@ -159,12 +159,12 @@
 6001,Evento de queda
 6002,Véspera do Festival Aburu! Drops
 6003,Restos de uma civilização esquecida! Evento de queda
-6004,Inverno nas Terras Abandonadas! Soltar Evento
-6005,100 dias: Barreira do desconhecido
+6004,Inverno nas Forsaken Lands! Soltar Evento
+6005,100 dias: Barrier of the Unknown
 6006,Festival de Dados da Primavera! Drop
 6007,Queda de detritos abissais
 6008,Queda de token do Dia da Mentira
-6009,Aniversário de 200 Dias: Barreira do Desconhecido
+6009,Aniversário de 200 Dias: Barrier of the Unknown
 6010,Aniversário de 200 Dias: Grande Incursão
 6011,Caixa misteriosa agora disponível!
 6012,Queda de detritos abissais
@@ -192,7 +192,7 @@
 3200,Classificação do Incursion Chaser
 3300,Classificação de uso de Anima
 4002,Véspera do Festival Aburu!
-4003,Inverno na Terra Abandonada!
+4003,Inverno na Forsaken Land!
 4004,Festival de Dados da Primavera!
 4005,Festival de Dados de Verão
 4006,Festival de Dados de Outono
@@ -216,8 +216,8 @@
 5046,Conquista da Fortaleza: Primeira Vitória
 5047,Anomalia de incursão
 5049,Bilhete de Recuperação Evento de Receita Especial de Artesanato
-5050,Competição de Expedição de Clã
-5051,Desafio de Expedição de Clã
+5050,Competição de Clan Expedition
+5051,Desafio de Clan Expedition
 5052,Abyss Battlefield Evento de cuidado especial
 5053,Workshop de moedas de aniversário de 200 dias
 5055,Pesquisa Especial de Aniversário de 200 Dias
@@ -251,7 +251,7 @@
 99999,Teste de Evento de Dados 1
 8000,Teste de evento multi-buff
 8001,Teste de Evento de Buff Único
-8002,Bênção nas Terras Abandonadas
+8002,Bênção nas Forsaken Lands
 8003,Preparação do Aventureiro
 8004,Buff da Grande Incursão
 8005,Evento Bênção do Campo de Batalha

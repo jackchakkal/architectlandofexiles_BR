@@ -47,7 +47,7 @@
 552,Dash,Salta em uma direção designada para se mover
 553,Dash,Salta em uma direção designada para se mover
 554,Dash,Salta em uma direção designada para se mover
-600,Artificial Floating Stone,Artificial Floating Stone
+600,Artificial Floating Stone,Pedra flutuante artificial
 1001,Storm Slash,Avança rapidamente para causar dano aos inimigos
 1011,Earth Tremor,"Bate no chão com força, enviando uma onda de choque que causa dano aos inimigos e reduz sua velocidade de movimento"
 1021,Earth Smash,"Bate com sua espada para dividir o chão, causando dano e derrubando os inimigos na frente"
@@ -733,7 +733,7 @@ Reduz adicionalmente o tempo de espera do Dash."
 51410,Skill Burst,Aumenta o dano crítico de Skill.
 51411,Rift Fissure,Aumenta o dano crítico.
 51412,Unleashed Power,Aumenta o dano de ataque básico.
-51413,Unleashed Skills,Increases Skill Damage.
+51413,Unleashed Skills,Aumenta o dano de Skill.
 51414,Heartbeat,Aumenta o dano.
 51415,Keen Inner Self,Aumenta o dano ao jogador.
 51416,Predator's Aura,Aumenta o dano a todos os monstros.
@@ -763,9 +763,9 @@ Reduz adicionalmente o tempo de espera do Dash."
 54404,Will Suppression,Aumenta a resistência de maximização.
 54405,Enhance Senses,Aumenta a Evasão de Ataque Básico.
 54406,Enhance Intuition,Aumenta a evasão de Skill.
-54407,Crisis Detection,Increases Evasion contra todos os monstros.
+54407,Crisis Detection,Aumenta a Evasão contra todos os monstros.
 54408,Fighting Spirit Detection,Aumenta a evasão do jogador.
-54409,Sensory Focus,Increases Evasion.
+54409,Sensory Focus,Aumenta a Evasão.
 54410,Shock Absorption,Aumenta a resistência crítica ao ataque básico.
 54411,Focused Defense,Aumenta a resistência crítica Skill.
 54412,Hunt Resistance,Aumenta a resistência crítica contra todos os monstros.
@@ -773,9 +773,9 @@ Reduz adicionalmente o tempo de espera do Dash."
 54414,Enhance Resistance,Aumenta a resistência crítica.
 54415,Pulverize Resistance,Reduz o Dano Crítico sofrido pelo Ataque Básico.
 54416,Damage Mitigation,Reduz o dano crítico recebido de Skill.
-54417,Survival Instincts,Reduces Critical Damage de todos os monstros.
-54418,Shock Suppression,Reduces Critical Damage dos jogadores.
-54419,Pain Resistance,Reduces Critical Damage recebido.
+54417,Survival Instincts,Reduz o dano crítico de todos os monstros.
+54418,Shock Suppression,Reduz o dano crítico dos jogadores.
+54419,Pain Resistance,Reduz o dano crítico recebido.
 54420,Strike Mitigation,Reduz o dano de ataque básico recebido.
 54421,Skill Defense,Reduz Skill Dano recebido.
 54422,Hunt Endurance,Reduz Danos de todos os monstros.
@@ -783,31 +783,31 @@ Reduz adicionalmente o tempo de espera do Dash."
 54424,Hunt Instincts,Reduz o dano recebido dos chefes.
 54425,Defense Essence,Reduz a redução de danos recebidos.
 54501,Instant Heal,Aumenta o bônus de evasão e cura recebida.
-54502,Hand of the Guardian,Increases Evasion e o Escudo Recebidos.
+54502,Hand of the Guardian,Aumenta a Evasão e o Escudo Recebidos.
 54503,Echo of Chains,Aumenta a resistência à evasão e à maximização.
-54504,Survival Hunt,Increases Evasion e a Resistência Crítica contra todos os monstros.
-54505,Frozen Momentum,Increases Evasion e a Resistência Crítica contra jogadores.
-54506,Resistance Instincts,Increases Evasion e a Resistência Crítica.
-54507,Unyielding Survival,Increases Evasion e reduz o Dano Crítico de monstros.
-54508,Memories of Pain,Increases Evasion e reduz o Dano Crítico dos jogadores.
-54509,Explosion Resistance,Increases Evasion e reduz o Dano Crítico recebido.
-54510,Strike Mitigation,Increases Evasion e reduz o Dano de Ataque Básico recebido.
-54511,Skill Mitigation,Increases Evasion e reduz o dano recebido de Skill.
-54512,Endurance of the Hunt,Increases Evasion e reduz o Dano de todos os monstros.
-54513,Survival’s Instincts,Increases Evasion e reduz o dano dos jogadores.
-54514,Predator’s Aura,Increases Evasion e reduz o dano dos chefes.
-54515,Indomitable Will,Increases Evasion e reduz o dano recebido.
-54516,Death-Defying Will,Increases Evasion e reduz o Dano recebido e o Dano Crítico recebido.
-54517,Silent Endurance,Increases Evasion e reduz o dano recebido.
-54518,Shock Dissipation,Increases Evasion e reduz o Dano recebido e o Dano Crítico recebido.
-54601,Hem of Calamity,"Increases Evasion, a Cura recebida, o Escudo recebido e a Resistência à Maximização, 
+54504,Survival Hunt,Aumenta a Evasão e a Resistência Crítica contra todos os monstros.
+54505,Frozen Momentum,Aumenta a Evasão e a Resistência Crítica contra jogadores.
+54506,Resistance Instincts,Aumenta a Evasão e a Resistência Crítica.
+54507,Unyielding Survival,Aumenta a Evasão e reduz o Dano Crítico de monstros.
+54508,Memories of Pain,Aumenta a Evasão e reduz o Dano Crítico dos jogadores.
+54509,Explosion Resistance,Aumenta a Evasão e reduz o Dano Crítico recebido.
+54510,Strike Mitigation,Aumenta a Evasão e reduz o Dano de Ataque Básico recebido.
+54511,Skill Mitigation,Aumenta a Evasão e reduz o dano recebido de Skill.
+54512,Endurance of the Hunt,Aumenta a Evasão e reduz o Dano de todos os monstros.
+54513,Survival’s Instincts,Aumenta a Evasão e reduz o dano dos jogadores.
+54514,Predator’s Aura,Aumenta a Evasão e reduz o dano dos chefes.
+54515,Indomitable Will,Aumenta a Evasão e reduz o dano recebido.
+54516,Death-Defying Will,Aumenta a Evasão e reduz o Dano recebido e o Dano Crítico recebido.
+54517,Silent Endurance,Aumenta a Evasão e reduz o dano recebido.
+54518,Shock Dissipation,Aumenta a Evasão e reduz o Dano recebido e o Dano Crítico recebido.
+54601,Hem of Calamity,"Aumenta a Evasão, a Cura recebida, o Escudo recebido e a Resistência à Maximização, 
  e reduz o Dano Crítico recebido."
 54602,Pain Seal,"Aumenta Evasão, Cura Recebida, Escudo Recebido, Resistência à Maximização e Resistência Crítica."
-54603,Covenant of Survival,"Increases Evasion, a Cura recebida, o Escudo recebido e a Resistência à Maximização,
+54603,Covenant of Survival,"Aumenta a Evasão, a Cura recebida, o Escudo recebido e a Resistência à Maximização,
 e reduz o dano recebido."
-54604,Cry of Protection,"Increases Evasion, a Cura recebida, o Escudo recebido, a Resistência à Maximização e a Resistência Crítica,
+54604,Cry of Protection,"Aumenta a Evasão, a Cura recebida, o Escudo recebido, a Resistência à Maximização e a Resistência Crítica,
 e reduz o dano recebido."
-54605,Despair of the Blade,"Increases Evasion, a Cura recebida, o Escudo recebido e a Resistência à Maximização,
+54605,Despair of the Blade,"Aumenta a Evasão, a Cura recebida, o Escudo recebido e a Resistência à Maximização,
 e reduz o Dano Crítico sofrido e o Dano recebido."
 55501,Warrior’s Form,Aumenta a resistência ao CC e a resistência à aflição.
 55601,Hero’s Radiance,Aumenta a resistência ao CC e a resistência à aflição.
@@ -968,7 +968,7 @@ Atordoa os inimigos atingidos."
 63008,Undying Warmth,Aumenta as estatísticas quando equipado.
 63009,Ashen Citadel,Aumenta as estatísticas quando equipado.
 63010,Silent Sovereign,Aumenta as estatísticas quando equipado.
-80000,Clan Respawn Waypoint,Clan Respawn Waypoint
+80000,Clan Respawn Waypoint,Waypoint de reaparecimento do clã
 80010,,Compressão de danos
 81101,Angbar Arena Portal,Angbar Arena Portal
 81102,Angbar Arena Portal,Angbar Arena Portal
@@ -990,10 +990,10 @@ O Warden desaparece se o Clan Beacon é destruído ou desaparece após 3 minutos
 <Red>※ O skill só pode ser usado em Forsaken Land ou Abyss Battlefield.</>"
 85020,Sentry Awakening,"Melhora o convocado Warden.
 No lançamento de skill, aumenta as capacidades de combate do Warden por 3 minutos.
-<Red>※ O skill só pode ser usado na Terra Abandonada ou Abyss Battlefield.</>"
+<Red>※ O skill só pode ser usado na Forsaken Land ou Abyss Battlefield.</>"
 85021,Sentry Awakening,"Melhora o convocado Warden.
 No lançamento de skill, aumenta as capacidades de combate do Warden por 3 minutos.
-<Red>※ O skill só pode ser usado na Terra Abandonada ou Abyss Battlefield.</>"
+<Red>※ O skill só pode ser usado na Forsaken Land ou Abyss Battlefield.</>"
 85030,Aegis Domain,"No lançamento de skill, reduz o dano recebido dos jogadores por membros do clã próximos ao Clan Beacon por 1 minuto.
 <Red>※ O skill só pode ser usado em Forsaken Land ou Abyss Battlefield.</>"
 85031,Aegis Domain,"No lançamento de skill, reduz o dano recebido dos jogadores por membros do clã próximos ao Clan Beacon por 1 minuto.
@@ -1003,7 +1003,7 @@ No lançamento de skill, aumenta as capacidades de combate do Warden por 3 minut
 85041,Beacon Veil,"No lançamento de skill, concede um efeito de Invisibilidade ao Clan Beacon por 1 minuto.
 <Red>※ O skill só pode ser usado em Forsaken Land ou Abyss Battlefield.</>"
 85050,Frontline of Life,"No lançamento de skill, aumenta muito o HP Cura, recuperação de MP e poção de cura de HP para todos os membros do clã em um raio de 50 m por 1 minuto.
-<Red>※ O skill só pode ser usado na Terra Abandonada ou Abyss Battlefield.</>"
+<Red>※ O skill só pode ser usado na Forsaken Land ou Abyss Battlefield.</>"
 85060,Breath of Resurgence,"Aumenta a cura de HP ao reaparecer no Clan Beacon por 3 minutos
 <Red>※ O skill só pode ser usado em Forsaken Land ou Abyss Battlefield.</>"
 85061,Breath of Resurgence,"Aumenta a cura de HP ao reaparecer no Clan Beacon por 3 minutos
@@ -1011,17 +1011,17 @@ No lançamento de skill, aumenta as capacidades de combate do Warden por 3 minut
 85070,Battle Biding,"No lançamento de skill, aumenta as estatísticas de combate de todos os membros do clã em um raio de 50 m por 30 segundos.
 <Red>※ O skill só pode ser usado em Forsaken Land ou Abyss Battlefield.</>"
 85080,Vanguard Breakthrough,"No lançamento de skill, aumenta muito a velocidade de movimento para todos os membros do clã em um raio de 50m por 15 segundos.
-<Red>※ O skill só pode ser usado na Terra Abandonada ou Abyss Battlefield.</>"
+<Red>※ O skill só pode ser usado na Forsaken Land ou Abyss Battlefield.</>"
 85090,Descent Tactics,"Redefine a descida dos membros do clã Cooldowns de Skill.
-<Red>※ O skill só pode ser usado na Terra Abandonada ou em Abyss Battlefield.</>"
+<Red>※ O skill só pode ser usado na Forsaken Land ou em Abyss Battlefield.</>"
 85091,Descent Tactics,"Redefine a descida dos membros do clã Cooldowns de Skill.
-<Red>※ O skill só pode ser usado na Terra Abandonada ou em Abyss Battlefield.</>"
+<Red>※ O skill só pode ser usado na Forsaken Land ou em Abyss Battlefield.</>"
 85100,Battlefield Summons,"Reúne à força membros do clã dentro da mesma área para a localização do Líder do Clã.
 Não é possível convocar membros do clã que estejam morto.
-<Red>※ O skill só pode ser usado na Terra Abandonada ou Abyss Battlefield.</>"
+<Red>※ O skill só pode ser usado na Forsaken Land ou Abyss Battlefield.</>"
 85101,Battlefield Summons,"Reúne à força membros do clã dentro da mesma área para a localização do Líder do Clã.
 Não é possível convocar membros do clã que estejam morto.
-<Red>※ O skill só pode ser usado na Terra Abandonada ou Abyss Battlefield.</>"
+<Red>※ O skill só pode ser usado na Forsaken Land ou Abyss Battlefield.</>"
 85110,Focus Mark,"Aplica uma marca a um inimigo alvejado pelos membros autorizados por 10 segundos.
 Aumenta o dano causado pelos membros do clã contra alvos marcados.
 <Red>※ O skill só pode ser usado em Forsaken Land ou Abyss Battlefield.</>"

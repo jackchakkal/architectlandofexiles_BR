@@ -10,7 +10,7 @@
 9,
 101,Codex Observatório
 102,Codex Transmissor
-103,Codex Portão de teste
+103,Codex Trial Gate
 104,Codex Baú do tesouro
 105,Codex Remanescentes de Giant
 111,Teste de direção de câmera de gadget 1
@@ -511,11 +511,11 @@
 4010101,Scything Barrens Trial Gate
 4010102,
 4010103,
-4010201,Portão de teste de jardim de Giant
+4010201,Trial Gate de jardim de Giant
 4010210,Dispositivo Antigo Suspeito
 4010211,
 4010212,Airflow Device
-4010301,Pulsing Ridge Portão de Teste
+4010301,Pulsing Ridge Trial Gate
 4010401,Starfall Plateau Trial Gate
 4010501,Twisted Elysium Trial Gate
 4010502,Twisted Elysium Trial Gate
@@ -698,15 +698,15 @@
 10111202,Tesseract Fragmento
 10111203,Observatório arruinado
 10111204,
-10111205,Disco de gravação
-10111206,Relatório Formal
+10111205,Record Disc
+10111206,Formal Report
 10111207,Madeira
 10111208,Solo
 10111209,Gancho de cabelo em madrepérola
 10111210,Evening Primrose
 10111211,Flor Estrela do Mar
 10111212,Instalação da Placa de Sinalização
-10111213,Snakegourd roxo
+10111213,Purple Snakegourd
 10111214,Manchas de Sangue
 10111215,Resíduo Estranho
 10111216,
@@ -731,7 +731,7 @@
 10111235,
 10111236,
 10111237,Pesquisar por criança
-10111238,Disco de gravação
+10111238,Record Disc
 10111239,Árvore caída
 10111240,Trilha Trace
 10111241,Manchas de Sangue
@@ -894,7 +894,7 @@
 10510120,
 10510121,
 10510122,
-10510123,Diário de Exploração
+10510123,Exploration Journal
 10510124,Tall Tree
 10510125,Emaranhamento de Éter
 10510126,Ruins of the Tower
@@ -952,7 +952,7 @@
 10232202,Lavando Baba
 10232203,Barril de carvalho
 10232204,Forno
-10232205,Torta de Sardinha
+10232205,Sardine Pie
 10232206,Camarão frito com algas marinhas
 10232207,Abaixe a cesta
 10232208,Giant Cacto
@@ -990,7 +990,7 @@
 10232240,
 10232241,
 10232242,
-10232243,Adaga de formato incomum
+10232243,Unusually Shaped Dagger
 10232244,Éter
 10232245,
 10232250,Éter
@@ -1048,7 +1048,7 @@
 10330149,
 10330150,Colmeia
 10330151,
-10330152,Carta Secreta
+10330152,Secret Letter
 10330153,Tranquilizar
 10330154,Implantação de Beacon
 10330155,Enviar sinal
@@ -1094,7 +1094,7 @@
 10430134,Implantar pombo-correio
 10430135,Instale a amostra
 10430136,Deixe o boneco de neve
-10430137,Usar Experimental Poção
+10430137,Usar Experimental Potion
 10430138,Colete Ervas
 10430139,
 10530101,Ervas Medicinais
@@ -1174,7 +1174,7 @@
 10131112,
 10131113,Pacote de bagagem
 10131114,Manchas de Sangue
-10131115,Carta Ensangüentada
+10131115,Bloodied Letter
 10131116,Pacote de bagagem
 10131117,Exame de cadáver
 10131118,Oasis Water
@@ -1210,7 +1210,7 @@
 10231101,
 10231102,Material de Reforço
 10231103,Cola Natural
-10231104,Licor Medicinal
+10231104,Medicinal Liquor
 10231105,
 10231106,Instalação do Local da Mina
 10231107,Manchas de Sangue
@@ -1271,7 +1271,7 @@
 10431111,
 10431112,
 10431113,
-10431114,Dispositivo de Gravação Visual
+10431114,Visual Recording Device
 10431115,
 10531101,
 10150301,Pegadas suspeitas
@@ -1306,7 +1306,7 @@
 10150701,Reflita sobre
 10150702,Reflita sobre
 10150703,Expositor
-10150801,Recibo de entrega
+10150801,Delivery Receipt
 10150802,Entrega de aparência pesada
 10150803,Entrega de aparência leve
 10150804,Log de entrada
@@ -1343,11 +1343,11 @@
 10250507,Replica Seed
 10160100,
 10160101,Flor caída
-10160102,Carta Secreta
-10160103,Carta Secreta
-10160104,Carta Secreta
-10160105,Carta Secreta
-10160106,Carta Secreta
+10160102,Secret Letter
+10160103,Secret Letter
+10160104,Secret Letter
+10160105,Secret Letter
+10160106,Secret Letter
 10160107,Flor
 10160108,Pensamento
 10160109,Pedaço de papel
@@ -1372,7 +1372,7 @@
 10160128,
 10160129,
 10160130,Espacial As moedas de fantasia especial Rift
-10160131,Licor Taima
+10160131,Taima Liquor
 10160132,Piso Brilhante
 10160133,Parede Coberta de Videiras
 10160138,
@@ -1381,11 +1381,11 @@
 10160141,
 10160142,Cliff Edge
 10160143,
-10160144,Bolsa de presente
+10160144,Gift Pouch
 10160145,
 10160146,
 10160147,Rack de secagem de couro
-10160148,Diário
+10160148,Diary
 10160149,Conforto
 10160150,Receber nota
 10160151,Receber memória
@@ -1395,8 +1395,8 @@
 10160155,Éter
 10160156,Fragmento de Ruína
 10160157,Cadáver não identificado
-10160158,Relatório Formal
-10160159,Relatório Formal
+10160158,Formal Report
+10160159,Formal Report
 10160160,Marcação misteriosa
 10160161,Ironblood Brigade Cadáver
 10160162,Roupas esfarrapadas
@@ -1406,7 +1406,7 @@
 10160166,
 10160167,Ponto de comunicação
 10160168,
-10160170,Dispositivo de Gravação Visual
+10160170,Visual Recording Device
 10160171,O que Simon deixou para trás
 10160172,Investigar
 10160173,Pacote de bagagem
@@ -1454,15 +1454,15 @@
 10160243,
 10160244,Onde a Luz se Reúne
 10160245,
-10160246,Dispositivo de Gravação Visual
+10160246,Visual Recording Device
 10160247,Organizar Pensamentos
 10160248,Flor roxa
-10160249,Dispositivo de Gravação Visual
+10160249,Visual Recording Device
 10160250,
 10160251,Flor roxa
 10160252,Pena misteriosa
 10160253,Adaga Cintilante
-10160254,Dispositivo de Gravação Visual
+10160254,Visual Recording Device
 10160261,Recuperar
 10160262,Reflita sobre
 10160263,Abaixe

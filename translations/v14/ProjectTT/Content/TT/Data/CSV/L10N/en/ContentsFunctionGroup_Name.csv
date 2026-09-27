@@ -19,7 +19,7 @@
 110,Desconto na loja geral <Yellow>[-{IntParam}%]</>,
 111,Contagem de mortes de monstros +<Yellow>[{IntParam}]</> em {Param},Comissão diária
 112,Contagem de mortes de monstros +<Yellow>[{IntParam}]</> em {Param},Comissão Semanal
-113,<Yellow> Provação do árbitro Multi-Clear</> disponível,
+113,<Yellow> Arbiter’s Ordeal Multi-Clear</> disponível,
 114,Arbiter’s Ordeal Tokens Diários <Yellow>[{IntParam}]</>,
 115,<Yellow>Engrenagem automática Desmontagem</> disponível,
 116,{Param} contagem <Yellow>[+{IntParam}]</>,Recuperação de pena de morte gratuita
@@ -38,7 +38,7 @@
 10008,Evento de tempo quente da Giant's Tower +{IntParam} hora(s),
 10009,"Taxa de queda de ouro, EXP e itens +{IntParam}%",
 10010,{Param} +<Yellow> [{IntParam} hora(s)]</>,Tempo de reprodução off-line
-90001,"EXP na Terra Abandonada <Yellow>{IntParam}+%</>
+90001,"EXP na Forsaken Land <Yellow>{IntParam}+%</>
 Tempo quente da Giant's Tower <Yellow>+8 horas</>",
 90002,Tempo quente da Giant's Tower <Yellow>+{IntParam} hora(s)</>,
 201,{Param} +<Yellow> [+{IntParam}%]</>,Velocidade de Ataque

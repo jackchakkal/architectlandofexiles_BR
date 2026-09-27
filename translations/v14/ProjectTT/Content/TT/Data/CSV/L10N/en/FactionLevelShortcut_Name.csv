@@ -1,10 +1,10 @@
 ﻿Id,Desc,Param
-1001,Desbloquear {Param} Nova pesquisa,Comerciante
-1002,Desbloquear {Param} Nova pesquisa,Comerciante
-1003,Desbloquear {Param} Nova pesquisa,Comerciante
+1001,Desbloquear {Param} Nova pesquisa,Merchant
+1002,Desbloquear {Param} Nova pesquisa,Merchant
+1003,Desbloquear {Param} Nova pesquisa,Merchant
 1004,Desbloquear passivo exclusivo Skill,
-1005,Desbloquear {Param} Nova pesquisa,Comerciante
-1006,Desbloquear {Param} Nova pesquisa,Comerciante
+1005,Desbloquear {Param} Nova pesquisa,Merchant
+1006,Desbloquear {Param} Nova pesquisa,Merchant
 1007,Obtenha Graça Única das constelações,
 1008,Obtenha Graça Única das constelações,
 2001,Aumento de tentativas de fabricação de {Param},Weapon Enhancement Stone
@@ -23,16 +23,16 @@
 2014,Obtenha Graça Única das constelações,
 3001,Aumento de tentativas de fabricação de {Param},Accessory Enhancement Stone
 3002,Aumento de tentativas de fabricação de {Param},Accessory Enhancement Stone
-3003,Adicione novos produtos na loja {Param},Artesão
-3004,Adicione novos produtos na loja {Param},Artesão
+3003,Adicione novos produtos na loja {Param},Artisan
+3004,Adicione novos produtos na loja {Param},Artisan
 3005,Desbloquear passivo exclusivo Skill,
 3006,Aumento de tentativas de fabricação de {Param},Accessory Enhancement Stone
-3007,Adicione novos produtos na loja {Param},Artesão
+3007,Adicione novos produtos na loja {Param},Artisan
 3008,Aumento de tentativas de fabricação de {Param},Accessory Enhancement Stone
 3009,Obtenha Graça Única das constelações,
 3010,Obtenha Graça Única das constelações,
-4001,Adicione novos produtos na loja {Param},Avaliador
-4002,Adicione novos produtos na loja {Param},Avaliador
+4001,Adicione novos produtos na loja {Param},Appraisor
+4002,Adicione novos produtos na loja {Param},Appraisor
 4003,Desbloquear passivo exclusivo Skill,
 4005,Obtenha Graça Única das constelações,
 4006,Obtenha Graça Única das constelações,

@@ -110,8 +110,8 @@
 40542,Campo de Batalha da Perdição Zone 6 (Repetível),Campo de Batalha da Perdição Zone 6 (Repetível),6
 40601,Derrote Abyss Battlefield Monstros,Derrote monstros Abyss Battlefield (repetível),1
 40602,Derrote os monstros da Giant's Tower,Derrote os monstros da Giant's Tower (repetível),1
-40603,Derrote monstros da Terra Abandonada,Derrote {RequiredStackCount} Monstros na Terra Abandonada,1000
-40604,Derrote monstros da Terra Abandonada,Derrote {RequiredStackCount} Monstros na Terra Abandonada,3000
+40603,Derrote monstros da Forsaken Land,Derrote {RequiredStackCount} Monstros na Forsaken Land,1000
+40604,Derrote monstros da Forsaken Land,Derrote {RequiredStackCount} Monstros na Forsaken Land,3000
 40605,Derrote os monstros da Giant's Tower,Derrote os monstros da Giant's Tower {RequiredStackCount} vezes,1000
 40606,Derrote os monstros da Giant's Tower,Derrote os monstros da Giant's Tower {RequiredStackCount} vezes,3000
 40607,Limpar Grande Incursão,Limpar Grande Incursão {RequiredStackCount} Tempos,1

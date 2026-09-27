@@ -88,10 +88,10 @@ ACTION_TYPE_TREASUREBOXMISSION_DESC1,Clique aqui para ir para o Santuário Etér
 ACTION_TYPE_TREASUREBOXMISSION_DESC2,Vá para [Name] Santuário Etéreo
 ACTION_TYPE_TREASUREBOXMISSION_NAME_LONG,Movendo para o Santuário Etéreo
 ACTION_TYPE_TREASUREBOXMISSION_NAME_SHORT,Descobriu um Santuário Etéreo disponível!
-ACTION_TYPE_TRIALGATE,<ActionTrialGate>[Portão de teste]</>
-ACTION_TYPE_TRIALGATE_DESC1,Clique aqui para ir para o Portal de Teste
+ACTION_TYPE_TRIALGATE,<ActionTrialGate>[Trial Gate]</>
+ACTION_TYPE_TRIALGATE_DESC1,Clique aqui para ir para o Trial Gate
 ACTION_TYPE_TRIALGATE_DESC2,Vá para [Name] Trial Gate
-ACTION_TYPE_TRIALGATE_NAME_LONG,Movendo para o Portão de Teste
+ACTION_TYPE_TRIALGATE_NAME_LONG,Movendo para o Trial Gate
 ACTION_TYPE_TRIALGATE_NAME_SHORT,Descobriu um Trial Gate disponível
 ACTION_TYPE_UNSUPPORT_GADGET_DESC,Mover para [Name]
 ACTION_TYPE_UNSUPPORT_LOCATION_DESC,Mover para [Name]
@@ -859,7 +859,7 @@ BROADCAST_EQUIPMENTCRAFTSUCCESS_MSG,[Name] criou <Grade[Value1]>[ItemName]</>.
 BROADCAST_EQUIPMENTENCHANTSUCCESS_MSG,[Name] aprimorou com êxito <Grade[Value1]>[ItemName]</> para +[Value2].
 BROADCAST_FIELDDROPITEM_MSG,[Name] adquiriu <Grade[Value1]>[ItemName]</> em [PlaceName].{jstag:}
 BROADCAST_HUNTING_FLAG_LOCKED_MSG,[CharacterName] ocupou um Santuário Vitalizante em [AreaName].
-BROADCAST_HUNTING_FLAG_LOCKING_MSG,Você gravou o Sanctuary Vitalizante. Defenda o Sanctuary para [Time].
+BROADCAST_HUNTING_FLAG_LOCKING_MSG,Você gravou o Santuário Vitalizante. Defenda o Santuário para [Time].
 BROADCAST_HUNTING_FLAG_UNLOCKED_MSG,Você pode gravar o Santuário Vitalizante em [AreaName].
 BROADCAST_HUNTING_FLAG_UNLOCKING_MSG,[CharacterName] gravou o Santuário Vitalizante. Você pode gravar novamente em [Time].
 BROADCAST_ITEMBOXREWARD_MSG,[Name] adquiriu <Grade[Value1]>[ItemName]</> em [SourceItemName].{jstag:}
@@ -1280,7 +1280,7 @@ CHAT_NONECLANUNIT,Disponível após ingressar em um Esquadrão de Clã.
 CHAT_NONEMESSAGE,Você não pode enviar mensagens neste canal.
 CHAT_NONEPARTY,Disponível após ingressar em um grupo.
 CHAT_OPTION_OFF,Desligado
-CHAT_OPTION_ON,Em
+CHAT_OPTION_ON,Ligado
 CHAT_OPTION_SUBTITLE_SYSTEM,Mensagem do Sistema
 CHAT_OPTION_TITLE,Ajustes do chat
 CHAT_POPUP_TITLE,Bate-papo
@@ -2052,7 +2052,7 @@ COMMISSIONQUEST_QUESTSELECTED_NONE_DESC,Nenhuma comissão selecionada.
 COMMISSIONQUEST_REFRESHLOCKED_NOASSET,[AssetName] insuficiente para refresh.{jstag:}
 COMMISSIONQUEST_RENEW_NO,Sem comissões para renovar.
 COMMISSIONQUEST_REWARD_DESC,Recompensa de conclusão
-COMMISSIONQUEST_TITLE,Casa de Comissões
+COMMISSIONQUEST_TITLE,Commission House
 COMMISSIONQUEST_UNTIL_REFRESH_DAILY,Até o reset da comissão
 COMMISSIONQUEST_UNTIL_REFRESH_WEEKLY,Até o reset da comissão
 COMMISSIONQUEST_UNTILRESET_DESC,Até o reset da base
@@ -2146,7 +2146,7 @@ COMMON_CHARACTER_DEL,Excluir personagem
 COMMON_CHARACTER_DEL_CANCEL,Cancelar exclusão de personagem
 COMMON_CHARACTER_INFO,Informações do personagem
 COMMON_CHARACTER_LEVEL,Lv.[Level]
-COMMON_CHARACTER_SELECT,Selecionar personagem
+COMMON_CHARACTER_SELECT,Select Character
 COMMON_CLAN,Clã
 COMMON_CLAN_JOIN,Ingressar no clã
 COMMON_CLAN_LEVEL,Lv.[Level]
@@ -2159,10 +2159,10 @@ COMMON_CLASS,Classe
 COMMON_CLASS_ALL,Todas as aulas
 COMMON_CLASS_ASSASSIN,Assassino
 COMMON_CLASS_BATTLEPRIEST,Sacerdote de batalha
-COMMON_CLASS_HUNTER,Caçador
-COMMON_CLASS_MAGE,Mago
+COMMON_CLASS_HUNTER,Hunter
+COMMON_CLASS_MAGE,Mage
 COMMON_CLASS_NAME,[Class]
-COMMON_CLASS_WARRIOR,Guerreiro
+COMMON_CLASS_WARRIOR,Warrior
 COMMON_CLOSE,Fechar
 COMMON_COLON_TIME_HH_MM,[hh]:[mm]
 COMMON_COLON_TIME_HH_MM_SS,[hh]:[mm]:[ss]
@@ -2241,7 +2241,7 @@ COMMON_DDHHMM,[d] dia(s) [h] hora(s) [m] min(s)
 COMMON_DEATH,Morte
 COMMON_DEL_LABEL,Excluir
 COMMON_DELETE,Excluir
-COMMON_DESOLATE_LANDS,Terra Abandonada
+COMMON_DESOLATE_LANDS,Abandoned Land
 COMMON_DIFFICULTY,Dificuldade
 COMMON_DIFFICULTY_HARD_AREA_WARNING,Esta é uma área de alta dificuldade. Recomendamos mudar para uma área mais segura.
 COMMON_DIRECTMOVE,Atalho
@@ -2738,7 +2738,7 @@ COMMON_WEDNESDAY_SHORT,Quarta
 COMMON_WHISPER_LABEL,Sussurro
 COMMON_WIN,Vitória
 COMMON_WITHDRAW,Sair
-COMMON_WORLDMAP,Terra Abandonada
+COMMON_WORLDMAP,Abandoned Land
 COMMON_WORLDMAP_BLOCK,O Mapa Mundial não está disponível no momento.
 COMMON_WORLDMAP_TOWN,Vila
 COMMON_WORLDMAP_HUNTINGGOUND,Campos de caça
@@ -2880,10 +2880,10 @@ COSTUME_COMPOSE_PROGRESS_SUBTITLE,Resultado de artesanato
 COSTUME_COMPOSE_PROGRESS_TARGET,Traje
 COSTUME_COMPOSE_RATE_LABEL,Chance de sucesso
 COSTUME_COMPOSE_RATESTEP,Nível[Value]
-COSTUME_COMPOSE_RATESTEP1,Nível 1
-COSTUME_COMPOSE_RATESTEP2,Nível 2
-COSTUME_COMPOSE_RATESTEP3,Nível 3
-COSTUME_COMPOSE_RATESTEP4,Nível 4
+COSTUME_COMPOSE_RATESTEP1,Level 1
+COSTUME_COMPOSE_RATESTEP2,Level 2
+COSTUME_COMPOSE_RATESTEP3,Level 3
+COSTUME_COMPOSE_RATESTEP4,Level 4
 COSTUME_COMPOSE_REGISTERAUTO,Registro automático
 COSTUME_COMPOSE_REGISTERMANY,Registrar [Value]
 COSTUME_COMPOSE_RESULT,Resultado da criação de traje
@@ -3256,7 +3256,7 @@ CREST_STONE_STATE_NOT_APPRAISAL,Não identificado
 CREST_STONE_TYPE_NAME_DESTINY,Pedra de Energia do Destino
 CREST_STONE_TYPE_NAME_DESTROY,Pedra de Energia da Destruição
 CREST_STONE_TYPE_NAME_INSTINCT,Pedra de Energia do Instinto
-CREST_STONE_TYPE_NAME_JUDGMENT,Pedra de Energia do Judgment
+CREST_STONE_TYPE_NAME_JUDGMENT,Pedra de Energia do Julgamento
 CREST_STONE_TYPE_NAME_MYSTERY,Pedra de Energia do Mistério
 CREST_STONE_TYPE_NAME_PROTECT,Pedra de Energia da Proteção
 CREST_STONE_TYPE_NAME_RESISTANCE,Pedra de Energia da Resistência
@@ -3276,7 +3276,7 @@ CREST_TITLE,Crista dos Antigos
 CREST_TYPE_DESTINY,Pedra de Energia do Destino
 CREST_TYPE_DESTROY,Pedra de Energia da Destruição
 CREST_TYPE_INSTINCT,Pedra de Energia do Instinto
-CREST_TYPE_JUDGMENT,Pedra de Energia do Judgment
+CREST_TYPE_JUDGMENT,Pedra de Energia do Julgamento
 CREST_TYPE_MYSTERY,Pedra de Energia do Mistério
 CREST_TYPE_PROTECT,Pedra de Energia da Proteção
 CREST_TYPE_RESISTANCE,Pedra de Energia da Resistência
@@ -3305,7 +3305,7 @@ CROWDCONTROL_IMPACT_NOT_USE,Chocado.
 CROWDCONTROL_ITEM_NOT_USE,Uso de item desativado.
 CROWDCONTROL_KNOCKBACK_NOT_USE,Repelido.
 CROWDCONTROL_KNOCKDOWN_NOT_USE,Derrubado.
-CROWDCONTROL_KNOCKUP_NOT_USE,Airborne.
+CROWDCONTROL_KNOCKUP_NOT_USE,Aerotransportado.
 CROWDCONTROL_MINDCONTROL_NOT_USE,Mente controlada.
 CROWDCONTROL_OVERPOWER_NOT_USE,Suprimida.
 CROWDCONTROL_POLYMORPH_NOT_USE,Polimorfo.
@@ -3760,24 +3760,24 @@ FACTION_GRADE_REWARD_TITLE,Recompensa por realização de nota
 FACTION_GRADE_TITLE,Afinidade
 FACTION_GUIDEBOOK_NOTHING_QUEST,Ainda não há tarefas para prosseguir.
 FACTION_GUIDEBOOK_TIP,Conclua tarefas sequenciais para adquirir recompensas.
-FACTION_GUIDEBOOK_TITLE,Tarefa da Aliança dos Aventureiros
+FACTION_GUIDEBOOK_TITLE,Tarefa da Adventurers' Alliance
 FACTION_ILLUSTRATION_AREA_DESC,Selecione uma região.
 FACTION_INFO_COLLECTION,Status de pesquisa
 FACTION_INFO_GUIDEBOOK,Status da tarefa
 FACTION_INFO_MISSION,Status de conquista
-FACTION_INFO_TITLE,Informações básicas da Aliança de Aventureiros
+FACTION_INFO_TITLE,Informações básicas da Adventurers' Alliance
 FACTION_ITEM_CHOICE_DESC,Selecione um item para doar.
 FACTION_LEVEL_REWARD_NEXT_TITLE,Próxima recompensa
 FACTION_LEVEL_REWARD_PREVIEW_TITLE,Recompensa principal
-FACTION_MENU_COLLECTION,Pesquisa da Aliança de Aventureiros
-FACTION_MENU_MAIN,Afinidade da Aliança de Aventureiros
+FACTION_MENU_COLLECTION,Pesquisa da Adventurers' Alliance
+FACTION_MENU_MAIN,Afinidade da Adventurers' Alliance
 FACTION_MISSION_COMPLETE_COUNT,[CurrentValue] / [MaxValue]
 FACTION_MISSION_NOT_TAST_MSG,Troféu completo para receber.
 FACTION_MISSION_REWARD_ALREADY_MSG,Já foi reivindicado.
 FACTION_MISSION_TIP,Complete o troféu para aumentar a afinidade.
 FACTION_MISSION_TIP2,Complete consistentemente o troféu relacionado para receber recompensas generosas.
-FACTION_MISSION_TITLE,Conquistas da Aliança de Aventureiros
-FACTION_MISSTION_TITLE,Missões da Aliança de Aventureiros
+FACTION_MISSION_TITLE,Conquistas da Adventurers' Alliance
+FACTION_MISSTION_TITLE,Missões da Adventurers' Alliance
 FACTION_QUICK_CRAFT_BTN_MOVE_RECIPE,Vá para a receita
 FACTION_REARD_GET,Reivindicar recompensa
 FACTION_RESEARCH_ALL,Pesquisa completa
@@ -3789,7 +3789,7 @@ FACTION_RESEARCH_OPTION_NOTHING,Nenhum efeito de realização de pesquisa.
 FACTION_SELECT_DONATION_FULL_MSG,"Com os itens atualmente registrados, você pode atingir o Rank de Afinidade máximo."
 FACTION_SHOP_PURCHASE_COMPLETE,Compra em lote concluída.
 FACTION_SHOP_TIP,Aumenta a afinidade para comprar vários produtos.
-FACTION_SHOP_TITLE,Loja da Aliança de Aventureiros
+FACTION_SHOP_TITLE,Loja da Adventurers' Alliance
 FACTION_SUB_TAB_NAME,[FactionName] Guilda [TabName]
 FACTION_TEXT,[Name] Guilda
 FACTION_TEXT_TITLE,Guilda
@@ -3800,7 +3800,7 @@ FACTION_TRIBUTE_NO_LIST,Nenhum item disponível para doação.
 FACTION_TRIBUTE_RESULT_HINT_TEXT_NOTHING_INFO,Nenhuma informação de aproveitamento de notas.
 FACTION_TRIBUTE_RESULT_HINT_TEXT_NOTHING_REWARD,Nenhuma recompensa por conquista de nota pode ser obtida.
 FACTION_TRIBUTE_TIP,Doe medalhas para aumentar a Afinidade.
-FACTION_TRIBUTE_TITLE,Apoio à Aliança dos Aventureiros
+FACTION_TRIBUTE_TITLE,Apoio à Adventurers' Alliance
 FIELDBOSS_CONTRIBUTION_CONTRIBUTIONPOPUP_MYCONTRIBUITION,Minha Contribuição
 FIELDBOSS_CONTRIBUTION_RESULTPOPUP_CONTRIBUTIONLISTPOPUP,Lista de Contribuições
 FIXEDTERM_DELETEDENDEVENT_DESC,Até o término de [EventName]
@@ -4184,7 +4184,7 @@ INVENTORY_CATEGORY_SILENCESTARSTONE,Relíquia do Abismo
 INVENTORY_CATEGORY_TACTICSTARSTONE,Relíquia da Arena Sagrada
 INVENTORY_CATEGORY_STRIFESTARSTONE,Relíquia do Conflito
 INVENTORY_CATEGORY_HONORSTARSTONE,Relíquia da Honra
-INVENTORY_CATEGORY_REDEMPTIONSTARSTONE,Relíquia da Salvation
+INVENTORY_CATEGORY_REDEMPTIONSTARSTONE,Relíquia da Salvação
 INVENTORY_CATEGORY_STARSTONE,Relíquia Sagrada
 INVENTORY_CATEGORY_USEITEM,Consumíveis
 INVENTORY_CATEGORY_WEAPONARMOR,Equipamentos
@@ -4419,7 +4419,7 @@ ITEM_TYPE_MP_POTION,Poção de MP
 ITEM_TYPE_OBEDIENCE_STAR_STONE,Relíquia da Subjugação
 ITEM_TYPE_OPTION_MATERIAL,Equipamento Powercore
 ITEM_TYPE_QUESTETC,Itens da missão
-ITEM_TYPE_REDEMPTION_STAR_STONE,Relíquia Sagrada da Salvation
+ITEM_TYPE_REDEMPTION_STAR_STONE,Relíquia Sagrada da Salvação
 ITEM_TYPE_RETURN,Teleporte Pedra Mágica
 ITEM_TYPE_RETURNSCROLL,Teleport Scroll
 ITEM_TYPE_SILENCE_STAR_STONE,Relíquia do Abismo
@@ -4679,7 +4679,7 @@ MSG_SELECT_SERVER,Selecionar servidor
 MSG_SERVER_LIST_EMPTY_HINT,Aguardando lista de servidores...
 MSG_TITLE_COPYRIGHT,"© 2025. Aqua Tree, Inc. Todos os direitos reservados. Publicado por DRIMAGE."
 MSG_TITLE_COPYRIGHT_ATTACKTITAN,"©Hajime Isayama, KODANSHA/“ATTACK ON TITAN” O Comitê de Produção da Temporada Final."
-MSG_TOUCH_THE_SCREEN,Pressione Tab para abrir o portal para a Terra Esquecida.
+MSG_TOUCH_THE_SCREEN,Pressione Tab para abrir o portal para a Forsaken Land.
 MULTI_COMBINATION_MATERIAL_CONSUMPTION_NOTIFICATION,Tentativa de fusível usando materiais estrela [Grade].
 NAME_INVALID_LENGTH,[Min]-[Max] caracteres permitidos.
 NAME_INVALID_NUMBER,Números não permitidos.
@@ -4958,10 +4958,10 @@ PASS_BUY_PREMIUMPASS_OPEN_DESC,As recompensas Premium já estão disponíveis.
 PASS_BUY_PREMIUMPASS_OPEN_TITLE,Desbloquear passe premium
 PASS_CATEGORY_LEVEL,Nível
 PASS_CATEGORY_LEVEL2,Nível
-PASS_CATEGORY_MISSION,Passe de temporada
+PASS_CATEGORY_MISSION,Season Pass
 PASS_CATEGORY_MISSION2,Missão
 PASS_CATEGORY_SHOP,Passe de compra
-PASS_CONTENT_TITLE,Passe de temporada
+PASS_CONTENT_TITLE,Season Pass
 PASS_EXPIRED_MESSAGE,A duração expirou. As recompensas não reclamadas serão enviadas para a caixa de correio.
 PASS_LEVEL_EXP_BUY,Nível de compra acima
 PASS_LEVEL_TIP_DESC,Você pode adquirir Recompensas Repetidas durante a temporada.
@@ -4972,15 +4972,15 @@ PASS_MAXLV_TEXT,Máximo
 PASS_MENU_DAILYMISSION,Missão Diária
 PASS_MENU_FREEREWARD,Recompensas grátis
 PASS_MENU_LEVEL,Passar Nível
-PASS_MENU_LEVELGUIDE,Você pode aumentar os níveis do passe de temporada completando missões.
-PASS_MENU_LEVELGUIDE_TITLE,Selecionando Passe de Temporada.
+PASS_MENU_LEVELGUIDE,Você pode aumentar os níveis do Season Pass completando missões.
+PASS_MENU_LEVELGUIDE_TITLE,Selecionando Season Pass.
 PASS_MENU_LEVELUP,Nível de compra
 PASS_MENU_LEVELUP_AFTER,Após subir de nível
 PASS_MENU_LEVELUP_VALUE,Estágio de nível
-PASS_MENU_SEASONMISSION,Passe de temporada
+PASS_MENU_SEASONMISSION,Season Pass
 PASS_MENU_WEEKLYMISSION,Missão semanal
 PASS_MISSION_TAB_DAILY,Missão Diária
-PASS_MISSION_TAB_SEASON,Passe de temporada
+PASS_MISSION_TAB_SEASON,Season Pass
 PASS_MISSION_TAB_WEEKLY,Missão semanal
 PASS_NAME_PAIDREWARD1,[Name1]
 PASS_NAME_PAIDREWARD2,[Name2]
@@ -4988,7 +4988,7 @@ PASS_NEED_PREMIUM_MESSAGE,Disponível ao comprar Recompensas Premium.
 PASS_NONE_SYSTEM_MSG,Atualmente não em andamento.
 PASS_NORMAL_REWARD_LABEL,Recompensas padrão
 PASS_POPUP_BUY,"Compre [Name]{jstag:,} para desbloquear o acesso à recompensa.
-Toque em Ir para ir para a Loja do Passe de Temporada."
+Toque em Ir para ir para a Loja do Season Pass."
 PASS_POPUP_REPEATDESC1,Repetir Recompensas
 PASS_POPUP_REPEATDESC2,"Depois de atingir o nível máximo, as Recompensas de Repetição ficam disponíveis. Se você atingir um nível de repetição durante a temporada 
 , poderá reivindicar recompensas."
@@ -5004,7 +5004,7 @@ PASS_SHOP_GUIDE1,[Value] saiu até o final.
 PASS_SHOP_GUIDE2,"Esta compra será aplicada imediatamente e pode limitar seu direito de cancelamento.
 Se você concordar, pressione “Comprar”."
 PASS_TITLE_NAME,[Name]
-PASS_UPGRADE_BTN_TEXT,Melhorar passe
+PASS_UPGRADE_BTN_TEXT,Melhorar Season Pass
 PASSIVESKILL_COMMON_DESC,Compartilhado
 PASSIVESKILL_EXPERT_DESC,Especializado
 PASSIVESKILL_EXPERT_TITLE,Especializado
@@ -5204,7 +5204,7 @@ QUEST_EVENT_LOCKED_TIME,[Time] até desmontar
 QUEST_MAIL_INVENTORY_FULL_SYSTEM_MSG,Enviado para sua caixa de correio devido a espaço insuficiente no inventário.
 QUEST_MENU_MOVE,Vá para o menu de missões
 QUEST_MENU_MOVE_ARCHIVE,Vá para o menu Arquivo
-QUEST_MENU_MOVE_FACTION,Vá para o menu da Aliança de Aventureiros
+QUEST_MENU_MOVE_FACTION,Vá para o menu da Adventurers Alliance
 QUEST_MENU_MOVE_GUIDEBOOK,Vá para o menu do guia
 QUEST_NAVIMESH_ERROR_HINTEXT,O destino está próximo. Vamos descobrir nós mesmos!
 QUEST_NONE_QUESTLIST,Nenhuma missão em andamento.
@@ -5249,15 +5249,15 @@ QUEST_TYPE_SEASONAL,Sazonal
 QUEST_TYPE_SUBCONTENTS,Progressão
 QUEST_TYPE_ABURU,Monstrosity Avistamentos
 QUEST_TYPE_FACTION,Adventurers Alliance
-QUEST_TYPE_FACTION_BLACKSMITH,<Faction>[Ferreiro]</>
-QUEST_TYPE_FACTION_CRAFTSMAN,<Faction>[Artesão]</>
-QUEST_TYPE_FACTION_EXPLORER,<Faction>[Aventureiro]</>
-QUEST_TYPE_FACTION_GUIDE,<Faction>[Guia]</>
-QUEST_TYPE_FACTION_HUNTER,<Faction>[Caçador]</>
-QUEST_TYPE_FACTION_MERCHANT,<Faction>[Mercador]</>
+QUEST_TYPE_FACTION_BLACKSMITH,<Faction>[Blacksmith]</>
+QUEST_TYPE_FACTION_CRAFTSMAN,<Faction>[Artisan]</>
+QUEST_TYPE_FACTION_EXPLORER,<Faction>[Adventurer]</>
+QUEST_TYPE_FACTION_GUIDE,<Faction>[Wayfinder]</>
+QUEST_TYPE_FACTION_HUNTER,<Faction>[Hunter]</>
+QUEST_TYPE_FACTION_MERCHANT,<Faction>[Merchant]</>
 QUEST_TYPE_FACTION_NEW,[Aliança [FactionName]]
 QUEST_TYPE_FACTION_QUESTNAME,[Value] missão(s) em andamento
-QUEST_TYPE_FACTION_RELICAPPRAISER,<Faction>[Avaliador]</>
+QUEST_TYPE_FACTION_RELICAPPRAISER,<Faction>[Appraiser]</>
 QUEST_TYPE_FACTION2,Aliança
 QUEST_TYPE_GUIDEBOOK,Manual
 QUEST_TYPE_SUB,Secundário
@@ -5309,7 +5309,7 @@ RATE_TITLE_VALUE,Valor
 RATE_WEBVIEW_TITLE,Probabilidades
 RECORD_BTN_SHOW,Veja o registro
 RECORD_CHALLENGEGATE,Trial Gates
-RECORD_CHALLENGEGATE_DESC,"Você pode entrar na Giant's Tower usando os dispositivos especiais espalhados pela Terra Abandonada.
+RECORD_CHALLENGEGATE_DESC,"Você pode entrar na Giant's Tower usando os dispositivos especiais espalhados pela Forsaken Land.
 Quando a torre foi descoberta pela primeira vez, muitos aventureiros ficaram presos lá dentro. Com o tempo, porém, superaram as provações e agora buscam novos desafios."
 RECORD_ELITE_MONSTER_DESC,Você deve derrotar os Monstros de Elite que vivem dentro da Giant's Tower.
 RECORD_ELITE_MONSTER_KILL,Derrote Monstros de Elite
@@ -5341,23 +5341,23 @@ RECORD_REWARD_TITLE,Recompensas do Codex
 RECORD_REWARDLIST,Todas as recompensas
 RECORD_SECTOR_SELECT,Selecionar domínio
 RECORD_SECTOR_TITLE,Selecionar domínio
-RECORD_TAB_FIELD,Terra Abandonada
+RECORD_TAB_FIELD,Abandoned Land
 RECORD_TAB_TOWEROFTITAN,Giant's Tower
 RECORD_TRANSMITDEVICE,Âncoras de Warp
-RECORD_TRANSMITDEVICE_DESC,"Presume-se que tenha sido criado pelos Antigos, este dispositivo de teletransporte é um dos principais meios de transporte na Terra Abandonada.
+RECORD_TRANSMITDEVICE_DESC,"Presume-se que tenha sido criado pelos Antigos, este dispositivo de teletransporte é um dos principais meios de transporte na Forsaken Land.
 Ele é dividido em âncoras de urdidura grandes, pequenas e monolíticas. Os usuários são aconselhados a ter cautela porque alguns foram abandonados em áreas perigosas."
-RECORD_TRANSMITDEVICE_OLD_DESC,"Presume-se que tenha sido criado pelos Antigos, este dispositivo de teletransporte é um dos principais meios de transporte na Terra Abandonada.
+RECORD_TRANSMITDEVICE_OLD_DESC,"Presume-se que tenha sido criado pelos Antigos, este dispositivo de teletransporte é um dos principais meios de transporte na Forsaken Land.
 Ele é dividido em âncoras de urdidura grandes, pequenas e monólitas. Os usuários são aconselhados a ter cuidado porque alguns foram abandonados em áreas perigosas.
 As âncoras de deformação perto de monólitos são especialmente subdesenvolvidas devido à explosão de éter. Está indisponível durante o Monolith War devido às altas emissões de Éter."
 RECORD_TRANSMITDEVICE_BATTLEFIELD_DESC,"Presumivelmente criado pelos Antigos, este dispositivo de teletransporte está disponível apenas para Clãs que reivindicaram uma fortaleza."
 RECORD_TREASUREBOX,Baú de tesouro
-RECORD_TREASUREBOX_DESC,"Baús de tesouro espalhados pela Terra Abandonada sejam remanescentes do Império Antigo. 
+RECORD_TREASUREBOX_DESC,"Baús de tesouro espalhados pela Forsaken Land sejam remanescentes do Império Antigo. 
 A Guilda dos Aventureiros ocasionalmente encomenda investigações sobre eles."
 RECORD_TREASUREBOX_TITLE,Baú de tesouro
 RECORD_TREASUREBOXEPIC,Santuário Etéreo
 RECORD_TREASUREBOXEPIC_DESC,"Uma relíquia que se acredita ter sido criada pelos nobres do Império Antigo.
-Espalhada pela Terra Abandonada, diz-se que concede tesouros raros para aqueles que superam suas provações."
-RECORD_TREASUREBOXSPECIAL_DESC,"Um baú de tesouro especial que você pode encontrar ao explorar a Terra Abandonada, que se acredita ser remanescente do Império Antigo. 
+Espalhada pela Forsaken Land, diz-se que concede tesouros raros para aqueles que superam suas provações."
+RECORD_TREASUREBOXSPECIAL_DESC,"Um baú de tesouro especial que você pode encontrar ao explorar a Forsaken Land, que se acredita ser remanescente do Império Antigo. 
 A Guilda dos Aventureiros ocasionalmente encomenda investigações sobre eles."
 RECORD_TREASUREBOXSPECIAL_TITLE,Baú de Tesouro Especial
 RECORD_TYPE_FIELDBOSS,Chefe
@@ -5368,7 +5368,7 @@ RECORD_TYPE_TREASUREBOXEPIC,Santuário Etéreo
 RECORD_TYPE_TREASUREBOXSPECIAL,Baú de Tesouro Especial
 RECORD_TYPE_TRIALGATE,Trial Gates
 RECORD_TYPE_VIEWPOINT,Observatório
-RECORD_VIEWPOINTPOPUP_DESC,"É usado para monitorar ameaças em toda a Terra Abandonada e transmitir informações sobre elas. 
+RECORD_VIEWPOINTPOPUP_DESC,"É usado para monitorar ameaças em toda a Forsaken Land e transmitir informações sobre elas. 
 Ugeralmente instalado em terreno elevado com uma visão clara, também é usado por aventureiros para verificar o perímetro."
 REGISTER_ENEMY_CLAN,Registrar inimigo
 REPLICASEED_ACTIVATED_ALARM,Ativar a Replica Seed de [BossName]
@@ -5377,7 +5377,7 @@ REPLICASEED_ACTIVATE_WARN,Os limites de coleta de recompensas são rastreados no
 REPLICASEED_ACTIVATE_WARN_MSG,"Meu personagem não pode coletar mais recompensas.
 Ativar a Replica Seed?"
 REPLICASEED_ALRDY_SPAWN_MSG,Já existe uma Replica Seed ativa.
-REPLICASEED_AUTOEXITTIME,Mudando-se para a Terra Abandonada em [ss]s.
+REPLICASEED_AUTOEXITTIME,Mudando-se para a Forsaken Land em [ss]s.
 REPLICASEED_BOSSNAME,gerado [Title] [BossName]
 REPLICASEED_CAN_SPAWN,Replicação de essência disponível
 REPLICASEED_GIVEUP,Abandonar Desafio
@@ -6020,7 +6020,7 @@ STAT_ACQUIRE_CONTENTS_GROUNDVEHICLE,Montaria
 STAT_ACQUIRE_CONTENTS_GUDUA,Memórias de Gudua
 STAT_ACQUIRE_CONTENTS_PASS,Passe premium
 STAT_ACQUIRE_CONTENTS_SKILL,Skill
-STAT_ACQUIRE_CONTENTS_CHARACTERTITLE,Título
+STAT_ACQUIRE_CONTENTS_CHARACTERTITLE,Title
 STAT_ACQUIRE_CONTENTS_DECORATIONCOSTUME,Decorações
 STAT_ACQUIRE_CONTENTS_TOTAL,Todos
 STAT_ACQUIRE_CONTENTS_WEAPONCOSTUME,Arma Phantom
@@ -6163,7 +6163,7 @@ TITLE_RECEIVED_SERVER_LIST,Lista de servidores recebidos.
 TITLE_STYLE_NAME_TAG,[Title]
 TITLE_STYLE_NAME_TAG_NPC,[Title]
 TITLE_TREASUREBOX_DESC,"Uma relíquia que se diz ter sido criada pelos nobres de um antigo império.
-Ela pode ser encontrada em toda a Terra Abandonada, 
+Ela pode ser encontrada em toda a Forsaken Land, 
 e diz-se que aqueles que passam em seus testes obtêm tesouros raros."
 TITLE_TREASUREBOX_NAME,Santuário Etéreo
 TOWER_OF_TITAN_EXIT_GUIDE,Você consumiu todo o Hot Time.
@@ -6260,7 +6260,7 @@ TOWEROFTITAN_KEY_EMPTY,Não há proprietário da Tocha de Ashur.
 TOWEROFTITAN_KEYONER_CHANGE,O dono da Tocha de Ashur mudou.
 TOWEROFTITAN_KEYONER_COMBATSTATUS_NOTI,A Tocha de Ashur retornou ao seu lugar original devido a um longo período sem combate.
 TOWEROFTITAN_KEYONER_NONE,A tocha de Ashur retornou ao seu lugar original.
-TOWEROFTITAN_LOBBY_EXIT_MESSAGE,Ir para a Terra Abandonada?
+TOWEROFTITAN_LOBBY_EXIT_MESSAGE,Ir para a Forsaken Land?
 TOWEROFTITAN_MASTERKEY,Tocha de Ashur
 TOWEROFTITAN_MASTERKEY_EMPTY,Nenhum alvo
 TOWEROFTITAN_MASTERKEY_LABEL,Tocha de Ashur
@@ -6284,14 +6284,14 @@ TOWEROFTITAN_NORMALSTAGE_TIP,Você pode caçar e derrotar o Floor-Bound Guardian
 TOWEROFTITAN_NOT_PREPARE_INFO,A porta da Giant's Tower do [Name] ainda está fechada. Ele será aberto diante de você em breve.
 TOWEROFTITAN_NOT_PREPARE_RULER,O Ruler of the Tower ainda não apareceu.
 TOWEROFTITAN_NOTENOUGH_ENTERITEM,Ingressos de entrada insuficientes para entrar.
-TOWEROFTITAN_POINT,Bênção do Gigante
+TOWEROFTITAN_POINT,Giant's Blessing
 TOWEROFTITAN_POINT_ACTIVE,Usar
-TOWEROFTITAN_POINT_CHARGE,Bênção do Gigante (Recarga)
-TOWEROFTITAN_POINT_LABEL_CURRENT,Bênção do Gigante atual
-TOWEROFTITAN_POINT_LABEL_DAILY,Bênção do Gigante diária
-TOWEROFTITAN_POINT_LABEL_MAX,Bênção do Gigante máxima
-TOWEROFTITAN_POINT_MAX,Não é mais possível recarregar a Bênção do Gigante.
-TOWEROFTITAN_POINT_OVER,"A Bênção do Gigante fornecida excede o limite máximo.
+TOWEROFTITAN_POINT_CHARGE,Giant's Blessing (Recarga)
+TOWEROFTITAN_POINT_LABEL_CURRENT,Giant's Blessing atual
+TOWEROFTITAN_POINT_LABEL_DAILY,Giant's Blessing diária
+TOWEROFTITAN_POINT_LABEL_MAX,Giant's Blessing máxima
+TOWEROFTITAN_POINT_MAX,Não é mais possível recarregar a Giant's Blessing.
+TOWEROFTITAN_POINT_OVER,"A Giant's Blessing fornecida excede o limite máximo.
 Proceder?"
 TOWEROFTITAN_POINT_VALUE,[CurrentValue] / [MaxValue]
 TOWEROFTITAN_RANK_1,1º Lugar
@@ -6316,8 +6316,8 @@ TOWEROFTITAN_SPOT_NEEDSELECTSPOT,Deve selecionar uma zona de entrada.
 TOWEROFTITAN_STAGERULER_LABEL,Supervisor de Andar
 TOWEROFTITAN_TIME_CHARGE,Tempo quente da Giant's Tower Recarregue
 TOWEROFTITAN_TIME_NOHAVE,Sem tempo
-TOWEROFTITAN_TIME_STOP,O personagem morreu. Consumo de bênção de Giant suspenso.
-TOWEROFTITAN_TIME_TIP,Giant A bênção de Giant não é consumida no andar atual.
+TOWEROFTITAN_TIME_STOP,O personagem morreu. Consumo de Giant's Blessing suspenso.
+TOWEROFTITAN_TIME_TIP,Giant A Giant's Blessing não é consumida no andar atual.
 TOWEROFTITAN_TIP_GUIDE_DESC,"[Regras de recarga de tempo básico semanal]
 - O tempo básico é renovado por <Yellow>[Value1]</> todas as semanas na reinicialização semanal <Yellow> time</>.
 - O tempo básico máximo é [Value1] e o tempo restante não se acumula.
@@ -6376,7 +6376,7 @@ TRIALGATE_DUNGEON_CONTRIBUTION_TIPTEXT,"A contribuição é arredondada para a s
 A soma das probabilidades arredondadas pode não ser igual a 100%."
 TRIALGATE_DUNGEON_CONTRIBUTION_TIPTITLE,Contribuição total
 TRIALGATE_DUNGEON_DIFFICULTY1,Combate padrão
-TRIALGATE_DUNGEON_DIFFICULTY2,Difícil
+TRIALGATE_DUNGEON_DIFFICULTY2,Hard
 TRIALGATE_DUNGEON_DIFFICULTY3,Extremo
 TRIALGATE_DUNGEON_DIFFICULTY4,Pesadelo
 TRIALGATE_DUNGEON_DIFFICULTY5,Inferno
@@ -6400,10 +6400,10 @@ TRIALGATE_DUNGEON_MATCHING_DUNGEONNAMEWAITING,Buscando partida: [DungeonName]…
 TRIALGATE_DUNGEON_MODE_PARTY,Cooperativo
 TRIALGATE_DUNGEON_MODE_SOLO,Privado
 TRIALGATE_DUNGEON_NOT_DISCORVERY_MOVE,O Trial Gate ainda não foi descoberto. Ative as Warp Anchors para revelar sua localização. Ir agora?
-TRIALGATE_DUNGEON_PARTY_AUTOEXITTIME,Mudando-se para a Terra Abandonada em [ss]s.
+TRIALGATE_DUNGEON_PARTY_AUTOEXITTIME,Mudando-se para a Forsaken Land em [ss]s.
 TRIALGATE_DUNGEON_PARTY_CHECKDUNGEONENTER,Você entrará automaticamente quando todos os membros estiverem prontos.
 TRIALGATE_DUNGEON_PARTY_DEATHWAITNOTI,"Após o renascimento, você ressuscitará no ponto inicial da masmorra.
-Se você desistir do desafio, você deixará o Grupo e retornará à Terra Abandonada."
+Se você desistir do desafio, você deixará o Grupo e retornará à Forsaken Land."
 TRIALGATE_DUNGEON_PARTY_ENTER_SELECTTIME,[s] segundos restantes.
 TRIALGATE_DUNGEON_PARTY_ENTERCOSTNOTI,Use [Count] Rift Seals para obter uma recompensa.
 TRIALGATE_EVENT_DUNGEON_PARTY_ENTERCOSTNOTI,Use [Count] Aberrant Rift Seals para obter uma recompensa.
@@ -6440,7 +6440,7 @@ TRIALGATE_DUNGEON_PARTY_MOVESHOP,Vá para Rift Shop
 TRIALGATE_DUNGEON_RETRY,Tentar novamente
 TRIALGATE_DUNGEON_START_HINTTEXT,A masmorra começará em breve.
 TRIALGATE_DUNGEON_TIMEADD,[s]s
-TRIALGATE_DUNGEONMISSION_DEFENSENPC,Guardião Ancestral
+TRIALGATE_DUNGEONMISSION_DEFENSENPC,Ancient Guardian
 TRIALGATE_MATINGWAITING_CANCEL,A combinação de [DungeonName] foi cancelada.
 TRIALGATE_MATINGWAITING_DESC,Buscando partida: [DungeonName]…
 TRIALGATE_MISSION_SCORE_BUFFCARD,Blessing
@@ -6450,7 +6450,7 @@ TRIALGATE_MISSION_SCORE_GADGETCONTROLCOUNT_HELP,Ajude os feridos
 TRIALGATE_MISSION_SCORE_GADGETCONTROLCOUNT_RANDOMBOX,Abra a caixa suspeita
 TRIALGATE_MISSION_SCORE_ITEMUSELIMIT_HPPOTIONTYPE,Poção de HP
 TRIALGATE_MISSION_SCORE_NPCHPLIMIIT_DEFENSELEADER,Alvo de proteção
-TRIALGATE_MISSION_SCORE_NPCHPLIMIIT_DEFENSENPC,Guardião Ancestral
+TRIALGATE_MISSION_SCORE_NPCHPLIMIIT_DEFENSENPC,Ancient Guardian
 TRIALGATE_MSG_COMPLETED,Não é possível ir para um Trial Gate já concluído.
 TRIALGATE_MSG_MOVE_PREV_DIFFICULTY,Apenas Trial Gates da dificuldade atual estão disponíveis.
 TRIALGATE_MSG_PREV_DIFFICULTY_MOVE,Não é possível ir para um Trial Gate já concluído.
@@ -6533,10 +6533,10 @@ VEHICLE_COMPOSE_PROGRESS_SUBTITLE,Resultado de artesanato
 VEHICLE_COMPOSE_PROGRESS_TARGET,Montagem
 VEHICLE_COMPOSE_RATE_LABEL,Chance de sucesso
 VEHICLE_COMPOSE_RATESTEP,Nível[Value]
-VEHICLE_COMPOSE_RATESTEP1,Nível 1
-VEHICLE_COMPOSE_RATESTEP2,Nível 2
-VEHICLE_COMPOSE_RATESTEP3,Nível 3
-VEHICLE_COMPOSE_RATESTEP4,Nível 4
+VEHICLE_COMPOSE_RATESTEP1,Level 1
+VEHICLE_COMPOSE_RATESTEP2,Level 2
+VEHICLE_COMPOSE_RATESTEP3,Level 3
+VEHICLE_COMPOSE_RATESTEP4,Level 4
 VEHICLE_COMPOSE_REGISTERAUTO,Registro automático
 VEHICLE_COMPOSE_REGISTERMANY,Registrar [Value]
 VEHICLE_COMPOSE_RESULT,Resultado da transmutação da montaria
@@ -6679,7 +6679,7 @@ VENDING_PRIZE_NOTI,Vencedor! Sorteio Giant’s Vending Machine!
 VENDING_PRIZE_TIME,<Yellow>[Time]</> até que o vencedor seja revelado
 VENDING_REMAIN_TIME,[Time] até a próxima ativação
 VENDING_TIP,Insira um ticket para receber diversas recompensas.
-VENDING_TITLE,Máquina de venda
+VENDING_TITLE,Vending Machine
 VENDING_UI_LABEL1,Info do vencedor
 VENDING_UI_LABEL2,Lista de recompensas
 VENDING_UI_USE_BTN,Inserir ticket
@@ -6838,12 +6838,12 @@ WORLDMAP_TAB_SECTORINVASION,Grande Incursão
 WORLDMAP_TAB_BATTLEFIELDMONOLITH,Monolith War
 WORLDMAPINFO_CLANBOSSRAIDPORTAL_DESC,"Um artefato misterioso que serve como ponto de reaparecimento para membros caídos do clã.
 Quando usado pelo Líder do Clã, todos os membros do Clã são instantaneamente convocados para seu local."
-WORLDMAPINFO_INVASION_DESC,"Este portal peculiar surge com uma certa probabilidade em toda a Terra Abandonada, convocando monstros da Torre.
+WORLDMAPINFO_INVASION_DESC,"Este portal peculiar surge com uma certa probabilidade em toda a Forsaken Land, convocando monstros da Torre.
 Você pode obter vários itens raros que de outra forma seriam difíceis de encontrar."
 WORLDMAPINFO_PREMIUMVENDINGMACHINE_DESC,"Esta máquina de venda especial é ativada em horários definidos.
 Com rumores de saques ocasionais de alto nível, muitos estão se reunindo aqui, ansiosos para testar sua sorte."
 WORLDMAPINFO_SECTORINVASION_BOSS_DESC,"Um ponto de incursão onde uma energia poderosa surge. Quando a Grande Incursão atinge o seu auge, um monstro temível emerge – ficando ainda mais forte dependendo do grau de purificação final da Incursão."
-WORLDMAPINFO_TESSERACTSHARD_DESC,"A Paradise Restoration Society desenvolveu este dispositivo misterioso, modelado após a Incursão, para invocar monstros da Terra Abandonada. Um Tesseract só pode ser instalado em domínios com comprimento de onda correspondente. O dispositivo desaparecerá automaticamente se nenhum jogador estiver ao seu alcance enquanto estiver ativo."
+WORLDMAPINFO_TESSERACTSHARD_DESC,"A Paradise Restoration Society desenvolveu este dispositivo misterioso, modelado após a Incursão, para invocar monstros da Forsaken Land. Um Tesseract só pode ser instalado em domínios com comprimento de onda correspondente. O dispositivo desaparecerá automaticamente se nenhum jogador estiver ao seu alcance enquanto estiver ativo."
 WORLDMAP_EROSION_STAT_VALUE,[ErosionName] chance: <Yellow>[Value1]%</> (minha resistência <Blue>[Value2]%</>)
 WORLDMAP_EROSION_STAT_VALUE_SHORTAGE,[ErosionName] chance: <Yellow>[Value1]%</> (minha resistência <Red>[Value2]%</>)
 WORLDSECTOR_NEW_DISCOVER,Novo reino
@@ -6967,8 +6967,8 @@ CLAN_RESEARCH_SYSTEM_MSG_LEVELUP,A pesquisa <Yellow>[Name]</> do seu clã atingi
 WRITING_PROBE_LENGTH_OUT_OF_RANGE,Limite de caracteres excedido.
 SHOP_ATTENDANCE_NOTDAY,Dias de frequência insuficientes.
 WEBVIEW_TITLE,Arquiteto
-PASS_BUY_NORMAL_OPEN_TITLE,Desbloquear recompensa do passe de temporada premium
-PASS_BUY_NORMAL_OPEN_DESC,agora estão disponíveis para resgate.
+PASS_BUY_NORMAL_OPEN_TITLE,Desbloquear recompensa do Season Pass premium
+PASS_BUY_NORMAL_OPEN_DESC,As recompensas Premium do Season Pass já podem ser resgatadas.
 COMMON_PERIOD_NONE,Sempre disponível
 COMMON_DUNGEONMISSION_COMPLITE_MSG,Todas as missões concluídas.
 GAMEPLAYEVENT_EVENTPOPUP_UNTILEVENTPERIODEND,Até o evento terminar
@@ -7009,7 +7009,7 @@ GAMEPLAYEVENT_FIELDPOINTEVENT_GAMEPANEL_SCORE_DESC,Pontuação atual
 GAMEPLAYEVENT_FIELDPOINTEVENT_GAMEPANEL_SCORE,[Value] pts
 GAMEPLAYEVENT_FIELDPOINTEVENT_GAMEPANEL_RANK_DESC,Ranking atual
 GAMEPLAYEVENT_FIELDPOINTEVENT_GAMEPANEL_RANK,Classificação [Rank]
-GAMEPLAYEVENT_FIELDPOINTEVENT_GAMEPANEL_NPCINFO_DESC,Info do mercador Naruru
+GAMEPLAYEVENT_FIELDPOINTEVENT_GAMEPANEL_NPCINFO_DESC,Info do Merchant Naruru
 GAMEPLAYEVENT_FIELDPOINTEVENT_GAMEPANEL_NPCSTATE_NORMAL,Agora comprando
 GAMEPLAYEVENT_FIELDPOINTEVENT_GAMEPANEL_NPCSTATE_MOVE,Mover
 GAMEPLAYEVENT_FIELDPOINTEVENT_GAMEPANEL_NPCSTATE_FEVER,Comprando com preços especiais!
@@ -7071,11 +7071,11 @@ INTERSERVER_ENTER_WAITING,[WorldName] aguardando entrada…
 ITEM_EQUIPMENT_TYPE_COLLAR,Insígnia
 ITEM_EQUIPMENT_TYPE_TALISMAN,do Talim Talismã
 ITEM_EQUIPMENT_TYPE_STIGMA,Marca Sagrada
-ITEM_EQUIPMENT_TYPE_DAGGER,Adaga
+ITEM_EQUIPMENT_TYPE_DAGGER,Dagger
 ITEM_EQUIPMENT_TYPE_ARROWHEAD,Ponta de flecha
 ABURUPASS_CONTENT_TITLE,Passe do Festival
-LIGHTPASS_CONTENT_TITLE,Passe Halo
-AOTPASS_CONTENT_TITLE,Passe de ataque
+LIGHTPASS_CONTENT_TITLE,Halo Pass
+AOTPASS_CONTENT_TITLE,Attack Pass
 ABURUPASS_MENU_LEVELGUIDE,Complete missões para aumentar seu nível de aprovação.
 FIXEDTERMRESULT_TITLE,Converter período
 FIXEDTERMRESULT_BEFORE,Tempo limitado
@@ -7103,9 +7103,9 @@ FIXEDTERM_REWARDDESC_DELETEDPLAYINGTIMESAFTER,"Expira [Time] após aquisição
 (Com base no tempo de login)"
 CONTENTSLOCK_CONDITION_NEED_COMPLETE_QUEST,"Disponível após completar a missão [QuestType] <Red>[QuestName]</>
 ."
-LOCALSERVER_CLANDIPLOMANCY,Terra Abandonada
+LOCALSERVER_CLANDIPLOMANCY,Abandoned Land
 INTERSERVER_CLANDIPLOMANCY,Abyss Battlefield
-LOCALSERVER_COMMON_TAB,Terra Abandonada
+LOCALSERVER_COMMON_TAB,Abandoned Land
 INTERSERVER_COMMON_TAB,Abyss Battlefield
 INTERSERVER_BOSS_SCHEDULE_POPUP_TITLE,Detalhe de Spawn
 INTERSERVER_BOSS_SCHEDULE_POPUP_TIME,Tempo de Spawn
@@ -7347,7 +7347,7 @@ BATTLEFIELD_UNDERGROUND_RULE_DESC_1_1,<Yellow>O clã que ocupa a Torre do Guardi
 BATTLEFIELD_UNDERGROUND_RULE_DESC_1_2,"<Yellow>Se nenhum Clã capturou uma Torre Guardiã</> até o final do combate, não haverá vencedor."
 BATTLEFIELD_UNDERGROUND_RULE_DESC_2_1,"Você só pode <Yellow>controlar 1 personagem</> em Abyss Guardian Tower e, enquanto controla o personagem, você não pode <Yellow>cancelar manualmente</>."
 BATTLEFIELD_UNDERGROUND_RULE_DESC_2_2,"Quando infligido com os seguintes efeitos de status <Yellow></> durante a conquista, o progresso irá parar imediatamente 
- (Atordoamento, Nocaute, Airborne, Knock Back para trás, Choque, Teleporte, Atordoamento, Congelamento, Provocação, Subjugado)."
+ (Atordoamento, Nocaute, Aerotransportado, Knock Back para trás, Choque, Teleporte, Atordoamento, Congelamento, Provocação, Subjugado)."
 BATTLEFIELD_UNDERGROUND_RULE_DESC_2_3,Capturar a Abyss Guardian Tower levará <Yellow>16 segundos</>.
 BATTLEFIELD_UNDERGROUND_RULE_DESC_2_4,"Se houver um novo Clã para assumir o controle da Torre do Guardião, <Yellow>Todos os personagens, exceto o novo Clã e seus clãs aliados, serão movidos para uma Vila Neutra.</>"
 BATTLEFIELD_UNDERGROUND_RULE_DESC_3_1,"No início da batalha, <Yellow>todos os personagens dentro da fortaleza serão movidos para uma vila neutra.</>"
@@ -7673,7 +7673,7 @@ CHARACTERGIFT_GUIDE_CHARACTERGIFT_DESC,"<Orange>[Presente do personagem: Importa
 5. Se cancelado devido à expiração, o item de presente de personagem será devolvido por correio.
 
 <Yellow>Manuseio de produtos/benefícios</>
-1. Produtos/benefícios vinculados a personagens, como Privilégio de Sucessor e Passe de Temporada, são transferidos com o presente.
+1. Produtos/benefícios vinculados a personagens, como Privilégio de Sucessor e Season Pass, são transferidos com o presente.
 2. Reembolsos ou restaurações separadas não são suportadas para produtos/benefícios vinculados a personagens transferidos.
 3.<Red>Registrar um personagem de presente excluirá todos os seus personagens atualmente possuídos,
 e todas as informações, incluindo armazenamento da loja e informações de itens pagos, serão excluídas.</>"
@@ -7793,7 +7793,7 @@ CHARACTERGIFT_BTN_CERTIFICATION_DESC,A verificação das informações de verifi
 CLAN_PROFILE_REQUEST_ALLIANCE_ACCEPT,Aceitar solicitação de aliança
 CLAN_PROFILE_REQUEST_ALLIANCE_REJECT,Rejeitar solicitação de aliança
 CLAN_COFFER_ITEM_SELL_TIME,[Time]
-ITEM_TYPE_CLASSCHANGE,Bilhete de mudança de classe
+ITEM_TYPE_CLASSCHANGE,Class Change Ticket
 ITEM_TYPE_RESET,Material de reset de ressonância
 ITEM_TYPE_AMPLIFY,Material de amplificação de ressonância
 ITEM_TYPE_MATERIAL,Material de ressonância
@@ -7877,7 +7877,7 @@ HIGHPASS_SERVER,High Pass Servidor
 HIGHPASS_CHALLENGE_MISSION,Missão do Desafio
 LEGACY_SERVER,Servidor Existente
 GENERAL_SERVER,Servidor Aleatório
-HIGHPASS_WELCOME_BACK,Bem-vindo de volta à Terra Abandonada.
+HIGHPASS_WELCOME_BACK,Bem-vindo de volta à Forsaken Land.
 HIGHPASS_SELECT_SERVER,Selecione um servidor.
 SERVER_SELECT_HIGHPASS,High Pass
 ASSISTMODE_AUTOREVIVE_TITLE,Ajustes de reviver auto.
@@ -8003,15 +8003,15 @@ CLAN_TRIALGATE_ON_ASSET_TITLE,Recursos de ativação
 CLAN_TRIALGATE_REWARD_TITLE,Recompensas principais do clã
 CLAN_TRIALGATE_ON_ASSET_NOTENOUGH_MSG,"[AssetName]{jstag:,} insuficiente para ativar a masmorra."
 CLAN_TRIALGATE_ON_PERMISSION,Sem permissão para ativar a masmorra.
-CLAN_TRIALGATE_TITLE,Expedição do Clã
+CLAN_TRIALGATE_TITLE,Clan Expedition
 CLAN_TRIALGATE_ON_DESC,"Ativar [DungeonName]{jstag:}?
 A masmorra será desativada se o desafio falhar."
 CLAN_TRIALGATE_RANKING_NORECORD,Nenhum registro
 CLAN_TRIALGATE_MYSERVER_CHECK,Ver apenas meu servidor
-CLAN_TRIALGATE_CONTENTS_ALARM_ON,Expedição do Clã disponível
-CLAN_TRIALGATE_CONTENTS_ALARM_PROCEEDING,Expedição do Clã em andamento
+CLAN_TRIALGATE_CONTENTS_ALARM_ON,Clan Expedition disponível
+CLAN_TRIALGATE_CONTENTS_ALARM_PROCEEDING,Clan Expedition em andamento
 CLAN_TRIALGATE_ON_RESTRICT_MSG,O nível do clã é muito baixo para ativar a masmorra.
-CLAN_TRIALGATE_RANKING_TITLE,Classificação da Expedição do Clã
+CLAN_TRIALGATE_RANKING_TITLE,Classificação da Clan Expedition
 CLAN_ACTIVITY,Atividades do Clã
 CLAN_TAB_ACTIVITY,Atividades
 CLAN_MISSION,Missão do clã
@@ -8377,7 +8377,7 @@ RESONANCE_AUTO_RESONANCE_HIGHER_FAIL_STEP,Não pode ser superior ao Nível de Fa
 KEIRING_SKILL_MAIN_TIP,"Especial e de suporte Skills entram em vigor enquanto <Orange> acompanhado no slot principal</>.
 Apenas o suporte Skills entra em vigor enquanto <Orange>acompanhado no Sub Slot</>."
 KEIRING_ADVANCED_NOT_ENOUGH_MATERIAL,Nenhum chaveiro da mesma classificação possui.
-CHARACTERTITLE_TITLE,Título
+CHARACTERTITLE_TITLE,Title
 CHARACTERTITLE_FILTER_ALL,Todos
 CHARACTERTITLE_FILTER_INCOMPLETE,Adquirido
 CHARACTERTITLE_FILTER_COMPLETE,Não adquirido
@@ -8646,7 +8646,7 @@ CLASH_MVP,MVP
 CLASH_RESPAWN_TITLE,Esperando para retornar ao campo de batalha
 CLASH_RESPAWN_DESC,Reaparecendo em [Time]s.
 CLASH_RESPAWN_REVENGE_TARGET,Morto por <Red>[CharacterName]</>.
-CLASH_ASSISTMODE_STOPPED,O combate automático foi interrompido porque um personagem morreu na Terra Abandonada durante uma partida.
+CLASH_ASSISTMODE_STOPPED,O combate automático foi interrompido porque um personagem morreu na Forsaken Land durante uma partida.
 CLASH_BACKGROUNDMODE_HISTORY_TITLE,Resultado do combate auto.
 AUTOSETTING_LOCKITEM_WORLD,Não é possível usar itens automaticamente neste mundo.
 BATTLEFIELD_DIALOG_CLASH_CHAINKILL,<Yellow>[Count]</> Sequências de mortes!
@@ -8898,8 +8898,8 @@ OOPARS_WISHLIST_FREE_PREMIUM_REROLL_EXHAUSTED_MSG,Nenhuma Exploração Especial 
 OOPARTS_TAB_DISASSEMBLE,Extrair
 OOPARTS_TAB_WISH,Investigação
 OOPARTS_MAIN_TITLE,OOParts
-INTERSERVER_TAB_1,Abyss Battlefield 1º andar
-INTERSERVER_TAB_2,Abyss Battlefield 2º andar
+INTERSERVER_TAB_1,Abyss Battlefield 1F
+INTERSERVER_TAB_2,Abyss Battlefield 2F
 BATTLEFIELD_TOURNAMENT_TITLE_BAR,Torneio do Clã
 BATTLEFIELD_TOURNAMENT_MENU_ENTRY,Seleção de participantes
 BATTLEFIELD_TOURNAMENT_MENU_MATCH,Partidas Participantes
@@ -9247,7 +9247,7 @@ BATTLEROYALE_BUFFCARD_UPWARD,Poder de Combate +[Value]
 BATTLEROYALE_BUFFCARD_DECLINE,Poder de Combate -[Value]
 BATTLEROYALE_CONTENTSCHANCENAME,Tentativas de Entrada de Incursão Anômala
 BATTLEROYALE_REMAINPARTY,Partes restantes
-BATTLEROYALE_REMAINPLAYER,Sobrevivente
+BATTLEROYALE_REMAINPLAYER,Survivor
 BATTLEROYALE_ENTERPOPUP_TITLE,Preparar para entrada
 BATTLEROYALE_ENTERPOPUP_PLAYERCOUNT,Jogadores
 BATTLEROYALE_ENTERPOPUP_MAXPLAYER,Máximo de participantes
@@ -9296,7 +9296,7 @@ BATTLEROYALE_VIRTUAL_STAT_TIP,"<Orange>[Estatísticas em escala]</>
  - Para garantir um ambiente de combate mais justo, a Incursão Anômala aplica estatísticas exclusivas com base em faixas de nível predefinidas.
  - Seu nível e estatísticas serão ajustados dependendo da faixa em que o nível atual do seu personagem cai into.
  - Seu nível e estatísticas podem aumentar ou diminuir seus valores originais durante este processo, mas essas mudanças se aplicam apenas na partida de Incursão Anômala.
- - Assim que a partida terminar e você retornar à Terra Abandonada, essas estatísticas escalonadas serão desativadas."
+ - Assim que a partida terminar e você retornar à Forsaken Land, essas estatísticas escalonadas serão desativadas."
 BATTLEROYALE_SOLO_REWARD_TIP,"<Orange>[Recompensas de matchmaking individuais]</>
  - Mesmo se você participar sozinho sem uma festa, você ainda pode ganhar recompensas com base em sua classificação de sobrevivência individual.
  - Os tipos e quantidades de recompensas podem diferir daqueles dos participantes da festa."

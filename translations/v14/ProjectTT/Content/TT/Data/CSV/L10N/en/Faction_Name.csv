@@ -1,8 +1,8 @@
 ﻿FactionType,Name,Desc
-0,Comerciante,
+0,Merchant,
 1,Blacksmith,
-2,Artesão,
-3,Avaliador,
+2,Artisan,
+3,Appraisor,
 4,Hunter,
 5,Explorer,
 6,Wayfinder,

@@ -1,63 +1,63 @@
 ﻿Id,GroupName
 101040101,Babylon
 101040102,Asientet
-101040103,Carta não enviada
+101040103,Unsent Letter
 101040104,Adventurers Alliance
 101040105,Babylon
 101040106,Adventurers Alliance
 101040107,Babylon
-101040108,Arquivos
+101040108,Archives
 101040109,Adventurers Alliance
 101040110,Giant's Tower
-101040111,Monstro Codex
+101040111,Monster Codex
 101040112,Giant's Tower
 101040113,Taima Pioneer Village
 101040114,Taima Pioneer Village
 101040115,Asientet
-101040201,Carta não lida
+101040201,Unread Letter
 101040202,Adventurers Alliance
-101040203,Estudo Romântico
+101040203,Romantic Study
 101040204,Asientet
-101040205,Estudo Romântico
-102040101,Dicionário Demi-humano
+101040205,Romantic Study
+102040101,Demi-human Dictionary
 102040102,Aburu Village
-102040103,Dicionário Demi-humano
-102040104,Arquivos
+102040103,Demi-human Dictionary
+102040104,Archives
 102040105,Giant's Tower
 102040106,UlTaimate Recipe Book
-102040107,Arquivos
-102040108,Dicionário Demi-humano
-102040109,Amigos Adoráveis
-102040110,Arquivos
+102040107,Archives
+102040108,Demi-human Dictionary
+102040109,Lovely Friends
+102040110,Archives
 102040111,Sunset Brewery
 102040112,UlTaimate Recipe Book
 102040113,Adventurers Alliance
-102040114,Arquivos
-102040115,Arquivos
-102040201,Arquivos
-102040202,Estudo Romântico
-102040203,Carta não lida
-102040204,Arquivos
-102040205,Arquivos
-103040101,Carta não enviada
+102040114,Archives
+102040115,Archives
+102040201,Archives
+102040202,Romantic Study
+102040203,Unread Letter
+102040204,Archives
+102040205,Archives
+103040101,Unsent Letter
 103040102,Hesperia
 103040103,Frantia
 103040104,Frantia
 103040105,Frantia
 103040106,Frantia
-103040107,Arquivos
-103040108,Dicionário Demi-humano
-103040109,Arquivos
+103040107,Archives
+103040108,Demi-human Dictionary
+103040109,Archives
 103040110,Hesperia
-103040111,Arquivos
+103040111,Archives
 103040112,Giant's Tower
-103040113,Arquivos
+103040113,Archives
 103040114,Rappie Training Ground
 103040115,Rappie Training Ground
-103040201,Estudo Romântico
+103040201,Romantic Study
 103040202,Frantia
 103040203,Hesperia
-103040204,Carta não lida
+103040204,Unread Letter
 103040205,Liberator of Knowledge
 104040101,Stormkel
 104040102,Naruru Hot Springs
@@ -66,38 +66,38 @@
 104040105,Stormkel
 104040106,Stormkel
 104040107,Paradise Advent Society
-104040108,Carta não enviada
-104040109,Arquivos
+104040108,Unsent Letter
+104040109,Archives
 104040110,Giant's Tower
-104040111,Arquivos
+104040111,Archives
 104040112,Stormkel
 104040113,Stormkel
 104040114,Paradise Advent Society
 104040115,Paradise Advent Society
-104040201,Arquivos
-104040202,Arquivos
+104040201,Archives
+104040202,Archives
 104040203,Stormkel
-104040204,Carta não lida
-104040205,Estudo Romântico
+104040204,Unread Letter
+104040205,Romantic Study
 105040101,Twisted Elysium
 105040102,Hunters Guild
-105040103,Carta abandonada
+105040103,Abandoned Letter
 105040104,Hunter's Village
-105040105,Guilda de Comerciantes
-105040106,Arquivos
-105040107,História dos Vitoriosos
-105040108,Pessoas do Oriente
-105040109,Bardad Expedição
-105040110,Carta não lida
-501040101,Arquivos
-501040102,Verificação de Design
-501040103,Gerenciamento de Segurança
-502040101,Abandonado Codex
-502040102,Arquivos
-502040103,Gerenciamento de Segurança
-503040101,Arquivos
-503040102,Gerenciamento de Segurança
-503040103,Arquivos
-504040101,Mensagem final
-504040102,Relatório de teste do assunto
-504040103,Linha de Ley do Éter
+105040105,Merchants Guild
+105040106,Archives
+105040107,History of the Victors
+105040108,People of the East
+105040109,Bardad Expedition
+105040110,Unread Letter
+501040101,Archives
+501040102,Design Verification
+501040103,Security Management
+502040101,Abandoned Codex
+502040102,Archives
+502040103,Security Management
+503040101,Archives
+503040102,Security Management
+503040103,Archives
+504040101,Final Message
+504040102,Subject Test Report
+504040103,Aether Leyline

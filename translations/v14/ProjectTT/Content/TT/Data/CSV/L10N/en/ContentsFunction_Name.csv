@@ -6,12 +6,12 @@
 1001006,{Param} +[Value]%,Resistência Máxima
 1001007,{Param} +[Value]%,Velocidade de montagem
 1001008,{Param} +[Value]%,Velocidade de Ataque
-1001009,Afinidade adicional {Param} [Value] adquirida,Guilda de Comerciantes
-1001010,Afinidade adicional {Param} [Value] adquirida,Guilda dos Ferreiros
+1001009,Afinidade adicional {Param} [Value] adquirida,Merchants Guild
+1001010,Afinidade adicional {Param} [Value] adquirida,Blacksmiths Guild
 1001011,Afinidade adicional {Param} [Value] adquirida,Artisans Guild
-1001012,Afinidade adicional {Param} [Value] adquirida,Guilda dos Avaliadores
+1001012,Afinidade adicional {Param} [Value] adquirida,Appraisers' Guild
 1001013,Afinidade adicional {Param} [Value] adquirida,Hunters Guild
-1001014,Afinidade adicional {Param} [Value] adquirida,Guilda dos Exploradores
+1001014,Afinidade adicional {Param} [Value] adquirida,Explorers Guild
 1001015,Afinidade adicional {Param} [Value] adquirida,Wayfinders Guild
 1002001,Tempo de reprodução off-line +[Value] hora(s),
 1002002,Clã {Param} Doação +[Value] tempo(s),Ouro
@@ -21,12 +21,12 @@
 1002006,Vigor máximo +[Value],
 1002007,Velocidade de movimento da montagem +[Value]%,
 1002008,Velocidade de ataque +[Value]%,
-1002009,Afinidade adicional {Param} [Value] adquirida,Guilda de Comerciantes
-1002010,Afinidade adicional {Param} [Value] adquirida,Guilda dos Ferreiros
+1002009,Afinidade adicional {Param} [Value] adquirida,Merchants Guild
+1002010,Afinidade adicional {Param} [Value] adquirida,Blacksmiths Guild
 1002011,Afinidade adicional {Param} [Value] adquirida,Artisans Guild
-1002012,Afinidade adicional {Param} [Value] adquirida,Guilda dos Avaliadores
+1002012,Afinidade adicional {Param} [Value] adquirida,Appraisers' Guild
 1002013,Afinidade adicional {Param} [Value] adquirida,Hunters Guild
-1002014,Afinidade adicional {Param} [Value] adquirida,Guilda dos Exploradores
+1002014,Afinidade adicional {Param} [Value] adquirida,Explorers Guild
 1002015,Afinidade adicional {Param} [Value] adquirida,Wayfinders Guild
 10101,{Param}{jstag:} do personagem aumenta em [Value]%.,Velocidade de Movimento Básica
 10201,{Param}{jstag:} é adicionado para [Value] hora(s).,Tempo de reprodução off-line
@@ -44,7 +44,7 @@
 11101,Aumenta a contagem de mortes de monstros em [Value] após {Param}.,Comissão diária
 11201,Aumenta a contagem de mortes de monstros em [Value] após {Param}.,Comissão Semanal
 11301,Ativa o recurso Arbiter’s Ordeal Multi-Clear.,
-11401,Receber [Value] Token(s) de provação do árbitro via Inbox diariamente.,
+11401,Receba [Value] Arbiter's Ordeal Token por dia pela caixa de entrada.,
 11501,Ativa o recurso de desmontagem automática de equipamento.,
 11601,{Param}{jstag:} é adicionado(s) tempo(s) [Value].,Tentativas de recuperação de pena de morte gratuita
 11701,{Param}{jstag:} é adicionado(s) tempo(s) [Value].,Cura Gratuita do Curador
@@ -190,7 +190,7 @@
 20701,{Param}{jstag:} é adicionado para [Value] hora(s).,Tempo de reprodução off-line
 20801,{Param}{jstag:} é adicionado(s) tempo(s) [Value].,Marketplace Capacidade de listagem
 20901,Receba Cristal(es) de Autoridade [Value] via caixa de entrada diariamente.,
-21001,{Param} está disponível na guia Atualização da Loja.,30 Molas Mecânicas Imbuídas de Magia Fraca
+21001,{Param} está disponível na guia Atualização da Loja.,30 Faint Magic-Imbued Clockwork Springs
 21002,{Param} está disponível na guia Atualização da Loja.,10.000 Stardust
 21101,O ouro para aumento de nível do Crista dos Antigos diminui em [Value]%.,
 21201,{Param}{jstag:} é adicionado(s) tempo(s) [Value].,Cura Gratuita do Curador

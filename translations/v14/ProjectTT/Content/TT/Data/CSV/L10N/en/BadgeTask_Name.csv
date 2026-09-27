@@ -59,7 +59,7 @@
 5006,,Notifique quando as recompensas dos Pontos de Missão do Clã estiverem disponíveis,,
 5007,,Notifique quando as recompensas do Privilégio da Missão do Clã estiverem disponíveis,,
 5150,,Notificação quando a Replica Seed do seu clã estiver ativa no campo,,
-600,,Notificação para exigíveis {Param} Recompensa,,Diário de Exploração
+600,,Notificação para exigíveis {Param} Recompensa,,Exploration Journal
 10051,,Notificação para tempo de venda expirado,,
 1311,,Notificação para itens registrados vendidos,,
 1000,,Notificação quando houver um slot equipável,,
@@ -95,7 +95,7 @@
 1101,,Notificação para recompensa de conclusão {Param},,Novo nível
 1506,,Notificação de recompensa do passe de temporada ({Param}),,Diariamente
 1507,,Notificação de recompensa do passe de temporada ({Param}),,Semanal
-1508,,Notificação de recompensa do passe de temporada ({Param}),,Temporada
+1508,,Notificação de recompensa do Season Pass ({Param}),,Temporada
 1505,,{Param} Notificação de recompensa,,Nível da temporada
 11,,Notificação para o máximo de Tokens de Provação possuídos,,
 10005,,Nova notificação de solicitação de vingança,,
@@ -149,20 +149,20 @@
 1451,1,{Param} Notificação de recompensa de evento de missão exigível,,Festival de Recompensas de Aburu
 1452,1,{Param} Notificação de recompensa de marco de evento de missão exigível,,Festival de Recompensas de Aburu
 1453,1,{Param} Grupo de evento de missão exigível Notificação de recompensa,,Festival de Recompensas de Aburu
-10091,1,{Param} Notificação de missão disponível,,Festival de Recompensas de Aburu
-17,1,{Param} Notificação de recompensa de missão exigível,,Festival de Recompensas de Aburu
+10091,1,{Param} Notificação de missão disponível,,Attack Titan
+17,1,{Param} Notificação de recompensa de missão exigível,,Attack Titan
 1506,1,{Param} Notificação diária de recompensa de missão de passe exigível,,Festival de Recompensas de Aburu
 1507,1,{Param} Notificação de recompensa de missão semanal de passe exigível,,Festival de Recompensas de Aburu
-1508,1,{Param} Notificação de recompensa de passe de temporada de passe exigível,,Festival de Recompensas de Aburu
+1508,1,{Param} Notificação de recompensa de Season Pass de passe exigível,,Festival de Recompensas de Aburu
 1505,1,{Param} Notificação de recompensa de passe exigível,,Festival de Recompensas de Aburu
 1451,2,{Param} Notificação de recompensa de evento de missão exigível,,Halo Festival
 1452,2,{Param} Notificação de recompensa de marco de evento de missão exigível,,Halo Festival
 1453,2,{Param} Grupo de evento de missão exigível Notificação de recompensa,,Halo Festival
-10091,2,{Param} Notificação de missão disponível,,Halo Festival
-17,2,{Param} Notificação de recompensa de missão exigível,,Halo Festival
+10091,2,{Param} Notificação de missão disponível,,Attack Titan
+17,2,{Param} Notificação de recompensa de missão exigível,,Attack Titan
 1506,2,{Param} Notificação diária de recompensa de missão de passe exigível,,Halo Festival
 1507,2,{Param} Notificação de recompensa de missão semanal de passe exigível,,Halo Festival
-1508,2,{Param} Notificação de recompensa de passe de temporada de passe exigível,,Halo Festival
+1508,2,{Param} Notificação de recompensa de Season Pass de passe exigível,,Halo Festival
 1505,2,{Param} Notificação de recompensa de passe exigível,,Halo Festival
 10006,2,{Param} Notificação de 5 minutos para evento de jogo,,Halo Festival
 1451,3,{Param} Notificação reivindicada de recompensa de missão,,Attack Titan

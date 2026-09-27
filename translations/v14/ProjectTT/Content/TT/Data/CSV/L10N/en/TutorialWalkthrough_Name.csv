@@ -40,13 +40,13 @@ e diminui rapidamente à medida que você sobe."
 21113,Trial of Flight,"Passe por um anel de aceleração <Orange></>
  para obter um aumento temporário de velocidade."
 21114,Trial of Flight,Colete <Orange>Energy Orbs</> para reabastecer rapidamente sua resistência.
-101501,Passe de temporada,<Orange>Season Pass</> permite que você suba de nível e ganhe várias recompensas completando missões dentro de um período de tempo limitado.
-101502,Passe de temporada,"① O passe de temporada está disponível por <Orange> por tempo limitado</>.
+101501,Season Pass,<Orange>Season Pass</> permite que você suba de nível e ganhe várias recompensas completando missões dentro de um período de tempo limitado.
+101502,Season Pass,"① O Season Pass está disponível por <Orange> por tempo limitado</>.
 ② Conforme você sobe de nível, você pode reivindicar <Orange>padrão e premium recompensas</>.
 ③ As recompensas premium são desbloqueadas na compra de <Orange></>.
 ④ Você também pode subir de nível instantaneamente comprando níveis."
-101503,Passe de temporada,"① As missões são divididas em <Orange>Passe diário, semanal e de temporada</>.
-② Ao completar missões você ganha <Orange>Pontos de missão</>."
+101503,Season Pass,"① As missões se dividem em <Orange>diárias, semanais e do Season Pass</>.
+② Completar missões rende <Orange>Pontos de Missão</>."
 200101,Postura de Batalha,"<Orange>Battle Stance</> foi desbloqueado!
 Agora, você pode alternar entre <Orange>Attack e Specialized</> Stances."
 200102,Postura de Batalha,"① Você pode alterar sua postura durante o combate tocando no botão <Orange>Battle Stance</>.
@@ -66,7 +66,7 @@ Agora, você pode alternar entre <Orange>Attack e Specialized</> Stances."
 200303,Commission House,"① As comissões são divididas em <Orange>Daily</> e <Orange>Comissões Semanais</>.
 ② Você pode completar até <Orange>five</> Comissões diárias por dia e <Orange>ten</> Comissões semanais por semana.
 ③ Use <Orange>Recharge Tickets</> para reabastecer seu disponível comissões."
-200304,Commission House,"① Uma lista <Orange> de comissões</> da Aliança de Aventureiros é exibida aqui.
+200304,Commission House,"① Uma lista <Orange> de comissões</> da Adventurers Alliance é exibida aqui.
 ② Veja as <Orange>recompensas</> específicas e a guilda de postagem para cada comissão.
 ③ Você pode aceitar e completar até <Orange>ten</> Comissões Diárias e dez Comissões Semanais por vez.
 ④ Use Gold para <Orange>atualizar a lista de comissões</>."
@@ -136,8 +136,8 @@ e diminui rapidamente à medida que você sobe."
 Segure a tecla W e gire a câmera para dirigir."
 201822,Deslizar,"Sua velocidade aumenta à medida que você desce
 e diminui rapidamente à medida que você sobe."
-201901,Codex,O <Orange>Codex</> rastreia vários elementos de exploração encontrados nas Terras Abandonadas e na Giant's Tower.
-201902,Codex,"① Aqui você pode acessar os Codexs das Terras Abandonadas e da Giant's Tower.
+201901,Codex,O <Orange>Codex</> rastreia vários elementos de exploração encontrados nas Forsaken Lands e na Giant's Tower.
+201902,Codex,"① Aqui você pode acessar os Codexs das Forsaken Lands e da Giant's Tower.
 ② Os logs são registrados para cada <Orange>realm</> e <Orange>floor</>.
 ③ Confira o Codex para ver quais <Orange>rewards</> estão disponíveis.
 ④ Seus elementos de exploração e atuais <Orange>progress</> são rastreados aqui."
@@ -172,7 +172,7 @@ e diminui rapidamente à medida que você sobe."
 202302,Skill passivo,"① Esta é a lista <Orange>Skills passiva</>. Mais tipos de skill ficam disponíveis conforme você avança.
 ② <Orange>Informações detalhadas</> sobre o skill selecionado são exibidas aqui. 
 ③ <Orange>Elixires</> são necessários para adquirir skills passivo."
-202303,Skill passivo,"Você pode obter Elixires por meio de vários conteúdos, como Guia, Reputação da Aliança de Aventureiros e chefes.
+202303,Skill passivo,"Você pode obter Elixires por meio de vários conteúdos, como Guia, Reputação da Adventurers Alliance e chefes.
 ① Verifique a seção <Orange>Obtido de</> para obter métodos específicos para obtê-los."
 202401,Artesanato,"<Orange>Craft</> vários itens, como equipamentos, consumíveis e materiais de atualização para ajudar em suas aventuras."
 202402,Artesanato,"① Aqui, você pode navegar pelas categorias de artesanato <Orange> disponíveis</>.
@@ -211,7 +211,7 @@ e diminui rapidamente à medida que você sobe."
 ③ Certos skills podem ser <Orange>usados diretamente pelo Clã Líder</>, ou <Orange>usado visando diretamente membros específicos do clã</> para conceder seus efeitos."
 202608,Clã,"Use <Orange>Convite Angbar</> para se juntar aos membros do seu clã e derrotar chefes poderosos.
 ① Os chefes e recompensas disponíveis variam dependendo do convite usado.
-② Os convites podem ser adquiridos na Loja de Moedas Antigas <Orange>Clan</>. Limpar o chefe e reivindicar recompensas reduz suas tentativas semanais restantes.
+② Os convites podem ser adquiridos na Ancient Coin Shop <Orange>Clan</>. Limpar o chefe e reivindicar recompensas reduz suas tentativas semanais restantes.
 ③ Verifique os locais dos portais gerados no campo e viaje rapidamente até eles com facilidade."
 202609,Clã,"Gaste Tokens de Cooperação do Clã para ativar <Orange>masmorras exclusivas do Clã</> e ataque-as junto com os membros do seu Clã.
 ① Níveis de dificuldade mais altos são desbloqueados conforme o nível do seu Clã aumenta.
@@ -247,7 +247,7 @@ O <Orange>Efeito de Despertar Abrangente</> é determinado pela <Orange>soma de 
 ③ As páginas de despertar são <Orange>desbloqueadas ao atingir um determinado níveis</>.
 ④ Cada página do Despertar requer materiais <Orange> diferentes</>."
 202706,Despertar,Obtenha materiais do Despertar por meio da Desmontagem de Equipamentos <Orange></> ou <Orange>Rifts</>.
-202801,Arbiter’s Ordeal,<Orange> Provação do árbitro </> permite que você <Orange> selecione </> e limpe a masmorra desejada.
+202801,Arbiter’s Ordeal,<Orange> Arbiter’s Ordeal </> permite que você <Orange> selecione </> e limpe a masmorra desejada.
 202802,Arbiter’s Ordeal,"① <Orange>recursos necessários</> para <Orange>Ordeal do árbitro</>.
 A provação <Orange>Token</> recarrega automaticamente ao longo do tempo e pode ser adquirido com <Orange>Diamonds</>. 
 ② <Orange>Lista de desafios de provação disponíveis</>."
@@ -260,8 +260,8 @@ A provação <Orange>Token</> recarrega automaticamente ao longo do tempo e pode
 ② <Orange>A reprodução automática</> começa imediatamente após a seleção."
 202805,Arbiter’s Ordeal,"Ao concluir uma Provação, o Tesouro da Provação <Orange></> aparece.
 <Orange>Consuma um Token</> para reivindicar o tesouro."
-202901,Arquivo,<Orange>Archive</> é outra história sobre as figuras e os segredos do mundo na Terra Abandonada.
-202902,Arquivo,"① <Orange>Registro do Despertar</> revela histórias da Terra Abandonada e da Giant's Tower.
+202901,Arquivo,<Orange>Archive</> é outra história sobre as figuras e os segredos do mundo na Forsaken Land.
+202902,Arquivo,"① <Orange>Registro do Despertar</> revela histórias da Forsaken Land e da Giant's Tower.
 ② Explore as histórias de figuras-chave através do Registro do Herói <Orange></>."
 202903,Arquivo,O Registro do Despertar e o Registro do Herói consistem em vários episódios <Orange></>. Selecione um item para começar a jogar.
 202904,Arquivo,"① <Orange>Rewards</> obtidos após <Orange>Conclusão do episódio</>.
@@ -271,9 +271,9 @@ A provação <Orange>Token</> recarrega automaticamente ao longo do tempo e pode
 ② Exibe as informações do andar atual.
 ③ Verifique os detalhes do <Orange>chefe guardando cada andar</>.
 ④ Gaste ouro para entrar no lobby da Giant's Tower."
-203003,Giant's Tower,"O lobby da <Orange>Giant's Tower</> é a área de preparação dos aventureiros antes de entrarem na torre.
-① Acesse os serviços de cura, o comerciante geral, o depósito e a loja de Cristais Negros.
-② Entre na Giant's Tower pela <Orange>entrada principal</>."
+203003,Giant's Tower,"O <Orange>Giant's Tower Lobby</> é a área final de preparação dos Aventureiros antes de entrar na torre.
+① Acesse o Healer, o General Merchant, o Stash Keeper e a Black Crystal Shop.
+② Entre na Giant's Tower pela <Orange>entrada</> principal."
 203004,Giant's Tower,"① A Giant's Tower é dividida em <Orange>três zonas</>. Selecione uma zona para entrar.
 ② <Orange>Prova de autoridade</> é necessário para entrar em certas zonas imediatamente.
 ③ <Orange>Consumir ouro</> para mover para a entrada selecionada."
@@ -300,17 +300,17 @@ O Supervisor de Andar pode exercer influência significativa sobre o chão, util
 ④ Você pode <Orange>Ativar/Desativar</> o Memorite Skill.</>"
 203303,Memorite Skill,"① Ative/desative o Memorite Skill por meio da configuração <Orange>Auto-Use</>.
 ② Selecione o <Orange>Memorite Icon</> para definir seu status de ativação."
-203304,Memorite Skill,<Orange>Memorite</> pode ser adquirido no <Orange>Comerciante Geral</>.
+203304,Memorite Skill,<Orange>Memorite</> pode ser adquirido no <Orange>General Merchant</>.
 203901,Âncoras de Warp,O <Orange>Warp Anchor</> é um dispositivo usado para viagens rápidas em todo o mundo.
-203902,Âncoras de Warp,"Âncoras de Warp são colocadas em <Orange>principais aldeias e pontos de passagem</> em toda a Terra Abandonada,
+203902,Âncoras de Warp,"Âncoras de Warp são colocadas em <Orange>principais aldeias e pontos de passagem</> em toda a Forsaken Land,
  e você pode verificar suas localizações através do <Orange>Map</>."
-203903,Âncoras de Warp,"◎ Depois de registrar-se interagindo com uma Warp Anchor, ela pode ser usada como um destino <Orange>Teleport</>.
-◎ O teletransporte consome <Orange>Cost</> de até 10.000 Ouro dependendo da distância <Orange> até o destino</>.
-◎ <Orange>Free</> para Aventureiros <Orange>sob o Nv. 30</>."
+203903,Âncoras de Warp,"◎ Depois de registrar uma Warp Anchor interagindo com ela, é possível usá-la como destino de <Orange>Teleporte</>.
+◎ Teleportar consome um <Orange>custo</> de até 10.000 Ouro, conforme a <Orange>distância até o destino</>.
+◎ <Orange>Grátis</> para Aventureiros <Orange>abaixo do Nv. 30</>."
 203904,Âncoras de Warp,"Quando você registra uma Âncora de Warp Maior <Orange></>, informações sobre a área circundante são ativadas no Mapa, 
 permitindo que você visualize informações detalhadas sobre o Reino."
 203905,Âncoras de Warp,Você pode verificar o status de registro das Warp Anchors através do <Orange>Codex</>.
-204001,Observatório,Um <Orange>Observatório</> é um dispositivo usado para monitorar fenômenos de Incursão na Terra Abandonada.
+204001,Observatório,Um <Orange>Observatório</> é um dispositivo usado para monitorar fenômenos de Incursão na Forsaken Land.
 204002,Observatório,Interaja com o Observatório para apreciar a vista circundante.
 204003,Observatório,Acompanhe o status de descoberta dos Observatórios por meio do <Orange>Codex</>.
 204101,Baú de tesouro,"No mundo do Architect, você pode descobrir vários <Orange> Baús de Tesouro</> escondidos.
@@ -324,7 +324,7 @@ Eles podem ser encontrados em todo o mundo do Architect."
 204203,Giant's Remanescentes,Acompanhe o status de descoberta dos remanescentes de Giant e revise os dados coletados por meio do <Orange>Codex</>.
 204301,Brilho,"<Orange>Sparkles</> são pequenas fortunas espalhadas pelo mundo. 
 Interaja com eles para reivindicar recompensas <Orange></> ou descobrir informações ocultas."
-204601,Incursão,Uma <Orange>Incursion</> é uma invasão repentina de monstros que se manifesta na Terra Abandonada.
+204601,Incursão,Uma <Orange>Incursion</> é uma invasão repentina de monstros que se manifesta na Forsaken Land.
 204602,Incursão,"① Quando uma Incursão começa, um <Orange>Tesseract e monstros</> emergem através de um enorme <Orange>Gate</>.
 ② O Tesseract exerce <Orange>habilidades poderosas</> em todo o reino da Incursão e invoca monstros.
 ③ Monstros atacam em múltiplas <Orange>ondas</>, com um <Orange>chefe</> aparecendo na onda final.
@@ -338,7 +338,7 @@ Interaja com eles para reivindicar recompensas <Orange></> ou descobrir informa�
 Os monstros que aparecem, Tesseract skills, e as recompensas variam dependendo do tipo."
 204606,Incursão,"Quando uma Incursão começa, um anúncio é transmitido para todos os Aventureiros no Reino, 
  e sua localização exata pode ser identificada via o <Orange>Map</>."
-204701,Grande Incursão,Uma <Orange>Grande Incursão</> é um desastre cataclísmico que ocorre em toda a Terra Abandonada.
+204701,Grande Incursão,Uma <Orange>Grande Incursão</> é um desastre cataclísmico que ocorre em toda a Forsaken Land.
 204702,Grande Incursão,"◉ Uma Incursão Grandiosa é um fenômeno de Incursão de grande escala que ocorre <Orange>em horários predefinidos</>.
 ◉ Quando acontece, um <Orange>aviso</> e um <Orange>quadro de status</> ficam visíveis para todos os Aventureiros em Forsaken Land.
 ◉ Quando uma Incursão Grandiosa começa, várias <Orange>Incursões com diferentes níveis de progressão</> surgem por Forsaken Land.
@@ -350,8 +350,8 @@ Os monstros que aparecem, Tesseract skills, e as recompensas variam dependendo d
 204704,Grande Incursão,"◎ 20 minutos após o início da Grande Incursão, ou quando todas as Incursões baseadas em nível forem concluídas interrompida, o <Orange>chefe</> se manifestará em uma zona específica após uma contagem regressiva de 1 minuto.
 ◎ A dificuldade do chefe é dimensionada de acordo com <Orange>o nível mais alto alcançado</> entre as incursões interrompidas com sucesso por Aventureiros.
 ◎ Derrotar o Chefe conclui a Grande Incursão, e as recompensas <Orange></> são distribuídas a todos os Aventureiros participantes."
-205001,Monolith War,"Na Terra Abandonada, existem <Orange>Monólitos</> que podem ser ocupados como um Clã.
-Você pode <Orange>ocupar</> um Monólito vencendo o <Orange>Monólito semanal War</> e superando outros clãs concorrentes."
+205001,Monolith War,"Na Forsaken Land existem <Orange>Monoliths</> que um Clã pode ocupar.
+Você <Orange>ocupa</> um Monolith vencendo a <Orange>Monolith War</> semanal e superando os clãs concorrentes."
 205002,Monolith War,"Para participar, seu clã deve ser Level 5 ou superior.
 Depois que um membro do clã com permissão concluir a inscrição, você poderá entrar no <Orange>Monolith War</> ao lado de seus colegas membros do clã."
 205003,Monolith War,"No centro do Monólito, há uma zona de ocupação que determina vitória ou derrota.
@@ -398,7 +398,7 @@ Quando um traje é equipado, seu <Orange>Estatísticas e habilidades de equipame
 ② Os materiais e custos necessários para a ascensão são exibidos aqui. Os materiais variam de acordo com <Orange>Nível de ascensão</>, e certas montagens/planadores podem exigir materiais específicos <Orange></>."
 205503,Ascensão e Habilidades Potenciais,"◎ <Orange>Os efeitos são ativados</> com base no número total de Ascensões.
 ◎ Estatísticas obtidas de <Orange>Efeitos totais de ascensão</> são aplicados ao personagem."
-205504,Ascensão e Habilidades Potenciais,"Os núcleos de evolução necessários para a Ascensão e seus materiais de artesanato podem ser adquiridos através de vários conteúdos, como <Orange>Adventurers Alliance - Adventurer Shop</>, <Orange>Loja de moedas antigas</>, <Orange>Artesanato</>, guia, passe de temporada e muito mais."
+205504,Ascensão e Habilidades Potenciais,"Os núcleos de evolução necessários para a Ascensão e seus materiais de artesanato podem ser adquiridos através de vários conteúdos, como <Orange>Adventurers Alliance - Adventurer Shop</>, <Orange>Loja de moedas antigas</>, <Orange>Artesanato</>, guia, Season Pass e muito mais."
 205505,Ascensão e Habilidades Potenciais,"① Imbuir <Orange>Abilities</> em Montarias/Planadores Ascensionados.
 ② Veja as habilidades adquiridas atualmente, elas são aplicadas como <Orange>Estatísticas próprias</>."
 205506,Ascensão e Habilidades Potenciais,"① Visualize o status de ascensão e os slots de habilidade. <Orange>Slots de habilidade</> desbloqueio com base em <Orange>o número de Ascensões</> e habilidades podem ser atribuídas sequencialmente.
@@ -434,8 +434,8 @@ Quando um traje é equipado, seu <Orange>Estatísticas e habilidades de equipame
 ② Fuse cartões <Orange>5</> do mesmo grau para ter a chance de obter uma nota mais alta.
 ③ Fusão de <Orange>3★ </>ou concessões de cartões superiores <Orange>Pontos de Fusão</>, que podem ser trocados por cartões de 4★–6★."
 205707,Graça das Constelações,"Cartões e materiais de atualização podem ser obtidos através de várias jogadas.
-◎ <Orange> Provação do árbitro</> - Ganhe vários cartões e materiais de atualização do <Orange>Ordeal of Constellations.</>.
-◎ Derrote monstros na <Orange>Terra Abandonada</> para obter Stardust.
+◎ <Orange> Arbiter’s Ordeal</> - Ganhe vários cartões e materiais de atualização do <Orange>Ordeal of Constellations.</>.
+◎ Derrote monstros na <Orange>Forsaken Land</> para obter Stardust.
 ◎ Colete cartas de Graça das constelações e materiais de atualização por meio da Loja e <Orange>Adventurers Alliance</> Goodwill."
 205901,Relíquia Sagrada,<Orange>Relíquias Sagradas</> são elementos especiais de atualização equipáveis ​​com energia poderosa.
 205902,Relíquia Sagrada,"① Relíquias Sagradas são armazenadas no Inventário – <Orange>Inventário de Relíquias Sagradas.</>.
@@ -533,13 +533,13 @@ Se 24 horas se passaram ou o limite for excedido, os diamantes devem ser usados 
 ② O modo IA offline permanece ativo durante o tempo restante. O tempo do modo AI offline é <Orange>recarregado diariamente</>, e tempo adicional está disponível comprando <Orange>Privilégio do sucessor</>."
 206803,Modo AI offline,"Como <Orange>o combate real</> ocorre durante o modo IA offline, os personagens podem ser expostos ao perigo.
 Notificações para várias situações durante o modo IA offline são enviadas por meio de mensagens push <Orange></>."
-207101,Mapa,"Ative as Âncoras de Warp Maiores em todo o mundo do Arquiteto 
+207101,Map,"Ative as Âncoras de Warp Maiores em todo o mundo do Arquiteto 
  para revelar os reinos ocultos no mapa."
-207102,Mapa,"① Selecione um destino diretamente no mapa para ir até lá.
+207102,Map,"① Selecione um destino diretamente no mapa para ir até lá.
 ② Use o menu à esquerda para navegar no mapa com facilidade."
-207103,Mapa,"① Use o botão Informações do Reino para visualizar rapidamente os detalhes do Waypoint e do Campo de Caça.
+207103,Map,"① Use o botão Informações do Reino para visualizar rapidamente os detalhes do Waypoint e do Campo de Caça.
 ② Registre locais visitados com frequência como Favoritos."
-207104,Mapa,"As cores dos ícones distinguem a dificuldade de cada zona. 
+207104,Map,"As cores dos ícones distinguem a dificuldade de cada zona. 
 Gray é muito fácil, <Green> Green</> é fácil, <Orange>Yellow</> é normal e <Red>Red</> é difícil."
 207201,Healer Priest,"<Orange>Healer Priests</> fornecem <Orange>Restauração de pena de morte e recuperação de HP/MP</>.
 Encontre-os em aldeias e pontos de referência importantes."
@@ -553,8 +553,8 @@ Encontre-os em aldeias e pontos de referência importantes."
 207204,Healer Priest,"<Orange>Restaure HP/MP</> através de Healer Priests.
 O ouro pode ser usado para até 3 restaurações por dia, após as quais os diamantes são necessários.
 Com <Orange>Privilégio do sucessor</>, as primeiras 3 restaurações diárias são gratuitas."
-207301,Vending Machine,"A Máquina de Vendas <Orange></> é um sistema especial para obtenção de recompensas por acaso usando ingressos. 
-É categorizado em Máquina de venda automática <Orange> e Máquina de venda automática Giant</>."
+207301,Vending Machine,"A <Orange>Vending Machine</> é um sistema especial para obter recompensas por sorteio usando bilhetes.
+Ela se divide em <Orange>Vending Machine e Giant’s Vending Machine</>."
 207302,Vending Machine,"① Vending Machine estão localizados nas principais vilas <Orange></> de cada reino.
 ② Encontre e navegue facilmente para Vending Machine usando o <Orange>Painel de detecção</>."
 207303,Vending Machine,"① Exibe o token de máquina de vendas de propriedade <Orange>.</>
@@ -597,19 +597,19 @@ Se você <Orange>tocar no retrato de um comerciante, você pode mover-se automat
 Derrotar o Giant Snow Goblin rende um <Orange>grande quantidade de gelo Fragmentos</>."
 208005,Snow Goblin Comoção,"Em intervalos regulares, <Orange>o comerciante que recebeu o maior número de entregas de gelo deixará a Vila</>.
 Verifique cuidadosamente as localizações dos Comerciantes Naruru enquanto entrega Shining Ice."
-208101,Abyss Battlefield,"O campo de batalha do abismo <Orange></> é um campo de batalha transcendente onde aventureiros de diferentes dimensões se encontram.
-É uma região especial onde aventureiros de diferentes servidores competem e se enfrentam em um único espaço."
+208101,Abyss Battlefield,"O <Orange>Abyss Battlefield</> é um campo de batalha transcendente onde Aventureiros de dimensões diferentes se encontram.
+É uma região especial onde Aventureiros de servidores diferentes competem e se enfrentam num único espaço."
 208102,Abyss Battlefield,"O campo de batalha <Orange>Abyss</> pode ser usado por <Orange>8 horas por semana</>.
 O tempo de uso é continuamente consumido enquanto você permanece no campo de batalha.
 Se todo o tempo de uso se esgotar, você irá não será mais possível entrar.
 Você pode recarregar mais tempo usando o recurso <Orange>Abyss Battlefield Usage Time Recharge</>."
-208103,Abyss Battlefield,"Todas as regiões dentro do campo de batalha <Orange>Abyss</> são <Orange>Zonas fora da lei</>.
-PK alinhamento e penalidades relacionadas não aplicar.
+208103,Abyss Battlefield,"Todas as regiões dentro do <Orange>Abyss Battlefield</> são <Orange>Zonas Fora da Lei</>.
+O alinhamento PK e as penalidades relacionadas não se aplicam.
 É um campo de batalha onde o combate e a competição livres são permitidos."
 208104,Abyss Battlefield,"O <Orange>Abyss Battlefield Redoubt</> é uma área de preparação para combate.
 Você pode usar o Healer Priest, General Merchant, Stash Keeper, e a <Orange>Golden Crystal Shop</>.
 Você pode <Orange> mover-se livremente para Warp Anchors em outros redutos</> independentemente de a Warp Anchor estar ativada ou não."
-208105,Abyss Battlefield,"O <Orange>Status diplomático</> da Terra Abandonada não afeta o Abyss Battlefield.
+208105,Abyss Battlefield,"O <Orange>Status diplomático</> da Forsaken Land não afeta o Abyss Battlefield.
 O Abyss Battlefield utiliza uma diplomacia independente <Orange> sistema</>."
 208106,Abyss Battlefield,"Um Lorde Abissal surge em cada Arena <Orange>uma vez a cada 3 dias</>.
 O Lorde Abissal que surge é <Orange>escolhido em random</>.
@@ -628,7 +628,7 @@ Por favor, esteja atento a isso e conquiste-o com seus companheiros."
 208302,Barreira Temporal,"Cada tipo de barreira de tempo tem tempos de uso diários ou semanais definidos,
 e você pode entrar em uma masmorra <Orange> de dificuldade apropriada</> para cada tipo."
 208303,Barreira Temporal,"Seu tempo de uso começa a diminuir no momento em que você entra na Barreira de Tempo.
-Se você consumir todo o seu tempo de uso, <Orange>você deixará automaticamente o mundo e será transferido para a Terra Abandonada</>."
+Se você consumir todo o seu tempo de uso, <Orange>você deixará automaticamente o mundo e será transferido para a Forsaken Land</>."
 208304,Barreira Temporal,O tempo de uso da Barreira de Tempo pode ser recarregado usando um item de recarga exclusivo.
 208401,Ressonância,<Orange>Resonance</> é um sistema de atualização onde as estatísticas são aprimoradas conforme os níveis progridem.
 208402,Ressonância,"① <Orange>Intensidade de ressonância</> representa o nível de atualização de ressonância. <Orange>Contagens de falhas</> se acumulam e atingir o limite <Orange></> impedirá novas tentativas.
@@ -644,7 +644,7 @@ A ressonância progride de <Orange>Esquerda → Direita</> e, ao chegar ao final
 208502,Predefinição,"① Gerencie <Orange>vários itens equipáveis</> em diferentes decks.
 ② Selecione um deck aqui. O deck 1 é pré-preenchido com as configurações de equipamento anteriores."
 208601,Agendador de IA,O Agendador <Orange>AI</> gerencia suas tarefas e atividades de rotina.
-208602,Agendador de IA,"① Adicione <Orange>Caças, masmorras e missões em terras abandonadas</> à sua programação.
+208602,Agendador de IA,"① Adicione <Orange>Caças, masmorras e missões em Forsaken Land</> à sua programação.
 ② Defina a duração e o custo de cada programação registrada.
 ③ Depois de adicionar pelo menos uma atividade, toque em <Orange>Programar início</> para começar."
 208701,Shadow Incursion,<Orange>Incursão Sombria</> é um evento especial que tem chance de ocorrer durante uma Incursão padrão.
@@ -680,7 +680,7 @@ Obrigações Ativas concedem permanentemente <Orange>estatísticas no nível da 
 Colete ou treine chaveiros registrados para obter estatísticas de bônus.
 As estatísticas de bônus se aplicam a toda a conta."
 100101,Painel de assistência,Apresentando o <Orange>Assist Panel</> que oferece suporte à jogabilidade do aventureiro.
-100701,Adventurers Alliance,"Você descobriu a <Orange>Aliança de Aventureiros</>, uma facção poderosa na Terra Abandonada."
+100701,Adventurers Alliance,"Você descobriu a <Orange>Adventurers’ Alliance</>, uma facção poderosa na Forsaken Land."
 101001,Skill Nível,"Você pode <Orange>aprimorar suas habilidades</> por meio do <Orange>Atualização de nível</> do skills ativo.
 Pressione o botão para prosseguir <Orange> Skill Atualização de nível</>."
 101002,Skill Nível,"① Você pode verificar o consumo de <Orange>Power</> e <Orange>MP</> que são aprimorados de acordo com Skill <Orange>Level</>.
@@ -693,7 +693,7 @@ Você pode selecionar o desejado <Orange>Level</> para prosseguir com a atualiza
 101004,Skill Nível,"O efeito combinado <Orange></> é ativado com base na soma de seus níveis skill.
 As estatísticas adquiridas são aplicadas ao personagem."
 101005,Skill Nível,Skill Manuais e Tomos de Transcendência podem ser obtidos jogando <Orange>Arbiter’s Ordeal – Ordeal of Skill</>.
-102402,Santuário Etéreo,O <Orange>Ethereal Sanctum</> é um antigo teste encontrado em toda a Terra Abandonada e um desafio onde você pode obter tesouros escondidos.
+102402,Santuário Etéreo,O <Orange>Ethereal Sanctum</> é um antigo teste encontrado em toda a Forsaken Land e um desafio onde você pode obter tesouros escondidos.
 102403,Santuário Etéreo,"① O <Orange>Clear Status</> do Ethereal Sanctum é exibido.
 ② O Ethereal Sanctum consiste em <Orange>quatro tipos</> de testes. O método <Orange>Clear</> varia dependendo do tipo de teste."
 102404,Santuário Etéreo,"① Estes são os tipos de teste.
@@ -714,8 +714,8 @@ Ao equipar um Phantom Arma, as estatísticas e habilidades de equipamento <Orang
 ② Você pode tentar fundir uma estrela de grau superior usando armas fantasmas <Orange>4</> do mesmo grau."
 102506,Arma Fantasma,"① As taxas de sucesso de fusão variam com base no seu <Orange>total de tentativas</>.
 ② Verifique seu progresso atual e as taxas de sucesso para cada estágio."
-102507,Arma Fantasma,Armas Fantasma podem ser obtidas através da Aliança de Aventureiros - <Orange>Appraisers' Guild Shop</> ou <Orange>Shop - Convocar</>.
-102602,Trial Gates,<Orange>Portões de Teste</> são <Orange>masmorras especiais</> que você pode encontrar enquanto viaja pela Terra Abandonada.
+102507,Arma Fantasma,Armas Fantasma podem ser obtidas através da Adventurers' Alliance - <Orange>Appraisers' Guild Shop</> ou <Orange>Shop - Convocar</>.
+102602,Trial Gates,<Orange>Trial Gates</> são <Orange>masmorras especiais</> que você pode encontrar enquanto viaja pela Forsaken Land.
 102603,Trial Gates,"① O progresso de limpeza de <Orange> por nível</> para Trial Gates é exibido.
 ② O <Orange>Realm onde o Trial Gate do nível atual está localizado</> é exibido."
 102604,Trial Gates,"① Este é o progresso claro e a lista de Realm.

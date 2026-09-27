@@ -1,11 +1,11 @@
 ﻿Id,Name,Desc
 101020101,Road of Hardship,"Um desfiladeiro árido localizado em frente ao Asientet Gate.
-O trecho interminável da planície vermelha é o primeiro cenário que dá as boas-vindas aos aventureiros que pisam nas Terras Abandonadas."
+O trecho interminável da planície vermelha é o primeiro cenário que dá as boas-vindas aos aventureiros que pisam nas Forsaken Lands."
 101020102,Giant's Tower,"Giant A Giant's Tower é amplamente reconhecida como o pináculo da civilização do antigo império.
 Alheios aos terrores da Grande Incursão, muitos vão para a torre em busca de poder."
 101020103,Babylon,"Um lugar onde o acampamento dos aventureiros começou e cresceu.
 Depois que a torre foi inaugurada, a área cresceu e se tornou uma cidade aliada quando a era das grandes aventuras começou."
-101020104,Bardad Expedition Garrison,"A guarnição construída pela Expedição Bardad para escavar ruínas antigas.
+101020104,Bardad Expedition Garrison,"A guarnição construída pela Bardad Expedition para escavar ruínas antigas.
 Estudiosos de vários países vêm aqui para pesquisar em uma ampla gama de disciplinas."
 101020105,Predator's Hunting Ground,"Um dos principais habitats de predadores no Scything Barrens.
 É uma área perigosa porque abriga muitos monstros, sem falar de predadores."
@@ -25,9 +25,9 @@ A tribo Naruru, que ama a água, formou aldeias ao redor de rios e lagos."
 A tribo Naruru acredita que deve seu enorme tamanho às bênçãos de Ea."
 102020103,Three-way Waterfall,"Uma cachoeira que desce da montanha entre Brume-Veiled Meadow e Beast Corral.
 Diz-se que nenhum aventureiro colocou os olhos na fonte de água no topo da cachoeira."
-102020104,Rappie Ranch,"Rappie Ranch é o maior rancho das Terras Abandonadas.
+102020104,Rappie Ranch,"Rappie Ranch é o maior rancho das Forsaken Lands.
 A tribo Naruru acredita que os Rappies são os apóstolos de Ea e os cria de todo o coração."
-102020105,Great Arbor Domain,"O único lugar nas Terras Abandonadas onde crescem árvores gigantes.
+102020105,Great Arbor Domain,"O único lugar nas Forsaken Lands onde crescem árvores gigantes.
 É uma terra fértil abundante em nutrientes e água necessários para a sobrevivência das árvores."
 102020106,Giant's Garden Ancient Ruins,"Uma instalação usada pelo antigo império para perfurar e refinar o Éter.
 Segundo a lenda, os antigos royalties poderiam controlar o Monólito em seu núcleo."
@@ -57,10 +57,10 @@ Administrada pela Tribo Naruru, a instalação oferece programas de treinamento,
 É chamada de Thunderfall Falls porque o som da água caindo soa como um trovão."
 103020109,Black Water Beach,"Uma praia localizada onde ficava o reino caído de Karadia. 
 É um dos campos de batalha onde o reino lutou contra a Grande Incursão dizimando monstros perto da torre."
-103020110,Maelstrom Strand,"A ruína onde a Expedição Bardad está envolvida em investigação intensiva.
+103020110,Maelstrom Strand,"A ruína onde a Bardad Expedition está envolvida em investigação intensiva.
 É o melhor lugar para desenterrar as ruínas de Karadia, um dos reinos mais poderosos da história da humanidade."
 104020101,Verzard Outpost,"Um posto avançado gerenciado por Stormkel.
-Este lugar é dedicado ao treinamento de recrutas e ao estudo dos recursos das Terras Abandonadas."
+Este lugar é dedicado ao treinamento de recrutas e ao estudo dos recursos das Forsaken Lands."
 104020102,Vagrant's Repose,"Pessoas com todos os tipos de histórias vêm a este lugar para descansar um pouco.
 Aqui você pode encontrar desertores de Stormkel, aventureiros feridos, viciados em Etherium, só para citar alguns."
 104020103,Stormkel Gate,"Um portão na fronteira de Stormkel.
@@ -70,7 +70,7 @@ Eles enfrentaram o frio intenso entre o Jardim do Giant e as terras altas, e con
 104020105,Geyser Field,"Um campo de fontes termais em uma cratera criada pela queda de um asteróide.
 Localizado em Starfall Plateu, este lugar oferece um clima relativamente quente e uma excelente vista dos gêiseres da região."
 104020106,Serpent's Path,"Ganhou esse nome por causa da fenda em forma de cobra que conecta a área das fontes termais. 
-Ruínas antigas foram descobertas abaixo da fenda e membros da expedição Bardad foram enviados para conduzir pesquisas."
+Ruínas antigas foram descobertas abaixo da fenda e membros da Bardad Expedition foram enviados para conduzir pesquisas."
 104020107,White Stag's Cradle,"Uma tundra congelada perto de Stormkel Gate.
 Muitos desaparecem aqui por causa da neve sem fim, do terreno acidentado e das árvores altas."
 104020109,Gray Forest,"Uma floresta tão densa que você não consegue ver por dentro.
@@ -81,17 +81,17 @@ Dizem que foi aqui que o gigante previdente da destruição ponderou sobre o fut
 Ao contrário do Jardim Giant, minérios azuis são encontrados por toda a área."
 105020101,Twisted Elysium,"Uma vasta extensão onde caçadores de espírito livre se reúnem para exibir seus skills.
 A lenda diz que os dragões vagavam por aqui muito antes do surgimento do antigo império."
-105020102,Holy Water Springs,"Águas rasas e calmas do outro lado da Expedição Bardad.
+105020102,Holy Water Springs,"Águas rasas e calmas do outro lado da Bardad Expedition.
 Os registros falam de uma fera mítica que já morou aqui, atraída pela energia pura das águas."
 105020103,Dragon’s Lair,"Um marco que supostamente evoca a imagem de um dragão voando pelos céus,
 embora os dragões agora vivam apenas em mitos antigos."
 105020104,Hunter's Village,"Uma grande vila na parte norte de Twisted Elysium.
 Caçadores de espírito livre constantemente entram e saem deste assentamento."
-105020105,Krea Barreira,"Uma enorme parede construída pelo punho de ferro do Império Krea.
+105020105,Krea Barrier,"Uma enorme parede construída pelo punho de ferro do Império Krea.
 Ele serve para manter os monstros da Torre afastados."
 105020106,Vile Dragon's Lair,"Uma caverna profunda evitada pelos habitantes locais.
 Há rumores de que um dragão costumava descansar aqui depois de se alimentar de suas presas."
-105020107,Floresta profunda,"Uma floresta densa no coração de Twisted Elysium.
+105020107,Deepwood,"Uma floresta densa no coração de Twisted Elysium.
 Quando a folhagem fica espessa, a copa cobre completamente o céu."
 105020108,Bardad Expedition Forward Waypoints,"Um posto avançado construído para estudar os destroços flutuantes da Torre.
 Mesmo em meio às ruínas destruídas, os estudiosos conseguiram encontrar um local aconchegante para descansar a cabeça nos livros."
@@ -99,35 +99,35 @@ Mesmo em meio às ruínas destruídas, os estudiosos conseguiram encontrar um lo
 Tendo despencado profundamente no subsolo, agora emite energia instável."
 105020110,Lake of Spirits,"Um lugar onde os descendentes de Tahn vêm orar.
 Éter denso surge do solo, embora a causa permaneça um mistério."
-501020101,Garth Tranquilo,"Um lugar onde você pode sentir a grandeza do antigo império que floresceu.
+501020101,Tranquil Garth,"Um lugar onde você pode sentir a grandeza do antigo império que floresceu.
 É também o primeiro local que captura o olhar dos aventureiros subindo na torre."
-501020102,Bridge de provações,"Uma ponte que força os visitantes a seguir em frente apesar do medo de cair.
+501020102,Bridge of Ordeals,"Uma ponte que força os visitantes a seguir em frente apesar do medo de cair.
 Aventureiros e soldados de cada país devem atravessá-la se quiserem conquistar a torre."
-501020103,Banquete Salão do Silêncio,"Um lugar dominado por estátuas gigantes e outras grandes esculturas.
+501020103,Banquet Hall of Silence,"Um lugar dominado por estátuas gigantes e outras grandes esculturas.
 Os visitantes deste lugar ficam impressionados com sua magnificência, largando momentaneamente suas armas."
-501020104,Primeiro Reino do Guardião Berço,"O lugar onde reside Gishkal os Punhos de Lava, também conhecidos como guardiões do primeiro reino.
+501020104,First Realm of the Guardian’s Cradle,"O lugar onde reside Gishkal os Punhos de Lava, também conhecidos como guardiões do primeiro reino.
 Diz-se que inúmeros aventureiros desafiaram Gishkal, mas apenas os divinos foram capazes de derrotá-lo."
 502020101,Garden of Beasts,"Um lugar onde lindas flores violetas e um verde exuberante recebem os visitantes.
 Apesar de sua paisagem brilhante e brilhante, está repleto de muitas feras mágicas que ameaçam os aventureiros."
-502020102,Escada dos Suspiros,"O lugar mais profundo do Segundo Reino.
+502020102,Staircase of Sighs,"O lugar mais profundo do Segundo Reino.
 No final das escadas intermináveis ​​aguarda uma estátua de um Giant olhando para os visitantes."
-502020103,Praça do Julgamento,"Esta estrutura do antigo império preserva a maior parte de sua antiga glória.
+502020103,Judgement Plaza,"Esta estrutura do antigo império preserva a maior parte de sua antiga glória.
 Após anos de pesquisa, os estudiosos descobriram que se trata de uma recriação de um tribunal do antigo império."
-502020104,Segundo Reino do Berço do Guardião,"Um lugar onde reside Halpasiam, a Lâmina Congelada, também conhecida como guardiã do segundo reino.
-Mesmo após inúmeros desafios de aventureiros, Halpasiam ainda permanece firme."
+502020104,Second Realm of the Guardian’s Cradle,"Um lugar onde reside Halpasiam the Frozen Blade, também conhecida como guardiã do segundo reino.
+Mesmo após inúmeros desafios de aventureiros, Halpasiam continua firme."
 503020101,Forest of Torment,"Uma floresta onde imponentes árvores antigas e flores de cores vivas recebem os visitantes.
 Cercando os arredores do Terceiro Reino, este é o primeiro lugar que os aventureiros que visitam o reino verão."
 503020102,Lost Paradise,"Aqui, os visitantes ainda podem ver estruturas do antigo império.
 Isso torna o Lost Paradise um local de escavação amplamente popular entre os arqueólogos."
 503020103,Desolate Sanctum,"Um santuário cuidado pelo Explorador da Rainha.
 Muitos aventureiros vieram para este lugar, mas apenas alguns deles passaram no teste do Explorador."
-503020104,Terceiro Reino do Guardian's Cradle,"Um lugar onde Drugamu reside o Thunder Mace, o guardião do terceiro reino.
-Mesmo após inúmeros desafios de aventureiros, Drugamu ainda permanece firme."
+503020104,Third Realm of the Guardian's Cradle,"Um lugar onde reside Drugamu the Thunder Mace, o guardião do terceiro reino.
+Mesmo após inúmeros desafios de aventureiros, Drugamu continua firme."
 504020101,Void Pond,"Conhecido como o local onde o Vazio se infiltrou pela primeira vez, este lago é onde a flora branca e violeta aparece pela primeira vez.
 Muitos exploradores começaram suas jornadas aqui."
 504020102,Violet Garden,"Um jardim místico coberto de flora violeta. Isso prova que a vida floresce mesmo em terras consumidas pelo vazio, 
-oferecendo o primeiro vislumbre dos remanescentes do Sanctuary."
+oferecendo o primeiro vislumbre dos remanescentes do Santuário."
 504020103,Sanctuary of the Void,"Um antigo santuário onde fica um templo de branco puro. Embora engolido pelo Vazio, seus remanescentes sagrados perduram,
 oferecendo uma vista panorâmica de toda a região."
-504020104,Quarto Reino do Berço do Guardião,"Um lugar onde Arcanon reside o Farseer, o guardião do quarto reino.
-Somente aqueles que superarem a prova final podem entrar neste domínio escondido nas profundezas do Sanctuary."
+504020104,Fourth Realm of the Guardian’s Cradle,"Um lugar onde Arcanon reside o Farseer, o guardião do quarto reino.
+Somente aqueles que superarem a prova final podem entrar neste domínio escondido nas profundezas do Santuário."

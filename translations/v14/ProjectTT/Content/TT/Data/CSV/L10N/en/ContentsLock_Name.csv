@@ -127,7 +127,7 @@
 1271,Ordeal of Binding,Uma masmorra para reunir recursos para atualizar {Param}.,,Traje
 1272,Ordeal of Skill,Uma masmorra para reunir recursos para atualizar {Param}.,,Skill
 1273,Ordeal of Constellations,Uma masmorra para reunir recursos para atualizar {Param}.,,Graça das Constelações
-1274,Ordeal of Gold,"Obtenha Ouro, a moeda essencial para se aventurar pelas Terras Abandonadas.",,
+1274,Ordeal of Gold,"Obtenha Ouro, a moeda essencial para se aventurar pelas Forsaken Lands.",,
 1280,Classificação,Competir por classificações com outros jogadores.,,
 1290,Registro de batalha,Revise seus resultados de combate contra outros aventureiros.,,
 1300,Eventos,Explore uma variedade de eventos em andamento.,,
@@ -148,7 +148,7 @@
 1465,Relíquia Sagrada,Equipe Relíquias Sagradas de {Param}.,,Conflito
 1470,,,,
 1480,,,,
-1490,Relações,Encontre diversas relações enquanto viaja pelas Terras Abandonadas.,,
+1490,Relações,Encontre diversas relações enquanto viaja pelas Forsaken Lands.,,
 1500,Replica Seed,Ljahot replicou chefes de campo junto com os membros do seu clã.,,
 1501,Replica Seed,Ljahot replicou chefes de campo junto com os membros do seu clã.,,
 1510,Novo equipamento secundário,Equipar nova engrenagem secundária.,,
@@ -202,44 +202,44 @@
 3002,Giant's Tower {Param}F,Uma nova aventura começa na Giant's Tower do {Param}F.,,2
 3003,Giant's Tower {Param}F,Uma nova aventura começa na Giant's Tower do {Param}F.,,3
 3004,Giant's Tower {Param}F,Uma nova aventura começa na Giant's Tower do {Param}F.,,4
-200001,Guilda de Comerciantes,,,
-200002,Guilda dos Ferreiros,,,
+200001,Merchants Guild,,,
+200002,Blacksmiths Guild,,,
 200003,Artisans Guild,,,
-200004,Guilda dos Avaliadores,,,
+200004,Appraisers' Guild,,,
 200005,Hunters Guild,,,
-200006,Guilda dos Exploradores,,,
+200006,Explorers Guild,,,
 200007,Wayfinders Guild,,,
 300000,Guia,Verifique o guia publicado pela Adventurers Alliance!,,
-300002,Tarefa da Facção da Guilda dos Comerciantes {Param},,,1
-300003,Tarefa da Facção da Guilda dos Comerciantes {Param},,,2
-300004,Tarefa da Facção da Guilda dos Comerciantes {Param},,,3
-300005,Tarefa da Facção da Guilda dos Comerciantes {Param},,,4
-300006,Tarefa da Facção da Guilda dos Comerciantes {Param},,,5
-300007,Tarefa de facção da guilda dos ferreiros {Param},,,1
-300008,Tarefa de facção da guilda dos ferreiros {Param},,,2
-300009,Tarefa de facção da guilda dos ferreiros {Param},,,3
-300010,Tarefa de facção da guilda dos ferreiros {Param},,,4
-300011,Tarefa de facção da guilda dos ferreiros {Param},,,5
+300002,Tarefa da Facção da Merchants Guild {Param},,,1
+300003,Tarefa da Facção da Merchants Guild {Param},,,2
+300004,Tarefa da Facção da Merchants Guild {Param},,,3
+300005,Tarefa da Facção da Merchants Guild {Param},,,4
+300006,Tarefa da Facção da Merchants Guild {Param},,,5
+300007,Tarefa de facção da Blacksmiths Guild {Param},,,1
+300008,Tarefa de facção da Blacksmiths Guild {Param},,,2
+300009,Tarefa de facção da Blacksmiths Guild {Param},,,3
+300010,Tarefa de facção da Blacksmiths Guild {Param},,,4
+300011,Tarefa de facção da Blacksmiths Guild {Param},,,5
 300012,Artisans Guild Tarefa de Facção {Param},,,1
 300013,Artisans Guild Tarefa de Facção {Param},,,2
 300014,Artisans Guild Tarefa de Facção {Param},,,3
 300015,Artisans Guild Tarefa de Facção {Param},,,4
 300016,Artisans Guild Tarefa de Facção {Param},,,5
-300017,Tarefa da Facção da Guilda dos Avaliadores {Param},,,1
-300018,Tarefa da Facção da Guilda dos Avaliadores {Param},,,2
-300019,Tarefa da Facção da Guilda dos Avaliadores {Param},,,3
-300020,Tarefa da Facção da Guilda dos Avaliadores {Param},,,4
-300021,Tarefa da Facção da Guilda dos Avaliadores {Param},,,5
+300017,Tarefa da Facção da Appraisers' Guild {Param},,,1
+300018,Tarefa da Facção da Appraisers' Guild {Param},,,2
+300019,Tarefa da Facção da Appraisers' Guild {Param},,,3
+300020,Tarefa da Facção da Appraisers' Guild {Param},,,4
+300021,Tarefa da Facção da Appraisers' Guild {Param},,,5
 300022,Hunters Guild Faction Task {Param},,,1
 300023,Hunters Guild Faction Task {Param},,,2
 300024,Hunters Guild Faction Task {Param},,,3
 300025,Hunters Guild Faction Task {Param},,,4
 300026,Hunters Guild Faction Task {Param},,,5
-300032,Tarefa de facção da guilda dos Wayfinders {Param},,,1
-300033,Tarefa de facção da guilda dos Wayfinders {Param},,,2
-300034,Tarefa de facção da guilda dos Wayfinders {Param},,,3
-300035,Tarefa de facção da guilda dos Wayfinders {Param},,,4
-300036,Tarefa de facção da guilda dos Wayfinders {Param},,,5
+300032,Tarefa de facção da Wayfinders Guild {Param},,,1
+300033,Tarefa de facção da Wayfinders Guild {Param},,,2
+300034,Tarefa de facção da Wayfinders Guild {Param},,,3
+300035,Tarefa de facção da Wayfinders Guild {Param},,,4
+300036,Tarefa de facção da Wayfinders Guild {Param},,,5
 30001,Commission House,Conclua várias comissões.,,
 30002,Commission House,Conclua várias comissões.,,
 30010,Loja Geral,,,

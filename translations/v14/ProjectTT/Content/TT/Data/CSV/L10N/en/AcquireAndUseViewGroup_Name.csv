@@ -1,26 +1,26 @@
 ﻿ViewGroupId,Desc,Param
 100,Marketplace,
-200,Reputação da Adventurers Alliance alcançada - {Param},Guilda de Comerciantes
-300,Reputação da Adventurers Alliance alcançada - {Param},Guilda dos Ferreiros
+200,Reputação da Adventurers Alliance alcançada - {Param},Merchants Guild
+300,Reputação da Adventurers Alliance alcançada - {Param},Blacksmiths Guild
 400,Reputação da Adventurers Alliance alcançada - {Param},Artisans Guild
-500,Reputação da Adventurers Alliance alcançada - {Param},Guilda dos Avaliadores
+500,Reputação da Adventurers Alliance alcançada - {Param},Appraisers' Guild
 600,Reputação da Adventurers Alliance alcançada - {Param},Hunters Guild
-700,Reputação da Adventurers Alliance alcançada - {Param},Guilda dos Exploradores
+700,Reputação da Adventurers Alliance alcançada - {Param},Explorers Guild
 800,Reputação da Adventurers Alliance alcançada - {Param},Wayfinders Guild
-900,Conquistas da Aliança de Aventureiros - {Param},Guilda de Comerciantes
-1000,Conquistas da Aliança de Aventureiros - {Param},Guilda dos Ferreiros
-1100,Conquistas da Aliança de Aventureiros - {Param},Artisans Guild
-1200,Conquistas da Aliança de Aventureiros - {Param},Guilda dos Avaliadores
-1300,Conquistas da Aliança de Aventureiros - {Param},Hunters Guild
-1400,Conquistas da Aliança de Aventureiros - {Param},Guilda dos Exploradores
-1500,Conquistas da Aliança de Aventureiros - {Param},Wayfinders Guild
-1600,Tarefa da Aliança de Aventureiros - {Param},Guilda de Comerciantes
-1700,Tarefa da Aliança de Aventureiros - {Param},Guilda dos Ferreiros
-1800,Tarefa da Aliança de Aventureiros - {Param},Artisans Guild
-1900,Tarefa da Aliança de Aventureiros - {Param},Guilda dos Avaliadores
-2000,Tarefa da Aliança de Aventureiros - {Param},Hunters Guild
-2100,Tarefa da Aliança de Aventureiros - {Param},Guilda dos Exploradores
-2200,Tarefa da Aliança de Aventureiros - {Param},Wayfinders Guild
+900,Conquistas da Adventurers Alliance - {Param},Merchants Guild
+1000,Conquistas da Adventurers Alliance - {Param},Blacksmiths Guild
+1100,Conquistas da Adventurers Alliance - {Param},Artisans Guild
+1200,Conquistas da Adventurers Alliance - {Param},Appraisers' Guild
+1300,Conquistas da Adventurers Alliance - {Param},Hunters Guild
+1400,Conquistas da Adventurers Alliance - {Param},Explorers Guild
+1500,Conquistas da Adventurers Alliance - {Param},Wayfinders Guild
+1600,Tarefa da Adventurers Alliance - {Param},Merchants Guild
+1700,Tarefa da Adventurers Alliance - {Param},Blacksmiths Guild
+1800,Tarefa da Adventurers Alliance - {Param},Artisans Guild
+1900,Tarefa da Adventurers Alliance - {Param},Appraisers' Guild
+2000,Tarefa da Adventurers Alliance - {Param},Hunters Guild
+2100,Tarefa da Adventurers Alliance - {Param},Explorers Guild
+2200,Tarefa da Adventurers Alliance - {Param},Wayfinders Guild
 2300,Monolith War,
 2400,Monolith War - {Param},Vitória Recompensa Privada
 2500,Monolith War - {Param},Derrotar recompensa privada
@@ -30,10 +30,10 @@
 3000,Invocar traje,
 3100,Fantasia de fusível,
 3200,Fusível Arma Fantasma,
-3501,Passe de temporada,
-3601,Passe de Temporada - {Param},Missão
-3700,{Param},Passe de Convocação
-3701,{Param},[5★ garantido] Passe de convocação
+3501,Season Pass,
+3601,Season Pass - {Param},Missão
+3700,{Param},Summon Pass
+3701,{Param},[5★ garantido] Summon Pass
 3800,{Param} Missão,Passe da loja
 3801,{Param} Missão,Passe da loja
 3900,{Param},Passe da loja II
@@ -57,7 +57,7 @@
 5500,Clã {Param},Recompensa semanal
 5600,Clã {Param},Doação
 5700,Clã {Param},Venda Interna
-5800,Terra Abandonada - Lv.[Level] [Keyword],
+5800,Forsaken Land - Lv.[Level] [Keyword],
 5900,Giant's Tower - Lv.[Level] [Keyword],
 5950,Abyss Battlefield - Lv.[Level] [Keyword],
 5970,Barreira Temporal - Lv.[Level] [Keyword],
@@ -102,13 +102,13 @@
 10000,Loja Geral,
 10100,Sunset Brewery - {Param},Loja Geral
 10200,Babylon - {Param},Loja Geral
-10300,Loja da Aliança dos Aventureiros - {Param},Guilda de Comerciantes
-10400,Loja da Aliança dos Aventureiros - {Param},Guilda dos Ferreiros
-10500,Loja da Aliança dos Aventureiros - {Param},Artisans Guild
-10600,Loja da Aliança dos Aventureiros - {Param},Guilda dos Avaliadores
-10700,Loja da Aliança dos Aventureiros - {Param},Hunters Guild
-10800,Loja da Aliança dos Aventureiros - {Param},Guilda dos Exploradores
-10900,Loja da Aliança dos Aventureiros - {Param},Wayfinders Guild
+10300,Loja da Adventurers' Alliance - {Param},Merchants Guild
+10400,Loja da Adventurers' Alliance - {Param},Blacksmiths Guild
+10500,Loja da Adventurers' Alliance - {Param},Artisans Guild
+10600,Loja da Adventurers' Alliance - {Param},Appraisers' Guild
+10700,Loja da Adventurers' Alliance - {Param},Hunters Guild
+10800,Loja da Adventurers' Alliance - {Param},Explorers Guild
+10900,Loja da Adventurers' Alliance - {Param},Wayfinders Guild
 11500,Ancient Coin Shop,
 11600,Clan’s Ancient Coins Shop,
 11700,Adventurers’ Alliance Guild Coin Shop,
@@ -577,28 +577,28 @@
 32300,Recompensa de conclusão da missão do clã,
 32400,Recompensa de pontuação da missão do clã - {Param},Privado
 32500,Recompensa de pontuação da missão do clã - {Param},Clã
-32600,Recompensa de Expedição de Clã - {Param},Privado
-32700,Recompensa de Expedição de Clã - {Param},Clã
+32600,Recompensa de Clan Expedition - {Param},Privado
+32700,Recompensa de Clan Expedition - {Param},Clã
 32800,Incursão de Sombra - {Param},Fragmento de Sombra
 32904,Keyring Milestone Summon Rewards,
 32905,Loja - Recompensa de compra cumulativa ({Param}),Semanal/mensal
 32906,Loja - Recompensa de compra cumulativa ({Param}),Celebração de lançamento global
 32907,Loja - Recompensa de compra cumulativa ({Param}),Semanal/mensal
 32908,Loja - Recompensa de compra cumulativa ({Param}),Semanal/mensal
-33000,Loja - Missão do Reino {Param},[Realm 1 Clear] Novo Pacote All-in-One de Invocação
-33001,Loja - Missão do Reino {Param},[Realm 2 Ascension] Pacote 4-Star Mount Black King
-33002,Loja - Missão do Reino {Param},[Realm 3 Clear] Novo Constellation Master Pack
-33003,Loja - Missão do Reino {Param},[Realm 4 Clear] Novo Summon Master Pack
-33004,Loja - Missão do Reino {Param},[Realm 5 Clear] Novo pacote de colecionador de chaveiro
+33000,Loja - Missão do Reino {Param},[Realm 1 Clear] New Summon All-in-One Pack
+33001,Loja - Missão do Reino {Param},[Realm 2 Ascension] 4-Star Mount Black King Pack
+33002,Loja - Missão do Reino {Param},[Realm 3 Clear] New Constellation Master Pack
+33003,Loja - Missão do Reino {Param},[Realm 4 Clear] New Summon Master Pack
+33004,Loja - Missão do Reino {Param},[Realm 5 Clear] New Keyring Collector's Pack
 33005,Loja - Missão de nível {Param},[Lv. 30 Milestone] Novo pacote multifuncional de convocação
 33006,Loja - Missão de nível {Param},[Lv. 40 Milestone] Novo pacote multifuncional de convocação
 33007,Loja - Missão de nível {Param},[Lv. 45 Marco] Novo pacote multifuncional de convocação
 33008,Loja - Missão de nível {Param},[Lv. 50 Milestone] Novo pacote multifuncional de convocação
 33100,Loja - {Param},Pacote de check-in de ingressos de reforço de atualização de verão
-33103,Loja - {Param},[Lançamento global] 4★ Quadro de check-in do desafio
-33104,Loja - {Param},Pacote de check-in de ajuda de atualização de chaveiro
-33105,Loja - {Param},[Conclusão de 7 dias] Pacote de check-in de convocação
-33106,Loja - {Param},Relíquia Sagrada do Conflito Pacote de Check-In
+33103,Loja - {Param},[Global Launch] 4★ Challenge Check-in Board
+33104,Loja - {Param},Keyring Upgrade Aid Check-in Pack
+33105,Loja - {Param},[7-Day Completion] Summon Check-In Pack
+33106,Loja - {Param},Sacred Relic of Strife Check-In Pack
 33200,Desafio de nível - {Param},Recompensa da missão
 33201,Desafio de Poder de Combate - {Param},Recompensa da missão
 33202,Desafio de conteúdo - {Param},Recompensa da missão
@@ -626,10 +626,10 @@
 35200,Loja - {Param},Thunder Mane Step-Up
 35203,Loja - {Param},S2 Thorstein Step-Up de Suprimentos Especiais
 35204,Loja - {Param},Invocação de bônus Step-Up
-35205,Loja - {Param},Pacote de check-in de ajuda de atualização de chaveiro
-35206,Loja - {Param},[Lançamento global] 4★ Quadro de check-in do desafio
-35207,Loja - {Param},[Conclusão de 7 dias] Pacote de check-in de convocação
-35208,Loja - {Param},Relíquia Sagrada do Conflito Pacote de Check-In
+35205,Loja - {Param},Keyring Upgrade Aid Check-in Pack
+35206,Loja - {Param},[Global Launch] 4★ Challenge Check-in Board
+35207,Loja - {Param},[7-Day Completion] Summon Check-In Pack
+35208,Loja - {Param},Sacred Relic of Strife Check-In Pack
 35300,OOParts - {Param},Investigação
 35400,Replica Seed - [Keyword],
 100100,Despertar - {Param},Desbloquear célula
@@ -648,42 +648,42 @@
 101400,Infundir Equipamento,
 101500,Infundir Equipamento,
 101600,Sacred Relic - {Param},Avanço
-101700,Apoio à Aliança dos Aventureiros,
-101800,Aliança de Aventureiros de Apoio - {Param},Guilda de Comerciantes
-101900,Aliança de Aventureiros de Apoio - {Param},Guilda dos Ferreiros
-102000,Aliança de Aventureiros de Apoio - {Param},Artisans Guild
-102100,Aliança de Aventureiros de Apoio - {Param},Guilda dos Avaliadores
-102200,Aliança de Aventureiros de Apoio - {Param},Hunters Guild
-102300,Aliança de Aventureiros de Apoio - {Param},Guilda dos Exploradores
-102400,Aliança de Aventureiros de Apoio - {Param},Wayfinders Guild
-102500,Pesquisa da Adventurers Alliance - {Param},Guilda de Comerciantes
-102600,Pesquisa da Adventurers Alliance - {Param},Guilda dos Ferreiros
+101700,Apoio à Adventurers' Alliance,
+101800,Adventurers Alliance de Apoio - {Param},Merchants Guild
+101900,Adventurers Alliance de Apoio - {Param},Blacksmiths Guild
+102000,Adventurers Alliance de Apoio - {Param},Artisans Guild
+102100,Adventurers Alliance de Apoio - {Param},Appraisers' Guild
+102200,Adventurers Alliance de Apoio - {Param},Hunters Guild
+102300,Adventurers Alliance de Apoio - {Param},Explorers Guild
+102400,Adventurers Alliance de Apoio - {Param},Wayfinders Guild
+102500,Pesquisa da Adventurers Alliance - {Param},Merchants Guild
+102600,Pesquisa da Adventurers Alliance - {Param},Blacksmiths Guild
 102700,Pesquisa da Adventurers Alliance - {Param},Artisans Guild
-102800,Pesquisa da Adventurers Alliance - {Param},Guilda dos Avaliadores
+102800,Pesquisa da Adventurers Alliance - {Param},Appraisers' Guild
 102900,Pesquisa da Adventurers Alliance - {Param},Hunters Guild
-103000,Pesquisa da Adventurers Alliance - {Param},Guilda dos Exploradores
+103000,Pesquisa da Adventurers Alliance - {Param},Explorers Guild
 103100,Pesquisa da Adventurers Alliance - {Param},Wayfinders Guild
-103200,Pesquisa da Adventurers Alliance - {Param},Guilda de Comerciantes
-103300,Pesquisa da Adventurers Alliance - {Param},Guilda dos Ferreiros
+103200,Pesquisa da Adventurers Alliance - {Param},Merchants Guild
+103300,Pesquisa da Adventurers Alliance - {Param},Blacksmiths Guild
 103400,Pesquisa da Adventurers Alliance - {Param},Artisans Guild
-103500,Pesquisa da Adventurers Alliance - {Param},Guilda dos Avaliadores
+103500,Pesquisa da Adventurers Alliance - {Param},Appraisers' Guild
 103600,Pesquisa da Adventurers Alliance - {Param},Hunters Guild
-103700,Pesquisa da Adventurers Alliance - {Param},Guilda dos Exploradores
+103700,Pesquisa da Adventurers Alliance - {Param},Explorers Guild
 103800,Pesquisa da Adventurers Alliance - {Param},Wayfinders Guild
-103900,Pesquisa da Adventurers Alliance - {Param},Guilda de Comerciantes
-104000,Pesquisa da Adventurers Alliance - {Param},Guilda dos Ferreiros
+103900,Pesquisa da Adventurers Alliance - {Param},Merchants Guild
+104000,Pesquisa da Adventurers Alliance - {Param},Blacksmiths Guild
 104100,Pesquisa da Adventurers Alliance - {Param},Artisans Guild
-104200,Pesquisa da Adventurers Alliance - {Param},Guilda dos Avaliadores
+104200,Pesquisa da Adventurers Alliance - {Param},Appraisers' Guild
 104300,Pesquisa da Adventurers Alliance - {Param},Hunters Guild
-104400,Pesquisa da Adventurers Alliance - {Param},Guilda dos Exploradores
+104400,Pesquisa da Adventurers Alliance - {Param},Explorers Guild
 104500,Pesquisa da Adventurers Alliance - {Param},Wayfinders Guild
-104600,Loja da Aliança dos Aventureiros - {Param},Guilda de Comerciantes
-104700,Loja da Aliança dos Aventureiros - {Param},Guilda dos Ferreiros
-104800,Loja da Aliança dos Aventureiros - {Param},Artisans Guild
-104900,Loja da Aliança dos Aventureiros - {Param},Guilda dos Avaliadores
-105000,Loja da Aliança dos Aventureiros - {Param},Hunters Guild
-105100,Loja da Aliança dos Aventureiros - {Param},Guilda dos Exploradores
-105200,Loja da Aliança dos Aventureiros - {Param},Wayfinders Guild
+104600,Loja da Adventurers' Alliance - {Param},Merchants Guild
+104700,Loja da Adventurers' Alliance - {Param},Blacksmiths Guild
+104800,Loja da Adventurers' Alliance - {Param},Artisans Guild
+104900,Loja da Adventurers' Alliance - {Param},Appraisers' Guild
+105000,Loja da Adventurers' Alliance - {Param},Hunters Guild
+105100,Loja da Adventurers' Alliance - {Param},Explorers Guild
+105200,Loja da Adventurers' Alliance - {Param},Wayfinders Guild
 105300,Memórias de Gudua,
 105400,Artesanato - [Keyword],
 105500,Skill - {Param},Adquirir
@@ -730,13 +730,13 @@
 109300,Loja Geral,
 109400,Sunset Brewery - {Param},Loja Geral de Cervejaria
 109500,Babylon - {Param},Babylon General Store
-109600,Loja da Aliança dos Aventureiros - {Param},Guilda de Comerciantes
-109700,Loja da Aliança dos Aventureiros - {Param},Guilda dos Ferreiros
-109800,Loja da Aliança dos Aventureiros - {Param},Artisans Guild
-109900,Loja da Aliança dos Aventureiros - {Param},Guilda dos Avaliadores
-110000,Loja da Aliança dos Aventureiros - {Param},Hunters Guild
-110100,Loja da Aliança dos Aventureiros - {Param},Guilda dos Exploradores
-110200,Loja da Aliança dos Aventureiros - {Param},Wayfinders Guild
+109600,Loja da Adventurers' Alliance - {Param},Merchants Guild
+109700,Loja da Adventurers' Alliance - {Param},Blacksmiths Guild
+109800,Loja da Adventurers' Alliance - {Param},Artisans Guild
+109900,Loja da Adventurers' Alliance - {Param},Appraisers' Guild
+110000,Loja da Adventurers' Alliance - {Param},Hunters Guild
+110100,Loja da Adventurers' Alliance - {Param},Explorers Guild
+110200,Loja da Adventurers' Alliance - {Param},Wayfinders Guild
 110300,Ancient Coin Shop,
 110400,Clan’s Ancient Coins Shop,
 110500,Adventurers’ Alliance Guild Coin Shop,
@@ -775,13 +775,13 @@
 112401,Upgrade Boost Roulette,
 112402,Evento de roleta de aniversário de 200 dias,
 112403,Roleta de reforço de atualização de verão,
-112500,Evento de Rolagem de Dados - {Param},Inverno na Terra Abandonada!
+112500,Evento de Rolagem de Dados - {Param},Inverno na Forsaken Land!
 112501,Evento de Rolagem de Dados - {Param},Festival de Dados da Primavera!
 112502,Evento de Rolagem de Dados - {Param},Festival de Dados de Verão!
 112600,- [Keyword],
 112700,Redefinição de ressonância - [Keyword],
 112800,Ressonância - [Keyword] Amplificação de ressonância,
-112900,Expedição de Clã Entrance,
+112900,Clan Expedition Entrance,
 113000,- {Param},Desbloquear
 113100,- {Param},Transcender
 113200,- {Param},Aumento de nível

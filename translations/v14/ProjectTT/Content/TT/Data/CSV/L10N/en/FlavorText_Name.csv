@@ -18,7 +18,7 @@
 1000015,Exame de cadáver
 1000016,Guia botânico
 1000017,Guia botânico
-1000018,Relatório Formal
+1000018,Formal Report
 1000019,Vagão destruído
 1000020,Objeto Cintilante
 1000021,Escudo descartado
@@ -39,11 +39,11 @@
 1000036,Resíduo Estranho
 1000037,Nota Estranha
 1000038,Flor caída
-1000039,Carta Secreta
-1000040,Registro de Dever
+1000039,Secret Letter
+1000040,Duty Log
 1000041,Razão de Inventário
-1000042,Carta Secreta
-1000043,Carta Secreta
+1000042,Secret Letter
+1000043,Secret Letter
 1000044,Ervas Medicinais
 1000045,Pedaço de papel
 1000046,Esfregar tinta
@@ -64,18 +64,18 @@
 1000061,Baú gasto
 1000062,Giant Cacto
 1000063,Limpar Água de Taima Oasis
-1000064,Licor Taima refrigerado a primavera
+1000064,Taima Liquor refrigerado a primavera
 1000065,Babaju Storage
 1000066,Emaranhamento de Éter
 1000067,Investigação de piso brilhante
 1000068,Investigação de parede coberta de videiras
 1000069,Lote de Vila Pequena
-1000070,Bolsa de presente
+1000070,Gift Pouch
 1000071,Rack de secagem de couro
 1000072,Faixas de roda
 1000073,Exame de cadáver
-1000074,Relatório Formal
-1000075,Relatório Formal
+1000074,Formal Report
+1000075,Formal Report
 1000076,Marcação misteriosa
 1000077,Cadáver não identificado
 1000078,Roupas esfarrapadas
@@ -99,17 +99,17 @@
 1000096,Diretivas do Lobo das Sombras
 1000097,Carga com crista leve do Mar do Norte
 1000098,Manchas de Sangue
-1000099,Carta Ensangüentada
+1000099,Bloodied Letter
 1000100,Carga dentro da relíquia
 1000101,Cadáver de Shadow Wolf Captain
 1000102,A pessoa desaparecida
 1000103,A pessoa desaparecida
 1000104,Etherium Candy
-1000105,Doces de Etherium falsificados
+1000105,Counterfeit Etherium Candy
 1000106,Caixa de Doces de Etherium
 1000107,Artefato de Pedra
 1000108,Flor desabrochando em uma rocha
-1000109,Raiz da Flor Estrela do Mar
+1000109,Starfish Flower Root
 1000110,Oasis Water
 1000111,Bloco de Pedra
 1000112,Poção de recuperação
@@ -134,7 +134,7 @@
 1000219,Nota no chão
 1000221,Pedra Preciosa Brilhante
 1000222,O Ouro Oculto de Amelie
-1000223,Licor Medicinal
+1000223,Medicinal Liquor
 1000224,Colher água
 1000225,Pó Paralisante
 1000226,Raiz da árvore
@@ -145,14 +145,14 @@
 1000305,Parcela Semeada
 1000306,Parcela Semeada
 1000307,Parcela Semeada
-1000308,Mapa tático
+1000308,Tactical Map
 1000309,Ervas Medicinais
 1000310,Armadilha de Caça
 1000311,Lenha
 1000312,Ramo
 1000313,Bloco de Pedra
 1000314,Documentos próximos ao carro
-1000401,Fragmento quebrado Tesseract
+1000401,Broken Tesseract Fragment
 1000402,Paradise Advent Robe
 1000403,Papel amassado
 1000404,Rastreamentos Suspeitos
@@ -232,20 +232,20 @@
 1000509,Fragmento de fator de Tagar
 1000510,Herb
 1000511,Herb
-1000512,Rappie Lanche
+1000512,Rappie Snack
 1000513,Minério Brilhante
 1000514,Minério Brilhante
 1000515,Madeira
 1000516,Peixe
 1000517,Token de Romance
-1000601,Dispositivo de Gravação Visual
+1000601,Visual Recording Device
 1000602,Carta do Simon
 1000603,Encontre o dispositivo de gravação de imagem
 1000604,Encontre o dispositivo de gravação de imagem
 1000605,Encontre o dispositivo de gravação de imagem
 1000606,Carga da tribo Kuduru
 1000607,Carga da tribo Kuduru
-1000608,Carta da Sonya
+1000608,Sonya’s Letter
 1000609,Resta
 1000610,Vela acesa
 1000611,Implementos de Tortura Ensanguentado
@@ -287,7 +287,7 @@
 1000724,Complete o questionário
 1000725,Item de Kaila
 1000726,Investigue o cadáver
-1000727,Ative o Detector de Cluster
+1000727,Ative o Cluster Detector
 1000728,<Emergency Evacuation: Part I>
 1000729,<Emergency Evacuation: Part II>
 1000730,Traços de Éter
@@ -349,12 +349,12 @@
 101040101,Cidade dos Aventureiros
 101040102,Ambiente e história
 101040103,Para o Sem Nome I
-101040104,Guilda de Comerciantes
+101040104,Merchants Guild
 101040105,Fonte dos Desejos
 101040106,Composição
 101040107,Esconderijo do clã Polaris
-101040108,Judgment Irracional
-101040109,Guilda dos Avaliadores
+101040108,Julgamento Irracional
+101040109,Appraisers' Guild
 101040110,Nascimento da Torre
 101040111,Predator
 101040112,Era da Humanidade
@@ -378,7 +378,7 @@
 102040110,Sociedade e Cultura Antiga
 102040111,Código de Conduta da Cervejaria
 102040112,Baba
-102040113,Guilda dos Exploradores
+102040113,Explorers Guild
 102040114,Flor e veneno
 102040115,Despacho perdido
 102040201,Análise de adequação de mineração
@@ -444,7 +444,7 @@
 502040103,Alerta de anomalia
 503040101,Controle de impulso
 503040102,Relatório de Situação de Emergência
-503040103,Verificação de Design
-504040101,Mensagem final
-504040102,Relatório de teste do assunto
-504040103,Linha de Ley do Éter
+503040103,Design Verification
+504040101,Final Message
+504040102,Subject Test Report
+504040103,Aether Leyline

@@ -44,14 +44,14 @@ Se você adquirir pontos suficientes para atingir a quantidade desejada, poderá
 38,{Param} Graça das constelações Pontos de Fusão,4 estrelas,Pontos usados ​​para trocar Cartões de Graça das constelações.
 39,{Param} Graça das constelações Pontos de Fusão,5 Estrelas,Pontos usados ​​para trocar Cartões de Graça das constelações.
 40,{Param} Graça das constelações Pontos de Fusão,6 estrelas,Pontos usados ​​para trocar Cartões de Graça das constelações.
-24,{Param} Afinidade da guilda,Comerciante,{Param} Pontos usados para construir afinidade com a Guilda.
+24,{Param} Afinidade da guilda,Merchant,{Param} Pontos usados para construir afinidade com a Guilda.
 25,{Param} Afinidade da guilda,Blacksmith,{Param} Pontos usados para construir afinidade com a Guilda.
-26,{Param} Afinidade da guilda,Artesão,{Param} Pontos usados para construir afinidade com a Guilda.
-27,{Param} Afinidade da guilda,Avaliador,{Param} Pontos usados para construir afinidade com a Guilda.
+26,{Param} Afinidade da guilda,Artisan,{Param} Pontos usados para construir afinidade com a Guilda.
+27,{Param} Afinidade da guilda,Appraisor,{Param} Pontos usados para construir afinidade com a Guilda.
 28,{Param} Afinidade da guilda,Hunter,{Param} Pontos usados para construir afinidade com a Guilda.
 29,{Param} Afinidade da guilda,Explorer,{Param} Pontos usados para construir afinidade com a Guilda.
 30,{Param} Afinidade da guilda,Wayfinder,{Param} Pontos usados para construir afinidade com a Guilda.
 50,Selo da Fenda Anomalia,,"Moeda necessária para obter a recompensa “Anomaly Rift: Uninvited Guest”.
 Obtido através do conteúdo do Aburu's Bounty Festival."
-53,Token de Cooperação do Clã,,Recurso do clã necessário para ativar a Expedição do Clã.
+53,Token de Cooperação do Clã,,Recurso do clã necessário para ativar a Clan Expedition.
 58,Pontos de arquiteto,,Obtido na compra de itens no aplicativo por meio do cliente Architect.

@@ -39,16 +39,16 @@
 100408,Não esqueça suas memórias {TaskIndex},Use memórias {RequiredStackCount}
 100409,Não esqueça suas memórias {TaskIndex},Use memórias {RequiredStackCount}
 100410,Não esqueça suas memórias {TaskIndex},Use memórias {RequiredStackCount}
-100501,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Terra Abandonada
-100502,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Terra Abandonada
-100503,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Terra Abandonada
-100504,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Terra Abandonada
-100505,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Terra Abandonada
-100506,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Terra Abandonada
-100507,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Terra Abandonada
-100508,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Terra Abandonada
-100509,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Terra Abandonada
-100510,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Terra Abandonada
+100501,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
+100502,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
+100503,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
+100504,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
+100505,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
+100506,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
+100507,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
+100508,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
+100509,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
+100510,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
 100601,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Barreira Temporal
 100602,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Barreira Temporal
 100603,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Barreira Temporal
@@ -179,16 +179,16 @@
 101808,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Arena Angbar
 101809,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Arena Angbar
 101810,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Arena Angbar
-101901,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Expedição do Clã
-101902,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Expedição do Clã
-101903,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Expedição do Clã
-101904,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Expedição do Clã
-101905,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Expedição do Clã
-101906,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Expedição do Clã
-101907,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Expedição do Clã
-101908,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Expedição do Clã
-101909,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Expedição do Clã
-101910,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Expedição do Clã
+101901,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
+101902,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
+101903,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
+101904,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
+101905,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
+101906,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
+101907,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
+101908,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
+101909,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
+101910,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
 102001,Siga-me!,Faça com que jogadores {RequiredStackCount} alcancem o Rank 1 na contribuição do chefe da Grande Incursão
 102101,Primeiro Passo para o Ambiente Verde,Possuir {RequiredStackCount} Monólitos
 102201,Guardian of the Abyss,Possuir {RequiredStackCount} Abyss Battlefield Guardiões

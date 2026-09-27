@@ -204,7 +204,7 @@ Uma qualidade mais alta permite efeitos de pós-processamento mais avançados, m
 25102,Skill,,,,,,,,,
 25103,Mapa-múndi,,,,,,,,,
 25104,Missões,,,,,,,,,
-25108,Aliança dos Aventureiros,,,,,,,,,
+25108,Adventurers Alliance,,,,,,,,,
 25111,As estatísticas,,,,,,,,,
 25113,Câmera,,,,,,,,,
 25114,Bate-papo,,,,,,,,,
@@ -284,11 +284,11 @@ Uma qualidade mais alta permite efeitos de pós-processamento mais avançados, m
 30002,Botão de ataque do mouse (desativado),Define o método de entrada para o botão Ataque do Mouse.,,Clique Esquerdo,Clique com o botão direito,,,,,
 30003,Modo de ação de ataque do mouse (desativado),"Define a ação executada ao usar o ataque do mouse.
 
-[Normal Attack]
+[Ataque normal]
 - Executa um único ataque normal por entrada.
 
 [Combate automático (selecionado Alvo)]
-- Inicia o combate automático com o alvo selecionado na entrada.",,Normal Attack,Combate automático (alvo selecionado),,,,,
+- Inicia o combate automático com o alvo selecionado na entrada.",,Ataque normal,Combate automático (alvo selecionado),,,,,
 30004,Combate automático (alvo selecionado) (desativado),Define se skills será usado automaticamente durante o combate automático (alvo selecionado).,,Skills Desativado,Auto Skill Usar,,,,,
 31001,Controles do mouse no jogo (desativados),Habilite o uso de controles do mouse no jogo.,,Em,Desativado,,,,,
 31003,Sincronização de clique do mouse (desativado),Define os botões esquerdo e direito do mouse para a mesma função.,,Em,Desativado,,,,,
@@ -304,11 +304,11 @@ Uma qualidade mais alta permite efeitos de pós-processamento mais avançados, m
 2028,Usar slot rápido (PC),Escolha se deseja usar o Quick Slot para registrar consumíveis.,,,,,,,,
 2029,Usar slot rápido (móvel),Escolha se deseja usar o Quick Slot para registrar consumíveis.,,,,,,,,
 3135,Sai instantaneamente do modo de economia de energia durante PvP,Sai instantaneamente do modo de economia de energia quando atacado por outro jogador.,,,,,,,,
-27002,Aliança dos Aventureiros,,,,,,,,,
+27002,Adventurers Alliance,,,,,,,,,
 27003,Monolith War,,,,,,,,,
 27004,Inventário,,,,,,,,,
 27005,Loja,,,,,,,,,
-27007,Passe de temporada,,,,,,,,,
+27007,Season Pass,,,,,,,,,
 27008,Missões,,,,,,,,,
 27009,Missão de arquivo,,,,,,,,,
 27010,Missão de comissão,,,,,,,,,

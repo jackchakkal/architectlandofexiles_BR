@@ -34,25 +34,25 @@
 10011,Trono Dourado Exaltado,
 10012,Majestade do Rei Dourado,
 10013,Símbolo de Abundância e Opulência,
-20001,Coleção do comerciante,
-20002,Item querido do comerciante,
+20001,Coleção do Merchant,
+20002,Item querido do Merchant,
 20003,Merchant’s Treasure,
-20004,Solicitação do comerciante Spoils,
-20005,Legado do comerciante,
+20004,Solicitação do Merchant Spoils,
+20005,Legado do Merchant,
 30001,Livro razão de comerciantes negros,
 30002,Itens Secretos da Caravana Vermelha,
 30003,Lista dos Termos da Golden Trading Guild,
 30004,Tesouro da Royal Merchant Guild,
-30005,Comércio ilícito de comerciante do mercado negro,
+30005,Comércio ilícito de Merchant do mercado negro,
 30006,Mercadorias Esquecidas da Antiga Guilda dos Mercadores,
 30007,Mercadorias comerciais errantes da Guilda dos Mercadores,
 30008,Negociações de Anima da Guilda dos Comerciantes,
 30009,Despojos do Galeão Vermelho,
 30010,Livro da Caravana do Deserto,
-30011,Comerciante do Vento Oeste Registros da Guilda,
+30011,Merchant do Vento Oeste Registros da Guilda,
 30012,Itens proibidos da Guilda dos Mercadores do Submundo,
 30013,Despojos listados no contrato,
-30014,Comércio do Mercador Guardião,
+30014,Comércio do Merchant Guardião,
 30015,Segredos da Guilda dos Mercadores de Blackiron,
 30016,High Chancellor's Merchant's Collection Vault,
 30017,Windpath Objetos de Valor da Guilda Comercial,
@@ -62,7 +62,7 @@
 30021,Mercadorias comerciais desenterradas de Ruins,
 30022,Guild Merchant Guild Rarities,
 30023,Trading Ship’s Unidentified Cargo,
-30024,Obras-primas com curadoria do comerciante,
+30024,Obras-primas com curadoria do Merchant,
 30025,Vale Merchant Guild’s Spoils,
 50001,Cristal Fraco da Destreza,
 50002,Agitadora Preço de Destreza,
@@ -8762,11 +8762,11 @@
 453106,Saldo de títulos brilhantes {Param},IV
 453107,Saldo dos títulos resolutos {Param},IV
 453108,Saldo de Títulos Absolutos {Param},IV
-490001,Coleção do artesão,
-490002,Item querido do artesão,
-490003,Tesouro do Artesão,
-490004,Despojos do Artesão,
-490005,Legado do Artesão,
+490001,Coleção do Artisan,
+490002,Item querido do Artisan,
+490003,Tesouro do Artisan,
+490004,Despojos do Artisan,
+490005,Legado do Artisan,
 700001,Espada e Magia,
 700002,Instrutor de tiro com arco duro,
 700003,Paladin’s Teachings {Param},I
@@ -8897,7 +8897,7 @@
 710008,Tesouro Místico {Param},II
 711001,Emoção de Exploração,
 711002,Jornada para o Desconhecido,
-711003,Investigação da Terra Abandonada,
+711003,Investigação da Forsaken Land,
 711004,Traços de uma Civilização Perdida,
 711005,Passos Antigos,
 711006,Rare Mask {Param},I
@@ -8968,21 +8968,21 @@
 714505,Coleção Lockpick Comum,
 714506,Descoberta misteriosa de lockpick,
 714507,Lockpick desconhecido,
-720001,Tarefa do comerciante {Param},I
-720002,Tarefa do comerciante {Param},II
-720003,Tarefa do comerciante {Param},III
-720004,Tarefa do comerciante {Param},IV
-720005,Tarefa do comerciante {Param},V
-720006,Solicitação do comerciante {Param},I
-720007,Solicitação do comerciante {Param},II
-720008,Solicitação do comerciante {Param},III
-720009,Solicitação do comerciante {Param},IV
-720010,Solicitação do comerciante {Param},V
-720011,Comissão do comerciante {Param},I
-720012,Comissão do comerciante {Param},II
-720013,Comissão do comerciante {Param},III
-720014,Comissão do comerciante {Param},IV
-720015,Comissão do comerciante {Param},V
+720001,Tarefa do Merchant {Param},I
+720002,Tarefa do Merchant {Param},II
+720003,Tarefa do Merchant {Param},III
+720004,Tarefa do Merchant {Param},IV
+720005,Tarefa do Merchant {Param},V
+720006,Solicitação do Merchant {Param},I
+720007,Solicitação do Merchant {Param},II
+720008,Solicitação do Merchant {Param},III
+720009,Solicitação do Merchant {Param},IV
+720010,Solicitação do Merchant {Param},V
+720011,Comissão do Merchant {Param},I
+720012,Comissão do Merchant {Param},II
+720013,Comissão do Merchant {Param},III
+720014,Comissão do Merchant {Param},IV
+720015,Comissão do Merchant {Param},V
 720016,Tarefa de Blacksmith {Param},I
 720017,Tarefa de Blacksmith {Param},II
 720018,Tarefa de Blacksmith {Param},III
@@ -8998,36 +8998,36 @@
 720028,Comissão de Blacksmith {Param},III
 720029,Comissão de Blacksmith {Param},IV
 720030,Comissão de Blacksmith {Param},V
-720031,Tarefa do artesão {Param},I
-720032,Tarefa do artesão {Param},II
-720033,Tarefa do artesão {Param},III
-720034,Tarefa do artesão {Param},IV
-720035,Tarefa do artesão {Param},V
-720036,Pedido do Artesão {Param},I
-720037,Pedido do Artesão {Param},II
-720038,Pedido do Artesão {Param},III
-720039,Pedido do Artesão {Param},IV
-720040,Pedido do Artesão {Param},V
-720041,Comissão do artesão {Param},I
-720042,Comissão do artesão {Param},II
-720043,Comissão do artesão {Param},III
-720044,Comissão do artesão {Param},IV
-720045,Comissão do artesão {Param},V
-720046,Tarefa do Avaliador {Param},I
-720047,Tarefa do Avaliador {Param},II
-720048,Tarefa do Avaliador {Param},III
-720049,Tarefa do Avaliador {Param},IV
-720050,Tarefa do Avaliador {Param},V
-720051,Solicitação do avaliador {Param},I
-720052,Solicitação do avaliador {Param},II
-720053,Solicitação do avaliador {Param},III
-720054,Solicitação do avaliador {Param},IV
-720055,Solicitação do avaliador {Param},V
-720056,Comissão do Avaliador {Param},I
-720057,Comissão do Avaliador {Param},II
-720058,Comissão do Avaliador {Param},III
-720059,Comissão do Avaliador {Param},IV
-720060,Comissão do Avaliador {Param},V
+720031,Tarefa do Artisan {Param},I
+720032,Tarefa do Artisan {Param},II
+720033,Tarefa do Artisan {Param},III
+720034,Tarefa do Artisan {Param},IV
+720035,Tarefa do Artisan {Param},V
+720036,Pedido do Artisan {Param},I
+720037,Pedido do Artisan {Param},II
+720038,Pedido do Artisan {Param},III
+720039,Pedido do Artisan {Param},IV
+720040,Pedido do Artisan {Param},V
+720041,Comissão do Artisan {Param},I
+720042,Comissão do Artisan {Param},II
+720043,Comissão do Artisan {Param},III
+720044,Comissão do Artisan {Param},IV
+720045,Comissão do Artisan {Param},V
+720046,Tarefa do Appraiser {Param},I
+720047,Tarefa do Appraiser {Param},II
+720048,Tarefa do Appraiser {Param},III
+720049,Tarefa do Appraiser {Param},IV
+720050,Tarefa do Appraiser {Param},V
+720051,Solicitação do Appraiser {Param},I
+720052,Solicitação do Appraiser {Param},II
+720053,Solicitação do Appraiser {Param},III
+720054,Solicitação do Appraiser {Param},IV
+720055,Solicitação do Appraiser {Param},V
+720056,Comissão do Appraiser {Param},I
+720057,Comissão do Appraiser {Param},II
+720058,Comissão do Appraiser {Param},III
+720059,Comissão do Appraiser {Param},IV
+720060,Comissão do Appraiser {Param},V
 720061,Tarefa de Hunter {Param},I
 720062,Tarefa de Hunter {Param},II
 720063,Tarefa de Hunter {Param},III
@@ -9043,21 +9043,21 @@
 720073,Comissão de Hunter {Param},III
 720074,Comissão de Hunter {Param},IV
 720075,Comissão de Hunter {Param},V
-720076,Tarefa do Explorador {Param},I
-720077,Tarefa do Explorador {Param},II
-720078,Tarefa do Explorador {Param},III
-720079,Tarefa do Explorador {Param},IV
-720080,Tarefa do Explorador {Param},V
-720081,Solicitação do Explorador {Param},I
-720082,Solicitação do Explorador {Param},II
-720083,Solicitação do Explorador {Param},III
-720084,Solicitação do Explorador {Param},IV
-720085,Solicitação do Explorador {Param},V
-720086,Comissão do Explorador {Param},I
-720087,Comissão do Explorador {Param},II
-720088,Comissão do Explorador {Param},III
-720089,Comissão do Explorador {Param},IV
-720090,Comissão do Explorador {Param},V
+720076,Tarefa do Explorer {Param},I
+720077,Tarefa do Explorer {Param},II
+720078,Tarefa do Explorer {Param},III
+720079,Tarefa do Explorer {Param},IV
+720080,Tarefa do Explorer {Param},V
+720081,Solicitação do Explorer {Param},I
+720082,Solicitação do Explorer {Param},II
+720083,Solicitação do Explorer {Param},III
+720084,Solicitação do Explorer {Param},IV
+720085,Solicitação do Explorer {Param},V
+720086,Comissão do Explorer {Param},I
+720087,Comissão do Explorer {Param},II
+720088,Comissão do Explorer {Param},III
+720089,Comissão do Explorer {Param},IV
+720090,Comissão do Explorer {Param},V
 720091,Tarefa do Wayfinder {Param},I
 720092,Tarefa do Wayfinder {Param},II
 720093,Tarefa do Wayfinder {Param},III
@@ -9073,21 +9073,21 @@
 720103,Comissão do Wayfinder {Param},III
 720104,Comissão do Wayfinder {Param},IV
 720105,Comissão do Wayfinder {Param},V
-720106,Tarefa do comerciante {Param},VI
-720107,Tarefa do comerciante {Param},VII
-720108,Tarefa do comerciante {Param},VIII
-720109,Tarefa do comerciante {Param},IX
-720110,Tarefa do comerciante {Param},X
-720111,Solicitação do comerciante {Param},VI
-720112,Solicitação do comerciante {Param},VII
-720113,Solicitação do comerciante {Param},VIII
-720114,Solicitação do comerciante {Param},IX
-720115,Solicitação do comerciante {Param},X
-720116,Comissão do comerciante {Param},VI
-720117,Comissão do comerciante {Param},VII
-720118,Comissão do comerciante {Param},VIII
-720119,Comissão do comerciante {Param},IX
-720120,Comissão do comerciante {Param},X
+720106,Tarefa do Merchant {Param},VI
+720107,Tarefa do Merchant {Param},VII
+720108,Tarefa do Merchant {Param},VIII
+720109,Tarefa do Merchant {Param},IX
+720110,Tarefa do Merchant {Param},X
+720111,Solicitação do Merchant {Param},VI
+720112,Solicitação do Merchant {Param},VII
+720113,Solicitação do Merchant {Param},VIII
+720114,Solicitação do Merchant {Param},IX
+720115,Solicitação do Merchant {Param},X
+720116,Comissão do Merchant {Param},VI
+720117,Comissão do Merchant {Param},VII
+720118,Comissão do Merchant {Param},VIII
+720119,Comissão do Merchant {Param},IX
+720120,Comissão do Merchant {Param},X
 720121,Tarefa de Blacksmith {Param},VI
 720122,Tarefa de Blacksmith {Param},VII
 720123,Tarefa de Blacksmith {Param},VIII
@@ -9103,36 +9103,36 @@
 720133,Comissão de Blacksmith {Param},VIII
 720134,Comissão de Blacksmith {Param},IX
 720135,Comissão de Blacksmith {Param},X
-720136,Tarefa do artesão {Param},VI
-720137,Tarefa do artesão {Param},VII
-720138,Tarefa do artesão {Param},VIII
-720139,Tarefa do artesão {Param},IX
-720140,Tarefa do artesão {Param},X
-720141,Pedido do Artesão {Param},VI
-720142,Pedido do Artesão {Param},VII
-720143,Pedido do Artesão {Param},VIII
-720144,Pedido do Artesão {Param},IX
-720145,Pedido do Artesão {Param},X
-720146,Comissão do artesão {Param},VI
-720147,Comissão do artesão {Param},VII
-720148,Comissão do artesão {Param},VIII
-720149,Comissão do artesão {Param},IX
-720150,Comissão do artesão {Param},X
-720151,Tarefa do Avaliador {Param},VI
-720152,Tarefa do Avaliador {Param},VII
-720153,Tarefa do Avaliador {Param},VIII
-720154,Tarefa do Avaliador {Param},IX
-720155,Tarefa do Avaliador {Param},X
-720156,Solicitação do avaliador {Param},VI
-720157,Solicitação do avaliador {Param},VII
-720158,Solicitação do avaliador {Param},VIII
-720159,Solicitação do avaliador {Param},IX
-720160,Solicitação do avaliador {Param},X
-720161,Comissão do Avaliador {Param},VI
-720162,Comissão do Avaliador {Param},VII
-720163,Comissão do Avaliador {Param},VIII
-720164,Comissão do Avaliador {Param},IX
-720165,Comissão do Avaliador {Param},X
+720136,Tarefa do Artisan {Param},VI
+720137,Tarefa do Artisan {Param},VII
+720138,Tarefa do Artisan {Param},VIII
+720139,Tarefa do Artisan {Param},IX
+720140,Tarefa do Artisan {Param},X
+720141,Pedido do Artisan {Param},VI
+720142,Pedido do Artisan {Param},VII
+720143,Pedido do Artisan {Param},VIII
+720144,Pedido do Artisan {Param},IX
+720145,Pedido do Artisan {Param},X
+720146,Comissão do Artisan {Param},VI
+720147,Comissão do Artisan {Param},VII
+720148,Comissão do Artisan {Param},VIII
+720149,Comissão do Artisan {Param},IX
+720150,Comissão do Artisan {Param},X
+720151,Tarefa do Appraiser {Param},VI
+720152,Tarefa do Appraiser {Param},VII
+720153,Tarefa do Appraiser {Param},VIII
+720154,Tarefa do Appraiser {Param},IX
+720155,Tarefa do Appraiser {Param},X
+720156,Solicitação do Appraiser {Param},VI
+720157,Solicitação do Appraiser {Param},VII
+720158,Solicitação do Appraiser {Param},VIII
+720159,Solicitação do Appraiser {Param},IX
+720160,Solicitação do Appraiser {Param},X
+720161,Comissão do Appraiser {Param},VI
+720162,Comissão do Appraiser {Param},VII
+720163,Comissão do Appraiser {Param},VIII
+720164,Comissão do Appraiser {Param},IX
+720165,Comissão do Appraiser {Param},X
 720166,Tarefa de Hunter {Param},VI
 720167,Tarefa de Hunter {Param},VII
 720168,Tarefa de Hunter {Param},VIII
@@ -9148,21 +9148,21 @@
 720178,Comissão de Hunter {Param},VIII
 720179,Comissão de Hunter {Param},IX
 720180,Comissão de Hunter {Param},X
-720181,Tarefa do Explorador {Param},VI
-720182,Tarefa do Explorador {Param},VII
-720183,Tarefa do Explorador {Param},VIII
-720184,Tarefa do Explorador {Param},IX
-720185,Tarefa do Explorador {Param},X
-720186,Solicitação do Explorador {Param},VI
-720187,Solicitação do Explorador {Param},VII
-720188,Solicitação do Explorador {Param},VIII
-720189,Solicitação do Explorador {Param},IX
-720190,Solicitação do Explorador {Param},X
-720191,Comissão do Explorador {Param},VI
-720192,Comissão do Explorador {Param},VII
-720193,Comissão do Explorador {Param},VIII
-720194,Comissão do Explorador {Param},IX
-720195,Comissão do Explorador {Param},X
+720181,Tarefa do Explorer {Param},VI
+720182,Tarefa do Explorer {Param},VII
+720183,Tarefa do Explorer {Param},VIII
+720184,Tarefa do Explorer {Param},IX
+720185,Tarefa do Explorer {Param},X
+720186,Solicitação do Explorer {Param},VI
+720187,Solicitação do Explorer {Param},VII
+720188,Solicitação do Explorer {Param},VIII
+720189,Solicitação do Explorer {Param},IX
+720190,Solicitação do Explorer {Param},X
+720191,Comissão do Explorer {Param},VI
+720192,Comissão do Explorer {Param},VII
+720193,Comissão do Explorer {Param},VIII
+720194,Comissão do Explorer {Param},IX
+720195,Comissão do Explorer {Param},X
 720196,Tarefa do Wayfinder {Param},VI
 720197,Tarefa do Wayfinder {Param},VII
 720198,Tarefa do Wayfinder {Param},VIII
@@ -9201,11 +9201,11 @@
 731011,Emblema do veterano,
 731012,Sigilo do Guardião,
 731013,Selo do Intelectual,
-731014,Essência do Explorador,
+731014,Essência do Explorer,
 731015,Sigilo do Conquistador,
 731016,Master’s Awakening,
 731017,Crista do Grande Mestre,
-731018,Essência do Artesão,
+731018,Essência do Artisan,
 731019,Emblema do herói,
 731020,Ornamento do Imortal,
 731021,Marca do Guardião da Luz,
@@ -9219,18 +9219,18 @@
 731029,Token de Exploit,
 731030,Placa de Honra,
 731031,Registro de Valor,
-732001,Conheci o Mercador,
-732002,Cumprimentou o Comerciante,
-732003,Benfeitor do comerciante,
-732004,Família do comerciante,
+732001,Conheci o Merchant,
+732002,Cumprimentou o Merchant,
+732003,Benfeitor do Merchant,
+732004,Família do Merchant,
 732005,Conheci o Blacksmith,
 732006,Cumprimente o Blacksmith,
 732007,Benfeitor de Blacksmith,
 732008,Família de Blacksmith,
-732009,Conheci o Artesão,
-732010,Cumprimente o Artesão,
-732011,Benfeitor do Artesão,
-732012,Família do Artesão,
+732009,Conheci o Artisan,
+732010,Cumprimente o Artisan,
+732011,Benfeitor do Artisan,
+732012,Família do Artisan,
 732013,Conheci o Avaliador,
 732014,Cumprimente o Avaliador,
 732015,Benfeitor do avaliador,
@@ -9239,10 +9239,10 @@
 732018,Cumprimentou o Hunter,
 732019,Benfeitor de Hunter,
 732020,Família de Hunter,
-732021,Conheci o Explorador,
-732022,Cumprimentou o Explorador,
-732023,Benfeitor do Explorador,
-732024,Família do Explorador,
+732021,Conheci o Explorer,
+732022,Cumprimentou o Explorer,
+732023,Benfeitor do Explorer,
+732024,Família do Explorer,
 732025,Conheci o Wayfinder,
 732026,Cumprimentou o Wayfinder,
 732027,Benfeitor do Wayfinder,
@@ -9262,30 +9262,30 @@
 732041,Tesouro do Avaliador,
 732042,Despojos do Avaliador,
 732043,Legado do Avaliador,
-732044,Com o Mercador,
-732045,Companheiro do Comerciante,
-732046,Aliado do comerciante,
-732047,Amigo do comerciante,
+732044,Com o Merchant,
+732045,Companheiro do Merchant,
+732046,Aliado do Merchant,
+732047,Amigo do Merchant,
 732048,Com o Blacksmith,
 732049,Companheiro de Blacksmith,
 732050,Aliado de Blacksmith,
 732051,Amigo de Blacksmith,
-732052,Com o Artesão,
-732053,Companheiro do artesão,
-732054,Aliado do Artesão,
-732055,Amigo do artesão,
-732056,Com o Avaliador,
-732057,Companheiro do Avaliador,
-732058,Aliado do Avaliador,
+732052,Com o Artisan,
+732053,Companheiro do Artisan,
+732054,Aliado do Artisan,
+732055,Amigo do Artisan,
+732056,Com o Appraiser,
+732057,Companheiro do Appraiser,
+732058,Aliado do Appraiser,
 732059,Amigo dos Avaliadores,
 732060,Com o Hunter,
 732061,Hunter Companheiro,
 732062,Aliado de Hunter,
 732063,Hunter Amigo de,
-732064,Com o Explorador,
-732065,Companheiro do Explorador,
-732066,Aliado do Explorador,
-732067,Amigo do Explorador,
+732064,Com o Explorer,
+732065,Companheiro do Explorer,
+732066,Aliado do Explorer,
+732067,Amigo do Explorer,
 732068,com o Wayfinder,
 732069,Companheiro do Wayfinder,
 732070,Aliado do Wayfinder,

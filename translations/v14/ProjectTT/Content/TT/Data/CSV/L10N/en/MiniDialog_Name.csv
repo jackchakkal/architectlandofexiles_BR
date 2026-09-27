@@ -3,10 +3,10 @@
 1101010080020,Girl,"Eles atacaram de repente e em grupo. Cuidado, Aventureiro...!"
 1101010130010,Girl,Só mais um pouco...!
 1101010130020,Girl,Estamos quase lá!
-1101010350010,Mysterious Adventurer,Isso é um Colossus!
-1101010350020,Mysterious Adventurer,Quem é você? O que fez com o Monolith?
-1101010350030,Mysterious Adventurer,Ele não reagiu quando eu toquei nele.
-1101010350040,Mysterious Adventurer,Vamos resolver essa coisa primeiro. Depois conversamos.
+1101010350010,Aventureira Misteriosa,Isso é um Colossus!
+1101010350020,Aventureira Misteriosa,Quem é você? O que fez com o Monolith?
+1101010350030,Aventureira Misteriosa,Ele não reagiu quando eu toquei nele.
+1101010350040,Aventureira Misteriosa,Vamos resolver essa coisa primeiro. Depois conversamos.
 1101010380010,Rada,"Enfim, você disse que está indo para Babylon, certo?"
 1101010380020,Rada,"Babylon fica perto daqui.
 Vou mostrar o caminho. Venha comigo."
@@ -44,10 +44,10 @@ Cuidado! Não se machuque!"
 1101090010010,Uzar,"Antes de começarmos o trabalho de verdade, precisamos expulsar os animais selvagens."
 1101090010020,Uzar,"Se deixarmos por aqui, destruiremos as plantações. Você deve encontrá-los perto da água."
 1101090050010,Rada,Saiu! Aqui! Aqui!
-1101100050010,O Som de Alguém Chorando,*snif...* Você faz ideia... de quanto custou tudo aquilo...?
+1101100050010,O som de alguém chorando,*snif...* Você faz ideia... de quanto custou tudo aquilo...?
 1101140040010,Yasta,"Ei, Aventureiro procurando um rapaz bonito, tem um instante?"
 1101150020010,Voz trêmula,Kyaaak! Ta-Tabana!
-1101150020020,Voz Urgente,"Não, Najia!"
+1101150020020,Voz urgente,"Não, Najia!"
 1101180030010,Baran,"...Com licença, Aventureiro. Estou vendo algo no alto do penhasco!"
 1101180030020,Baran,Meu relatório... meu relatório está flutuando para longe!
 1101180030030,Baran,"Pegue o tornado... quer dizer, a corrente de ar ascendente!"
@@ -87,7 +87,7 @@ Cuidado! Não se machuque!"
 1101290120040,Khoon,E sobre hoje... vou contar aos nossos amigos o que aconteceu.
 1101310010010,Ragnar,Atravesse o rio depois de First Step Village e encontre nossa Incursion.
 1101310010020,Ragnar,Não temos tempo a perder. Vá depressa!
-1101320010010,Ragnar,Agora siga para as operações da Expedição Bardad.
+1101320010010,Ragnar,Agora siga para a Bardad Expedition Garrison.
 1101320060010,Ragnar,Parece que contiveram a Incursion no leste.
 1101320060020,Ragnar,"Avise também a Legação, por favor."
 1101330010010,Mueena ,Recebemos relatos de que os Shadow Wolves estão se reunindo perto do rio.
@@ -100,9 +100,9 @@ Cuidado! Não se machuque!"
 1101330080020,Mueena ,"Graças a você, ganhamos tempo de sobra."
 1101330080030,Mueena ,Cuidaremos do que restaram daqui em diante.
 1101330080040,Mueena ,Conversamos sobre o resto quando você voltar.
-1101350078010,A voz de Soldier,Alto! Pare aí mesmo! Diz-se que
-1101350078020,A voz de Soldier,"Capitão, alguém está vindo do outro lado da ponte!"
-1101360040010,Um comerciante com voz grave,"Ei, você aí! Chegue aqui um instante."
+1101350078010,Voz de um soldado,Alto! Pare aí mesmo! Diz-se que
+1101350078020,Voz de um soldado,"Capitão, alguém está vindo do outro lado da ponte!"
+1101360040010,Um mercador de voz grave,"Ei, você aí! Chegue aqui um instante."
 1101360070010,Bishan,Parece que a pestinha fugiu de novo. Pode me ajudar a encontrá-lo?
 1101360070020,Bishan,Preciso ficar aqui vigiando a carga.
 1101360090010,Jiranna,Talvez ele esteja escondido num lugar esquisito!
@@ -119,9 +119,9 @@ Cuidado! Não se machuque!"
 1101400030010,Jeihan,"Aventureiro, veio nos ajudar?"
 1101400030020,Jeihan,agradeço depois. Não vá morrer nas mãos de uns bandidos!
 1101410030010,Voz desconhecida,"Espere um instante! Por favor, me ajude!"
-1101410050010,Residente problemático,"Sei que está ocupado, mas me mandar sozinho é muita crueldade!"
-1101420020010,Residente problemático,"Eeeei! Vamos parar um pouco para respirar... arf, arf."
-1101420110010,Residente problemático,"Ei, aquela pessoa bem no meio é Kamiya."
+1101410050010,Morador aflito,"Sei que está ocupado, mas me mandar sozinho é muita crueldade!"
+1101420020010,Morador aflito,"Eeeei! Vamos parar um pouco para respirar... arf, arf."
+1101420110010,Morador aflito,"Ei, aquela pessoa bem no meio é Kamiya."
 1101440140010,Kamiya,É uma emergência! Venha depressa!
 1101450015010,Kamiya,Estamos sem tempo. Vamos!
 1101450080010,Voz desconhecida,"Pessoal, silêncio. A menos que queiram estragar a operação de novo."
@@ -143,8 +143,8 @@ Cuidado! Não se machuque!"
 1101490080010,Azran,"Graças a você, parece que encontramos o que procurávamos. Venha comigo."
 1101490110010,Voz risonha,Quem está aí?!
 1101490110020,Azran,Vocês estão sabendo que sequestrou o Naruru?
-1101490110030,Voz sibilante,Um fracote magricela faz perguntas demais!
-1101490110040,Voz sibilante,O que tem de errado um lobo caçar uma lontra? Hahaha!
+1101490110030,Voz ofegante,Um fracote magricela faz perguntas demais!
+1101490110040,Voz ofegante,O que tem de errado um lobo caçar uma lontra? Hahaha!
 1101490110050,Azran,...Não tenho mais nada a perguntar. Morra.
 1101490120010,Azran,"Certo, agora vamos voltar para Aburu Village."
 1101490120020,Azran,"Agora que sabemos exatamente quem estamos afirmando, acho que a situação até melhorou."
@@ -155,18 +155,18 @@ Cuidado! Não se machuque!"
 1101510050010,Azran,Você vasculha o resto da área e escolhe Naruru para fora.
 1101510050020,Azran,Persiga os que sobraram e acabe com eles.
 1101510060010,Azran,Por aqui.
-1101510080005,Líder dos Lobos das Sombras,Vou acabar com todos vocês!!
-1101510080010,Líder dos Lobos das Sombras,"Aquele sujeito era um pé no saco, então cuidei dele pessoalmente. Como ousou nos espionar!"
-1101510080020,Líder dos Lobos das Sombras,"Mesmo diante de mim, o líder dos Lobos, ele continua de cabeça erguida. Achei que fosse alguém importante, mas..."
-1101510080030,Líder dos Lobos das Sombras,"Nem sabia dar um soco. Era só um mensageiro, então?"
-1101510090010,Líder dos Lobos das Sombras,Ugh... droga!
-1101510090020,Líder dos Lobos das Sombras,De onde saíram essas pestes?!
+1101510080005,Líder dos Shadow Wolves,Vou acabar com todos vocês!!
+1101510080010,Líder dos Shadow Wolves,"Aquele sujeito era um pé no saco, então cuidei dele pessoalmente. Como ousou nos espionar!"
+1101510080020,Líder dos Shadow Wolves,"Mesmo diante de mim, o líder dos Lobos, ele continua de cabeça erguida. Achei que fosse alguém importante, mas..."
+1101510080030,Líder dos Shadow Wolves,"Nem sabia dar um soco. Era só um mensageiro, então?"
+1101510090010,Líder dos Shadow Wolves,Ugh... droga!
+1101510090020,Líder dos Shadow Wolves,De onde saíram essas pestes?!
 1101510090030,Azran,Seu reinado de terror acaba aqui.
-1101510090040,Líder dos Lobos das Sombras,Gaaagh!
+1101510090040,Líder dos Shadow Wolves,Gaaagh!
 102010005010,Azran,Tenha cuidado para não danificar o corpo ao manuseá-lo.
 102020050010,Urkai,Por aqui! Venha ver isto também!
 102020100010,Rada,"Teste, hum, dois! Consegue-me ouvir? Soube que você está em Aburu Village?!"
-102030010010,Soluçando Naruru,Snif... o que eu vou fazer?!
+102030010010,Naruru soluçando,Snif... o que eu vou fazer?!
 102030030010,Rada,"Se continuar assim, o festival será cancelado. E isso significa... nada de provar aqueles pratos especiais."
 102030030020,Rada,"Seria um desperdício perder uma oportunidade dessas, não acha?"
 102030060010,Rada,"Hum, também não está aqui."
@@ -187,7 +187,7 @@ Cuidado! Não se machuque!"
 102080060020,Karadu,Cuidado!
 102080070010,Karadu,Tem uma pedra... uma pedra no bolso.
 102080070011,Karadu,É igualzinha ao que Vahista estava examinando mais cedo.
-102090010010,Pessoa Recolhida,Ugh... argh...
+102090010010,Pessoa caída,Ugh... argh...
 102090010020,Person in Pain,*arf... arf!* Gaaaah!
 102100010010,Vahista,"[player], deixo a Incursion com você. Faremos o que for preciso para salvar estas pessoas!"
 102100030010,Karadu,"Se não resolvermos isso, tanto os Naruru quanto os humanos vão se machucar!"
@@ -213,14 +213,14 @@ Cuidado! Não se machuque!"
 102320070010,Beretta,Talvez eu revise os pertences do Prophet.
 102330100010,Xeros,Por aqui.
 102350040010,Voz desconhecida,"Você! Isso, você com cara de bobo! Podemos conversar?"
-102350060010,Voz turbulenta,Ahaha! Desta vez acabamos com todos eles!
+102350060010,Voz escandalosa,Ahaha! Desta vez acabamos com todos eles!
 701010060010,Rada,"Ninguém ficou isolado até agora, então não fique nervoso! Entendeu, [player]?"
 701010060020,Rada,Fico pensando no tipo de prova que você vai enfrentar.
 701010060030,Rada,Tomara que não seja algo muito comum.
 701010060040,Rada,"Muito bem, boa sorte!"
-701010065010,Surpreso Villager,Outro Aventureiro? Ugh... não está vendo os monstros por toda parte?
-701010065020,Surpreso Villager,Pare de mexer no Trial Gate e vá embora! Você está arruinando a vila!
-701010070010,Surpreso Villager,"Tesouros são ótimos, mas também temos que viver! Volte mais tarde ou coisa assim!"
+701010065010,Aldeão surpreso,Outro Aventureiro? Ugh... não está vendo os monstros por toda parte?
+701010065020,Aldeão surpreso,Pare de mexer no Trial Gate e vá embora! Você está arruinando a vila!
+701010070010,Aldeão surpreso,"Tesouros são ótimos, mas também temos que viver! Volte mais tarde ou coisa assim!"
 701020010010,Rada,"Está ocupado, [player]?"
 701020010020,Rada,"Mesmo que você esteja, preciso de você agora na Wayfinders Guild."
 701020010030,Rada,"Falei de você para Riona, e ela disse que não poderia ter surgido na melhor hora."
@@ -233,7 +233,7 @@ Cuidado! Não se machuque!"
 701030010030,Riona,Venha para Wayfinders Guild agora mesmo. É urgente!
 701030050010,Riona,Quem voltou do Labyrinth disse que a relíquia reage ao Aether.
 701030050020,Riona,"Há ruínas antigas em Giant’s Garden e também em Starfall Plateau,"
-701030050030,Riona,mas é neste lugar que ela tem mais chance de funcionar.
+701030050030,Riona,"e o Starfall Plateau também, mas é neste lugar que ela tem mais chance de funcionar."
 701030070010,Riona,Você está vendo aquelas ruínas futuras? As que têm quatro pilares.
 701030070020,Riona,Coloque uma relíquia lá.
 701030140010,Riona,"Hum... as chances aqui são baixas, mas talvez com você seja diferente."
@@ -244,7 +244,7 @@ Cuidado! Não se machuque!"
 701030150020,Riona,"É melhor entrar um pouco mais, não acha? Assim chamamos menos atenção."
 701030260010,Girl,Só mais um minuto...!
 701030270010,Girl,Estamos quase lá!
-701040040010,Voz Resmungante,Por aqui! Venha para cá!
+701040040010,Voz resmungona,Por aqui! Venha para cá!
 701040120010,Calm Voice,Hum... isso nunca aconteceu antes.
 701040120020,Calm Voice,O que está acontecendo aqui?
 1103010040010,Beretta,Aonde você está me levando?
@@ -270,8 +270,8 @@ Cuidado! Não se machuque!"
 1103070010020,Xavyer,Devo ter visto lá o que uma Brigada estava fazendo.
 1103070010030,Xavyer,Não se preocupe comigo. Só estou fazendo meu dever.
 1103070050010,Calm Scout,Deixe este lado conosco.
-1103080031010,Em pânico Grito de Scout,Impeçam que aumentam em número!
-1103080032010,Em pânico Grito de Scout,Por Hesperia!
+1103080031010,Grito de batedor em pânico,Impeçam que aumentam em número!
+1103080032010,Grito de batedor em pânico,Por Hesperia!
 1103080070010,Alayn,Droga... primeiro preciso avaliar a situação.
 1103080070020,Alayn,Mestre Xavyer? É perigoso aqui fora!
 1103080070030,Xavyer,Não. Preciso ver com meus próprios olhos.
@@ -288,11 +288,12 @@ Cuidado! Não se machuque!"
 1103120020070,Xavyer,"A fechada do portão também se esconde atrás dela... quando fica encurralada, não é?"
 1103120020080,Xavyer,Nunca vi aqueles homens cumprirem o dever de proteger ninguém... Hmph.
 1103120020090,Xavyer,Obrigado os indefesos a vir até aqui... falharam como soldados.
-1103120020010,Xavyer,Esta é a subida de Adamant. A trilha futura é longa e suave.
+1103120020010,Xavyer,"Esta é a Adamant Ascent.
+Uma subida longa e suave nos espera."
 1103120020020,Xavyer,Hum... o silêncio aqui é muito suspeito...
 1103120020040,Xavyer,"Mas talvez seja melhor ficar quieto, não acha? Assim ninguém atrapalha as pessoas."
-1103120020120,Grite de longe,Pressione! E aí!
-1103120020130,Grite de longe,Continue assim e vamos morrer todos!
+1103120020120,Grito ao longe,Pressione! E aí!
+1103120020130,Grito ao longe,Continue assim e vamos morrer todos!
 1103120020140,Xavyer,Parece que alguém está em apuros. Vamos!
 1103120040010,Xavyer,Esta energia me inquieta. Não me surpreenderia se um monstro aparecesse a qualquer momento...
 1103120040020,Xavyer,Cuidado!
@@ -307,7 +308,7 @@ Cuidado! Não se machuque!"
 1103160070010,Xavyer,Ali. Lá dentro das ruínas parece bom.
 1103170110010,Alayn,Deixamos a Ironblood Brigade em paz. Por que iriam se importar conosco?
 1103170110020,Alayn,"Não se preocupe, pessoal. Vamos terminar o trabalho!"
-1103170170010,Em pânico Grito de Scout,Intruso avistado no alto da colina!
+1103170170010,Grito de batedor em pânico,Intruso avistado no alto da colina!
 1103180030010,Alayn,Ah! C-certo. Já vou descer.
 1103180070010,Lena,adiciona isto às armadilhas que preparou.
 1103180070020,Lena,Isto é um sinalizador de Frantia. Dei uma melhorada em algumas funções.
@@ -322,14 +323,14 @@ Cuidado! Não se machuque!"
 1103200005020,Lena,"Todos, reúnam-se aqui!"
 1103200010010,Knights of the Frostwind,Os reforços chegam!
 1103200010020,Knights of the Frostwind,Avancem!
-1103200030010,Cavaleiro Ferido,Obrigado...
-1103200070010,Cavaleiro Ferido,Você salvou minha vida.
+1103200030010,Cavaleiro ferido,Obrigado...
+1103200070010,Cavaleiro ferido,Você salvou minha vida.
 1103210035010,Lena,Agora! Ataquem enquanto estão vulneráveis!
 1103210035020,Lena,"Não passe de um bando de bandidos, por mais que sejam! Acabem com eles!"
 1103210035030,Ironblood Brigade Member,Só fala... Vou mostrar o que é terror de verdade.
 1103210035040,Ironblood Brigade Member,"Droga! Romperam a linha de frente! Avise o Capitão, agora!"
 1103210038010,Lena,Avancem! Continue em frente!
-1103210038020,Ironblood Brigade Capitão de Ataque,Inúteis... o que está fazendo?! Parem eles!
+1103210038020,Capitão de assalto da Ironblood Brigade,Inúteis... o que está fazendo?! Parem eles!
 1103210040010,Lena,Por aqui!
 1103210040020,Lena,Você flanqueará primeiro. Alcanço vocês daqui a pouco.
 1103220040010,Ironblood Brigade Member,Matem-nos!
@@ -341,17 +342,17 @@ Cuidado! Não se machuque!"
 1103220130030,Lena,Não podemos mais esperar!
 1103220130040,Lena,"Aventureiro, saia daí!"
 1103230050010,Frantia Scout,V-vocês são os Knights of the Frostwind?!
-1103250010010,Choramingo Apavorado,Kuaaa...!
-1103250010020,Choramingo Apavorado,Argh... grrr... ah...
-1103250031010,Misterioso Mage,Ah... não me engano.
-1103250031020,Misterioso Mage,Solte-se! Enlouqueça! Vai!
-1103250032010,Misterioso Mage,"Isso... muito bem! Você consegue, não consegue?"
-1103250033010,Misterioso Mage,"Haa, eu adoro isso."
-1103250033020,Misterioso Mage,Dá ainda mais vontade de quebrar você!
+1103250010010,Choramingo apavorado,Kuaaa...!
+1103250010020,Choramingo apavorado,Argh... grrr... ah...
+1103250031010,Mago misterioso,Ah... não me engano.
+1103250031020,Mago misterioso,Solte-se! Enlouqueça! Vai!
+1103250032010,Mago misterioso,"Isso... muito bem! Você consegue, não consegue?"
+1103250033010,Mago misterioso,"Haa, eu adoro isso."
+1103250033020,Mago misterioso,Dá ainda mais vontade de quebrar você!
 1103250034010,Xeros,"Aqui está você, [Player]."
 1103250034020,Xeros,Você entrará na luta.
-1103250034030,Misterioso Mage,Eu estava começando a domá-los...
-1103250034040,Misterioso Mage,Você está atrapalhando.
+1103250034030,Mago misterioso,Eu estava começando a domá-los...
+1103250034040,Mago misterioso,Você está atrapalhando.
 1103260030010,Beretta,A-ah! Responda se você estiver me ouvindo.
 1103260030020,Beretta,O que houve? Quebrou? E chamo esta porta de comunicador...
 1103260030030,Beretta,"Ugh, dei várias pancadas nele, mas não adiantou."
@@ -362,16 +363,16 @@ Cuidado! Não se machuque!"
 1103260080020,Beretta,Mas você está meio cambaleante...
 1103260120010,Sarabi,"Ei, vocês dois, humanos! Aqui!"
 1103270080010,Sarabi,Este Rappie é duríssimo!
-1103270080020,Treinador Naruru,E também tem uma pelagem linda!
-1103270100010,Treinador Naruru,Nem um arranhão!
+1103270080020,Naruru treinador,E também tem uma pelagem linda!
+1103270100010,Naruru treinador,Nem um arranhão!
 1103270100020,Beretta,...Fazia tempo que eu não me divertia tanto.
 1103270160010,Beretta,"Até que ponto dá para confiar na recuperação de um humano, hein?"
 1103270160020,Beretta,Será que você pode ajudá-lo tão rápido?
 1103290070010,Stormkel Manor Guard,A-Aventureiro?
 104010010010,Ragnar,Ainda bem que consegui falar com Eric.
 104010010020,Ragnar,Diga a eles que fui eu quem te trouxe.
-104050010010,Voz Suspeita,Ugh... Aaargh!
-104050010020,Voz Suspeita,Fique longe de mim!
+104050010010,Voz suspeita,Ugh... Aaargh!
+104050010020,Voz suspeita,Fique longe de mim!
 104060010010,Deserter,"Astrid é irmã de Norman, o Alto Chefe de Stormkell."
 104060010020,Deserter,Ela é uma guerreira tão formidável que chama de reencarnação do God of War.
 104060010030,Deserter,Todos os soldados de Stormkell com respeito.
@@ -406,12 +407,12 @@ Cuidado! Não se machuque!"
 104090025030,Paradise Advent Society Believer,Os preparativos estão completos! Vocês não vão nos impedir!
 104090030010,Ragnar,Parece que eu enganei.
 104090030020,Ragnar,...Entre na cidadela.
-104100010010,Follower de Astrid,Mantenham posição! Segurar a linha e a vitória será nossa!
-104100010020,Ex-Deserter,Protejam Astrid! Não tenho medo da morte!
-104100020010,Jovem Soldier,Vamos lutar até o dia em que Astrid se torne um Grande Chefe Guerreiro!
-104100020020,Follower de Astrid,Tomo!
-104100020030,Ex-Deserter,Vamos vencer!
-104100020040,Ex-Deserter,"Seguimos Astrid, um líder que luta por nós!"
+104100010010,Seguidor de Astrid,Mantenham posição! Segurar a linha e a vitória será nossa!
+104100010020,Ex-desertor,Protejam Astrid! Não tenho medo da morte!
+104100020010,Soldado jovem,Vamos lutar até o dia em que Astrid se torne um Grande Chefe Guerreiro!
+104100020020,Seguidor de Astrid,Tomo!
+104100020030,Ex-desertor,Vamos vencer!
+104100020040,Ex-desertor,"Seguimos Astrid, um líder que luta por nós!"
 104100030010,Ragnar,Vou esperar você na entrada.
 104110010010,Ragnar,...Vai fingir que não sabe? Não diga isso se respeita os que caíram.
 104110010020,Ragnar,Não bastou roubar artefatos destinados à terra natal: você se aliou ao Paradise Advent?
@@ -432,7 +433,7 @@ Cuidado! Não se machuque!"
 104140010040,Xeros,"E, [player]..."
 104140010050,Xeros,"...não importa o que ouvir, não faça nenhuma loucura."
 104150010010,Xeros,Preciso mostrar uma coisa.
-104150010020,Xeros,Saia do Sanctuary e verá algumas ruínas.
+104150010020,Xeros,Saia do Santuário e verá algumas ruínas.
 104150020010,Xeros,Por aqui.
 104190010020,Pained Voice,Por favor... me salve...
 104210010010,Xeros,"Sou eu, [player]."
@@ -456,9 +457,9 @@ Cuidado! Não se machuque!"
 104240010030,Xeros,"Primeiro, saia pelo portão."
 104240010040,Xeros,Continue subindo à direita e encontre um abrigo.
 104240010050,Xeros,Encontre-me lá.
-104240020010,Problemas Voz,Ah... o que faço com isto...?
-104240020020,Problemas Voz,Eu prometi...
-104240020030,Problemas Voz,"Isso é muito, muito ruim."
+104240020010,Voz aflita,Ah... o que faço com isto...?
+104240020020,Voz aflita,Eu prometi...
+104240020030,Voz aflita,"Isso é muito, muito ruim."
 104240030010,Paradise Advent Society Believer,Para onde será que eles foram?
 104240030020,Paradise Advent Society Believer,Não posso ir muito longe! Tragam-nos de volta agora!
 104240030030,Aetherium Addict,V-você vai me dar se eu fizer o que mandar? Ó d-doce?
@@ -523,8 +524,8 @@ Cuidado! Não se machuque!"
 105070010010,Khoon,"Para chegar à Hunter’s Village, siga para leste a partir do posto avançado."
 105070010020,Khoon,De Rappie você chega num instante. Tente não me perder de vista!
 105070120010,Paran,Aventureiro... pode vir aqui?
-105080050010,Voz Aturdida,Aonde você vai?! Pare!
-105080060010,Voz Aturdida,Quem colocou todo esse feno aqui?!
+105080050010,Voz atrapalhada,Aonde você vai?! Pare!
+105080060010,Voz atrapalhada,Quem colocou todo esse feno aqui?!
 105090100010,Paran,Não deve demorar se seguir para o norte da vila... Também procure o Dragon Hunter.
 105090120010,Paran,Quando foi que aumentou tanto de número...?
 105090120020,Paran,precisamos organizar este lugar...
@@ -556,10 +557,10 @@ Cuidado! Não se machuque!"
 105170070010,Khoon,Rada disse que vai ficar de prontidão por enquanto. Os outros estão ocupados com a Tower.
 105170070020,Khoon,Há um pequeno acampamento aqui perto.
 105170070030,Khoon,Vou até lá primeiro e tente obter informações.
-105170100010,O grito de um homem assustado,"Tem alguém aí? Por favor, me ajude..."
+105170100010,Grito de um homem assustado,"Tem alguém aí? Por favor, me ajude..."
 105180030010,Khoon,"Ah, quem está aí com você?"
-105180120010,Acampamento Sentry Grito de,"Eek! Agora que vejo de perto, não é um monstruoso!"
-105180120020,Acampamento Sentry Grito de,É-é um cadáver vivo!
+105180120010,Grito da sentinela do acampamento,"Eek! Agora que vejo de perto, não é um monstruoso!"
+105180120020,Grito da sentinela do acampamento,É-é um cadáver vivo!
 105180120030,Khoon,Tenho que detê-lo aqui. Não deixe que saia da floresta!
 105190020010,Voz confiante,"Agora, nunca vi você por aqui."
 105190020020,Voz confiante,"Você, que está diante dos Warp Anchors. Venha cá."
@@ -567,7 +568,7 @@ Cuidado! Não se machuque!"
 105200060010,Chedar,Nosso Forward Waypoint fica bem no centro.
 105200060020,Chedar,"Hunters em cima, Cave Owls abaixo. Curiosamente, vivem bem separados."
 105200060030,Chedar,"Eles até interagem, mas não parecem muito próximos."
-105200070010,Voz irritada,A-ah! As profundidades não batem...!
+105200070010,Voz aborrecida,A-ah! As profundidades não batem...!
 105200070020,Chedar,O que houve com ele agora?! Eu disse que estava quebrado.
 105200090010,Chedar,É só lidar com os monstros até terminar a tarefa.
 105200090020,Chedar,Preciso recuperar o aparelho esférico de medição.
@@ -614,7 +615,7 @@ Cuidado! Não se machuque!"
 105260020030,Khoon,Vamos dar um jeito neles por enquanto!
 110527010010,Khoon,"Uau, eles devem ser famosos! Estão doidos para comer!"
 110528010010,Khoon,Hã? O que está acontecendo por aqui?
-110528010020,Cave Owl A (Feminino Villager),Tem monstros demais! Corram para salvar a vida!
+110528010020,Cave Owl A (aldeã),Tem monstros demais! Corram para salvar a vida!
 110528020010,Khoon,"Eles já devem estar seguros, né? Vamos entrar na vila!"
 110529010010,Khoon,A resposta que ouvimos agora... não parece um pouco estranho?
 110529010020,Khoon,Tem algo suspeito no ar. Vamos perguntar a outra pessoa.
@@ -634,7 +635,7 @@ Cuidado! Não se machuque!"
 110532010010,Khoon,"Quebrei um para ver o que acontecia e, em seguida, as pessoas começaram a recuperar os sentidos."
 110532010020,Khoon,"Já cuidei da maior parte deste lado. Como você está aí, verifique também o lado leste da vila."
 110532010030,Khoon,"Se nos livrarmos dessa dor de cabeça, talvez aceitemos nos ajudar na investigação."
-110532020010,Alguém chorando (Narat),Aproveitem para voltar à vila! Você os segurará aqui!
+110532020010,Alguém gritando (Narat),Aproveitem para voltar à vila! Você os segurará aqui!
 110533010010,Naraf,...Os Ashen Crows finalmente mostraram quem são de verdade. Ataque-os assim que avistar um.
 110533010020,Naraf,"Senão, continue levantando os Undead!"
 110534010010,Naraf,Há mais do outro lado. Também tem Ashen Crows por lá.
@@ -722,7 +723,7 @@ Cuidado! Não se machuque!"
 3301140010100,Helene,"Considere que você está salvando a vida de uma coitada, está bem?"
 1301150020010,Jeihan,Obrigado. Vou relatar seus feitos ao Manor.
 3301160040010,Lost Adventurer,Aqui! Venha!
-3301510050010,Azran,"Ao terminar em General Merchant, siga para a execução da Expedição Bardad."
+3301510050010,Azran,"Quando terminar com o General Merchant, siga para a Bardad Expedition Garrison."
 3301510050020,Azran,Você encontrará Quaista no caminho para Whirlwind Canyon.
 3301510090010,Voz secreta,"Por aqui, Aventureiro."
 3301510090020,Voz secreta,Desça até aqui.
@@ -841,7 +842,7 @@ Cuidado! Não se machuque!"
 1302510010260,Enju,Azid! Aaazid! Estou aqui!
 1302510010270,Sagkala,Azid! Azid!
 1302510010280,Azid,Não vou falar com o papai! Não vou!
-1303030050010,Membro Apavorado,E-estou aqui...
+1303030050010,Membro apavorado,E-estou aqui...
 1303060070010,Quentin,Deve haver um telescópio por aí! Olha bem por ele.
 1303100080010,Kishirashu,Hum? Que cheiro bom!
 1303110020010,Gerald,Aventureiro?
@@ -849,7 +850,7 @@ Cuidado! Não se machuque!"
 1303230050010,Jesper,Você entra primeiro. Só mantenham a atenção deles.
 1303230060010,Jesper,Venha por aqui!
 1303240020010,Jesper,Minha filha deve estar por perto!
-1303240030010,Um grito de Girl,Pai! Pai...!
+1303240030010,Grito de uma garota,Pai! Pai...!
 1303240030020,Jesper,Encontrei minha filha... *snif...* Finalmente a encontrei!
 1303240040010,Jesper,Vamos salvar os outros e sair daqui!
 1303280030010,Parnayia,Eu gosto ao lugar onde costumava brincar com Skybound.
@@ -901,9 +902,9 @@ Cuidado! Não se machuque!"
 1304510010030,Stubborn Rebel,Não vamos nos ajoelhar depois de uma única derrota.
 1304510010040,Voz tímida,O que eu faço? Não quero me alistar de novo.
 1304510010050,Voz tímida,*suspiro...* Então para que virei pesquisador...?
-1304510010060,Rebelde Impaciente,"Hah, não dá para acolher gente lerda para sempre..."
-1304510010070,Rebelde Sorrateiro,Agora até os inúteis estão aparecendo por aqui.
-1304510010080,Rebelde Impaciente,Não é necessário um rato de biblioteca. Livrem-se dele.
+1304510010060,Rebelde impaciente,"Hah, não dá para acolher gente lerda para sempre..."
+1304510010070,Rebelde sorrateiro,Agora até os inúteis estão aparecendo por aqui.
+1304510010080,Rebelde impaciente,Não é necessário um rato de biblioteca. Livrem-se dele.
 1304510010090,Elbi,"O formato e a dureza são semelhantes ao Aetherium, mas a cor é diferente."
 1304510010100,Elbi,"Ah, e tenha cuidado ao minerar."
 1304510010110,Elbi,Há um número anormal de monstros perto do minério.
@@ -1026,7 +1027,7 @@ Cuidado! Não se machuque!"
 1204040160060,Mueena ,Você pagará cinco vezes o valor combinado.
 1204040160070,Mueena ,"Em troca, não deixe nenhum deles escapar vivo."
 1204210030010,Lorraine,"Se ainda não tiver ido embora, estará a oeste."
-1204220060010,Grito do Comerciante,Bebidas! Venham buscar as bebidas!
+1204220060010,Grito do mercador,Bebidas! Venham buscar as bebidas!
 1204220180010,Liquor Merchant,"Ufa, agora está bem mais leve. Estava com medo de quebrar."
 1204220190010,Liquor Merchant,Estamos quase sem destino. Vou na frente.
 1204230060010,Pinar,Só para avisar... também faço parte da Paradise Advent Society.
@@ -1034,7 +1035,7 @@ Cuidado! Não se machuque!"
 1204230100020,Pinar,Vou oferecer a eles um pouco de “água refrescante” para passar a bebedeira.
 1204240040010,Pinar,Hum? Você já tinha descido?
 1204240040020,Beretta,O que vocês dois estão cochichando? Venham cá.
-1204250020010,Baixo de Naruru Voz,"Por aqui, cachorrinhos de Beretta."
+1204250020010,Voz baixa de Naruru,"Por aqui, cachorrinhos de Beretta."
 1204260060010,Schulak,"É uma erva que estanca o sangue rápido, mas é difícil de encontrar."
 1204260060020,Schulak,Há muitas flores enormes neste jardim. Fique de olhos bem abertos.
 1204270010010,Schulak,Conversamos melhor na cervejaria.
@@ -1158,7 +1159,8 @@ Cuidado! Não se machuque!"
 1210260090010,Weifel,"Ugh, isso insiste. Vamos sair daqui depressa."
 1210270010010,Weifel,"Ei, Candidato Escolhido."
 1210270010020,Weifel,Zisen entrará em contato com você. Não seja bobo e finja surpresa.
-1210270010030,Zisen,"Ah, sou eu. Preciso que encontre uma coisa no esconderijo da Ironblood Brigade."
+1210270010030,Zisen,"Ah, sou eu.
+Preciso que você encontre uma coisa no Ironblood Brigade Hideout."
 1210270030010,Zisen,"talvez seja precipitado, mas preciso do relatório do experimento deles."
 1210270030020,Zisen,"Quase todos acham que o boato não tem fundamento, mas talvez não seja o caso."
 1210270030030,Zisen,Weifel vai lhe dizer onde fica.
@@ -1189,8 +1191,8 @@ Cuidado! Não se machuque!"
 2210310010040,Hekima,E desde então não entrou mais em contato.
 2210310010050,Hekima,Alguém está bloqueando o caminho.
 2210310010060,Stormkel Legation Assigned Soldier,Alto! A área restrita está restrita.
-2210310010070,Cultista de anseio,Este lugar sagrado não é profano!
-2210310010080,Cultista de anseio,Eles vão nos guiar mais uma vez...!
+2210310010070,Cultista ansioso,Este lugar sagrado não é profano!
+2210310010080,Cultista ansioso,Eles vão nos guiar mais uma vez...!
 2210310010090,Adel,Surpreso? Isto é um Monólito Artificial!
 2210310010100,Voz brincalhona,Espere... sofreu uma massa crítica num instante. É aquela pessoa?
 2210310010110,Voz brincalhona,"Ei, pare de perder tempo e venha para cá."
@@ -1229,7 +1231,7 @@ Cuidado! Não se machuque!"
 1201080050050,Silla,"Muito bem, você escolherá você como um dos candidatos."
 1201080100010,Weifel,"Ah, pelo visto você conseguiu contato. Foi tudo bem com os Explorers?"
 1201080100020,Weifel,"Sobreviveu, então. Até mais."
-1201090010010,Bailey,Venha às ruínas do Ancient Imperial Institute. Tenho uma missão que você deve interessar.
+1201090010010,Bailey,Venha às Ancient Imperial Institute Ruins. Tenho uma missão que você deve interessar.
 1201090010020,Bailey,"Você sabe que perde se não vier, certo? É melhor aproveitar enquanto estou pedindo educação."
 1201090080010,Bailey,"Talvez por aqui ter sido a sede do instituto do antigo império, aconteçam coisas de todo tipo."
 1201090080020,Bailey,"Alguns vêm obcecados com Aetherium, outros aparecem com os olhos vidrados atrás de relíquias."
@@ -1268,7 +1270,7 @@ Cuidado! Não se machuque!"
 1204670060020,Dan,"Então, se alguém é próximo dela, cuide bem dela, por favor. Crianças se machucam com facilidade."
 1204670060030,Naie,"Hã? Mas eu luto muito bem, sabia? Você pode ficar parado e assistir."
 1204670120010,Naie,O pessoal daqui só fala de trabalho.
-1204670120020,Naie,Você não é da expedição Bardad? Dizem que ela é bem famosa.
+1204670120020,Naie,Você não é da Bardad Expedition? Dizem que ela é bem famosa.
 1204670120030,Naie,Eles não mandam os membros da expedição para cá? Todo mundo parece ocupado...
 1204670140010,Naie,"Por algum motivo, não consigo parar de pensar naquela espada. Tenho a sensação de que vou encontrá-la."
 1204670140020,Naie,"Deve ser porque sou espadachim, né?"
@@ -1298,9 +1300,9 @@ Cuidado! Não se machuque!"
 512030200010,Rene,Mwa-hahaha! Mwahahahahaha!
 512030200020,Zamamark,"Ele está bem? Só está empolgado, né?"
 512040030010,Kamiya,Uau! Faz tempo!
-510250060010,Destruidor de arte Cat,Miau!
-510250090010,Destruidor de arte Cat,Meu bem?
-510250120010,Destruidor de arte Cat,Fsss! Miaau!
+510250060010,Gato destruidor de arte,Miau!
+510250090010,Gato destruidor de arte,Meu bem?
+510250120010,Gato destruidor de arte,Fsss! Miaau!
 510250140010,Maureen,Querido? Venha cá!
 510010060010,Zariya,"Já que está aqui, compre alguma coisa antes de ir. Não pergunte por quê, está bem?"
 510040040010,Uma voz descarada,Hah... isso é patético! Estou decepcionado!
@@ -1318,7 +1320,7 @@ Cuidado! Não se machuque!"
 516050130030,Kanber,...Você fingiu que não vi.
 516050130040,Passer-by Naruru,"*snif, snif...* Você também tem um cheiro extraordinário. Esse cheiro é digno de um Angry Tail, Angry Tail!"
 513020180010,Voz estridente,Voltaram para trazer ainda mais ofertas? Heheh!
-513020180020,Um grito de Courier,Devolvam! Seus ladrões desgastados!
+513020180020,Grito de um mensageiro,Devolvam! Seus ladrões desgastados!
 513020180030,Voz estridente,Quem é esse pirralho magricela?
 513040030010,Monica ,"Só por segurança, faça isso onde não haja ninguém por perto."
 513040060010,Yoar,Aventureiro! Está bem?!
@@ -1356,7 +1358,7 @@ Cuidado! Não se machuque!"
 17013100203,Asli,A Kiguru Tribe não deve ser inteligente o bastante para usar um Aether Collector...
 17013100301,Asli,"Por aqui, [player]."
 17013100401,Tribo Kiguru,"Ugh, urgh... Argh!"
-17013100402,Voz Suspeita,Hum? A pureza é baixa demais!
+17013100402,Voz suspeita,Hum? A pureza é baixa demais!
 17013100501,Asli,Achei que meus tímpanos estavam estourando.
 17013200101,Asli,É melhor entrarmos. Já acabamos com todos os monstros.
 17013200201,Voz familiar,"Ei, que tal trabalharmos juntos?"
@@ -1388,8 +1390,8 @@ Cuidado! Não se machuque!"
 1701550104,Gunter,Derrubem o Giant primeiro e capturem o cliente vivo!
 1701560101,Evrin ,"Sei que estou ocupado, mas preciso que arranje um tempo para mim."
 1701560102,Evrin ,Encontre-me na Wayfinders Guild.
-1701560201,Voz sombria,*suspiro* Evrin disse que voltava logo...
-1701560301,Eli,"Uma expedição Bardad está em Cactus Nest, não está?"
+1701560201,Voz carrancuda,*suspiro* Evrin disse que voltava logo...
+1701560301,Eli,"Uma Bardad Expedition está em Cactus Nest, não está?"
 1701560302,Eli,O que foi aquele membro da expedição disse...?
 1701560303,Eli,Os Giants têm medo da tribo Naruru? Nunca ouvi uma bobagem tão grande.
 1701560304,Eli,Não podemos deixar um boato sem fundamento se espalhar. Vamos verificar o logotipo!

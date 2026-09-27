@@ -14,7 +14,7 @@
 111,Sistema,Recompensa do chefe do Rift,Enviado por correio devido a espaço insuficiente no inventário.
 112,Sistema,Recompensas da Shadow Incursion,Enviado por correio devido a espaço insuficiente no inventário.
 113,Sistema,[PassName] O período de recompensa premium,Enviado por correio devido a espaço insuficiente no inventário.
-114,Sistema,Recompensa do Passe de Convocação,Enviado por correio devido a espaço insuficiente no inventário.
+114,Sistema,Recompensa do Summon Pass,Enviado por correio devido a espaço insuficiente no inventário.
 201,Sistema,A recompensa foi alterada.,[OriginalCount] [OriginalName] alterado para [MigratedCount] [MigratedName].
 202,Sistema,Restos do evento de incursão encerrado,[OriginalCount] [OriginalName] alterado para [MigratedCount] [MigratedName].
 203,Sistema,Restos do evento de incursão encerrado,[OriginalCount] [OriginalName] alterado para [MigratedCount] [MigratedName].
@@ -34,12 +34,12 @@ Eles não ocupam mais slots de inventário e podem ser visualizados na guia Recu
 301,Sistema,Transferência do servidor do clã,Seu clã foi transferido para o servidor [ServerName].
 302,Sistema,Ticket de transferência de servidor de conta expirado,Ticket de transferência de servidor de conta expirou e o valor da compra foi reembolsado.
 303,Sistema,O ticket de transferência do servidor do clã expirou,O ticket de transferência do servidor do clã expirou e a compra valor foi reembolsado.
-304,Sistema,Moeda de mudança de classe expirada,expiraram; elas foram substituídas por moedas de mudança de classe antiga.
-305,Sistema,Ticket de Mudança de Classe Expirado,Tickets de Mudança de Classe expiraram; eles foram reembolsados.
+304,Sistema,Class Change Coin expirada,expiraram; elas foram substituídas por moedas de mudança de classe antiga.
+305,Sistema,Class Change Ticket expirado,Tickets de Mudança de Classe expiraram; eles foram reembolsados.
 306,Sistema,Transferência de servidor High Pass concluída,Bilhetes de transferência não utilizados foram reembolsados.
 307,Sistema,Marketplace Item retirado,Marketplace itens foram retirados devido a transferência forçada.
 308,Sistema,Liquidação não reclamada paga,As vendas não pagas de Marketplace foram pagas devido à transferência forçada.
-309,Sistema,Moeda de mudança de classe expirada,Moedas de mudança de classe foram convertidas em ouro. Uma única moeda é convertida em 1.000 ouro. As moedas de mudança de classe
+309,Sistema,Class Change Coin expirada,Moedas de mudança de classe foram convertidas em ouro. Uma única moeda é convertida em 1.000 ouro. As moedas de mudança de classe
 1000,Sistema,Convite para bate-papo em grupo,Aceita o convite de [ChatRoomName]?
 1001,Sistema,Resultado do Pedido de Vingança,"Membro do Clã [CharacterName] derrotou [TargetName], completando seu vingança."
 1002,Sistema,Resultado da solicitação de recompensa,"[CharacterName] derrotou [TargetName], completando a recompensa."
@@ -97,11 +97,11 @@ A recompensa de classificação para a Temporada do Corredor Perpétuo do Clã [
 1040,Sistema,Recompensa de convite de amigo High Pass,Uma recompensa chegou porque um amigo completou todos os eventos High Pass Friend Mission.
 1041,Sistema,Recompensa de convite de amigo High Pass,Uma recompensa chegou porque 3 amigos completaram todos os eventos High Pass Friend Mission.
 1042,Sistema,Recompensa de convite de amigo High Pass,Uma recompensa chegou porque 5 amigos completaram todos os eventos High Pass Friend Mission.
-1043,Sistema,Recompensa de Expedição de Clã,"A recompensa da expedição do clã chegou.
+1043,Sistema,Recompensa de Clan Expedition,"A recompensa da Clan Expedition chegou.
 Por favor, verifique os itens anexados."
 1044,Sistema,Missão do clã,As recompensas não reclamadas da Missão do Clã da semana passada chegaram.
-1045,Sistema,[Bênção do Gigante]: Bilhete de recarga Hot Time da Giant's Tower,Giant: Bilhete de recarga Hot Time da Giant's Tower entregue diariamente.
-1046,Sistema,[Bênção do Gigante]: Cristal de Autoridade,Bênção do Gigante: Cristal de Autoridade entregue diariamente. Bênção de
+1045,Sistema,[Giant's Blessing]: Giant's Tower Hot Time Recharge Ticket,Giant's Blessing: Giant's Tower Hot Time Recharge Ticket entregue diariamente.
+1046,Sistema,[Giant's Blessing]: Crystal of Authority,Bênção do Gigante: Crystal of Authority entregue diariamente. Bênção de
 1047,Sistema,Abyss Battlefield: Recompensas de classificação da temporada,Abyss Battlefield: As recompensas de classificação da temporada chegaram. Verifique os itens anexados.
 1048,Sistema,Abyss Battlefield: Recompensas de classificação semanal,Abyss Battlefield As recompensas de classificação semanal chegaram. Por favor verifique os itens anexados.
 1055,Sistema,Recompensa da Liga da Arena,Recompensa da Liga da Arena enviada por correio devido a inventário insuficiente.
@@ -170,11 +170,11 @@ Já é a terceira carta.
 
 Originalmente, este é o trabalho do Explorer Guild Master, mas como ele é uma pessoa tão ocupada, acabei pisando in.
 
-Você conhece bem os <Yellow>Portões de teste</> e <Yellow>Santuários etéreos</> em Abandoned Land, certo? Ouvi dizer que eles são famosos entre os aventureiros como uma das maneiras de obter recompensas especiais e ficar mais fortes, então me pergunto como é para você.
+Você conhece bem os <Yellow>Trial Gates</> e <Yellow>Santuários etéreos</> em Abandoned Land, certo? Ouvi dizer que eles são famosos entre os aventureiros como uma das maneiras de obter recompensas especiais e ficar mais fortes, então me pergunto como é para você.
 
 Seria uma pena apenas dizer para você ir de forma imprudente, então anexei um presente como sempre.
 Até mais."
-10004,Guilda dos Exploradores,Codex Informações,"Olá, aqui é o Explorer Guild.
+10004,Explorers Guild,Codex Informações,"Olá, aqui é o Explorer Guild.
 Estamos enviando esta carta para fornecer informações sobre o Codex, então verifique.
 
 ◈ Como usar o Codex ◈ 

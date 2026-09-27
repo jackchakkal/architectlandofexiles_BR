@@ -1,5 +1,5 @@
 {
- "_comment": "v14: nomes de Skills, masmorras e itens voltam ao inglês em qualquer menção (regra editorial de 2026-09-27). Aplicado sobre translations/v13.",
+ "_comment": "v14: nomes de Skills, masmorras e itens voltam ao inglês em qualquer menção (regra editorial de 2026-09-27). Aplicado sobre translations/v13. Falantes de diálogo: rótulos descritivos ficam em PT (retraduzidos); nomes/organizações dentro deles e 'Shrewd Merchant' ficam em inglês.",
  "__restore_exact_names__": {
   "sources": [
    [
@@ -29,6 +29,166 @@
    [
     "DungeonSection_Name.csv",
     "StringParam"
+   ],
+   [
+    "Faction_Name.csv",
+    "Name"
+   ],
+   [
+    "TownQuickMenu_Name.csv",
+    "Name"
+   ],
+   [
+    "TrialGateGroup_Name.csv",
+    "Name"
+   ],
+   [
+    "DungeonClanTrialGateType_Name.csv",
+    "Name"
+   ],
+   [
+    "DungeonTrialGatePartyType_Name.csv",
+    "Name"
+   ],
+   [
+    "Npc_Name.csv",
+    "Name"
+   ],
+   [
+    "GuideBoss_Name.csv",
+    "Name"
+   ],
+   [
+    "ClanBossRaid_Name.csv",
+    "Name"
+   ],
+   [
+    "World_Name.csv",
+    "Name"
+   ],
+   [
+    "WorldMapArea_Name.csv",
+    "PlaceName"
+   ],
+   [
+    "WorldSpot_Name.csv",
+    "SpotName"
+   ],
+   [
+    "Area_Name.csv",
+    "PlaceName"
+   ],
+   [
+    "Area_Name.csv",
+    "Param"
+   ],
+   [
+    "InterServerArea_Name.csv",
+    "Name"
+   ],
+   [
+    "InterServerWorld_Name.csv",
+    "Name"
+   ],
+   [
+    "DungeonGlobalBoss_Name.csv",
+    "BossName"
+   ],
+   [
+    "GuideBoss_Name.csv",
+    "PlaceName"
+   ],
+   [
+    "ClanBossRaid_Name.csv",
+    "PlaceName"
+   ],
+   [
+    "ClanBossRaid_Name.csv",
+    "PlaceGroupName"
+   ],
+   [
+    "InterServerArea_Name.csv",
+    "SubName"
+   ],
+   [
+    "Costume_Name.csv",
+    "Name"
+   ],
+   [
+    "CostumeGroup_Name.csv",
+    "Name"
+   ],
+   [
+    "CostumeSlotEffect_Name.csv",
+    "Name"
+   ],
+   [
+    "Vehicle_Name.csv",
+    "Name"
+   ],
+   [
+    "Keiring_Name.csv",
+    "Name"
+   ],
+   [
+    "CharacterTitle_Name.csv",
+    "Name"
+   ],
+   [
+    "BlessingCard_Name.csv",
+    "Name"
+   ],
+   [
+    "BlessingCardGroup_Name.csv",
+    "Name"
+   ],
+   [
+    "ShopItem_Name.csv",
+    "Name"
+   ],
+   [
+    "Subscribe_Name.csv",
+    "Name"
+   ],
+   [
+    "GiantPiece_Name.csv",
+    "GroupName"
+   ],
+   [
+    "SeasonCollectionMain_Name.csv",
+    "DisplayName"
+   ],
+   [
+    "Dialog_Name.csv",
+    "ItemName"
+   ],
+   [
+    "ViewPoint_Name.csv",
+    "Name"
+   ],
+   [
+    "Loading_Name.csv",
+    "WorldName"
+   ],
+   [
+    "TowerOfTitan_Name.csv",
+    "SubName"
+   ],
+   [
+    "OOPartsWishList_Name.csv",
+    "Name"
+   ],
+   [
+    "ReplicaSeed_Name.csv",
+    "Name"
+   ],
+   [
+    "QuestFactionGroup_Name.csv",
+    "Name"
+   ],
+   [
+    "Akasha_Name.csv",
+    "Name"
    ]
   ],
   "columns": [
@@ -42,7 +202,15 @@
    "StringParam",
    "Value",
    "SpotName",
-   "PlaceName"
+   "PlaceName",
+   "PlaceParam",
+   "TabName",
+   "SeasonTitle",
+   "WorldName",
+   "BossName",
+   "PlaceGroupName",
+   "SubName",
+   "GroupName"
   ]
  },
  "__replace_translated_names__": {
@@ -54,6 +222,186 @@
    [
     "SkillDescription_Name.csv",
     "Title"
+   ],
+   [
+    "Item_Name.csv",
+    "Name"
+   ],
+   [
+    "Dungeon_Name.csv",
+    "Name"
+   ],
+   [
+    "Dungeon_Name.csv",
+    "Param"
+   ],
+   [
+    "DungeonSection_Name.csv",
+    "Name"
+   ],
+   [
+    "DungeonSection_Name.csv",
+    "StringParam"
+   ],
+   [
+    "Faction_Name.csv",
+    "Name"
+   ],
+   [
+    "TownQuickMenu_Name.csv",
+    "Name"
+   ],
+   [
+    "TrialGateGroup_Name.csv",
+    "Name"
+   ],
+   [
+    "DungeonClanTrialGateType_Name.csv",
+    "Name"
+   ],
+   [
+    "DungeonTrialGatePartyType_Name.csv",
+    "Name"
+   ],
+   [
+    "Npc_Name.csv",
+    "Name"
+   ],
+   [
+    "GuideBoss_Name.csv",
+    "Name"
+   ],
+   [
+    "ClanBossRaid_Name.csv",
+    "Name"
+   ],
+   [
+    "World_Name.csv",
+    "Name"
+   ],
+   [
+    "WorldMapArea_Name.csv",
+    "PlaceName"
+   ],
+   [
+    "WorldSpot_Name.csv",
+    "SpotName"
+   ],
+   [
+    "Area_Name.csv",
+    "PlaceName"
+   ],
+   [
+    "Area_Name.csv",
+    "Param"
+   ],
+   [
+    "InterServerArea_Name.csv",
+    "Name"
+   ],
+   [
+    "InterServerWorld_Name.csv",
+    "Name"
+   ],
+   [
+    "DungeonGlobalBoss_Name.csv",
+    "BossName"
+   ],
+   [
+    "GuideBoss_Name.csv",
+    "PlaceName"
+   ],
+   [
+    "ClanBossRaid_Name.csv",
+    "PlaceName"
+   ],
+   [
+    "ClanBossRaid_Name.csv",
+    "PlaceGroupName"
+   ],
+   [
+    "InterServerArea_Name.csv",
+    "SubName"
+   ],
+   [
+    "Costume_Name.csv",
+    "Name"
+   ],
+   [
+    "CostumeGroup_Name.csv",
+    "Name"
+   ],
+   [
+    "CostumeSlotEffect_Name.csv",
+    "Name"
+   ],
+   [
+    "Vehicle_Name.csv",
+    "Name"
+   ],
+   [
+    "Keiring_Name.csv",
+    "Name"
+   ],
+   [
+    "CharacterTitle_Name.csv",
+    "Name"
+   ],
+   [
+    "BlessingCard_Name.csv",
+    "Name"
+   ],
+   [
+    "BlessingCardGroup_Name.csv",
+    "Name"
+   ],
+   [
+    "ShopItem_Name.csv",
+    "Name"
+   ],
+   [
+    "Subscribe_Name.csv",
+    "Name"
+   ],
+   [
+    "GiantPiece_Name.csv",
+    "GroupName"
+   ],
+   [
+    "SeasonCollectionMain_Name.csv",
+    "DisplayName"
+   ],
+   [
+    "Dialog_Name.csv",
+    "ItemName"
+   ],
+   [
+    "ViewPoint_Name.csv",
+    "Name"
+   ],
+   [
+    "Loading_Name.csv",
+    "WorldName"
+   ],
+   [
+    "TowerOfTitan_Name.csv",
+    "SubName"
+   ],
+   [
+    "OOPartsWishList_Name.csv",
+    "Name"
+   ],
+   [
+    "ReplicaSeed_Name.csv",
+    "Name"
+   ],
+   [
+    "QuestFactionGroup_Name.csv",
+    "Name"
+   ],
+   [
+    "Akasha_Name.csv",
+    "Name"
    ]
   ]
  },
@@ -92,7 +440,17 @@
     "[Name] has activated [BossName]’s Replica Seed. Move there now?": "[Name] ativou a Replica Seed de [BossName]. Ir para lá agora?",
     "Unable to amplify due to Insufficient Resonance Amplification Core.": "Não é possível amplificar: Resonance Amplification Core insuficiente.",
     "You can only possess 1 Character Gift Ticket per account.": "Você só pode possuir 1 Character Gift Ticket por conta.",
-    "Character Gift canceled. The Character Gift Ticket will be sent via Mail.": "Presente de personagem cancelado. O Character Gift Ticket será enviado por e-mail."
+    "Character Gift canceled. The Character Gift Ticket will be sent via Mail.": "Presente de personagem cancelado. O Character Gift Ticket será enviado por e-mail.",
+    "<Faction>[Adventurer]</>": "<Faction>[Adventurer]</>",
+    "<Faction>[Appraiser]</>": "<Faction>[Appraiser]</>",
+    "<Faction>[Artisan]</>": "<Faction>[Artisan]</>",
+    "<Faction>[Blacksmith]</>": "<Faction>[Blacksmith]</>",
+    "<Faction>[Hunter]</>": "<Faction>[Hunter]</>",
+    "<Faction>[Merchant]</>": "<Faction>[Merchant]</>",
+    "<Faction>[Wayfinder]</>": "<Faction>[Wayfinder]</>",
+    "On": "Ligado",
+    "Upgrade Season Pass": "Melhorar Season Pass",
+    "Premium Season Pass rewards are now available to claim.": "As recompensas Premium do Season Pass já podem ser resgatadas."
    }
   },
   "ContentsFunctionGroup_Name.csv": {
@@ -103,7 +461,8 @@
   },
   "ContentsFunction_Name.csv": {
    "Desc": {
-    "Receive [Value] Giant's Tower Hot Time Recharge Ticket(s) daily via Inbox.": "Receba [Value] Giant's Tower Hot Time Recharge Ticket por dia pela caixa de entrada."
+    "Receive [Value] Giant's Tower Hot Time Recharge Ticket(s) daily via Inbox.": "Receba [Value] Giant's Tower Hot Time Recharge Ticket por dia pela caixa de entrada.",
+    "Receive [Value] Arbiter's Ordeal Token(s) via Inbox daily.": "Receba [Value] Arbiter's Ordeal Token por dia pela caixa de entrada."
    }
   },
   "Dialog_Name.csv": {
@@ -122,11 +481,175 @@
     "Use the Replica Seed while thinking:\r\nwake it, create it or something like that…": "Use a Replica Seed enquanto pensa:\r\nacorde, crie ou algo parecido…",
     "I’d be drinking... uh... that Baba Liquor Naruru makes!": "Eu estaria bebendo... ahn... aquele Baba Liquor que os Naruru fazem!",
     "<Yellow>(The ultimate Baba Liquor... is really popular, isn’t it?)</>": "<Yellow>(O Baba Liquor supremo... é muito popular, não é?)</>",
-    "<Yellow>Drinks! Baba Liquor! The pride of the Naruru!</>\r\nI saved some in secret, just for us!": "<Yellow>Bebidas! Baba Liquor! O orgulho dos Naruru!</>\r\nGuardei um pouco em segredo, só para nós!"
+    "<Yellow>Drinks! Baba Liquor! The pride of the Naruru!</>\r\nI saved some in secret, just for us!": "<Yellow>Bebidas! Baba Liquor! O orgulho dos Naruru!</>\r\nGuardei um pouco em segredo, só para nós!",
+    "Oh. That’s right, candy!\r\nHe gave me candy. Etherium Candy!": "Ah. Isso mesmo, doce!\r\nEle me deu doce. Etherium Candy!",
+    "All right.\r\nThen head to the Hoarfrost Snowfield Crossroads and wipe out <Red>Paradise Advent Society</>.": "Tudo bem.\r\nEntão vá para Hoarfrost Snowfield Crossroads e acabe com a <Red>Paradise Advent Society</>.",
+    "The item the girl gave was an emblem engraved with Paradise Advent Society's Mark.\r\nTo fulfill her request, I asked for the location of the Sanctuary,\r\nbut she didn’t seem to know exactly where it was.": "O item que a garota entregou era um emblema gravado com a Paradise Advent Society's Mark.\r\nPara atender ao pedido dela, perguntei onde ficava o Santuário,\r\nmas ela não parecia saber ao certo.",
+    "He's definitely plotting something.\r\nI'll discuss the “Star of the North Sea” caravan with Aman.": "Ele com certeza está tramando algo.\r\nVou discutir a caravana \"Star of the North Sea\" com Aman.",
+    "Who are you here to see?\r\nIf it's someone from the <Orange>Bardad Expedition</>, I can point you in the right direction.": "Quem você veio ver?\r\nSe for alguém da <Orange>Bardad Expedition</>, posso indicar o caminho.",
+    "When a Naruru sends a friend to Goddess Ea,\r\nwe go to <Blue>Ea's Navel</>.": "Quando um Naruru envia um amigo para a Deusa Ea,\r\nnós vamos até <Blue>Ea's Navel</>.",
+    "<Orange>The Knights of the Frostwind</> have a grave responsibility.\r\nHow do you expect to get anything done talking that slowly?": "<Orange>Os Knights of the Frostwind</> têm uma grave responsabilidade.\r\nComo você espera resolver alguma coisa falando tão devagar?",
+    "I am Katrina.\r\nThe Drill Instructor of the <Blue>Verzard Outpost</>.": "Eu sou Katrina.\r\nA instrutora de treinamento do <Blue>Verzard Outpost</>.",
+    "I know you're busy, but please go to the Blizzard's Breath Plain\r\nand gather monster hearts for me.": "Sei que você está ocupado, mas, por favor, vá até Blizzard's Breath Plain\r\ne colete corações de monstros para mim.",
+    "I handed over the medicine from Barag and Ingmar's share of the Ice Snake Liquor.": "Entreguei o remédio de Barag e a parte de Ingmar do Ice Snake Liquor.",
+    "I couldn’t ignore the report that the <Blue>Resistance Detector</> was malfunctioning.": "Não pude ignorar o relato de que o <Blue>Resistance Detector</> estava com defeito.",
+    "Until I receive a request for cooperation regarding the <Red>Paradise Advent Society</>, I plan to continue hunting the wolves.": "Até receber um pedido de cooperação sobre a <Red>Paradise Advent Society</>, pretendo continuar caçando os lobos.",
+    "A clan member operating near the <Blue>Verzard Outpost</>…\r\n…heard intelligence regarding your mercenary group.": "Um membro do clã que atuava perto do <Blue>Verzard Outpost</>…\r\n…ouviu informações sobre o seu grupo de mercenários.",
+    "Analyzing the Record Disc will take some time. In the meantime, I have a few more favors to ask—": "Analisar o Record Disc vai levar algum tempo. Enquanto isso, tenho mais alguns favores a pedir—",
+    "Right now, a merchant group is stranded in the <Blue>Giant's Corridor</>.\r\nThey're unable to cross over to Aburu Village.": "Neste momento, um grupo de mercadores está preso no <Blue>Giant's Corridor</>.\r\nEles não conseguem atravessar até Aburu Village.",
+    "<Yellow>(You show him the Merchants Guild Token you received earlier.)</>": "<Yellow>(Você mostra a ele o Merchants Guild Token que recebeu antes.)</>",
+    "The one with as much influence as our guild is the <Orange>Bardad Expedition.</>\r\nYou've probably encountered them.": "Quem tem tanta influência quanto a nossa guilda é a <Orange>Bardad Expedition.</>\r\nVocê provavelmente já cruzou com eles.",
+    "Oh, that is a splendid suggestion, Brother.\r\nAs for your compensation, a <Blue>Vending Machine Ticket</> should suffice, yes?": "Ah, é uma sugestão esplêndida, irmão.\r\nQuanto à sua compensação, um <Blue>Vending Machine Ticket</> deve bastar, certo?"
    },
    "ItemDesc": {
     "The Replica Seed gathered by Nicola.\r\nIt's laden with Karugura's Factor, so you’d better handle it with care.": "A Replica Seed coletada por Nicola.\r\nEstá carregada com o Fator de Karugura, então é melhor manuseá-la com cuidado.",
-    "The Replica Seed handed over by Bailiegh.": "A Replica Seed entregue por Bailiegh."
+    "The Replica Seed handed over by Bailiegh.": "A Replica Seed entregue por Bailiegh.",
+    "It’s a Contaminated Aetherium Candy we saw in the Giant’s Garden.": "É um Contaminated Aetherium Candy que vimos no Giant's Garden.",
+    "A handmade Rappie Snack.": "Um Rappie Snack feito à mão."
+   },
+   "Name": {
+    "Troubled Resident": "Morador aflito",
+    "Unfamiliar Voice": "Voz desconhecida",
+    "Snickering Voice": "Voz risonha",
+    "Fierce Voice": "Voz feroz",
+    "Mysterious Adventurer": "Aventureira Misteriosa",
+    "Dispatched Hunter (Male)": "Hunter enviado",
+    "Familiar Voice": "Voz familiar",
+    "Cheerful Defense Force Member": "Membro animado da Defense Force",
+    "Mysterious Mage": "Mago misterioso",
+    "Cave Owl A (Female Villager)": "Cave Owl A (aldeã)",
+    "Cave Owl B (Male Villager)": "Cave Owl B (aldeão)",
+    "Mysterious Voice": "Voz misteriosa",
+    "Granny Kuren": "Vovó Kuren",
+    "Kidnapped Resident": "Morador sequestrado",
+    "Frightened Man": "Homem assustado",
+    "Gruff Voice": "Voz rouca",
+    "Energetic Defense Force Member": "Membro enérgico da Defense Force",
+    "Timid Voice": "Voz tímida",
+    "Opportunistic Resident": "Morador oportunista",
+    "Shadow Wolves Leader": "Líder dos Shadow Wolves",
+    "Grandpa": "Vovô",
+    "Lively Voice": "Voz animada",
+    "Bound Paradise Follower": "Seguidor amarrado do Paradise",
+    "Solider on Guard Duty": "Soldado de guarda",
+    "Bored voice": "Voz entediada",
+    "The Man from Memory": "O homem da lembrança",
+    "Sorcerer of the Baekryeong Clan": "Feiticeiro do Clã Baekryeong",
+    "Urgent Shout": "Grito urgente",
+    "Naruru by the Boat": "Naruru perto do barco",
+    "Shrewd Merchant": "Shrewd Merchant",
+    "Nostalgic Voice": "Voz nostálgica",
+    "The Dawn-Bringer": "O Dawn-Bringer",
+    "Naruru Who Wants to Hide": "Naruru que quer se esconder",
+    "Another Voice": "Outra voz",
+    "Panicked Scout’s Shout": "Grito de batedor em pânico",
+    "Resident with a Calm Impression": "Morador de ar calmo",
+    "Grumbling Resident": "Morador resmungão",
+    "Reminiscing Old Man": "Velho relembrando",
+    "Zisen's Voice": "Voz de Zisen",
+    "Babylon Resident": "Morador de Babylon",
+    "Man": "Homem",
+    "Hakan’s Comrade": "Camarada de Hakan",
+    "Person in Charge": "Responsável",
+    "Wheezing Voice": "Voz ofegante",
+    "Firm Voice": "Voz firme",
+    "Urgent Voice": "Voz urgente",
+    "A Furious Person": "Uma pessoa furiosa",
+    "Encampment Sentry's Shout": "Grito da sentinela do acampamento",
+    "Man on the Ground (Naraf)": "Homem no chão (Naraf)",
+    "Narurus who want to become Sturdy-Beard": "Narurus que querem virar Sturdy-Beard",
+    "Passionate Woman": "Mulher apaixonada",
+    "Secretive Voice": "Voz secreta",
+    "A cheerful voice": "Uma voz alegre",
+    "Quick-footed Pioneer Corps Member": "Membro ágil do Pioneer Corps",
+    "Playful Voice": "Voz brincalhona",
+    "Shrill Voice": "Voz estridente",
+    "Surprised Villager": "Aldeão surpreso",
+    "Suspicious Voice": "Voz suspeita",
+    "Former Deserter": "Ex-desertor",
+    "Troubled Voice": "Voz aflita",
+    "Art-Destroyer Cat": "Gato destruidor de arte",
+    "The Ruler’s Aide": "Assessor do Ruler",
+    "Emperor": "Imperador",
+    "Young Chahim’s Voice": "Voz do jovem Chahim",
+    "The Girl from Memory": "A garota da lembrança",
+    "Presumed Superior": "Suposto superior",
+    "Busy-looking Naruru": "Naruru de ar ocupado",
+    "Mysterious Figure": "Figura misteriosa",
+    "Gate Captain of Stormkel": "Capitão do portão de Stormkel",
+    "Welcoming Voice": "Voz acolhedora",
+    "Joyful Voice": "Voz alegre",
+    "Faint Voice": "Voz fraca",
+    "Troubled Naruru": "Naruru aflito",
+    "Mountain Club Members": "Membros do Mountain Club",
+    "Elegant-looking Man": "Homem de ar elegante",
+    "Flustered Person": "Pessoa atrapalhada",
+    "Sharp-eyed Person": "Pessoa de olhar aguçado",
+    "Kiguru Tribe": "Tribo Kiguru",
+    "Man Who Appears to be the Captain": "Homem que parece ser o capitão",
+    "Serious-Looking Priest": "Sacerdote de ar sério",
+    "Serious Naruru": "Naruru sério",
+    "A Soldier's Voice": "Voz de um soldado",
+    "Kuduru Tribe": "Tribo Kuduru",
+    "Shout from Afar": "Grito ao longe",
+    "Injured Knight": "Cavaleiro ferido",
+    "Terrified Whimpering": "Choramingo apavorado",
+    "Trainer Naruru": "Naruru treinador",
+    "Follower of Astrid": "Seguidor de Astrid",
+    "Flustered Voice": "Voz atrapalhada",
+    "Confident Voice": "Voz confiante",
+    "Cautious Voice": "Voz cautelosa",
+    "Impatient Rebel": "Rebelde impaciente",
+    "Yearning Cultist": "Cultista ansioso",
+    "The Ruler": "O Ruler",
+    "Young Quaista’s Voice": "Voz da jovem Quaista",
+    "Placeholder text": "Texto provisório",
+    "Animal Whimpering": "Animal choramingando",
+    "Suspicious Noise": "Ruído suspeito",
+    "Naruru’s Shout": "Grito de Naruru",
+    "Gasping Addict": "Viciado ofegante",
+    "Scribbled Note": "Bilhete rabiscado",
+    "Grumbling ancient object": "Objeto antigo resmungão",
+    "Shouts from Outside": "Gritos lá de fora",
+    "A Distant Explosion": "Uma explosão distante",
+    "Shouting": "Gritaria",
+    "Flustered Girl": "Garota atrapalhada",
+    "Sharp Voice": "Voz afiada",
+    "A Quiet Noise": "Um ruído baixo",
+    "Apprentices": "Aprendizes",
+    "Hidden Naruru": "Naruru escondido",
+    "Defense Force Member's Shout": "Grito de membro da Defense Force",
+    "Suspicious Presence": "Presença suspeita",
+    "A fierce-looking man": "Um homem de ar feroz",
+    "Large-Bodied Hunter": "Hunter corpulento",
+    "Exhausted Adventurer": "Aventureiro exausto",
+    "The Sound of Someone Crying": "O som de alguém chorando",
+    "Trembling Voice": "Voz trêmula",
+    "A Gravelly-Voiced Merchant": "Um mercador de voz grave",
+    "Confident Naruru's Voice": "Voz confiante de Naruru",
+    "Sobbing Naruru": "Naruru soluçando",
+    "Collapsed Person": "Pessoa caída",
+    "Angry Voice": "Voz irritada",
+    "Boisterous Voice": "Voz escandalosa",
+    "Grumbling Voice": "Voz resmungona",
+    "Ironblood Brigade Strike Captain": "Capitão de assalto da Ironblood Brigade",
+    "Young Soldier": "Soldado jovem",
+    "A Scared Man’s Cry": "Grito de um homem assustado",
+    "Annoyed Voice": "Voz aborrecida",
+    "Someone Crying Out (Narat)": "Alguém gritando (Narat)",
+    "Stranger (Sol)": "Estranho (Sol)",
+    "Voice in Agony": "Voz em agonia",
+    "Terrified Member": "Membro apavorado",
+    "A Girl's Shout": "Grito de uma garota",
+    "Sneaky Rebel": "Rebelde sorrateiro",
+    "Merchant's Shout": "Grito do mercador",
+    "Naruru's Low Voice": "Voz baixa de Naruru",
+    "Frightened Wolf": "Lobo assustado",
+    "A Brazen Voice": "Uma voz descarada",
+    "A Terrified Voice": "Uma voz aterrorizada",
+    "A Sweet, Honeyed Voice": "Uma voz doce e melosa",
+    "A Courier’s Cry": "Grito de um mensageiro",
+    "Sullen voice": "Voz carrancuda"
    }
   },
   "DungeonSection_Name.csv": {
@@ -171,7 +694,8 @@
     "Sweet Baba Crackers": "Sweet Baba Crackers",
     "Use Stardust": "Usar Stardust",
     "Use Halo Bread": "Usar Halo Bread",
-    "Use Cup of Black Tea": "Usar Cup of Black Tea"
+    "Use Cup of Black Tea": "Usar Cup of Black Tea",
+    "Increase Colossal Titan Attunement Page Tier": "Aumentar o nível da página de sintonia de Colossal Titan"
    },
    "Desc": {
     "Use Weapon Enhancement Stone Recipe": "Usar Weapon Enhancement Stone Recipe",
@@ -191,13 +715,17 @@
     "Karugura's Factor.\r\nAs I place it into the Replica Seed, a faint light flickers.": "Fator de Karugura.\r\nQuando o coloco na Replica Seed, uma luz fraca pisca.",
     "Karugura's Factor.\r\nI placed it into the Replica Seed, but there is no change.\r\nI believe I followed Bailey's instructions, so this is strange.": "Fator de Karugura.\r\nColoquei-o na Replica Seed, mas nada muda.\r\nAcredito ter seguido as instruções de Bailey, então isso é estranho.",
     "Tagar's Factor.\r\nAs I place it into the Replica Seed, a faint light flickers.": "Fator de Tagar.\r\nQuando o coloco na Replica Seed, uma luz fraca pisca.",
-    "Tagar's Factor.\r\nAs I place it into the Replica Seed, it emits an intense light.": "Fator de Tagar.\r\nQuando o coloco na Replica Seed, ela emite uma luz intensa."
+    "Tagar's Factor.\r\nAs I place it into the Replica Seed, it emits an intense light.": "Fator de Tagar.\r\nQuando o coloco na Replica Seed, ela emite uma luz intensa.",
+    "◈ Bardad Expedition Forward Waypoint ◈\r\n\r\nChief Officer: Technical Advisor Chedar\r\nExpedition Members: Vaddat, Devora\r\nPrimary Objective: Investigate connections between the floating debris and the Giant's Tower; conduct epidemological study on the Twisted Elysium.\r\nDuration: From Month XX, Day YY until objectives are achieved\r\n\r\nChief... are you sure it’s okay to write it like this?\r\nThere are literally only three of us. Can we even call this a \"forward waypoint\"?\r\nAnd I'm the rookie… Why am I the one writing the report to Commander Bardad?!": "◈ Bardad Expedition Forward Waypoint ◈\r\n\r\nOficial responsável: Conselheiro Técnico Chedar\r\nMembros da expedição: Vaddat, Devora\r\nObjetivo principal: investigar as conexões entre os destroços flutuantes e a Giant's Tower; conduzir estudo epidemiológico sobre Twisted Elysium.\r\nDuração: do mês XX, dia YY, até que os objetivos sejam alcançados\r\n\r\nChefe... tem certeza de que pode escrever assim?\r\nHá li",
+    "Author: Generation No. 00638\r\n\r\nFar velow the lower levels of the tower lies a specialized facility known as the Aether Leyline.\r\nThe leyline stretches across all of Elsetia, absorbing Aether on its own.\r\nEssentially, it converts natural Aether into power for the tower, directing it to internal facilities like the Control Room and the Incubation Chamber.\r\nUnder special authorization, it can also target the Aether of sentient lifeforms... including animals and sentient entities.": "Autor: Geração nº 00638\r\n\r\nBem abaixo dos níveis inferiores da torre fica uma instalação especializada conhecida como Aether Leyline.\r\nA leyline se estende por toda Elsetia, absorvendo Aether por conta própria.\r\nEm essência, ela converte o Aether natural em energia para a torre, direcionando-o a instalações internas como a Sala de Controle e a Câmara de Incubação.\r\nSob autorização especial, ela também pode extrair o Aether de formas de vida sencientes... incluindo animais e entidades sencientes."
    }
   },
   "GadgetInteraction_Name.csv": {
    "TextInteraction": {
     "Handing over the Replica Seed...": "Entregando a Replica Seed...",
-    "Using the Replica Seed...": "Usando a Replica Seed..."
+    "Using the Replica Seed...": "Usando a Replica Seed...",
+    "Investigating the Bardad Expedition's flag...": "Investigando a bandeira da Bardad Expedition…",
+    "Checking the Ninkar Recipe from Orica...": "Verificando a Ninkar Recipe de Orica…"
    },
    "Desc": {
     "Activate Replica Seed": "Ativar Replica Seed"
@@ -210,7 +738,8 @@
   },
   "LoadingTip_Name.csv": {
    "LoadingTipInfo": {
-    "A repository of the ancient empire, said to be managed by the Ragar Tribe.\r\nYou can acquire Stardust required to increase Card levels and materials needed for Transcendence.": "Um repositório do antigo império, supostamente administrado pela Tribo Ragar.\r\nVocê pode obter Stardust, necessário para subir o nível das Cartas, e materiais para a Transcendência."
+    "A repository of the ancient empire, said to be managed by the Ragar Tribe.\r\nYou can acquire Stardust required to increase Card levels and materials needed for Transcendence.": "Um repositório do antigo império, supostamente administrado pela Tribo Ragar.\r\nVocê pode obter Stardust, necessário para subir o nível das Cartas, e materiais para a Transcendência.",
+    "The garrison of the Bardad Expedition operating in the Forsaken Land.\r\nBased in a Waypoint in Gale Ravine, they dispatch their members throughout the Forsaken Land.": "A guarnição da Bardad Expedition que atua na Forsaken Land.\r\nCom base em um Waypoint em Gale Ravine, eles enviam seus membros por toda a Forsaken Land."
    }
   },
   "PassMission_Name.csv": {
@@ -237,18 +766,95 @@
     "Go to the <Faction>Ancient Ruins Diggings</>": "Vá para <Faction>Ancient Ruins Diggings</>",
     "Return to the <Faction>Ancient Ruins Diggings</>": "Retorne a <Faction>Ancient Ruins Diggings</>",
     "Head <EpicMain>Inside the Ancient Ruins</>": "Entre <EpicMain>em Ancient Ruins</>",
-    "Defeat the <EpicMain>Paradise Advent Prophet</>": "Derrote <EpicMain>Paradise Advent Prophet</>"
+    "Defeat the <EpicMain>Paradise Advent Prophet</>": "Derrote <EpicMain>Paradise Advent Prophet</>",
+    "Enter Giant's Tower 1F Lobby": "Entre no Giant's Tower 1F Lobby",
+    "Go to the <SubContents>Great Arbor Domain</>": "Vá para <SubContents>Great Arbor Domain</>",
+    "Defeat the <SubContents>Kuduru Chieftain</>": "Derrote o <SubContents>Kuduru Chieftain</>",
+    "Return to the <Faction>Artisans Guild</>": "Retorne à <Faction>Artisans Guild</>",
+    "Go to the <Faction>Magobi Encampment</>": "Vá para <Faction>Magobi Encampment</>",
+    "Defeat the <Faction>Shadow Wolf Clan</> members": "Derrote os membros do <Faction>Shadow Wolf Clan</>",
+    "Complete <Faction>Arbiter’s Ordeal</> once": "Conclua <Faction>Arbiter’s Ordeal</> uma vez",
+    "Go to the <EpicMain>Bardad Expedition</>": "Vá para a <EpicMain>Bardad Expedition</>",
+    "Go to the <EpicMain>Bardad Expedition Headquarters</>": "Vá para o <EpicMain>Bardad Expedition Headquarters</>",
+    "Defeat the charging <EpicMain>Shadow Wolf Clan</>": "Derrote o <EpicMain>Shadow Wolf Clan</> que ataca",
+    "Go to the <EpicMain>Bardad Expedition Garrison</>": "Vá para a <EpicMain>Bardad Expedition Garrison</>",
+    "Defeat the swarming <EpicMain>Shadow Wolf Clan</>": "Derrote o enxame do <EpicMain>Shadow Wolf Clan</>",
+    "Return to the <EpicMain>Magobi Encampment</>": "Retorne ao <EpicMain>Magobi Encampment</>",
+    "Return to <EpicMain>Taima Pioneer Village</>": "Retorne a <EpicMain>Taima Pioneer Village</>",
+    "Ambush the <EpicMain>Shadow Wolf Clan</>": "Embosque o <EpicMain>Shadow Wolf Clan</>",
+    "Go to the <EpicMain>Shadow Wolf Clan Hideout</>": "Vá para o <EpicMain>Shadow Wolf Clan Hideout</>",
+    "Escape the <EpicMain>Shadow Wolves Hideout</>": "Escape do <EpicMain>Shadow Wolves Hideout</>",
+    "Go <EpicMain>behind the Cactus Nest</>": "Vá <EpicMain>para trás do Cactus Nest</>",
+    "Defeat the Ironblood Brigade <EpicMain>Vice Commander</>": "Derrote o <EpicMain>Vice Commander</> da Ironblood Brigade",
+    "Defeat the <EpicMain>Ironblood Brigade Officer</> blocking the way": "Derrote o <EpicMain>Ironblood Brigade Officer</> que bloqueia o caminho",
+    "Go to the <EpicMain>Verzard Outpost</>": "Vá para o <EpicMain>Verzard Outpost</>",
+    "Go to the <EpicMain>Black Pillar Cliffs</>": "Vá para <EpicMain>Black Pillar Cliffs</>",
+    "Move to the <EpicMain>Vagrant's Repose</>": "Vá para <EpicMain>Vagrant's Repose</>",
+    "Go to the <EpicMain>White Stag's Cradle</>": "Vá para <EpicMain>White Stag's Cradle</>",
+    "Go to the <EpicMain>Stragglers' Camp at the Starfall Plateau</>": "Vá para o <EpicMain>Stragglers' Camp no Starfall Plateau</>",
+    "Pass through <EpicMain>Dragon's Breath</>": "Atravesse <EpicMain>Dragon's Breath</>",
+    "Go to the <EpicMain>Hunter's Border Outpost</>": "Vá para o <EpicMain>Hunter's Border Outpost</>",
+    "Go to the <EpicMain>Evil Dragon's Lair Entrance</>": "Vá para <EpicMain>Evil Dragon's Lair Entrance</>",
+    "Go to the <EpicMain>Bardad Expedition Forward Waypoint</>": "Vá para o <EpicMain>Bardad Expedition Forward Waypoint</>",
+    "Defeat <Archive>monsters</> in Garden of Beasts Zone 1": "Derrote <Archive>monstros</> em Garden of Beasts Zona 1",
+    "Return to the <Archive>Sunset Brewery</>": "Retorne à <Archive>Sunset Brewery</>",
+    "Go to the <Archive>Hill of Grief</>": "Vá para <Archive>Hill of Grief</>",
+    "Go to <Archive>Lamine's Temporary Shelter</>": "Vá para <Archive>Lamine's Temporary Shelter</>",
+    "Cross the bridge <Archive>into the Ember-Choke Grove</>": "Atravesse a ponte <Archive>até Ember-Choke Grove</>",
+    "Go to <Archive>Gorge of Perdition</>": "Vá para <Archive>Gorge of Perdition</>",
+    "Go to <Archive>Verzard Outpost</>": "Vá para <Archive>Verzard Outpost</>",
+    "Go to the <Archive>Supply Depot Administrator</>": "Vá até o <Archive>Supply Depot Administrator</>",
+    "Talk to the <Archive>Supply Depot Administrator</>": "Fale com o <Archive>Supply Depot Administrator</>",
+    "Go to <Archive>the Serpent's Path</>": "Vá para <Archive>Serpent's Path</>",
+    "Go to the <Archive>Hallowed Obsidian Mountain</>": "Vá para <Archive>Hallowed Obsidian Mountain</>",
+    "Go to the <Archive>Bardad Expedition</> to find records": "Vá até a <Archive>Bardad Expedition</> para encontrar registros",
+    "Return to <Archive>Hunter's Village</>": "Retorne a <Archive>Hunter's Village</>",
+    "Go to <Archive>Lake of Spirits</> with <Archive>Naie</>": "Vá para <Archive>Lake of Spirits</> com <Archive>Naie</>",
+    "Defeat the <Sub>Shadow Wolf Clan</> to the west of the encampment": "Derrote o <Sub>Shadow Wolf Clan</> a oeste do acampamento",
+    "Go to the <Sub>White-Bone Expanse</>": "Vá para <Sub>White-Bone Expanse</>",
+    "Go to the <Sub>Merchants Guild</>": "Vá para a <Sub>Merchants Guild</>",
+    "Go to <Sub>Arcal’s Territory</>": "Vá para <Sub>Arcal’s Territory</>",
+    "Go to the <Sub>Thunderbird's Nest</>": "Vá para <Sub>Thunderbird's Nest</>",
+    "Hunt monsters at the <Sub>Thunderbird's Nest</>": "Cace monstros em <Sub>Thunderbird's Nest</>",
+    "Go to the <Sub>Red Plains</>": "Vá para <Sub>Red Plains</>",
+    "Go to the <Sub>Aburu Village Backyard</> to take the trial": "Vá para <Sub>Aburu Village Backyard</> para fazer a provação",
+    "Go to the <Sub>Aburu Village backyard</>": "Vá para <Sub>Aburu Village backyard</>",
+    "Put down the <Sub>Sardine Pie</>": "Coloque a <Sub>Sardine Pie</>",
+    "Go to the <Sub>Forsaken Mine</>": "Vá para <Sub>Forsaken Mine</>",
+    "Go to the <Sub>Ancient Tree Bower Shelter</>": "Vá para <Sub>Ancient Tree Bower Shelter</>",
+    "Go go the <Sub>Forest of Bellowing Dragons</>": "Vá para <Sub>Forest of Bellowing Dragons</>",
+    "Search every corner of the <Sub>Forest of Bellowing Dragons</>": "Vasculhe cada canto de <Sub>Forest of Bellowing Dragons</>",
+    "Return to the <Sub>Sunset Brewery</>": "Retorne à <Sub>Sunset Brewery</>",
+    "Go to the <Sub>Wyvern’s Nest</>": "Vá para <Sub>Wyvern’s Nest</>",
+    "Go to the <Sub>Aburu Village entrance</>": "Vá para <Sub>Aburu Village entrance</>",
+    "Go <Sub>deep into the Ember-Choke Grove</>": "Vá <Sub>para o fundo de Ember-Choke Grove</>",
+    "Head toward the <Sub>Hallowed Obsidian Mountain</>": "Siga em direção a <Sub>Hallowed Obsidian Mountain</>",
+    "Head to the <Sub>Hallowed Obsidian Mountain</> once more": "Vá para <Sub>Hallowed Obsidian Mountain</> mais uma vez",
+    "Go to the <Sub>Forgotten Ridges</>": "Vá para <Sub>Forgotten Ridges</>",
+    "Go to the <Sub>Ruins of the Forgotten Kingdom</>": "Vá para <Sub>Ruins of the Forgotten Kingdom</>",
+    "Return to the <Sub>Bardad Expedition Encampment</>": "Retorne ao <Sub>Bardad Expedition Encampment</>",
+    "Go to the <Sub>Gray Forest</>": "Vá para <Sub>Gray Forest</>",
+    "Go to the <Sub>Silver Shadow Temple</>": "Vá para <Sub>Silver Shadow Temple</>",
+    "Go to the <Sub>Obsidian Encampment</>": "Vá para <Sub>Obsidian Encampment</>",
+    "Go to the <Sub>Frozen Shore</>": "Vá para <Sub>Frozen Shore</>",
+    "Go to the <Sub>Shrill-Whistle Coast</>": "Vá para <Sub>Shrill-Whistle Coast</>",
+    "Go to <Sub>Blizzard's Breath Plain</>": "Vá para <Sub>Blizzard's Breath Plain</>",
+    "Go to the <Sub>Alabaster Encampment</>": "Vá para <Sub>Alabaster Encampment</>",
+    "Go to the <Sub>Whispering Wind Plain</>": "Vá para <Sub>Whispering Wind Plain</>",
+    "Go to the <Sub>End of the Forsaken Land</>": "Vá para <Sub>End of the Forsaken Land</>",
+    "Go to the <Sub>Bedrock Falls</>": "Vá para <Sub>Bedrock Falls</>"
    }
   },
   "Quest_Name.csv": {
    "Name": {
     "Craft Armor Enhancement Stone": "Fabricar Armor Enhancement Stone",
     "Craft Weapon Enhancement Stone": "Fabricar Weapon Enhancement Stone",
-    "Craft Accessory Enhancement Stone": "Fabricar Accessory Enhancement Stone"
+    "Craft Accessory Enhancement Stone": "Fabricar Accessory Enhancement Stone",
+    "Frantia Gate Guard": "Frantia Gate Guard"
    },
    "DescNotCompleted": {
     "Defeat the Guardian of the Treasure before time runs out.": "Derrote o Guardian of the Treasure antes que o tempo acabe.",
-    "The Adventurer earns a Weapon Enhancement Stone Recipe as a reward for spreading the word for the Blacksmiths Guild at Thorstein’s request.": "O Aventureiro ganha uma Weapon Enhancement Stone Recipe como recompensa por divulgar a Guilda dos Ferreiros a pedido de Thorstein."
+    "The Adventurer earns a Weapon Enhancement Stone Recipe as a reward for spreading the word for the Blacksmiths Guild at Thorstein’s request.": "O Aventureiro ganha uma Weapon Enhancement Stone Recipe como recompensa por divulgar a Blacksmiths Guild a pedido de Thorstein."
    }
   },
   "ResultCodeString_Name.csv": {
@@ -304,11 +910,360 @@
    "Desc": {
     "Rally your clan members to defeat <Orange>bosses replicated</> by the <Orange>Replica Seed</>, an enigmatic ancient relic.\r\n① Check the status of replicable bosses appearing in the Forsaken Land by region.\r\n② Use Replica Seeds obtained from <Orange>Clan Missions</> to challenge them. Clearing the boss and claiming rewards reduces your remaining weekly attempts. Once you run out of weekly attempts, you cannot enter.\r\n③ Check <Orange>whether Boss Essences have spawned</> and if <Orange>the Replica Seed</> is active to fast-travel to each location.": "Reúna os membros do clã para derrotar <Orange>chefes replicados</> pela <Orange>Replica Seed</>, uma enigmática relíquia antiga.\r\n① Confira por região o status dos chefes replicáveis que aparecem na Forsaken Land.\r\n② Use Replica Seeds obtidas nas <Orange>Missões do Clã</> para desafiá-los. Derrotar o chefe e receber as recompensas consome suas tentativas semanais. Sem tentativas semanais, não é possível entrar.\r\n③ Confira <Orange>se as Essências de Chefe surgiram</> e se <Orange>a Replica Seed</> está ativa para viajar rapidamente até cada local.",
     "Equip a <Orange>3★</> or higher Phantom Weapon to activate the <Orange>Memorite Skill</>.": "Equipe uma Arma Fantasma <Orange>3★</> ou superior para ativar a <Orange>Memorite Skill</>.",
-    "① Save your current status via <Orange>Resonance Presets</>. Applying a preset will adjust your stats and Combat Power accordingly.\r\n② <Orange>Resonance Amplification</> consumes a <Orange>Resonance Amplification Core</> to guarantee <Orange>100%</> success. <Orange>Usage is limited</>.\r\n③ <Orange>Resonance Reset</> reverts all current progress to its <Orange>initial state</>.": "① Salve seu estado atual em <Orange>Predefinições de Ressonância</>. Aplicar uma predefinição ajusta seus atributos e Poder de Combate.\r\n② A <Orange>Amplificação de Ressonância</> consome um <Orange>Resonance Amplification Core</> para garantir <Orange>100%</> de sucesso. <Orange>O uso é limitado</>.\r\n③ A <Orange>Redefinição de Ressonância</> reverte todo o progresso atual ao <Orange>estado inicial</>."
+    "① Save your current status via <Orange>Resonance Presets</>. Applying a preset will adjust your stats and Combat Power accordingly.\r\n② <Orange>Resonance Amplification</> consumes a <Orange>Resonance Amplification Core</> to guarantee <Orange>100%</> success. <Orange>Usage is limited</>.\r\n③ <Orange>Resonance Reset</> reverts all current progress to its <Orange>initial state</>.": "① Salve seu estado atual em <Orange>Predefinições de Ressonância</>. Aplicar uma predefinição ajusta seus atributos e Poder de Combate.\r\n② A <Orange>Amplificação de Ressonância</> consome um <Orange>Resonance Amplification Core</> para garantir <Orange>100%</> de sucesso. <Orange>O uso é limitado</>.\r\n③ A <Orange>Redefinição de Ressonância</> reverte todo o progresso atual ao <Orange>estado inicial</>.",
+    "① Missions are divided into <Orange>Daily, Weekly, and Season Pass</>.\r\n② Completing missions earns you <Orange>Mission Points</>.": "① As missões se dividem em <Orange>diárias, semanais e do Season Pass</>.\r\n② Completar missões rende <Orange>Pontos de Missão</>.",
+    "The <Orange>Giant’s Tower Lobby</> is the final preparation area for Adventurers before entering the tower.\r\n① Access the Healer, General Merchant, Stash Keeper, and Black Crystal Shop.\r\n② Enter the Giant’s Tower through the main <Orange>entrance</>.": "O <Orange>Giant's Tower Lobby</> é a área final de preparação dos Aventureiros antes de entrar na torre.\r\n① Acesse o Healer, o General Merchant, o Stash Keeper e a Black Crystal Shop.\r\n② Entre na Giant's Tower pela <Orange>entrada</> principal.",
+    "In the Forsaken Land, there are <Orange>Monoliths</> that can be occupied as a Clan.\r\nYou can <Orange>occupy</> a Monolith by winning the weekly <Orange>Monolith War</> and outrivaling other competing Clans.": "Na Forsaken Land existem <Orange>Monoliths</> que um Clã pode ocupar.\r\nVocê <Orange>ocupa</> um Monolith vencendo a <Orange>Monolith War</> semanal e superando os clãs concorrentes.",
+    "The <Orange>Vending Machine</> is a special system for obtaining rewards by chance using tickets. \r\nIt is categorized into the <Orange>Vending Machine and the Giant’s Vending Machine</>.": "A <Orange>Vending Machine</> é um sistema especial para obter recompensas por sorteio usando bilhetes.\r\nEla se divide em <Orange>Vending Machine e Giant’s Vending Machine</>.",
+    "The <Orange>Abyss Battlefield</> is a transcendent battlefield where Adventurers from different dimensions encounter each other.\r\nIt is a special region where Adventurers from different Servers compete and clash in a single space.": "O <Orange>Abyss Battlefield</> é um campo de batalha transcendente onde Aventureiros de dimensões diferentes se encontram.\r\nÉ uma região especial onde Aventureiros de servidores diferentes competem e se enfrentam num único espaço.",
+    "All regions within the <Orange>Abyss Battlefield</> are <Orange>Outlaw Zones</>.\r\nPK alignment and related penalties do not apply.\r\nIt is a battlefield where free combat and competition are permitted.": "Todas as regiões dentro do <Orange>Abyss Battlefield</> são <Orange>Zonas Fora da Lei</>.\r\nO alinhamento PK e as penalidades relacionadas não se aplicam.\r\nÉ um campo de batalha onde o combate e a competição livres são permitidos."
+   }
+  },
+  "MiniDialog_Name.csv": {
+   "Name": {
+    "Troubled Resident": "Morador aflito",
+    "Unfamiliar Voice": "Voz desconhecida",
+    "Snickering Voice": "Voz risonha",
+    "Fierce Voice": "Voz feroz",
+    "Mysterious Adventurer": "Aventureira Misteriosa",
+    "Dispatched Hunter (Male)": "Hunter enviado",
+    "Familiar Voice": "Voz familiar",
+    "Cheerful Defense Force Member": "Membro animado da Defense Force",
+    "Mysterious Mage": "Mago misterioso",
+    "Cave Owl A (Female Villager)": "Cave Owl A (aldeã)",
+    "Cave Owl B (Male Villager)": "Cave Owl B (aldeão)",
+    "Mysterious Voice": "Voz misteriosa",
+    "Granny Kuren": "Vovó Kuren",
+    "Kidnapped Resident": "Morador sequestrado",
+    "Frightened Man": "Homem assustado",
+    "Gruff Voice": "Voz rouca",
+    "Energetic Defense Force Member": "Membro enérgico da Defense Force",
+    "Timid Voice": "Voz tímida",
+    "Opportunistic Resident": "Morador oportunista",
+    "Shadow Wolves Leader": "Líder dos Shadow Wolves",
+    "Grandpa": "Vovô",
+    "Lively Voice": "Voz animada",
+    "Bound Paradise Follower": "Seguidor amarrado do Paradise",
+    "Solider on Guard Duty": "Soldado de guarda",
+    "Bored voice": "Voz entediada",
+    "The Man from Memory": "O homem da lembrança",
+    "Sorcerer of the Baekryeong Clan": "Feiticeiro do Clã Baekryeong",
+    "Urgent Shout": "Grito urgente",
+    "Naruru by the Boat": "Naruru perto do barco",
+    "Shrewd Merchant": "Shrewd Merchant",
+    "Nostalgic Voice": "Voz nostálgica",
+    "The Dawn-Bringer": "O Dawn-Bringer",
+    "Naruru Who Wants to Hide": "Naruru que quer se esconder",
+    "Another Voice": "Outra voz",
+    "Panicked Scout’s Shout": "Grito de batedor em pânico",
+    "Resident with a Calm Impression": "Morador de ar calmo",
+    "Grumbling Resident": "Morador resmungão",
+    "Reminiscing Old Man": "Velho relembrando",
+    "Zisen's Voice": "Voz de Zisen",
+    "Babylon Resident": "Morador de Babylon",
+    "Man": "Homem",
+    "Hakan’s Comrade": "Camarada de Hakan",
+    "Person in Charge": "Responsável",
+    "Wheezing Voice": "Voz ofegante",
+    "Firm Voice": "Voz firme",
+    "Urgent Voice": "Voz urgente",
+    "A Furious Person": "Uma pessoa furiosa",
+    "Encampment Sentry's Shout": "Grito da sentinela do acampamento",
+    "Man on the Ground (Naraf)": "Homem no chão (Naraf)",
+    "Narurus who want to become Sturdy-Beard": "Narurus que querem virar Sturdy-Beard",
+    "Passionate Woman": "Mulher apaixonada",
+    "Secretive Voice": "Voz secreta",
+    "A cheerful voice": "Uma voz alegre",
+    "Quick-footed Pioneer Corps Member": "Membro ágil do Pioneer Corps",
+    "Playful Voice": "Voz brincalhona",
+    "Shrill Voice": "Voz estridente",
+    "Surprised Villager": "Aldeão surpreso",
+    "Suspicious Voice": "Voz suspeita",
+    "Former Deserter": "Ex-desertor",
+    "Troubled Voice": "Voz aflita",
+    "Art-Destroyer Cat": "Gato destruidor de arte",
+    "The Ruler’s Aide": "Assessor do Ruler",
+    "Emperor": "Imperador",
+    "Young Chahim’s Voice": "Voz do jovem Chahim",
+    "The Girl from Memory": "A garota da lembrança",
+    "Presumed Superior": "Suposto superior",
+    "Busy-looking Naruru": "Naruru de ar ocupado",
+    "Mysterious Figure": "Figura misteriosa",
+    "Gate Captain of Stormkel": "Capitão do portão de Stormkel",
+    "Welcoming Voice": "Voz acolhedora",
+    "Joyful Voice": "Voz alegre",
+    "Faint Voice": "Voz fraca",
+    "Troubled Naruru": "Naruru aflito",
+    "Mountain Club Members": "Membros do Mountain Club",
+    "Elegant-looking Man": "Homem de ar elegante",
+    "Flustered Person": "Pessoa atrapalhada",
+    "Sharp-eyed Person": "Pessoa de olhar aguçado",
+    "Kiguru Tribe": "Tribo Kiguru",
+    "Man Who Appears to be the Captain": "Homem que parece ser o capitão",
+    "Serious-Looking Priest": "Sacerdote de ar sério",
+    "Serious Naruru": "Naruru sério",
+    "A Soldier's Voice": "Voz de um soldado",
+    "Kuduru Tribe": "Tribo Kuduru",
+    "Shout from Afar": "Grito ao longe",
+    "Injured Knight": "Cavaleiro ferido",
+    "Terrified Whimpering": "Choramingo apavorado",
+    "Trainer Naruru": "Naruru treinador",
+    "Follower of Astrid": "Seguidor de Astrid",
+    "Flustered Voice": "Voz atrapalhada",
+    "Confident Voice": "Voz confiante",
+    "Cautious Voice": "Voz cautelosa",
+    "Impatient Rebel": "Rebelde impaciente",
+    "Yearning Cultist": "Cultista ansioso",
+    "The Ruler": "O Ruler",
+    "Young Quaista’s Voice": "Voz da jovem Quaista",
+    "Placeholder text": "Texto provisório",
+    "Animal Whimpering": "Animal choramingando",
+    "Suspicious Noise": "Ruído suspeito",
+    "Naruru’s Shout": "Grito de Naruru",
+    "Gasping Addict": "Viciado ofegante",
+    "Scribbled Note": "Bilhete rabiscado",
+    "Grumbling ancient object": "Objeto antigo resmungão",
+    "Shouts from Outside": "Gritos lá de fora",
+    "A Distant Explosion": "Uma explosão distante",
+    "Shouting": "Gritaria",
+    "Flustered Girl": "Garota atrapalhada",
+    "Sharp Voice": "Voz afiada",
+    "A Quiet Noise": "Um ruído baixo",
+    "Apprentices": "Aprendizes",
+    "Hidden Naruru": "Naruru escondido",
+    "Defense Force Member's Shout": "Grito de membro da Defense Force",
+    "Suspicious Presence": "Presença suspeita",
+    "A fierce-looking man": "Um homem de ar feroz",
+    "Large-Bodied Hunter": "Hunter corpulento",
+    "Exhausted Adventurer": "Aventureiro exausto",
+    "The Sound of Someone Crying": "O som de alguém chorando",
+    "Trembling Voice": "Voz trêmula",
+    "A Gravelly-Voiced Merchant": "Um mercador de voz grave",
+    "Confident Naruru's Voice": "Voz confiante de Naruru",
+    "Sobbing Naruru": "Naruru soluçando",
+    "Collapsed Person": "Pessoa caída",
+    "Angry Voice": "Voz irritada",
+    "Boisterous Voice": "Voz escandalosa",
+    "Grumbling Voice": "Voz resmungona",
+    "Ironblood Brigade Strike Captain": "Capitão de assalto da Ironblood Brigade",
+    "Young Soldier": "Soldado jovem",
+    "A Scared Man’s Cry": "Grito de um homem assustado",
+    "Annoyed Voice": "Voz aborrecida",
+    "Someone Crying Out (Narat)": "Alguém gritando (Narat)",
+    "Stranger (Sol)": "Estranho (Sol)",
+    "Voice in Agony": "Voz em agonia",
+    "Terrified Member": "Membro apavorado",
+    "A Girl's Shout": "Grito de uma garota",
+    "Sneaky Rebel": "Rebelde sorrateiro",
+    "Merchant's Shout": "Grito do mercador",
+    "Naruru's Low Voice": "Voz baixa de Naruru",
+    "Frightened Wolf": "Lobo assustado",
+    "A Brazen Voice": "Uma voz descarada",
+    "A Terrified Voice": "Uma voz aterrorizada",
+    "A Sweet, Honeyed Voice": "Uma voz doce e melosa",
+    "A Courier’s Cry": "Grito de um mensageiro",
+    "Sullen voice": "Voz carrancuda"
+   },
+   "Text": {
+    "Now, make your way to the Bardad Expedition Garrison.": "Agora siga para a Bardad Expedition Garrison.",
+    "and the Starfall Plateau as well, but this place has the highest success rate.": "e o Starfall Plateau também, mas é neste lugar que ela tem mais chance de funcionar.",
+    "This is the Adamant Ascent.\r\nA long, gentle climb lies ahead.": "Esta é a Adamant Ascent.\r\nUma subida longa e suave nos espera.",
+    "Once you're done at the General Merchant, head to the Bardad Expedition Garrison.": "Quando terminar com o General Merchant, siga para a Bardad Expedition Garrison.",
+    "Ah- It's me.\r\nThere's something I need you to find at the Ironblood Brigade Hideout.": "Ah, sou eu.\r\nPreciso que você encontre uma coisa no Ironblood Brigade Hideout."
+   }
+  },
+  "DialogSubtitle_Name.csv": {
+   "Speaker": {
+    "Troubled Resident": "Morador aflito",
+    "Unfamiliar Voice": "Voz desconhecida",
+    "Snickering Voice": "Voz risonha",
+    "Fierce Voice": "Voz feroz",
+    "Mysterious Adventurer": "Aventureira Misteriosa",
+    "Dispatched Hunter (Male)": "Hunter enviado",
+    "Familiar Voice": "Voz familiar",
+    "Cheerful Defense Force Member": "Membro animado da Defense Force",
+    "Mysterious Mage": "Mago misterioso",
+    "Cave Owl A (Female Villager)": "Cave Owl A (aldeã)",
+    "Cave Owl B (Male Villager)": "Cave Owl B (aldeão)",
+    "Mysterious Voice": "Voz misteriosa",
+    "Granny Kuren": "Vovó Kuren",
+    "Kidnapped Resident": "Morador sequestrado",
+    "Frightened Man": "Homem assustado",
+    "Gruff Voice": "Voz rouca",
+    "Energetic Defense Force Member": "Membro enérgico da Defense Force",
+    "Timid Voice": "Voz tímida",
+    "Opportunistic Resident": "Morador oportunista",
+    "Shadow Wolves Leader": "Líder dos Shadow Wolves",
+    "Grandpa": "Vovô",
+    "Lively Voice": "Voz animada",
+    "Bound Paradise Follower": "Seguidor amarrado do Paradise",
+    "Solider on Guard Duty": "Soldado de guarda",
+    "Bored voice": "Voz entediada",
+    "The Man from Memory": "O homem da lembrança",
+    "Sorcerer of the Baekryeong Clan": "Feiticeiro do Clã Baekryeong",
+    "Urgent Shout": "Grito urgente",
+    "Naruru by the Boat": "Naruru perto do barco",
+    "Shrewd Merchant": "Shrewd Merchant",
+    "Nostalgic Voice": "Voz nostálgica",
+    "The Dawn-Bringer": "O Dawn-Bringer",
+    "Naruru Who Wants to Hide": "Naruru que quer se esconder",
+    "Another Voice": "Outra voz",
+    "Panicked Scout’s Shout": "Grito de batedor em pânico",
+    "Resident with a Calm Impression": "Morador de ar calmo",
+    "Grumbling Resident": "Morador resmungão",
+    "Reminiscing Old Man": "Velho relembrando",
+    "Zisen's Voice": "Voz de Zisen",
+    "Babylon Resident": "Morador de Babylon",
+    "Man": "Homem",
+    "Hakan’s Comrade": "Camarada de Hakan",
+    "Person in Charge": "Responsável",
+    "Wheezing Voice": "Voz ofegante",
+    "Firm Voice": "Voz firme",
+    "Urgent Voice": "Voz urgente",
+    "A Furious Person": "Uma pessoa furiosa",
+    "Encampment Sentry's Shout": "Grito da sentinela do acampamento",
+    "Man on the Ground (Naraf)": "Homem no chão (Naraf)",
+    "Narurus who want to become Sturdy-Beard": "Narurus que querem virar Sturdy-Beard",
+    "Passionate Woman": "Mulher apaixonada",
+    "Secretive Voice": "Voz secreta",
+    "A cheerful voice": "Uma voz alegre",
+    "Quick-footed Pioneer Corps Member": "Membro ágil do Pioneer Corps",
+    "Playful Voice": "Voz brincalhona",
+    "Shrill Voice": "Voz estridente",
+    "Surprised Villager": "Aldeão surpreso",
+    "Suspicious Voice": "Voz suspeita",
+    "Former Deserter": "Ex-desertor",
+    "Troubled Voice": "Voz aflita",
+    "Art-Destroyer Cat": "Gato destruidor de arte",
+    "The Ruler’s Aide": "Assessor do Ruler",
+    "Emperor": "Imperador",
+    "Young Chahim’s Voice": "Voz do jovem Chahim",
+    "The Girl from Memory": "A garota da lembrança",
+    "Presumed Superior": "Suposto superior",
+    "Busy-looking Naruru": "Naruru de ar ocupado",
+    "Mysterious Figure": "Figura misteriosa",
+    "Gate Captain of Stormkel": "Capitão do portão de Stormkel",
+    "Welcoming Voice": "Voz acolhedora",
+    "Joyful Voice": "Voz alegre",
+    "Faint Voice": "Voz fraca",
+    "Troubled Naruru": "Naruru aflito",
+    "Mountain Club Members": "Membros do Mountain Club",
+    "Elegant-looking Man": "Homem de ar elegante",
+    "Flustered Person": "Pessoa atrapalhada",
+    "Sharp-eyed Person": "Pessoa de olhar aguçado",
+    "Kiguru Tribe": "Tribo Kiguru",
+    "Man Who Appears to be the Captain": "Homem que parece ser o capitão",
+    "Serious-Looking Priest": "Sacerdote de ar sério",
+    "Serious Naruru": "Naruru sério",
+    "A Soldier's Voice": "Voz de um soldado",
+    "Kuduru Tribe": "Tribo Kuduru",
+    "Shout from Afar": "Grito ao longe",
+    "Injured Knight": "Cavaleiro ferido",
+    "Terrified Whimpering": "Choramingo apavorado",
+    "Trainer Naruru": "Naruru treinador",
+    "Follower of Astrid": "Seguidor de Astrid",
+    "Flustered Voice": "Voz atrapalhada",
+    "Confident Voice": "Voz confiante",
+    "Cautious Voice": "Voz cautelosa",
+    "Impatient Rebel": "Rebelde impaciente",
+    "Yearning Cultist": "Cultista ansioso",
+    "The Ruler": "O Ruler",
+    "Young Quaista’s Voice": "Voz da jovem Quaista",
+    "Placeholder text": "Texto provisório",
+    "Animal Whimpering": "Animal choramingando",
+    "Suspicious Noise": "Ruído suspeito",
+    "Naruru’s Shout": "Grito de Naruru",
+    "Gasping Addict": "Viciado ofegante",
+    "Scribbled Note": "Bilhete rabiscado",
+    "Grumbling ancient object": "Objeto antigo resmungão",
+    "Shouts from Outside": "Gritos lá de fora",
+    "A Distant Explosion": "Uma explosão distante",
+    "Shouting": "Gritaria",
+    "Flustered Girl": "Garota atrapalhada",
+    "Sharp Voice": "Voz afiada",
+    "A Quiet Noise": "Um ruído baixo",
+    "Apprentices": "Aprendizes",
+    "Hidden Naruru": "Naruru escondido",
+    "Defense Force Member's Shout": "Grito de membro da Defense Force",
+    "Suspicious Presence": "Presença suspeita",
+    "A fierce-looking man": "Um homem de ar feroz",
+    "Large-Bodied Hunter": "Hunter corpulento",
+    "Exhausted Adventurer": "Aventureiro exausto",
+    "The Sound of Someone Crying": "O som de alguém chorando",
+    "Trembling Voice": "Voz trêmula",
+    "A Gravelly-Voiced Merchant": "Um mercador de voz grave",
+    "Confident Naruru's Voice": "Voz confiante de Naruru",
+    "Sobbing Naruru": "Naruru soluçando",
+    "Collapsed Person": "Pessoa caída",
+    "Angry Voice": "Voz irritada",
+    "Boisterous Voice": "Voz escandalosa",
+    "Grumbling Voice": "Voz resmungona",
+    "Ironblood Brigade Strike Captain": "Capitão de assalto da Ironblood Brigade",
+    "Young Soldier": "Soldado jovem",
+    "A Scared Man’s Cry": "Grito de um homem assustado",
+    "Annoyed Voice": "Voz aborrecida",
+    "Someone Crying Out (Narat)": "Alguém gritando (Narat)",
+    "Stranger (Sol)": "Estranho (Sol)",
+    "Voice in Agony": "Voz em agonia",
+    "Terrified Member": "Membro apavorado",
+    "A Girl's Shout": "Grito de uma garota",
+    "Sneaky Rebel": "Rebelde sorrateiro",
+    "Merchant's Shout": "Grito do mercador",
+    "Naruru's Low Voice": "Voz baixa de Naruru",
+    "Frightened Wolf": "Lobo assustado",
+    "A Brazen Voice": "Uma voz descarada",
+    "A Terrified Voice": "Uma voz aterrorizada",
+    "A Sweet, Honeyed Voice": "Uma voz doce e melosa",
+    "A Courier’s Cry": "Grito de um mensageiro",
+    "Sullen voice": "Voz carrancuda"
+   }
+  },
+  "Gadget_Name.csv": {
+   "Name": {
+    "Use Experimental Potion": "Usar Experimental Potion"
+   }
+  },
+  "Mail_Name.csv": {
+   "Title": {
+    "Class Change Ticket Expired": "Class Change Ticket expirado",
+    "[Giant's Blessing]: Giant's Tower Hot Time Recharge Ticket": "[Giant's Blessing]: Giant's Tower Hot Time Recharge Ticket"
+   },
+   "Content": {
+    "Giant’s Blessing: Giant's Tower Hot Time Recharge Ticket delivered daily.": "Giant's Blessing: Giant's Tower Hot Time Recharge Ticket entregue diariamente."
+   }
+  },
+  "QuestType_Name.csv": {
+   "CommonName": {
+    "Commission House Daily": "Commission House diária",
+    "Commission House Weekly": "Commission House semanal"
+   }
+  },
+  "ShopTab_Name.csv": {
+   "Desc": {
+    "Obtaining a 4★ Costume has a high chance of granting [Veil of Reflections].": "Obter um traje 4★ tem grande chance de conceder [Veil of Reflections]."
+   }
+  },
+  "Subscribe_Name.csv": {
+   "Desc": {
+    "Upon recharging the Successor's Privilege, you can enjoy exclusive privilege benefits for 28 days, and it can be extended up to 100 days total.\r\n<Subscribe>※ The first day's quantity of the daily “Ordeal Token Recharge Ticket” is sent directly to your Inventory upon purchase, and the remaining days' tickets will be sent via mail</>": "Ao recarregar o Successor's Privilege, você aproveita benefícios exclusivos por 28 dias, prorrogáveis até 100 dias no total.\r\n<Subscribe>※ A quantidade do primeiro dia do \"Ordeal Token Recharge Ticket\" diário vai direto para o seu inventário na compra; os bilhetes dos dias restantes são enviados por e-mail</>"
+   }
+  },
+  "ViewPoint_Name.csv": {
+   "Desc": {
+    "A place where Halpasiam the Frozen Blade, also known as the guardian of the second realm, resides.\r\nEven after countless challenges from adventurers, Halpasiam still stands firm.": "Um lugar onde reside Halpasiam the Frozen Blade, também conhecida como guardiã do segundo reino.\r\nMesmo após inúmeros desafios de aventureiros, Halpasiam continua firme.",
+    "A place where Drugamu the Thunder Mace, the guardian of the third realm, resides.\r\nEven after countless challenges from adventurers, Drugamu  still stands firm.": "Um lugar onde reside Drugamu the Thunder Mace, o guardião do terceiro reino.\r\nMesmo após inúmeros desafios de aventureiros, Drugamu continua firme."
    }
   }
  },
- "__literal_brackets__": [],
+ "__literal_brackets__": [
+  "<Faction>[Adventurer]</>",
+  "<Faction>[Appraiser]</>",
+  "<Faction>[Artisan]</>",
+  "<Faction>[Blacksmith]</>",
+  "<Faction>[Hunter]</>",
+  "<Faction>[Merchant]</>",
+  "<Faction>[Wayfinder]</>"
+ ],
  "Achievement_Name.csv": {
   "2017001": {
    "Description": "The Vitalizing Sanctum gravado {RequiredStackCount} vezes"
@@ -344,7 +1299,10 @@
   "REPLICASEED_PORTAL_SPAWN_NOTIFICATION": "[Name] ativou a Replica Seed de [BossName]. Ir para lá agora?",
   "RESONANCE_BTN_RESONANCE_AMPLIFY_NOT_ENOUGH_MATERIAL": "Não é possível amplificar: Resonance Amplification Core insuficiente.",
   "CHARACTERGIFT_BUY_LIMIT_EXCEED_MSG": "Você só pode possuir 1 Character Gift Ticket por conta.",
-  "CHARACTERGIFT_CANCEL_MSG": "Presente de personagem cancelado. O Character Gift Ticket será enviado por e-mail."
+  "CHARACTERGIFT_CANCEL_MSG": "Presente de personagem cancelado. O Character Gift Ticket será enviado por e-mail.",
+  "CHAT_OPTION_ON": "Ligado",
+  "PASS_UPGRADE_BTN_TEXT": "Melhorar Season Pass",
+  "PASS_BUY_NORMAL_OPEN_DESC": "As recompensas Premium do Season Pass já podem ser resgatadas."
  },
  "ContentsFunctionGroup_Name.csv": {
   "204": {
@@ -357,6 +1315,9 @@
  "ContentsFunction_Name.csv": {
   "20401": {
    "Desc": "Receba [Value] Giant's Tower Hot Time Recharge Ticket por dia pela caixa de entrada."
+  },
+  "11401": {
+   "Desc": "Receba [Value] Arbiter's Ordeal Token por dia pela caixa de entrada."
   }
  },
  "Dialog_Name.csv": {
@@ -410,6 +1371,69 @@
   },
   "170127070100": {
    "Text": "<Yellow>Bebidas! Baba Liquor! O orgulho dos Naruru!</>\nGuardei um pouco em segredo, só para nós!"
+  },
+  "110412030030": {
+   "ItemDesc": "É um Contaminated Aetherium Candy que vimos no Giant's Garden."
+  },
+  "110412040100": {
+   "Text": "Ah. Isso mesmo, doce!\nEle me deu doce. Etherium Candy!"
+  },
+  "110422010220": {
+   "Text": "Tudo bem.\nEntão vá para Hoarfrost Snowfield Crossroads e acabe com a <Red>Paradise Advent Society</>."
+  },
+  "110424010260": {
+   "Text": "O item que a garota entregou era um emblema gravado com a Paradise Advent Society's Mark.\nPara atender ao pedido dela, perguntei onde ficava o Santuário,\nmas ela não parecia saber ao certo."
+  },
+  "110529040010": {
+   "Name": "Hunter enviado"
+  },
+  "330157010090": {
+   "Text": "Ele com certeza está tramando algo.\nVou discutir a caravana \"Star of the North Sea\" com Aman."
+  },
+  "330205010020": {
+   "Text": "Quem você veio ver?\nSe for alguém da <Orange>Bardad Expedition</>, posso indicar o caminho."
+  },
+  "330217010010": {
+   "Text": "Quando um Naruru envia um amigo para a Deusa Ea,\nnós vamos até <Blue>Ea's Navel</>."
+  },
+  "330320010080": {
+   "Text": "<Orange>Os Knights of the Frostwind</> têm uma grave responsabilidade.\nComo você espera resolver alguma coisa falando tão devagar?"
+  },
+  "330401010010": {
+   "Text": "Eu sou Katrina.\nA instrutora de treinamento do <Blue>Verzard Outpost</>."
+  },
+  "330463010070": {
+   "Text": "Sei que você está ocupado, mas, por favor, vá até Blizzard's Breath Plain\ne colete corações de monstros para mim."
+  },
+  "330467040020": {
+   "Text": "Entreguei o remédio de Barag e a parte de Ingmar do Ice Snake Liquor."
+  },
+  "220429010090": {
+   "Text": "Não pude ignorar o relato de que o <Blue>Resistance Detector</> estava com defeito."
+  },
+  "204310010040": {
+   "Text": "Até receber um pedido de cooperação sobre a <Red>Paradise Advent Society</>, pretendo continuar caçando os lobos."
+  },
+  "220451010030": {
+   "Text": "Um membro do clã que atuava perto do <Blue>Verzard Outpost</>…\n…ouviu informações sobre o seu grupo de mercenários."
+  },
+  "210240010010": {
+   "Text": "Analisar o Record Disc vai levar algum tempo. Enquanto isso, tenho mais alguns favores a pedir—"
+  },
+  "151004010060": {
+   "Text": "Neste momento, um grupo de mercadores está preso no <Blue>Giant's Corridor</>.\nEles não conseguem atravessar até Aburu Village."
+  },
+  "151004040020": {
+   "Text": "<Yellow>(Você mostra a ele o Merchants Guild Token que recebeu antes.)</>"
+  },
+  "151005030010": {
+   "ItemDesc": "Um Rappie Snack feito à mão."
+  },
+  "151304020040": {
+   "Text": "Quem tem tanta influência quanto a nossa guilda é a <Orange>Bardad Expedition.</>\nVocê provavelmente já cruzou com eles."
+  },
+  "170121040130": {
+   "Text": "Ah, é uma sugestão esplêndida, irmão.\nQuanto à sua compensação, um <Blue>Vending Machine Ticket</> deve bastar, certo?"
   }
  },
  "DungeonSection_Name.csv": {
@@ -488,6 +1512,9 @@
   },
   "9031103": {
    "Name": "Usar Cup of Black Tea"
+  },
+  "107444": {
+   "Name": "Aumentar o nível da página de sintonia de Colossal Titan"
   }
  },
  "EventTab_Name.csv": {
@@ -507,6 +1534,12 @@
   },
   "10005091": {
    "Text": "Fator de Tagar.\nQuando o coloco na Replica Seed, ela emite uma luz intensa."
+  },
+  "1050401091": {
+   "Text": "◈ Bardad Expedition Forward Waypoint ◈\n\nOficial responsável: Conselheiro Técnico Chedar\nMembros da expedição: Vaddat, Devora\nObjetivo principal: investigar as conexões entre os destroços flutuantes e a Giant's Tower; conduzir estudo epidemiológico sobre Twisted Elysium.\nDuração: do mês XX, dia YY, até que os objetivos sejam alcançados\n\nChefe... tem certeza de que pode escrever assim?\nHá li"
+  },
+  "5040401031": {
+   "Text": "Autor: Geração nº 00638\n\nBem abaixo dos níveis inferiores da torre fica uma instalação especializada conhecida como Aether Leyline.\nA leyline se estende por toda Elsetia, absorvendo Aether por conta própria.\nEm essência, ela converte o Aether natural em energia para a torre, direcionando-o a instalações internas como a Sala de Controle e a Câmara de Incubação.\nSob autorização especial, ela também pode extrair o Aether de formas de vida sencientes... incluindo animais e entidades sencientes."
   }
  },
  "GadgetInteraction_Name.csv": {
@@ -518,6 +1551,12 @@
   },
   "9020101": {
    "Desc": "Ativar Replica Seed"
+  },
+  "1095": {
+   "TextInteraction": "Investigando a bandeira da Bardad Expedition…"
+  },
+  "2088": {
+   "TextInteraction": "Verificando a Ninkar Recipe de Orica…"
   }
  },
  "GadgetType_Name.csv": {
@@ -526,6 +1565,9 @@
  "LoadingTip_Name.csv": {
   "1153101": {
    "LoadingTipInfo": "Um repositório do antigo império, supostamente administrado pela Tribo Ragar.\nVocê pode obter Stardust, necessário para subir o nível das Cartas, e materiais para a Transcendência."
+  },
+  "1000104": {
+   "LoadingTipInfo": "A guarnição da Bardad Expedition que atua na Forsaken Land.\nCom base em um Waypoint em Gale Ravine, eles enviam seus membros por toda a Forsaken Land."
   }
  },
  "PassMission_Name.csv": {
@@ -579,6 +1621,234 @@
   },
   "102300130": {
    "TaskName": "Derrote <EpicMain>Paradise Advent Prophet</>"
+  },
+  "500120201": {
+   "TaskName": "Entre no Giant's Tower 1F Lobby"
+  },
+  "701020040": {
+   "TaskName": "Vá para <SubContents>Great Arbor Domain</>"
+  },
+  "701020170": {
+   "TaskName": "Derrote o <SubContents>Kuduru Chieftain</>"
+  },
+  "512050190": {
+   "TaskName": "Retorne à <Faction>Artisans Guild</>"
+  },
+  "513020090": {
+   "TaskName": "Vá para <Faction>Magobi Encampment</>"
+  },
+  "513020200": {
+   "TaskName": "Derrote os membros do <Faction>Shadow Wolf Clan</>"
+  },
+  "516030030": {
+   "TaskName": "Conclua <Faction>Arbiter’s Ordeal</> uma vez"
+  },
+  "101160080": {
+   "TaskName": "Vá para a <EpicMain>Bardad Expedition</>"
+  },
+  "101190080": {
+   "TaskName": "Vá para o <EpicMain>Bardad Expedition Headquarters</>"
+  },
+  "101290100": {
+   "TaskName": "Derrote o <EpicMain>Shadow Wolf Clan</> que ataca"
+  },
+  "101320010": {
+   "TaskName": "Vá para a <EpicMain>Bardad Expedition Garrison</>"
+  },
+  "101330060": {
+   "TaskName": "Derrote o enxame do <EpicMain>Shadow Wolf Clan</>"
+  },
+  "101390160": {
+   "TaskName": "Retorne ao <EpicMain>Magobi Encampment</>"
+  },
+  "101420090": {
+   "TaskName": "Retorne a <EpicMain>Taima Pioneer Village</>"
+  },
+  "101490100": {
+   "TaskName": "Embosque o <EpicMain>Shadow Wolf Clan</>"
+  },
+  "101500040": {
+   "TaskName": "Vá para o <EpicMain>Shadow Wolf Clan Hideout</>"
+  },
+  "102010030": {
+   "TaskName": "Escape do <EpicMain>Shadow Wolves Hideout</>"
+  },
+  "102070045": {
+   "TaskName": "Vá <EpicMain>para trás do Cactus Nest</>"
+  },
+  "103050040": {
+   "TaskName": "Derrote o <EpicMain>Vice Commander</> da Ironblood Brigade"
+  },
+  "103210060": {
+   "TaskName": "Derrote o <EpicMain>Ironblood Brigade Officer</> que bloqueia o caminho"
+  },
+  "104020060": {
+   "TaskName": "Vá para o <EpicMain>Verzard Outpost</>"
+  },
+  "104050060": {
+   "TaskName": "Vá para <EpicMain>Black Pillar Cliffs</>"
+  },
+  "104110080": {
+   "TaskName": "Vá para <EpicMain>Vagrant's Repose</>"
+  },
+  "104200030": {
+   "TaskName": "Vá para <EpicMain>White Stag's Cradle</>"
+  },
+  "105020010": {
+   "TaskName": "Vá para o <EpicMain>Stragglers' Camp no Starfall Plateau</>"
+  },
+  "105020040": {
+   "TaskName": "Atravesse <EpicMain>Dragon's Breath</>"
+  },
+  "105020080": {
+   "TaskName": "Vá para o <EpicMain>Hunter's Border Outpost</>"
+  },
+  "105110127": {
+   "TaskName": "Vá para <EpicMain>Evil Dragon's Lair Entrance</>"
+  },
+  "105190010": {
+   "TaskName": "Vá para o <EpicMain>Bardad Expedition Forward Waypoint</>"
+  },
+  "201060050": {
+   "TaskName": "Derrote <Archive>monstros</> em Garden of Beasts Zona 1"
+  },
+  "204290170": {
+   "TaskName": "Retorne à <Archive>Sunset Brewery</>"
+  },
+  "204310060": {
+   "TaskName": "Vá para <Archive>Hill of Grief</>"
+  },
+  "204360110": {
+   "TaskName": "Vá para <Archive>Lamine's Temporary Shelter</>"
+  },
+  "204370080": {
+   "TaskName": "Atravesse a ponte <Archive>até Ember-Choke Grove</>"
+  },
+  "204410060": {
+   "TaskName": "Vá para <Archive>Gorge of Perdition</>"
+  },
+  "204510060": {
+   "TaskName": "Vá para <Archive>Verzard Outpost</>"
+  },
+  "204520140": {
+   "TaskName": "Vá até o <Archive>Supply Depot Administrator</>"
+  },
+  "204520150": {
+   "TaskName": "Fale com o <Archive>Supply Depot Administrator</>"
+  },
+  "204560070": {
+   "TaskName": "Vá para <Archive>Serpent's Path</>"
+  },
+  "210290010": {
+   "TaskName": "Vá para <Archive>Hallowed Obsidian Mountain</>"
+  },
+  "210420010": {
+   "TaskName": "Vá até a <Archive>Bardad Expedition</> para encontrar registros"
+  },
+  "204630040": {
+   "TaskName": "Retorne a <Archive>Hunter's Village</>"
+  },
+  "204680041": {
+   "TaskName": "Vá para <Archive>Lake of Spirits</> com <Archive>Naie</>"
+  },
+  "301090010": {
+   "TaskName": "Derrote o <Sub>Shadow Wolf Clan</> a oeste do acampamento"
+  },
+  "301100010": {
+   "TaskName": "Vá para <Sub>White-Bone Expanse</>"
+  },
+  "301510010": {
+   "TaskName": "Vá para a <Sub>Merchants Guild</>"
+  },
+  "301570060": {
+   "TaskName": "Vá para <Sub>Arcal’s Territory</>"
+  },
+  "301660060": {
+   "TaskName": "Vá para <Sub>Thunderbird's Nest</>"
+  },
+  "301660070": {
+   "TaskName": "Cace monstros em <Sub>Thunderbird's Nest</>"
+  },
+  "301730050": {
+   "TaskName": "Vá para <Sub>Red Plains</>"
+  },
+  "302010010": {
+   "TaskName": "Vá para <Sub>Aburu Village Backyard</> para fazer a provação"
+  },
+  "302020050": {
+   "TaskName": "Vá para <Sub>Aburu Village backyard</>"
+  },
+  "302020080": {
+   "TaskName": "Coloque a <Sub>Sardine Pie</>"
+  },
+  "302510102": {
+   "TaskName": "Vá para <Sub>Forsaken Mine</>"
+  },
+  "302680060": {
+   "TaskName": "Vá para <Sub>Ancient Tree Bower Shelter</>"
+  },
+  "302680082": {
+   "TaskName": "Vá para <Sub>Forest of Bellowing Dragons</>"
+  },
+  "302680090": {
+   "TaskName": "Vasculhe cada canto de <Sub>Forest of Bellowing Dragons</>"
+  },
+  "302690100": {
+   "TaskName": "Retorne à <Sub>Sunset Brewery</>"
+  },
+  "302700070": {
+   "TaskName": "Vá para <Sub>Wyvern’s Nest</>"
+  },
+  "302720110": {
+   "TaskName": "Vá para <Sub>Aburu Village entrance</>"
+  },
+  "303120040": {
+   "TaskName": "Vá <Sub>para o fundo de Ember-Choke Grove</>"
+  },
+  "303260010": {
+   "TaskName": "Siga em direção a <Sub>Hallowed Obsidian Mountain</>"
+  },
+  "303270010": {
+   "TaskName": "Vá para <Sub>Hallowed Obsidian Mountain</> mais uma vez"
+  },
+  "303600070": {
+   "TaskName": "Vá para <Sub>Forgotten Ridges</>"
+  },
+  "303630010": {
+   "TaskName": "Vá para <Sub>Ruins of the Forgotten Kingdom</>"
+  },
+  "303690090": {
+   "TaskName": "Retorne ao <Sub>Bardad Expedition Encampment</>"
+  },
+  "304100030": {
+   "TaskName": "Vá para <Sub>Gray Forest</>"
+  },
+  "304280030": {
+   "TaskName": "Vá para <Sub>Silver Shadow Temple</>"
+  },
+  "304520090": {
+   "TaskName": "Vá para <Sub>Obsidian Encampment</>"
+  },
+  "304590025": {
+   "TaskName": "Vá para <Sub>Frozen Shore</>"
+  },
+  "304610030": {
+   "TaskName": "Vá para <Sub>Shrill-Whistle Coast</>"
+  },
+  "304630022": {
+   "TaskName": "Vá para <Sub>Blizzard's Breath Plain</>"
+  },
+  "304660030": {
+   "TaskName": "Vá para <Sub>Alabaster Encampment</>"
+  },
+  "304660080": {
+   "TaskName": "Vá para <Sub>Whispering Wind Plain</>"
+  },
+  "304680050": {
+   "TaskName": "Vá para <Sub>End of the Forsaken Land</>"
+  },
+  "305610010": {
+   "TaskName": "Vá para <Sub>Bedrock Falls</>"
   }
  },
  "Quest_Name.csv": {
@@ -589,8 +1859,9 @@
    "DescNotCompleted": "Derrote o Guardian of the Treasure antes que o tempo acabe."
   },
   "511030": {
-   "DescNotCompleted": "O Aventureiro ganha uma Weapon Enhancement Stone Recipe como recompensa por divulgar a Guilda dos Ferreiros a pedido de Thorstein."
-  }
+   "DescNotCompleted": "O Aventureiro ganha uma Weapon Enhancement Stone Recipe como recompensa por divulgar a Blacksmiths Guild a pedido de Thorstein."
+  },
+  "103150": "Frantia Gate Guard"
  },
  "ResultCodeString_Name.csv": {
   "2195": "Já existe uma Replica Seed ativa.",
@@ -666,6 +1937,321 @@
   },
   "208405": {
    "Desc": "① Salve seu estado atual em <Orange>Predefinições de Ressonância</>. Aplicar uma predefinição ajusta seus atributos e Poder de Combate.\n② A <Orange>Amplificação de Ressonância</> consome um <Orange>Resonance Amplification Core</> para garantir <Orange>100%</> de sucesso. <Orange>O uso é limitado</>.\n③ A <Orange>Redefinição de Ressonância</> reverte todo o progresso atual ao <Orange>estado inicial</>."
+  },
+  "101503": {
+   "Desc": "① As missões se dividem em <Orange>diárias, semanais e do Season Pass</>.\n② Completar missões rende <Orange>Pontos de Missão</>."
+  },
+  "203003": {
+   "Desc": "O <Orange>Giant's Tower Lobby</> é a área final de preparação dos Aventureiros antes de entrar na torre.\n① Acesse o Healer, o General Merchant, o Stash Keeper e a Black Crystal Shop.\n② Entre na Giant's Tower pela <Orange>entrada</> principal."
+  },
+  "205001": {
+   "Desc": "Na Forsaken Land existem <Orange>Monoliths</> que um Clã pode ocupar.\nVocê <Orange>ocupa</> um Monolith vencendo a <Orange>Monolith War</> semanal e superando os clãs concorrentes."
+  },
+  "207301": {
+   "Desc": "A <Orange>Vending Machine</> é um sistema especial para obter recompensas por sorteio usando bilhetes.\nEla se divide em <Orange>Vending Machine e Giant’s Vending Machine</>."
+  },
+  "208101": {
+   "Desc": "O <Orange>Abyss Battlefield</> é um campo de batalha transcendente onde Aventureiros de dimensões diferentes se encontram.\nÉ uma região especial onde Aventureiros de servidores diferentes competem e se enfrentam num único espaço."
+  },
+  "208103": {
+   "Desc": "Todas as regiões dentro do <Orange>Abyss Battlefield</> são <Orange>Zonas Fora da Lei</>.\nO alinhamento PK e as penalidades relacionadas não se aplicam.\nÉ um campo de batalha onde o combate e a competição livres são permitidos."
+  },
+  "203903": {
+   "Desc": "◎ Depois de registrar uma Warp Anchor interagindo com ela, é possível usá-la como destino de <Orange>Teleporte</>.\n◎ Teleportar consome um <Orange>custo</> de até 10.000 Ouro, conforme a <Orange>distância até o destino</>.\n◎ <Orange>Grátis</> para Aventureiros <Orange>abaixo do Nv. 30</>."
+  }
+ },
+ "__term_map__": {
+  "Aliança de Aventureiros": {
+   "en": [
+    "Adventurers Alliance",
+    "Adventurers' Alliance",
+    "Adventurers’ Alliance"
+   ]
+  },
+  "Aliança dos Aventureiros": {
+   "en": [
+    "Adventurers Alliance",
+    "Adventurers' Alliance",
+    "Adventurers’ Alliance"
+   ]
+  },
+  "Alianca dos Aventureiros": {
+   "en": [
+    "Adventurers Alliance",
+    "Adventurers' Alliance",
+    "Adventurers’ Alliance"
+   ]
+  },
+  "Aliança de Aventureiro": {
+   "en": [
+    "Adventurers Alliance",
+    "Adventurers' Alliance",
+    "Adventurers’ Alliance"
+   ]
+  },
+  "Portões de Teste": "Trial Gates",
+  "Portais de Teste": "Trial Gates",
+  "Portão de Teste": "Trial Gate",
+  "Portal de Teste": "Trial Gate",
+  "Portão de teste": "Trial Gate",
+  "Terras Abandonadas": {
+   "en": [
+    "Forsaken Lands",
+    "Forsaken Land"
+   ]
+  },
+  "Terra Abandonada": {
+   "en": [
+    "Forsaken Land",
+    "Forsaken Lands"
+   ]
+  },
+  "Terras Esquecidas": {
+   "en": [
+    "Forsaken Lands",
+    "Forsaken Land"
+   ]
+  },
+  "Terra Esquecida": {
+   "en": [
+    "Forsaken Land",
+    "Forsaken Lands"
+   ]
+  },
+  "Casa de Comissões": "Commission House",
+  "Guardião do depósito": "Stash Keeper",
+  "Sacerdote curandeiro": "Healer Priest",
+  "Guilda dos Ferreiros": "Blacksmiths Guild",
+  "Guilda dos Mercadores": "Merchants Guild",
+  "Guilda dos Comerciantes": "Merchants Guild",
+  "Guilda dos Artesãos": "Artisans Guild",
+  "Guilda dos Caçadores": "Hunters Guild",
+  "Guilda dos Exploradores": "Explorers Guild",
+  "Guilda dos Avaliadores": "Appraisers Guild",
+  "Comerciante": {
+   "en": "Merchant",
+   "max_len": 40
+  },
+  "Mercador": {
+   "en": "Merchant",
+   "max_len": 40
+  },
+  "Ferreiro": {
+   "en": "Blacksmith",
+   "max_len": 40
+  },
+  "Artesão": {
+   "en": "Artisan",
+   "max_len": 40
+  },
+  "Avaliador": {
+   "en": "Appraiser",
+   "max_len": 40
+  },
+  "Explorador": {
+   "en": "Explorer",
+   "max_len": 40
+  },
+  "Caçador": {
+   "en": "Hunter",
+   "max_len": 40
+  },
+  "Caçadora": {
+   "en": "Hunter",
+   "max_len": 40
+  },
+  "Guia": {
+   "en": "Wayfinder",
+   "max_len": 40
+  },
+  "Torre Infinita": "Infinite Spire",
+  "Salão das Provas": "Hall of Proof",
+  "Ruínas Antigas": "Ancient Ruins",
+  "Jardim do Gigante": "Giant's Garden",
+  "comerciante geral": "General Merchant",
+  "Mercador Geral": "General Merchant",
+  "Mercador de livros de Skill": "Skillbook Merchant",
+  "Comerciante de Skillbook": "Skillbook Merchant",
+  "Aliança dos Aventureiro": {
+   "en": [
+    "Adventurers Alliance",
+    "Adventurers' Alliance",
+    "Adventurers’ Alliance"
+   ]
+  },
+  "Comerciante astuto": "Shrewd Merchant",
+  "Merchant astuto": "Shrewd Merchant",
+  "Expedição Bardad": "Bardad Expedition",
+  "Expedição de Bardad": "Bardad Expedition",
+  "Guarnição de Expedição Bardad": "Bardad Expedition Garrison",
+  "Guarnição da Expedição Bardad": "Bardad Expedition Garrison",
+  "Provação do Voo": "Trial of Flight",
+  "Prova de Voo": "Trial of Flight",
+  "Teste de Voo": "Trial of Flight",
+  "Provação de Voo": "Trial of Flight",
+  "Dispositivo de Gravação Visual": "Visual Recording Device",
+  "dispositivo de gravação visual": "Visual Recording Device",
+  "Passe de Temporada": "Season Pass",
+  "passe de temporada": "Season Pass",
+  "Passe de temporada": "Season Pass",
+  "Expedição de Clã": "Clan Expedition",
+  "Expedição do Clã": "Clan Expedition",
+  "Sociedade do Advento do Paraíso": "Paradise Advent Society",
+  "Sociedade Adventista do Paraíso": "Paradise Advent Society",
+  "Sociedade do Advento Paradise": "Paradise Advent Society",
+  "Disco de Gravação": "Record Disc",
+  "disco de gravação": "Record Disc",
+  "Disco de Registro": "Record Disc",
+  "registro Disco": "Record Disc",
+  "Montanha Obsidiana Sagrada": "Hallowed Obsidian Mountain",
+  "Montanha Sagrada de Obsidiana": "Hallowed Obsidian Mountain",
+  "Montanha de Obsidiana Sagrada": "Hallowed Obsidian Mountain",
+  "Clã Shadow Wolf": "Shadow Wolf Clan",
+  "clã Shadow Wolf": "Shadow Wolf Clan",
+  "Clã Lobo das Sombras": "Shadow Wolf Clan",
+  "Clã dos Lobos das Sombras": "Shadow Wolf Clan",
+  "Coletor de Éter": "Aether Collector",
+  "coletor de éter": "Aether Collector",
+  "Floresta dos Deuses Anciões": "Woodland of Elder Gods",
+  "Floresta dos Deuses Anciãos": "Woodland of Elder Gods",
+  "Bosque dos Deuses Anciões": "Woodland of Elder Gods",
+  "Lago dos Espíritos": "Lake of Spirits",
+  "Provação do Árbitro": "Arbiter’s Ordeal",
+  "Provação do árbitro": "Arbiter’s Ordeal",
+  "Acampamento Magobi": "Magobi Encampment",
+  "acampamento Magobi": "Magobi Encampment",
+  "Magobi Acampamento": "Magobi Encampment",
+  "Desfiladeiro da Perdição": "Gorge of Perdition",
+  "Garganta da Perdição": "Gorge of Perdition",
+  "Grande Acampamento do Eco": "Great Echo Encampment",
+  "Great Echo Acampamento": "Great Echo Encampment",
+  "Acampamento do Grande Eco": "Great Echo Encampment",
+  "Dispositivo de Mudança de Fase": "Phase Shift Device",
+  "dispositivo de mudança de fase": "Phase Shift Device",
+  "posto avançado Verzard": "Verzard Outpost",
+  "Posto Avançado Verzard": "Verzard Outpost",
+  "Posto Avançado de Verzard": "Verzard Outpost",
+  "Posto Avançado de Reconhecimento": "Reconnaissance Outpost",
+  "posto avançado de reconhecimento": "Reconnaissance Outpost",
+  "Casa de Comissão": "Commission House",
+  "Comissão Casa": "Commission House",
+  "Vale das Feras": "Valley of Beasts",
+  "Dragão Maligno": "Evil Dragon",
+  "Dragão do Mal": "Evil Dragon",
+  "Ruínas do Antigo Instituto Imperial": "Ancient Imperial Institute Ruins",
+  "ruínas do Ancient Imperial Institute": "Ancient Imperial Institute Ruins",
+  "Antigo Instituto Imperial Ruínas": "Ancient Imperial Institute Ruins",
+  "Jardim do Crepúsculo": "Garden of Twilight",
+  "Jardim de Crepúsculo": "Garden of Twilight",
+  "guilda dos Wayfinders": "Wayfinders Guild",
+  "Guilda dos Wayfinders": "Wayfinders Guild",
+  "guilda Wayfinders": "Wayfinders Guild",
+  "Guilda de Caçadores": "Hunters Guild",
+  "Associação de Avaliadores": "Appraisers' Guild",
+  "guilda dos avaliadores": "Appraisers' Guild",
+  "Ice Snake Licor": "Ice Snake Liquor",
+  "licor de cobra de gelo": "Ice Snake Liquor",
+  "Licor de Cobra de Gelo": "Ice Snake Liquor",
+  "Detector de Cluster": "Cluster Detector",
+  "detector de cluster": "Cluster Detector",
+  "Regimento Scout": "Scout Regiment",
+  "Regimento de Batedores": "Scout Regiment",
+  "Planalto Starfall": "Starfall Plateau",
+  "Planalto da Estrela": "Starfall Plateau",
+  "Planalto da Estrela Cadente": "Starfall Plateau",
+  "Sunshade Acampamento": "Sunshade Encampment",
+  "Acampamento do Sombrinha": "Sunshade Encampment",
+  "Acampamento do Guarda-sol": "Sunshade Encampment",
+  "Acampamento Sunshade": "Sunshade Encampment",
+  "Campo de Treinamento Rappie": "Rappie Training Ground",
+  "campo de treinamento Rappie": "Rappie Training Ground",
+  "Vale do Esquecimento": "Valley of Oblivion",
+  "Vale do Oblivion": "Valley of Oblivion",
+  "Portão do Lamento": "Gate of Lament",
+  "Portão dos Lamentos": "Gate of Lament",
+  "Passe de convocação": "Summon Pass",
+  "Passe de Invocação": "Summon Pass",
+  "Passe de Convocação": "Summon Pass",
+  "Diretor da Torre": "Warden of the Tower",
+  "Guardião da Torre": "Warden of the Tower",
+  "Liberador do Conhecimento": "Liberator of Knowledge",
+  "Liberador de Conhecimento": "Liberator of Knowledge",
+  "Libertador do Conhecimento": "Liberator of Knowledge",
+  "Barreira do desconhecido": "Barrier of the Unknown",
+  "Barreira do Desconhecido": "Barrier of the Unknown",
+  "Cristal de Autoridade": "Crystal of Authority",
+  "Domínio da Grande Árvore": "Great Arbor Domain",
+  "domínio Great Arbor": "Great Arbor Domain",
+  "Garrison do Destacamento Central": "Central Detachment Garrison",
+  "Guarnição do Destacamento Central": "Central Detachment Garrison",
+  "Entrada do campo de neve Hoarfrost": "Hoarfrost Snowfield Entrance",
+  "entrada do campo de neve Hoarfrost": "Hoarfrost Snowfield Entrance",
+  "Encruzilhada do campo de neve Hoarfrost": "Hoarfrost Snowfield Crossroads",
+  "encruzilhada do campo de neve Hoarfrost": "Hoarfrost Snowfield Crossroads",
+  "campo de neve Hoarfrost": "Hoarfrost Snowfield",
+  "Acampamento do Guardião da Floresta": "Forest Keeper's Encampment",
+  "Escadaria dos Suspiros": "Staircase of Sighs",
+  "Mind Control": "Mind Control",
+  "Controle mental": "Mind Control",
+  "Controle Mental": "Mind Control",
+  "Licor Baba Forte": "Strong Baba Liquor",
+  "Bênção do Gigante": "Giant's Blessing",
+  "bênção de Giant": "Giant's Blessing",
+  "Bênção de Giant": "Giant's Blessing"
+ },
+ "Gadget_Name.csv": {
+  "10430137": "Usar Experimental Potion"
+ },
+ "Mail_Name.csv": {
+  "305": {
+   "Title": "Class Change Ticket expirado"
+  },
+  "1045": {
+   "Title": "[Giant's Blessing]: Giant's Tower Hot Time Recharge Ticket",
+   "Content": "Giant's Blessing: Giant's Tower Hot Time Recharge Ticket entregue diariamente."
+  }
+ },
+ "MiniDialog_Name.csv": {
+  "1101320010010": {
+   "Text": "Agora siga para a Bardad Expedition Garrison."
+  },
+  "701030050030": {
+   "Text": "e o Starfall Plateau também, mas é neste lugar que ela tem mais chance de funcionar."
+  },
+  "1103120020010": {
+   "Text": "Esta é a Adamant Ascent.\nUma subida longa e suave nos espera."
+  },
+  "3301510050010": {
+   "Text": "Quando terminar com o General Merchant, siga para a Bardad Expedition Garrison."
+  },
+  "1210270010030": {
+   "Text": "Ah, sou eu.\nPreciso que você encontre uma coisa no Ironblood Brigade Hideout."
+  }
+ },
+ "QuestType_Name.csv": {
+  "9": {
+   "CommonName": "Commission House diária"
+  },
+  "10": {
+   "CommonName": "Commission House semanal"
+  }
+ },
+ "ShopTab_Name.csv": {
+  "400102": {
+   "Desc": "Obter um traje 4★ tem grande chance de conceder [Veil of Reflections]."
+  }
+ },
+ "Subscribe_Name.csv": {
+  "1": {
+   "Desc": "Ao recarregar o Successor's Privilege, você aproveita benefícios exclusivos por 28 dias, prorrogáveis até 100 dias no total.\n<Subscribe>※ A quantidade do primeiro dia do \"Ordeal Token Recharge Ticket\" diário vai direto para o seu inventário na compra; os bilhetes dos dias restantes são enviados por e-mail</>"
+  }
+ },
+ "ViewPoint_Name.csv": {
+  "502020104": {
+   "Desc": "Um lugar onde reside Halpasiam the Frozen Blade, também conhecida como guardiã do segundo reino.\nMesmo após inúmeros desafios de aventureiros, Halpasiam continua firme."
+  },
+  "503020104": {
+   "Desc": "Um lugar onde reside Drugamu the Thunder Mace, o guardião do terceiro reino.\nMesmo após inúmeros desafios de aventureiros, Drugamu continua firme."
   }
  }
 }

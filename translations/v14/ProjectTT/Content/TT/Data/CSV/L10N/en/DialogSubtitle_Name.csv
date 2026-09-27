@@ -2,9 +2,9 @@
 10101010,Yngel ,"Quando esta carta chegar até você, vá para Forsaken Land pelo Asientet Gate."
 10101020,Yngel ,Sinto muito por não poder dar mais detalhes.
 10101030,Yngel ,"Só quero saber que esta é uma missão importante, que decidirá o destino do nosso grupo de mercenários."
-10102010,Aventureira misteriosa,Hã? Quem é você? Como entrou aqui?
-10102020,Aventureira misteriosa,"E o que aconteceu com essa coisa, de repente?"
-10102030,Aventureira misteriosa,Uau! Foi você que fez isso?
+10102010,Aventureira Misteriosa,Hã? Quem é você? Como entrou aqui?
+10102020,Aventureira Misteriosa,"E o que aconteceu com essa coisa, de repente?"
+10102030,Aventureira Misteriosa,Uau! Foi você que fez isso?
 10103010,Unknown Being,"Agora, sucessor! Esperamos por você há dez mil anos! Não pode morrer num lugar desses."
 10103020,Unknown Being,Não consegue passar nem numa prova como esta?
 10103030,Unknown Being,"Para dominar esse poder... primeiro, você precisa recuperar suas memórias."
@@ -53,10 +53,10 @@
 10205001,,O grande festival realizado em Aburu Village estava mais alegre e acolhedor do que nunca.
 10218001,,"apesar das tentativas de Koon de impedi-lo, Xeros inclui a espada contra Michel."
 10219001,,"Minha cabeça doía como se fosse rachar, e o ser desconhecido que eu vi no labirinto apareceu."
-103001010,Misterioso Mage,Ah... um brinquedo novo. Quer brincar comigo?
-103002010,Misterioso Mage,Eu estava me divertindo tanto... por que você está metendo?
+103001010,Mago misterioso,Ah... um brinquedo novo. Quer brincar comigo?
+103002010,Mago misterioso,Eu estava me divertindo tanto... por que você está metendo?
 103002020,Xeros,Afaste-se.
-103002030,Misterioso Mage,"Haa, que tédio. Vou procurar outro brinquedo."
+103002030,Mago misterioso,"Haa, que tédio. Vou procurar outro brinquedo."
 104001001,Astrid,Agora vamos resolver isso.
 104001002,Ragnar,Aguarde!
 104001003,Ragnar,Esta luta é minha.
@@ -105,11 +105,11 @@
 20102010,Zisen,"Eu também esperava que fosse assim, mas não era. Ethereal Sanctum foi criado pela família Kaizen-Akar."
 20102011,Zisen,"""Mesmo quando o mundo estava acabando, a Golden House continua buscando riqueza. Era instinto."""
 20102012,Zisen,...Então os rumores eram verdadeiros. Mas há algo ainda mais valioso.
-20102020,O assessor do governante,Pressione. Já esperando há bastante tempo.
+20102020,Assessor do Ruler,Pressione. Já esperando há bastante tempo.
 20102021,Homem,"M-Majestade, eu sou apenas um servo humilde. Não sou digno de..."
-20102022,O assessor do governante,Pressione.
+20102022,Assessor do Ruler,Pressione.
 20102023,Homem,Como desejar... Ufa...
-20102024,A Régua,"Não temos tempo, Amartu. Vá para o satélite Elsetia e comece a terraformação."
+20102024,O Ruler,"Não temos tempo, Amartu. Vá para o satélite Elsetia e comece a terraformação."
 20102025,Homem,...Aceito a ordem do grande Gudua.
 20102030,Elsetian,Não consigo... não aguento mais... Alguém me ajude...!
 20102031,Lagar,Não foi possível verificar a autorização do solicitante.
@@ -124,7 +124,7 @@
 20202007,Nasser,"Mesmo assim, não desistiram. Continuaram sobrevivendo, vez após vez, até chegar tão longe."
 20202020,Voz do jovem Chahim,"...Senhor Azlan, Senhor Azlan! Por favor, volte a si!"
 20202021,Azran,Eu... eu tenho que matar todos eles. Eu soltem! Evasão
-20202022,Voz do jovem Quaista,Isso não vai mudar nada. Nós quatro não damos conta deles!
+20202022,Voz da jovem Quaista,Isso não vai mudar nada. Nós quatro não damos conta deles!
 20202023,Voz do jovem Chahim,Vou pedir perdão quando você acordar.
 20202024,Azran,Preciso salvar as pessoas... Ugh!
 20202030,Chahim,Ele ficou muito tempo olhando em silêncio para o castelo.
@@ -154,28 +154,28 @@
 20101015,Saikarad,"Antes de mergulhar em seu longo sono, o Imperador confiou uma missão importante."
 20101016,Saikarad,"O destino desta estrela será decidido pela Tower. Até esse dia chegar, ■■■■■ será essencial."
 20101017,Saikarad,"Cada plano está gravado em nosso sangue e em nossa alma. Não tenham dúvidas, Exploradores."
-20101021,Voz Misteriosa,Medição do fator Gudua concluída. Elegibilidade confirmada.
-20101022,Voz Misteriosa,É necessário monitorar continuamente as tendências futuras. Desbloqueando registros arquivados.
-20101023,Voz Misteriosa,Declaração de Rogos: “Você também está procurando o paradeiro de Ugula?”
-20101024,Voz Misteriosa,Declaração de Xeros: “...Ouvi dizer que estávamos ajudando Ingel.”
-20101025,Voz Misteriosa,“Acho que merecemos saber... qual é o verdadeiro propósito dele.”
-20101026,Voz Misteriosa,Declaração de Sicarius: “A Beretta não o chamava de mestre?”
-20101027,Voz Misteriosa,"Declaração de Rogos: ""Eles vão persegui-los. Só precisamos esperar que caiam na própria armadilha."""
-20101028,Voz Misteriosa,Este registro será destruído assim que for confirmado pelo Escolhido.
-20202090,O Homem da Memória,Mantenha os ombros e as costas firmes. Nunca tire os olhos do alvo.
-20202091,O Homem da Memória,Espere até ele baixar o guarda por completo.
-20202092,O Homem da Memória,O que eu disse que é essencial para um caçador?
-20202093,O Girl da memória,Esperar... com paciência... devagar...
-20202094,O Homem da Memória,É só isso que você precisa para caçar qualquer coisa: feras da floresta ou soldados inimigos.
-20202095,O Homem da Memória,Nunca se esqueça disso.
-20202096,O Girl da memória,"Sim, senhor...!"
+20101021,Voz misteriosa,Medição do fator Gudua concluída. Elegibilidade confirmada.
+20101022,Voz misteriosa,É necessário monitorar continuamente as tendências futuras. Desbloqueando registros arquivados.
+20101023,Voz misteriosa,Declaração de Rogos: “Você também está procurando o paradeiro de Ugula?”
+20101024,Voz misteriosa,Declaração de Xeros: “...Ouvi dizer que estávamos ajudando Ingel.”
+20101025,Voz misteriosa,“Acho que merecemos saber... qual é o verdadeiro propósito dele.”
+20101026,Voz misteriosa,Declaração de Sicarius: “A Beretta não o chamava de mestre?”
+20101027,Voz misteriosa,"Declaração de Rogos: ""Eles vão persegui-los. Só precisamos esperar que caiam na própria armadilha."""
+20101028,Voz misteriosa,Este registro será destruído assim que for confirmado pelo Escolhido.
+20202090,O homem da lembrança,Mantenha os ombros e as costas firmes. Nunca tire os olhos do alvo.
+20202091,O homem da lembrança,Espere até ele baixar o guarda por completo.
+20202092,O homem da lembrança,O que eu disse que é essencial para um caçador?
+20202093,A garota da lembrança,Esperar... com paciência... devagar...
+20202094,O homem da lembrança,É só isso que você precisa para caçar qualquer coisa: feras da floresta ou soldados inimigos.
+20202095,O homem da lembrança,Nunca se esqueça disso.
+20202096,A garota da lembrança,"Sim, senhor...!"
 20202098,,"Depois de examinar a estátua de pedra, Sekien correu para o esconderijo a fim de investigar."
-20202100,Sorcerer do Clã Baekryeong,"Sentinela, chegou a hora de morrer."
-20202101,Sorcerer do Clã Baekryeong,"Como seu fim está próximo,ei um último desejo. Sua resistência desesperada me divertiu."
-20202102,Sorcerer do Clã Baekryeong,"Ah, já sei! Que tal morrer como um herói que matou o exército dos mortos-vivos?"
+20202100,Feiticeiro do Clã Baekryeong,"Sentinela, chegou a hora de morrer."
+20202101,Feiticeiro do Clã Baekryeong,"Como seu fim está próximo,ei um último desejo. Sua resistência desesperada me divertiu."
+20202102,Feiticeiro do Clã Baekryeong,"Ah, já sei! Que tal morrer como um herói que matou o exército dos mortos-vivos?"
 20202103,Naie,"Você é... do Clã Baekryeong... Hah, deixa para lá. Agora não passa de um lunático que incitou uma rebelião."
-20202104,Sorcerer do Clã Baekryeong,Você deve ter previsto isso quando me abandonou. Vou esmagá-los e marcá-los como pecadores!
-20202105,Sorcerer do Clã Baekryeong,"Vou caçar e eliminar todos os filhos, as filhas e os descendentes deles. Você sofrerá até que o nome Baekryeong seja apagado da história."
+20202104,Feiticeiro do Clã Baekryeong,Você deve ter previsto isso quando me abandonou. Vou esmagá-los e marcá-los como pecadores!
+20202105,Feiticeiro do Clã Baekryeong,"Vou caçar e eliminar todos os filhos, as filhas e os descendentes deles. Você sofrerá até que o nome Baekryeong seja apagado da história."
 20202106,Naie,"Agora entendo por que expulsaram você. Com uma mente tão distorcida, quem iria segui-lo?!"
 20202107,Naie,Acho que é especial só porque trouxe a Bruheria? Venha! Não tenho medo desses cadáveres miseráveis.
 700101001,Saikarad,Para aceitar esse poder...
@@ -187,11 +187,11 @@
 20202113,O Dawn-Bringer,Este lugar está escondido por uma magia poderosa. Ninguém vai descobrir que você está aqui.
 20202114,O Dawn-Bringer,"Então não saia daqui, está bem? Já volto."
 20202121,Hakan,Os cães estão se aproximando! Todos os aldeões conseguiram escapar?
-20202122,Camarada Hakan,Eles acabaram de a fronteira! Qual é o próximo passo?
+20202122,Camarada de Hakan,Eles acabaram de a fronteira! Qual é o próximo passo?
 20202123,Hakan,"A Primeira Esquadra vai para a frente. Os demais, juntem-se a Koon. Deixem este lugar conosco, os mais velhos. Vão!"
 20202124,Hakan,Não se preocupe. Vamos defender esta passagem até a morte! Ahahaha!
-20202125,Camarada Hakan,Ha! Nem pense em morrer aqui.
-20202126,Camarada Hakan,"Se morrer agora, vou procurar você no além! Vamos sair vivos daqui e nos reencontrar, irmãos!"
+20202125,Camarada de Hakan,Ha! Nem pense em morrer aqui.
+20202126,Camarada de Hakan,"Se morrer agora, vou procurar você no além! Vamos sair vivos daqui e nos reencontrar, irmãos!"
 20202131,Priest,"Cuidei dos ferimentos, mas o verdadeiro problema é o veneno no sangue."
 20202132,Priest,Parece que o golpe aconteceu há muito tempo.
 20202133,Priest,"Este veneno envelhece devagar... quando você percebe, já é tarde."
