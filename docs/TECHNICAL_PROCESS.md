@@ -14,7 +14,7 @@ Este documento descreve a estrutura da tradução instalada, como extrair e edit
 - SHA-256 do pacote de localização v12: `2711910e4b57b5d57a26d81cdf2d2256cab851b357786fd9ab3ece86de50c197`.
 - Cópias de segurança imediatamente anteriores à instalação estão em `work/backups/*before-v11-quality.pak`.
 - A auditoria reproduzível da v12 está em `docs/AUDIT-v12.json`; o resumo está em `releases/v12-corrections/manifest.json`.
-- O manifesto da v12 preparada está em `releases/v12-corrections/manifest.json`. Os arquivos foram preparados e verificados, mas ainda não instalados: o processo do jogo estava ativo quando a etapa de cópia foi verificada.
+- O manifesto da v12 preparada está em `releases/v12-corrections/manifest.json`. Os arquivos v12 foram instalados em 2026-09-27 e os hashes nos destinos foram conferidos contra o manifesto.
 
 ## Aplicativos e dependências
 
@@ -32,7 +32,7 @@ Este documento descreve a estrutura da tradução instalada, como extrair e edit
 | `work/.architect-aes-key` | Credencial local AES-256, em 64 caracteres hexadecimais. É necessária para ler e criar estes PAKs. Não publicar, enviar por chat, incluir em documentação compartilhada ou commitar no Git. |
 | `work/repak/target/release/repak.exe` | Extrai, lista, inspeciona e empacota arquivos `.pak`. |
 | `work/download-pak0-original/ProjectTT/Content/TT/Data/CSV/L10N/en/` | Cópia de referência das 227 tabelas originais em inglês, extraídas antes das traduções. Serve para comparar IDs, nomes oficiais, parâmetros de nomes, placeholders e texto-fonte. |
-| `architectlandofexiles_BR/translations/v12-corrections/ProjectTT/Content/TT/Data/CSV/L10N/en/ (snapshot público atual) e architectlandofexiles_BR/translations/v12-corrections/ProjectTT/Content/TT/Data/CSV/L10N/en/ (árvore de trabalho local)` | Tabelas PT-BR finais editáveis. É a fonte do pacote de localização. |
+| `translations/v12-corrections/ProjectTT/Content/TT/Data/CSV/L10N/en/` no repositório (snapshot público e fonte local atual) | Tabelas PT-BR finais editáveis. É a fonte do pacote de localização. |
 | `work/download-pak0-full-v11/` | Árvore completa de 6.749 arquivos que forma o pacote principal. Foi derivada da árvore integral v10 e recebeu as tabelas PT-BR v11. |
 | `work/v12-override/` | Árvore de 227 tabelas para o pacote de localização de prioridade alta. Recebe as mesmas tabelas v11. |
 | `outputs/` | PAKs preparados, antes de instalá-los no jogo. |
@@ -125,7 +125,7 @@ Não edite a árvore original. Guarde a cópia limpa das tabelas em `work/downlo
 
 ### 1. Editar as tabelas
 
-Edite os arquivos em `architectlandofexiles_BR/translations/v12-corrections/ProjectTT/Content/TT/Data/CSV/L10N/en/ (snapshot público atual) e architectlandofexiles_BR/translations/v12-corrections/ProjectTT/Content/TT/Data/CSV/L10N/en/ (árvore de trabalho local)`. Cada tabela contém IDs e tipos de texto diferentes; não renomeie tabelas ou colunas.
+Edite os arquivos em `translations/v12-corrections/ProjectTT/Content/TT/Data/CSV/L10N/en/` no repositório (snapshot público e fonte local atual). Cada tabela contém IDs e tipos de texto diferentes; não renomeie tabelas ou colunas.
 
 As correções históricas da v11 foram preparadas por um script local que dependia de arquivos de pesquisa não publicados; esse script não faz parte do repositório e não é necessário para continuar. Para reproduzir o estado atual, use o snapshot v12 versionado e confira o diff de 91 células em `changes/v11-to-v12-corrections/changes.json`. Para versões futuras, o fluxo reproduzível está nos scripts `tools/compare_localization.py`, `tools/merge_updated_tables.py`, `tools/audit_translation.py` e `tools/build_translation_paks.ps1`.
 
@@ -293,7 +293,7 @@ A chave AES é necessária para extração e empacotamento. Neste checkout ela f
 - Auditoria contra as tabelas originais: 227 tabelas encontradas; 0 IDs ausentes/novos; 0 traduções vazias em campos não vazios; 0 divergências de placeholders/tags verificadas; 0 alterações em nomes/templates/parâmetros de títulos de itens; 0 menções encontradas com `Giant's Tower` traduzido. O relatório registra 10 candidatos de `left`; os 10 foram revistos como uso direcional (botão à esquerda, instruções de virar e referências à esquerda/direita), não como contador de tempo.
 - Os 227 CSVs do PAK override recém-construído foram extraídos novamente para `work/validate-v12b/` e os hashes dos bytes de todos coincidiram com o snapshot v12. `repak info` confirmou 6.749 entradas no pacote principal e 227 no override; ambos V11, índice criptografado, mount `../../../`, seed `E92532A4`; compressão Zlib no principal e None no override.
 - Arquivos prontos: `outputs/v12-corrections/pakchunk0-Windows-ptbr.pak` e `outputs/v12-corrections/pakchunk9999-Windows_1_P-ptbr.pak`. Hashes completos e tamanhos em `releases/v12-corrections/manifest.json`. Os PAKs não são publicados no GitHub; podem conter dados do jogo e são grandes.
-- **Estado de instalação:** a cópia para o diretório do jogo não foi realizada nesta etapa. A verificação encontrou `Architect` PID 16716 e `Architect-Win64-Shipping` PID 21204. Não matei os processos nem sobrescrevi os PAKs abertos. Quando o jogo estiver fechado, rode `tools/install_translation.ps1` apontando aos dois arquivos v12.
+- **Estado de instalação:** v12 instalada em 2026-09-27. Os PAKs do jogo coincidem com os arquivos preparados pelos hashes SHA-256 do manifesto. Backups anteriores preservados em `work/backups/pakchunk0-Windows-20260927-014418.pak` e `work/backups/pakchunk9999-Windows_1_P-20260927-014418.pak`.
 
 ## Credencial AES: continuidade segura
 

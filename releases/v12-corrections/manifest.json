@@ -42,5 +42,6 @@
     "override_extraction_matches_all_csv_hashes": true,
     "changed_cells_from_v11": 91
   },
-  "installation_status": "Prepared and validated locally; not copied into the game because the game process was active at packaging time."
+  "installation_status": "Installed on 2026-09-27. SHA-256 was verified at both destinations. Backups: work/backups/pakchunk0-Windows-20260927-014418.pak and work/backups/pakchunk9999-Windows_1_P-20260927-014418.pak.",
+  "installed_hashes_match_prepared_files": true
 }

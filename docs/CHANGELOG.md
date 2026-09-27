@@ -9,7 +9,7 @@ Cada pasta `translations/vN-.../` preserva um snapshot completo e imutável. As 
 - Reparo de tags e placeholders em diálogos, quests, tutoriais e descrições de Skills. Traduções preenchidas em rótulos e ações de interface que estavam vazios. Nomes próprios de itens foram mantidos em inglês para preservar busca no Marketplace.
 - Dez alertas de `left` foram revisados como instruções/referências direcionais; nenhum é contador de tempo restante.
 - Os arquivos v12 foram extraídos do PAK override construído e todos os 227 hashes coincidem com o snapshot.
-- Pacotes preparados e descritos no manifesto; instalação no jogo pendente porque o processo estava ativo durante a verificação.
+- Pacotes instalados em 2026-09-27; hashes conferidos nos dois destinos e backups datados preservados em `work/backups/`.
 
 ## v11-quality e anteriores
 
