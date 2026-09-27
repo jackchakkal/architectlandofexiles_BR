@@ -1,14 +1,14 @@
 # Architect: Land of Exiles — Português brasileiro
 
-**Quer jogar em português?** Consulte [Instalação para jogadores](docs/INSTALACAO-PARA-JOGADORES.md). No momento, ainda não há um pacote de distribuição validado para jogadores.
+**Quer jogar em português?** Consulte [Instalação para jogadores](docs/INSTALACAO-PARA-JOGADORES.md). A versão v12 completa foi reaplicada no computador do mantenedor usando o par de PAKs e teve os dois hashes conferidos.
 
 ## Para jogadores
 
-O ZIP experimental anterior foi retirado: instalado sozinho em `Content/Paks`, traduziu a tela inicial, mas telas de carregamento e textos durante o jogo continuaram em inglês. Não o distribua como tradução completa. O diagnóstico e o plano para testar a necessidade de um ou dois arquivos estão em [Investigação de carregamento dos PAKs](docs/INVESTIGACAO-CARREGAMENTO-PAK.md).
+O ZIP de um arquivo que foi testado continha somente o PAK de override; ele não era a instalação v12 completa. O par correto consiste no PAK principal modificado e no override de alta prioridade, instalados em duas pastas específicas. A instalação pública ainda não está pronta: o PAK principal inclui conteúdo original do jogo e não deve ser publicado. Veja [o processo técnico](docs/TECHNICAL_PROCESS.md) e [o registro do teste de um arquivo](docs/INVESTIGACAO-CARREGAMENTO-PAK.md).
 
 ## Para colaboradores e mantenedores
 
-- Snapshot atual: [`translations/v12-corrections/`](translations/v12-corrections/), com 227 tabelas CSV.
+- Snapshot atual: [`translations/v12-corrections/`](translations/v12-corrections/), com 227 tabelas, 128.598 registros e 486.563 células (368.441 não vazias).
 - Auditoria: [`docs/AUDIT-v12.json`](docs/AUDIT-v12.json).
 - Processo técnico de extração, comparação, empacotamento e manutenção: [`docs/TECHNICAL_PROCESS.md`](docs/TECHNICAL_PROCESS.md).
 - Regras de localização: [`docs/GLOSSARIO-E-REGRAS.md`](docs/GLOSSARIO-E-REGRAS.md).

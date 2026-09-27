@@ -20,7 +20,7 @@
   "files": {
     "player_download": {
       "filename": null,
-      "status": "blocked; the single-PAK experiment translated the start screen only and was removed from releases"
+      "status": "not published; the single-PAK experiment was the override only, not the complete v12 installation"
     },
     "main": {
       "filename": "pakchunk0-Windows-ptbr.pak",
@@ -46,6 +46,10 @@
     "override_extraction_matches_all_csv_hashes": true,
     "changed_cells_from_v11": 91
   },
-  "installation_status": "The game installation was returned to its clean state after the one-PAK experiment on 2026-09-27. See docs/INVESTIGACAO-CARREGAMENTO-PAK.md.",
-  "installed_hashes_match_prepared_files": false
+  "installation_status": "The complete v12 pair was reapplied on 2026-09-27 after verifying the clean original PAK0 hash. A verified pre-install backup is in work/backups/reapply-v12-20260927-142909/.",
+  "installed_hashes_match_prepared_files": true,
+  "installed_sha256": {
+    "main": "91c7e1993d51d36cd028886e75edc529aa6faf477a5a8f31e58347526bfc79b1",
+    "override": "2711910e4b57b5d57a26d81cdf2d2256cab851b357786fd9ab3ece86de50c197"
+  }
 }

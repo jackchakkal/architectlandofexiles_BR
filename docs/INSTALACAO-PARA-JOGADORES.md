@@ -1,7 +1,9 @@
 # Instalação para jogadores
 
-**Ainda não instale arquivos de tradução encontrados neste repositório.** O único ZIP experimental foi testado e não traduz o jogo por completo: ele altera a tela inicial, mas não as telas de carregamento nem todas as telas durante a partida. O ZIP foi retirado da lista de downloads.
+## Estado atual
 
-Não há ainda um pacote final para copiar para a pasta do jogo. O projeto está investigando se um pacote completo instalado no diretório de conteúdo baixado substitui o segundo PAK ou se o jogo precisa dos dois por carregar conteúdo em fases diferentes. A hipótese e os resultados observados estão em [Investigação de carregamento dos PAKs](INVESTIGACAO-CARREGAMENTO-PAK.md).
+A instalação completa v12 foi reaplicada no computador do mantenedor. Ela usa dois arquivos em pastas diferentes: o PAK principal modificado, que contém 6.749 entradas do conteúdo do jogo e as tabelas traduzidas, e um PAK de prioridade alta que contém as 227 tabelas. Os hashes foram conferidos nos dois destinos.
 
-Quando houver uma versão pronta, esta página explicará a instalação e a remoção em passos simples e incluirá um teste de instalação limpa. Até lá, não substitua os PAKs originais do jogo nem use o pacote beta antigo.
+O ZIP de um arquivo testado anteriormente continha só o PAK de prioridade alta. Esse teste não instalou o par v12 e não deve ser usado para julgar a instalação completa. O PAK principal preparado inclui milhares de arquivos originais do jogo, portanto não pode ser publicado como download. Ainda estamos preparando um pacote de jogador que preserve os arquivos originais e instale a tradução com segurança. Não copie o ZIP antigo.
+
+Veja [o registro detalhado da instalação e os próximos passos](INVESTIGACAO-CARREGAMENTO-PAK.md). Quando o pacote público estiver pronto, esta página terá instruções simples de cópia, backup e remoção.

@@ -1,9 +1,9 @@
 param(
-  [Parameter(Mandatory=$true)][string]$FullPakRoot,
-  [string]$TranslationRoot = 'translations/v11-quality',
-  [string]$WorkRoot = 'work/build-v11',
-  [string]$OutputRoot = 'outputs',
-  [string]$Repak = 'work/repak/target/release/repak.exe',
+  [string]$FullPakRoot = '..\work\download-pak0-full-v11',
+  [string]$TranslationRoot = 'translations/v12-corrections',
+  [string]$WorkRoot = '..\work\build-v12',
+  [string]$OutputRoot = '..\outputs\v12-corrections',
+  [string]$Repak = '..\work\repak/target/release/repak.exe',
   [string]$AesKeyFile = 'work/.architect-aes-key',
   [string]$PakVersion = 'V11',
   [uint32]$PathHashSeed = 3911529124

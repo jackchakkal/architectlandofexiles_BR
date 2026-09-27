@@ -4,17 +4,17 @@ Este documento descreve a estrutura da tradução instalada, como extrair e edit
 
 ## Estado técnico e cautela de distribuição
 
-- Snapshot de tradução: `v12-corrections` (227 CSVs auditados). Dois PAKs foram preparados e instalados temporariamente em 2026-09-27, mas o teste com apenas o PAK de override traduziu somente a tela inicial. O jogo foi então restaurado ao estado limpo. A distribuição v12 está bloqueada até a investigação em `docs/INVESTIGACAO-CARREGAMENTO-PAK.md` concluir a matriz de testes.
-- Ferramenta de PAK: `repak_cli 0.2.3`, código-fonte em `work/repak` e executável em `work/repak/target/release/repak.exe`.
+- Snapshot de tradução: `v12-corrections` (227 CSVs, 128.598 registros, 486.563 células, 368.441 não vazias). O par v12 está aplicado na instalação local e os hashes dos dois destinos coincidem com os PAKs preparados. O teste de um arquivo foi só do override; ele não representa o par completo.
+- Ferramenta de PAK: `repak_cli 0.2.3`, código-fonte em `../work/repak` e executável em `../work/repak/target/release/repak.exe`.
 - O pacote principal contém 6.749 arquivos; o pacote de localização contém 227 tabelas CSV.
 - Os dois arquivos usam formato Unreal PAK V11, índice criptografado, mount point `../../../` e path hash seed `E92532A4`.
 - O pacote principal usa compressão Zlib. O pacote de localização usa entradas sem compressão, como a versão funcional anterior.
-- Os arquivos preparados estão em `outputs/v12-corrections/pakchunk0-Windows-ptbr.pak` e `outputs/v12-corrections/pakchunk9999-Windows_1_P-ptbr.pak`.
+- Os arquivos preparados estão em `../outputs/v12-corrections/pakchunk0-Windows-ptbr.pak` e `../outputs/v12-corrections/pakchunk9999-Windows_1_P-ptbr.pak`.
 - SHA-256 do pacote principal v12: `91c7e1993d51d36cd028886e75edc529aa6faf477a5a8f31e58347526bfc79b1`.
 - SHA-256 do pacote de localização v12: `2711910e4b57b5d57a26d81cdf2d2256cab851b357786fd9ab3ece86de50c197`.
-- Backups de testes e originais estão em `work/backups/`; confira os hashes e leia o manifesto antes de restaurar qualquer arquivo.
+- Backups de testes e originais estão em `../work/backups/`; confira os hashes e leia o manifesto antes de restaurar qualquer arquivo.
 - A auditoria reproduzível da v12 está em `docs/AUDIT-v12.json`; o resumo está em `releases/v12-corrections/manifest.json`.
-- O manifesto da v12 preparada está em `releases/v12-corrections/manifest.json`. Ele registra os hashes dos PAKs de manutenção; eles não são um pacote de jogador validado.
+- O manifesto `releases/v12-corrections/manifest.json` registra os hashes preparados e aplicados. Os PAKs não formam ainda um download público: o pacote principal contém conteúdo original do jogo.
 
 ## Aplicativos e dependências
 
@@ -22,7 +22,7 @@ Este documento descreve a estrutura da tradução instalada, como extrair e edit
 - Python 3.11 ou compatível; os scripts usam a biblioteca padrão, sem pacote Python adicional.
 - `repak_cli 0.2.3` para manipular os PAKs.
 - `tools/locres_export.py` exporta recursos binários LocRes UE v0–v3 para CSV/JSON na investigação de strings fora das tabelas CSV customizadas.
-- Rust/Cargo somente se precisar compilar o repak a partir do código-fonte. Na pasta `work/repak`, execute `cargo build --release -p repak_cli`; o executável será `work/repak/target/release/repak.exe`.
+- Rust/Cargo somente se precisar compilar o repak a partir do código-fonte. Na pasta `../work/repak`, execute `cargo build --release -p repak_cli`; o executável será `../work/repak/target/release/repak.exe`.
 - Não é necessário abrir o Unreal Editor para editar essas tabelas CSV.
 - O jogo foi compilado com Unreal Engine 5.5 (indicado pelo relatório de crash fornecido); seus arquivos PAK usam versão V11. Confirme a versão do PAK com `repak info` depois de atualizações do jogo.
 
@@ -31,12 +31,12 @@ Este documento descreve a estrutura da tradução instalada, como extrair e edit
 | Arquivo ou pasta | Função |
 | --- | --- |
 | `work/.architect-aes-key` | Credencial local AES-256, em 64 caracteres hexadecimais. É necessária para ler e criar estes PAKs. Não publicar, enviar por chat, incluir em documentação compartilhada ou commitar no Git. |
-| `work/repak/target/release/repak.exe` | Extrai, lista, inspeciona e empacota arquivos `.pak`. |
-| `work/download-pak0-original/ProjectTT/Content/TT/Data/CSV/L10N/en/` | Cópia de referência das 227 tabelas originais em inglês, extraídas antes das traduções. Serve para comparar IDs, nomes oficiais, parâmetros de nomes, placeholders e texto-fonte. |
+| `../work/repak/target/release/repak.exe` | Extrai, lista, inspeciona e empacota arquivos `.pak`. |
+| `../work/download-pak0-original/ProjectTT/Content/TT/Data/CSV/L10N/en/` | Cópia de referência das 227 tabelas originais em inglês, extraídas antes das traduções. Serve para comparar IDs, nomes oficiais, parâmetros de nomes, placeholders e texto-fonte. |
 | `translations/v12-corrections/ProjectTT/Content/TT/Data/CSV/L10N/en/` no repositório (snapshot público e fonte local atual) | Tabelas PT-BR finais editáveis. É a fonte do pacote de localização. |
-| `work/download-pak0-full-v11/` | Árvore completa de 6.749 arquivos que forma o pacote principal. Foi derivada da árvore integral v10 e recebeu as tabelas PT-BR v11. |
-| `work/v12-override/` | Árvore de 227 tabelas para o pacote de localização de prioridade alta. Recebe as mesmas tabelas v11. |
-| `outputs/` | PAKs preparados, antes de instalá-los no jogo. |
+| `../work/download-pak0-full-v11/` | Árvore completa de 6.749 arquivos que forma o pacote principal; serve de base local e recebe as 227 tabelas v12 durante o build. |
+| `../work/architect-ptbr-pakroot-v11/` | Árvore de 227 tabelas para o pacote de localização de prioridade alta. |
+| `../outputs/v12-corrections/` | PAKs preparados para a instalação local v12. |
 | `ProjectTT/Saved/PersistentDownloadDir/DownloadContent/pakchunk0-Windows.pak` | Destino experimental do pacote principal; a versão preparada é uma cópia integral da árvore do jogo com as tabelas editadas. Não substituir o original sem backup verificado. |
 | `ProjectTT/Content/Paks/pakchunk9999-Windows_1_P.pak` | Destino experimental do PAK com as tabelas de localização de prioridade alta. Sozinho, não traduziu toda a interface. |
 
@@ -83,36 +83,36 @@ Não é necessário login, senha de conta ou token de serviço para editar e emp
 
 ### 1. Confirmar os arquivos de origem
 
-O PAK integral deve estar disponível localmente. A instalação tem um backup anterior às traduções em `work/backups/download-pakchunk0-Windows-original-before-v5.pak`. Preserve uma cópia intocada do pacote original antes de qualquer nova extração ou instalação.
+O PAK integral deve estar disponível localmente. O backup limpo conhecido está em `../work/backups/download-pakchunk0-Windows-original-before-v5.pak`. Preserve uma cópia intocada do pacote original antes de qualquer nova extração ou instalação.
 
 Confira o índice e o formato:
 
 ```powershell
 $key = (Get-Content work/.architect-aes-key -Raw).Trim()
-work/repak/target/release/repak.exe --aes-key $key info work/backups/download-pakchunk0-Windows-original-before-v5.pak
+..\work\repak\target\release\repak.exe --aes-key $key info ..\work\backups\download-pakchunk0-Windows-original-before-v5.pak
 ```
 
 ### 2. Extrair um PAK inteiro
 
 ```powershell
 $key = (Get-Content work/.architect-aes-key -Raw).Trim()
-work/repak/target/release/repak.exe --aes-key $key unpack `
-  -o work/extracted-original `
-  work/backups/download-pakchunk0-Windows-original-before-v5.pak
+..\work\repak\target\release\repak.exe --aes-key $key unpack `
+  -o ..\work\extracted-original `
+  ..\work\backups\download-pakchunk0-Windows-original-before-v5.pak
 Remove-Variable key
 ```
 
-O prefixo `../../../` é removido por padrão. As tabelas ficam então em `work/extracted-original/ProjectTT/Content/TT/Data/CSV/L10N/en/`.
+O prefixo `../../../` é removido por padrão. As tabelas ficam então em `../work/extracted-original/ProjectTT/Content/TT/Data/CSV/L10N/en/`.
 
 Para extrair somente tabelas selecionadas, use `-i` repetidamente:
 
 ```powershell
 $key = (Get-Content work/.architect-aes-key -Raw).Trim()
-work/repak/target/release/repak.exe --aes-key $key unpack `
-  -o work/extracted-selected `
+..\work\repak\target\release\repak.exe --aes-key $key unpack `
+  -o ..\work\extracted-selected `
   -i ProjectTT/Content/TT/Data/CSV/L10N/en/Item_Name.csv `
   -i ProjectTT/Content/TT/Data/CSV/L10N/en/QuestTask_Name.csv `
-  work/backups/download-pakchunk0-Windows-original-before-v5.pak
+  ..\work\backups\download-pakchunk0-Windows-original-before-v5.pak
 Remove-Variable key
 ```
 
@@ -120,7 +120,7 @@ Use `repak list` para consultar caminhos de arquivos do pacote. `repak info` mos
 
 ### 3. Manter a referência original
 
-Não edite a árvore original. Guarde a cópia limpa das tabelas em `work/download-pak0-original/ProjectTT/Content/TT/Data/CSV/L10N/en/`. Compare por ID, nunca apenas pela posição da linha. Antes de cada instalação, faça cópia de segurança dos dois PAKs ativos.
+Não edite a árvore original. Guarde a cópia limpa das tabelas em `../work/download-pak0-original/ProjectTT/Content/TT/Data/CSV/L10N/en/`. Compare por ID, nunca apenas pela posição da linha. Antes de cada instalação, faça cópia de segurança dos dois PAKs ativos.
 
 ## Edição e preparação da tradução
 
@@ -130,46 +130,19 @@ Edite os arquivos em `translations/v12-corrections/ProjectTT/Content/TT/Data/CSV
 
 As correções históricas da v11 foram preparadas por um script local que dependia de arquivos de pesquisa não publicados; esse script não faz parte do repositório e não é necessário para continuar. Para reproduzir o estado atual, use o snapshot v12 versionado e confira o diff de 91 células em `changes/v11-to-v12-corrections/changes.json`. Para versões futuras, o fluxo reproduzível está nos scripts `tools/compare_localization.py`, `tools/merge_updated_tables.py`, `tools/audit_translation.py` e `tools/build_translation_paks.ps1`.
 
-### 2. Sincronizar as duas árvores de empacotamento
+### 2. Preparar o par
 
-O fluxo de manutenção gera os dois PAKs com as mesmas tabelas, mas ainda não está demonstrado que ambos sejam indispensáveis. O teste com o PAK de prioridade alta sozinho traduziu a tela inicial e deixou telas de jogo em inglês; não se pode atribuir esse resultado só à ordem de montagem, pois há lacunas no snapshot e possível carregamento tardio de conteúdo. Veja `docs/INVESTIGACAO-CARREGAMENTO-PAK.md` antes de instalar ou recomendar qualquer pacote.
-
-```powershell
-@'
-from pathlib import Path
-import shutil
-w=Path('work')
-rel=Path('ProjectTT/Content/TT/Data/CSV/L10N/en')
-stage=w/'architect-ptbr-v11'/rel
-for root in [w/'download-pak0-full-v11', w/'architect-ptbr-pakroot-v11']:
-    for table in stage.glob('*.csv'):
-        shutil.copy2(table, root/rel/table.name)
-'@ | python -
-```
-
-`download-pak0-full-v11` é a árvore integral (6.749 arquivos), derivada do conteúdo completo v10. `architect-ptbr-pakroot-v11` contém apenas as 227 tabelas de localização. Para reproduzir exatamente a versão instalada, use essas árvores já preparadas; não monte o pacote principal a partir de uma árvore incompleta de CSVs.
+O script de build cria duas árvores temporárias a partir de uma só fonte de CSV. Não sincronize tabelas manualmente: assim se evita empacotar a v12 em um PAK e deixar o outro com uma revisão antiga. A árvore completa original tem de estar em `../work/download-pak0-full-v11/`; a saída `../work/build-v12/` e `../outputs/v12-corrections/` ficam fora do clone e não são versionadas.
 
 ## Empacotamento
 
-Use o `repak_cli 0.2.3` que acompanha o projeto e a chave AES local. O principal e o override têm configurações de compressão diferentes:
+Use o script versionado `tools/build_translation_paks.ps1`, que por padrão lê a árvore completa local, usa o snapshot v12 e gera os dois PAKs em `../outputs/v12-corrections/`. A chave AES local e o executável repak não entram no repositório. Para reproduzir o build a partir da raiz do clone:
 
 ```powershell
-$key = (Get-Content work/.architect-aes-key -Raw).Trim()
-
-work/repak/target/release/repak.exe --aes-key $key pack `
-  work/download-pak0-full-v11 `
-  outputs/v12-corrections/pakchunk0-Windows-ptbr.pak `
-  --version V11 --compression Zlib --path-hash-seed 3911529124 --quiet
-
-work/repak/target/release/repak.exe --aes-key $key pack `
-  work/architect-ptbr-pakroot-v11 `
-  outputs/v12-corrections/pakchunk9999-Windows_1_P-ptbr.pak `
-  --version V11 --path-hash-seed 3911529124 --quiet
-
-Remove-Variable key
+pwsh -File tools/build_translation_paks.ps1
 ```
 
-O seed decimal `3911529124` equivale a `E92532A4`. `repak` cria um índice criptografado quando recebe `--aes-key`. Não use compressão no pacote `pakchunk9999` sem primeiro validar com a versão de formato usada pelo jogo: o pacote funcional de correção usa compressão `None`.
+O script empacota o principal com Zlib e o override sem compressão, em V11, mount `../../../` e seed decimal `3911529124` (`E92532A4`). A inclusão de `--aes-key` cria o índice criptografado.
 
 ## Validação antes da instalação
 
@@ -177,8 +150,8 @@ Inspecione ambos os arquivos e confirme V11, índice criptografado, seed `E92532
 
 ```powershell
 $key = (Get-Content work/.architect-aes-key -Raw).Trim()
-work/repak/target/release/repak.exe --aes-key $key info outputs/v12-corrections/pakchunk0-Windows-ptbr.pak
-work/repak/target/release/repak.exe --aes-key $key info outputs/v12-corrections/pakchunk9999-Windows_1_P-ptbr.pak
+..\work\repak\target\release\repak.exe --aes-key $key info ..\outputs\v12-corrections\pakchunk0-Windows-ptbr.pak
+..\work\repak\target\release\repak.exe --aes-key $key info ..\outputs\v12-corrections\pakchunk9999-Windows_1_P-ptbr.pak
 Remove-Variable key
 ```
 
@@ -192,18 +165,13 @@ Extraia pelo menos `Item_Name.csv`, `QuestTask_Name.csv`, `TutorialWalkthrough_N
 
 ## Instalação e reversão
 
-Feche o jogo antes de trocar os arquivos. Confirme que não há processo `Architect` ou `ProjectTT` em execução. Faça cópias dos dois PAKs ativos antes de sobrescrevê-los.
+Feche o jogo e o DRIMAGE Launcher. O script verifica que os processos não estão ativos, cria backups verificados para os dois destinos, prepara ambos antes de substituir qualquer arquivo, confere os hashes instalados e tenta reverter o par anterior se houver falha. A partir da raiz do clone, use:
 
 ```powershell
-$full = 'H:\Games\Architect\ProjectTT\Saved\PersistentDownloadDir\DownloadContent\pakchunk0-Windows.pak'
-$patch = 'H:\Games\Architect\ProjectTT\Content\Paks\pakchunk9999-Windows_1_P.pak'
-Copy-Item -LiteralPath $full -Destination work/backups/download-pakchunk0-Windows-before-next-version.pak
-Copy-Item -LiteralPath $patch -Destination work/backups/pakchunk9999-Windows_1_P-before-next-version.pak
-Copy-Item -LiteralPath outputs/v12-corrections/pakchunk0-Windows-ptbr.pak -Destination $full -Force
-Copy-Item -LiteralPath outputs/v12-corrections/pakchunk9999-Windows_1_P-ptbr.pak -Destination $patch -Force
+pwsh -File tools/install_translation.ps1
 ```
 
-Confira os SHA-256 instalados com `Get-FileHash` e compare com os arquivos preparados. Para reverter, copie os dois arquivos de backup correspondentes de volta aos mesmos destinos. Restaure o par completo; misturar versões pode reativar textos antigos ou causar conflito entre tabelas.
+O padrão de instalação aponta para `H:\Games\Architect\ProjectTT`; passe `-GameRoot` se sua instalação estiver em outra pasta. Para reverter, use os arquivos nomeados no `install-manifest.json` criado dentro do diretório de backup daquela execução e restaure os dois juntos.
 
 ## Correções aplicadas nesta versão
 
@@ -232,7 +200,7 @@ No checkout do repositório, use os scripts `tools/`. Eles esperam a credencial 
 ```powershell
 pwsh -File tools/extract_paks.ps1 `
   -Pak 'H:\Games\Architect\ProjectTT\Saved\PersistentDownloadDir\DownloadContent\pakchunk0-Windows.pak' `
-  -OutputRoot work/extracted-new
+  -OutputRoot ..\work\extracted-new
 ```
 
 Repita a extração para os PAKs originais ou para a versão anterior, usando outro `-OutputRoot` (`work/extracted-old`). Se a instalação já contém a tradução, use os backups originais guardados antes da instalação. Extraia também o PAK de prioridade alta quando a atualização tiver mudado arquivos distribuídos por ele.
@@ -240,40 +208,40 @@ Repita a extração para os PAKs originais ou para a versão anterior, usando ou
 Compare as versões originais e prepare um rascunho. O script preserva traduções revisadas, usa o texto inglês novo onde a versão anterior ainda estava em inglês e põe textos alterados em uma fila de revisão. Nomes próprios protegidos são copiados do novo original:
 
 ```powershell
-$old = 'work/extracted-old/pakchunk0-Windows/ProjectTT/Content/TT/Data/CSV/L10N/en'
-$new = 'work/extracted-new/pakchunk0-Windows/ProjectTT/Content/TT/Data/CSV/L10N/en'
+$old = '..\work\extracted-old\pakchunk0-Windows\ProjectTT\Content\TT\Data\CSV\L10N\en'
+$new = '..\work\extracted-new\pakchunk0-Windows\ProjectTT\Content\TT\Data\CSV\L10N\en'
 $previous = 'translations/v11-quality/ProjectTT/Content/TT/Data/CSV/L10N/en'
-python tools/compare_localization.py --old-source $old --new-source $new --translation $previous --out work/game-update-review.json
-python tools/merge_updated_tables.py --old-source $old --new-source $new --old-translation $previous --out work/draft-v12 --report work/draft-v12-review.json
+python tools/compare_localization.py --old-source $old --new-source $new --translation $previous --out ..\work\game-update-review.json
+python tools/merge_updated_tables.py --old-source $old --new-source $new --old-translation $previous --out ..\work\draft-v13 --report ..\work\draft-v13-review.json
 ```
 
 Traduza e revise todos os IDs/células indicados nos relatórios. Rode a auditoria contra o novo inglês; revise manualmente os alertas semânticos, pois uma máquina não consegue saber sozinha se `left` é direção ou tempo restante:
 
 ```powershell
-python tools/audit_translation.py --source $new --translation work/draft-v12 --out work/audit-v12.json
+python tools/audit_translation.py --source $new --translation ..\work\draft-v13 --out ..\work\audit-v13.json
 ```
 
-Quando a revisão estiver concluída, copie as tabelas para `translations/v12-draft/ProjectTT/Content/TT/Data/CSV/L10N/en/`, crie `changes/v11-to-v12/` com um manifesto das células revistas e atualize o changelog. Preserve todas as versões anteriores.
+Quando a revisão estiver concluída, copie as tabelas para `translations/v13-draft/ProjectTT/Content/TT/Data/CSV/L10N/en/`, crie `changes/v12-to-v13/` com um manifesto das células revistas e atualize o changelog. Preserve todas as versões anteriores.
 
 Extraia o PAK principal atualizado por completo e gere o novo par de pacotes. O diretório passado em `-FullPakRoot` deve ser a raiz extraída do pacote, aquela que contém `ProjectTT/`:
 
 ```powershell
 pwsh -File tools/build_translation_paks.ps1 `
-  -FullPakRoot work/extracted-new/pakchunk0-Windows `
-  -TranslationRoot translations/v12-draft `
-  -WorkRoot work/build-v12 `
-  -OutputRoot outputs/v12
+  -FullPakRoot ..\work\extracted-new\pakchunk0-Windows `
+  -TranslationRoot translations/v13-draft `
+  -WorkRoot ..\work\build-v13 `
+  -OutputRoot ..\outputs\v13
 ```
 
 Confira `repak info`, extraia tabelas dos PAKs recém-gerados, rode `tools/audit_translation.py` no snapshot e confira os hashes. Só depois instale:
 
 ```powershell
 pwsh -File tools/install_translation.ps1 `
-  -MainPak outputs/v12/pakchunk0-Windows-ptbr.pak `
-  -OverridePak outputs/v12/pakchunk9999-Windows_1_P-ptbr.pak
+  -MainPak ..\outputs\v13\pakchunk0-Windows-ptbr.pak `
+  -OverridePak ..\outputs\v13\pakchunk9999-Windows_1_P-ptbr.pak
 ```
 
-O instalador exige que o jogo esteja fechado, cria backups com data e compara SHA-256 depois da cópia. Não altere `translations/v11-quality/` retroativamente.
+O instalador exige que o jogo esteja fechado, cria backups com data, verifica os arquivos preparados e compara SHA-256 depois da cópia. Não altere `translations/v12-corrections/` retroativamente.
 
 ### Publicação da credencial para mantenedores
 
@@ -284,7 +252,7 @@ A chave AES é necessária para extração e empacotamento. Neste checkout ela f
 - Em testes históricos, foi observada uma tradução parcial quando o conteúdo do PAK principal e o do override não estavam na mesma versão. Isso justifica manter versões e hashes sincronizados, mas não prova que o jogador precise instalar dois PAKs. O teste mais recente com um override sozinho também foi parcial; as hipóteses restantes estão em `docs/INVESTIGACAO-CARREGAMENTO-PAK.md`.
 - Uma checagem anterior olhava apenas para a coluna `Item_Name.Name`. Títulos montados dinamicamente também incorporam `ParamN`; 126 desses fragmentos ainda estavam traduzidos. A correção restaura os fragmentos referenciados pelo template original.
 - Uma checagem da torre não reconhecia o apóstrofo curvo `’` nem marcação que dividia as palavras por tags. A correção foi comparada com cada célula-fonte e conferida após extrair o PAK instalado.
-- O primeiro PAK de correção usou uma chave AES errada e foi rejeitado pelo Unreal como índice corrompido. Não reutilize o PAK rejeitado que está em `work/backups/pakchunk9999-Windows_1_P-rejected-v10.pak`; os PAKs v12 de manutenção foram lidos e extraídos com a chave confirmada.
+- O primeiro PAK de correção usou uma chave AES errada e foi rejeitado pelo Unreal como índice corrompido. Não reutilize o PAK rejeitado que está em `../work/backups/pakchunk9999-Windows_1_P-rejected-v10.pak`; os PAKs v12 de manutenção foram lidos e extraídos com a chave confirmada.
 
 
 ## Registro detalhado da v12-corrections
@@ -292,13 +260,13 @@ A chave AES é necessária para extração e empacotamento. Neste checkout ela f
 - Snapshot novo: `translations/v12-corrections/ProjectTT/Content/TT/Data/CSV/L10N/en/`, preservando os 227 CSVs; `v0-upload` até `v11-quality` permanecem intactos. O diff célula a célula fica em `changes/v11-to-v12-corrections/changes.json`.
 - Foram corrigidos placeholders ausentes/duplicados em descrições, tags de cor quebradas em diálogos e tutoriais, nomes de interface que estavam vazios, nomes de categorias/ações e uma série de parâmetros dinâmicos. `Skill` e `Codex` permanecem em inglês. Nomes próprios de itens continuam originais; a descrição do acessório expande os parâmetros em português, mas o título e os parâmetros que formam título foram conferidos separadamente.
 - Auditoria contra as tabelas originais: 227 tabelas encontradas; 0 IDs ausentes/novos; 0 traduções vazias em campos não vazios; 0 divergências de placeholders/tags verificadas; 0 alterações em nomes/templates/parâmetros de títulos de itens; 0 menções encontradas com `Giant's Tower` traduzido. O relatório contém dez alertas de busca por `left`; o alerta não classifica sozinho o significado. Foram conferidos exemplos direcionais e contadores; chaves de tempo/quantidade restantes usam “restante(s)”, como `AUCTION_MENU_LEFTTIME`, `CLAN_EXCHANGE_LEFT_TIME`, `CLAN_RESEARCH_TOGGLE_ACTIVATE_LEFT_TIME`, `COMMON_LEFT` e `COMMON_LEFT_TIME`.
-- Os 227 CSVs do PAK override recém-construído foram extraídos novamente para `work/validate-v12b/` e os hashes dos bytes de todos coincidiram com o snapshot v12. `repak info` confirmou 6.749 entradas no pacote principal e 227 no override; ambos V11, índice criptografado, mount `../../../`, seed `E92532A4`; compressão Zlib no principal e None no override.
+- Os 227 CSVs do PAK override foram extraídos novamente para `../work/validate-v12b/` e os hashes dos bytes coincidiram com o snapshot v12. `repak info` confirmou 6.749 entradas no pacote principal e 227 no override; ambos V11, índice criptografado, mount `../../../`, seed `E92532A4`; compressão Zlib no principal e None no override.
 - Arquivos de manutenção preparados: `outputs/v12-corrections/pakchunk0-Windows-ptbr.pak` e `outputs/v12-corrections/pakchunk9999-Windows_1_P-ptbr.pak`. Não são downloads para jogadores; hashes e tamanhos estão no manifesto.
-- **Estado de instalação:** instalação local limpa depois do teste do override único. Backups dos arquivos instalados temporariamente e do PAK original estão em `work/backups/clean-test-20260927/` e `work/backups/download-pakchunk0-Windows-original-before-v5.pak`. Confirme o hash do PAK ativo antes de qualquer nova operação.
+- **Estado de instalação:** par v12 aplicado e hashes conferidos. O PAK principal ativo tem SHA-256 `91c7e1993d51d36cd028886e75edc529aa6faf477a5a8f31e58347526bfc79b1`; o override ativo tem SHA-256 `2711910e4b57b5d57a26d81cdf2d2256cab851b357786fd9ab3ece86de50c197`. Backup pré-instalação em `../work/backups/reapply-v12-20260927-142909/`.
 
 ## Credencial AES: continuidade segura
 
-A chave validada foi o candidato de índice 650 em `work/content-key-candidates.json`, validado com leitura de PAKs conhecidos usando `repak_cli 0.2.3`. O arquivo secreto correspondente neste computador está em `work/.architect-aes-key`; o arquivo tem 64 dígitos hexadecimais, representa uma chave AES-256, é ignorado por `.gitignore` e nunca deve ser gravado neste documento, em issue pública, commit ou log. O arquivo da lista de candidatos, os PAKs, dumps e saídas de diagnóstico também são locais/privados. O número 650 é índice de busca, não é a chave.
+A chave validada foi o candidato de índice 650 em `../work/content-key-candidates.json`, validado com leitura de PAKs conhecidos usando `repak_cli 0.2.3`. O arquivo secreto correspondente neste computador está em `work/.architect-aes-key`; o arquivo tem 64 dígitos hexadecimais, representa uma chave AES-256, é ignorado por `.gitignore` e nunca deve ser gravado neste documento, em issue pública, commit ou log. O arquivo da lista de candidatos, os PAKs, dumps e saídas de diagnóstico também são locais/privados. O número 650 é índice de busca, não é a chave.
 
 Para uma pessoa mantenedora continuar em outro computador, ela deve obter a chave por canal privado autorizado e provisionar localmente `work/.architect-aes-key`. Alternativamente, uma automação privada pode receber a variável protegida `ARCHITECT_AES_KEY` nas configurações de Actions do repositório; o valor não deve aparecer em YAML, logs, artefatos ou forks. O clone público sozinho não contém a chave e não consegue abrir PAKs criptografados. Não existe senha de conta/API necessária para esse procedimento: a credencial técnica é a chave AES do jogo.
 

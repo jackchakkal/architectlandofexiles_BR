@@ -1,7 +1,7 @@
 param(
   [Parameter(Mandatory=$true)][string[]]$Pak,
   [Parameter(Mandatory=$true)][string]$OutputRoot,
-  [string]$Repak = 'work/repak/target/release/repak.exe',
+  [string]$Repak = '..\work\repak\target\release\repak.exe',
   [string]$AesKeyFile = 'work/.architect-aes-key'
 )
 $ErrorActionPreference = 'Stop'

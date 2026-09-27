@@ -1,53 +1,59 @@
-# Investigação: por que foram usados dois arquivos PAK?
+# Como a instalação v12 funciona
 
-## Conclusão atual
+## O que foi reaplicado
 
-Ainda não está provado que a tradução precise de dois arquivos, nem que um PAK único seja suficiente. O teste já feito prova somente que um PAK de prioridade alta, colocado em `ProjectTT/Content/Paks`, pode ser aberto pelo jogo sem crash e traduz a tela inicial. O mesmo teste deixou a tela de carregamento e textos vistos dentro do jogo em inglês. Portanto, esse ZIP de um arquivo não é uma instalação completa e não deve ser distribuído como tal.
+A instalação v12 completa foi reaplicada em 2026-09-27, depois de conferir que o PAK principal do jogo estava limpo. Os dois arquivos instalados têm os mesmos hashes dos artefatos preparados e validados com `repak_cli`:
 
-O nome “dois arquivos” descreve a arquitetura que vinha sendo usada no computador de desenvolvimento:
+| Arquivo | Destino no jogo | Conteúdo | SHA-256 |
+| --- | --- | --- | --- |
+| `pakchunk0-Windows-ptbr.pak` | `ProjectTT/Saved/PersistentDownloadDir/DownloadContent/pakchunk0-Windows.pak` | PAK principal de 6.749 entradas, contendo o conteúdo-base extraído e as 227 tabelas PT-BR no caminho correto | `91c7e1993d51d36cd028886e75edc529aa6faf477a5a8f31e58347526bfc79b1` |
+| `pakchunk9999-Windows_1_P-ptbr.pak` | `ProjectTT/Content/Paks/pakchunk9999-Windows_1_P.pak` | PAK de patch com as 227 tabelas localizadas | `2711910e4b57b5d57a26d81cdf2d2256cab851b357786fd9ab3ece86de50c197` |
 
-1. `pakchunk0-Windows.pak` substitui o PAK da pasta `Saved/PersistentDownloadDir/DownloadContent`. A cópia preparada inclui a árvore original completa do PAK e as tabelas de localização alteradas.
-2. `pakchunk9999-Windows_1_P.pak` é um PAK adicional com as 227 tabelas localizadas, instalado em `Content/Paks` com sufixo `_P`, que o Unreal usa para dar prioridade a patches.
+O PAK limpo que estava instalado antes da cópia tinha SHA-256 `21f25c29e5c3fd1dd557f6d27252271c42329d4653e5188b0a1b96e5298fe5ec`. Ele foi preservado em `work/backups/reapply-v12-20260927-142909/` junto com um manifesto da instalação. Nenhuma chave foi incluída no repositório.
 
-As mesmas tabelas aparecem nos dois PAKs. Isso foi uma medida para cobrir duas fontes/camadas de conteúdo que já vinham sendo atualizadas separadamente durante os testes anteriores. Ainda não há prova suficiente de que o cliente do jogo sempre carregue ambas essas fontes, nem de qual delas serve cada tela. Não se deve explicar aos jogadores que os dois são indispensáveis até terminar a matriz de testes abaixo.
+## Por que a v12 usa dois arquivos
 
-## Evidências coletadas
+O processo conhecido do projeto prepara um par porque há duas tarefas distintas:
 
-| Teste / evidência | Resultado | O que permite concluir |
-| --- | --- | --- |
-| Instalação sem tradução, com o PAK original restaurado | A tela inicial apareceu em inglês. | A localização vista depois não era uma preferência persistente de idioma do perfil do jogador. |
-| Apenas `pakchunk9999-Windows_1_P.pak` em `Content/Paks` | O jogo iniciou sem erro de índice PAK; a tela inicial apareceu em português. | O índice e o caminho do pacote eram legíveis e ao menos parte das tabelas foi usada. |
-| Mesmo teste, depois de entrar no jogo | A tela de carregamento `Pulsing Ridge` e vários textos de interface continuaram em inglês. | O override isolado não entrega a tradução completa. O teste não prova sozinho se a causa é precedência de conteúdo, carregamento tardio ou strings ainda não traduzidas. |
-| Conteúdo do override | O pacote contém 227 CSVs e a extração conferiu com o snapshot da versão. `ClientString_Name.csv` contém traduções para `DISCONNECTED_PLAY_RESULT`, `DISCONNECTED_PLAY_TIME`, `DISCONNECTED_PLAY_ACQUIRED_EXP`, `DISCONNECTED_PLAY_ACQUIRED_GOLD` e `DISCONNECTED_PLAY_ACQUIRED_ITEM`. | Pelo menos aqueles rótulos em inglês não se explicam por ausência dessas linhas na fonte do patch. Ainda falta provar qual tabela o runtime usou após entrar no mundo. |
-| Fonte de `Loading_Name.csv` | Entradas de `Pulsing Ridge` continuam em inglês. | Parte da tela mostrada na imagem não poderia ficar traduzida com o snapshot atual, mesmo que o PAK certo tivesse sido carregado. É uma lacuna de tradução separada do problema de carregamento. |
-| Texto descritivo da tela de carregamento | A frase exibida na imagem (`A place where you can admire Ridges with bizarre elevations.`) não foi encontrada nos 227 CSVs do snapshot. | A descrição também precisa ser localizada em outro asset/tabela antes de usá-la como teste de precedência. Não está demonstrado ainda se esse texto é extraível/editável pelo método atual. |
-| Inspeção das chaves inglesas de contador | `AUCTION_MENU_LEFTTIME`, `CLAN_EXCHANGE_LEFT_TIME`, `CLAN_RESEARCH_TOGGLE_ACTIVATE_LEFT_TIME`, `COMMON_LEFT` e `COMMON_LEFT_TIME` usam “Tempo/quantidade restante(s)” na fonte v12. | A correção de `left` como tempo restante está presente nos CSVs atuais. As antigas imagens com “à esquerda” vieram de um pacote anterior ou de conteúdo que o override testado não substituiu; só um teste de interface dessas chaves pode determinar qual. |
-| Recursos binários de localização Unreal | `tools/locres_export.py` exporta LocRes UE v0–v3 para CSV/JSON. O arquivo `Game.locres` extraído não contém entradas e o `Engine.locres` analisado não contém os rótulos exatos de modo IA offline. | Os rótulos testados pertencem às tabelas CSV customizadas do jogo, não ao conjunto de strings genéricas de `Engine.locres`. A localização dos textos ausentes da tela de carregamento segue em aberto. |
-| Arquivos do jogo | O jogo possui um PAK em `Saved/PersistentDownloadDir/DownloadContent`, além de PAKs e contêineres IoStore em `Content/Paks`. | Existem diretórios e formatos diferentes a considerar; isto, sozinho, não demonstra a precedência real das tabelas do jogo. |
+1. **PAK principal (`pakchunk0-Windows.pak`)**: substitui o PAK correspondente no diretório `Saved/PersistentDownloadDir/DownloadContent`. É uma cópia do pacote completo do jogo, reconstruída com as tabelas da v12 no caminho `ProjectTT/Content/TT/Data/CSV/L10N/en/`. Tem 6.749 entradas.
+2. **PAK de patch (`pakchunk9999-Windows_1_P.pak`)**: contém apenas as 227 tabelas da tradução, no diretório padrão `Content/Paks`. O sufixo `_P` sinaliza um patch de prioridade alta no carregamento PAK do Unreal.
 
-Os documentos da Unreal explicam que PAKs de patch são montados com prioridade maior e que arquivos em diretórios de busca podem ser montados automaticamente. A documentação também descreve carregamento/montagem assíncrona de chunks. Isso torna plausível que conteúdo carregado depois do menu afete a observação, mas **não comprova** que Architect usa exatamente esse fluxo para estas tabelas: o projeto fonte e os logs detalhados de montagem do jogo não estão disponíveis. [Como criar um patch no Unreal Engine](https://dev.epicgames.com/documentation/unreal-engine/how-to-create-a-patch-platform-agnostic?application_version=4.27), [API de montagem de PAK](https://dev.epicgames.com/documentation/unreal-engine/API/Runtime/PakFile/FPakMountArgs), [ChunkDownloader](https://dev.epicgames.com/documentation/unreal-engine/API/Plugins/ChunkDownloader/FChunkDownloader).
+As mesmas tabelas estão nos dois pacotes: o PAK principal garante que a versão localizada esteja também no conteúdo usado pelo diretório baixado; o segundo oferece um patch pequeno de alta prioridade sobre os dados montados do jogo. A história do projeto também registra casos de tradução parcial quando o PAK principal e o override continham versões diferentes. Por isso, a regra operacional para instalar a v12 completa é copiar os dois arquivos juntos e manter o mesmo snapshot nos dois.
 
-## Testes que faltam para decidir entre um e dois PAKs
+**Correção de escopo do teste anterior:** o ZIP de um único arquivo testado continha somente o override de alta prioridade. Ele traduziu a tela inicial, mas deixou textos em inglês dentro do jogo. Esse teste prova que o override sozinho não equivale à instalação v12 completa. Ele não testou o par e também não testou um PAK único completo no lugar do pacote principal. A conclusão anterior de que aquele teste invalidava a v12 inteira estava errada; a documentação do projeto foi corrigida.
 
-Executar cada caso com cópias limpas e fazer hash antes/depois. Fechar o jogo e o launcher antes de cada troca; restaurar os arquivos originais ao fim. Capturar tela do menu, carregamento e os mesmos textos dentro do mundo.
+## Volume e conteúdo da tradução
 
-| Caso | Arquivo alterado | Pergunta respondida |
-| --- | --- | --- |
-| A | Apenas o PAK completo traduzido no lugar do `pakchunk0-Windows.pak` de `DownloadContent`; nenhum override | O arquivo completo cobre sozinho o menu e o runtime? |
-| B | Apenas o override localizado em `Content/Paks`, com o PAK original limpo em `DownloadContent` | Resultado de referência já observado; repetir com a mesma conta e registrar exatamente quais telas mudam. |
-| C | PAK completo traduzido em `DownloadContent` + override localizado em `Content/Paks` | O par resolve o runtime, ou continua havendo textos ingleses? |
-| D | Apenas um PAK localizado em `DownloadContent`, sem copiar o conteúdo original do jogo | O scanner considera PAK adicional naquele caminho e usa sua tabela? Este teste deve ser feito em ambiente reversível, pois o nome `pakchunk0-Windows.pak` colide com o pacote base. |
+A pasta `translations/v12-corrections/ProjectTT/Content/TT/Data/CSV/L10N/en/` tem 227 CSVs, 128.598 registros, 486.563 células e 368.441 células não vazias. O número de registros é próximo dos “130 mil textos” usados para descrever o projeto. O snapshot v12 preserva o histórico de versões e acrescenta 91 alterações em relação à v11.
 
-Usar como sondas strings exatas que já têm tradução no CSV (`Resultado do modo IA offline`, `Tempo de jogo`, `Recursos obtidos`) e uma tela de carregamento cuja região tenha tradução feita de propósito. Hoje, `Pulsing Ridge` ainda está inglês em `Loading_Name.csv`, então essa string não serve para decidir precedência até que a fonte seja corrigida. Registrar se o idioma se altera após login, troca de mapa e reinício. Se o caso A já traduzir as interfaces após entrar no mundo, um arquivo pode bastar para distribuição, embora o pacote tenha 77 MB e contenha o conteúdo completo do jogo. Se só C funcionar, são necessários dois arquivos, ou uma forma segura de combinar os dois conteúdos num único PAK.
+Auditoria da v12 contra a extração original: 227 tabelas, zero tabelas/IDs ausentes ou novos, zero traduções vazias em campos originais não vazios, zero divergências de placeholders/tags, zero alterações nos nomes/templates/parâmetros de títulos de itens e zero menções detectadas de `Giant's Tower` traduzidas. A auditoria identificou dez contextos de `left` para revisão manual; contadores como `AUCTION_MENU_LEFTTIME`, `CLAN_EXCHANGE_LEFT_TIME`, `CLAN_RESEARCH_TOGGLE_ACTIVATE_LEFT_TIME`, `COMMON_LEFT` e `COMMON_LEFT_TIME` estão em português com “restante(s)”.
 
-## O que não fazer
+Uma tela ainda em inglês não significa automaticamente que o PAK não carregou: a imagem de loading de `Pulsing Ridge` usa uma descrição que não aparece nos 227 CSVs atuais, e o próprio nome de área permanece em inglês no snapshot. Isso é uma tarefa de localização separada. Em contraste, rótulos de interface de modo IA têm traduções presentes em `ClientString_Name.csv`.
 
-- Não publicar o ZIP experimental `Architect-PTBR-v12-beta.zip` como tradução completa. Foi retirado da pasta pública de releases; a cópia de trabalho original permanece em `outputs` para análise.
-- Não distribuir o PAK completo de 77 MB sem antes revisar os direitos e o conteúdo: ele inclui milhares de arquivos originais do jogo, além das tabelas alteradas.
-- Não substituir o PAK original do jogador durante a investigação sem backup verificável e plano de restauração.
-- Não publicar a chave AES. Ela só serve às tarefas de manutenção do PAK e permanece em `work/.architect-aes-key`, fora do repositório.
-- Não considerar “o jogo abriu sem crash” como validação da tradução. Isso só confirma que o caso testado não falhou ao iniciar.
+## Formato validado dos PAKs v12
 
-## Regra para a próxima distribuição
+Ambos são Unreal PAK V11 com índice criptografado, mount point `../../../` e seed `E92532A4`. O principal usa Zlib e 6.749 entradas; o override não comprime as entradas e contém 227. Os dois foram abertos por `repak_cli 0.2.3` com a chave local, e os CSVs extraídos do override coincidiram byte a byte com os 227 CSVs do snapshot.
 
-Só oferecer instruções de instalação quando o pacote resultante passar pelos casos mínimos de carregamento, contiver uma tradução para as sondas de menu, carregamento e partida, e tiver sido removido/restaurado com sucesso. Até lá, a página de instalação informa claramente que nenhum download está pronto.
+O Unreal documenta o uso de PAKs de patch montados com prioridade maior e carregamento de conteúdo em chunks; isso é compatível com o par empregado aqui, mas a confirmação desta implementação específica vem dos caminhos e dos testes do projeto. [Como criar um patch no Unreal Engine](https://dev.epicgames.com/documentation/unreal-engine/how-to-create-a-patch-platform-agnostic?application_version=4.27), [argumentos de montagem de PAK](https://dev.epicgames.com/documentation/unreal-engine/API/Runtime/PakFile/FPakMountArgs).
+
+## Processo melhorado para manter o par
+
+`tools/build_translation_paks.ps1` agora usa a v12, a árvore completa extraída e a pasta de saída da versão como padrões. Ele empacota ambos com a mesma fonte de CSV, verifica os índices usando a chave local e grava em `../outputs/v12-corrections/`.
+
+```powershell
+pwsh -File tools/build_translation_paks.ps1
+```
+
+`tools/install_translation.ps1` agora pré-confere as duas fontes e os destinos, guarda backup verificado de ambos os PAKs existentes, prepara e confere as cópias temporárias antes de substituir arquivos, aplica o par e grava um `install-manifest.json`. Se uma substituição falhar, tenta restaurar o par anterior; o manifesto registra sucesso ou falha da restauração.
+
+```powershell
+pwsh -File tools/install_translation.ps1
+```
+
+O script bloqueia a instalação se Architect, ProjectTT ou DRIMAGE estiverem ativos. Para atualizar o jogo, extrair novas tabelas, comparar IDs, mesclar traduções e auditar, consulte `docs/TECHNICAL_PROCESS.md`.
+
+## Distribuição ao jogador
+
+O PAK principal tem 77 MB e contém milhares de arquivos do próprio jogo; não o publique como download da tradução. O override de 12 MB é somente um dos dois arquivos do procedimento comprovado, portanto também não deve ser oferecido como pacote completo. O repositório mantém os CSVs e as ferramentas de manutenção; a página de instalação não aponta um download até haver um pacote que possa ser distribuído e instalado em uma instalação limpa sem compartilhar os arquivos originais do jogo.
+
+Uma futura opção de um arquivo deve ser tratada como uma nova hipótese de empacotamento e testada separadamente. Qualquer teste deve distinguir: override sozinho em `Content/Paks`; PAK principal sozinho em `DownloadContent`; par completo. Não misture resultados desses três casos.
