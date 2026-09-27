@@ -1,7 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;
-500;
-600;
-700&family=Marcellus&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Marcellus&display=swap');
 
 :root{
 --bg:#111723;
@@ -509,6 +506,121 @@ color:var(--gold)}
 :focus-visible{
 outline:2px solid var(--gold);
 outline-offset:3px}
+.feedback-section{
+background:linear-gradient(135deg,#283443,#141d2b 62%);
+border-block:1px solid #e1bc7860}
+.feedback-layout{
+display:grid;
+grid-template-columns:minmax(0,1fr) minmax(360px,1fr);
+gap:clamp(28px,5vw,80px);
+align-items:center}
+.feedback-layout h2{
+font:clamp(35px,4vw,56px)/1.12 Marcellus,Georgia,serif;
+margin:12px 0 24px}
+.feedback-layout h2 em{
+color:var(--gold);
+font-style:normal}
+.feedback-layout p{
+color:var(--muted);
+max-width:540px}
+.feedback-layout .small,.contact-card .small{
+font-size:13px;
+color:var(--muted)}
+.feedback-form,.private-form{
+display:grid;
+gap:11px;
+padding:clamp(20px,3vw,34px);
+background:#101824;
+border:1px solid #e1bc7860;
+box-shadow:0 24px 60px #0005}
+.feedback-form label,.private-form label{
+font-size:13px;
+font-weight:700;
+color:var(--gold)}
+.feedback-form input,.feedback-form textarea,.feedback-form select,.private-form input,.private-form textarea,.private-form select{
+width:100%;
+background:#25303f;
+border:1px solid #ffffff48;
+border-radius:3px;
+padding:12px 14px;
+color:var(--text);
+font:inherit}
+.feedback-form textarea,.private-form textarea{
+resize:vertical;
+min-height:125px}
+.feedback-form .button,.private-form .button{
+margin-top:10px;
+justify-content:center}
+.contact-hero{
+padding:100px 0 88px;
+background:linear-gradient(90deg,#111723f5,#111723bd),url('images/lena-dialogo.webp') center 40%/cover;
+border-bottom:1px solid var(--line)}
+.contact-hero h1{
+font:clamp(44px,6vw,76px)/1.08 Marcellus,Georgia,serif;
+margin:12px 0 20px}
+.contact-hero p:last-child{
+font-size:19px;
+color:var(--muted);
+max-width:680px}
+.contact-grid{
+display:grid;
+grid-template-columns:repeat(3,minmax(0,1fr));
+gap:20px}
+.contact-card{
+display:flex;
+flex-direction:column;
+align-items:flex-start;
+gap:14px;
+background:var(--panel);
+border:1px solid var(--line);
+padding:30px}
+.contact-card>span{
+color:var(--gold);
+font-size:11px;
+font-weight:700;
+letter-spacing:.16em}
+.contact-card h2{
+font:28px Marcellus,Georgia,serif;
+margin:0}
+.contact-card p{
+color:var(--muted);
+margin:0}
+.contact-card .button{
+margin-top:auto}
+.contact-card .text-link{
+color:var(--gold);
+font-size:13px}
+.institutional{
+border-top:1px solid var(--line)}
+.institutional h2,.private-contact h2{
+font:clamp(34px,4vw,50px) Marcellus,Georgia,serif;
+margin:10px 0 18px}
+.institutional>p:not(.eyebrow),.private-contact>p:not(.eyebrow){
+max-width:850px;
+color:var(--muted)}
+.private-contact{
+border-top:1px solid var(--line)}
+.private-form{
+max-width:680px;
+margin-top:25px}
+.form-status{
+min-height:22px;
+margin:0;
+font-size:14px}
+.form-status.error{
+color:#ffb5a9}
+.form-status.success{
+color:#a7e0b2}
+.private-form .honeypot{
+position:absolute;
+left:-10000px;
+width:1px;
+height:1px;
+opacity:0;
+pointer-events:none}
+.private-form button:disabled{
+opacity:.65;
+cursor:wait}
 @media(max-width:900px){
 .topbar{
 display:block}
@@ -520,12 +632,21 @@ grid-template-columns:repeat(2,1fr)}
 grid-template-columns:1fr}
 .gallery,.guide-grid{
 grid-template-columns:repeat(2,1fr)}
+.feedback-layout,.contact-grid{
+grid-template-columns:1fr}
 }
 @media(max-width:620px){
 .wrap{
 width:min(100% - 28px,var(--max))}
 .topbar{
 padding:12px 14px}
+.topbar nav{
+flex-wrap:wrap;
+overflow:visible;
+gap:2px}
+.topbar nav a{
+padding:7px 9px;
+font-size:12px}
 .hero{
 min-height:600px}
 .hero-inner{
@@ -555,4 +676,3 @@ margin-top:14px}
 .footer-inner>div:last-child{
 margin-top:25px}
 }
-

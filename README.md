@@ -14,9 +14,12 @@ Guia completo, com o que acontece no seu computador e como remover: [docs/INSTAL
 
 Se você prefere não executar scripts, o guia mostra como **copiar o PAK manualmente**. A [wiki pública e página da tradução](site/) ficam na pasta `site/`, pronta para publicação na Vercel.
 
+- [Abrir o site Architect Atlas](https://architect-br.vercel.app/) · [enviar feedback](https://architect-br.vercel.app/#feedback) · [contato e parcerias](https://architect-br.vercel.app/contato)
+- [Baixar a versão v13](https://github.com/jackchakkal/architectlandofexiles_BR/releases/tag/v13)
+
 - **O que exatamente o instalador faz** (transparência total): [docs/TRANSPARENCIA.md](docs/TRANSPARENCIA.md)
 - **O que está e o que não está traduzido**: [docs/CONTEUDO-DA-TRADUCAO.md](docs/CONTEUDO-DA-TRADUCAO.md)
-- Erros de tradução, texto cortado, sugestões: abra uma *Issue* com uma captura de tela.
+- Erros de tradução, texto cortado, sugestões: use o [formulário do site](https://architect-br.vercel.app/#feedback) ou abra uma *Issue* com uma captura de tela.
 
 ## Como funciona
 
@@ -24,7 +27,7 @@ A tradução é um único arquivo de ~12 MB (`pakchunk9999-Windows_21474835_P.pa
 
 ## Para colaboradores e mantenedores
 
-- Snapshot publicado: [`translations/v12-corrections/`](translations/v12-corrections/). Em preparação: [`translations/v13/`](translations/v13/) (correções de textos que estouravam a tela).
+- Snapshots publicados: [`translations/v12-corrections/`](translations/v12-corrections/) e [`translations/v13/`](translations/v13/) (correções de textos que estouravam a tela).
 - Cada versão tem pasta própria e imutável; as diferenças ficam em `changes/`.
 - Regras de tradução e glossário: [docs/GLOSSARIO-E-REGRAS.md](docs/GLOSSARIO-E-REGRAS.md).
 - Processo técnico (extração, comparação após atualização do jogo, auditoria, build do PAK): [docs/TECHNICAL_PROCESS.md](docs/TECHNICAL_PROCESS.md).
@@ -33,3 +36,11 @@ A tradução é um único arquivo de ~12 MB (`pakchunk9999-Windows_21474835_P.pa
 Nomes próprios de itens, monstros, NPCs, chefes e masmorras permanecem no idioma original de propósito (busca no Marketplace e comunicação com outros jogadores). `Giant's Tower`, `Skill` e `Codex` também permanecem em inglês.
 
 A chave AES do jogo, necessária para gerar o PAK, é segredo de mantenedor e nunca entra neste repositório.
+
+## Contato e independência
+
+Consulte [CONTACT.md](CONTACT.md) para sugestões, colaboração, pedidos de revisão ou remoção e propostas institucionais. Mensagens em Issues são públicas; o site identifica claramente o canal disponível.
+
+Projeto independente feito por fã. A wiki e a tradução não são oficiais e não têm relação, aprovação ou suporte da desenvolvedora, da editora ou de qualquer empresa responsável por Architect: Land of Exiles.
+
+Independent fan project. This wiki and translation are unofficial and are not affiliated with, endorsed by, or supported by the game developer, publisher, or any company responsible for Architect: Land of Exiles.

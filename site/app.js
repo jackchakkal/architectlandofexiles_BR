@@ -5,11 +5,26 @@
     ['lena-dialogo','Diálogo com Lena','Diálogos'],['comissao','Comissão diária','Missões'],['barreira','Barreira Temporal','Sistemas'],
     ['offline-ia','Resultado do modo IA offline','Sistemas'],['carregamento','Tela de carregamento','Exploração'],['rift','Rift e chefe Kubaba','Masmorras'],
     ['classe','Tela de classe Assassin','Classes'],['skills','Painel de Skill','Skills'],['cla','Doação ao clã','Clã'],
-    ['mapa','Mapa e chefe Karugura','Exploração'],['atributos','Atributos do personagem','Personagem'],['derrota','Tela de derrota','Combate'],['objetivo','Objetivo de masmorra','Tutoriais']
+    ['mapa','Mapa e chefe Karugura','Exploração'],['atributos','Atributos do personagem','Personagem'],['derrota','Tela de derrota','Combate'],['objetivo','Objetivo de masmorra','Tutoriais'],
+    ['configuracoes-graficos','Configurações de gráficos','Configurações'],['configuracoes-otimizacao','Configurações de otimização','Configurações']
   ];
   const galleryHost = document.getElementById('gallery');
   galleryHost.innerHTML = gallery.map(([file,title,category]) => `<button class="gallery-item" type="button" data-file="${file}" data-title="${esc(title)}"><img src="images/${file}.webp" alt="${esc(title)}" loading="lazy"><span><small>${esc(category)}</small><strong>${esc(title)}</strong></span></button>`).join('');
   const imageDialog = document.getElementById('image-dialog');
+  const feedbackForm = document.getElementById('feedback-form');
+  feedbackForm.addEventListener('submit', event => {
+    event.preventDefault();
+    const type = document.getElementById('feedback-type').value;
+    const screen = document.getElementById('feedback-screen').value.trim();
+    const message = document.getElementById('feedback-message').value.trim();
+    if (!screen || message.length < 10) { feedbackForm.reportValidity(); return; }
+    const title = `[${type}] ${screen}`;
+    const body = `**Tipo:** ${type}\n**Tela/local:** ${screen}\n\n**Relato e sugestão:**\n${message}\n\n**Captura de tela:** anexe no editor do GitHub antes de publicar.\n\n**Versão do jogo e da tradução:** preencha, se souber.`;
+    const url = new URL('https://github.com/jackchakkal/architectlandofexiles_BR/issues/new');
+    url.searchParams.set('title', title);
+    url.searchParams.set('body', body);
+    window.open(url.toString(), '_blank', 'noopener,noreferrer');
+  });
   galleryHost.addEventListener('click', event => {
     const button = event.target.closest('[data-file]');
     if (!button) return;

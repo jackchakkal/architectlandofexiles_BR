@@ -13,7 +13,7 @@
   <header class="topbar">
     <a class="brand" href="#inicio" aria-label="Architect Atlas, início"><span class="brand-mark">A</span><span>ARCHITECT <strong>ATLAS</strong><small>WIKI COMUNITÁRIA PT-BR</small></span></a>
     <nav aria-label="Navegação principal">
-      <a href="#inicio">Início</a><a href="#guias">Guias</a><a class="nav-translation" href="#traducao">Tradução</a><a href="#galeria">Galeria</a><a href="#transparencia">Transparência</a>
+      <a href="#inicio">Início</a><a href="#guias">Guias</a><a class="nav-translation" href="#traducao">Tradução</a><a href="#galeria">Galeria</a><a href="#feedback">Feedback</a><a href="contato.html">Contato</a><a href="#transparencia">Transparência</a>
     </nav>
   </header>
   <main id="conteudo">
@@ -52,6 +52,18 @@
       <p class="notice">Tradução não oficial para um jogo online. Atualizações podem exigir uma versão nova; o uso de modificações é decisão do jogador e está sujeito às regras do jogo. Algumas telas ainda podem ter textos cortados ou trechos em inglês. <a href="https://github.com/jackchakkal/architectlandofexiles_BR/issues" target="_blank" rel="noopener noreferrer">Envie uma captura para ajudar a corrigir ↗</a></p>
     </section>
 
+    <section class="feedback-section section" id="feedback">
+      <div class="wrap feedback-layout">
+        <div><p class="eyebrow">SUA EXPERIÊNCIA IMPORTA</p><h2>Encontrou um erro?<br><em>Ajude a melhorar.</em></h2><p>Conte o que apareceu na tela, sugira uma tradução melhor ou diga onde o texto ficou cortado. Seu relato ajuda a preparar a próxima versão para todos.</p><p class="small">Este formulário prepara uma Issue no GitHub. Você verá o texto antes de publicar e poderá anexar uma captura lá. É preciso entrar em uma conta GitHub para enviar.</p></div>
+        <form id="feedback-form" class="feedback-form">
+          <label for="feedback-type">Tipo de comentário</label><select id="feedback-type" required><option>Erro de tradução</option><option>Texto cortado</option><option>Texto ainda em inglês</option><option>Sugestão de melhoria</option><option>Problema na instalação</option></select>
+          <label for="feedback-screen">Onde apareceu?</label><input id="feedback-screen" type="text" maxlength="160" placeholder="Ex.: tela de missão, item ou NPC" required>
+          <label for="feedback-message">O que aconteceu? Qual texto você sugere?</label><textarea id="feedback-message" rows="5" minlength="10" maxlength="5000" placeholder="Descreva o texto atual e, se souber, uma versão melhor." required></textarea>
+          <button class="button primary" type="submit">Continuar no GitHub <span>↗</span></button>
+        </form>
+      </div>
+    </section>
+
     <section class="section gallery-section" id="galeria">
       <div class="wrap"><div class="section-head"><p class="eyebrow">DENTRO DO JOGO</p><h2>Veja a tradução em ação.</h2><p>Capturas enviadas pela comunidade. Clique para ampliar e conferir diálogos, guias, missões, mapas e sistemas.</p></div><div class="gallery" id="gallery"></div></div>
     </section>
@@ -74,7 +86,7 @@
       </div>
     </section>
   </main>
-  <footer><div class="wrap footer-inner"><div><strong>ARCHITECT ATLAS</strong><p>Projeto independente feito por fã. A wiki e a tradução não são oficiais e não têm relação, aprovação ou suporte da desenvolvedora, da editora ou de qualquer empresa responsável por Architect: Land of Exiles.</p><p lang="en">Independent fan project. This wiki and translation are unofficial and are not affiliated with, endorsed by, or supported by the game developer, publisher, or any company responsible for Architect: Land of Exiles.</p><small>Nomes, personagens e imagens do jogo pertencem aos respectivos titulares e aparecem aqui para ilustrar o projeto de fãs.</small></div><div><a href="https://github.com/jackchakkal/architectlandofexiles_BR" target="_blank" rel="noopener noreferrer">Projeto no GitHub</a><a href="https://github.com/jackchakkal/architectlandofexiles_BR/issues" target="_blank" rel="noopener noreferrer">Reportar um problema</a><a href="#inicio">Voltar ao topo ↑</a></div></div></footer>
+  <footer><div class="wrap footer-inner"><div><strong>ARCHITECT ATLAS</strong><p>Projeto independente feito por fã. A wiki e a tradução não são oficiais e não têm relação, aprovação ou suporte da desenvolvedora, da editora ou de qualquer empresa responsável por Architect: Land of Exiles.</p><p lang="en">Independent fan project. This wiki and translation are unofficial and are not affiliated with, endorsed by, or supported by the game developer, publisher, or any company responsible for Architect: Land of Exiles.</p><small>Nomes, personagens e imagens do jogo pertencem aos respectivos titulares e aparecem aqui para ilustrar o projeto de fãs.</small></div><div><a href="contato.html">Contato e parcerias</a><a href="https://github.com/jackchakkal/architectlandofexiles_BR" target="_blank" rel="noopener noreferrer">Projeto no GitHub</a><a href="https://github.com/jackchakkal/architectlandofexiles_BR/issues" target="_blank" rel="noopener noreferrer">Reportar um problema</a><a href="#inicio">Voltar ao topo ↑</a></div></div></footer>
   <dialog id="image-dialog" class="image-dialog"><button id="close-image" type="button" aria-label="Fechar imagem">×</button><img alt=""><p></p></dialog>
   <dialog id="guide-dialog" class="guide-dialog"><button id="close-guide" type="button" aria-label="Fechar guia">×</button><div id="guide-detail"></div></dialog>
   <script src="guides.js"></script><script src="app.js"></script>
