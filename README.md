@@ -1,46 +1,95 @@
-# Architect: Land of Exiles — Tradução para português do Brasil
+<h1 align="center">Architect: Land of Exiles em português do Brasil</h1>
 
-Tradução comunitária, não oficial, dos textos do jogo **Architect: Land of Exiles** (PC) para PT-BR. Cobre interface, missões, diálogos, tutoriais, descrições de itens, Skills, efeitos e conquistas — cerca de 133 mil células de texto em 227 tabelas.
+<p align="center"><strong>Tradução de fãs para explorar, lutar e acompanhar a história entendendo o que aparece na tela.</strong></p>
 
-> Este projeto não tem vínculo com a desenvolvedora nem com a publisher do jogo. Os textos originais pertencem aos seus detentores; aqui estão apenas as traduções e as ferramentas para aplicá-las.
+<p align="center"><strong>137.224 células de texto traduzidas</strong> · <strong>227 tabelas</strong> · <strong>um arquivo de tradução de ~12 MB</strong></p>
 
-## Quero jogar em português
+<p align="center"><a href="https://github.com/jackchakkal/architectlandofexiles_BR/releases/download/v13/Architect-PTBR-v13.zip"><strong>⬇️ Baixar a tradução v13</strong></a> · <a href="https://architect-br.vercel.app/"><strong>🌐 Conhecer o site e a wiki</strong></a> · <a href="docs/INSTALACAO-PARA-JOGADORES.md"><strong>📖 Guia de instalação</strong></a></p>
 
-1. Baixe o ZIP da versão mais recente na página de **Releases** deste repositório.
-2. Extraia o ZIP inteiro e execute `Instalar-Traducao-PTBR.bat`.
-3. Abra o jogo. No seletor de idioma, a opção **Português (Brasil)** substitui "English".
+<p align="center">Tradução comunitária para a versão <strong>Windows do launcher oficial</strong>. Projeto independente, não oficial e feito por fã.</p>
 
-Guia completo, com o que acontece no seu computador e como remover: [docs/INSTALACAO-PARA-JOGADORES.md](docs/INSTALACAO-PARA-JOGADORES.md).
+<p align="center"><a href="https://architect-br.vercel.app/#galeria"><img src="site/images/lena-dialogo.webp" alt="Diálogo com Lena exibido em português no jogo" width="900"></a><br><sub>Diálogo com Lena em português. Clique para abrir a galeria no site.</sub></p>
 
-Se você prefere não executar scripts, o guia mostra como **copiar o PAK manualmente**. A [wiki pública e página da tradução](site/) ficam na pasta `site/`, pronta para publicação na Vercel.
+## O mundo do jogo, agora mais fácil de acompanhar
 
-- [Abrir o site Architect Atlas](https://architect-br.vercel.app/) · [enviar feedback](https://architect-br.vercel.app/#feedback) · [contato e parcerias](https://architect-br.vercel.app/contato)
-- [Baixar a versão v13](https://github.com/jackchakkal/architectlandofexiles_BR/releases/tag/v13)
+Missões, diálogos, objetivos, tutoriais, descrições e boa parte da interface podem ser lidos em português do Brasil. A tradução foi construída sobre **128.598 registros em 227 tabelas de texto**, com **137.224 células traduzidas** na versão v13. O pacote para jogadores vem em um ZIP de cerca de **1,7 MB**; depois de extraído, o arquivo PAK de tradução tem cerca de **12 MB**.
 
-- **O que exatamente o instalador faz** (transparência total): [docs/TRANSPARENCIA.md](docs/TRANSPARENCIA.md)
-- **O que está e o que não está traduzido**: [docs/CONTEUDO-DA-TRADUCAO.md](docs/CONTEUDO-DA-TRADUCAO.md)
-- Erros de tradução, texto cortado, sugestões: use o [formulário do site](https://architect-br.vercel.app/#feedback) ou abra uma *Issue* com uma captura de tela.
+| Área | O que você encontra em português |
+| --- | --- |
+| **História e missões** | Títulos, descrições, objetivos, etapas, respostas de diálogo e falas de NPCs. |
+| **Interface e orientação** | Menus, botões, avisos, resultados, telas de carregamento, interações e parte das configurações. |
+| **Personagem e combate** | Atributos, explicações de Skills, efeitos, buffs, debuffs, morte e progressão. |
+| **Exploração e atividades** | Mapas, masmorras, Rift, comissões, clã, tutoriais e descrições de conteúdo. |
+| **Itens e recompensas** | Descrições de itens, trajes, lojas, coleções e conquistas. |
 
-## Como funciona
+Veja a [lista detalhada de cobertura e limitações](docs/CONTEUDO-DA-TRADUCAO.md). A v13 corrigiu rótulos que estouravam a interface e traduziu mais de quatro mil células que ainda estavam em inglês. A tradução continua recebendo correções com base nas telas enviadas pelos jogadores.
 
-A tradução é um único arquivo de ~12 MB (`pakchunk9999-Windows_21474835_P.pak`) copiado para `ProjectTT\Content\Paks\` dentro da pasta do jogo. Ele contém somente as 227 tabelas de texto traduzidas e é carregado pelo Unreal Engine com prioridade sobre as tabelas originais. Nenhum arquivo do jogo é modificado; remover a tradução é apagar esse arquivo. Detalhes: [docs/COMO-A-TRADUCAO-E-CARREGADA.md](docs/COMO-A-TRADUCAO-E-CARREGADA.md).
+## Veja a tradução dentro do jogo
 
-## Para colaboradores e mantenedores
+As 15 imagens abaixo são capturas reais do projeto. Elas mostram tanto a abrangência da tradução quanto pontos ainda em revisão, como trechos cortados ou nomes mantidos no idioma original. Clique em qualquer imagem para ampliá-la no GitHub ou visite a [galeria interativa do site](https://architect-br.vercel.app/#galeria).
 
-- Snapshots publicados: [`translations/v12-corrections/`](translations/v12-corrections/) e [`translations/v13/`](translations/v13/) (correções de textos que estouravam a tela).
-- Cada versão tem pasta própria e imutável; as diferenças ficam em `changes/`.
-- Regras de tradução e glossário: [docs/GLOSSARIO-E-REGRAS.md](docs/GLOSSARIO-E-REGRAS.md).
-- Processo técnico (extração, comparação após atualização do jogo, auditoria, build do PAK): [docs/TECHNICAL_PROCESS.md](docs/TECHNICAL_PROCESS.md).
-- Auditoria reproduzível: [`docs/AUDIT-v12.json`](docs/AUDIT-v12.json); resumo em [`releases/`](releases/).
+### História, missões e exploração
 
-Nomes próprios de itens, monstros, NPCs, chefes e masmorras permanecem no idioma original de propósito (busca no Marketplace e comunicação com outros jogadores). `Giant's Tower`, `Skill` e `Codex` também permanecem em inglês.
+| | |
+| --- | --- |
+| <a href="site/images/carregamento.webp"><img src="site/images/carregamento.webp" alt="Tela de carregamento com descrição em português" width="440"></a><br><sub>Descrição do mundo na tela de carregamento.</sub> | <a href="site/images/comissao.webp"><img src="site/images/comissao.webp" alt="Comissão diária e objetivos em português" width="440"></a><br><sub>Comissões, objetivos e recompensas.</sub> |
+| <a href="site/images/mapa.webp"><img src="site/images/mapa.webp" alt="Mapa com descrição de chefe traduzida" width="440"></a><br><sub>Mapa e descrição de chefe.</sub> | <a href="site/images/objetivo.webp"><img src="site/images/objetivo.webp" alt="Objetivo de masmorra em português" width="440"></a><br><sub>Objetivo de masmorra.</sub> |
 
-A chave AES do jogo, necessária para gerar o PAK, é segredo de mantenedor e nunca entra neste repositório.
+### Atividades e sistemas
 
-## Contato e independência
+| | |
+| --- | --- |
+| <a href="site/images/offline-ia.webp"><img src="site/images/offline-ia.webp" alt="Resultado do modo IA offline em português" width="440"></a><br><sub>Resultado do modo IA offline.</sub> | <a href="site/images/rift.webp"><img src="site/images/rift.webp" alt="Rift e descrição de chefe em português" width="440"></a><br><sub>Rift, chefe e recompensas.</sub> |
+| <a href="site/images/barreira.webp"><img src="site/images/barreira.webp" alt="Barreira Temporal com explicação traduzida" width="440"></a><br><sub>Barreira Temporal.</sub> | <a href="site/images/cla.webp"><img src="site/images/cla.webp" alt="Tela de clã e doação em português" width="440"></a><br><sub>Clã e doação.</sub> |
 
-Consulte [CONTACT.md](CONTACT.md) para sugestões, colaboração, pedidos de revisão ou remoção e propostas institucionais. Mensagens em Issues são públicas; o site identifica claramente o canal disponível.
+### Personagem, combate e progressão
 
-Projeto independente feito por fã. A wiki e a tradução não são oficiais e não têm relação, aprovação ou suporte da desenvolvedora, da editora ou de qualquer empresa responsável por Architect: Land of Exiles.
+| | |
+| --- | --- |
+| <a href="site/images/classe.webp"><img src="site/images/classe.webp" alt="Tela da classe Assassin com descrição traduzida" width="440"></a><br><sub>Descrição da classe Assassin.</sub> | <a href="site/images/skills.webp"><img src="site/images/skills.webp" alt="Painel de Skill com descrição em português" width="440"></a><br><sub>Explicações de Skill.</sub> |
+| <a href="site/images/atributos.webp"><img src="site/images/atributos.webp" alt="Atributos do personagem em português" width="440"></a><br><sub>Atributos e explicação de estatísticas.</sub> | <a href="site/images/derrota.webp"><img src="site/images/derrota.webp" alt="Tela de derrota em português" width="440"></a><br><sub>Tela de derrota e orientação ao jogador.</sub> |
 
-Independent fan project. This wiki and translation are unofficial and are not affiliated with, endorsed by, or supported by the game developer, publisher, or any company responsible for Architect: Land of Exiles.
+### Configurações e opções
+
+| | |
+| --- | --- |
+| <a href="site/images/configuracoes-graficos.webp"><img src="site/images/configuracoes-graficos.webp" alt="Configurações gráficas em português" width="440"></a><br><sub>Gráficos, tela e renderização.</sub> | <a href="site/images/configuracoes-otimizacao.webp"><img src="site/images/configuracoes-otimizacao.webp" alt="Configurações de otimização em português" width="440"></a><br><sub>Otimização. Alguns rótulos ainda precisam de ajustes.</sub> |
+
+## Instale e jogue em português
+
+1. [**Baixe o ZIP da v13**](https://github.com/jackchakkal/architectlandofexiles_BR/releases/download/v13/Architect-PTBR-v13.zip) e extraia todos os arquivos.
+2. Feche o jogo e o launcher. Execute **`Instalar-Traducao-PTBR.bat`** na pasta extraída.
+3. Abra o jogo e selecione **Português (Brasil)** no lugar da opção “English”.
+
+O instalador localiza o jogo, confere o hash do arquivo e copia **um PAK de texto** para `ProjectTT\Content\Paks\`. Os arquivos originais do jogo ficam no lugar. O ZIP inclui um desinstalador; você também pode [instalar e remover manualmente, sem executar scripts](docs/INSTALACAO-PARA-JOGADORES.md#instalação-manual-sem-executar-scripts).
+
+| Quer conferir antes de instalar? | Acesso direto |
+| --- | --- |
+| Ler exatamente o que o instalador faz | [Explicação simples](docs/TRANSPARENCIA.md) · [Código do instalador](tools/player-installer/install.ps1) |
+| Conferir a versão e a integridade | [Manifesto v13 e hashes SHA-256](releases/v13/manifest.json) |
+| Ver os textos e propor correções | [Tabelas traduzidas da v13](translations/v13/) · [Glossário e regras](docs/GLOSSARIO-E-REGRAS.md) |
+| Entender por que o arquivo funciona | [Como o jogo carrega a tradução](docs/COMO-A-TRADUCAO-E-CARREGADA.md) |
+
+**Compatibilidade:** versão Windows do launcher oficial. Uma atualização do jogo pode exigir nova versão da tradução. Como o jogo é online e usa anticheat, o uso de modificações fica sujeito às regras do serviço; leia os [cuidados antes de instalar](docs/INSTALACAO-PARA-JOGADORES.md#antes-de-começar).
+
+## O que permanece em inglês?
+
+Alguns nomes de **itens, monstros, chefes, NPCs, áreas e masmorras** foram preservados para facilitar a busca no Marketplace e a conversa com jogadores de outras regiões. As descrições podem estar traduzidas mesmo quando o nome permanece original. Termos como `Skill`, `Codex` e `Giant's Tower` também são mantidos.
+
+Textos enviados prontos pelo servidor, textos gravados em imagens e alguns conteúdos fora das tabelas CSV não são alterados por este pacote. Também podem surgir textos novos ou rótulos cortados após atualizações. A [cobertura detalhada](docs/CONTEUDO-DA-TRADUCAO.md) explica esses casos sem prometer tradução total de cada tela.
+
+## Conheça o Architect Atlas
+
+**[Acesse architect-br.vercel.app](https://architect-br.vercel.app/)** para explorar a wiki em português, pesquisar **76 guias**, ampliar as capturas de tela, consultar a página da tradução e entender cada etapa da instalação. O site reúne também [transparência sobre os arquivos](https://architect-br.vercel.app/#transparencia), [feedback sobre a tradução](https://architect-br.vercel.app/#feedback) e um [canal privado de contato](https://architect-br.vercel.app/contato) para colaboração, parcerias ou pedidos de revisão e remoção.
+
+> **Sua experiência ajuda a próxima versão.** Encontrou uma frase estranha, uma opção cortada ou um trecho em inglês? [Envie uma sugestão pelo site](https://architect-br.vercel.app/#feedback) ou [abra uma Issue](https://github.com/jackchakkal/architectlandofexiles_BR/issues) com a tela e, se possível, uma captura. Para mensagens que não devem ser públicas, use a [página de contato](https://architect-br.vercel.app/contato).
+
+## Para quem quer colaborar
+
+As tabelas publicadas em [`translations/v13/`](translations/v13/) podem ser revisadas por qualquer pessoa. As versões preservam seus próprios snapshots; alterações ficam documentadas em [`changes/`](changes/). O [processo técnico](docs/TECHNICAL_PROCESS.md) descreve extração, comparação depois de atualizações, auditoria e criação do PAK. A chave AES usada na manutenção do pacote não é publicada neste repositório.
+
+## Projeto de fãs, sem vínculo oficial
+
+Este é um **trabalho independente feito por fã**. A tradução, a wiki e o site não são oficiais e não têm relação, aprovação ou suporte da desenvolvedora, da editora ou de qualquer empresa responsável por *Architect: Land of Exiles*. Nomes, personagens e imagens do jogo pertencem aos respectivos titulares e aparecem aqui para apresentar e documentar o projeto comunitário. Para questões de direitos, revisão ou remoção, use o [contato privado](https://architect-br.vercel.app/contato#mensagem-privada).
+
+**English:** Independent fan project. This translation, wiki, and website are unofficial and are not affiliated with, endorsed by, or supported by the game developer, publisher, or any company responsible for *Architect: Land of Exiles*. Game names, characters, and images belong to their respective rights holders. For rights inquiries or removal requests, use the [private contact form](https://architect-br.vercel.app/contato#mensagem-privada).
