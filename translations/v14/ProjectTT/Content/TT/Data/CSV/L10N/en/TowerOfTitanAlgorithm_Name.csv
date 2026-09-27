@@ -1,0 +1,61 @@
+﻿Id,AlgorithmName,AlgorithmDesc,DetailDesc
+1,Restaurar a tocha de Ashur,A tocha de Ashur será reiniciada em 5 minutos e retornará ao seu local original.,
+2,Banimento,"Todos os usuários, exceto os membros do clã governante, serão removidos do lobby após 5 minutos.",
+3,Despertando a Legião da Besta,Monstros adicionais aparecerão em todos os reinos do andar atual.,
+5,Sereno Tributo,"Uma parte do ouro obtido pelos aventureiros, exceto os membros do Clã Governante, será coletada no andar atual.","5% do ouro obtido por aventureiros que não sejam do Clã Governante será recolhido.
+Quando o ouro recolhido chegar a 10.000, ele se transformará em um Gold Dust Pouch.
+O Gold Dust Pouch será enviado ao Cofre do Clã no fim do Algoritmo."
+6,Autoridade do árbitro: Crescimento,Membros do Clã Governante do andar atual ganham mais EXP por 1 hora.,
+7,Autoridade do árbitro: Ganância,Membros do Clã Governante do andar atual ganham mais Ouro por 1 hora.,
+8,Autoridade do árbitro: espírito de luta,Membros do Clã Governante do andar atual causam mais danos aos jogadores por 1 hora.,
+9,Autoridade do árbitro: Valor,Membros do Clã Governante do andar atual causam mais danos aos monstros por 1 hora.,
+10,Autoridade do árbitro: Gale,Velocidade de Movimento e Velocidade de Movimento de Montaria dos membros do Clã Governante do andar atual aumentam por 1 hora.,
+11,Fornecimento,O Baú do Tesouro de Athraharis aparecerá em alguns reinos do andar atual.,
+12,Fragment Golem Festa de,Vários Mini Golems aparecerão por 2 minutos ao redor do Guardian Golem do andar atual.,
+13,Melhorar Golem Guardião,O dano recebido pelo Golem Guardião do andar atual diminui e a Evasão e a Regeneração de HP aumentam.,
+14,Recompensa Indomável,Fornece recompensas adicionais ao defender com sucesso o Golem Guardião do andar atual.,
+201,Restaurar a tocha de Ashur,A tocha de Ashur será reiniciada em 5 minutos e retornará ao seu local original.,
+202,Banimento,"Todos os usuários, exceto os membros do clã governante, serão removidos do lobby após 5 minutos.",
+203,Despertando a Legião da Besta,Monstros adicionais aparecerão em todos os reinos do andar atual.,
+204,Sereno Tributo,"Uma parte do ouro obtido pelos aventureiros, exceto os membros do Clã Governante, será coletada no andar atual.","5% do ouro obtido por aventureiros que não sejam do Clã Governante será recolhido.
+Quando o ouro recolhido chegar a 10.000, ele se transformará em um Gold Dust Pouch.
+O Gold Dust Pouch será enviado ao Cofre do Clã no fim do Algoritmo."
+205,Autoridade do árbitro: Crescimento,Membros do Clã Governante do andar atual ganham mais EXP por 1 hora.,
+206,Autoridade do árbitro: Ganância,Membros do Clã Governante do andar atual ganham mais Ouro por 1 hora.,
+207,Autoridade do árbitro: espírito de luta,Membros do Clã Governante do andar atual causam mais danos aos jogadores por 1 hora.,
+208,Autoridade do árbitro: Valor,Membros do Clã Governante do andar atual causam mais danos aos monstros por 1 hora.,
+209,Autoridade do árbitro: Gale,Velocidade de Movimento e Velocidade de Movimento de Montaria dos membros do Clã Governante do andar atual aumentam por 1 hora.,
+210,Fornecimento,O Baú do Tesouro de Athraharis aparecerá em alguns reinos do andar atual.,
+211,Fragment Golem Festa de,Vários Mini Golems aparecerão por 2 minutos ao redor do Guardian Golem do andar atual.,
+212,Melhorar Golem Guardião,O dano recebido pelo Golem Guardião do andar atual diminui e a Evasão e a Regeneração de HP aumentam.,
+213,Recompensa Indomável,Fornece recompensas adicionais ao defender com sucesso o Golem Guardião do andar atual.,
+301,Restaurar a tocha de Ashur,A tocha de Ashur será reiniciada em 5 minutos e retornará ao seu local original.,
+302,Banimento,"Todos os usuários, exceto os membros do clã governante, serão removidos do lobby após 5 minutos.",
+303,Despertando a Legião da Besta,Monstros adicionais aparecerão em todos os reinos do andar atual.,
+304,Sereno Tributo,"Uma parte do ouro obtido pelos aventureiros, exceto os membros do Clã Governante, será coletada no andar atual.","5% do ouro obtido por aventureiros que não sejam do Clã Governante será recolhido.
+Quando o ouro recolhido chegar a 10.000, ele se transformará em um Gold Dust Pouch.
+O Gold Dust Pouch será enviado ao Cofre do Clã no fim do Algoritmo."
+305,Autoridade do árbitro: Crescimento,Membros do Clã Governante do andar atual ganham mais EXP por 1 hora.,
+306,Autoridade do árbitro: Ganância,Membros do Clã Governante do andar atual ganham mais Ouro por 1 hora.,
+307,Autoridade do árbitro: espírito de luta,Membros do Clã Governante do andar atual causam mais danos aos jogadores por 1 hora.,
+308,Autoridade do árbitro: Valor,Membros do Clã Governante do andar atual causam mais danos aos monstros por 1 hora.,
+309,Autoridade do árbitro: Gale,Velocidade de Movimento e Velocidade de Movimento de Montaria dos membros do Clã Governante do andar atual aumentam por 1 hora.,
+310,Fornecimento,O Baú do Tesouro de Athraharis aparecerá em alguns reinos do andar atual.,
+311,Fragment Golem Festa de,Vários Mini Golems aparecerão por 2 minutos ao redor do Guardian Golem do andar atual.,
+312,Melhorar Golem Guardião,O dano recebido pelo Golem Guardião do andar atual diminui e a Evasão e a Regeneração de HP aumentam.,
+313,Recompensa Indomável,Fornece recompensas adicionais ao defender com sucesso o Golem Guardião do andar atual.,
+401,Restaurar a tocha de Ashur,A tocha de Ashur será reiniciada em 5 minutos e retornará ao seu local original.,
+402,Banimento,"Todos os usuários, exceto os membros do clã governante, serão removidos do lobby após 5 minutos.",
+403,Despertando a Legião da Besta,Monstros adicionais aparecerão em todos os reinos do andar atual.,
+404,Sereno Tributo,"Uma parte do ouro obtido pelos aventureiros, exceto os membros do Clã Governante, será coletada no andar atual.","5% do ouro obtido por aventureiros que não sejam do Clã Governante será recolhido.
+Quando o ouro recolhido chegar a 10.000, ele se transformará em um Gold Dust Pouch.
+O Gold Dust Pouch será enviado ao Cofre do Clã no fim do Algoritmo."
+405,Autoridade do árbitro: Crescimento,Membros do Clã Governante do andar atual ganham mais EXP por 1 hora.,
+406,Autoridade do árbitro: Ganância,Membros do Clã Governante do andar atual ganham mais Ouro por 1 hora.,
+407,Autoridade do árbitro: espírito de luta,Membros do Clã Governante do andar atual causam mais danos aos jogadores por 1 hora.,
+408,Autoridade do árbitro: Valor,Membros do Clã Governante do andar atual causam mais danos aos monstros por 1 hora.,
+409,Autoridade do árbitro: Gale,Velocidade de Movimento e Velocidade de Movimento de Montaria dos membros do Clã Governante do andar atual aumentam por 1 hora.,
+410,Fornecimento,O Baú do Tesouro de Athraharis aparecerá em alguns reinos do andar atual.,
+411,Fragment Golem Festa de,Vários Mini Golems aparecerão por 2 minutos ao redor do Guardian Golem do andar atual.,
+412,Melhorar Golem Guardião,O dano recebido pelo Golem Guardião do andar atual diminui e a Evasão e a Regeneração de HP aumentam.,
+413,Recompensa Indomável,Fornece recompensas adicionais ao defender com sucesso o Golem Guardião do andar atual.,

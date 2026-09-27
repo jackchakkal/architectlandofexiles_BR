@@ -2,6 +2,12 @@
 
 Cada pasta `translations/vN-.../` preserva um snapshot completo e imutável. As mudanças entre snapshots ficam em `changes/`.
 
+## v14
+
+- Regra editorial nova (2026-09-27): **nomes de Skills ficam em inglês** em qualquer menção, para casar com os livros de Skill (`Skillbook [{Param1}]`, itens com nome em inglês); **nomes de masmorras e de itens ficam em inglês em qualquer lugar mencionado**, não só nas tabelas próprias. Regras no `GLOSSARIO-E-REGRAS.md`.
+- 5.970 células alteradas sobre a v13 (`changes/v13-to-v14/`): 4.928 células-nome restauradas ao original (Skill_Name, SkillDescription.Title, efeitos/buffs com nome de Skill, gadgets com nome de item, etc.), 701 frases com nome de Skill trocado automaticamente pelo inglês, 129 frases de itens/masmorras reescritas à mão ("Compre uma Rejuvenation Potion", "Derrote o Guardian of the Treasure", "Ativar Replica Seed"…). Corrigidas de passagem tags vazias `<Orange></>` herdadas da v12 em tutoriais e diálogos.
+- `tools/apply_overrides.py`: overrides por ID+coluna, regras `__restore_exact_names__` e `__replace_translated_names__`, substituição por texto em células já traduzidas. Novo `tools/scan_name_mentions.py`.
+
 ## v13
 
 - Distribuição refeita: um único PAK de override `pakchunk9999-Windows_21474835_P.pak` em `Content/Paks`, com prioridade acima do conteúdo baixado. Sem substituição do `pakchunk0`; sem conteúdo original do jogo no pacote. Ver `docs/COMO-A-TRADUCAO-E-CARREGADA.md`.

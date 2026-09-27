@@ -1,13 +1,14 @@
 # O que contém a tradução
 
-Gerado a partir do snapshot `translations/v13/` comparado com as tabelas originais em inglês. "Células traduzidas" = células de texto cujo conteúdo difere do original; as demais são vazias no original, idênticas de propósito (nomes próprios, placeholders) ou ainda não traduzidas.
+Gerado a partir do snapshot `translations/v14/` comparado com as tabelas originais em inglês. "Células traduzidas" = células de texto cujo conteúdo difere do original; as demais são vazias no original, idênticas de propósito (nomes próprios, placeholders) ou ainda não traduzidas.
 
-**Total: 227 tabelas, 128.598 registros, 137.224 células traduzidas.**
+**Total: 227 tabelas, 128.598 registros, 131.948 células traduzidas.**
 
 ## O que fica em inglês de propósito
 
 - **Nomes de itens** (`Item_Name.Name` e os fragmentos `ParamN` que compõem títulos): para a busca no Marketplace e a comunicação entre jogadores funcionarem. As *descrições* dos itens são traduzidas.
-- **Nomes de monstros, chefes, NPCs, masmorras e áreas**: idem.
+- **Nomes de monstros, chefes, NPCs, masmorras e áreas**: idem — em qualquer menção, inclusive dentro de missões e descrições.
+- **Nomes de Skills** (`Skill_Name.Name`, títulos de descrição, efeitos com o mesmo nome): para casar com os livros de Skill, que são itens com nome em inglês. As descrições são traduzidas.
 - **`Giant's Tower`, `Skill`, `Codex`**: termos fixos do jogo.
 - **Nomes de servidores** (ex.: High Pass).
 
@@ -26,43 +27,43 @@ Gerado a partir do snapshot `translations/v13/` comparado com as tabelas origina
 
 | Tabela | Registros | Células traduzidas | Conteúdo |
 | --- | ---: | ---: | --- |
-| `Quest_Name.csv` | 12.999 | 24.690 | Missões: títulos e descrições (antes/depois de concluir) |
-| `QuestTask_Name.csv` | 20.920 | 20.815 | Objetivos de missão |
-| `Dialog_Name.csv` | 14.475 | 15.168 | Diálogos de NPCs |
-| `CollectionMain_Name.csv` | 9.291 | 9.208 | Coleções (Codex) |
-| `ClientString_Name.csv` | 8.566 | 8.118 | Interface: menus. botões. avisos. tooltips |
+| `Quest_Name.csv` | 12.999 | 24.689 | Missões: títulos e descrições (antes/depois de concluir) |
+| `QuestTask_Name.csv` | 20.920 | 20.813 | Objetivos de missão |
+| `Dialog_Name.csv` | 14.475 | 15.163 | Diálogos de NPCs |
+| `CollectionMain_Name.csv` | 9.291 | 9.203 | Coleções (Codex) |
+| `ClientString_Name.csv` | 8.566 | 8.102 | Interface: menus. botões. avisos. tooltips |
 | `Item_Name.csv` | 5.638 | 7.732 | Itens: descrições (nomes mantidos em inglês) |
-| `Effect_Name.csv` | 3.025 | 8.007 | Efeitos. buffs e debuffs |
-| `Achievement_Name.csv` | 2.652 | 5.304 | Conquistas/troféus |
-| `EventMissionRecord_Name.csv` | 1.999 | 3.881 | Missões de evento |
-| `SkillDescription_Name.csv` | 1.783 | 3.503 | Descrições detalhadas de Skills |
+| `Effect_Name.csv` | 3.025 | 5.814 | Efeitos. buffs e debuffs |
+| `Achievement_Name.csv` | 2.652 | 5.284 | Conquistas/troféus |
+| `EventMissionRecord_Name.csv` | 1.999 | 3.856 | Missões de evento |
+| `SkillDescription_Name.csv` | 1.783 | 1.767 | Descrições detalhadas de Skills |
 | `GadgetInteraction_Name.csv` | 1.299 | 2.232 | Interações com objetos do mundo |
-| `Skill_Name.csv` | 3.366 | 1.673 | Skills: descrições curtas (nomes mantidos) |
+| `Skill_Name.csv` | 3.366 | 727 | Skills: descrições curtas (nomes mantidos) |
 | `MiniDialog_Name.csv` | 1.396 | 1.512 | Falas curtas de NPCs |
 | `DialogChoice_Name.csv` | 1.573 | 1.494 | Opções de resposta em diálogos |
-| `OperationType_Name.csv` | 379 | 1.406 | Tipos de operação/atributos |
-| `ResultCodeString_Name.csv` | 1.316 | 1.297 | Mensagens de erro e resultado do servidor |
-| `Gadget_Name.csv` | 1.698 | 1.111 | Objetos interativos do mundo |
+| `OperationType_Name.csv` | 379 | 1.260 | Tipos de operação/atributos |
+| `ResultCodeString_Name.csv` | 1.316 | 1.296 | Mensagens de erro e resultado do servidor |
+| `Gadget_Name.csv` | 1.698 | 1.003 | Objetos interativos do mundo |
 | `SpeechBalloonBundle_Name.csv` | 973 | 968 | Balões de fala |
-| `AcquireAndUseViewGroup_Name.csv` | 795 | 927 | Guia "como obter/usar" |
+| `AcquireAndUseViewGroup_Name.csv` | 795 | 926 | Guia "como obter/usar" |
 | `Costume_Name.csv` | 624 | 862 | Trajes: descrições |
 | `EventHighPassMission_Name.csv` | 429 | 843 | EventHighPassMission: Name. Desc |
-| `PassMission_Name.csv` | 445 | 811 | PassMission: Name. Description. Param |
-| `Option_Name.csv` | 324 | 755 | Menu de opções |
-| `ShopItem_Name.csv` | 1.236 | 742 | Itens de loja: descrições |
+| `PassMission_Name.csv` | 445 | 802 | PassMission: Name. Description. Param |
+| `Option_Name.csv` | 324 | 754 | Menu de opções |
+| `ShopItem_Name.csv` | 1.236 | 733 | Itens de loja: descrições |
 | `TutorialWalkthrough_Name.csv` | 352 | 584 | Tutoriais |
 | `Alert_Name.csv` | 454 | 583 | Alertas na tela |
 | `FrontierStage_Name.csv` | 450 | 450 | FrontierStage: StageDescription. Param |
 | `FlavorTextPage_Name.csv` | 454 | 414 | Textos de ambientação |
 | `FlavorText_Name.csv` | 449 | 396 | FlavorText: Name |
 | `ClanMission_Name.csv` | 194 | 367 | ClanMission: Name. Description |
-| `BadgeTask_Name.csv` | 225 | 355 | BadgeTask: TaskParam. Name. Desc. Param |
-| `Mail_Name.csv` | 120 | 350 | Mail: Sender. Title. Content |
+| `BadgeTask_Name.csv` | 225 | 354 | BadgeTask: TaskParam. Name. Desc. Param |
+| `Mail_Name.csv` | 120 | 349 | Mail: Sender. Title. Content |
 | `SkillAction_Name.csv` | 330 | 330 | SkillAction: Name |
-| `TutorialStep_Name.csv` | 376 | 277 | TutorialStep: Name. DialogText |
+| `TutorialStep_Name.csv` | 376 | 275 | TutorialStep: Name. DialogText |
 | `NpcSpawnDetail_Name.csv` | 274 | 276 | NpcSpawnDetail: SpawnDescription. Description |
 | `EventTab_Name.csv` | 277 | 267 | EventTab: TabName |
-| `ContentsLock_Name.csv` | 416 | 254 | ContentsLock: Name. Desc. LockDesc. Param |
+| `ContentsLock_Name.csv` | 416 | 252 | ContentsLock: Name. Desc. LockDesc. Param |
 | `ContentsFunction_Name.csv` | 199 | 252 | ContentsFunction: Desc. Param |
 | `DialogSubtitle_Name.csv` | 200 | 248 | DialogSubtitle: Speaker. Message |
 | `EventMission_Name.csv` | 126 | 244 | EventMission: PageName. PageDesc |
@@ -72,9 +73,9 @@ Gerado a partir do snapshot `translations/v13/` comparado com as tabelas origina
 | `SpeechBalloonPC_Name.csv` | 175 | 173 | SpeechBalloonPC: Text |
 | `BadgeNotification_Name.csv` | 107 | 170 | BadgeNotification: Message. Param |
 | `EventMissionGroup_Name.csv` | 253 | 170 | EventMissionGroup: Order. GroupName |
-| `Social_Name.csv` | 64 | 153 | Social: Name. Desc. ActionParam. Param |
+| `Social_Name.csv` | 64 | 151 | Social: Name. Desc. ActionParam. Param |
 | `Invasion_Name.csv` | 228 | 152 | Invasion: InvasionName |
-| `MapIcon_Name.csv` | 330 | 145 | MapIcon: Name |
+| `MapIcon_Name.csv` | 330 | 142 | MapIcon: Name |
 | `BlessingCard_Name.csv` | 150 | 138 | BlessingCard: Name. Desc |
 | `ShopMissionReward_Name.csv` | 90 | 133 | ShopMissionReward: Name. Desc. Param |
 | `ShopTab_Name.csv` | 138 | 119 | ShopTab: TabName. Descriptor. Desc. Param1 |
@@ -84,15 +85,15 @@ Gerado a partir do snapshot `translations/v13/` comparado com as tabelas origina
 | `GuideBoss_Name.csv` | 62 | 102 | GuideBoss: PlaceName. Name. Description. ContentsShortButtonText |
 | `QuestGuideBookMissionGroup_Name.csv` | 50 | 100 | QuestGuideBookMissionGroup: Name. Desc |
 | `CostumeSlotEffect_Name.csv` | 56 | 98 | CostumeSlotEffect: Grade. Name. Param |
-| `FactionLevelShortcut_Name.csv` | 70 | 96 | FactionLevelShortcut: Desc. Param |
-| `GuideContents_Name.csv` | 29 | 95 | GuideContents: Name. Description. GuideString1. GuideParam1 |
+| `FactionLevelShortcut_Name.csv` | 70 | 86 | FactionLevelShortcut: Desc. Param |
+| `GuideContents_Name.csv` | 29 | 93 | GuideContents: Name. Description. GuideString1. GuideParam1 |
 | `EventBanner_Name.csv` | 48 | 90 | EventBanner: Name. Desc |
 | `EventAttendance_Name.csv` | 45 | 87 | EventAttendance: PageName. PageDesc |
 | `GuideGrowthMethod_Name.csv` | 44 | 86 | GuideGrowthMethod: GrowthMethodName. GrowthMethodDesc |
 | `Asset_Name.csv` | 41 | 85 | Asset: Name. Param. Desc |
 | `AkashaGrade_Name.csv` | 108 | 84 | AkashaGrade: Story |
 | `CharacterTitle_Name.csv` | 41 | 81 | CharacterTitle: Name. Description. Param |
-| `Tutorial_Name.csv` | 115 | 77 | Tutorial: Name |
+| `Tutorial_Name.csv` | 115 | 76 | Tutorial: Name |
 | `ViewPoint_Name.csv` | 66 | 77 | ViewPoint: Name. Desc |
 | `OOPartsWishList_Name.csv` | 80 | 75 | OOPartsWishList: Name |
 | `ContentsFunctionGroup_Name.csv` | 57 | 73 | ContentsFunctionGroup: Desc. Param |
@@ -103,9 +104,9 @@ Gerado a partir do snapshot `translations/v13/` comparado com as tabelas origina
 | `GuideGrowth_Name.csv` | 21 | 60 | GuideGrowth: Name. ReviveComment. ContentsShortButtonText |
 | `TutorialReplay_Name.csv` | 78 | 56 | TutorialReplay: Title |
 | `GiantPiece_Name.csv` | 102 | 54 | GiantPiece: GroupName |
-| `MainMenu_Name.csv` | 60 | 54 | MainMenu: Name |
+| `MainMenu_Name.csv` | 60 | 52 | MainMenu: Name |
 | `ShopSubTab_Name.csv` | 62 | 54 | ShopSubTab: TabName. Descriptor. Desc. Param1 |
-| `SeasonCollectionMain_Name.csv` | 54 | 53 | SeasonCollectionMain: DisplayName. Param |
+| `SeasonCollectionMain_Name.csv` | 54 | 47 | SeasonCollectionMain: DisplayName. Param |
 | `AuctionTab_Name.csv` | 63 | 51 | AuctionTab: Name |
 | `LoadingTip_Name.csv` | 51 | 50 | Dicas da tela de carregamento |
 | `ContentsPoint_Name.csv` | 48 | 48 | ContentsPoint: Name. Param |
@@ -116,7 +117,7 @@ Gerado a partir do snapshot `translations/v13/` comparado com as tabelas origina
 | `ShopTabGroup_Name.csv` | 50 | 41 | ShopTabGroup: Name |
 | `ChatSystemMessage_Name.csv` | 20 | 40 | ChatSystemMessage: Message. Name |
 | `EventDrop_Name.csv` | 16 | 40 | EventDrop: PageName. PageDesc. ShorcutButtonName |
-| `Vehicle_Name.csv` | 56 | 40 | Vehicle: Name. Desc |
+| `Vehicle_Name.csv` | 56 | 38 | Vehicle: Name. Desc |
 | `Emoticon_Name.csv` | 22 | 39 | Emoticon: EmoticonName. EmoticonCommand. EmoticonDescription |
 | `OptionView_Name.csv` | 258 | 37 | OptionView: DetailGroupName |
 | `QuestEpisode_Name.csv` | 75 | 35 | QuestEpisode: Name |
@@ -129,14 +130,14 @@ Gerado a partir do snapshot `translations/v13/` comparado com as tabelas origina
 | `ClanRecord_Name.csv` | 29 | 29 | ClanRecord: ClanRecordString |
 | `OperationMainType_Name.csv` | 32 | 29 | OperationMainType: GroupName |
 | `ShopCategory_Name.csv` | 37 | 29 | ShopCategory: Name |
-| `ClanPermission_Name.csv` | 29 | 28 | ClanPermission: Name |
-| `GadgetType_Name.csv` | 32 | 28 | GadgetType: Name |
-| `MapIconCategory_Name.csv` | 45 | 28 | MapIconCategory: Name |
+| `ClanPermission_Name.csv` | 29 | 27 | ClanPermission: Name |
+| `GadgetType_Name.csv` | 32 | 25 | GadgetType: Name |
+| `MapIconCategory_Name.csv` | 45 | 26 | MapIconCategory: Name |
 | `RestoreCouponTab_Name.csv` | 31 | 27 | RestoreCouponTab: Name |
 | `ContentsChance_Name.csv` | 22 | 26 | ContentsChance: DetailInfoId. Name |
 | `EventShop_Name.csv` | 13 | 26 | EventShop: PageName. PageDesc |
 | `QuestType_Name.csv` | 18 | 25 | QuestType: CommonName. ShortName |
-| `ClanResearch_Name.csv` | 31 | 23 | ClanResearch: Name |
+| `ClanResearch_Name.csv` | 31 | 16 | ClanResearch: Name |
 | `EventExchange_Name.csv` | 12 | 23 | EventExchange: PageName. PageDesc |
 | `EventBuff_Name.csv` | 9 | 22 | EventBuff: Name. Desc. DisplayDesc |
 | `League_Name.csv` | 27 | 22 | League: Name. Param |
@@ -158,7 +159,7 @@ Gerado a partir do snapshot `translations/v13/` comparado com as tabelas origina
 | `Mark_Name.csv` | 26 | 14 | Mark: Name. Param |
 | `SeasonalEventMenu_Name.csv` | 20 | 14 | SeasonalEventMenu: Name |
 | `ShopAccumSetting_Name.csv` | 14 | 14 | ShopAccumSetting: Name. Param |
-| `CostumeGroup_Name.csv` | 7 | 13 | CostumeGroup: Name. Param |
+| `CostumeGroup_Name.csv` | 7 | 11 | CostumeGroup: Name. Param |
 | `ResonanceNodeDisplay_Name.csv` | 16 | 13 | ResonanceNodeDisplay: Name |
 | `DungeonModularType_Name.csv` | 4 | 12 | DungeonModularType: Name. Description. Story |
 | `EventDice_Name.csv` | 6 | 12 | EventDice: Name. ToolTipString |
@@ -166,7 +167,7 @@ Gerado a partir do snapshot `translations/v13/` comparado com as tabelas origina
 | `TowerOfTitanSpot_Name.csv` | 12 | 12 | TowerOfTitanSpot: Name |
 | `TowerOfTitan_Name.csv` | 4 | 12 | TowerOfTitan: Name. SubName. Desc. BossNpcDesc |
 | `EventRankingMission_Name.csv` | 6 | 11 | EventRankingMission: PageName. PageDesc |
-| `FrontierPhenomenon_Name.csv` | 6 | 11 | FrontierPhenomenon: PhenomenonName. PhenomenonDesc |
+| `FrontierPhenomenon_Name.csv` | 6 | 10 | FrontierPhenomenon: PhenomenonName. PhenomenonDesc |
 | `PK_Name.csv` | 11 | 11 | PK: PKGrade. Param |
 | `AuctionCategory_Name.csv` | 12 | 10 | AuctionCategory: Name |
 | `ClassChangeType_Name.csv` | 5 | 10 | ClassChangeType: Name. Tip |
@@ -174,14 +175,14 @@ Gerado a partir do snapshot `translations/v13/` comparado com as tabelas origina
 | `EventCommonMission_Name.csv` | 6 | 10 | EventCommonMission: Name. Desc |
 | `ItemCraftCategory_Name.csv` | 10 | 10 | ItemCraftCategory: Name |
 | `TowerOfTitanEnterCondition_Name.csv` | 6 | 10 | TowerOfTitanEnterCondition: Name. Desc |
-| `DungeonType_Name.csv` | 16 | 9 | DungeonType: Name |
+| `DungeonType_Name.csv` | 16 | 8 | DungeonType: Name |
 | `QuestFactionGroup_Name.csv` | 6 | 9 | QuestFactionGroup: Name. Desc |
 | `InterServerGrade_Name.csv` | 12 | 8 | InterServerGrade: Name |
 | `QuestSubName_Name.csv` | 17 | 8 | QuestSubName: SubName |
 | `BattlefieldClashSeason_Name.csv` | 7 | 7 | BattlefieldClashSeason: Name |
 | `BattlefieldMonolith_Name.csv` | 3 | 6 | BattlefieldMonolith: Name. Param. Desc |
 | `CharacterTitleCategory_Name.csv` | 6 | 6 | CharacterTitleCategory: Name |
-| `ClanDonation_Name.csv` | 3 | 6 | ClanDonation: Name. Param |
+| `ClanDonation_Name.csv` | 3 | 5 | ClanDonation: Name. Param |
 | `EliteDungeonType_Name.csv` | 2 | 6 | EliteDungeonType: Name. Param. Story |
 | `EventLuckybox_Name.csv` | 4 | 6 | EventLuckybox: PageName. PageDesc |
 | `FrontierLeague_Name.csv` | 7 | 6 | FrontierLeague: FrontierLeagueName |

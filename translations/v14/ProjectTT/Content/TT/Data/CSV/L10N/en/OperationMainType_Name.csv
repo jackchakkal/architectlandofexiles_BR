@@ -1,0 +1,33 @@
+﻿GroupId,GroupName
+100,Ataque
+200,Defesa
+300,HP
+400,MP
+500,Precisão
+600,Esquiva
+700,Acerto Crítico
+790,Maximização
+800,Resistência a golpes críticos
+890,Maximização de resistência
+900,Velocidade
+950,Cooldown
+1000,Todos os danos
+1100,Dano de Ataque Básico
+1150,Skill Dano
+1200,Todos os danos sofridos
+1300,Dano de Ataque Básico Sofrido
+1350,Skill Dano sofrido
+1400,Dano Crítico
+1500,Dano Crítico de Ataque Básico
+1550,Skill Dano crítico
+1600,Dano crítico sofrido
+1700,Dano Crítico de Ataque Básico Sofrido
+1750,Skill Dano crítico sofrido
+1800,Cura e Escudo
+1900,Crowd Control aplicado
+1950,Aflição Aplicada
+2000,Resistência ao controle de multidão
+2050,Resistência à Aflição
+2060,Resistência à Erosão
+4000,Diversos
+9000,Recursos adquiridos

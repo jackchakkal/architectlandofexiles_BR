@@ -1,0 +1,671 @@
+{
+ "_comment": "v14: nomes de Skills, masmorras e itens voltam ao inglês em qualquer menção (regra editorial de 2026-09-27). Aplicado sobre translations/v13.",
+ "__restore_exact_names__": {
+  "sources": [
+   [
+    "Skill_Name.csv",
+    "Name"
+   ],
+   [
+    "SkillDescription_Name.csv",
+    "Title"
+   ],
+   [
+    "Item_Name.csv",
+    "Name"
+   ],
+   [
+    "Dungeon_Name.csv",
+    "Name"
+   ],
+   [
+    "Dungeon_Name.csv",
+    "Param"
+   ],
+   [
+    "DungeonSection_Name.csv",
+    "Name"
+   ],
+   [
+    "DungeonSection_Name.csv",
+    "StringParam"
+   ]
+  ],
+  "columns": [
+   "Name",
+   "Title",
+   "BuffName",
+   "DeBuffName",
+   "ItemName",
+   "DisplayName",
+   "Param",
+   "StringParam",
+   "Value",
+   "SpotName",
+   "PlaceName"
+  ]
+ },
+ "__replace_translated_names__": {
+  "sources": [
+   [
+    "Skill_Name.csv",
+    "Name"
+   ],
+   [
+    "SkillDescription_Name.csv",
+    "Title"
+   ]
+  ]
+ },
+ "__by_text__": {
+  "Achievement_Name.csv": {
+   "Description": {
+    "The Vitalizing Sanctum Engraved {RequiredStackCount} Times": "The Vitalizing Sanctum gravado {RequiredStackCount} vezes"
+   }
+  },
+  "AcquireAndUseViewGroup_Name.csv": {
+   "Desc": {
+    "Replica Seed - [Keyword]": "Replica Seed - [Keyword]",
+    "Activate Replica Seed": "Ativar Replica Seed"
+   }
+  },
+  "ClientString_Name.csv": {
+   "Value": {
+    "Angbar Arena · Replica Seed": "Angbar Arena · Replica Seed",
+    "You cannot select other resources while you hold a Death Penalty Recovery Coupon.": "Não é possível selecionar outros recursos enquanto você tiver um Death Penalty Recovery Coupon.",
+    "Shield of Peace effect will perish due to interacting with [Name].": "O efeito de Shield of Peace será perdido ao interagir com [Name].",
+    "Shield of Peace effect will perish when interacting with this objective. Proceed anyway?": "O efeito de Shield of Peace será perdido ao interagir com este objetivo. Continuar mesmo assim?",
+    "Shield of Peace item effect is applied, and you won’t be attacked by other players during [Time].": "O efeito do item Shield of Peace foi aplicado; você não será atacado por outros jogadores durante [Time].",
+    "Unable to attack target who uses Shield of Peace.": "Não é possível atacar um alvo que usa Shield of Peace.",
+    "Activate [BossName]’s Replica Seed": "Ativar a Replica Seed de [BossName]",
+    "Activate Replica Seed": "Ativar Replica Seed",
+    "My character can’t collect any more rewards.\r\nActivate Replica Seed?": "Meu personagem não pode coletar mais recompensas.\r\nAtivar a Replica Seed?",
+    "An active Replica Seed already exists.": "Já existe uma Replica Seed ativa.",
+    "Destroy Replica Seed": "Destruir Replica Seed",
+    "Destroy the boss' Replica Seed?": "Destruir a Replica Seed do chefe?",
+    "Challenge interrupted: [Name] destroyed [BossName]‘s Replica Seed.": "Desafio interrompido: [Name] destruiu a Replica Seed de [BossName].",
+    "Replica Seed Mission Failed": "Missão da Replica Seed falhou",
+    "Replica Seed Challenge Interrupted": "Desafio da Replica Seed interrompido",
+    "The Replica Seed has been destroyed, halting the boss replication.": "A Replica Seed foi destruída, interrompendo a replicação do chefe.",
+    "Replica Seed Mission Success": "Missão da Replica Seed concluída",
+    "The Replica Seed is resonating violently with the boss's Essence.": "A Replica Seed está ressoando violentamente com a Essência do chefe.",
+    "[Name] has activated [BossName]’s Replica Seed. Move there now?": "[Name] ativou a Replica Seed de [BossName]. Ir para lá agora?",
+    "Unable to amplify due to Insufficient Resonance Amplification Core.": "Não é possível amplificar: Resonance Amplification Core insuficiente.",
+    "You can only possess 1 Character Gift Ticket per account.": "Você só pode possuir 1 Character Gift Ticket por conta.",
+    "Character Gift canceled. The Character Gift Ticket will be sent via Mail.": "Presente de personagem cancelado. O Character Gift Ticket será enviado por e-mail."
+   }
+  },
+  "ContentsFunctionGroup_Name.csv": {
+   "Desc": {
+    "Daily Giant's Tower Hot Time Recharge Ticket <Yellow>[{IntParam}]</>": "Giant's Tower Hot Time Recharge Ticket diário <Yellow>[{IntParam}]</>",
+    "Daily Crystal of Authority <Yellow>[{IntParam}]</>": "Crystal of Authority diário <Yellow>[{IntParam}]</>"
+   }
+  },
+  "ContentsFunction_Name.csv": {
+   "Desc": {
+    "Receive [Value] Giant's Tower Hot Time Recharge Ticket(s) daily via Inbox.": "Receba [Value] Giant's Tower Hot Time Recharge Ticket por dia pela caixa de entrada."
+   }
+  },
+  "Dialog_Name.csv": {
+   "Text": {
+    "Before you go, stop by the general store and buy a <Orange>Rejuvenation Potion</>.\r\nHe never speaks for free.": "Antes de ir, passe no armazém e compre uma <Orange>Rejuvenation Potion</>.\r\nEle nunca fala de graça.",
+    "The Medic's Signature Rejuvenation Potion is complete!\r\nRather than going for a temporary boost, I focused on overall constitution improvement.": "A Rejuvenation Potion exclusiva do Médico está pronta!\r\nEm vez de buscar um impulso temporário, foquei na melhoria geral da constituição.",
+    "The rising star to challenge Baba Liquor!\r\nWe’re serving Taima Liquor, brewed with water straight from the oasis!": "A estrela em ascensão que desafia o Baba Liquor!\r\nEstamos servindo Taima Liquor, feito com água direto do oásis!",
+    "Baba is usually used for brewing Baba Liquor, but\r\nwe ground it up finely to use in our medicine.": "Baba geralmente é usado para fazer Baba Liquor, mas\r\nnós o moemos bem fino para usar no nosso remédio.",
+    "Here, this is the <Blue>Weapon Enhancement Stone Crafting Recipe</>.": "Aqui, esta é a <Blue>Weapon Enhancement Stone Crafting Recipe</>.",
+    "Replica Seed.\r\nIt's an ancient artifact given to us by the <Orange>Liberators of Knowledge</>.": "Replica Seed.\r\nÉ um artefato antigo que nos foi dado pelos <Orange>Liberators of Knowledge</>.",
+    "The Replica Seed...! Do you... have any idea how precious this is?!": "A Replica Seed...! Você... tem ideia do quanto isso é precioso?!",
+    "After rambling for a good while, Nicola finally confessed that he was pushing his luck,\r\nwandering around in a desperate bid to deliver the Replica Seed to Bailiegh.": "Depois de divagar por um bom tempo, Nicola finalmente confessou que estava abusando da sorte,\r\nvagando numa tentativa desesperada de entregar a Replica Seed a Bailiegh.",
+    "<Yellow>Now, you and I just need to finish this Replica Seed research together.</>": "<Yellow>Agora, você e eu só precisamos terminar juntos esta pesquisa da Replica Seed.</>",
+    "<Yellow>That thing I gave you... it's not the real Replica Seed.</>": "<Yellow>Aquilo que eu te dei... não é a verdadeira Replica Seed.</>",
+    "Now, let’s get the point.\r\nNow, this... is the real <Blue>Replica Seed</>.": "Agora, vamos direto ao ponto.\r\nAgora, esta... é a verdadeira <Blue>Replica Seed</>.",
+    "Use the Replica Seed while thinking:\r\nwake it, create it or something like that…": "Use a Replica Seed enquanto pensa:\r\nacorde, crie ou algo parecido…",
+    "I’d be drinking... uh... that Baba Liquor Naruru makes!": "Eu estaria bebendo... ahn... aquele Baba Liquor que os Naruru fazem!",
+    "<Yellow>(The ultimate Baba Liquor... is really popular, isn’t it?)</>": "<Yellow>(O Baba Liquor supremo... é muito popular, não é?)</>",
+    "<Yellow>Drinks! Baba Liquor! The pride of the Naruru!</>\r\nI saved some in secret, just for us!": "<Yellow>Bebidas! Baba Liquor! O orgulho dos Naruru!</>\r\nGuardei um pouco em segredo, só para nós!"
+   },
+   "ItemDesc": {
+    "The Replica Seed gathered by Nicola.\r\nIt's laden with Karugura's Factor, so you’d better handle it with care.": "A Replica Seed coletada por Nicola.\r\nEstá carregada com o Fator de Karugura, então é melhor manuseá-la com cuidado.",
+    "The Replica Seed handed over by Bailiegh.": "A Replica Seed entregue por Bailiegh."
+   }
+  },
+  "DungeonSection_Name.csv": {
+   "Description": {
+    "Defeat the Guardian of the Treasure before time runs out.": "Derrote o Guardian of the Treasure antes que o tempo acabe.",
+    "{StringParam} Essence extracted via the Replica Seed.\r\nCells are proliferating with seething intensity.": "Essência de {StringParam} extraída pela Replica Seed.\r\nAs células proliferam com intensidade fervente.",
+    "{StringParam} Essence extracted via the Replica Seed.\r\nCells are multiplying at an explosive rate.": "Essência de {StringParam} extraída pela Replica Seed.\r\nAs células se multiplicam em ritmo explosivo."
+   }
+  },
+  "Dungeon_Name.csv": {
+   "Description": {
+    "{Param} Essence extracted via the Replica Seed.\r\nCells are proliferating with seething intensity.": "Essência de {Param} extraída pela Replica Seed.\r\nAs células proliferam com intensidade fervente.",
+    "{Param} Essence extracted via the Replica Seed.\r\nCells are multiplying at an explosive rate.": "Essência de {Param} extraída pela Replica Seed.\r\nAs células se multiplicam em ritmo explosivo."
+   }
+  },
+  "Effect_Name.csv": {
+   "Name": {
+    "Wings of Fate: Increases Movement Speed": "Wings of Fate: aumenta a Velocidade de Movimento",
+    "Wings of Fate: Increases Cast Rate": "Wings of Fate: aumenta a Taxa de Conjuração",
+    "Wings of Fate: Increases Attack Speed": "Wings of Fate: aumenta a Velocidade de Ataque",
+    "Wings of Fate: Reduces Skill Cooldown": "Wings of Fate: reduz a recarga de Skills",
+    "Aerial Dash - Treasure Chest Challenge": "Aerial Dash - Desafio do Baú do Tesouro"
+   },
+   "EffectDescription": {
+    "Aerial Dash - Treasure Chest Challenge": "Aerial Dash - Desafio do Baú do Tesouro",
+    "Increases damage against players by <Orange>{EffectParam1}</>%\r\nReduces damage taken from players by <Orange>{EffectParam2}</>%\r\nIncreases Critical Hit Chance against players by <Orange>{EffectParam3}</>%\r\nIncreases Accuracy against players by <Orange>{EffectParam4}</>%\r\nIncreases Movement Speed by <Orange>{EffectParam5}</>%\r\nIncreases damage against boss monsters by <Orange>{EffectParam6}</>%\r\n<Orange>※ Only applies inside Ancient Ruins</>": "Aumenta o dano contra jogadores em <Orange>{EffectParam1}</>%\r\nReduz o dano recebido de jogadores em <Orange>{EffectParam2}</>%\r\nAumenta a chance de acerto crítico contra jogadores em <Orange>{EffectParam3}</>%\r\nAumenta a precisão contra jogadores em <Orange>{EffectParam4}</>%\r\nAumenta a velocidade de movimento em <Orange>{EffectParam5}</>%\r\nAumenta o dano contra chefes em <Orange>{EffectParam6}</>%\r\n<Orange>※ Aplica-se apenas dentro de Ancient Ruins</>",
+    "Increases Movement Speed by <Orange>{EffectParam1}</>%\r\n<Orange>※ Only applies inside Ancient Ruins</>": "Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%\r\n<Orange>※ Aplica-se apenas dentro de Ancient Ruins</>"
+   }
+  },
+  "EventDrop_Name.csv": {
+   "PageName": {
+    "Naruru's Treasure Hunt Ticket Drops": "Drops de Naruru's Treasure Hunt Ticket"
+   }
+  },
+  "EventMissionRecord_Name.csv": {
+   "Name": {
+    "Use Weapon Enhancement Stone Recipe": "Usar Weapon Enhancement Stone Recipe",
+    "Use {RequiredStackCount} Anima Essence": "Usar {RequiredStackCount} Anima Essence",
+    "Craft Armor Enhancement Stone": "Fabricar Armor Enhancement Stone",
+    "Craft Weapon Enhancement Stone": "Fabricar Weapon Enhancement Stone",
+    "Hearty Baba Bread": "Hearty Baba Bread",
+    "Sweet Baba Crackers": "Sweet Baba Crackers",
+    "Use Stardust": "Usar Stardust",
+    "Use Halo Bread": "Usar Halo Bread",
+    "Use Cup of Black Tea": "Usar Cup of Black Tea"
+   },
+   "Desc": {
+    "Use Weapon Enhancement Stone Recipe": "Usar Weapon Enhancement Stone Recipe",
+    "Use ‘Weapon Enhancement Stone Recipe’": "Usar ‘Weapon Enhancement Stone Recipe’",
+    "Use {RequiredStackCount} Anima Essence": "Usar {RequiredStackCount} Anima Essence",
+    "Use {RequiredStackCount} Baba Liquor": "Usar {RequiredStackCount} Baba Liquor",
+    "Use {RequiredStackCount} Halo Bread": "Usar {RequiredStackCount} Halo Bread"
+   }
+  },
+  "EventTab_Name.csv": {
+   "TabName": {
+    "Naruru's Treasure Hunt Ticket Drops": "Drops de Naruru's Treasure Hunt Ticket"
+   }
+  },
+  "FlavorTextPage_Name.csv": {
+   "Text": {
+    "Karugura's Factor.\r\nAs I place it into the Replica Seed, a faint light flickers.": "Fator de Karugura.\r\nQuando o coloco na Replica Seed, uma luz fraca pisca.",
+    "Karugura's Factor.\r\nI placed it into the Replica Seed, but there is no change.\r\nI believe I followed Bailey's instructions, so this is strange.": "Fator de Karugura.\r\nColoquei-o na Replica Seed, mas nada muda.\r\nAcredito ter seguido as instruções de Bailey, então isso é estranho.",
+    "Tagar's Factor.\r\nAs I place it into the Replica Seed, a faint light flickers.": "Fator de Tagar.\r\nQuando o coloco na Replica Seed, uma luz fraca pisca.",
+    "Tagar's Factor.\r\nAs I place it into the Replica Seed, it emits an intense light.": "Fator de Tagar.\r\nQuando o coloco na Replica Seed, ela emite uma luz intensa."
+   }
+  },
+  "GadgetInteraction_Name.csv": {
+   "TextInteraction": {
+    "Handing over the Replica Seed...": "Entregando a Replica Seed...",
+    "Using the Replica Seed...": "Usando a Replica Seed..."
+   },
+   "Desc": {
+    "Activate Replica Seed": "Ativar Replica Seed"
+   }
+  },
+  "GadgetType_Name.csv": {
+   "Name": {
+    "Replica Seed Portal": "Portal da Replica Seed"
+   }
+  },
+  "LoadingTip_Name.csv": {
+   "LoadingTipInfo": {
+    "A repository of the ancient empire, said to be managed by the Ragar Tribe.\r\nYou can acquire Stardust required to increase Card levels and materials needed for Transcendence.": "Um repositório do antigo império, supostamente administrado pela Tribo Ragar.\r\nVocê pode obter Stardust, necessário para subir o nível das Cartas, e materiais para a Transcendência."
+   }
+  },
+  "PassMission_Name.csv": {
+   "Name": {
+    "Craft Weapon Enhancement Stone": "Fabricar Weapon Enhancement Stone",
+    "Craft Armor Enhancement Stone": "Fabricar Armor Enhancement Stone",
+    "Craft Accessory Enhancement Stone": "Fabricar Accessory Enhancement Stone"
+   },
+   "Description": {
+    "Craft Accessory Enhancement Stone {RequiredStackCount} times": "Fabricar Accessory Enhancement Stone {RequiredStackCount} vezes"
+   }
+  },
+  "QuestTask_Name.csv": {
+   "TaskName": {
+    "Daily Crafting - Craft Armor Enhancement Stone 5 Times": "Fabricação diária - Fabricar Armor Enhancement Stone 5 vezes",
+    "Daily Crafting - Craft Weapon Enhancement Stone 10 Times": "Fabricação diária - Fabricar Weapon Enhancement Stone 10 vezes",
+    "Daily Crafting - Craft Armor Enhancement Stone 10 Times": "Fabricação diária - Fabricar Armor Enhancement Stone 10 vezes",
+    "Daily Crafting - Craft Accessory Enhancement Stone 10 Times": "Fabricação diária - Fabricar Accessory Enhancement Stone 10 vezes",
+    "Occupy The Vitalizing Sanctum {TaskCount} times": "Ocupe The Vitalizing Sanctum {TaskCount} vezes",
+    "Daily Craft - Craft Weapon Enhancement Stone {TaskCount} times": "Fabricação diária - Fabricar Weapon Enhancement Stone {TaskCount} vezes",
+    "Daily Craft - Craft Armor Enhancement Stone {TaskCount} times": "Fabricação diária - Fabricar Armor Enhancement Stone {TaskCount} vezes",
+    "Daily Craft - Craft Accessory Enhancement Stone {TaskCount} times": "Fabricação diária - Fabricar Accessory Enhancement Stone {TaskCount} vezes",
+    "<SubContents>Move to Ancient Ruins</>": "<SubContents>Ir para Ancient Ruins</>",
+    "Go to the <Faction>Ancient Ruins Diggings</>": "Vá para <Faction>Ancient Ruins Diggings</>",
+    "Return to the <Faction>Ancient Ruins Diggings</>": "Retorne a <Faction>Ancient Ruins Diggings</>",
+    "Head <EpicMain>Inside the Ancient Ruins</>": "Entre <EpicMain>em Ancient Ruins</>",
+    "Defeat the <EpicMain>Paradise Advent Prophet</>": "Derrote <EpicMain>Paradise Advent Prophet</>"
+   }
+  },
+  "Quest_Name.csv": {
+   "Name": {
+    "Craft Armor Enhancement Stone": "Fabricar Armor Enhancement Stone",
+    "Craft Weapon Enhancement Stone": "Fabricar Weapon Enhancement Stone",
+    "Craft Accessory Enhancement Stone": "Fabricar Accessory Enhancement Stone"
+   },
+   "DescNotCompleted": {
+    "Defeat the Guardian of the Treasure before time runs out.": "Derrote o Guardian of the Treasure antes que o tempo acabe.",
+    "The Adventurer earns a Weapon Enhancement Stone Recipe as a reward for spreading the word for the Blacksmiths Guild at Thorstein’s request.": "O Aventureiro ganha uma Weapon Enhancement Stone Recipe como recompensa por divulgar a Guilda dos Ferreiros a pedido de Thorstein."
+   }
+  },
+  "ResultCodeString_Name.csv": {
+   "Value": {
+    "An active Replica Seed already exists.": "Já existe uma Replica Seed ativa.",
+    "Cannot use Shield of Peace while holding Ashur's Torch.": "Não é possível usar Shield of Peace enquanto segura a Ashur's Torch."
+   }
+  },
+  "ShopItem_Name.csv": {
+   "Name": {
+    "Evrin's Stardust Set{Param}": "Evrin's Stardust Set{Param}",
+    "Giant's Tower Hot Time Recharge Ticket x3": "Giant's Tower Hot Time Recharge Ticket x3",
+    "[50%] Abyss Battlefield Time Recharge Stone": "[50%] Abyss Battlefield Time Recharge Stone",
+    "Source of Magic x{Param}": "Source of Magic x{Param}"
+   }
+  },
+  "SkillDescription_Name.csv": {
+   "Desc": {
+    "Removes Invisibility from hostile targets within Cradle of Mana's range": "Remove a invisibilidade de alvos hostis dentro do alcance de Cradle of Mana",
+    "Increases Cradle of Mana range by 5m\r\nIncreases Crowd Control Resistance Rate by an additional 10% while Shield is active": "Aumenta o alcance de Cradle of Mana em 5 m\r\nAumenta a resistência a controle de grupo em mais 10% enquanto o escudo estiver ativo",
+    "Increases Cradle of Mana range by 5m\r\nIncreases Crowd Control Resistance Rate by an additional 15% while Shield is active": "Aumenta o alcance de Cradle of Mana em 5 m\r\nAumenta a resistência a controle de grupo em mais 15% enquanto o escudo estiver ativo"
+   }
+  },
+  "SpeechBalloonBundle_Name.csv": {
+   "Text": {
+    "Hehehe... I'm going to drink my fill of Baba Liquor!": "Hehehe... Vou beber Baba Liquor até me fartar!",
+    "Are you a customer, customer? Are you here for some Baba Liquor?": "É cliente, cliente? Veio tomar um Baba Liquor?",
+    "Baba Liquor... is so tasty... gulp gulp...": "Baba Liquor... é tão gostoso... glup, glup...",
+    "Today I'm, I'm buying the Baba Liquor! We're going drinking.": "Hoje eu, eu pago o Baba Liquor! Vamos beber.",
+    "Hiding, they were hiding the Baba Liquor!": "Escondendo, eles estavam escondendo o Baba Liquor!"
+   }
+  },
+  "SpeechBalloonPC_Name.csv": {
+   "Text": {
+    "Time to get on with it, this time on my own.\r\nLet’s buy a Rejuvenation Potion from the shop.": "Hora de seguir em frente, desta vez por conta própria.\r\nVamos comprar uma Rejuvenation Potion na loja.",
+    "Let’s buy Dew Collected from Leaves from the General Store.": "Vamos comprar Dew Collected from Leaves no armazém geral.",
+    "Just in case… Better buy Snow Flower Fruit too.": "Por precaução… melhor comprar Snow Flower Fruit também.",
+    "Mixing tasty ingredients might make it even better.\r\nBetter buy Sweet and Sour Desert Drink too.": "Misturar ingredientes saborosos pode deixar ainda melhor.\r\nMelhor comprar Sweet and Sour Desert Drink também.",
+    "Let's climb onto the ruins and operate the Replica Seed.": "Vamos subir nas ruínas e acionar a Replica Seed."
+   }
+  },
+  "Toast_Name.csv": {
+   "Message": {
+    "<Green>[Name]</> has activated <Yellow>[BossName]</>‘s Replica Seed. Move there now?": "<Green>[Name]</> ativou a Replica Seed de <Yellow>[BossName]</>. Ir para lá agora?"
+   }
+  },
+  "TowerOfTitanAlgorithm_Name.csv": {
+   "DetailDesc": {
+    "5% of the gold acquired by adventurers other than the Ruler Clan will be collected.\r\nWhen the collected gold reaches 10,000, it will turn into a Gold Dust Pouch.\r\nThe Gold Dust Pouch will be sent to the Clan Vault at the end of the Algorithm.": "5% do ouro obtido por aventureiros que não sejam do Clã Governante será recolhido.\r\nQuando o ouro recolhido chegar a 10.000, ele se transformará em um Gold Dust Pouch.\r\nO Gold Dust Pouch será enviado ao Cofre do Clã no fim do Algoritmo."
+   }
+  },
+  "TutorialWalkthrough_Name.csv": {
+   "Desc": {
+    "Rally your clan members to defeat <Orange>bosses replicated</> by the <Orange>Replica Seed</>, an enigmatic ancient relic.\r\n① Check the status of replicable bosses appearing in the Forsaken Land by region.\r\n② Use Replica Seeds obtained from <Orange>Clan Missions</> to challenge them. Clearing the boss and claiming rewards reduces your remaining weekly attempts. Once you run out of weekly attempts, you cannot enter.\r\n③ Check <Orange>whether Boss Essences have spawned</> and if <Orange>the Replica Seed</> is active to fast-travel to each location.": "Reúna os membros do clã para derrotar <Orange>chefes replicados</> pela <Orange>Replica Seed</>, uma enigmática relíquia antiga.\r\n① Confira por região o status dos chefes replicáveis que aparecem na Forsaken Land.\r\n② Use Replica Seeds obtidas nas <Orange>Missões do Clã</> para desafiá-los. Derrotar o chefe e receber as recompensas consome suas tentativas semanais. Sem tentativas semanais, não é possível entrar.\r\n③ Confira <Orange>se as Essências de Chefe surgiram</> e se <Orange>a Replica Seed</> está ativa para viajar rapidamente até cada local.",
+    "Equip a <Orange>3★</> or higher Phantom Weapon to activate the <Orange>Memorite Skill</>.": "Equipe uma Arma Fantasma <Orange>3★</> ou superior para ativar a <Orange>Memorite Skill</>.",
+    "① Save your current status via <Orange>Resonance Presets</>. Applying a preset will adjust your stats and Combat Power accordingly.\r\n② <Orange>Resonance Amplification</> consumes a <Orange>Resonance Amplification Core</> to guarantee <Orange>100%</> success. <Orange>Usage is limited</>.\r\n③ <Orange>Resonance Reset</> reverts all current progress to its <Orange>initial state</>.": "① Salve seu estado atual em <Orange>Predefinições de Ressonância</>. Aplicar uma predefinição ajusta seus atributos e Poder de Combate.\r\n② A <Orange>Amplificação de Ressonância</> consome um <Orange>Resonance Amplification Core</> para garantir <Orange>100%</> de sucesso. <Orange>O uso é limitado</>.\r\n③ A <Orange>Redefinição de Ressonância</> reverte todo o progresso atual ao <Orange>estado inicial</>."
+   }
+  }
+ },
+ "__literal_brackets__": [],
+ "Achievement_Name.csv": {
+  "2017001": {
+   "Description": "The Vitalizing Sanctum gravado {RequiredStackCount} vezes"
+  }
+ },
+ "AcquireAndUseViewGroup_Name.csv": {
+  "35400": {
+   "Desc": "Replica Seed - [Keyword]"
+  },
+  "113900": {
+   "Desc": "Ativar Replica Seed"
+  }
+ },
+ "ClientString_Name.csv": {
+  "CLAN_DUNGEON_LIST": "Angbar Arena · Replica Seed",
+  "DEATH_PENALTY_RECOVERY_ASSET_CANT_SWITCH": "Não é possível selecionar outros recursos enquanto você tiver um Death Penalty Recovery Coupon.",
+  "PK_IGNORE_EFFECT_REMOVAL_WARNING_GADGET_CONTROLLED": "O efeito de Shield of Peace será perdido ao interagir com [Name].",
+  "PK_IGNORE_EFFECT_REMOVAL_WARNING_GADGET_OPERATION_MESSAGE": "O efeito de Shield of Peace será perdido ao interagir com este objetivo. Continuar mesmo assim?",
+  "PK_IGNORE_ITEM_USAGE_NOTIFICATION": "O efeito do item Shield of Peace foi aplicado; você não será atacado por outros jogadores durante [Time].",
+  "PROTECTED_ITEM_USED_CHARACTER_UNATTACKABLE": "Não é possível atacar um alvo que usa Shield of Peace.",
+  "REPLICASEED_ACTIVATED_ALARM": "Ativar a Replica Seed de [BossName]",
+  "REPLICASEED_ACTIVATE": "Ativar Replica Seed",
+  "REPLICASEED_ACTIVATE_WARN_MSG": "Meu personagem não pode coletar mais recompensas.\nAtivar a Replica Seed?",
+  "REPLICASEED_ALRDY_SPAWN_MSG": "Já existe uma Replica Seed ativa.",
+  "REPLICASEED_DESTROY_CONFIRM_TITLE": "Destruir Replica Seed",
+  "REPLICASEED_DESTROY_CONFIRM_DESC1": "Destruir a Replica Seed do chefe?",
+  "REPLICASEED_DESTROY_MSG": "Desafio interrompido: [Name] destruiu a Replica Seed de [BossName].",
+  "REPLICASEED_FAIL_TITLE": "Missão da Replica Seed falhou",
+  "REPLICASEED_STOP_TITLE": "Desafio da Replica Seed interrompido",
+  "REPLICASEED_STOP_DESC": "A Replica Seed foi destruída, interrompendo a replicação do chefe.",
+  "REPLICASEED_CLEAR_TITLE": "Missão da Replica Seed concluída",
+  "REPLICASEED_ITEM_USAGE_NOTIFICATION": "A Replica Seed está ressoando violentamente com a Essência do chefe.",
+  "REPLICASEED_PORTAL_SPAWN_NOTIFICATION": "[Name] ativou a Replica Seed de [BossName]. Ir para lá agora?",
+  "RESONANCE_BTN_RESONANCE_AMPLIFY_NOT_ENOUGH_MATERIAL": "Não é possível amplificar: Resonance Amplification Core insuficiente.",
+  "CHARACTERGIFT_BUY_LIMIT_EXCEED_MSG": "Você só pode possuir 1 Character Gift Ticket por conta.",
+  "CHARACTERGIFT_CANCEL_MSG": "Presente de personagem cancelado. O Character Gift Ticket será enviado por e-mail."
+ },
+ "ContentsFunctionGroup_Name.csv": {
+  "204": {
+   "Desc": "Giant's Tower Hot Time Recharge Ticket diário <Yellow>[{IntParam}]</>"
+  },
+  "209": {
+   "Desc": "Crystal of Authority diário <Yellow>[{IntParam}]</>"
+  }
+ },
+ "ContentsFunction_Name.csv": {
+  "20401": {
+   "Desc": "Receba [Value] Giant's Tower Hot Time Recharge Ticket por dia pela caixa de entrada."
+  }
+ },
+ "Dialog_Name.csv": {
+  "110135020120": {
+   "Text": "Antes de ir, passe no armazém e compre uma <Orange>Rejuvenation Potion</>.\nEle nunca fala de graça."
+  },
+  "330456030050": {
+   "Text": "A Rejuvenation Potion exclusiva do Médico está pronta!\nEm vez de buscar um impulso temporário, foquei na melhoria geral da constituição."
+  },
+  "220422020010": {
+   "Text": "A estrela em ascensão que desafia o Baba Liquor!\nEstamos servindo Taima Liquor, feito com água direto do oásis!"
+  },
+  "220426050060": {
+   "Text": "Baba geralmente é usado para fazer Baba Liquor, mas\nnós o moemos bem fino para usar no nosso remédio."
+  },
+  "151103050060": {
+   "Text": "Aqui, esta é a <Blue>Weapon Enhancement Stone Crafting Recipe</>."
+  },
+  "151502030080": {
+   "Text": "Replica Seed.\nÉ um artefato antigo que nos foi dado pelos <Orange>Liberators of Knowledge</>."
+  },
+  "151502050040": {
+   "Text": "A Replica Seed...! Você... tem ideia do quanto isso é precioso?!"
+  },
+  "151503010050": {
+   "Text": "Depois de divagar por um bom tempo, Nicola finalmente confessou que estava abusando da sorte,\nvagando numa tentativa desesperada de entregar a Replica Seed a Bailiegh."
+  },
+  "151503010130": {
+   "ItemDesc": "A Replica Seed coletada por Nicola.\nEstá carregada com o Fator de Karugura, então é melhor manuseá-la com cuidado."
+  },
+  "151503020070": {
+   "ItemDesc": "A Replica Seed entregue por Bailiegh."
+  },
+  "151505020130": {
+   "Text": "<Yellow>Agora, você e eu só precisamos terminar juntos esta pesquisa da Replica Seed.</>"
+  },
+  "151505030060": {
+   "Text": "<Yellow>Aquilo que eu te dei... não é a verdadeira Replica Seed.</>"
+  },
+  "151505030160": {
+   "Text": "Agora, vamos direto ao ponto.\nAgora, esta... é a verdadeira <Blue>Replica Seed</>."
+  },
+  "151505040030": {
+   "Text": "Use a Replica Seed enquanto pensa:\nacorde, crie ou algo parecido…"
+  },
+  "170111040020": {
+   "Text": "Eu estaria bebendo... ahn... aquele Baba Liquor que os Naruru fazem!"
+  },
+  "170111050010": {
+   "Text": "<Yellow>(O Baba Liquor supremo... é muito popular, não é?)</>"
+  },
+  "170127070100": {
+   "Text": "<Yellow>Bebidas! Baba Liquor! O orgulho dos Naruru!</>\nGuardei um pouco em segredo, só para nós!"
+  }
+ },
+ "DungeonSection_Name.csv": {
+  "210101041": {
+   "Description": "Derrote o Guardian of the Treasure antes que o tempo acabe."
+  },
+  "801021101": {
+   "Description": "Essência de {StringParam} extraída pela Replica Seed.\nAs células proliferam com intensidade fervente."
+  },
+  "801021201": {
+   "Description": "Essência de {StringParam} extraída pela Replica Seed.\nAs células se multiplicam em ritmo explosivo."
+  }
+ },
+ "Dungeon_Name.csv": {
+  "8010211": {
+   "Description": "Essência de {Param} extraída pela Replica Seed.\nAs células proliferam com intensidade fervente."
+  },
+  "8010212": {
+   "Description": "Essência de {Param} extraída pela Replica Seed.\nAs células se multiplicam em ritmo explosivo."
+  }
+ },
+ "Effect_Name.csv": {
+  "59072": "Wings of Fate: aumenta a Velocidade de Movimento",
+  "59073": "Wings of Fate: aumenta a Taxa de Conjuração",
+  "59074": "Wings of Fate: aumenta a Velocidade de Ataque",
+  "59075": "Wings of Fate: reduz a recarga de Skills",
+  "59998": {
+   "Name": "Aerial Dash - Desafio do Baú do Tesouro",
+   "EffectDescription": "Aerial Dash - Desafio do Baú do Tesouro"
+  },
+  "71000": {
+   "EffectDescription": "Aumenta o dano contra jogadores em <Orange>{EffectParam1}</>%\nReduz o dano recebido de jogadores em <Orange>{EffectParam2}</>%\nAumenta a chance de acerto crítico contra jogadores em <Orange>{EffectParam3}</>%\nAumenta a precisão contra jogadores em <Orange>{EffectParam4}</>%\nAumenta a velocidade de movimento em <Orange>{EffectParam5}</>%\nAumenta o dano contra chefes em <Orange>{EffectParam6}</>%\n<Orange>※ Aplica-se apenas dentro de Ancient Ruins</>"
+  },
+  "71200": {
+   "EffectDescription": "Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%\n<Orange>※ Aplica-se apenas dentro de Ancient Ruins</>"
+  }
+ },
+ "EventDrop_Name.csv": {
+  "1016": {
+   "PageName": "Drops de Naruru's Treasure Hunt Ticket"
+  }
+ },
+ "EventMissionRecord_Name.csv": {
+  "21005": {
+   "Name": "Usar Weapon Enhancement Stone Recipe",
+   "Desc": "Usar Weapon Enhancement Stone Recipe"
+  },
+  "3066": {
+   "Desc": "Usar ‘Weapon Enhancement Stone Recipe’"
+  },
+  "1013005": {
+   "Name": "Usar {RequiredStackCount} Anima Essence",
+   "Desc": "Usar {RequiredStackCount} Anima Essence"
+  },
+  "1017202": {
+   "Name": "Fabricar Armor Enhancement Stone"
+  },
+  "1017203": {
+   "Name": "Fabricar Weapon Enhancement Stone"
+  },
+  "9011101": {
+   "Name": "Hearty Baba Bread"
+  },
+  "9011102": {
+   "Name": "Sweet Baba Crackers"
+  },
+  "9011103": {
+   "Desc": "Usar {RequiredStackCount} Baba Liquor"
+  },
+  "102702": {
+   "Name": "Usar Stardust"
+  },
+  "9012101": {
+   "Name": "Usar Halo Bread",
+   "Desc": "Usar {RequiredStackCount} Halo Bread"
+  },
+  "9031103": {
+   "Name": "Usar Cup of Black Tea"
+  }
+ },
+ "EventTab_Name.csv": {
+  "6017": {
+   "TabName": "Drops de Naruru's Treasure Hunt Ticket"
+  }
+ },
+ "FlavorTextPage_Name.csv": {
+  "10005041": {
+   "Text": "Fator de Karugura.\nQuando o coloco na Replica Seed, uma luz fraca pisca."
+  },
+  "10005051": {
+   "Text": "Fator de Karugura.\nColoquei-o na Replica Seed, mas nada muda.\nAcredito ter seguido as instruções de Bailey, então isso é estranho."
+  },
+  "10005081": {
+   "Text": "Fator de Tagar.\nQuando o coloco na Replica Seed, uma luz fraca pisca."
+  },
+  "10005091": {
+   "Text": "Fator de Tagar.\nQuando o coloco na Replica Seed, ela emite uma luz intensa."
+  }
+ },
+ "GadgetInteraction_Name.csv": {
+  "1247": {
+   "TextInteraction": "Entregando a Replica Seed..."
+  },
+  "1249": {
+   "TextInteraction": "Usando a Replica Seed..."
+  },
+  "9020101": {
+   "Desc": "Ativar Replica Seed"
+  }
+ },
+ "GadgetType_Name.csv": {
+  "26": "Portal da Replica Seed"
+ },
+ "LoadingTip_Name.csv": {
+  "1153101": {
+   "LoadingTipInfo": "Um repositório do antigo império, supostamente administrado pela Tribo Ragar.\nVocê pode obter Stardust, necessário para subir o nível das Cartas, e materiais para a Transcendência."
+  }
+ },
+ "PassMission_Name.csv": {
+  "1000102": {
+   "Name": "Fabricar Weapon Enhancement Stone"
+  },
+  "1000103": {
+   "Name": "Fabricar Armor Enhancement Stone"
+  },
+  "1000104": {
+   "Name": "Fabricar Accessory Enhancement Stone",
+   "Description": "Fabricar Accessory Enhancement Stone {RequiredStackCount} vezes"
+  }
+ },
+ "QuestTask_Name.csv": {
+  "50030101": {
+   "TaskName": "Fabricação diária - Fabricar Armor Enhancement Stone 5 vezes"
+  },
+  "50060201": {
+   "TaskName": "Fabricação diária - Fabricar Weapon Enhancement Stone 10 vezes"
+  },
+  "50080201": {
+   "TaskName": "Fabricação diária - Fabricar Armor Enhancement Stone 10 vezes"
+  },
+  "500130201": {
+   "TaskName": "Fabricação diária - Fabricar Accessory Enhancement Stone 10 vezes"
+  },
+  "500260101": {
+   "TaskName": "Ocupe The Vitalizing Sanctum {TaskCount} vezes"
+  },
+  "500260201": {
+   "TaskName": "Fabricação diária - Fabricar Weapon Enhancement Stone {TaskCount} vezes"
+  },
+  "500320201": {
+   "TaskName": "Fabricação diária - Fabricar Armor Enhancement Stone {TaskCount} vezes"
+  },
+  "500380201": {
+   "TaskName": "Fabricação diária - Fabricar Accessory Enhancement Stone {TaskCount} vezes"
+  },
+  "701020090": {
+   "TaskName": "<SubContents>Ir para Ancient Ruins</>"
+  },
+  "511040070": {
+   "TaskName": "Vá para <Faction>Ancient Ruins Diggings</>"
+  },
+  "511040160": {
+   "TaskName": "Retorne a <Faction>Ancient Ruins Diggings</>"
+  },
+  "101200050": {
+   "TaskName": "Entre <EpicMain>em Ancient Ruins</>"
+  },
+  "102300130": {
+   "TaskName": "Derrote <EpicMain>Paradise Advent Prophet</>"
+  }
+ },
+ "Quest_Name.csv": {
+  "500301": "Fabricar Armor Enhancement Stone",
+  "500602": "Fabricar Weapon Enhancement Stone",
+  "5001302": "Fabricar Accessory Enhancement Stone",
+  "30101040": {
+   "DescNotCompleted": "Derrote o Guardian of the Treasure antes que o tempo acabe."
+  },
+  "511030": {
+   "DescNotCompleted": "O Aventureiro ganha uma Weapon Enhancement Stone Recipe como recompensa por divulgar a Guilda dos Ferreiros a pedido de Thorstein."
+  }
+ },
+ "ResultCodeString_Name.csv": {
+  "2195": "Já existe uma Replica Seed ativa.",
+  "2488": "Não é possível usar Shield of Peace enquanto segura a Ashur's Torch."
+ },
+ "ShopItem_Name.csv": {
+  "110004004": "Evrin's Stardust Set{Param}",
+  "110008140": "Giant's Tower Hot Time Recharge Ticket x3",
+  "118001015": "[50%] Abyss Battlefield Time Recharge Stone",
+  "930000010": "Source of Magic x{Param}"
+ },
+ "SkillDescription_Name.csv": {
+  "24513": {
+   "Desc": "Remove a invisibilidade de alvos hostis dentro do alcance de Cradle of Mana"
+  },
+  "14024511": {
+   "Desc": "Aumenta o alcance de Cradle of Mana em 5 m\nAumenta a resistência a controle de grupo em mais 10% enquanto o escudo estiver ativo"
+  },
+  "15024511": {
+   "Desc": "Aumenta o alcance de Cradle of Mana em 5 m\nAumenta a resistência a controle de grupo em mais 15% enquanto o escudo estiver ativo"
+  }
+ },
+ "SpeechBalloonBundle_Name.csv": {
+  "2001026301": {
+   "Text": "Hehehe... Vou beber Baba Liquor até me fartar!"
+  },
+  "2001026701": {
+   "Text": "É cliente, cliente? Veio tomar um Baba Liquor?"
+  },
+  "2001027201": {
+   "Text": "Baba Liquor... é tão gostoso... glup, glup..."
+  },
+  "2001031802": {
+   "Text": "Hoje eu, eu pago o Baba Liquor! Vamos beber."
+  },
+  "2001045902": {
+   "Text": "Escondendo, eles estavam escondendo o Baba Liquor!"
+  }
+ },
+ "SpeechBalloonPC_Name.csv": {
+  "10000201": {
+   "Text": "Hora de seguir em frente, desta vez por conta própria.\nVamos comprar uma Rejuvenation Potion na loja."
+  },
+  "10000301": {
+   "Text": "Vamos comprar Dew Collected from Leaves no armazém geral."
+  },
+  "10000401": {
+   "Text": "Por precaução… melhor comprar Snow Flower Fruit também."
+  },
+  "10000501": {
+   "Text": "Misturar ingredientes saborosos pode deixar ainda melhor.\nMelhor comprar Sweet and Sour Desert Drink também."
+  },
+  "10015701": {
+   "Text": "Vamos subir nas ruínas e acionar a Replica Seed."
+  }
+ },
+ "Toast_Name.csv": {
+  "40": {
+   "Message": "<Green>[Name]</> ativou a Replica Seed de <Yellow>[BossName]</>. Ir para lá agora?"
+  }
+ },
+ "TowerOfTitanAlgorithm_Name.csv": {
+  "5": {
+   "DetailDesc": "5% do ouro obtido por aventureiros que não sejam do Clã Governante será recolhido.\nQuando o ouro recolhido chegar a 10.000, ele se transformará em um Gold Dust Pouch.\nO Gold Dust Pouch será enviado ao Cofre do Clã no fim do Algoritmo."
+  }
+ },
+ "TutorialWalkthrough_Name.csv": {
+  "202610": {
+   "Desc": "Reúna os membros do clã para derrotar <Orange>chefes replicados</> pela <Orange>Replica Seed</>, uma enigmática relíquia antiga.\n① Confira por região o status dos chefes replicáveis que aparecem na Forsaken Land.\n② Use Replica Seeds obtidas nas <Orange>Missões do Clã</> para desafiá-los. Derrotar o chefe e receber as recompensas consome suas tentativas semanais. Sem tentativas semanais, não é possível entrar.\n③ Confira <Orange>se as Essências de Chefe surgiram</> e se <Orange>a Replica Seed</> está ativa para viajar rapidamente até cada local."
+  },
+  "203301": {
+   "Desc": "Equipe uma Arma Fantasma <Orange>3★</> ou superior para ativar a <Orange>Memorite Skill</>."
+  },
+  "208405": {
+   "Desc": "① Salve seu estado atual em <Orange>Predefinições de Ressonância</>. Aplicar uma predefinição ajusta seus atributos e Poder de Combate.\n② A <Orange>Amplificação de Ressonância</> consome um <Orange>Resonance Amplification Core</> para garantir <Orange>100%</> de sucesso. <Orange>O uso é limitado</>.\n③ A <Orange>Redefinição de Ressonância</> reverte todo o progresso atual ao <Orange>estado inicial</>."
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+  "version": "v14",
+  "translation_snapshot": "translations/v14",
+  "changes": "changes/v13-to-v14/changes.json",
+  "built_with": "tools/build_pak.py (equivalente a repak_cli 0.2.3 pack --version V11)",
+  "install_path": "ProjectTT/Content/Paks/pakchunk9999-Windows_21474835_P.pak",
+  "format": {
+    "pak_version": "V11",
+    "mount_point": "../../../",
+    "encrypted_index": true,
+    "path_hash_seed": "E92532A4",
+    "compression": "None",
+    "entries": 227
+  },
+  "files": {
+    "player_download": {
+      "filename": "Architect-PTBR-v14.zip",
+      "sha256": "ab8486d4c3197269906b4b2ff62b7fb1cc030df910803138b17971804f075175"
+    },
+    "pak": {
+      "filename": "pakchunk9999-Windows_21474835_P.pak",
+      "bytes": 12428232,
+      "sha256": "581b020749c1d011578aaa380cb60ab762d8abd194fa703bba922a6d5214ac83"
+    }
+  },
+  "validation": {
+    "audit": "../work/audit-v14.json",
+    "missing_tables": 0,
+    "missing_ids": 0,
+    "new_ids": 0,
+    "empty_translations": 0,
+    "placeholder_mismatches": 0,
+    "item_name_mismatches": 0,
+    "bad_tower_mentions": 0,
+    "pak_entries_match_snapshot": "227/227",
+    "completeness_zhCN": "../work/completeness-v13-zhCN.json",
+    "name_mentions": "../work/name-mentions-v14.json (5 falsos positivos restantes)"
+  },
+  "summary": "Nomes de Skills, itens e masmorras em inglês em qualquer menção (5.970 células sobre a v13). Ver CHANGELOG."
+}

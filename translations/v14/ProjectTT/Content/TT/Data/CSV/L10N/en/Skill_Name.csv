@@ -1,0 +1,3408 @@
+﻿Id,Name,Description
+11,Normal Attack,Balança uma espada larga para atacar o alvo
+12,Normal Attack,Balança uma espada larga para atacar o alvo
+13,Normal Attack,Balança uma espada larga para atacar o alvo
+14,Normal Attack,Balança uma espada larga para atacar o alvo
+21,Normal Attack,Lança magia para atacar o alvo
+22,Normal Attack,Lança magia para atacar o alvo
+23,Normal Attack,Lança magia para atacar o alvo
+24,Normal Attack,Lança magia para atacar o alvo
+31,Normal Attack,Lança um orbe para atacar o alvo
+32,Normal Attack,Lança um orbe para atacar o alvo
+33,Normal Attack,Lança um orbe para atacar o alvo
+34,Normal Attack,Lança um orbe para atacar o alvo
+41,Normal Attack,Usa uma adaga para atacar o alvo.
+42,Normal Attack,Usa uma adaga para atacar o alvo.
+43,Normal Attack,Usa uma adaga para atacar o alvo.
+44,Normal Attack,Usa uma adaga para atacar o alvo.
+51,Normal Attack,Dispara uma flecha para atacar o alvo
+52,Normal Attack,Dispara uma flecha para atacar o alvo
+53,Normal Attack,Dispara uma flecha para atacar o alvo
+54,Normal Attack,Dispara uma flecha para atacar o alvo
+101,,
+102,,
+103,,
+104,,
+105,,
+501,,
+502,,
+503,,
+511,Dash,Salta em uma direção designada para se mover
+512,Dash,Salta em uma direção designada para se mover
+513,Dash,Salta em uma direção designada para se mover
+514,Dash,Salta em uma direção designada para se mover
+521,Dash,Salta em uma direção designada para se mover
+522,Dash,Salta em uma direção designada para se mover
+523,Dash,Salta em uma direção designada para se mover
+524,Dash,Salta em uma direção designada para se mover
+531,Dash,Salta em uma direção designada para se mover
+532,Dash,Salta em uma direção designada para se mover
+533,Dash,Salta em uma direção designada para se mover
+534,Dash,Salta em uma direção designada para se mover
+541,Dash,Salta em uma direção designada para se mover
+542,Dash,Salta em uma direção designada para se mover
+543,Dash,Salta em uma direção designada para se mover
+544,Dash,Salta em uma direção designada para se mover
+551,Dash,Salta em uma direção designada para se mover
+552,Dash,Salta em uma direção designada para se mover
+553,Dash,Salta em uma direção designada para se mover
+554,Dash,Salta em uma direção designada para se mover
+600,Artificial Floating Stone,Artificial Floating Stone
+1001,Storm Slash,Avança rapidamente para causar dano aos inimigos
+1011,Earth Tremor,"Bate no chão com força, enviando uma onda de choque que causa dano aos inimigos e reduz sua velocidade de movimento"
+1021,Earth Smash,"Bate com sua espada para dividir o chão, causando dano e derrubando os inimigos na frente"
+1031,Preparing for Battle,Usar este skill aumenta o poder de ataque por um período definido
+1041,Protection Strike,"Enfia uma espada grande no alvo para causar Dano e infligir Sangramento.
+Aumenta a Defesa do lançador por um determinado período."
+1101,Blade Surge,"Avança e dá um gancho nos inimigos, causando dano e atordoando-os"
+1111,Concentration,Usar este skill aumenta a taxa de precisão por um período definido
+1121,Unleash Rage,"Libera aura de espada para causar dano explosivo aos inimigos, infligindo Queimadura e reduzindo a Velocidade de Movimento"
+1201,Blade of Rupture,Balança a espada em um amplo arco para causar dano aos inimigos próximos e infligir Sangramento
+1211,Physical Enhancement,Usar este skill aumenta a velocidade de ataque por um determinado período
+1251,Declare Combat,Cria uma área ao seu redor que aumenta as capacidades defensivas e reduz as capacidades ofensivas dos inimigos
+1261,Sword's Brand,"Lança uma espada nos inimigos para causar dano e deixar uma Marca, infligindo Sangramento e Vinculação e reduzindo a Velocidade de Movimento"
+1301,Ruin,"Subjuga o inimigo e, em seguida, puxa a espada para causar dano aos inimigos próximos também"
+1311,Ironclad Rage,"Usar este skill aumenta a taxa de acerto crítico, velocidade de movimento e poder de ataque Skill"
+1351,Chain Bind,Puxa o alvo para frente do rodízio com correntes e restringe o uso de consumíveis
+1361,Leap Slash,"Salta e causa dano no local de pouso, provocando os inimigos."
+1401,Multi Trajectory,"Lança múltiplas ondas de espada para causar dano a vários inimigos, causando Knockdown e Burn"
+1411,Fighting Spirit of the Overlord,"Ao usar skill, o dano de acerto crítico e a resistência ao acerto crítico aumentam e o dano recebido de Skill é reduzido."
+1451,Roar of the Sword,"Detona energia dentro da arma para causar dano aos inimigos próximos, puxando-os e infligindo Queimadura"
+1461,Protection of Steel,"Ao usar skill, a Taxa de Resistência ao Acerto Crítico e a Taxa de Resistência à Maximização aumentam e o Dano Recebido é reduzido."
+2001,Mana Bolt,Dispara um raio mágico que causa dano explosivo aos inimigos e reduz sua velocidade de movimento
+2011,Spatial Explosion,"Golpeia o solo para desencadear uma explosão no local alvo, derrubando os inimigos"
+2021,Flash,"Dispara um flash de luz, causando dano aos inimigos em linha reta"
+2031,Preparing for Battle,Usar este skill aumenta o poder de ataque por um período definido
+2041,Mana Reverse,"Faz com que Mana do alvo reflua para causar dano e infligir Veneno. 
+Amplifica simultaneamente o poder mágico do lançador para se proteger."
+2101,Mana Sigil,"Marca um selo nos inimigos, causando dano explosivo e atordoando-os à medida que os golpes se acumulam acima"
+2102,Mana Sigil,
+2103,Mana Sigil,
+2104,Mana Sigil,
+2111,Concentration,Usar este skill aumenta a taxa de precisão por um período definido
+2121,Ice Spike,Causa dano aos inimigos com pontas de gelo afiadas e inflige Congelamento.
+2201,Hellfire,"Cria uma zona de chamas, causando dano ao longo do tempo e queimadura"
+2211,Physical Enhancement,Usar este skill aumenta a velocidade de ataque por um determinado período
+2251,Mana Shield,Cria um escudo com energia mágica que absorve dano
+2261,Mana Circulation,Usar este skill diminui o tempo de recarga e o consumo de MP
+2301,Spatial Compression,Reúne energia espacial em um único ponto para causar dano explosivo e atordoar os inimigos
+2311,High-Density Mana,"Usar este skill aumenta a taxa de acerto crítico, velocidade de lançamento e poder de ataque de Skill"
+2351,Ice Pillar,"Cria um pilar de gelo para bloquear o movimento, causando dano aos inimigos
+(No entanto, não pode ser usado em um Safe Zone)"
+2361,Blessing,Reduz o dano recebido por um determinado período.
+2401,Frost Hell,"Evoca uma enorme nevasca para causar dano aos inimigos, causando Atordoamento e Congelamento"
+2411,Eternal Wisdom,"Ao usar skill, o dano de acerto crítico e a defesa aumentam e o dano recebido de Skill é reduzido."
+2451,Cradle of Mana,Detona mana para conceder um escudo aos aliados dentro da área e remover a furtividade do inimigo
+2461,Element Overload,"Ao usar skill, a duração do bônus, a taxa de resistência a acertos críticos e a taxa de resistência à maximização aumentam."
+3001,Tidal Smite,Evoca um maremoto para causar dano aos inimigos e reduzir sua velocidade de movimento
+3011,Chain Freeze,"Lança um orbe mágico que salta entre os inimigos, causando dano até 5 vezes consecutivas"
+3021,Discharge,Libera uma onda de choque com um orbe mágico para causar dano aos inimigos e derrubá-los
+3031,Preparing for Battle,Usar este skill aumenta o poder de ataque por um período definido
+3041,Circulating Aura,"Lança um orbe mágico de vento condensado para causar dano aos inimigos em seu caminho.
+Devolve o orbe mágico ao lançador após atingir o alcance máximo, causando dano adicional aos inimigos em seu caminho.
+Restaura uma pequena quantidade do HP do lançador neste momento."
+3101,Twisted Torrent,"Libera vários orbes mágicos para causar dano aos inimigos, infligindo Atordoamento e Congelamento, e reduzindo sua Defesa"
+3111,Concentration,Usar este skill aumenta a taxa de precisão por um período definido
+3121,Explosive Torrent,Evoca um pilar de água crescente para causar dano aos inimigos e infligir Veneno
+3201,Wind Surge,"Move-se rapidamente na direção designada, causando dano aos inimigos e reduzindo seu movimento Velocidade"
+3211,Physical Enhancement,Usar este skill aumenta a velocidade de ataque por um determinado período
+3251,Healing,Recupera o HP do alvo usando a energia de um orbe mágico
+3261,Purify,"Remove debuffs, restaura HP e aumenta efeitos de cura"
+3301,Twisted Fate,Puxa os inimigos para o local designado para causar dano
+3311,Force of Nature,"Usar este skill aumenta a taxa de acerto crítico, velocidade de movimento e poder de ataque básico"
+3351,Salvation,Cria uma orbe mágico de recuperação em um local designado para recuperar continuamente o HP dos aliados
+3361,Focused Healing,Conecta-se ao alvo com energia mágica para recuperar HP ao longo do tempo
+3401,Abyssal Spring,"Cria uma enorme poça de água para causar dano ao longo do tempo aos inimigos, reduzindo sua velocidade de movimento e infligindo veneno"
+3411,Breath of the Judge,"Ao usar skill, o dano de acerto crítico e a defesa aumentam e o dano recebido de Skill é reduzido."
+3451,Divine Breath,"Aumenta o HP máximo do alvo e recupera seu HP.
+Upon usando um skill, Skill O dano recebido e o dano de acerto crítico recebido de skills são reduzidos."
+3461,Baptism of Light,"Ao usar skill, a taxa de quantidade de recuperação de cura, a taxa de resistência a golpes críticos e a taxa de resistência à maximização aumentam."
+4001,Split Heart,Balança a espada para causar dano aos inimigos na frente e empurrá-los para trás
+4011,Execution,Golpeia os inimigos com a espada para causar dano poderoso e atordoá-los
+4021,Spinning Blade,Gira o corpo para causar dano aos inimigos próximos e derrubá-los
+4031,Preparing for Battle,Usar este skill aumenta o poder de ataque por um período definido
+4041,Vertical Slash,"Corta a espada verticalmente para causar dano aos inimigos.
+Tem chance de causar sangramento nos alvos atingidos."
+4101,Shadow Surge,Move-se rapidamente atrás do inimigo para causar dano e atordoá-lo
+4111,Concentration,Usar este skill aumenta a taxa de precisão por um período definido
+4121,Sand Toss,"Lança areia para frente para causar dano aos inimigos, infligindo Veneno e reduzindo a Velocidade de Movimento"
+4201,Poison Mist,"Espalha uma névoa venenosa no local designado, causando dano ao longo do tempo e Veneno"
+4211,Physical Enhancement,Usar este skill aumenta a velocidade de ataque por um determinado período
+4251,Flying Dagger,"Rapidamente lança uma espada nos inimigos para causar dano, infligindo Silêncio e Sangramento"
+4261,Hunt Begins,"No lançamento de skill, aumenta a chance de acerto crítico e reduz o dano de ataque básico recebido"
+4262,Hunt Begins,
+4301,Assault,Perfura para frente na direção designada para causar dano aos inimigos e atordoá-los
+4311,Path of the Assassin,"Usar este skill aumenta Taxa de acerto crítico, velocidade de movimento e poder de ataque"
+4351,Stealth,"Esconde-se nas sombras para entrar em Stealth, causando um acerto crítico ao acertar enquanto está furtivo"
+4352,Stealth,
+4361,Annihilation,"Subjuga o inimigo para causar dano com um ataque poderoso, aumentando a chance de acerto crítico contra jogadores"
+4401,Afterimage Flurry,"Cria múltiplas ilusões para causar dano a inimigos próximos, infligindo Silêncio e Sangramento"
+4411,Glare of Malice,"Ao usar skill, o dano de acerto crítico e a resistência ao acerto crítico aumentam e o dano recebido de Skill é reduzido."
+4451,Shadow Mist,"Cria uma névoa para causar dano ao longo do tempo, infligindo Cegueira e Veneno aos inimigos dentro da área"
+4461,Concentrated Malice,"Ao usar skill, a Taxa de Resistência ao Acerto Crítico e a Taxa de Resistência à Maximização aumentam, e o Dano de Acerto Crítico Recebido é reduzido."
+5001,Gale Shot,"Dispara uma flecha perfurante, causando dano aos inimigos e repelindo-os"
+5011,Suppression Arrow,"Atinge os inimigos com uma flecha explosiva para causar dano, causando uma explosão adicional logo depois, reduzindo sua Velocidade de Movimento"
+5012,Suppression Arrow Blast,
+5021,Volley,"Dispara flechas em forma de cone, causando dano aos inimigos e repelindo-os"
+5031,Preparing for Battle,Usar este skill aumenta o poder de ataque por um período definido
+5041,Explosive Arrow,"Dispara uma flecha que explode com o impacto, causando dano AoE e infligindo Queimadura"
+5101,Rapid Fire,"Dispara rapidamente várias flechas, causando dano aos inimigos"
+5111,Concentration,Usar este skill aumenta a taxa de precisão por um período definido
+5121,Multi-Arrow,"Solta um grupo de flechas em um local designado, causando dano aos inimigos e infligindo sangramento."
+5201,Arrow Rain,"Faz chover flechas do céu para causar dano ao longo do tempo aos inimigos na área designada, infligindo Sangramento"
+5211,Physical Enhancement,Usar este skill aumenta a velocidade de ataque por um determinado período
+5251,Tracking Arrow,"Dispara 3 flechas teleguiadas nos inimigos para causar dano, aplicando redução de velocidade de movimento, imobilização e silêncio"
+5271,Weakness Detection,"No lançamento de skill, fortalece Ataques Básicos, reduzindo a Velocidade de Movimento e a Velocidade de Ataque do inimigo."
+5272,Weakness Detection Basic Attack 1,
+5273,Weakness Detection Basic Attack 2,
+5274,Weakness Detection Basic Attack 3,
+5275,Weakness Detection Basic Attack 4,
+5276,Weakness Detection Basic Attack 1,
+5277,Weakness Detection Basic Attack 2,
+5278,Weakness Detection Basic Attack 3,
+5279,Weakness Detection Basic Attack 4,
+5280,Weakness Detection Basic Attack 1,
+5281,Weakness Detection Basic Attack 2,
+5282,Weakness Detection Basic Attack 3,
+5283,Weakness Detection Basic Attack 4,
+5301,Soul Arrow,"Dispara múltiplas flechas imbuídas de poder espiritual simultaneamente, causando dano e infligindo Imobilizar"
+5311,Hunting Instinct,"Ao usar o skill, a taxa de acerto crítico, a velocidade de lançamento e o poder de ataque básico aumentam."
+5351,Shadow Trap,"Define uma armadilha invisível que causa dano explosivo aos inimigos que se aproximam, causando Knockdown e Burn"
+5352,Shadow Trap Explosion,
+5353,[ 4 ] Shadow Trap Explosion,
+5354,[ 5 ] Shadow Trap Explosion,
+5361,Combat Unleashed,"Solta uma flecha poderosa, causando dano ao inimigo e removendo seus Buffs."
+5401,Chain Shackles,"Ao atingir um inimigo, se espalha como correntes para causar dano, causando atordoamento e sangramento"
+5411,Master Archer’s Gaze,"Ao usar skill, o dano de acerto crítico e o poder de ataque ignorado aumentam, e o dano recebido de Skill é reduzido."
+5451,Wind Snare,"Evoca uma armadilha de flecha para a frente para causar dano aos inimigos, infligindo Imobilização e Veneno"
+5461,Ruler’s Gaze,"Ao usar skill, a taxa de acerto de controle de multidão, a taxa de resistência a acertos críticos e a taxa de resistência à maximização aumentam."
+21100,Basic Combat,
+21101,Defensive Stance,
+21102,Prepare to Strike,
+21200,Precise Aim,
+21201,Sharp Instincts,
+21300,Power of the Combat,
+21301,Heavy Blow,
+21302,Enhance Vitality,
+21400,Flow of the Battlefield,
+21401,Focused Breathing,
+21402,Indomitable Body,
+21500,Hero’s Aura,
+21501,Gale Resolve,
+21502,Deathless Flesh,
+21140,Swordsmanship Training,
+21240,Greatsword Enhancement,
+21340,Combat Will: Warrior,
+21341,Ferocious Rage,
+21440,Warrior's Aura,
+21441,Steel Rage,
+21442,Steel Rage,
+21443,Blazing Fury,
+21444,Blazing Fury,
+21540,Sword of Destruction,
+21541,Sword of Destruction,
+21170,Combat Instinct: Warrior,
+21270,Strong Will,
+21370,Honorable Combat,
+21371,Steel Heart,
+21470,Domination of Rage,
+21471,Earth's Blessing,
+21472,Earth's Blessing,
+21473,Tenacious Combat,
+21570,Ironclad Protection,
+21572,Battle-Hardened Courage,
+21573,Veteran's Insight,
+22100,Basic Combat,
+22101,Defensive Stance,
+22102,Prepare to Strike,
+22200,Precise Aim,
+22201,Sharp Instincts,
+22300,Power of the Combat,
+22301,Heavy Blow,
+22302,Enhance Vitality,
+22400,Flow of the Battlefield,
+22401,Focused Breathing,
+22402,Indomitable Body,
+22500,Hero’s Aura,
+22501,Gale Resolve,
+22502,Deathless Flesh,
+22140,Mana Training,
+22240,Staff Enhancement,
+22340,Combat Will: Mage,
+22341,Primeval Magic,
+22440,Mage's Aura,
+22441,Mind Blast,
+22442,Mind Blast,
+22443,Frozen Flame,
+22444,Frozen Flame,
+22540,Burning Heart,
+22541,Burning Heart,
+22170,Combat Instinct: Mage,
+22270,Will of Mana,
+22370,Magic Focus,
+22371,Mana Amplification,
+22470,Mana Armor,
+22471,Mana Armor,
+22472,Foresight,
+22473,Foresight,
+22474,Spell Acceleration,
+22570,Eye of the Battlefield,
+22572,Mana Erosion,
+22573,Mana Insight,
+23100,Basic Combat,
+23101,Defensive Stance,
+23102,Prepare to Strike,
+23200,Precise Aim,
+23201,Sharp Instincts,
+23300,Power of the Combat,
+23301,Heavy Blow,
+23302,Enhance Vitality,
+23400,Flow of the Battlefield,
+23401,Focused Breathing,
+23402,Indomitable Body,
+23500,Hero’s Aura,
+23501,Gale Resolve,
+23502,Deathless Flesh,
+23140,Divine Training,
+23240,Orb Enhancement,
+23340,Combat Will: Battle Priest,
+23341,Inner Vision,
+23440,Battle Priest's Aura,
+23441,Holy Radiance,
+23442,Holy Radiance,
+23443,Frozen Miasma,
+23444,Frozen Miasma,
+23540,Divine Judgment,
+23541,Divine Judgment,
+23170,Combat Instinct: Battle Priest,
+23270,Will of Nature,
+23370,Recovery Shield,
+23371,Healing Suppression,
+23372,Healing Suppression,
+23470,Combat Blessing,
+23471,Regroup,
+23472,Regroup,
+23473,Divine Suppression,
+23570,Sanctuary,
+23571,Sanctuary,
+23572,Holy Blessing,
+23573,Sacred Insight,
+24100,Basic Combat,
+24101,Defensive Stance,
+24102,Prepare to Strike,
+24200,Precise Aim,
+24201,Sharp Instincts,
+24300,Power of the Combat,
+24301,Heavy Blow,
+24302,Enhance Vitality,
+24400,Flow of the Battlefield,
+24401,Focused Breathing,
+24402,Indomitable Body,
+24500,Hero’s Aura,
+24501,Gale Resolve,
+24502,Deathless Flesh,
+24140,Assassination Training,
+24240,Dagger Enhancement,
+24340,Combat Will: Assassin,
+24341,Shadow Discipline,
+24440,Assassin's Aura,
+24441,Shadow Blade,
+24442,Shadow Blade,
+24443,Cruel Imprint,
+24444,Cruel Imprint,
+24540,Assassin's Breath,
+24541,Assassin's Breath,
+24170,Combat Instinct: Assassin,
+24270,Will of Darkness,
+24370,Echo of Blood,
+24371,Dark Focus,
+24470,Blood Aura,
+24471,Dark Amplification,
+24472,Shadow Instinct,
+24570,Judgment,
+24572,Cruel Instinct,
+24573,Cruel Insight,
+25100,Basic Combat,
+25101,Defensive Stance,
+25102,Prepare to Strike,
+25200,Precise Aim,
+25201,Sharp Instincts,
+25300,Power of the Combat,
+25301,Heavy Blow,
+25302,Enhance Vitality,
+25400,Flow of the Battlefield,
+25401,Focused Breathing,
+25402,Indomitable Body,
+25500,Hero’s Aura,
+25501,Gale Resolve,
+25502,Deathless Flesh,
+25140,Archery Training,
+25240,Longbow Enhancement,
+25340,Combat Will: Hunter,
+25341,Gale Arrow,
+25440,Hunter's Aura,
+25441,Beast's Fang,
+25442,Beast's Fang,
+25443,Bloodstained Instinct,
+25444,Bloodstained Instinct,
+25540,Perfect Stance,
+25541,Perfect Stance,
+25170,Combat Instinct: Hunter,
+25270,Arrow’s Will,
+25370,Hunting Prowess,
+25371,Beast Instinct,
+25470,Hunting Essence,
+25471,Defense Break,
+25472,Weakness Hunting,
+25570,Ashen Arrow,
+25571,Ashen Arrow,
+25572,Venom Tracker,
+25573,Venomous Insight,
+40011,Expert Stance,
+40012,Normal Stance,
+40021,Expert Stance,
+40022,Normal Stance,
+40031,Expert Stance,
+40032,Normal Stance,
+40041,Expert Stance,
+40042,Normal Stance,
+40051,Expert Stance,
+40052,Normal Stance,
+41011,Special Evasion,
+41012,Special Evasion,
+41021,Special Evasion,
+41022,Special Evasion,
+41031,Special Evasion,
+41032,Special Evasion,
+41041,Special Evasion,
+41042,Special Evasion,
+41051,Special Evasion,
+41052,Special Evasion,
+45001,Attack Power Increase,Aumenta o poder de ataque do limite Skill.
+45002,Attack Power Increase,Aumenta o poder de ataque do limite Skill.
+45003,Attack Power Increase,Aumenta o poder de ataque do limite Skill.
+45004,Attack Power Increase,Aumenta o poder de ataque do limite Skill.
+45005,Attack Power Increase,Aumenta o poder de ataque do limite Skill.
+45011,Accuracy Increase,Aumenta a precisão do limite Skill.
+45012,Accuracy Increase,Aumenta a precisão do limite Skill.
+45013,Accuracy Increase,Aumenta a precisão do limite Skill.
+45014,Accuracy Increase,Aumenta a precisão do limite Skill.
+45015,Accuracy Increase,Aumenta a precisão do limite Skill.
+45021,Critical Hit Increase,Aumenta o acerto crítico do limite Skill.
+45022,Critical Hit Increase,Aumenta o acerto crítico do limite Skill.
+45023,Critical Hit Increase,Aumenta o acerto crítico do limite Skill.
+45024,Critical Hit Increase,Aumenta o acerto crítico do limite Skill.
+45025,Critical Hit Increase,Aumenta o acerto crítico do limite Skill.
+45034,Damage Increase,Aumenta o dano do limite Skill.
+45035,Damage Increase,Aumenta o dano do limite Skill.
+45044,Increased Damage to Crowd Controlled Targets,Aumenta o dano do Bound Skill contra alvos afetados pelo Crowd Control.
+45045,Increased Damage to Crowd Controlled Targets,Aumenta o dano do Bound Skill contra alvos afetados pelo Crowd Control.
+45054,Increased Damage to Afflicted Targets,Aumenta o dano do Bound Skill contra alvos afetados por Affliction.
+45055,Increased Damage to Afflicted Targets,Aumenta o dano do Bound Skill contra alvos afetados por Affliction.
+45064,Accuracy Rate Increase,Aumenta a taxa de precisão do limite Skill.
+45065,Accuracy Rate Increase,Aumenta a taxa de precisão do limite Skill.
+45074,Critical Hit Chance Increase,Aumenta a chance de acerto crítico do limite Skill.
+45075,Critical Hit Chance Increase,Aumenta a chance de acerto crítico do limite Skill.
+45084,Critical Damage Increase,Aumenta o dano de acerto crítico do limite Skill.
+45085,Critical Damage Increase,Aumenta o dano de acerto crítico do limite Skill.
+45091,Healing Amount Increase,Aumenta a quantidade de cura do limite Skill.
+45092,Healing Amount Increase,Aumenta a quantidade de cura do limite Skill.
+45093,Healing Amount Increase,Aumenta a quantidade de cura do limite Skill.
+45094,Healing Amount Increase,Aumenta a quantidade de cura do limite Skill.
+45095,Healing Amount Increase,Aumenta a quantidade de cura do limite Skill.
+45101,Shield Amount Increase,Aumenta a força do escudo do Bound Skill.
+45102,Shield Amount Increase,Aumenta a força do escudo do Bound Skill.
+45103,Shield Amount Increase,Aumenta a força do escudo do Bound Skill.
+45104,Shield Amount Increase,Aumenta a força do escudo do Bound Skill.
+45105,Shield Amount Increase,Aumenta a força do escudo do Bound Skill.
+45111,Cooldown Decrease,Diminui o Tempo de Recarga do Limite Skill.
+45112,Cooldown Decrease,Diminui o Tempo de Recarga do Limite Skill.
+45113,Cooldown Decrease,Diminui o Tempo de Recarga do Limite Skill.
+45114,Cooldown Decrease,Diminui o Tempo de Recarga do Limite Skill.
+45115,Cooldown Decrease,Diminui o Tempo de Recarga do Limite Skill.
+45121,Casting Speed Increase,Aumenta a velocidade de lançamento do limite Skill.
+45122,Casting Speed Increase,Aumenta a velocidade de lançamento do limite Skill.
+45123,Casting Speed Increase,Aumenta a velocidade de lançamento do limite Skill.
+45124,Casting Speed Increase,Aumenta a velocidade de lançamento do limite Skill.
+45131,Crowd Control Resistance Increase,Aumenta a taxa de resistência a todo o Crowd Control ao lançar o Bound Skill.
+45132,Crowd Control Resistance Increase,Aumenta a taxa de resistência a todo o Crowd Control ao lançar o Bound Skill.
+45133,Crowd Control Resistance Increase,Aumenta a taxa de resistência a todo o Crowd Control ao lançar o Bound Skill.
+45134,Crowd Control Resistance Increase,Aumenta a taxa de resistência a todo o Crowd Control ao lançar o Bound Skill.
+45143,Stun Duration Increase,Aumenta a duração do Atordoamento aplicado pelo Bound Skill.
+45144,Stun Duration Increase,Aumenta a duração do Atordoamento aplicado pelo Bound Skill.
+45145,Stun Duration Increase,Aumenta a duração do Atordoamento aplicado pelo Bound Skill.
+45153,Knockdown and Airborne Duration Increase,Aumenta a duração do Knockdown e Airborne aplicado pelo Bound Skill.
+45154,Knockdown and Airborne Duration Increase,Aumenta a duração do Knockdown e Airborne aplicado pelo Bound Skill.
+45155,Knockdown and Airborne Duration Increase,Aumenta a duração do Knockdown e Airborne aplicado pelo Bound Skill.
+45163,Slow Duration Increase,Aumenta a duração da redução da Velocidade de Movimento aplicada pelo Bound Skill.
+45164,Slow Duration Increase,Aumenta a duração da redução da Velocidade de Movimento aplicada pelo Bound Skill.
+45165,Slow Duration Increase,Aumenta a duração da redução da Velocidade de Movimento aplicada pelo Bound Skill.
+45173,Stun Chance Increase,Aumenta a chance de aplicar Atordoamento com o Bound Skill.
+45174,Stun Chance Increase,Aumenta a chance de aplicar Atordoamento com o Bound Skill.
+45175,Stun Chance Increase,Aumenta a chance de aplicar Atordoamento com o Bound Skill.
+45183,Knockdown and Airborne Chance Increase,Aumenta a chance do Bound Skill de derrubar e transportar inimigos no ar.
+45184,Knockdown and Airborne Chance Increase,Aumenta a chance do Bound Skill de derrubar e transportar inimigos no ar.
+45185,Knockdown and Airborne Chance Increase,Aumenta a chance do Bound Skill de derrubar e transportar inimigos no ar.
+45193,Slow Chance Increase,Aumenta a chance do Bound Skill de retardar os inimigos.
+45194,Slow Chance Increase,Aumenta a chance do Bound Skill de retardar os inimigos.
+45195,Slow Chance Increase,Aumenta a chance do Bound Skill de retardar os inimigos.
+45203,Affliction Duration Increase,Aumenta a duração de todos os efeitos de Aflição aplicados pelo Limite Skill.
+45204,Affliction Duration Increase,Aumenta a duração de todos os efeitos de Aflição aplicados pelo Limite Skill.
+45205,Affliction Duration Increase,Aumenta a duração de todos os efeitos de Aflição aplicados pelo Limite Skill.
+45213,Affliction Chance Increase,Aumenta a chance do Bound Skill de afligir os inimigos.
+45214,Affliction Chance Increase,Aumenta a chance do Bound Skill de afligir os inimigos.
+45215,Affliction Chance Increase,Aumenta a chance do Bound Skill de afligir os inimigos.
+45221,MP Cost Reduction,Diminui o consumo de MP do limite Skill.
+45222,MP Cost Reduction,Diminui o consumo de MP do limite Skill.
+45223,MP Cost Reduction,Diminui o consumo de MP do limite Skill.
+45224,MP Cost Reduction,Diminui o consumo de MP do limite Skill.
+45231,Buff Duration Increase,Aumenta a duração dos Buffs do Limite Skill.
+45232,Buff Duration Increase,Aumenta a duração dos Buffs do Limite Skill.
+45233,Buff Duration Increase,Aumenta a duração dos Buffs do Limite Skill.
+45234,Buff Duration Increase,Aumenta a duração dos Buffs do Limite Skill.
+45241,HP Recovery,Usar o limite skill tem uma chance de recuperar HP.
+45242,HP Recovery,Usar o limite skill tem uma chance de recuperar HP.
+45243,HP Recovery,Usar o limite skill tem uma chance de recuperar HP.
+45244,HP Recovery,Usar o limite skill tem uma chance de recuperar HP.
+45254,Cooldown Reset,Usar o limite skill tem uma chance de redefinir seu tempo de espera.
+45255,Cooldown Reset,Usar o limite skill tem uma chance de redefinir seu tempo de espera.
+45265,Penetration Increase,Aumenta a penetração do limite Skill.
+45271,Monster Damage Increase,Aumenta o dano do limite Skill contra monstros.
+45272,Monster Damage Increase,Aumenta o dano do limite Skill contra monstros.
+45273,Monster Damage Increase,Aumenta o dano do limite Skill contra monstros.
+45275,Monster Damage Increase,Aumenta o dano do limite Skill contra monstros.
+45281,Player Damage Increase,Aumenta o dano do limite Skill contra jogadores. Incursão
+45282,Player Damage Increase,Aumenta o dano do limite Skill contra jogadores. Incursão
+45283,Player Damage Increase,Aumenta o dano do limite Skill contra jogadores. Incursão
+45285,Player Damage Increase,Aumenta o dano do limite Skill contra jogadores. Incursão
+45291,Monster Accuracy Increase,Aumenta a taxa de precisão do limite Skill contra monstros.
+45292,Monster Accuracy Increase,Aumenta a taxa de precisão do limite Skill contra monstros.
+45293,Monster Accuracy Increase,Aumenta a taxa de precisão do limite Skill contra monstros.
+45295,Monster Accuracy Increase,Aumenta a taxa de precisão do limite Skill contra monstros.
+45301,Player Accuracy Increase,Aumenta a taxa de precisão do limite Skill contra jogadores.
+45302,Player Accuracy Increase,Aumenta a taxa de precisão do limite Skill contra jogadores.
+45303,Player Accuracy Increase,Aumenta a taxa de precisão do limite Skill contra jogadores.
+45305,Player Accuracy Increase,Aumenta a taxa de precisão do limite Skill contra jogadores.
+45311,Monster Critical Hit Chance Increase,Aumenta a chance de acerto crítico do limite Skill contra monstros.
+45312,Monster Critical Hit Chance Increase,Aumenta a chance de acerto crítico do limite Skill contra monstros.
+45313,Monster Critical Hit Chance Increase,Aumenta a chance de acerto crítico do limite Skill contra monstros.
+45315,Monster Critical Hit Chance Increase,Aumenta a chance de acerto crítico do limite Skill contra monstros.
+45321,Player Critical Hit Chance Increase,Aumenta a chance de acerto crítico do limite Skill contra jogadores.
+45322,Player Critical Hit Chance Increase,Aumenta a chance de acerto crítico do limite Skill contra jogadores.
+45323,Player Critical Hit Chance Increase,Aumenta a chance de acerto crítico do limite Skill contra jogadores.
+45325,Player Critical Hit Chance Increase,Aumenta a chance de acerto crítico do limite Skill contra jogadores.
+45331,Monster Critical Damage Increase,Aumenta o dano de acerto crítico do limite Skill contra monstros.
+45332,Monster Critical Damage Increase,Aumenta o dano de acerto crítico do limite Skill contra monstros.
+45333,Monster Critical Damage Increase,Aumenta o dano de acerto crítico do limite Skill contra monstros.
+45335,Monster Critical Damage Increase,Aumenta o dano de acerto crítico do limite Skill contra monstros.
+45341,Player Critical Damage Increase,Aumenta o dano de acerto crítico do limite Skill contra jogadores.
+45342,Player Critical Damage Increase,Aumenta o dano de acerto crítico do limite Skill contra jogadores.
+45343,Player Critical Damage Increase,Aumenta o dano de acerto crítico do limite Skill contra jogadores.
+45345,Player Critical Damage Increase,Aumenta o dano de acerto crítico do limite Skill contra jogadores.
+45351,Maximization Chance Increase,Aumenta a chance de maximização do limite Skill.
+45352,Maximization Chance Increase,Aumenta a chance de maximização do limite Skill.
+45353,Maximization Chance Increase,Aumenta a chance de maximização do limite Skill.
+45354,Maximization Chance Increase,Aumenta a chance de maximização do limite Skill.
+45355,Maximization Chance Increase,Aumenta a chance de maximização do limite Skill.
+45361,MP Recovery,"Ao usar o Bound Skill, tem uma chance definida de recuperar MP."
+45362,MP Recovery,"Ao usar o Bound Skill, tem uma chance definida de recuperar MP."
+45363,MP Recovery,"Ao usar o Bound Skill, tem uma chance definida de recuperar MP."
+45364,MP Recovery,"Ao usar o Bound Skill, tem uma chance definida de recuperar MP."
+45371,Shield Generation,"Ao usar o Bound Skill, tem uma chance definida de criar um Escudo."
+45372,Shield Generation,"Ao usar o Bound Skill, tem uma chance definida de criar um Escudo."
+45373,Shield Generation,"Ao usar o Bound Skill, tem uma chance definida de criar um Escudo."
+45374,Shield Generation,"Ao usar o Bound Skill, tem uma chance definida de criar um Escudo."
+45381,Movement Speed Increase,"Ao usar o Bound Skill, a velocidade de movimento aumenta por um determinado período."
+45382,Movement Speed Increase,"Ao usar o Bound Skill, a velocidade de movimento aumenta por um determinado período."
+45383,Movement Speed Increase,"Ao usar o Bound Skill, a velocidade de movimento aumenta por um determinado período."
+45384,Movement Speed Increase,"Ao usar o Bound Skill, a velocidade de movimento aumenta por um determinado período."
+45394,Reduces Damage Taken,"Ao usar o Bound Skill, o dano recebido diminui por um determinado período."
+45395,Reduces Damage Taken,"Ao usar o Bound Skill, o dano recebido diminui por um determinado período."
+45404,Increases Evasion Chance,"Ao usar o limite Skill, a taxa de evasão aumenta por um período definido."
+45405,Increases Evasion Chance,"Ao usar o limite Skill, a taxa de evasão aumenta por um período definido."
+45414,Crowd Control Resistance Increase,"Ao usar o vinculado Skill, A taxa de resistência do Crowd Control aumenta por um determinado período."
+45415,Crowd Control Resistance Increase,"Ao usar o vinculado Skill, A taxa de resistência do Crowd Control aumenta por um determinado período."
+45424,Increased Damage to Boss Monsters,Aumenta o dano vinculado de Skill contra monstros chefes.
+45425,Increased Damage to Boss Monsters,Aumenta o dano vinculado de Skill contra monstros chefes.
+45434,Increased Damage to Shielded Targets,Aumenta o dano vinculado de Skill contra alvos protegidos.
+45435,Increased Damage to Shielded Targets,Aumenta o dano vinculado de Skill contra alvos protegidos.
+45444,Boss Monster Accuracy Increase,Aumenta a taxa de precisão vinculada de Skill contra monstros chefes.
+45445,Boss Monster Accuracy Increase,Aumenta a taxa de precisão vinculada de Skill contra monstros chefes.
+45454,Boss Monster Critical Hit Chance Increase,Aumenta a chance de acerto crítico vinculado de Skill contra monstros chefes.
+45455,Boss Monster Critical Hit Chance Increase,Aumenta a chance de acerto crítico vinculado de Skill contra monstros chefes.
+45464,Boss Monster Critical Damage Increase,Aumenta o dano crítico vinculado de Skill contra monstros chefes.
+45465,Boss Monster Critical Damage Increase,Aumenta o dano crítico vinculado de Skill contra monstros chefes.
+45474,Increase Critical Hit Resistance Rate ,"No lançamento vinculado de Skill, aumenta a taxa de resistência a golpes críticos por um período definido."
+45475,Increase Critical Hit Resistance Rate ,"No lançamento vinculado de Skill, aumenta a taxa de resistência a golpes críticos por um período definido."
+45484,Attack Power Increase,"No lançamento de Linked Skill, aumenta o poder de ataque por um determinado período."
+45485,Attack Power Increase,"No lançamento de Linked Skill, aumenta o poder de ataque por um determinado período."
+45494,Increases Defense,"No lançamento de Linked Skill, aumenta a Defesa por um período definido."
+45495,Increases Defense,"No lançamento de Linked Skill, aumenta a Defesa por um período definido."
+45504,Increase Skill Cast Speed,"No lançamento vinculado de Skill, aumenta a velocidade de lançamento de Skill por um período definido."
+45505,Increase Skill Cast Speed,"No lançamento vinculado de Skill, aumenta a velocidade de lançamento de Skill por um período definido."
+46001,Attack Power Increase,O poder de ataque básico aumenta.
+46002,Attack Power Increase,O poder de ataque básico aumenta.
+46003,Attack Power Increase,O poder de ataque básico aumenta.
+46004,Attack Power Increase,O poder de ataque básico aumenta.
+46005,Attack Power Increase,O poder de ataque básico aumenta.
+46011,Accuracy Increase,A Precisão do Ataque Básico aumenta.
+46012,Accuracy Increase,A Precisão do Ataque Básico aumenta.
+46013,Accuracy Increase,A Precisão do Ataque Básico aumenta.
+46014,Accuracy Increase,A Precisão do Ataque Básico aumenta.
+46015,Accuracy Increase,A Precisão do Ataque Básico aumenta.
+46021,Critical Hit Increase,O acerto crítico do ataque básico aumenta.
+46022,Critical Hit Increase,O acerto crítico do ataque básico aumenta.
+46023,Critical Hit Increase,O acerto crítico do ataque básico aumenta.
+46024,Critical Hit Increase,O acerto crítico do ataque básico aumenta.
+46025,Critical Hit Increase,O acerto crítico do ataque básico aumenta.
+46034,Damage Increase,O dano de ataque básico aumenta.
+46035,Damage Increase,O dano de ataque básico aumenta.
+46044,Accuracy Rate Increase,A taxa de acerto do ataque básico aumenta.
+46045,Accuracy Rate Increase,A taxa de acerto do ataque básico aumenta.
+46054,Critical Hit Chance Increase,A chance crítica de ataque básico aumenta.
+46055,Critical Hit Chance Increase,A chance crítica de ataque básico aumenta.
+46064,Critical Damage Increase,Dano crítico de ataque básico aumentado.
+46065,Critical Damage Increase,Dano crítico de ataque básico aumentado.
+46074,Attack Speed Increase,A velocidade de ataque básico aumenta.
+46075,Attack Speed Increase,A velocidade de ataque básico aumenta.
+46081,Reduces Attack Power,Acertar um Ataque Básico tem chance de reduzir o Poder de Ataque do alvo.
+46082,Reduces Attack Power,Acertar um Ataque Básico tem chance de reduzir o Poder de Ataque do alvo.
+46083,Reduces Attack Power,Acertar um Ataque Básico tem chance de reduzir o Poder de Ataque do alvo.
+46084,Reduces Attack Power,Acertar um Ataque Básico tem chance de reduzir o Poder de Ataque do alvo.
+46085,Reduces Attack Power,Acertar um Ataque Básico tem chance de reduzir o Poder de Ataque do alvo.
+46091,Reduces Defense,Acertar um Ataque Básico tem chance de reduzir a Defesa do alvo.
+46092,Reduces Defense,Acertar um Ataque Básico tem chance de reduzir a Defesa do alvo.
+46093,Reduces Defense,Acertar um Ataque Básico tem chance de reduzir a Defesa do alvo.
+46094,Reduces Defense,Acertar um Ataque Básico tem chance de reduzir a Defesa do alvo.
+46095,Reduces Defense,Acertar um Ataque Básico tem chance de reduzir a Defesa do alvo.
+46104,Inflict Bleed,Acertar um Ataque Básico tem chance de causar Sangramento no alvo.
+46105,Inflict Bleed,Acertar um Ataque Básico tem chance de causar Sangramento no alvo.
+46114,Inflict Bind,Acertar um Ataque Básico tem chance de Vincular o alvo.
+46115,Inflict Bind,Acertar um Ataque Básico tem chance de Vincular o alvo.
+46124,Inflict Stun,Acertar um Ataque Básico tem chance de atordoar o alvo.
+46125,Inflict Stun,Acertar um Ataque Básico tem chance de atordoar o alvo.
+46135,Penetration Increase,A penetração do ataque básico aumenta.
+46141,Monster Damage Increase,O dano de ataque básico contra monstros aumenta.
+46142,Monster Damage Increase,O dano de ataque básico contra monstros aumenta.
+46143,Monster Damage Increase,O dano de ataque básico contra monstros aumenta.
+46145,Monster Damage Increase,O dano de ataque básico contra monstros aumenta.
+46151,Player Damage Increase,O dano de ataque básico contra jogadores aumenta.
+46152,Player Damage Increase,O dano de ataque básico contra jogadores aumenta.
+46153,Player Damage Increase,O dano de ataque básico contra jogadores aumenta.
+46155,Player Damage Increase,O dano de ataque básico contra jogadores aumenta.
+46164,Increased Damage to Boss Monsters,O Dano de Ataque Básico contra Monstros Chefes aumenta.
+46165,Increased Damage to Boss Monsters,O Dano de Ataque Básico contra Monstros Chefes aumenta.
+46171,Monster Accuracy Increase,A taxa de acerto do ataque básico contra monstros aumenta.
+46172,Monster Accuracy Increase,A taxa de acerto do ataque básico contra monstros aumenta.
+46173,Monster Accuracy Increase,A taxa de acerto do ataque básico contra monstros aumenta.
+46175,Monster Accuracy Increase,A taxa de acerto do ataque básico contra monstros aumenta.
+46181,Player Accuracy Increase,A taxa de acerto de ataque básico contra jogadores aumenta.
+46182,Player Accuracy Increase,A taxa de acerto de ataque básico contra jogadores aumenta.
+46183,Player Accuracy Increase,A taxa de acerto de ataque básico contra jogadores aumenta.
+46185,Player Accuracy Increase,A taxa de acerto de ataque básico contra jogadores aumenta.
+46191,Monster Critical Hit Chance Increase,A chance crítica de ataque básico contra monstros aumenta.
+46192,Monster Critical Hit Chance Increase,A chance crítica de ataque básico contra monstros aumenta.
+46193,Monster Critical Hit Chance Increase,A chance crítica de ataque básico contra monstros aumenta.
+46195,Monster Critical Hit Chance Increase,A chance crítica de ataque básico contra monstros aumenta.
+46201,Player Critical Hit Chance Increase,A chance crítica de ataque básico contra jogadores aumenta.
+46202,Player Critical Hit Chance Increase,A chance crítica de ataque básico contra jogadores aumenta.
+46203,Player Critical Hit Chance Increase,A chance crítica de ataque básico contra jogadores aumenta.
+46205,Player Critical Hit Chance Increase,A chance crítica de ataque básico contra jogadores aumenta.
+46211,Monster Critical Damage Increase,O Dano Crítico de Ataque Básico contra Monstros aumenta.
+46212,Monster Critical Damage Increase,O Dano Crítico de Ataque Básico contra Monstros aumenta.
+46213,Monster Critical Damage Increase,O Dano Crítico de Ataque Básico contra Monstros aumenta.
+46215,Monster Critical Damage Increase,O Dano Crítico de Ataque Básico contra Monstros aumenta.
+46221,Player Critical Damage Increase,O dano crítico do ataque básico contra jogadores aumenta.
+46222,Player Critical Damage Increase,O dano crítico do ataque básico contra jogadores aumenta.
+46223,Player Critical Damage Increase,O dano crítico do ataque básico contra jogadores aumenta.
+46225,Player Critical Damage Increase,O dano crítico do ataque básico contra jogadores aumenta.
+46231,Maximization Chance Increase,A chance de maximização do ataque básico aumenta.
+46232,Maximization Chance Increase,A chance de maximização do ataque básico aumenta.
+46233,Maximization Chance Increase,A chance de maximização do ataque básico aumenta.
+46234,Maximization Chance Increase,A chance de maximização do ataque básico aumenta.
+46235,Maximization Chance Increase,A chance de maximização do ataque básico aumenta.
+46244,Inflicts Movement Speed Reduction,Acertar um Ataque Básico tem chance de desacelerar o alvo.
+46245,Inflicts Movement Speed Reduction,Acertar um Ataque Básico tem chance de desacelerar o alvo.
+46254,Inflict Burn,Acertar um Ataque Básico tem chance de Queimar o alvo.
+46255,Inflict Burn,Acertar um Ataque Básico tem chance de Queimar o alvo.
+46264,Inflict Frostbite,Acertar um Ataque Básico tem chance de congelar o alvo.
+46265,Inflict Frostbite,Acertar um Ataque Básico tem chance de congelar o alvo.
+46274,Inflict Poison,Acertar um Ataque Básico tem chance de envenenar o alvo.
+46275,Inflict Poison,Acertar um Ataque Básico tem chance de envenenar o alvo.
+46284,Increased Damage to Crowd Controlled Targets,Aumenta o dano de ataque básico contra alvos controlados por multidão.
+46285,Increased Damage to Crowd Controlled Targets,Aumenta o dano de ataque básico contra alvos controlados por multidão.
+46294,Increased Damage to Afflicted Targets,Aumenta o dano de ataque básico contra alvos afetados.
+46295,Increased Damage to Afflicted Targets,Aumenta o dano de ataque básico contra alvos afetados.
+46304,Increased Damage to Shielded Targets,Aumenta o Dano de Ataque Básico contra alvos protegidos.
+46305,Increased Damage to Shielded Targets,Aumenta o Dano de Ataque Básico contra alvos protegidos.
+46314,Boss Monster Accuracy Increase,Aumenta a taxa de precisão do ataque básico contra monstros chefes.
+46315,Boss Monster Accuracy Increase,Aumenta a taxa de precisão do ataque básico contra monstros chefes.
+46324,Boss Monster Critical Hit Chance Increase,Aumenta a chance de acerto crítico do ataque básico contra monstros chefes.
+46325,Boss Monster Critical Hit Chance Increase,Aumenta a chance de acerto crítico do ataque básico contra monstros chefes.
+46334,Boss Monster Critical Damage Increase,Aumenta o dano crítico do ataque básico contra monstros chefes.
+46335,Boss Monster Critical Damage Increase,Aumenta o dano crítico do ataque básico contra monstros chefes.
+46344,Movement Speed Increase,"Ao acertar o Ataque Básico, tem chance de aumentar a Velocidade de Movimento por um determinado período."
+46345,Movement Speed Increase,"Ao acertar o Ataque Básico, tem chance de aumentar a Velocidade de Movimento por um determinado período."
+46354,MP Recovery,Derrotar um jogador com um Ataque Básico restaura MP.
+46355,MP Recovery,Derrotar um jogador com um Ataque Básico restaura MP.
+47001,Cooldown Decrease,O Tempo de Recarga do Dash é reduzido.
+47002,Cooldown Decrease,O Tempo de Recarga do Dash é reduzido.
+47003,Cooldown Decrease,O Tempo de Recarga do Dash é reduzido.
+47004,Cooldown Decrease,O Tempo de Recarga do Dash é reduzido.
+47005,Cooldown Decrease,O Tempo de Recarga do Dash é reduzido.
+47014,Distance Increase,A distância de movimento do traço aumenta.
+47015,Distance Increase,A distância de movimento do traço aumenta.
+47025,Increases Count,O máximo de uso do Dash aumenta.
+47031,Cooldown Reset,Usar Dash tem uma chance de redefinir seu cooldown.
+47032,Cooldown Reset,Usar Dash tem uma chance de redefinir seu cooldown.
+47033,Cooldown Reset,Usar Dash tem uma chance de redefinir seu cooldown.
+47034,Cooldown Reset,Usar Dash tem uma chance de redefinir seu cooldown.
+47035,Cooldown Reset,Usar Dash tem uma chance de redefinir seu cooldown.
+47044,Crowd Control Resistance Increase,Usar Dash aumenta a resistência a todos os efeitos de Crowd Control por um determinado período.
+47045,Crowd Control Resistance Increase,Usar Dash aumenta a resistência a todos os efeitos de Crowd Control por um determinado período.
+47051,Movement Speed Increase,Usar Dash aumenta a velocidade de movimento por um determinado período.
+47052,Movement Speed Increase,Usar Dash aumenta a velocidade de movimento por um determinado período.
+47053,Movement Speed Increase,Usar Dash aumenta a velocidade de movimento por um determinado período.
+47054,Movement Speed Increase,Usar Dash aumenta a velocidade de movimento por um determinado período.
+47055,Movement Speed Increase,Usar Dash aumenta a velocidade de movimento por um determinado período.
+47064,Increases Evasion Chance,Usar Dash aumenta a taxa de evasão.
+47065,Increases Evasion Chance,Usar Dash aumenta a taxa de evasão.
+47071,,
+47072,,
+47075,Remove Crowd Control,Usar Dash remove os efeitos do Crowd Control e aumenta adicionalmente a resistência ao Crowd Control.
+47084,Ignore Collision,"Permite que você corra enquanto ignora as colisões de personagens.
+Reduz adicionalmente o tempo de espera do Dash."
+47085,Ignore Collision,"Permite que você corra enquanto ignora as colisões de personagens.
+Reduz adicionalmente o tempo de espera do Dash."
+47091,Casting Speed Increase,Usar Dash aumenta a velocidade de lançamento por um determinado período.
+47092,Casting Speed Increase,Usar Dash aumenta a velocidade de lançamento por um determinado período.
+47093,Casting Speed Increase,Usar Dash aumenta a velocidade de lançamento por um determinado período.
+47094,Casting Speed Increase,Usar Dash aumenta a velocidade de lançamento por um determinado período.
+47095,Casting Speed Increase,Usar Dash aumenta a velocidade de lançamento por um determinado período.
+47104,Increases Defense,Usar Dash aumenta a Defesa por um determinado período.
+47105,Increases Defense,Usar Dash aumenta a Defesa por um determinado período.
+47111,Increases monster’s Defense,Usar Dash aumenta a defesa contra monstros por um determinado período.
+47112,Increases monster’s Defense,Usar Dash aumenta a defesa contra monstros por um determinado período.
+47113,Increases monster’s Defense,Usar Dash aumenta a defesa contra monstros por um determinado período.
+47121,Increases player’s Defense,Usar Dash aumenta a defesa contra jogadores por um determinado período.
+47122,Increases player’s Defense,Usar Dash aumenta a defesa contra jogadores por um determinado período.
+47123,Increases player’s Defense,Usar Dash aumenta a defesa contra jogadores por um determinado período.
+47134,Increases Evasion,Usar Dash aumenta a Evasão por um determinado período.
+47135,Increases Evasion,Usar Dash aumenta a Evasão por um determinado período.
+47141,Increases monster’s Evasion,Usar Dash aumenta a Evasão contra Monstros por um determinado período.
+47142,Increases monster’s Evasion,Usar Dash aumenta a Evasão contra Monstros por um determinado período.
+47143,Increases monster’s Evasion,Usar Dash aumenta a Evasão contra Monstros por um determinado período.
+47151,Increases player’s Evasion,Usar Dash aumenta a Evasão contra jogadores por um determinado período.
+47152,Increases player’s Evasion,Usar Dash aumenta a Evasão contra jogadores por um determinado período.
+47153,Increases player’s Evasion,Usar Dash aumenta a Evasão contra jogadores por um determinado período.
+47164,Increases Critical Hit Resistance,Usar Dash aumenta a resistência crítica por um determinado período.
+47165,Increases Critical Hit Resistance,Usar Dash aumenta a resistência crítica por um determinado período.
+47171,Increases monster’s Critical Hit Resistance,Usar Dash aumenta a resistência crítica contra monstros por um determinado período.
+47172,Increases monster’s Critical Hit Resistance,Usar Dash aumenta a resistência crítica contra monstros por um determinado período.
+47173,Increases monster’s Critical Hit Resistance,Usar Dash aumenta a resistência crítica contra monstros por um determinado período.
+47181,Increases player’s Critical Hit Resistance,Usar Dash aumenta a resistência crítica contra jogadores por um determinado período.
+47182,Increases player’s Critical Hit Resistance,Usar Dash aumenta a resistência crítica contra jogadores por um determinado período.
+47183,Increases player’s Critical Hit Resistance,Usar Dash aumenta a resistência crítica contra jogadores por um determinado período.
+47194,Reduces Basic Attack Damage Taken,Usar Dash reduz o dano de ataque básico recebido por um determinado período.
+47195,Reduces Basic Attack Damage Taken,Usar Dash reduz o dano de ataque básico recebido por um determinado período.
+47204,Reduces Skill Damage Taken,Usar Dash reduz Skill O dano recebido por um determinado período.
+47205,Reduces Skill Damage Taken,Usar Dash reduz Skill O dano recebido por um determinado período.
+47214,Reduces Damage Taken from monsters,Usar Dash reduz o dano recebido de monstros por um determinado período.
+47215,Reduces Damage Taken from monsters,Usar Dash reduz o dano recebido de monstros por um determinado período.
+47224,Reduces Damage Taken from players,Usar Dash reduz o dano recebido dos jogadores por um determinado período.
+47225,Reduces Damage Taken from players,Usar Dash reduz o dano recebido dos jogadores por um determinado período.
+47235,Remove Pain Effect,Usar Dash remove Affliction e também aumenta a Resistência a Affliction.
+47245,Grant Invisibility,Usar Dash concede Invisibilidade por um período definido.
+47254,Gale,Usar Dash tem a chance de causar dano aos inimigos próximos e empurrá-los para trás.
+47255,Gale,Usar Dash tem a chance de causar dano aos inimigos próximos e empurrá-los para trás.
+47264,Blast,Usar Dash tem a chance de causar dano aos inimigos próximos e atordoá-los.
+47265,Blast,Usar Dash tem a chance de causar dano aos inimigos próximos e atordoá-los.
+50003,Mercenary's Power,Usa Memorite para aumentar o dano de ataque básico e o poder de ataque básico.
+50004,Knight's Power,Usa Memorite para aumentar o dano de ataque básico e o poder de ataque básico.
+50005,Champion's Power,Usa Memorite para aumentar o dano de ataque básico e o poder de ataque básico.
+50006,Hero's Power,Usa Memorite para aumentar o dano de ataque básico e o poder de ataque básico.
+51401,Quick Heal,A quantidade de recuperação de cura aumenta.
+51402,Enhance Fighting Spirit,A chance de maximização aumenta.
+51403,Enhance Vision,Aumenta a taxa de precisão de ataque básico.
+51404,Focus Skill,Aumenta a taxa de precisão de Skill.
+51405,Striking Instinct,Aumenta a taxa de precisão.
+51406,Sharp Momentum,Aumenta a chance crítica do ataque básico.
+51407,Sharp Skill,Aumenta a chance crítica de Skill.
+51408,Critical Instinct,Aumenta a chance crítica.
+51409,Strike Burst,Aumenta o dano crítico do ataque básico.
+51410,Skill Burst,Aumenta o dano crítico de Skill.
+51411,Rift Fissure,Aumenta o dano crítico.
+51412,Unleashed Power,Aumenta o dano de ataque básico.
+51413,Unleashed Skills,Increases Skill Damage.
+51414,Heartbeat,Aumenta o dano.
+51415,Keen Inner Self,Aumenta o dano ao jogador.
+51416,Predator's Aura,Aumenta o dano a todos os monstros.
+51501,Life Regeneration,Aumenta a taxa de precisão e a quantidade de cura.
+51502,Fighting Spirit Awakening,Aumenta a taxa de precisão e a chance de maximização.
+51503,Perfect Rift,Aumenta a taxa de precisão e a chance crítica.
+51504,Enhance Rift,Aumenta a taxa de precisão e o dano crítico.
+51505,Power Unbound,Aumenta a taxa de precisão e o dano de ataque básico.
+51506,Skill Unbound,Aumenta a taxa de precisão e o dano Skill.
+51507,Beast Instinct,Aumenta a taxa de precisão e o dano contra todos os monstros.
+51508,Inner Resolve,Aumenta a taxa de precisão e o dano ao jogador.
+51509,Predator’s Senses,Aumenta a taxa de precisão e o dano ao chefe.
+51510,Heart’s Fury,Aumenta a taxa de precisão e o dano.
+51511,Ruler's Instinct,Aumenta a taxa de precisão e o dano ao jogador.
+51512,Predator's Insight,Aumenta a taxa de precisão e o dano ao chefe.
+51601,Judgment of the Absolute,"Aumenta a taxa de precisão, cura, escudo, chance de maximização e dano crítico."
+51602,The Great Battle,"Aumenta a taxa de precisão, cura, escudo, chance de maximização e dano."
+51603,Boundless Dawn,"Aumenta a taxa de precisão, cura de HP, quantidade de escudo, chance de maximização, dano e dano crítico contra jogadores."
+52501,Domination Suppression,Aumenta Taxa de precisão de controle de multidão e taxa de precisão de aflição.
+52601,Primordial Suppression,Aumenta Taxa de precisão de controle de multidão e taxa de precisão de aflição.
+53601,Thrilling Blade Dance,Tem a chance de redefinir o tempo de espera do skill ativo lançado mais recentemente nos ataques de ataque skill.
+53602,Blade’s Cry of the Primordial,Tem uma chance de aumentar a Velocidade de Movimento e a Velocidade de Ataque por um determinado período após acertos de Ataque Básico.
+53603,Absolute Accuracy,Acertar um ataque tem uma chance de aumentar a taxa de precisão e a taxa de acerto de CC por um determinado período.
+54401,Quick Heal,Aumenta a cura recebida.
+54402,Protection Training,Aumenta o escudo recebido.
+54403,Will Suppression,Aumenta a resistência de maximização.
+54404,Will Suppression,Aumenta a resistência de maximização.
+54405,Enhance Senses,Aumenta a Evasão de Ataque Básico.
+54406,Enhance Intuition,Aumenta a evasão de Skill.
+54407,Crisis Detection,Increases Evasion contra todos os monstros.
+54408,Fighting Spirit Detection,Aumenta a evasão do jogador.
+54409,Sensory Focus,Increases Evasion.
+54410,Shock Absorption,Aumenta a resistência crítica ao ataque básico.
+54411,Focused Defense,Aumenta a resistência crítica Skill.
+54412,Hunt Resistance,Aumenta a resistência crítica contra todos os monstros.
+54413,Strike Evasion,Aumenta a resistência crítica do jogador.
+54414,Enhance Resistance,Aumenta a resistência crítica.
+54415,Pulverize Resistance,Reduz o Dano Crítico sofrido pelo Ataque Básico.
+54416,Damage Mitigation,Reduz o dano crítico recebido de Skill.
+54417,Survival Instincts,Reduces Critical Damage de todos os monstros.
+54418,Shock Suppression,Reduces Critical Damage dos jogadores.
+54419,Pain Resistance,Reduces Critical Damage recebido.
+54420,Strike Mitigation,Reduz o dano de ataque básico recebido.
+54421,Skill Defense,Reduz Skill Dano recebido.
+54422,Hunt Endurance,Reduz Danos de todos os monstros.
+54423,Duel Defense,Reduz o dano causado aos jogadores.
+54424,Hunt Instincts,Reduz o dano recebido dos chefes.
+54425,Defense Essence,Reduz a redução de danos recebidos.
+54501,Instant Heal,Aumenta o bônus de evasão e cura recebida.
+54502,Hand of the Guardian,Increases Evasion e o Escudo Recebidos.
+54503,Echo of Chains,Aumenta a resistência à evasão e à maximização.
+54504,Survival Hunt,Increases Evasion e a Resistência Crítica contra todos os monstros.
+54505,Frozen Momentum,Increases Evasion e a Resistência Crítica contra jogadores.
+54506,Resistance Instincts,Increases Evasion e a Resistência Crítica.
+54507,Unyielding Survival,Increases Evasion e reduz o Dano Crítico de monstros.
+54508,Memories of Pain,Increases Evasion e reduz o Dano Crítico dos jogadores.
+54509,Explosion Resistance,Increases Evasion e reduz o Dano Crítico recebido.
+54510,Strike Mitigation,Increases Evasion e reduz o Dano de Ataque Básico recebido.
+54511,Skill Mitigation,Increases Evasion e reduz o dano recebido de Skill.
+54512,Endurance of the Hunt,Increases Evasion e reduz o Dano de todos os monstros.
+54513,Survival’s Instincts,Increases Evasion e reduz o dano dos jogadores.
+54514,Predator’s Aura,Increases Evasion e reduz o dano dos chefes.
+54515,Indomitable Will,Increases Evasion e reduz o dano recebido.
+54516,Death-Defying Will,Increases Evasion e reduz o Dano recebido e o Dano Crítico recebido.
+54517,Silent Endurance,Increases Evasion e reduz o dano recebido.
+54518,Shock Dissipation,Increases Evasion e reduz o Dano recebido e o Dano Crítico recebido.
+54601,Hem of Calamity,"Increases Evasion, a Cura recebida, o Escudo recebido e a Resistência à Maximização, 
+ e reduz o Dano Crítico recebido."
+54602,Pain Seal,"Aumenta Evasão, Cura Recebida, Escudo Recebido, Resistência à Maximização e Resistência Crítica."
+54603,Covenant of Survival,"Increases Evasion, a Cura recebida, o Escudo recebido e a Resistência à Maximização,
+e reduz o dano recebido."
+54604,Cry of Protection,"Increases Evasion, a Cura recebida, o Escudo recebido, a Resistência à Maximização e a Resistência Crítica,
+e reduz o dano recebido."
+54605,Despair of the Blade,"Increases Evasion, a Cura recebida, o Escudo recebido e a Resistência à Maximização,
+e reduz o Dano Crítico sofrido e o Dano recebido."
+55501,Warrior’s Form,Aumenta a resistência ao CC e a resistência à aflição.
+55601,Hero’s Radiance,Aumenta a resistência ao CC e a resistência à aflição.
+56601,Ruler’s Commanding Spirit,Tem chance de reduzir o Dano de Ataque Básico recebido por um determinado período quando atingido.
+56602,Radiant Flow,Tem chance de reduzir Skill Dano recebido por um determinado período quando atingido.
+56603,Moonlight Aura,Tem a chance de criar um Escudo por um determinado período quando atingido.
+56604,Astral Sight,Tem chance de aumentar a Evasão de Ataque Básico por um determinado período quando atingido.
+56605,Prophet’s Veil,Tem uma chance de aumentar a Evasão Skill por um determinado período quando atingido.
+57001,Swimming Dash,Swimming Dash
+58001,Haste,Aumenta temporariamente a velocidade de montagem.
+58002,Haste,Aumenta temporariamente a velocidade de montagem.
+58003,Haste,Aumenta temporariamente a velocidade de montagem.
+58004,Haste,Aumenta temporariamente a velocidade de montagem.
+58005,Haste,Aumenta temporariamente a velocidade de montagem.
+58006,Haste,Aumenta temporariamente a velocidade de montagem.
+58101,Power of the Sigil,Aumenta a regeneração natural de HP e a regeneração natural de MP.
+58102,Power of the Beast,Aumenta a recuperação de poções de HP.
+58103,Power of the Beast,Aumenta a recuperação de poções de HP.
+58104,Aura of the Tree,Reduz o custo de MP.
+58105,Power of the Sigil,Aumenta a regeneração natural de HP e a regeneração natural de MP.
+58106,Aura of the Tree,Reduz o custo de MP.
+58107,Power of the Sigil,Aumenta a regeneração natural de HP e a regeneração natural de MP.
+58108,Start of the Festival,Aumenta a recuperação de poções de HP e regeneração natural de MP.
+58109,Halo,Aumenta a recuperação de poções de HP e regeneração natural de MP.
+58110,Seven-Colored Hope,Aumenta a recuperação de poções de HP e regeneração natural de MP.
+58111,Golem's Power,Aumenta a recuperação de poções de HP.
+58112,Dimensional Bond,Aumenta a recuperação de poções de HP e regeneração natural de MP.
+58113,Beast Roar,Aumenta a regeneração de MP.
+58201,Spirit of the Forest,Aumenta a regeneração natural de HP e a recuperação de poções de HP e reduz o custo de MP.
+58202,Power of the Beast,"Aumenta a regeneração natural de HP, a regeneração natural de MP e a recuperação de poções de HP."
+58203,Improve Combat Ability,"Aumenta a regeneração natural de HP, a regeneração natural de MP e a recuperação de poções de HP."
+58501,Thundermane’s Roar,Reduz o dano recebido de todos os tipos de monstros.
+58502,Wanderer’s Cry,Reduz o dano de ataque básico recebido.
+58503,Boosts Defense,Reduz Skill Dano recebido.
+59011,Thunder Descent,Causa dano à área de pouso e choca os inimigos.
+59021,Ring of Lightning,"Causa dano a uma área em forma de donut no local de pouso.
+Retarda os inimigos atingidos."
+59031,Blessed Landing,Instantaneamente restaura o HP dos aliados na área de pouso.
+59041,Descent of Protection,Cria uma cúpula na área de pouso que reduz o dano recebido.
+59051,Descent of Corruption,"Cria uma zona de debuff na área de pouso.
+Causa dano e debuffs ao longo do tempo em inimigos dentro da área."
+59061,Dark Lightning,Causa dano na área de pouso e debuff os inimigos atingidos.
+59071,Wings of Fate,Concede um buff aleatório aos aliados na área de pouso.
+59081,Chain Wave,Causa dano 3 vezes à área de pouso.
+59091,Earth Collapse,Causa dano ao longo do tempo na área de pouso e atordoa os inimigos.
+59101,Tectonic Mallet,Causa dano à área de pouso e inflige Airborne aos inimigos
+59111,Vacuum Implosion,"Causa dano a uma área em forma de donut no local de pouso
+Atordoa os inimigos atingidos."
+59121,Blessed Fragment,"Ao pousar, concede aumento de dano ao chefe para você mesmo"
+59131,Dragon Storm,Cria uma corrente ascendente no local de destino.
+59501,Heavenly Warrior,Aumenta o HP máximo e o dano de ataque básico.
+59502,Heaven’s Cavalier,Aumenta o HP máximo e o dano Skill.
+59503,Wind Spirit,Aumenta o HP máximo e a quantidade de cura.
+59504,Blessing of Levitation,Aumenta o HP máximo e o escudo.
+59505,Radiant Glide,Aumenta o HP máximo e o dano contra todos os tipos de monstros.
+59506,Dark Glide,Aumenta o HP máximo e o dano ao jogador.
+59507,Azure Wings,Aumenta o HP máximo e o dano crítico Skill.
+59508,Celestial Guidance,Aumenta o HP máximo e o dano crítico do ataque básico.
+59509,Abyssal Sky,Aumenta o HP máximo e o dano.
+59510,Domain of Aesthetics,Aumenta o HP máximo e o dano aos alvos afetados.
+59511,Soaring Dream,Aumenta o HP máximo e o dano a alvos controlados por multidão.
+59512,Gale Dance,Aumenta o HP máximo e o dano aos monstros chefes.
+59513,Dragon Wings,Aumenta o HP máximo e o dano contra monstros comuns e de elite.
+59991,Boost Ring: Cartwheel 1,
+59992,Boost Ring: Cartwheel 2,
+59993,,
+59998,Aerial Dash - Challenge,
+59999,Aerial Dash,
+61000,Keyring Trigger - Test Skill,
+61001,Knot of the Dawn Mist,"Ao derrotar monstros, reduz o dano recebido por um determinado período."
+61002,Latch of the Veiled Moon,"On skill atingido contra monstros, tem uma chance de aumentar o dano de Skill contra monstros chefes por um determinado período."
+61003,Knot of the Dawn Mist,"Ao derrotar monstros, reduz o dano recebido por um determinado período."
+61004,Knot of the Dawn Mist,"Ao derrotar monstros, reduz o dano recebido por um determinado período."
+61005,Jaws of the Black Tide,"On skill atingido contra monstros, tem uma chance de aumentar o dano de Skill contra monstros chefes por um determinado período."
+61006,Fractured Constellation,"On skill atingido contra monstros, tem uma chance de aumentar o dano de Skill contra monstros chefes por um determinado período."
+61007,Knot of the Dawn Mist,"Ao derrotar monstros, reduz o dano recebido por um determinado período."
+61008,Ashen Eyelid,"On skill atingido contra monstros, tem uma chance de aumentar o dano de Skill contra monstros chefes por um determinado período."
+61009,Veil of Inhalation,"Ao derrotar monstros, reduz o dano recebido por um determinado período."
+61010,Moonlight Gauge,"On skill atingido contra monstros, tem uma chance de aumentar o dano de Skill contra monstros chefes por um determinado período."
+61011,Broken Toll,"Quando atingido, recebe efeitos de combate por um determinado período."
+61012,Veil of Inhalation,"Ao derrotar monstros, reduz o dano recebido por um determinado período."
+61013,Veil of Inhalation,"Ao derrotar monstros, reduz o dano recebido por um determinado período."
+61014,Ashen Ripple,"On skill atingido contra monstros, tem uma chance de aumentar o dano de Skill contra monstros chefes por um determinado período."
+61015,Crimson Stillness,"Quando atingido, recebe efeitos de combate por um determinado período."
+61016,Buried Candle,"On skill atingido contra monstros, tem uma chance de aumentar o dano de Skill contra monstros chefes por um determinado período."
+61017,Veil of Inhalation,"Ao derrotar monstros, reduz o dano recebido por um determinado período."
+61018,Glass Citadel,"On skill atingido contra monstros, tem uma chance de aumentar o dano de Skill contra monstros chefes por um determinado período."
+61019,Dusty Scepter,"Quando atingido, recebe efeitos de combate por um determinado período."
+61020,Seal of the White Night,"Quando atingido, recebe efeitos de combate por um determinado período."
+61021,Sanctuary of Azure Breath,"Ao derrotar monstros, reduz o dano recebido por um determinado período."
+61022,Orbit of the Black Silhouette,"On skill atingido contra monstros, tem uma chance de aumentar o dano de Skill contra monstros chefes por um determinado período."
+61023,Unwavering Oath,"Quando atingido, recebe efeitos de combate por um determinado período."
+61024,Sanctuary of Azure Breath,"Ao derrotar monstros, reduz o dano recebido por um determinado período."
+61025,Twisted Golden Ratio,"On skill atingido contra monstros, tem uma chance de aumentar o dano de Skill contra monstros chefes por um determinado período."
+61026,Covenant of Embers,"Quando atingido, recebe efeitos de combate por um determinado período."
+61031,Unyielding Covenant,"Quando atingido, recebe efeitos de combate por um determinado período."
+61027,Sanctuary of Azure Breath,"Ao derrotar monstros, reduz o dano recebido por um determinado período."
+61028,Eternal Breath,"Ao derrotar monstros, reduz o dano recebido por um determinado período."
+61029,Flawless Orbit,"On skill atingido contra monstros, tem uma chance de aumentar o dano de Skill contra monstros chefes por um determinado período."
+61030,Silence of the Crown,"Quando atingido, recebe efeitos de combate por um determinado período."
+62000,Keyring Test Skill 1,
+62001,Presence of Oblivion,Aumenta a taxa de resistência ao esquecimento.
+62002,Presence of Oblivion,Aumenta a taxa de resistência ao esquecimento.
+62003,Presence of Oblivion,Aumenta a taxa de resistência ao esquecimento.
+62004,Presence of Encroachment,Aumenta a taxa de resistência à invasão.
+62005,Presence of Encroachment,Aumenta a taxa de resistência à invasão.
+62006,Presence of Encroachment,Aumenta a taxa de resistência à invasão.
+62007,Presence of the Void,Aumenta a taxa de resistência ao vazio.
+62008,Presence of the Void,Aumenta a taxa de resistência ao vazio.
+62101,Trace of Oblivion,Aumenta a taxa de resistência ao esquecimento.
+62102,Trace of Oblivion,Aumenta a taxa de resistência ao esquecimento.
+62103,Trace of Oblivion,Aumenta a taxa de resistência ao esquecimento.
+62104,Trace of Encroachment,Aumenta a taxa de resistência à invasão.
+62105,Trace of Encroachment,Aumenta a taxa de resistência à invasão.
+62106,Trace of Encroachment,Aumenta a taxa de resistência à invasão.
+62107,Trace of the Void,Aumenta a taxa de resistência ao vazio.
+62108,Trace of the Void,Aumenta a taxa de resistência ao vazio.
+62201,Echo of Oblivion,Aumenta a taxa de resistência ao esquecimento.
+62202,Echo of Oblivion,Aumenta a taxa de resistência ao esquecimento.
+62203,Echo of Oblivion,Aumenta a taxa de resistência ao esquecimento.
+62204,Echo of Encroachment,Aumenta a taxa de resistência à invasão.
+62205,Echo of Encroachment,Aumenta a taxa de resistência à invasão.
+62206,Echo of Encroachment,Aumenta a taxa de resistência à invasão.
+62207,Echo of the Void,Aumenta a taxa de resistência ao vazio.
+62208,Echo of the Void,Aumenta a taxa de resistência ao vazio.
+62301,Silver Thread of Oblivion,Aumenta a taxa de resistência ao esquecimento.
+62302,Silver Thread of Oblivion,Aumenta a taxa de resistência ao esquecimento.
+62303,Silver Thread of Oblivion,Aumenta a taxa de resistência ao esquecimento.
+62304,Silver Thread of Oblivion,Aumenta a taxa de resistência ao esquecimento.
+62305,Silver Thread of Encroachment,Aumenta a taxa de resistência à invasão.
+62306,Silver Thread of Encroachment,Aumenta a taxa de resistência à invasão.
+62307,Silver Thread of Encroachment,Aumenta a taxa de resistência à invasão.
+62308,Silver Thread of Encroachment,Aumenta a taxa de resistência à invasão.
+62309,Silver Thread of the Void,Aumenta a taxa de resistência ao vazio.
+62310,Silver Thread of the Void,Aumenta a taxa de resistência ao vazio.
+62311,Silver Thread of the Void,Aumenta a taxa de resistência ao vazio.
+62312,Silver Thread of the Void,Aumenta a taxa de resistência ao vazio.
+62401,Stigmata of Oblivion,Aumenta a taxa de resistência ao esquecimento.
+62408,Stigmata of Oblivion,Aumenta a taxa de resistência ao esquecimento.
+62402,Stigmata of Oblivion,Aumenta a taxa de resistência ao esquecimento.
+62403,Stigma of Encroachment,Aumenta a taxa de resistência à invasão.
+62404,Stigma of Encroachment,Aumenta a taxa de resistência à invasão.
+62405,Stigmata of the Void,Aumenta a taxa de resistência ao vazio.
+62406,Stigmata of the Void,Aumenta a taxa de resistência ao vazio.
+62407,Stigmata of the Void,Aumenta a taxa de resistência ao vazio.
+62501,Blessing of Erosion,Aumenta a taxa de resistência à erosão.
+62502,Blessing of Erosion,Aumenta a taxa de resistência à erosão.
+62503,Blessing of Erosion,Aumenta a taxa de resistência à erosão.
+63000,Keyring Test Skill 2,
+63001,Echo of Warmth,Aumenta as estatísticas quando equipado.
+63002,Iron Curtain,Aumenta as estatísticas quando equipado.
+63003,Lantern of Silence,Aumenta as estatísticas quando equipado.
+63011,Lantern of Tranquility,Aumenta as estatísticas quando equipado.
+63004,Echo of the Spring,Aumenta as estatísticas quando equipado.
+63005,Starshroud Armor,Aumenta as estatísticas quando equipado.
+63006,Lantern of Echoes,Aumenta as estatísticas quando equipado.
+63007,Echo of Steel,Aumenta as estatísticas quando equipado.
+63008,Undying Warmth,Aumenta as estatísticas quando equipado.
+63009,Ashen Citadel,Aumenta as estatísticas quando equipado.
+63010,Silent Sovereign,Aumenta as estatísticas quando equipado.
+80000,Clan Respawn Waypoint,Clan Respawn Waypoint
+80010,,Compressão de danos
+81101,Angbar Arena Portal,Angbar Arena Portal
+81102,Angbar Arena Portal,Angbar Arena Portal
+81103,Angbar Arena Portal,Angbar Arena Portal
+81104,Angbar Arena Portal,Angbar Arena Portal
+81105,Angbar Arena Portal,Angbar Arena Portal
+81106,Angbar Arena Portal,Angbar Arena Portal
+81107,Angbar Arena Portal,Angbar Arena Portal
+81108,Angbar Arena Portal,Angbar Arena Portal
+81109,Angbar Arena Portal,Angbar Arena Portal
+81110,Angbar Arena Portal,Angbar Arena Portal
+81111,Angbar Arena Portal,Angbar Arena Portal
+81112,Angbar Arena Portal,Angbar Arena Portal
+85010,Beacon Warden,"Invoca um Warden para proteger o Clan Beacon.
+O Warden desaparece se o Clan Beacon é destruído ou desaparece após 3 minutos.
+<Red>※ O skill só pode ser usado em Forsaken Land ou Abyss Battlefield.</>"
+85011,Beacon Warden,"Invoca um Warden para proteger o Clan Beacon.
+O Warden desaparece se o Clan Beacon é destruído ou desaparece após 3 minutos.
+<Red>※ O skill só pode ser usado em Forsaken Land ou Abyss Battlefield.</>"
+85020,Sentry Awakening,"Melhora o convocado Warden.
+No lançamento de skill, aumenta as capacidades de combate do Warden por 3 minutos.
+<Red>※ O skill só pode ser usado na Terra Abandonada ou Abyss Battlefield.</>"
+85021,Sentry Awakening,"Melhora o convocado Warden.
+No lançamento de skill, aumenta as capacidades de combate do Warden por 3 minutos.
+<Red>※ O skill só pode ser usado na Terra Abandonada ou Abyss Battlefield.</>"
+85030,Aegis Domain,"No lançamento de skill, reduz o dano recebido dos jogadores por membros do clã próximos ao Clan Beacon por 1 minuto.
+<Red>※ O skill só pode ser usado em Forsaken Land ou Abyss Battlefield.</>"
+85031,Aegis Domain,"No lançamento de skill, reduz o dano recebido dos jogadores por membros do clã próximos ao Clan Beacon por 1 minuto.
+<Red>※ O skill só pode ser usado em Forsaken Land ou Abyss Battlefield.</>"
+85040,Beacon Veil,"No lançamento de skill, concede um efeito de Invisibilidade ao Clan Beacon por 1 minuto.
+<Red>※ O skill só pode ser usado em Forsaken Land ou Abyss Battlefield.</>"
+85041,Beacon Veil,"No lançamento de skill, concede um efeito de Invisibilidade ao Clan Beacon por 1 minuto.
+<Red>※ O skill só pode ser usado em Forsaken Land ou Abyss Battlefield.</>"
+85050,Frontline of Life,"No lançamento de skill, aumenta muito o HP Cura, recuperação de MP e poção de cura de HP para todos os membros do clã em um raio de 50 m por 1 minuto.
+<Red>※ O skill só pode ser usado na Terra Abandonada ou Abyss Battlefield.</>"
+85060,Breath of Resurgence,"Aumenta a cura de HP ao reaparecer no Clan Beacon por 3 minutos
+<Red>※ O skill só pode ser usado em Forsaken Land ou Abyss Battlefield.</>"
+85061,Breath of Resurgence,"Aumenta a cura de HP ao reaparecer no Clan Beacon por 3 minutos
+<Red>※ O skill só pode ser usado em Forsaken Land ou Abyss Battlefield.</>"
+85070,Battle Biding,"No lançamento de skill, aumenta as estatísticas de combate de todos os membros do clã em um raio de 50 m por 30 segundos.
+<Red>※ O skill só pode ser usado em Forsaken Land ou Abyss Battlefield.</>"
+85080,Vanguard Breakthrough,"No lançamento de skill, aumenta muito a velocidade de movimento para todos os membros do clã em um raio de 50m por 15 segundos.
+<Red>※ O skill só pode ser usado na Terra Abandonada ou Abyss Battlefield.</>"
+85090,Descent Tactics,"Redefine a descida dos membros do clã Cooldowns de Skill.
+<Red>※ O skill só pode ser usado na Terra Abandonada ou em Abyss Battlefield.</>"
+85091,Descent Tactics,"Redefine a descida dos membros do clã Cooldowns de Skill.
+<Red>※ O skill só pode ser usado na Terra Abandonada ou em Abyss Battlefield.</>"
+85100,Battlefield Summons,"Reúne à força membros do clã dentro da mesma área para a localização do Líder do Clã.
+Não é possível convocar membros do clã que estejam morto.
+<Red>※ O skill só pode ser usado na Terra Abandonada ou Abyss Battlefield.</>"
+85101,Battlefield Summons,"Reúne à força membros do clã dentro da mesma área para a localização do Líder do Clã.
+Não é possível convocar membros do clã que estejam morto.
+<Red>※ O skill só pode ser usado na Terra Abandonada ou Abyss Battlefield.</>"
+85110,Focus Mark,"Aplica uma marca a um inimigo alvejado pelos membros autorizados por 10 segundos.
+Aumenta o dano causado pelos membros do clã contra alvos marcados.
+<Red>※ O skill só pode ser usado em Forsaken Land ou Abyss Battlefield.</>"
+90010,Warp Scroll,Warp Scroll
+90011,Teleport Scroll,Teleport Scroll
+100000,,
+120001,,
+140101,Abyssal Form I,
+140102,Abyssal Form I,
+140103,Abyssal Form I,
+140104,Abyssal Form I,
+140105,Abyssal Form I,
+140106,Abyssal Form I,
+140201,Abyssal Form II,
+140202,Abyssal Form II,
+140203,Abyssal Form II,
+140204,Abyssal Form II,
+140205,Abyssal Form II,
+140206,Abyssal Form II,
+140301,Abyssal Form III,
+140302,Abyssal Form III,
+140303,Abyssal Form III,
+140304,Abyssal Form III,
+140305,Abyssal Form III,
+140306,Abyssal Form III,
+140401,Anima Form I,
+140402,Anima Form I,
+140403,Anima Form I,
+140404,Anima Form I,
+140405,Anima Form I,
+140406,Anima Form I,
+140501,Anima Form II,
+140502,Anima Form II,
+140503,Anima Form II,
+140504,Anima Form II,
+140505,Anima Form II,
+140506,Anima Form II,
+140601,Anima Form III,
+140602,Anima Form III,
+140603,Anima Form III,
+140604,Anima Form III,
+140605,Anima Form III,
+140606,Anima Form III,
+140701,Indomitable Form I,
+140702,Indomitable Form I,
+140703,Indomitable Form I,
+140704,Indomitable Form I,
+140705,Indomitable Form I,
+140706,Indomitable Form I,
+140801,Indomitable Form II,
+140802,Indomitable Form II,
+140803,Indomitable Form II,
+140804,Indomitable Form II,
+140805,Indomitable Form II,
+140806,Indomitable Form II,
+1000000,Damage Immunity,
+1000001,,
+1000002,,
+1000003,,
+1000101,,
+1000102,,
+1000103,,
+1000201,,
+1000202,,
+1000203,,
+1000301,,
+1000302,,
+1000401,,
+1000402,,
+1000403,,
+1000501,,
+1000502,,
+1000503,,
+1000601,,
+1000602,,
+1000603,,
+1000701,,
+1000702,,
+1000703,,
+1000801,,
+1000802,,
+1000803,,
+1000901,,
+1000902,,
+1000903,,
+1001001,,
+1001002,,
+1001003,,
+1001101,,
+1001102,,
+1001103,,
+1001201,,
+1001202,,
+1001203,,
+1001301,,
+1001302,,
+1001303,,
+1001401,,
+1001402,,
+1001403,,
+1001501,,
+1001502,,
+1001503,,
+1001504,,
+1001505,,
+1001601,,
+1001602,,
+1001603,,
+1001604,,
+1001605,,
+1001606,,
+1001607,,
+1001701,,
+1001702,,
+1001703,,
+1001704,,
+1001705,,
+1001706,,
+1001707,,
+1001801,,
+1001802,,
+1001803,,
+1001901,,
+1001902,,
+1001903,,
+1002001,,
+1002002,,
+1002003,,
+1002101,,
+1002102,,
+1002103,,
+1002201,,
+1002202,,
+1002203,,
+1002301,,
+1002302,,
+1002303,,
+1002401,,
+1002402,,
+1002403,,
+1002501,,
+1002502,,
+1002503,,
+1002505,,
+1002601,,
+1002602,,
+1002603,,
+1002605,,
+1002701,,
+1002702,,
+1002703,,
+1002801,,
+1002802,,
+1002803,,
+1002901,,
+1002902,,
+1002903,,
+1003001,,
+1003002,,
+1003003,,
+1003004,,
+1003101,,
+1003102,,
+1003103,,
+1003104,,
+1003201,,
+1003202,,
+1003203,,
+1003204,,
+1003301,,
+1003302,,
+1003401,,
+1003402,,
+1003501,,
+1003502,,
+1003601,,
+1003602,,
+1003603,,
+1003701,,
+1003702,,
+1003703,,
+1003801,,
+1003802,,
+1003803,,
+1003901,,
+1003902,,
+1003903,,
+1004001,,
+1004002,,
+1004003,,
+1004101,,
+1004102,,
+1004103,,
+1004201,,
+1004202,,
+1004203,,
+1004301,,
+1004302,,
+1004303,,
+1004304,,
+1004401,,
+1004402,,
+1004403,,
+1004404,,
+1004501,,
+1004502,,
+1004503,,
+1004601,,
+1004602,,
+1004603,,
+1004701,,
+1004702,,
+1004703,,
+1004801,,
+1004802,,
+1004803,,
+1004901,,
+1004902,,
+1004903,,
+1005001,,
+1005002,,
+1005003,,
+1005101,,
+1005102,,
+1005103,,
+1005201,,
+1005202,,
+1005203,,
+1005301,,
+1005302,,
+1005303,,
+1005401,,
+1005402,,
+1005403,,
+1005501,,
+1005502,,
+1005503,,
+1005601,,
+1005602,,
+1005603,,
+1005701,,
+1005702,,
+1005703,,
+1005801,,
+1005802,,
+1005803,,
+1005901,,
+1005902,,
+1005903,,
+1006001,,
+1006002,,
+1006003,,
+1006101,,
+1006102,,
+1006103,,
+1006201,,
+1006202,,
+1006203,,
+1006301,,
+1006302,,
+1006303,,
+1006401,,
+1006402,,
+1006403,,
+1006501,,
+1006502,,
+1006503,,
+1006601,,
+1006602,,
+1006603,,
+1006701,,
+1006702,,
+1006703,,
+1006801,,
+1006802,,
+1006803,,
+1006901,,
+1006902,,
+1007001,,
+1007002,,
+1007101,,
+1007102,,
+1007201,,
+1007202,,
+1007203,,
+1007301,,
+1007302,,
+1007303,,
+1007401,,
+1007402,,
+1007403,,
+1007501,,
+1007502,,
+1007503,,
+1007601,,
+1007602,,
+1007603,,
+1007701,,
+1007702,,
+1007703,,
+1007801,,
+1007802,,
+1007803,,
+1007901,,
+1007902,,
+1007903,,
+1008001,,
+1008002,,
+1008003,,
+1008101,,
+1008102,,
+1008103,,
+1008201,,
+1008202,,
+1008203,,
+1008301,,
+1008302,,
+1008303,,
+1008401,,
+1008402,,
+1008403,,
+1008501,,
+1008502,,
+1008503,,
+1008601,,
+1008602,,
+1008603,,
+1008701,,
+1008702,,
+1008703,,
+1008801,,
+1008802,,
+1008803,,
+1008901,,
+1008902,,
+1008903,,
+1009001,,
+1009002,,
+1009003,,
+1009101,,
+1009102,,
+1009103,,
+1009201,,
+1009202,,
+1009203,,
+1009301,,
+1009302,,
+1009303,,
+1009401,,
+1009402,,
+1009403,,
+1009501,,
+1009502,,
+1009503,,
+1009601,,
+1009602,,
+1009701,,
+1009702,,
+1009801,,
+1009802,,
+1009803,,
+1009901,,
+1009902,,
+1009903,,
+1010001,,
+1010002,,
+1010003,,
+1010101,,
+1010102,,
+1010103,,
+1010104,,
+1010201,,
+1010202,,
+1010203,,
+1010204,,
+1010301,,
+1010302,,
+1010401,,
+1010402,,
+1010501,,
+1010502,,
+1010601,,
+1010602,,
+1010701,,
+1010702,,
+1010801,,
+1010802,,
+1010901,,
+1010902,,
+1011001,,
+1011002,,
+1011101,,
+1011102,,
+1011201,,
+1011202,,
+1011301,,
+1011302,,
+1011401,,
+1011402,,
+1011501,,
+1011502,,
+1011601,,
+1011602,,
+1011701,,
+1011702,,
+1011801,,
+1011802,,
+1011901,,
+1011902,,
+1012001,,
+1012002,,
+1012101,,
+1012102,,
+1012201,,
+1012202,,
+1012301,,
+1012302,,
+1012401,,
+1012402,,
+1012501,,
+1012502,,
+1012601,,
+1012602,,
+1012701,,
+1012702,,
+1012801,,
+1012802,,
+1012901,,
+1012902,,
+1013001,,
+1013002,,
+1013101,,
+1013102,,
+1013201,,
+1013202,,
+1013301,,
+1013302,,
+1013401,,
+1013402,,
+1013501,,
+1013502,,
+1013503,,
+1013601,,
+1013602,,
+1013603,,
+1013701,,
+1013702,,
+1013703,,
+1013801,,
+1013802,,
+1013803,,
+1013901,,
+1013902,,
+1013903,,
+1014001,,
+1014002,,
+1014003,,
+1014101,,
+1014102,,
+1014103,,
+1014201,,
+1014202,,
+1014203,,
+1014301,,
+1014302,,
+1014303,,
+1014401,,
+1014402,,
+1014403,,
+1014501,,
+1014502,,
+1014503,,
+1014601,,
+1014602,,
+1014603,,
+1014701,,
+1014702,,
+1014703,,
+1014801,,
+1014802,,
+1014803,,
+1014901,,
+1014902,,
+1014903,,
+1015001,,
+1015002,,
+1015003,,
+1015101,,
+1015102,,
+1015103,,
+1015201,,
+1015202,,
+1015203,,
+1015301,,
+1015302,,
+1015303,,
+1015304,,
+1015401,,
+1015402,,
+1015403,,
+1015404,,
+1015501,,
+1015502,,
+1015503,,
+1015601,,
+1015602,,
+1015603,,
+1015701,,
+1015702,,
+1015703,,
+1015801,,
+1015802,,
+1015803,,
+1015901,,
+1015902,,
+1015903,,
+1015904,,
+1016001,,
+1016002,,
+1016003,,
+1016004,,
+1016101,,
+1016102,,
+1016103,,
+1016201,,
+1016202,,
+1016203,,
+1016301,,
+1016302,,
+1016303,,
+1016401,,
+1016402,,
+1016403,,
+1016501,,
+1016502,,
+1016503,,
+1016601,,
+1016602,,
+1016603,,
+1016701,,
+1016702,,
+1016703,,
+1016801,,
+1016802,,
+1016803,,
+1016901,,
+1016902,,
+1016903,,
+1017001,,
+1017002,,
+1017003,,
+1017101,,
+1017102,,
+1017103,,
+1017201,,
+1017202,,
+1017203,,
+1017301,,
+1017302,,
+1017303,,
+1017401,,
+1017402,,
+1017403,,
+1017501,,
+1017502,,
+1017503,,
+1017601,,
+1017602,,
+1017603,,
+1017701,,
+1017702,,
+1017703,,
+1017801,,
+1017802,,
+1017803,,
+1017901,,
+1017902,,
+1017903,,
+1018001,,
+1018002,,
+1018003,,
+1018101,,
+1018102,,
+1018103,,
+1018201,,
+1018202,,
+1018203,,
+1018301,,
+1018302,,
+1018303,,
+1018401,,
+1018402,,
+1018403,,
+1018501,,
+1018502,,
+1018503,,
+1018601,,
+1018602,,
+1018603,,
+1018701,,
+1018702,,
+1018703,,
+1018801,,
+1018802,,
+1018803,,
+1018901,,
+1018902,,
+1018903,,
+1019001,,
+1019002,,
+1019003,,
+1019101,,
+1019102,,
+1019103,,
+1019201,,
+1019202,,
+1019203,,
+1019301,,
+1019302,,
+1019303,,
+1019401,,
+1019402,,
+1019403,,
+1019501,,
+1019502,,
+1019503,,
+1019601,,
+1019602,,
+1019603,,
+1019701,,
+1019702,,
+1019801,,
+1019802,,
+1019901,,
+1019902,,
+1020001,,
+1020002,,
+1020003,,
+1020101,,
+1020102,,
+1020103,,
+1020201,,
+1020202,,
+1020203,,
+1020301,,
+1020302,,
+1020303,,
+1020401,,
+1020402,,
+1020403,,
+1020501,,
+1020502,,
+1020503,,
+1020601,,
+1020602,,
+1020603,,
+1020701,,
+1020702,,
+1020703,,
+1020801,,
+1020802,,
+1020803,,
+1020901,,
+1020902,,
+1020903,,
+1020904,,
+1021001,,
+1021002,,
+1021003,,
+1021004,,
+1021101,,
+1021102,,
+1021103,,
+1021201,,
+1021202,,
+1021203,,
+1021301,,
+1021302,,
+1021303,,
+1021401,,
+1021402,,
+1021403,,
+1021501,,
+1021502,,
+1021601,,
+1021602,,
+1021701,,
+1021702,,
+1021703,,
+1021801,,
+1021802,,
+1021803,,
+1021901,,
+1021902,,
+1021903,,
+1022001,,
+1022002,,
+1022003,,
+1022101,,
+1022102,,
+1022103,,
+1022201,,
+1022202,,
+1022203,,
+1022301,,
+1022302,,
+1022303,,
+1022401,,
+1022402,,
+1022403,,
+1022501,,
+1022502,,
+1022503,,
+1022601,,
+1022602,,
+1022701,,
+1022702,,
+1022801,,
+1022802,,
+1022901,,
+1022902,,
+1023001,,
+1023002,,
+1023101,,
+1023102,,
+1023201,,
+1023202,,
+1023301,,
+1023302,,
+1023401,,
+1023402,,
+1023501,,
+1023502,,
+1023503,,
+1023601,,
+1023602,,
+1023603,,
+1023701,,
+1023702,,
+1023703,,
+1023801,,
+1023802,,
+1023803,,
+1023901,,
+1023902,,
+1023903,,
+1024001,,
+1024002,,
+1024003,,
+1024101,,
+1024102,,
+1024103,,
+1024201,,
+1024202,,
+1024203,,
+1024301,,
+1024302,,
+1024303,,
+1024401,,
+1024402,,
+1024403,,
+1024501,,
+1024502,,
+1024503,,
+1024601,,
+1024602,,
+1024603,,
+1024701,,
+1024702,,
+1024703,,
+1024801,,
+1024802,,
+1024803,,
+1024901,,
+1024902,,
+1024903,,
+1025001,,
+1025002,,
+1025003,,
+1025101,,
+1025102,,
+1025103,,
+1025201,,
+1025202,,
+1025203,,
+1025301,,
+1025302,,
+1025303,,
+1025401,,
+1025402,,
+1025403,,
+1025501,,
+1025502,,
+1025503,,
+1025601,,
+1025602,,
+1025603,,
+1025701,,
+1025702,,
+1025703,,
+1025801,,
+1025802,,
+1025803,,
+1025901,,
+1025902,,
+1025903,,
+1026001,,
+1026002,,
+1026003,,
+1026101,,
+1026102,,
+1026103,,
+1026201,,
+1026202,,
+1026203,,
+1026301,,
+1026302,,
+1026303,,
+1026401,,
+1026402,,
+1026403,,
+1026501,,
+1026502,,
+1026503,,
+1026601,,
+1026602,,
+1026603,,
+1026701,,
+1026702,,
+1026703,,
+1026801,,
+1026802,,
+1026803,,
+1026901,,
+1026902,,
+1026903,,
+1027001,,
+1027002,,
+1027003,,
+1027101,,
+1027102,,
+1027103,,
+1027201,,
+1027202,,
+1027203,,
+1027301,,
+1027302,,
+1027303,,
+1027401,,
+1027402,,
+1027403,,
+1027501,,
+1027502,,
+1027503,,
+1027601,,
+1027602,,
+1027603,,
+1027701,,
+1027702,,
+1027703,,
+1027801,,
+1027802,,
+1027803,,
+1027901,,
+1027902,,
+1027903,,
+1028001,,
+1028002,,
+1028003,,
+1028101,,
+1028102,,
+1028103,,
+1028201,,
+1028202,,
+1028203,,
+1028301,,
+1028302,,
+1028303,,
+1028401,,
+1028402,,
+1028403,,
+1028501,,
+1028502,,
+1028503,,
+1028601,,
+1028602,,
+1028603,,
+1028701,,
+1028702,,
+1028703,,
+1028801,,
+1028802,,
+1028803,,
+1028901,,
+1028902,,
+1028903,,
+1029001,,
+1029002,,
+1029003,,
+1029101,,
+1029102,,
+1029103,,
+1029201,,
+1029202,,
+1029203,,
+1029301,,
+1029302,,
+1029303,,
+1029401,,
+1029402,,
+1029403,,
+1029501,,
+1029502,,
+1029503,,
+1029601,,
+1029602,,
+1029603,,
+1029701,,
+1029702,,
+1029703,,
+1029801,,
+1029802,,
+1029803,,
+1029901,,
+1029902,,
+1029903,,
+1030001,,
+1030002,,
+1030003,,
+1030101,,
+1030102,,
+1030103,,
+1030201,,
+1030202,,
+1030203,,
+1030301,,
+1030302,,
+1030303,,
+1030401,,
+1030402,,
+1030403,,
+1030501,,
+1030502,,
+1030503,,
+1030601,,
+1030602,,
+1030603,,
+1030701,,
+1030702,,
+1030703,,
+1030801,,
+1030802,,
+1030803,,
+1030901,,
+1030902,,
+1030903,,
+1031001,,
+1031002,,
+1031003,,
+1031101,,
+1031102,,
+1031103,,
+1031104,,
+1031201,,
+1031202,,
+1031203,,
+1031204,,
+1031301,,
+1031302,,
+1031303,,
+1031304,,
+1031401,,
+1031402,,
+1031403,,
+1031404,,
+1031501,,
+1031502,,
+1031503,,
+1031504,,
+1031601,,
+1031602,,
+1031603,,
+1031604,,
+1031701,,
+1031702,,
+1031703,,
+1031801,,
+1031802,,
+1031803,,
+1031901,,
+1031902,,
+1031903,,
+1032001,,
+1032002,,
+1032003,,
+1032101,,
+1032102,,
+1032103,,
+1032201,,
+1032202,,
+1032203,,
+1032301,,
+1032302,,
+1032303,,
+1032401,,
+1032402,,
+1032403,,
+1032501,,
+1032502,,
+1032503,,
+1032601,,
+1032602,,
+1032603,,
+1032701,,
+1032702,,
+1032703,,
+1032801,,
+1032802,,
+1032803,,
+1032901,,
+1032902,,
+1032903,,
+1033001,,
+1033002,,
+1033003,,
+1034001,,
+1034002,,
+1034003,,
+1035001,,
+1035002,,
+1035003,,
+1036001,,
+1036003,,
+1036002,,
+1036101,,
+1036102,,
+1036103,,
+1036104,,
+1036201,,
+1036202,,
+1036203,,
+1036204,,
+1036301,,
+1036302,,
+1036303,,
+1036401,,
+1036402,,
+1036403,,
+1036501,,
+1036502,,
+1036503,,
+1036506,,
+1036507,,
+1036508,,
+1036601,,
+1036602,,
+1036603,,
+1036701,,
+1036702,,
+1036703,,
+1036801,,
+1036802,,
+1036803,,
+1036901,,
+1036902,,
+1036903,,
+1037001,,
+1037002,,
+1037003,,
+1037101,,
+1037102,,
+1037103,,
+1037201,,
+1037202,,
+1037203,,
+1037301,,
+1037302,,
+1037303,,
+1037401,,
+1037402,,
+1037403,,
+1037501,,
+1037502,,
+1037503,,
+1037601,,
+1037602,,
+1037603,,
+1037701,,
+1037702,,
+1037703,,
+1037801,,
+1037802,,
+1037803,,
+1037901,,
+1037902,,
+1037903,,
+1038001,,
+1038002,,
+1038003,,
+1038101,,
+1038102,,
+1038103,,
+1038201,,
+1038202,,
+1038203,,
+1038301,,
+1038302,,
+1038303,,
+1038401,,
+1038402,,
+1038403,,
+1038501,,
+1038502,,
+1038503,,
+1038601,,
+1038602,,
+1038603,,
+1038701,,
+1038702,,
+1038703,,
+1038801,,
+1038802,,
+1038803,,
+1038901,,
+1038902,,
+1038903,,
+1039001,,
+1039002,,
+1039003,,
+1039101,,
+1039102,,
+1039103,,
+1039201,,
+1039202,,
+1039203,,
+1039301,,
+1039302,,
+1039303,,
+1039401,,
+1039402,,
+1039403,,
+1039501,,
+1039502,,
+1039503,,
+1039601,,
+1039602,,
+1039603,,
+1039701,,
+1039702,,
+1039703,,
+1039801,,
+1039802,,
+1039803,,
+1039901,,
+1039902,,
+1039903,,
+1040001,,
+1040002,,
+1040003,,
+1040101,,
+1040102,,
+1040103,,
+1040201,,
+1040202,,
+1040203,,
+1040301,,
+1040302,,
+1040303,,
+1040401,,
+1040402,,
+1040403,,
+1040501,,
+1040502,,
+1040503,,
+1040504,,
+1040505,,
+1040506,,
+1040507,,
+1040601,,
+1040602,,
+1040603,,
+1040604,,
+1040605,,
+1040606,,
+1040607,,
+1040701,,
+1040702,,
+1040703,,
+1040704,,
+1040705,,
+1040706,,
+1040707,,
+2000001,,
+2000002,,
+2000003,,
+2000004,,
+2000005,,
+2000006,,
+2000007,,
+2000008,,
+2000009,,
+2000010,,
+2000011,,
+2000012,,
+2000013,,
+2000014,,
+2000101,,
+2000102,,
+2000103,,
+2000104,,
+2000105,,
+2000106,,
+2000107,,
+2000108,,
+2000109,,
+2000110,,
+2000111,,
+2000112,,
+2000113,,
+2000201,,
+2000202,,
+2000203,,
+2000204,,
+2000205,,
+2000206,,
+2000207,,
+2000208,,
+2000209,,
+2000210,,
+2000211,,
+2000212,,
+2000213,,
+2000301,,
+2000302,,
+2000303,,
+2000304,,
+2000305,,
+2000306,,
+2000307,,
+2000308,,
+2000309,,
+2000310,,
+2000311,,
+2000312,,
+2000313,,
+2000401,,
+2000402,,
+2000403,,
+2000404,,
+2000405,,
+2000406,,
+2000407,,
+2000408,,
+2000409,,
+2000410,,
+2000411,,
+2000412,,
+2000413,,
+2000414,,
+2100101,,
+2100102,,
+2100103,,
+2100104,,
+2100105,,
+2100106,,
+2100108,,
+2100109,,
+2200000,,
+2200001,,
+2200002,,
+2200003,,
+2200010,,
+2200011,,
+2200012,,
+2200013,,
+2200014,,
+2200015,,
+2200016,,
+2200017,,
+2200018,,
+2200019,,
+2200020,,
+2200021,,
+2200030,,
+2200031,,
+2200050,,
+2200051,,
+3000001,,
+3000002,,
+3000003,,
+3000004,,
+3000006,,
+3000007,,
+3000009,,
+3000010,,
+3000101,,
+3000102,,
+3000103,,
+3000104,,
+3000105,,
+3000107,,
+3000109,,
+3000110,,
+3000111,,
+3000112,,
+3000113,,
+3000114,,
+3000115,,
+3000116,,
+3000118,,
+3000119,,
+3000191,,
+3000192,,
+3000193,,
+3000194,,
+3000195,,
+3000196,,
+3000197,,
+3000198,,
+3000201,,
+3000202,,
+3000203,,
+3000204,,
+3000205,,
+3000208,,
+3000209,,
+3000210,,
+3000211,,
+3000212,,
+3000213,,
+3000214,,
+3000301,,
+3000302,,
+3000303,,
+3000304,,
+3000305,,
+3000306,,
+3000307,,
+3000308,,
+3000309,,
+3000311,,
+3000312,,
+3000313,,
+3000314,,
+3000315,,
+3000316,,
+3000317,,
+3000401,,
+3000402,,
+3000403,,
+3000405,,
+3000406,,
+3000410,,
+3000411,,
+3000501,,
+3000502,,
+3000503,,
+3000504,,
+3000505,,
+3000506,,
+3000601,,
+3000602,,
+3000603,,
+3000604,,
+3000605,,
+3000606,,
+3000608,,
+3000701,,
+3000702,,
+3000703,,
+3000704,,
+3000705,,
+3000706,,
+3000707,,
+3000709,,
+3000801,,
+3000802,,
+3000803,,
+3000804,,
+3000805,,
+3000806,,
+3000901,,
+3000902,,
+3000903,,
+3000904,,
+3000905,,
+3000906,,
+3000907,,
+3000908,,
+3000909,,
+3000910,,
+3000911,,
+3001001,,
+3001002,,
+3001003,,
+3001004,,
+3001005,,
+3001006,,
+3001101,,
+3001102,,
+3001103,,
+3001104,,
+3001105,,
+3001106,,
+3001108,,
+3001110,,
+3001111,,
+3001112,,
+3001113,,
+3001120,,
+3001122,,
+3001201,,
+3001202,,
+3001203,,
+3001204,,
+3001205,,
+3001206,,
+3001207,,
+3001208,,
+3001209,,
+3001301,,
+3001302,,
+3001303,,
+3001304,,
+3001305,,
+3001310,,
+3001401,,
+3001402,,
+3001403,,
+3001404,,
+3001410,,
+3001411,,
+3001412,,
+3001413,,
+3001501,,
+3001502,,
+3001503,,
+3001504,,
+3001505,,
+3001506,,
+3001507,,
+3001508,,
+3001601,,
+3001602,,
+3001603,,
+3001604,,
+3001605,,
+3001606,,
+3001607,,
+3001701,,
+3001702,,
+3001703,,
+3001704,,
+3001705,,
+3001706,,
+3001708,,
+3001709,,
+3001710,,
+3001800,,
+3001801,,
+3001802,,
+3001803,,
+3001804,,
+3001805,,
+3001808,,
+3001809,,
+3001810,,
+3001811,,
+3001813,,
+3001814,,
+3001815,,
+3001816,,
+3001818,,
+3001820,,
+3001821,,
+3001822,,
+3001823,,
+3001901,,
+3001902,,
+3001903,,
+3001904,,
+3001905,,
+3001906,,
+3002001,,
+3002002,,
+3002003,,
+3002004,,
+3002005,,
+3002006,,
+3002007,,
+3002008,,
+3002009,,
+3002010,,
+3002011,,
+3002012,,
+3002013,,
+3002014,,
+3002015,,
+3002021,,
+3002022,,
+3002023,,
+3002024,,
+3002025,,
+3002030,,
+3002031,,
+3002101,,
+3002102,,
+3002103,,
+3002104,,
+3002105,,
+3002107,,
+3002108,,
+3002106,,
+3100001,,
+3100002,,
+3100003,,
+3100004,,
+3100005,,
+3100006,,
+3100007,,
+3100010,,
+3100012,,
+3100013,,
+3100015,,
+3100016,,
+3100020,,
+3100021,,
+3100101,,
+3100102,,
+3100103,,
+3100104,,
+3100105,,
+3100106,,
+3100107,,
+3100108,,
+3100109,,
+3100110,,
+3100113,,
+3100120,,
+3100121,,
+3100122,,
+3100123,,
+3100124,,
+3100125,,
+3100201,,
+3100202,,
+3100203,,
+3100204,,
+3100205,,
+3100207,,
+3100208,,
+3100209,,
+3100210,,
+3100211,,
+3100212,,
+3100213,,
+3100214,,
+3100215,,
+3100216,,
+3100217,,
+3100218,,
+3100219,,
+3100220,,
+3100222,,
+3100223,,
+3100301,,
+3100302,,
+3100303,,
+3100304,,
+3100305,,
+3100307,,
+3100308,,
+3100309,,
+3100310,,
+3100311,,
+3100313,,
+3100315,,
+3100331,,
+3100341,,
+3100342,,
+3100343,,
+3100344,,
+3100401,,
+3100402,,
+3100403,,
+3100404,,
+3100405,,
+3100406,,
+3100407,,
+3100408,,
+3100409,,
+3100410,,
+3100411,,
+3100412,,
+3100413,,
+3100414,,
+3100415,,
+3100416,,
+3100417,,
+3110001,,
+3110002,,
+3110003,,
+3110004,,
+3110005,,
+3110006,,
+3110008,,
+3200001,,
+3200002,,
+3200003,,
+3200004,,
+3200005,,
+3200008,,
+3200009,,
+3200010,,
+3200012,,
+3200015,,
+3200016,,
+3200017,,
+3200019,,
+3200020,,
+3200101,,
+3200102,,
+3200103,,
+3200104,,
+3200105,,
+3200106,,
+3200107,,
+3200108,,
+3200110,,
+3200111,,
+3200112,,
+3200200,,
+3200201,,
+3200202,,
+3200203,,
+3200204,,
+3200205,,
+3200206,,
+3200210,,
+3200211,,
+3200214,,
+3200215,,
+3200216,,
+3200217,,
+3200218,,
+3200220,,
+3200221,,
+3200222,,
+3200223,,
+3200224,,
+3200301,,
+3200302,,
+3200303,,
+3200304,,
+3200305,,
+3200306,,
+3200401,,
+3200402,,
+3200403,,
+3200404,,
+3200405,,
+3200406,,
+3200501,,
+3200502,,
+3200503,,
+3200504,,
+3200505,,
+3200506,,
+3200507,,
+3200601,,
+3200602,,
+3200603,,
+3200604,,
+3200605,,
+3200606,,
+3200701,,
+3200702,,
+3200703,,
+3200704,,
+3200705,,
+3200706,,
+3200801,,
+3200802,,
+3200803,,
+3200804,,
+3200805,,
+3200806,,
+3200807,,
+3200808,,
+3200901,,
+3200902,,
+3200903,,
+3200904,,
+3201001,,
+3201002,,
+3201003,,
+3201101,,
+3201102,,
+3201103,,
+3201104,,
+3201105,,
+3201106,,
+3201201,,
+3201202,,
+3201203,,
+3201301,,
+3201302,,
+3201303,,
+3201304,,
+3201401,,
+3201402,,
+3201403,,
+3201404,,
+3201405,,
+3201406,,
+3201407,,
+3201408,,
+3201409,,
+3201410,,
+3201412,,
+3201413,,
+3201414,,
+3201415,,
+3201416,,
+3201417,,
+3201418,,
+3201420,,
+3201501,,
+3201502,,
+3201601,,
+3201602,,
+3201603,,
+3201701,,
+3201702,,
+3201703,,
+3201704,,
+3201705,,
+3201706,,
+3201707,,
+3201801,,
+3201802,,
+3201803,,
+3210101,,
+3210102,,
+3210103,,
+3210201,,
+3210202,,
+3210203,,
+3210301,,
+3210302,,
+3210303,,
+3210401,,
+3210402,,
+3210403,,
+3210601,,
+3210602,,
+3210603,,
+3210701,,
+3210702,,
+3210703,,
+3210801,,
+3210802,,
+3210803,,
+3210901,,
+3210902,,
+3210903,,
+3211001,,
+3211002,,
+3211003,,
+3211101,,
+3211102,,
+3211103,,
+3211201,,
+3211202,,
+3211203,,
+3211204,,
+3211205,,
+3211301,,
+3211302,,
+3211303,,
+3211401,,
+3211402,,
+3211403,,
+3211501,,
+3211502,,
+3211503,,
+3211601,,
+3211602,,
+3211701,,
+3211702,,
+3211703,,
+3211801,,
+3211802,,
+3211803,,
+3300001,,
+3300002,,
+3300003,,
+3300004,,
+3300005,,
+3300006,,
+3300007,,
+3300008,,
+3300009,,
+3300010,,
+3300011,,
+3300012,,
+3300016,,
+3300017,,
+3300101,,
+3300102,,
+3300103,,
+3300104,,
+3300105,,
+3300106,,
+3300107,,
+3300108,,
+3300109,,
+3300110,,
+3300111,,
+3300112,,
+3300113,,
+3300114,,
+3300115,,
+3300201,,
+3300202,,
+3300203,,
+3300204,,
+3300205,,
+3300206,,
+3300207,,
+3300208,,
+3300209,,
+3300210,,
+3300216,,
+3300217,,
+3300218,,
+3300219,,
+3300220,,
+3300223,,
+3300224,,
+3300230,,
+3300231,,
+3300301,,
+3300302,,
+3300303,,
+3300304,,
+3300305,,
+3300310,,
+3300311,,
+3300312,,
+3300315,,
+3300316,,
+3300320,,
+3300321,,
+3300322,,
+3300323,,
+3300324,,
+3300330,,
+3300331,,
+3300332,,
+3300333,,
+3300334,,
+3300335,,
+3300336,,
+3300340,,
+3300341,,
+3300342,,
+3300343,,
+3300344,,
+3300345,,
+3300346,,
+3300347,,
+3400001,,
+3400002,,
+3400003,,
+3400004,,
+3400005,,
+3400006,,
+3400008,,
+3400009,,
+3400010,,
+3400011,,
+3400012,,
+3400013,,
+3400014,,
+3400015,,
+3400016,,
+3400017,,
+3400101,,
+3400102,,
+3400103,,
+3400104,,
+3400105,,
+3400106,,
+3400107,,
+3400108,,
+3400109,,
+3400110,,
+3400111,,
+3400112,,
+3400113,,
+3400131,,
+3400132,,
+3400133,,
+3400141,,
+3400151,,
+3400152,,
+3400153,,
+3400154,,
+3400155,,
+3400156,,
+3400157,,
+3400158,,
+3400159,,
+3400160,,
+3400161,,
+3400162,,
+3400163,,
+3400164,,
+3400165,,
+3400166,,
+3400201,,
+3400202,,
+3400203,,
+3400204,,
+3400205,,
+3400207,,
+3400208,,
+3400209,,
+3400210,,
+3400220,,
+3400221,,
+3400222,,
+3400223,,
+3400224,,
+3400230,,
+3400231,,
+3400232,,
+3400233,,
+3400240,,
+3400241,,
+3400242,,
+3400243,,
+3400244,,
+3400250,,
+3400251,,
+3400252,,
+3400253,,
+3500001,,
+3500002,,
+3500003,,
+3500005,,
+3500007,,
+3500009,,
+3500101,,
+3500102,,
+3500103,,
+3500105,,
+3500201,,
+3500202,,
+3500203,,
+3500204,,
+3500301,,
+3500302,,
+3500303,,
+3500304,,
+3500306,,
+3500401,,
+3500402,,
+3500403,,
+3500404,,
+3500405,,
+3500406,,
+3500407,,
+3500501,,
+3500502,,
+3500503,,
+3500504,,
+3500505,,
+3500506,,
+3500507,,
+3500508,,
+3500510,,
+3500601,,
+3500602,,
+3500603,,
+3500604,,
+3500605,,
+3500606,,
+3500607,,
+3500608,,
+3500610,,
+3500701,,
+3500702,,
+3500703,,
+3500705,,
+3500706,,
+3500707,,
+3500708,,
+3500709,,
+3500801,,
+3500802,,
+3500803,,
+3500804,,
+3500805,,
+3500901,,
+3500902,,
+3500903,,
+3500904,,
+3500905,,
+3501001,,
+3501002,,
+3501003,,
+3501004,,
+3501101,,
+3501102,,
+3501103,,
+3501104,,
+3501105,,
+3501106,,
+3501201,,
+3501202,,
+3501203,,
+3501204,,
+3501205,,
+3501206,,
+3501301,,
+3501302,,
+3501303,,
+3501304,,
+3501305,,
+3501306,,
+3501307,,
+3600000,,
+3600001,,
+3600005,,
+3600007,,
+3600009,,
+3600010,,
+3600012,,
+3600014,,
+3600015,,
+3600021,,
+3600022,,
+3600030,,
+3600031,,
+3600032,,
+3600040,,
+3600041,,
+3600042,,
+3600043,,
+3600044,,
+3600101,,
+3600102,,
+3600103,,
+3600104,,
+3600105,,
+3600107,,
+3700001,,
+3700002,,
+3700003,,
+3700004,,
+3700005,,
+3700007,,
+3700008,,
+3700009,,
+4000001,,
+4000002,,
+4000003,,
+4000004,,
+4000006,,
+4000007,,
+4000010,,
+4000011,,
+4000012,,
+4000013,,
+4000015,,
+4000020,,
+4000021,,
+4000022,,
+4000030,,
+4000035,,
+4000037,,
+4000040,,
+4000041,,
+4000042,,
+4000043,,
+4000046,,
+4000047,,
+4000050,,
+4000052,,
+4000054,,
+4000061,,
+4000063,,
+4000065,,
+4000071,,
+4000072,,
+4000073,,
+4000074,,
+4000075,,
+4000081,,
+4000082,,
+4000083,,
+4000084,,
+4000085,,
+4000091,,
+4000092,,
+4000093,,
+4000094,,
+4000095,,
+5000000,,
+5000002,,
+5000003,,
+5000004,,
+5000011,,
+5000021,,
+5000081,,
+5000091,,
+5001002,,
+5001003,,
+5001004,,
+5001011,,
+5001021,,
+5001081,,
+5001091,,
+5000101,,
+5000102,,
+5000103,,
+5000111,,
+5000120,,
+5000121,,
+5000122,,
+5000131,,
+5000132,,
+5000134,,
+5000141,,
+5000142,,
+5000144,,
+5000145,,
+5000146,,
+5000148,,
+5000171,,
+5000181,,
+5000191,,
+5001120,,
+5001121,,
+5001122,,
+5001131,,
+5001132,,
+5001134,,
+5001141,,
+5001142,,
+5001144,,
+5001145,,
+5001146,,
+5001148,,
+5000222,,
+5000252,,
+5010101,,
+5010111,,
+5010121,,
+5010501,,
+5010511,,
+5010521,,
+5010901,,
+5010911,,
+5010921,,
+5011301,,
+5011311,,
+5011321,,
+5020101,,
+5020111,,
+5020121,,
+5020131,,
+5020141,,
+5020501,,
+5020511,,
+5020521,,
+5020531,,
+5020901,,
+5020911,,
+5020921,,
+5020931,,
+5020941,,
+5021301,,
+5021311,,
+5021321,,
+5021331,,
+5030101,,
+5030111,,
+5030121,,
+5030501,,
+5030511,,
+5030521,,
+5030531,,
+5030541,,
+5030901,,
+5030911,,
+5030921,,
+5031301,,
+5031311,,
+5031321,,
+5031331,,
+5040101,,
+5040111,,
+5040121,,
+5040131,,
+5040501,,
+5040511,,
+5040521,,
+5040901,,
+5040911,,
+5040921,,
+5040931,,
+5041301,,
+5041311,,
+5041321,,
+5041331,,
+5011601,,
+5011611,,
+5011621,,
+5012001,,
+5012011,,
+5012021,,
+5012401,,
+5012411,,
+5012421,,
+5012801,,
+5012811,,
+5012821,,
+5021601,,
+5021611,,
+5021621,,
+5021631,,
+5021641,,
+5022001,,
+5022011,,
+5022021,,
+5022031,,
+5022401,,
+5022411,,
+5022421,,
+5022431,,
+5022441,,
+5022801,,
+5022811,,
+5022821,,
+5022831,,
+5031601,,
+5031611,,
+5031621,,
+5032001,,
+5032011,,
+5032021,,
+5032031,,
+5032041,,
+5032401,,
+5032411,,
+5032421,,
+5032801,,
+5032811,,
+5032821,,
+5032831,,
+5041601,,
+5041611,,
+5041621,,
+5041631,,
+5042001,,
+5042011,,
+5042021,,
+5042401,,
+5042411,,
+5042421,,
+5042431,,
+5042801,,
+5042811,,
+5042821,,
+5042831,,
+5050101,,
+5050301,,
+5050311,,
+5050701,,
+5050901,,
+5050911,,
+5051301,,
+8000101,,
+11000001,,
+11000011,,
+11000021,,
+12000001,,
+12000011,,
+12000021,,
+12000031,,
+12000041,,
+12000050,,
+12000051,,
+12000052,,
+12000053,,
+12999998,,
+12999999,,
+13000001,,
+13000002,,
+13000003,,
+13000004,,
+14000001,,
+9010101,,
+9010102,,
+9010103,,
+9010104,,
+9010105,,
+9010106,,
+9010107,,
+9010108,,
+9010109,,
+9010110,,
+9010111,,
+9010112,,
+9010120,,
+9010121,,
+9010122,,
+9010123,,
+9010124,,
+9010125,,
+9010126,,
+9010127,,
+9010128,,
+9010129,,
+9010130,,
+9010131,,
+9010132,,
+9010133,,
+9010134,,
+9010135,,
+9010136,,
+9010137,,
+9010138,,
+9010139,,
+9010140,,
+9010141,,
+9010142,,
+9010143,,
+9010144,,
+9010201,,
+9010202,,
+9010203,,
+9010204,,
+9010205,,
+9010206,,
+9010207,,
+9010208,,
+9010209,,
+9010210,,
+9010211,,
+9010212,,
+9010213,,
+9010214,,
+9010301,,
+9010302,,
+9010303,,
+9010304,,
+9010305,,
+9010306,,
+9010307,,
+9010308,,
+9010309,,
+9010310,,
+9010311,,
+9010312,,
+9010313,,
+9010314,,
+9010401,,
+9010402,,
+9010403,,
+9010404,,
+9010405,,
+9010406,,
+9010407,,
+9010408,,
+9010409,,
+9010410,,
+9010411,,
+9010412,,
+9010413,,
+9010414,,

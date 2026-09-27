@@ -1,0 +1,1324 @@
+﻿Key,Value
+0,
+1,"Ocorreu um erro. Por favor, tente novamente mais tarde."
+2,"Ocorreu um erro. Por favor, tente novamente mais tarde."
+3,Recurso não suportado.
+4,"Ocorreu um erro. Por favor, tente novamente mais tarde."
+5,"Ocorreu um erro. Por favor, tente novamente mais tarde."
+6,"Ocorreu um erro. Por favor, tente novamente mais tarde."
+7,Conta inválida. Verifique novamente.
+8,"Ocorreu um erro. Por favor, tente novamente mais tarde."
+9,"Ocorreu um erro. Por favor, tente novamente mais tarde."
+10,O usuário não existe.
+11,"Ocorreu um erro. Por favor, tente novamente mais tarde."
+12,Selecione um caractere.
+13,Você não está conectado. Tente novamente.
+14,Este jogador está aguardando. Verifique novamente.
+15,Slot inválido.
+16,Caractere inválido.
+17,"Ocorreu um erro. Por favor, tente novamente mais tarde."
+18,Acesso inválido.
+19,Acesso inválido.
+20,ID mundial inválido.
+21,Não é possível conectar-se à versão atual do cliente. Atualize e tente novamente.
+22,Faça download do patch e conecte-se.
+23,Em manutenção.
+24,"Ocorreu um erro. Por favor, tente novamente mais tarde."
+25,"Ocorreu um erro. Por favor, tente novamente mais tarde."
+26,"Ocorreu um erro. Por favor, tente novamente mais tarde."
+27,Informação não localizada.
+28,Informação não localizada.
+29,O pré-download já está disponível.
+30,Informações mundiais não encontradas.
+31,"Ocorreu um erro. Por favor, tente novamente mais tarde."
+32,A criação de personagem está desabilitada neste servidor.
+33,"Não é possível excluir o personagem porque ele está em um Clã.
+Por favor, saia do Clã e tente novamente."
+34,Destino inválido.
+35,O destino já está morto.
+36,O destino foi banido do login.
+37,Uso restrito.
+38,Limite de caracteres atingido.
+39,Contém caracteres não permitidos.
+40,Você poderá explorar as Terras Abandonadas a partir de 25 de fevereiro.
+42,
+43,
+44,Você possui produtos no Armazenamento.
+45,Já existe um caractere neste servidor. Selecione um servidor diferente.
+47,Destino não localizado.
+49,Região do servidor inacessível
+101,O usuário está offline.
+102,O nome contém caracteres não permitidos.
+103,Deve ter entre 2 e 8 letras.
+104,Espaços não são permitidos em nomes.
+105,Não é possível usar este nome porque ele contém palavra(s) proibida(s).
+107,Este nome já está em uso.
+108,Não é possível selecionar o caractere.
+115,Não é possível reviver no momento.
+118,Não é possível mover para este local.
+119,Não é possível executar esta ação.
+120,Nível insuficiente.
+122,ID de NPC inválido.
+129,Caracteres especiais não podem ser utilizados em nomes.
+132,Números não são permitidos em nomes.
+133,O nome contém alfabetos ingleses.
+134,O nome contém caracteres inválidos.
+136,O nome já está em uso.
+138,Não é possível usar um nome somente numérico.
+139,Não é possível convidar aventureiros localizados em um mundo diferente do grupo.
+140,Reanimar está em espera.
+141,Este tipo de reavivamento não está disponível.
+142,Não é possível mover.
+143,Esta função não está disponível durante a batalha contra outro jogador.
+144,Nenhum dispositivo de teletransporte próximo.
+145,Você já descobriu este local.
+146,Você não pode acessar este local.
+147,Ainda não é possível reviver.
+148,Não é possível reviver porque o Território foi perdido.
+149,Poder de combate insuficiente.
+150,Nível de clã insuficiente.
+151,Teleporte não está disponível neste local.
+152,Não é possível usar descrições somente numéricas.
+153,A descrição contém palavras proibidas.
+154,Os Pins de mapa não foram ativados neste mundo.
+155,Limite de favoritos do Pin do mapa atingido.
+156,A descrição contém caracteres inválidos.
+157,
+158,
+159,A verificação de identidade é necessária para esta função.
+160,Não é do mesmo sexo.
+161,Não é possível alterar o nome durante a correspondência para entrada do Rift.
+162,Não é possível alterar o nome enquanto estiver em um grupo.
+163,Não é possível alterar o nome enquanto estiver em uma Unidade do Clã.
+164,Não é possível alterar o nome durante Monolith War.
+165,Não é possível alterar o nome no mundo atual.
+201,Classe inválida.
+202,"Reanimando automaticamente. Por favor, espere um momento."
+203,Não é possível criar mais caracteres.
+204,Vigor insuficiente.
+205,Não é possível voar durante a queda.
+206,O aventureiro não existe.
+207,Modo de movimento inválido.
+208,Não é possível iniciar a batalha automática de IA sem um planador equipado.
+209,Você não atingiu o nível exigido para Avanço.
+210,Você não completou a missão necessária para Avanço.
+211,"Informações de classe inválidas. Por favor, tente novamente."
+212,Nível insuficiente para Avanço.
+213,Informações de classe inválidas.
+214,Não é possível alterar a Postura de Batalha.
+215,Não é possível alterar a Postura de Batalha neste momento.
+216,Não é possível alterar a Postura de Batalha.
+217,Não é possível inserir este local.
+218,Não é possível escalar este local.
+219,Não é possível pesquisar sozinho.
+220,Ainda não é possível alterar.
+221,Não é possível usar esta função devido ao tempo de espera do Esacpe.
+222,Os slots de caracteres estão cheios e não podem ser expandidos ainda mais.
+223,Não pode ser usado nesta região.
+224,Não é possível voar nesta área.
+225,Não é possível cimb nesta área.
+226,Não é possível criar mais caracteres.
+301,ID de informações do mundo inválido.
+302,ID de informações de spot mundial inválido.
+303,Não é possível sair enquanto você estiver morto.
+304,Não pode ser usado durante o combate.
+305,Este é um mundo não listado.
+306,Muito próximo do destino.
+307,Não é possível sair do mundo atual.
+308,Destino indisponível.
+309,Este local de retorno já foi salvo.
+310,Nenhum local de retorno salvo.
+311,O mundo atual acabou.
+312,O local não pertence ao mundo atual.
+313,Este dispositivo de teletransporte não está disponível.
+314,Não é possível mover enquanto estiver no estado Outlaw.
+315,Não é possível mover para a tela Select Character a partir da área atual.
+321,Não pode ser usado neste mundo.
+322,A batalha automática de IA já está em andamento.
+323,A batalha automática de IA não está em andamento.
+324,Não há tempo suficiente.
+325,Não pode ser usado em um mundo de instância.
+326,São necessárias configurações de compra em massa.
+327,Não é possível usar Skills enquanto o Modo Avançado estiver ativo.
+328,Não é possível usar o Smart Auto Combat neste local
+329,
+330,Smart Auto Combat finalizado: Nenhum destino encontrado.
+331,Falha ao comprar consumíveis: nenhum destino encontrado.
+332,Falha ao reabastecer: recursos insuficientes.
+333,Falha ao reabastecer: o estoque está cheio.
+334,O Combate Automático Inteligente terminou. Todas as tentativas de reabastecimento foram utilizadas.
+335,O Smart Auto Combat foi encerrado. Todas as contagens de ressurreição usadas.
+336,Defina primeiro as configurações do AI Auto-Battle.
+337,Não é possível desativar durante o Smart Auto Combat.
+338,O modo de batalha automática AI não pode ser desativado enquanto estiver no caminho do vento.
+340,Não é possível usar o modo IA offline neste mundo.
+341,O modo AI offline já está em execução.
+342,O modo AI offline não foi iniciado.
+343,Não é possível usar o modo AI offline devido a tempo insuficiente.
+344,Não é possível usar o modo IA offline neste mundo.
+345,Não é possível usar o modo IA offline. Os dados da última reprodução estão faltando.
+346,Não é possível iniciar a reprodução off-line enquanto uma parada estiver ativa.
+347,Não é possível usar o modo IA offline ao solicitar entrada em um grupo.
+348,Não é possível usar o modo IA offline. A última jogada foi durante o conteúdo entre servidores.
+349,O horário de término planejado para o Modo AI Offline é inválido.
+350,
+351,Dados do tutorial não localizados.
+352,Não é possível iniciar o tutorial neste mundo.
+353,Não é possível continuar: o tutorial de pré-requisito não foi reproduzido.
+354,Não é possível prosseguir: a missão necessária não foi concluída.
+355,Não é possível prosseguir: Nível insuficiente.
+356,Não é possível prosseguir: ainda não desbloqueado.
+357,Estágio do tutorial inválido.
+358,Este tutorial não pode ser ativado.
+359,Falha ao configurar o mundo do tutorial.
+360,Este tutorial não pode ser ativado.
+361,Este tutorial não pode ser ativado.
+362,Este tutorial não pode ser ativado.
+363,Nenhuma recompensa de tutorial disponível.
+364,Recompensa já reivindicada.
+365,Este tutorial não pode ser ativado.
+366,Este tutorial não pode ser ativado.
+367,Este tutorial não pode ser ativado.
+368,Este tutorial não pode ser ativado.
+369,Este tutorial não pode ser ativado.
+1750,Nenhuma programação registrada.
+1751,Nenhuma programação registrada.
+1752,Agendamento suspenso.
+1753,concluída.
+1754,Indisponível enquanto um planejamento está em andamento.
+1759,Falha ao entrar na masmorra.
+1760,Nenhuma missão disponível para prosseguir.
+1761,Todas as missões concluídas.
+1756,O tempo de planejamento expirou.
+1755,O planejamento não foi iniciado.
+1757,Não é um mundo de destino para o planejamento.
+1758,Já concluí esta masmorra.
+401,ID do gadget inválido.
+402,Não pode ser cancelado.
+403,Não está mais disponível.
+404,Não está mais disponível.
+405,Você precisa se aproximar.
+406,Atualmente indisponível.
+407,Destino inválido.
+408,Não é possível cancelar durante o uso.
+409,Itens insuficientes para usar.
+410,Não está mais disponível.
+411,Não está mais disponível.
+412,Não é possível operar. Propriedade de outro jogador.
+413,Sem permissão. (Pertencente a outra equipe)
+414,Sem permissão. (Pertencente a outro clã)
+415,Sem permissão. (Classificação insuficiente)
+416,Já ocupado.
+417,Já ocupado.
+418,Conclua a missão necessária para usar isso.
+419,Já cadastrado no Codex.
+420,Não é possível usar no momento.
+421,Não pode ser usado. Os requisitos da missão não foram atendidos.
+422,Não pode ser usado. Já reivindicado e sendo usado por outro personagem.
+423,Não pode ser usado em combate.
+424,Só pode ser usado durante uma missão.
+425,Limpe a masmorra para usar isto.
+426,Não registrado em Codex.
+427,Este item já foi alcançado no Codex.
+428,Recompensa já reivindicada.
+429,Operação cancelada devido a movimento.
+430,Operação indisponível devido ao bloqueio de conteúdo.
+431,Você não tem permissão para controlar este gadget.
+432,Não é possível operar enquanto a proteção ainda estiver ativa.
+433,Não é possível operar um Santuário durante a purificação ou ocupação.
+434,Já está operando um gadget.
+435,Não é possível operar porque você não se juntou a um clã.
+436,Sem permissão. (Propriedade de um Clã Aliado)
+437,Já ocupado por uma Aliança.
+438,Não é possível operar. Outro local já ocupado.
+439,Não é possível mover usando Warp Anchors durante a operação.
+451,ID de NPC inválido.
+452,ID de NPC inválido.
+453,Tipo de NPC inválido.
+454,Informações de NPC expiradas.
+455,Já montado.
+456,Não é possível teletransportar enquanto estiver montado.
+457,Indisponível enquanto montado.
+500,Skill inválido.
+501,Não é possível usar Skills neste estado.
+502,Não é possível usar Skills neste estado.
+503,No tempo de espera...
+504,skill não aprendido.
+505,Não é possível subir de nível skill mais.
+506,O skill não pode ser equipado.
+507,Skill já adquirido.
+508,Nenhum destino.
+509,O destino está muito distante.
+510,Não pode ser usado em combate.
+511,Não é possível subir de nível skill.
+512,Não é possível subir de nível skill.
+513,Skill não pertencente.
+514,Já concluído.
+515,Não é possível trocar um Skill
+516,Conjurando um Skill.
+517,Nenhuma arma equipada.
+518,Skills não pode ser usado nesta área.
+519,Não é possível usar skill.
+520,O destino está muito próximo.
+521,MP insuficiente.
+522,Evasão insuficiente.
+523,Não é possível alterar a Postura atualmente.
+524,Não é possível alterar a Postura atualmente.
+525,Não é possível usar skill.
+526,Não é possível usar Dash.
+527,Não é possível usar o Ataque Padrão.
+528,Este Skill foi totalmente aprimorado.
+529,Esta Pedra Mágica não pode ser vinculada.
+530,Não pode ser vinculado a este Skill.
+531,Não é possível vincular a Spellstone.
+532,Esta Pedra Mágica não pode ser vinculada a este slot.
+533,Pedras mágicas do mesmo grupo não podem ser vinculadas.
+534,Não é possível aparar neste momento.
+535,Não é possível aparar neste momento.
+536,Não é possível aparar neste momento.
+537,Não é possível transcender mais o Skill.
+538,Não é possível adquirir Skill atualmente.
+539,Não é possível adquirir Skill atualmente.
+540,Dash desabilitado.
+541,Não é possível adquirir o Skill até que a missão seja concluída.
+542,Skill O nível não está no máximo.
+543,Este Skill não pode ser usado em uma Aldeia.
+544,Não é possível fazer Parry neste estado.
+545,
+546,Falha ao usar Skill em queda.
+600,Atordoado.
+601,derrubado.
+602,Airborne.
+603,derrubado.
+604,Chocado.
+605,Movimento forçado.
+606,Enraizado.
+607,Lento.
+608,Silenciado.
+609,Cego.
+610,Congelado.
+611,Provocado.
+612,Polimorfo.
+613,Controlado pela mente.
+614,Poção de HP desativada.
+615,Dash desabilitado.
+616,Não é possível usar Ataques Padrão neste estado.
+617,Temido.
+618,Enraizado.
+619,Transformado.
+620,Dormindo.
+621,Grappling.
+622,Grappled.
+623,Ação restrita.
+624,Suprimida.
+625,Não é possível usar consumíveis neste estado.
+701,Espaço de inventário insuficiente.
+702,Item inválido.
+703,Quantidade de item inválida.
+704,Item inválido.
+705,Não é possível vender este item.
+706,Este item está bloqueado.
+707,Não é possível vender mais do que o máximo permitido de uma só vez.
+708,Itens insuficientes.
+709,Itens insuficientes.
+710,Já está no nível máximo.
+711,Nenhum item de material encontrado.
+712,Item expirado.
+713,Não é possível vender itens equipados.
+714,Não é possível expandir ainda mais o inventário.
+715,Não é possível expandir este inventário.
+717,Não é um baú de itens.
+718,HP está cheio.
+719,MP está cheio.
+720,Ainda não é possível usar.
+721,Este item não pode ser utilizado neste local.
+725,Não é possível usar este item.
+726,Não é possível usar este item.
+730,Ainda não é possível usar o item.
+732,Não é possível adquirir o item. Posse máxima atingida.
+736,O estoque está cheio.
+743,Não é possível usar o item no momento.
+744,Em andamento.
+745,Este item é equipado por outro personagem.
+746,Você não possui este item.
+747,Não é possível equipar um item vinculado a outro personagem da conta.
+748,Este item está vinculado a outro personagem da conta.
+749,Este item está bloqueado.
+750,Esta missão já está em andamento.
+751,Não é um Clan Beacon.
+752,Não é possível colocar um Clan Beacon neste local.
+753,Você não tem permissão para colocar um Clan Beacon.
+754,Não é um Clan Beacon.
+755,Não há espaço suficiente no Inventário e na Caixa de entrada.
+756,Somente itens vinculados a caracteres podem ser armazenados.
+757,Itens equipados não podem ser armazenados.
+758,Número inválido de itens de material.
+759,Não é possível usar Stash Keeper. Muito longe.
+760,Não é possível utilizar em um estado de movimento especial.
+761,Não pode ser colocado em Combate.
+762,Não é possível colocar este item no Stash.
+763,Não é possível excluir um item equipado.
+764,Não é mais possível excluir.
+765,Não é mais possível excluir.
+766,Não é possível bloquear este item.
+767,Não é possível colocar este item no Stash.
+768,Não é possível utilizar este item nesta área.
+769,Não é possível excluir este item.
+770,Não há espaço suficiente no Stash.
+771,O item expirou.
+772,Não é possível usar materiais com limite de tempo.
+773,Não é possível atualizar itens com limite de tempo.
+774,Não é possível usar itens em combate com monstros.
+775,Não é possível usar itens em combate com um personagem.
+776,Esta Pedra Mágica já está equipada em outro deck.
+777,Espaço insuficiente no Tesouro do Clã.
+778,O Stash não pode mais ser expandido.
+801,Já equipado.
+802,Equipamento inválido.
+803,Não é equipamento.
+804,Este item está Equipado.
+805,Item de arma inválido.
+806,Deck de combate inválido.
+808,Itens materiais insuficientes.
+809,Já está no nível de estrela máximo.
+810,Não é possível transcender. A nota Star é muito baixa.
+811,Já está na Transcendência máxima.
+812,Não é possível alterar as opções deste item.
+813,O nível do item está muito baixo.
+814,Não é possível equipar com esta classe.
+815,Não é possível desequipar.
+816,Não é possível desequipar itens em uso.
+817,Slot vazio.
+818,Nenhuma arma equipada no slot de troca.
+819,Este grupo de itens já está equipado.
+820,Não pode ser equipado. Vinculado a outra classe.
+822,Opção inválida Classificação estrela.
+823,Tipo de opção inválido.
+824,Slot de opção inválido.
+825,Já desbloqueado na opção máxima.
+826,Este slot já está desbloqueado.
+827,Opção inválida.
+829,A transcendência não está no nível máximo.
+830,A característica do item não está vazia.
+831,A mesma característica de item já existe.
+832,
+833,Requisitos de infusão não atendidos.
+834,
+835,
+836,
+837,
+839,Esta arma já está ativa.
+840,
+841,
+842,Já está no nível máximo de despertar.
+845,Equipamento já lendário.
+847,Material de Despertar inválido.
+848,Número incorreto de materiais.
+849,
+861,Não é possível alterar o equipamento no momento.
+862,Não é possível equipar neste slot.
+863,Slot já ocupado.
+864,Já totalmente aprimorado.
+865,Nível máximo de aprimoramento alcançado.
+866,Aprimoramento concluído até o nível seguro.
+867,Slot de opção inválido.
+868,Materiais insuficientes.
+869,Não há materiais de bloqueio suficientes.
+870,Materiais insuficientes.
+871,Não é possível infundir este item.
+872,Não é possível infundir. Não há vagas disponíveis.
+873,Não é possível usar este item de material. Incompatibilidade de slots.
+874,Item de material de aprimoramento inválido.
+875,Não é possível aprimorar. Materiais insuficientes.
+876,Não é possível aprimorar. O nível alvo deve ser superior ao nível atual.
+877,Não é possível aprimorar para o nível seguro selecionado.
+878,Só pode aprimorar 1 nível acima do nível de aprimoramento atual.
+879,Informações de item de destino inválidas para aprimoramento.
+901,Correio inválido.
+902,Nenhuma recompensa disponível.
+903,O armazenamento expirou. Excluído automaticamente.
+904,O cancelamento da compra é obrigatório.
+905,Todas as tentativas de correio usadas.
+906,Você não pode enviar mensagens para si mesmo.
+907,O correio já está armazenado.
+908,E-mails com anexo não podem ser arquivados.
+909,Caixa de entrada cheia.
+951,Pose não adquirida.
+952,Movimento não adquirido.
+953,Não é possível usar enquanto montado.
+954,Pose já adquirido.
+955,Já adquiriu o Motion.
+956,Pose inadquirível.
+957,Movimento inadquirível.
+1001,Mount já possuída.
+1002,Uma nota de estrela mais alta já possuída.
+1003,Você deve ser montado primeiro.
+1004,Não é possível andar em status de movimento especial.
+1005,Não é possível montar nesta área.
+1006,Nenhuma montagem equipada.
+1007,Não é possível invocar uma montaria.
+1008,Não é possível invocar uma montaria.
+1009,Montagens insuficientes.
+1010,Informações de montagem inválidas.
+1011,Mount já possuída.
+1012,Produto inválido.
+1013,Produto inválido.
+1014,Todas as tentativas de substituição utilizadas.
+1015,O limite de tempo de substituição foi excedido.
+1016,Produto inválido.
+1017,Produto inválido.
+1018,Monte primeiro.
+1019,Não é um Skill da montagem atual.
+1020,Não é mais possível transcender.
+1021,Não é possível subir mais.
+1022,Não é possível viajar enquanto estiver no estado Outlaw.
+1023,Não é possível andar durante o Combate.
+1024,Valor ascendente inválido.
+1025,Não é possível ativar habilidades no status atual.
+1026,As habilidades não podem ser alteradas.
+1027,Não é possível montar no status atual.
+1028,Não é possível viajar no status atual.
+1029,Itens somente de aparência não podem ser atualizados.
+1031,Não é possível equipar a aparência enquanto ela já estiver equipada.
+1101,"Informações inválidas. Por favor, tente novamente."
+1102,O skill não pode ser equipado.
+1103,Skill não pertencente.
+1104,"Informações Skill inválidas. Por favor, tente novamente."
+1105,O item não pode ser equipado.
+1106,O item não pode ser equipado.
+1201,Aventureiro já na lista de amigos.
+1202,Já enviou uma solicitação de amizade para este aventureiro.
+1203,Não é possível remover: não amigos.
+1204,Não é possível recusar: não o amigo solicitado.
+1205,Não é possível aceitar: não o amigo solicitado.
+1206,Não é possível enviar a solicitação: a lista de amigos está cheia.
+1207,Não é possível aceitar: a lista de amigos está cheia.
+1208,Não é possível aceitar: a lista de amigos do alvo está cheia.
+1209,Não é possível adicionar você mesmo como amigo.
+1210,Não é possível seguir a si mesmo.
+1211,Não é possível tornar-se amigo de um alvo definido como Inimigos.
+1301,Recursos inválidos.
+1302,Recursos inválidos.
+1401,Ouro insuficiente.
+1402,O armazenamento de ouro atingiu seu máximo.
+1403,Diamantes insuficientes.
+1404,Diamantes insuficientes.
+1405,O armazenamento Diamond atingiu seu máximo.
+1406,Diamantes insuficientes.
+1407,O armazenamento Diamond atingiu seu máximo.
+1408,Ponto de troféu insuficiente.
+1409,Os pontos de conquista excedem o limite.
+1410,Karma insuficiente.
+1411,Limite de armazenamento de Karma excedido. Os dados
+1412,Itens materiais insuficientes.
+1419,Pontos insuficientes.
+1426,Os pontos atingiram a capacidade máxima.
+1427,Recursos insuficientes.
+1428,Limite de Contribuição do Clã excedido.
+1429,Ouro do clã insuficiente.
+1430,Diamantes do Clã insuficientes.
+1431,Moedas Antigas do Clã insuficientes.
+1432,Moedas Antigas do Clã insuficientes.
+1433,O armazenamento de recursos atingiu a capacidade máxima.
+1434,Rift Seal storage has atingiu a capacidade máxima.
+1435,Os recursos da Masmorra Sazonal atingiram a capacidade máxima.
+1436,Tokens de cooperação de clã insuficientes.
+1437,Máximo de Tokens de Cooperação do Clã alcançado.
+1451,Pontos insuficientes.
+1452,Os pontos atingiram o limite máximo.
+1501,Informações de recompensa inválidas.
+1502,Recompensa inválida.
+1503,Informações de recompensa inválidas.
+1504,Informações de recompensa inválidas.
+1505,O nível do personagem é muito baixo.
+1506,O conteúdo está bloqueado.
+1507,Não é possível receber a recompensa.
+1508,Nenhuma recompensa para reivindicar.
+1509,O armazenamento de recompensa atingiu a capacidade máxima.
+1603,Receita já aprendida.
+1604,Receita ainda não aprendida.
+1605,O nível é muito baixo para criar.
+1606,Contagem máxima de artesanato excedida.
+1607,O limite de tempo de fabricação terminou.
+1608,Limite máximo de expansão da embarcação excedido.
+1609,Não é possível fabricar: o nível de avanço necessário não foi alcançado.
+1610,Não é possível fabricar: a boa vontade da facção é muito baixa.
+1611,Não é possível criar: materiais insuficientes.
+1701,Nenhuma informação de desmontagem.
+1702,Catalisador inválido.
+1703,Catalisadores insuficientes.
+1705,Não é possível desmontar. (Limite de aprimoramento)
+1762,A programação já existe.
+1763,Agendador de IA indisponível neste mundo.
+1801,Este é um item vinculado.
+1802,Este item está equipado.
+1803,Quantidade de item insuficiente.
+1804,Não é possível registrar este item.
+1805,Item inválido.
+1806,Nenhum outro item pode ser adicionado aos Favoritos.
+1807,Venda do item cancelada.
+1808,Item já vendido.
+1809,Não é possível comprar um item que você registrou.
+1810,Não é mais possível carregar.
+1811,Não é mais possível registrar.
+1812,Nenhum item disponível para liquidação.
+1813,Nenhum item disponível para recuperação.
+1814,Marketplace não está disponível neste local.
+1815,O nível é muito baixo para acessar a função de negociação.
+1816,"Falha na compra. Por favor, tente novamente mais tarde."
+1817,Não é possível comprar um item que você registrou. Remova-o da lista de seleção.
+1818,"Falha ao conectar-se ao mundo Marketplace. Por favor, tente novamente mais tarde."
+1819,"Este item já está sendo processado para compra. Por favor, tente novamente mais tarde."
+1901,Já adicionado aos Favoritos.
+1902,Não adicionado aos Favoritos.
+1903,Já bloqueado.
+1904,Já desbloqueado.
+1905,Não é possível bloquear a si mesmo.
+1906,Limite de bloqueio atingido.
+1907,Condições da missão não atendidas.
+1908,Recompensa já recebida.
+2000,"Não é possível criar um clã.
+Tente novamente mais tarde."
+2001,O nome do clã já existe.
+2002,Deve ingressar em um clã.
+2003,Você não tem permissão.
+2004,Você não tem permissão.
+2005,Este Aventureiro já está em outro Clã.
+2006,Solicitação de convite já enviada para este Aventureiro.
+2007,Não pode ser dissolvido até que todos os Diamantes do Clã sejam processados.
+2008,Este convite já expirou.
+2009,Já entrou para um clã.
+2010,Este clã atingiu sua capacidade máxima.
+2011,Já entrou para um clã.
+2012,Já solicitou adesão a este clã.
+2013,A solicitação expirou.
+2014,Não é um aventureiro que solicitou entrar.
+2015,O Líder do Clã não pode sair do Clã.
+2016,Não foi possível encontrar o Clã.
+2017,Já entrou para um clã.
+2018,Não é possível alterar o nome do Clã neste momento. (Tempo restante:)
+2019,Limite diário de doações excedido.
+2020,Este clã só pode ser adicionado por convite.
+2021,Não é possível solicitar participação neste momento.
+2022,Não é possível candidatar-se: demasiados candidatos.
+2023,Não é mais possível solicitar participação.
+2024,Não é possível excluir mais classificações de Membros do Clã.
+2025,Não é possível adicionar mais classificações de Membros do Clã.
+2026,Nenhuma recompensa semanal disponível para resgate.
+2027,Não é possível editar devido a permissões insuficientes.
+2028,Não é possível atribuir mais Membros do Clã a esta classificação.
+2029,Não é possível expulsar um Auditor.
+2030,A penalidade de reingresso ainda está ativa.
+2031,Não é possível dissolver enquanto houver membros do clã.
+2032,Não é possível emitir uma chamada de clã devido ao tempo de espera.
+2033,Não é possível dissolver seu clã enquanto os recursos do clã estão sendo distribuídos.
+2034,A introdução do clã contém palavrões ou linguagem inadequada.
+2035,O anúncio do clã contém palavrões ou linguagem inadequada.
+2036,O nome da classificação do membro do clã contém palavrões ou linguagem inadequada.
+2037,Não é possível convidar: o limite de convites de membros do clã foi atingido.
+2038,Não é possível convidar: limite de convites do jogador atingido.
+2039,Já dissolvido.
+2040,Compra restrita.
+2041,Não elegível para leilão.
+2042,Não é possível licitar abaixo do limite mínimo.
+2043,Não é possível registrar: limite de vendas atingido.
+2044,A distribuição de recursos do clã já foi iniciada.
+2045,Especifique primeiro o membro do clã.
+2046,Ouro insuficiente.
+2047,Diamantes insuficientes.
+2048,Não é possível prosseguir: o valor de Ouro inserido não corresponde ao total a ser distribuído.
+2049,Não é possível prosseguir: O valor do Diamante inserido não corresponde ao total a ser distribuído.
+2050,Não é possível distribuir: Ouro não alocado permanece.
+2051,Não é possível distribuir: Diamante não alocado permanece.
+2052,"Não é possível distribuir: Auditores insuficientes. Por favor, verifique a Lista de Auditores."
+2053,Este item já foi oferecido.
+2054,Não é possível armazenar itens com esta classificação por estrelas.
+2055,Preço de venda fora do intervalo.
+2056,Já está sendo instalado.
+2057,As vendas designadas exigem um alvo específico.
+2058,Tipo de negociação não suportado.
+2059,Não é possível dissolver durante Monolith War.
+2060,Não é possível dissolver um clã que esteja ocupando um Monólito.
+2061,O clã não existe.
+2062,Nenhum sinalizador de clã implantado.
+2063,Não é possível instalar: Tesouro do clã cheio.
+2064,Não é possível convidar: o jogador desativou os convites do clã.
+2065,Já adquirido.
+2066,Não é possível prosseguir: requisitos de nível de clã não atendidos.
+2067,Não é possível prosseguir: Requisitos de pesquisa de pré-requisito não atendidos.
+2068,Não é possível aprimorar: Nível máximo alcançado.
+2069,Esta pesquisa não foi adquirida.
+2070,Esta pesquisa não foi adquirida.
+2071,Já ativado.
+2072,Já foi leiloado.
+2073,Não é possível convidar: o jogador ainda não desbloqueou este conteúdo.
+2074,Já vendido ou expirado.
+2075,Não é possível dissolver um clã que esteja ocupando a Fortaleza do Abismo.
+2076,Não é possível dissolver um clã que possui um Sentinela do Abismo.
+2077,Horário de venda inválido.
+2078,Informações indisponíveis neste mundo.
+2079,Informações entre servidores indisponíveis.
+2080,Já foi enviado pedido de aliança.
+2081,Aliança não solicitada para este clã.
+2082,Informação não localizada.
+2083,Não é mais possível enviar solicitação de aliança.
+2084,Não é mais possível receber solicitação de aliança.
+2085,Não aliado.
+2086,Não é possível adicionar mais alianças.
+2087,Não é possível prosseguir: limite de aliança do alvo atingido.
+2088,Não é possível declarar mais hostis.
+2089,Destino de declaração hostil não localizado.
+2090,Já aliado.
+2091,Os clãs aliados não podem ser declarados hostis.
+2092,Não é possível enviar uma solicitação de aliança para um clã hostil.
+2093,Não é possível enviar solicitação de aliança: Este clã já enviou uma solicitação.
+2094,Não é possível quebrar uma aliança enquanto a apoia.
+2095,Já registrado como hostil.
+2096,Nenhum sinalizador de clã implantado.
+2097,Nenhum Clan Warden invocado encontrado.
+2100,Já está no esquadrão do clã.
+2101,Não está no esquadrão do clã.
+2102,Você não tem permissão.
+2103,ID do clã inválido.
+2104,Não é possível ingressar no esquadrão de outro clã.
+2105,Esquadrão do clã cheio.
+2106,Outro membro do clã.
+2107,Outro membro do clã.
+2108,Já convidou este membro.
+2109,Não convidado para o esquadrão do clã.
+2112,Não é possível enviar solicitação no momento.
+2113,O tempo de resposta expirou.
+2114,Já pronto.
+2115,Dissolver o esquadrão do clã primeiro.
+2116,O destino não está on-line.
+2117,Nenhum membro do esquadrão disponível para realocação.
+2118,Realocação indisponível.
+2119,Este tipo de distribuição não estará disponível enquanto o Tesouro do Clã estiver cheio.
+2131,Só pode ser usado dentro de Monolith War.
+2132,Mundo já fechado.
+2133,Não é possível entrar: Limite de jogadores atingido.
+2134,Não é possível criar este mundo.
+2135,não podem ser usados ​​por clãs marcados como hostis pelo ocupante.
+2136,Não pode usar: Um portão para outra Arena Angbar já aberto.
+2137,Não é possível usar: limite semanal atingido.
+2141,Preço de venda fora do intervalo.
+2142,Fundos insuficientes para comprar o buff.
+2143,Tentativas de compra restantes insuficientes.
+2144,Clãs que ocupam um Monólito não podem comprar buffs.
+2145,Buffs não podem ser adquiridos se nenhum clã ocupar o território.
+2146,Buffs só podem ser adquiridos entre o final da batalha atual e o prazo de inscrição para a próxima batalha.
+2147,Não é possível usar enquanto Monolith War estiver em andamento.
+2148,Não é possível comprar buffs: Seu clã está marcado como hostil.
+2149,Monolith War foi finalizado. O reaparecimento defensivo não está mais disponível.
+2150,Não é possível comprar buffs Monolith War nesta área.
+2160,Não pode ser usado enquanto a guerra estiver ativa.
+2161,A guerra terminou. O reaparecimento defensivo não está mais disponível.
+2162,Não pode ser usado enquanto a guerra estiver inativa.
+2163,Requer ocupação para uso.
+2164,Outro jogador já está usando a Ressonância do Guardião.
+2165,Solicitação inválida para ativar a Ressonância do Guardião.
+2166,Não é possível ativar a Ressonância do Guardião nesta área.
+2170,Não é possível concluir esta missão no seu estado atual.
+2171,Recompensa já reivindicada.
+2172,Nenhuma recompensa para reivindicar.
+2190,A masmorra já está ativa.
+2191,A masmorra ainda não está ativa.
+2192,Não é possível inserir: limite semanal atingido.
+2195,Já existe uma Replica Seed ativa.
+2196,Dados mundiais não encontrados.
+2197,O Hall of Proof ainda não está aberto.
+2199,Esta não é a Replica chefe Zone do seu clã.
+2201,A festa está cheia.
+2202,Já está na festa.
+2203,Não é possível criar um grupo nesta área.
+2204,Não está em um grupo.
+2205,A dimensão de destino desapareceu.
+2206,Convite já enviado.
+2207,O destino não está on-line.
+2208,Já dissolvido.
+2209,Não é possível ingressar durante o combate.
+2210,Você não tem permissão.
+2211,Não é possível expulsar membros do grupo nesta área.
+2212,Você não tem permissão.
+2213,Não é membro do grupo.
+2214,O grupo foi dissolvido.
+2215,Nível insuficiente.
+2216,Poder de combate insuficiente.
+2217,Não foi possível alcançar o líder do grupo.
+2218,Os membros do grupo não podem ser convocados nesta área.
+2219,Já chamado.
+2220,Não pode ser executado pelo líder do grupo.
+2221,A localização do líder do grupo foi atualizada.
+2222,O líder do grupo está em um local que não pode ser rastreado.
+2223,O líder do grupo está próximo.
+2224,Você é o líder do grupo.
+2225,Não é possível criar um grupo enquanto estiver em um esquadrão.
+2226,Já está na festa.
+2227,Não é possível realizar esta ação enquanto estiver em grupo.
+2230,Matchmaking em andamento.
+2231,Um membro do grupo já está no matchmaking.
+2232,Informações de grupo inválidas.
+2233,Matchmaking indisponível.
+2234,Não é possível corresponder: Problema com membro do grupo.
+2235,Limite de membros do grupo excedido.
+2236,A correspondência automática não está disponível nesta área.
+2237,A correspondência automática não está disponível devido à localização de um membro do grupo.
+2238,Não permitido quando o grupo está lotado.
+2239,Você já entrou em outra masmorra.
+2240,Matchmaking não está disponível no Servidor Mundial.
+2241,Não é possível executar esta ação durante a organização de partidas.
+2242,Já está na festa.
+2243,A festa está cheia.
+2244,Somente aventureiros do mesmo clã do líder do grupo podem entrar.
+2245,Requisitos de nível não atendidos.
+2246,Requisitos de poder de combate não atendidos.
+2247,Não é possível recrutar para um grupo com muita frequência.
+2248,Não é possível participar de um grupo atualmente em matchmaking.
+2249,Recursos insuficientes dos membros do grupo.
+2250,Não pode ser usado enquanto os membros do grupo estão em combate.
+2251,Os membros do grupo não podem acessar o conteúdo.
+2252,Não é possível dissolver o grupo nesta área.
+2253,Não é possível convidar: o jogador ainda não desbloqueou este conteúdo.
+2254,Não é possível participar do grupo: Recurso não disponível.
+2255,Não é possível aceitar o convite: Recurso não disponível.
+2256,Não é possível criar um grupo: recurso não disponível.
+2257,O recrutamento de partidos não está disponível nesta área.
+2258,Não é possível convidar: Jogador no matchmaking.
+2300,Limite de entrada atingido.
+2301,Não é possível usar este tipo de bate-papo.
+2302,Grupo de bate-papo não encontrado.
+2303,Aventureiro não encontrado.
+2304,Bate-papo não encontrado.
+2305,Aventureiro não encontrado.
+2306,Não é possível bloquear a si mesmo.
+2307,Este Aventureiro já está bloqueado.
+2308,Não é possível convidar aventureiros bloqueados.
+2309,Este aventureiro não está bloqueado.
+2310,Este aventureiro está bloqueado.
+2311,"A pesquisa falhou devido ao bloqueio.
+(Relate se você vir mensagens deste jogador)"
+2312,Ainda não é possível enviar mensagens.
+2313,Não é membro do grupo.
+2314,Senha de grupo inválida.
+2315,Membros recentemente expulsos não podem ser convidado novamente imediatamente.
+2316,Sem permissão para conversar.
+2317,Já está no grupo.
+2318,Não está no grupo.
+2319,não existe.
+2320,Convites entre servidores não são suportados.
+2321,Não é mais possível nomear líderes.
+2322,Bate-papo em grupo completo. O grupo
+2323,Este tipo de bate-papo não pode ser relatado.
+2324,"Há uma espera obrigatória entre relatórios. Por favor, tente novamente mais tarde."
+2325,O limite diário de relatórios de bate-papo para este usuário foi atingido.
+2326,Não foi possível encontrar o chat.
+2327,Os logs de bate-papo com mais de 14 dias não podem ser relatados.
+2328,Não é possível denunciar seu próprio bate-papo.
+2329,Limite de envio atingido para este aventureiro.
+2330,Destino não localizado.
+2331,Esta mensagem de bate-papo não pode ser traduzida.
+2400,ID de classificação inválido.
+2401,"Página não encontrada. Por favor, tente novamente mais tarde."
+2402,Nenhum dado de classificação disponível.
+2403,Tente mais tarde.
+2404,Classificações não disponíveis nesta área.
+2450,Solicitação inválida.
+2451,Solicitação inválida.
+2452,Solicitação inválida.
+2453,Não é possível localizar este destino PK.
+2454,Não é mais possível rastrear.
+2455,Não é possível rastrear: o personagem está offline.
+2456,Tempo limite esgotado.
+2457,Registro de batalha não encontrado.
+2458,Alvo rastreado não encontrado.
+2459,Não é mais possível enviar solicitação de vingança.
+2460,Já solicitou vingança para este alvo.
+2461,Entrada de solicitação de vingança não localizada.
+2462,Já está na lista de procurados.
+2463,Entrada desejada não localizada.
+2464,Limite de quantidade desejada excedido.
+2465,Não é possível registrar mais Procurados.
+2466,Não é um registro de óbito.
+2467,Já rastreando outro alvo.
+2468,O alvo está em uma zona segura.
+2469,Não é possível rastrear: o destino está em outro mundo.
+2470,Já derrotou este alvo.
+2471,Não é possível solicitar seus próprios logs.
+2472,Este não é o alvo que você derrotou.
+2473,Já usei Taunt.
+2474,Tempo limite esgotado.
+2475,Não é possível usar provocação do clã em jogadores não afiliados.
+2476,Não foi possível encontrar o clã do alvo.
+2477,Não é possível usar este recurso em membros do clã.
+2478,Não é possível usar esse recurso como um Outlaw.
+2479,Não é possível se definir como inimigo.
+2480,Já está na lista de Inimigos.
+2481,A lista de inimigos está completa.
+2482,Não é um inimigo.
+2483,Não pode ser usado como Outlaw.
+2484,Não pode atacar o alvo neste estado.
+2485,Não pode ser usado enquanto estiver envolvido com outro jogador.
+2486,Não é possível marcar um amigo como hostil.
+2487,Não é possível adicionar como inimigo enquanto um pedido de amizade estiver pendente.
+2488,Não é possível usar Shield of Peace enquanto segura a Ashur's Torch.
+2489,Não pode ser usado enquanto estiver no alinhamento Maligno.
+2490,Solicitação inválida.
+2491,Solicitação inválida.
+2492,Não é possível recuperar: HP/MP está cheio.
+2493,Solicitação inválida.
+2500,Solicitação inválida.
+2501,A opção não será salva no banco de dados.
+2502,A opção não será salva no banco de dados.
+2530,Conquista inválida.
+2531,Não é possível concluir esta conquista neste estado.
+2532,Nenhum troféu para completar.
+2533,Nenhuma recompensa para reivindicar.
+2550,Recompensa já reivindicada.
+2551,Pontos insuficientes para reivindicar a recompensa.
+2552,Requer a conclusão de Codex.
+2560,EXP. insuficiente.
+2561,Não é mais possível transcender.
+2562,Não é possível transcender neste nível.
+2563,Graça do cartão constelações inválida.
+2564,Não há mais subidas de nível disponíveis.
+2565,Cartões insuficientes.
+2566,Já equipado.
+2567,Não foi possível encontrar a carta equipada.
+2568,Informações duplicadas do cartão.
+2569,Informações duplicadas do cartão.
+2570,Não é possível fundir esta classificação por estrelas.
+2571,Não é possível obter esta classificação por estrelas.
+2572,Limite do fusível excedido.
+2573,Informações de solicitação inválidas.
+2574,Não é mais possível adquirir.
+2600,ID de informações de missão inválido.
+2601,Status de missão inválido.
+2602,Missão não atualizada.
+2603,Esperando pelos membros do partido.
+2604,Não é possível atualizar a lista de missões.
+2605,Esta missão não está mais disponível.
+2606,Missão não disponível neste mundo.
+2607,Esta missão já está em andamento.
+2608,Nível insuficiente para iniciar a missão.
+2609,Missão de pré-requisito não concluída.
+2610,Missão já concluída.
+2611,Não é possível iniciar a missão no estado atual.
+2612,A missão não está em andamento.
+2613,Não é possível completar a missão.
+2614,A missão falhou.
+2615,Muito perto do teletransporte.
+2616,Nenhuma missão atende aos requisitos.
+2617,Não está no intervalo da missão.
+2618,Missão anterior não concluída.
+2619,Missão indisponível: conteúdo bloqueado.
+2620,Tentativas de missão insuficientes.
+2621,precisa ser atualizada.
+2622,Não é possível cancelar a missão.
+2623,ID de informações do grupo de missões inválido.
+2624,ID de informações do episódio inválido.
+2625,"Todas as comissões nesta área foram concluídas. Nenhuma atualização disponível.
+Visite uma casa de comissão em outra área."
+2700,Produto inválido.
+2701,Página inválida.
+2702,Página inválida.
+2703,Página inválida.
+2704,Produto inválido.
+2705,Nível insuficiente.
+2706,Condições de compra não atendidas.
+2707,Quest necessária para compra.
+2708,Compra restrita a classe específica.
+2709,Compra disponível apenas em dias específicos.
+2710,Limite diário de compras excedido.
+2711,Limite de compra semanal excedido.
+2712,Limite de compra mensal excedido.
+2713,Limite de compra excedido.
+2714,Limite de compra excedido.
+2715,Não é possível usar este cupom.
+2716,Aventureiro não encontrado.
+2717,Condições de compra não atendidas.
+2718,Este item não é mais gratuito.
+2719,Limite de compra gratuita excedido.
+2720,Produto inválido.
+2721,Limite diário de compras excedido.
+2722,Limite de compra semanal excedido.
+2723,Limite de compra mensal excedido.
+2724,Limite de compra excedido.
+2725,Não é possível comprar este item em massa.
+2726,Não é possível comprar este item em massa.
+2727,Você se afastou do NPC.
+2728,Goodwill insuficiente para compra.
+2729,Compra não disponível no momento.
+2730,Esta compra requer adesão ao clã.
+2731,Quest necessária para compra.
+2732,Quest necessária para compra.
+2733,Conquista necessária para comprar.
+2734,Não é possível comprar: condições não atendidas.
+2735,Não é possível comprar: Não é membro do clã.
+2736,Não é possível comprar: Nível de clã insuficiente.
+2737,Nenhuma loja para ativar.
+2738,Loja já ativada.
+2739,Assinaturas não ativadas.
+2740,Não é possível comprar: requisitos de avanço não atendidos.
+2741,Comerciante não encontrado.
+2742,Não é possível comprar: condições não atendidas.
+2743,Não é um mestre do clã.
+2744,Não é possível comprar itens que já estejam no inventário.
+2745,Não é possível comprar itens que já estejam no Armazenamento.
+2746,Não é possível comprar itens que já estejam na Caixa de entrada.
+2747,Não é possível comprar Skillbooks para skills que você já possui.
+2751,Não é possível reivindicar recompensas para esta data.
+2801,Traje inválido.
+2802,Traje inválido.
+2803,Traje inválido.
+2804,A fantasia não pode ser equipada.
+2805,Traje inválido.
+2806,O tempo da fantasia expirou. Traje
+2807,A fantasia está bloqueada.
+2808,Não é possível desequipar.
+2809,Fantasia já possuída.
+2810,Não é possível aumentar o nível desta fantasia.
+2811,Cor já possuída.
+2812,A fantasia não pode ser tingida.
+2813,A fantasia não pode ser tingida.
+2814,Fantasias insuficientes.
+2815,Fantasia já possuída.
+2816,Produto inválido.
+2817,Produto inválido.
+2818,Todas as tentativas de substituição utilizadas.
+2819,O limite de tempo de substituição foi excedido.
+2820,Produto inválido.
+2821,Memorite skills indisponível para esta Arma Fantasma.
+2822,Produto inválido.
+2823,Equipe uma arma fantasma de 3 estrelas ou superior para usar.
+2824,Não é mais possível transcender.
+2825,Ainda não é possível transcender.
+2826,Não é possível equipar: a classe não corresponde.
+2827,Não é possível usar Arma Fantasma com esta classificação de estrelas como material.
+2828,Não é possível usar Arma Fantasma deste tipo como material.
+2829,Requisitos de quantidade de fusíveis não atendidos.
+2830,Limite atingido: Não é possível registrar como Fuse Materials.
+2831,A duração da fantasia expirou.
+2832,Não é possível usar materiais com limite de tempo.
+2833,Não é possível atualizar trajes com tempo limitado.
+2834,Itens somente de aparência não podem ser atualizados.
+2835,Item não encontrado.
+2836,Não é mais possível reter.
+2837,Traje já equipado.
+2838,Não é possível equipar a aparência enquanto ela já estiver equipada.
+2839,Não é possível subir mais.
+2840,Este destino não pode ser ascendido.
+2841,Camada de material de Ascensão inválida.
+2842,Tipo de material de ascensão inválido.
+2843,Materiais de Ascensão insuficientes.
+2844,Materiais de Ascensão insuficientes.
+2845,Você não tem itens coletados suficientes na Galeria para Ascender o Traje.
+2846,Você não tem itens coletados suficientes no Arsenal para Ascender a Arma Fantasma.
+2901,Status de bloqueio de conteúdo inválido.
+2902,O conteúdo está bloqueado.
+2903,Missão anterior não concluída.
+2904,O personagem deve atingir o nível [Value].
+2921,Limite de recarga atingido.
+2922,Não há recargas pagas restantes.
+2923,Não há mais tentativas de entrada.
+2951,Uma Grande Incursão já existe.
+3001,Esta masmorra é inválida.
+3002,Esta masmorra é inválida.
+3003,Você ainda não pode entrar nesta masmorra.
+3004,Não há jogadores suficientes para entrar.
+3005,Número máximo de jogadores excedido.
+3006,Não há mais tentativas de entrada.
+3007,Não é possível entrar nesta masmorra.
+3008,Esta masmorra não foi concluída.
+3009,Esta masmorra não está aberta.
+3010,Não é possível entrar durante a combinação.
+3011,Você deve superar a dificuldade anterior.
+3012,Você não atendeu aos requisitos de entrada na masmorra.
+3013,Não é possível entrar na masmorra.
+3014,Esta é a zona final da masmorra.
+3015,Nenhum dado estendido disponível para esta masmorra.
+3016,Não é possível reiniciar.
+3017,Solicitação inválida.
+3018,Solicitação inválida.
+3019,Não é possível recrutar membros do grupo para uma masmorra concluída.
+3020,Este recurso não está disponível.
+3028,Faltam detalhes da liga da temporada anterior. Não foi possível reivindicar a recompensa.
+3031,Não é possível entrar na masmorra neste momento.
+3032,A reentrada está temporariamente restrita para sair da masmorra mais cedo. (CD: <Yellow>10m</>)
+3101,Matchmaking em andamento.
+3102,A combinação não está em andamento.
+3103,Na fila para matchmaking.
+3104,Solicitação inválida.
+3105,Matchmaking já em andamento.
+3106,A festa está cheia.
+3107,Solicitação inválida.
+3108,Solicitação inválida.
+3201,Pedido de adesão já enviado.
+3202,Nenhum histórico de solicitação de participação.
+3203,Não é possível entrar no campo de batalha neste momento.
+3204,Campo de batalha não em andamento.
+3301,Não é possível marcar este local.
+3302,Não é possível marcar o destino.
+3303,Não é possível estabelecer um Ponto de Reunião neste mundo.
+3401,Incapaz de absorver mais memórias de Gudua
+3402,Não é possível usar este recurso durante o combate.
+3431,Detalhes de ressonância incorretos.
+3432,Detalhes de predefinição de ressonância incorretos.
+3433,Atingiu a intensidade máxima de ressonância.
+3434,Atingiu o nível máximo de ressonância.
+3435,Detalhes de ressonância incorretos.
+3436,Ressonância incompleta. Não foi possível redefinir.
+3437,Esta ressonância já foi selecionada.
+3438,Limite de falha atingido. Não é possível usar ressonância.
+3451,A página anterior não foi concluída.
+3452,A página de despertar está incompleta.
+3453,Solicitação inválida.
+3454,Solicitação inválida.
+3471,Attunement já desbloqueado.
+3472,A sintonização está bloqueada.
+3473,Solicitação inválida.
+3474,A sintonização está no nível máximo.
+3475,A sintonização está no grau máximo.
+3476,Nível de sintonização inválido.
+3477,Grau de sintonização inválido.
+3501,Não é possível doar este item.
+3502,A afinidade já atingiu o estágio máximo.
+3503,Muitas doações.
+3504,Não é possível abordar esta Aliança de Aventureiros.
+3505,Níveis insuficientes.
+3506,Recompensa já reivindicada.
+3507,Incapaz de realizar esta conquista da Aliança de Aventureiros.
+3508,Incapaz de realizar esta conquista da Aliança de Aventureiros.
+3509,Esta conquista está incompleta.
+3510,Esta conquista já foi concluída.
+3551,A pesquisa já foi concluída.
+3552,Quantidade excedida.
+3553,Este item não pode ser pesquisado.
+3554,Pesquisa indisponível: O nível de aprimoramento não corresponde.
+3555,A duração da pesquisa expirou.
+3556,Nível insuficiente.
+3557,Recompensa já reivindicada.
+3558,Temporada atualmente não em andamento.
+3601,Detalhes da Giant's Tower incorretos.
+3602,Consumidos o tempo todo.
+3603,Ainda não é possível usar.
+3604,Ainda não é possível usar.
+3605,Recursos insuficientes necessários para ativar algoritmos.
+3606,Este não é o lobby da Giant's Tower.
+3607,Não é possível entrar: Autoridade não verificada.
+3608,Ingressos de entrada insuficientes para entrar.
+3609,Disponível apenas para Clãs Governantes.
+3610,Não é possível entrar na Giant's Tower durante o combate com outro jogador.
+3611,Não é possível sair da Giant's Tower durante o combate com outro jogador.
+3612,Algoritmo já ativado.
+3613,Este algoritmo já foi ativado.
+3614,Solicitação inválida.
+3621,Identificador de masmorra incorreto.
+3622,Não é possível entrar devido a tempo insuficiente.
+3623,A entrada estará disponível em breve.
+3624,Os requisitos de entrada na masmorra não foram atendidos.
+3625,Não é possível entrar devido a recursos insuficientes.
+3626,Incapaz de entrar como fora da lei.
+3627,Não é possível sair como fora da lei.
+3628,Entrada errada.
+3701,Já está no nível máximo. Incapaz de subir de nível ainda mais.
+3702,Powerstone já equipada.
+3703,Powerstone já identificado.
+3704,Seu nível já foi redefinido.
+3705,Não é possível equipar devido a Crest Power insuficiente.
+3706,Não é possível equipar Powerstone não identificada.
+3707,O número de itens que você pode identificar de uma vez foi excedido.
+3708,Frase inválida.
+3709,Você não pode equipar este tipo neste slot.
+3710,Esta não é uma powerstone.
+3771,Sua classificação não é elegível para ativar o buff do servidor.
+3772,Você usou todas as ativações de buffs de servidor disponíveis.
+3773,Ativações de buff do servidor Abyss Battlefield insuficientes restantes.
+3801,Incapaz de reivindicar devido a incompletude.
+3802,Recompensa já recebida.
+3803,Nível máximo alcançado.
+3804,A missão está incompleta.
+3901,Giant's Vending Machine não está disponível agora.
+3921,Você não pode instalar o Artificial Tesseract aqui.
+3922,Não é mais possível instalar.
+3941,Este item pode ser recarregado em até 100 dias.
+8001,O evento não está ativo no momento.
+8002,Recompensa já recebida.
+8003,Evento inválido.
+8004,Solicitação inválida.
+8005,Recompensa já recebida.
+8006,A missão está incompleta.
+8007,Recompensa já recebida.
+8008,Missão errada.
+8009,Missão incompleta.
+8010,Recompensa já recebida.
+8011,Quantidade insuficiente para reivindicar recompensa.
+8012,Não foi possível verificar as datas desta missão.
+8013,Solicitação inválida.
+8014,Solicitação inválida.
+8015,Recompensa já reivindicada.
+8016,Solicitação inválida.
+8031,Tipo de evento errado.
+8032,Tipo de evento errado.
+8033,Item de troca inválido.
+8034,O limite de quantidade foi excedido.
+8035,Ainda não foi possível reivindicar a recompensa.
+8036,Recompensa incompleta.
+8037,Recompensa já reivindicada.
+8038,Solicitação inválida.
+8039,Solicitação inválida.
+8040,Pontos insuficientes.
+8041,Solicitação inválida.
+8042,Máximo de uso diário excedido.
+8043,Uso diário máximo excedido. Não é possível prosseguir.
+8045,Máximo de tentativas excedido. Não é possível prosseguir.
+8201,"Ocorreu um problema. Por favor, tente novamente mais tarde."
+8202,"Recompensa de pagamento enviada. Por favor, verifique o armazenamento."
+8302,Não é possível entrar com outro jogador durante o combate.
+8303,Tempo de jogo esgotado. Entrada indisponível.
+8304,Não é possível sair com outro jogador durante o combate.
+10000,"Ocorreu um problema. Por favor, tente novamente mais tarde."
+11000,"Ocorreu um problema. Por favor, tente novamente mais tarde."
+11001,Este personagem é de um servidor diferente.
+20000,"Ocorreu um problema. Por favor, tente novamente mais tarde."
+20001,Solicitação de login inválida.
+20002,Solicitação de login inválida.
+20003,"Login restrito. 
+Entre em contato com o Suporte ao Cliente para obter mais detalhes."
+20004,"Conta restrita. 
+Entre em contato com o Suporte ao Cliente para obter mais detalhes."
+20005,"Login restrito. 
+Entre em contato com o Suporte ao Cliente para obter mais detalhes."
+21001,Solicitação de login inválida.
+21002,"Verificação de login inválida. Por favor, tente novamente mais tarde."
+21003,"A verificação de login expirou. Por favor, tente novamente mais tarde."
+21004,"Detalhes de serviço inválidos. Por favor, tente novamente mais tarde."
+21005,Esta conta está com exclusão pendente.
+21006,"A sessão expirou. Por favor, tente fazer login mais tarde."
+21007,"Ocorreu um problema. Por favor, tente novamente mais tarde."
+21008,"Ocorreu um problema. Por favor, tente novamente mais tarde."
+21009,"Ocorreu um problema durante o login. Por favor, tente novamente mais tarde."
+21010,Esta é uma conta restrita. Entre em contato com o Suporte ao Cliente.
+21011,Esta é uma conta restrita. Entre em contato com o Suporte ao Cliente.
+21012,Solicitação inválida.
+21013,Não foi possível localizar detalhes da conta.
+21014,"A manutenção está em andamento. Por favor, tente novamente mais tarde."
+21015,Solicitação inválida.
+21016,Solicitação inválida.
+21017,Solicitação inválida.
+21018,Solicitação inválida.
+21020,Não é possível acessar esta região.
+29801,Não é possível transferir para este servidor.
+29802,Não é possível transferir para este servidor.
+29803,Não é possível transferir para este servidor.
+29804,Não é possível transferir para este servidor.
+29805,Não é possível transferir para este servidor.
+29806,Um personagem neste servidor já pertence a um clã.
+29807,Disponível apenas no Village.
+29808,Você tem mensagens não lidas ou recompensas não reclamadas.
+29809,"A transferência do servidor está em andamento. Por favor, aguarde."
+29810,Transferência de servidor já em andamento.
+29811,Um personagem neste servidor já pertence a um clã.
+29812,Você tem mensagens não lidas ou recompensas não reclamadas.
+29813,Transferência de servidor já em andamento.
+29814,Transferência de servidor já em andamento.
+29815,Transferência de servidor já em andamento.
+29816,Transferência de servidor já em andamento.
+29817,Item errado.
+29818,Não é possível usá-la durante o matchmaking.
+29819,Disponível apenas no Village.
+29820,Disponível apenas no Village.
+29821,Há um item não reclamado no armazenamento da Loja.
+29822,Há um item sendo negociado no momento.
+29823,Um personagem neste servidor já pertence a um clã.
+29824,Há um item não reclamado no armazenamento da Loja.
+29825,Um personagem neste servidor possui itens sendo negociados no momento.
+29826,Indisponível durante o período de carência para transferência de clã.
+29827,Não é possível transferir para este servidor.
+29828,Não é possível transferir para este servidor.
+29829,"O servidor do clã está sendo transferido. Por favor, aguarde."
+29901,Há uma solicitação desmarcada para ingressar em um clã.
+29902,Disponível apenas para o Líder do Clã.
+29903,Transferência de servidor já em andamento.
+29904,Disponível apenas para o Líder do Clã.
+29905,Disponível apenas para o Líder do Clã.
+29906,Indisponível durante a distribuição do Tesouro do Clã.
+29907,Indisponível durante a negociação no Tesouro do Clã.
+29908,Indisponível durante o período de carência para transferência de clã.
+29909,Indisponível enquanto o personagem estiver com exclusão pendente.
+29910,Nenhum servidor disponível para transferência.
+29911,Os aplicativos de transferência estão fechados agora.
+29951,Não é possível transferir para este servidor.
+30101,Este conteúdo está indisponível devido à manutenção programada.
+30102,Este conteúdo está indisponível devido a manutenção.
+30103,GM não pode usar esse recurso.
+30104,Não é possível usar este recurso no GM.
+30105,Este conteúdo ainda não foi atualizado e está indisponível no momento.
+30201,
+30202,Ocorreu um erro. Verifique o nome novamente.
+46,"Limite de caracteres excedido. Por favor, tente novamente."
+1030,Montagem não localizada.
+48,O acesso à conta está restrito no momento. Entre em contato com o suporte ao cliente.
+8305,Não é possível recarregar porque a temporada Abyss Battlefield não está em andamento.
+2259,O alvo recusou o convite para a festa.
+4000,"As informações do chaveiro não podem ser encontradas. Por favor, tente novamente mais tarde."
+4001,Chaveiros insuficientes para usar como material.
+4002,Não é possível possuir mais chaveiros.
+4003,Este chaveiro já está te acompanhando.
+4004,Este chaveiro expirou.
+4005,Chaveiros com tempo limitado não podem ser atualizados.
+4006,Chaveiros com tempo limitado não podem ser usados ​​como material.
+4007,Não é possível localizar o chaveiro com limite de tempo.
+4008,Não é possível fundir chaveiros deste nível.
+4009,Fusion requer 5 chaveiros.
+4010,Não é possível treinar chaveiros desta classificação.
+4011,Materiais de treinamento inválidos.
+4012,Não é possível ascender chaveiros desta classificação.
+4013,Materiais de Ascensão inválidos.
+4100,Você não possui este título.
+4101,Este título não está equipado.
+4102,Este título já está equipado.
+4103,Este título expirou.
+4104,Você já possui este título.
+8306,O Campo de Batalha Abissal não está disponível no momento.
+4200,Limite máximo de exploração atingido. Não é possível explorar mais.
+30410,Nenhuma partida disponível para assistir.
+30411,Espectador ainda não está disponível.
+30412,Membros dos clãs participantes não podem assistir.
+30413,A capacidade de espectadores foi excedida.
+30414,Mundo de espectador inválido.
+30415,Você já está como espectador.
+30416,O conteúdo está bloqueado.
+30417,Disponível apenas enquanto espectador.
+30418,Destino inválido.
+30419,Destino inválido.
+30408,O torneio ainda não começou.
+30301,Pesquisa do Clã Skill ainda não foi adquirido.
+30302,Alvo inválido para esta Pesquisa de Clã Skill.
+30303,Slot Skill de pesquisa inválido.
+30304,Esta Pesquisa Skill já está equipada.
+30305,Este skill já está atribuído a outro alvo de pesquisa.
+30306,Nenhuma pesquisa de clã Skill está equipada.
+30307,A Pesquisa do Clã Skill está em espera.
+30401,Você não está participando do Torneio Monolith War.
+30402,Você não entrou no torneio Monolith War.
+30403,O torneio já terminou.
+30404,Você não pode participar do Torneio Monolith War deste mundo.
+30405,Você já fez uma aposta neste torneio.
+30406,Você não fez uma aposta no Torneio Monolith War.
+30407,O custo das apostas para o Torneio Monolith War não foi definido.
+166,Você deve alterar seu apelido.
+8048,Tickets insuficientes.
+8049,Um estágio já está em andamento.
+8050,Nenhum próximo estágio disponível para prosseguir.
+8051,A recompensa final não foi selecionada.
+8052,Nenhuma recompensa restante.
+8053,A lista de recompensas precisa ser atualizada.
+8054,Contagem máxima de uso excedida.
+29912,As transferências do servidor do clã não estão disponíveis durante a participação em um torneio.
+8055,Insira um código válido.
+8056,Limite de aceitação de convites de amizade excedido.
+8057,Somente jogadores novos ou antigos podem registrar um código de convite.
+8058,Não é possível registrar um código de convite de um amigo com quem você já está conectado.
+8059,Este código de convite já foi usado.
+8046,Nenhuma recompensa para reivindicar.
+8060,Você deve cadastrar um código de convite para receber a recompensa.

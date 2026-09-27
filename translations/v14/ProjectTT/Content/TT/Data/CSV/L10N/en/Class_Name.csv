@@ -1,0 +1,11 @@
+﻿Id,Name,Desc,Tag
+1,Warrior,"Guerreiro que domina espadas de duas mãos.
+Pressiona os inimigos sem descanso, combinando grande resistência e poder explosivo.",Ataque|Defesa|Sobrevivência
+2,Mage,"Mago que domina cajados.
+Neutraliza os inimigos com poderosas magias de fogo e gelo.",Ataque|Proteção|Aprimoramento
+3,Battle Priest,"Clérigo que domina orbes.
+Ajuda os aliados a permanecerem na batalha com poderosas habilidades de cura.",Ataque|Cura|Suporte
+4,Assassin,"Assassino que empunha duas adagas.
+É especialista em surpreender os inimigos com furtividade e ataques inesperados.",Ataque|Emboscada|Assassinato
+5,Hunter,"Caçador que domina arcos.
+Ataca a maior distância e pode cegar os inimigos ou imobilizá-los antes que se aproximem.",Ataque|Enfraquecimento|Controle

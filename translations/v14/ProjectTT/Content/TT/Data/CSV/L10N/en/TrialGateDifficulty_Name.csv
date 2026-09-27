@@ -1,0 +1,4 @@
+﻿Id,DifficultyName
+1,Level {IntParam}
+2,Level {IntParam}
+3,Level {IntParam}

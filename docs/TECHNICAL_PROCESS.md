@@ -168,6 +168,16 @@ python tools/check_completeness.py --game-l10n ..\work\download-pak0-full-v11\Pr
 
 Passe `--en-dir` com o inglês ORIGINAL (a árvore extraída pode já conter a tradução no lugar de `en`). Colunas de nomes próprios (`Item_Name.Name`, `Npc_Name.Name`, masmorras, áreas) são ignoradas. Traduza as lacunas reais com a seção `__by_text__` do `overrides.json` (um texto em inglês → um texto PT-BR, aplicado em todas as células idênticas daquela coluna).
 
+## Nomes que devem ficar em inglês
+
+`tools/scan_name_mentions.py` compara cada célula com o inglês original e lista (a) células cujo valor inteiro é um nome de Skill/item/masmorra mas foi traduzido e (b) frases em que o nome apareceu no inglês e não aparece no PT-BR:
+
+```powershell
+python tools/scan_name_mentions.py --source ..\work\download-pak0-original --translation translations/v14 --out ..\work\name-mentions.json
+```
+
+O caso (a) é corrigido automaticamente pelas regras `__restore_exact_names__`/`__replace_translated_names__` do `overrides.json`; o caso (b) vira reescritas em `__by_text__` (chave = frase em inglês) ou por ID+coluna.
+
 ## Validação antes de publicar
 
 1. `repak --aes-key <chave> info` no PAK gerado: V11, índice criptografado, seed `E92532A4`, mount `../../../`, 227 entradas.
