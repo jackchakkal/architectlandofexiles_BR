@@ -1,0 +1,1412 @@
+{
+  "from": "v10",
+  "to": "v11-quality",
+  "files": [
+    {
+      "table": "ClientString_Name.csv",
+      "changed_cells": 5
+    },
+    {
+      "table": "ContentsFunction_Name.csv",
+      "changed_cells": 1
+    },
+    {
+      "table": "ContentsFunctionGroup_Name.csv",
+      "changed_cells": 1
+    },
+    {
+      "table": "Dialog_Name.csv",
+      "changed_cells": 39
+    },
+    {
+      "table": "EventBanner_Name.csv",
+      "changed_cells": 1
+    },
+    {
+      "table": "EventDice_Name.csv",
+      "changed_cells": 1
+    },
+    {
+      "table": "GadgetType_Name.csv",
+      "changed_cells": 1
+    },
+    {
+      "table": "GuideBoss_Name.csv",
+      "changed_cells": 37
+    },
+    {
+      "table": "Item_Name.csv",
+      "changed_cells": 126
+    },
+    {
+      "table": "QuestTask_Name.csv",
+      "changed_cells": 8
+    },
+    {
+      "table": "TutorialWalkthrough_Name.csv",
+      "changed_cells": 3
+    }
+  ],
+  "changes": {
+    "ClientString_Name.csv": [
+      {
+        "id": "ASSISTMODE_OFF_DESC",
+        "column": "Value",
+        "before": "Esta função está actualmente DESLIGADA. Toque no botão à esquerda para ligá-lo.",
+        "after": "Esta função está actualmente DESLIGADA. Toque no botão restante(s) para ligá-lo."
+      },
+      {
+        "id": "CLAN_MISSION_LEFT_TIME",
+        "column": "Value",
+        "before": "[Time] Esquerda",
+        "after": "[Time] restante(s)"
+      },
+      {
+        "id": "CLAN_RESEARCH_TOGGLE_ACTIVATE_LEFT_TIME",
+        "column": "Value",
+        "before": "[Time] Esquerda",
+        "after": "[Time] restante(s)"
+      },
+      {
+        "id": "SCREENSHOT_DECO_COPYRIGHT_LD",
+        "column": "Value",
+        "before": "Parte inferior esquerda",
+        "after": "Parte inferior restante(s)"
+      },
+      {
+        "id": "SLEEPMODE_PLACE_TIME",
+        "column": "Value",
+        "before": "[Time] Esquerda",
+        "after": "[Time] restante(s)"
+      }
+    ],
+    "ContentsFunction_Name.csv": [
+      {
+        "id": "1000801",
+        "column": "Desc",
+        "before": "Giant Duração do evento Tower Hot Time +[Value] hora(s).",
+        "after": "Duração do evento de Hot Time da Giant's Tower: +[Value] hora(s)."
+      }
+    ],
+    "ContentsFunctionGroup_Name.csv": [
+      {
+        "id": "90001",
+        "column": "Desc",
+        "before": "EXP na Terra Abandonada <Yellow>{IntParam}+%</>\r\nTempo quente da Torre do Gigante <Yellow>+8 horas</>",
+        "after": "EXP na Terra Abandonada <Yellow>{IntParam}+%</>\r\nTempo quente da Giant's Tower <Yellow>+8 horas</>"
+      }
+    ],
+    "Dialog_Name.csv": [
+      {
+        "id": "110107010010",
+        "column": "Text",
+        "before": "Aventureiro, só estou perguntando porque Rada não está aqui.",
+        "after": "Aventureira, só estou perguntando porque Rada não está aqui."
+      },
+      {
+        "id": "110128030010",
+        "column": "Text",
+        "before": "Bem-vindo de volta, [player].\r\nSorte nossa, eles realmente pensaram que era uma competição de caça.",
+        "after": "Bem-vinda de volta, [player].\r\nSorte nossa, eles realmente pensaram que era uma competição de caça."
+      },
+      {
+        "id": "110141020020",
+        "column": "Text",
+        "before": "Ei, você é um aventureiro, certo? \r\nUm daqueles que não conseguem simplesmente passar por alguém em apuros.",
+        "after": "Ei, você é um Aventureira, certo? \r\nUm daqueles que não conseguem simplesmente passar por alguém em apuros."
+      },
+      {
+        "id": "110215010150",
+        "column": "Text",
+        "before": "...Se você é um aventureiro, apenas passe tranquilamente.",
+        "after": "...Se você é um Aventureira, apenas passe tranquilamente."
+      },
+      {
+        "id": "110301010090",
+        "column": "Text",
+        "before": "Ah, a <Blue>Torre do Gigante</>.",
+        "after": "Ah, a <Blue>Giant's Tower</>."
+      },
+      {
+        "id": "110301010100",
+        "column": "Text",
+        "before": "Você é um aventureiro, então suponho que seja natural. \r\nAinda assim, estou curioso.",
+        "after": "Você é um Aventureira, então suponho que seja natural. \r\nAinda assim, estou curioso."
+      },
+      {
+        "id": "110309010010",
+        "column": "Text",
+        "before": "Aventureiro, você pode nos ajudar?",
+        "after": "Aventureira, você pode nos ajudar?"
+      },
+      {
+        "id": "110310020140",
+        "column": "Text",
+        "before": "Mesmo com a ajuda do aventureiro,\r\nvocê será apenas um fardo neste estado.",
+        "after": "Mesmo com a ajuda do Aventureira,\r\nvocê será apenas um fardo neste estado."
+      },
+      {
+        "id": "110316030050",
+        "column": "Text",
+        "before": "Aventureiro, parece que devemos cuidar disso sozinhos.\r\nVamos planejar nosso próximo passo em outro lugar.",
+        "after": "Aventureira, parece que devemos cuidar disso sozinhos.\r\nVamos planejar nosso próximo passo em outro lugar."
+      },
+      {
+        "id": "110318050140",
+        "column": "Text",
+        "before": "Aventureiro, o que você fará?",
+        "after": "Aventureira, o que você fará?"
+      },
+      {
+        "id": "110318050190",
+        "column": "Text",
+        "before": "Vamos fazer isso!\r\nAventureiro, você tem que voltar vivo, ok?",
+        "after": "Vamos fazer isso!\r\nAventureira, você tem que voltar vivo, ok?"
+      },
+      {
+        "id": "110322030080",
+        "column": "Text",
+        "before": "Aventureiro, você pode nos ganhar um pouco mais de tempo?",
+        "after": "Aventureira, você pode nos ganhar um pouco mais de tempo?"
+      },
+      {
+        "id": "110509020170",
+        "column": "Text",
+        "before": "Uau… chega de conversa sombria.\r\nAuren, você ouviu a essência da nossa situação deste aventureiro, certo?",
+        "after": "Uau… chega de conversa sombria.\r\nAuren, você ouviu a essência da nossa situação deste Aventureira, certo?"
+      },
+      {
+        "id": "110537020150",
+        "column": "Text",
+        "before": "Aventureiro, vá interromper o emaranhado do Éter ali.\r\nÉ a comida que os mortos-vivos mais desejam.",
+        "after": "Aventureira, vá interromper o emaranhado do Éter ali.\r\nÉ a comida que os mortos-vivos mais desejam."
+      },
+      {
+        "id": "151001010040",
+        "column": "Text",
+        "before": "Como aventureiro, seria preocupante se você não soubesse sobre a aliança.",
+        "after": "Como Aventureira, seria preocupante se você não soubesse sobre a aliança."
+      },
+      {
+        "id": "151201010140",
+        "column": "Text",
+        "before": "Então, aventureiro, por favor, finja ser um cliente e sinta-o.",
+        "after": "Então, Aventureira, por favor, finja ser um cliente e sinta-o."
+      },
+      {
+        "id": "151201040030",
+        "column": "Text",
+        "before": "Vou pesquisar dentro do mercado.\r\nAventureiro, verifique se ele saiu.",
+        "after": "Vou pesquisar dentro do mercado.\r\nAventureira, verifique se ele saiu."
+      },
+      {
+        "id": "151404010020",
+        "column": "Text",
+        "before": "Você não percebe que estamos no meio de uma discussão profunda?\r\nSe você é um aventureiro, cuide da sua vida e siga em frente.",
+        "after": "Você não percebe que estamos no meio de uma discussão profunda?\r\nSe você é um Aventureira, cuide da sua vida e siga em frente."
+      },
+      {
+        "id": "170111060010",
+        "column": "Text",
+        "before": "Se você quer ser um aventureiro de primeira linha, aventureiro, você deve me seguir, eu!",
+        "after": "Se você quer ser um aventureiro de primeira linha, Aventureira, você deve me seguir, eu!"
+      },
+      {
+        "id": "170112130010",
+        "column": "ItemName",
+        "before": "Para o Aventureiro,",
+        "after": "Para o Aventureira,"
+      },
+      {
+        "id": "170132080180",
+        "column": "Text",
+        "before": "A-Aventureiro, você definitivamente não é do nosso <Yellow>'mundo'</>, não é?",
+        "after": "A-Aventureira, você definitivamente não é do nosso <Yellow>'mundo'</>, não é?"
+      },
+      {
+        "id": "170157050010",
+        "column": "Text",
+        "before": "Bem-vindo de volta, [player]!",
+        "after": "Bem-vinda de volta, [player]!"
+      },
+      {
+        "id": "170157050130",
+        "column": "Text",
+        "before": "Então, Aventureiro, você acha que poderia lidar com as Incursões sozinho e encontrar mais dessas amostras...?",
+        "after": "Então, Aventureira, você acha que poderia lidar com as Incursões sozinho e encontrar mais dessas amostras...?"
+      },
+      {
+        "id": "170157050190",
+        "column": "Text",
+        "before": "Ah, certo, aventureiro, continue ajudando como tem feito!\r\nA Guilda dos Wayfinders garantirá que você seja devidamente compensado!",
+        "after": "Ah, certo, Aventureira, continue ajudando como tem feito!\r\nA Guilda dos Wayfinders garantirá que você seja devidamente compensado!"
+      },
+      {
+        "id": "204380010020",
+        "column": "Text",
+        "before": "Você não veio até aqui mesmo depois de ouvir tudo desse aventureiro, não é?",
+        "after": "Você não veio até aqui mesmo depois de ouvir tudo desse Aventureira, não é?"
+      },
+      {
+        "id": "220444070120",
+        "column": "Text",
+        "before": "Seu destino? <Blue>Torre do gigante</>, onde mais?\r\nSe você quiser deixar o mundo de joelhos, o poder dessa torre é exatamente o que você precisa.",
+        "after": "Seu destino? <Blue>Giant's Tower</>, onde mais?\r\nSe você quiser deixar o mundo de joelhos, o poder dessa torre é exatamente o que você precisa."
+      },
+      {
+        "id": "221031030100",
+        "column": "Text",
+        "before": "Como este é o primeiro caso desse tipo, aventureiro, é necessária uma análise minuciosa.",
+        "after": "Como este é o primeiro caso desse tipo, Aventureira, é necessária uma análise minuciosa."
+      },
+      {
+        "id": "330101010030",
+        "column": "Text",
+        "before": "E-Não consigo me mover por causa dos m-monstros.\r\nS-então, aventureiro, por favor vá em vez disso.",
+        "after": "E-Não consigo me mover por causa dos m-monstros.\r\nS-então, Aventureira, por favor vá em vez disso."
+      },
+      {
+        "id": "330113010010",
+        "column": "Text",
+        "before": "Você é um aventureiro, certo?\r\nNão consigo lidar com isso sozinho. Importa-se de me dar uma mão? Eu vou pagar!",
+        "after": "Você é um Aventureira, certo?\r\nNão consigo lidar com isso sozinho. Importa-se de me dar uma mão? Eu vou pagar!"
+      },
+      {
+        "id": "330119010020",
+        "column": "Text",
+        "before": "Sim, saque!\r\nAventureiro, eu… eu saqueio seu trabalho!",
+        "after": "Sim, saque!\r\nAventureira, eu… eu saqueio seu trabalho!"
+      },
+      {
+        "id": "330219020030",
+        "column": "Text",
+        "before": "Uh. Você… um mero aventureiro, trazendo de volta tesouros\r\n que nem eu, o maior caçador, consegui recuperar... Impossível!",
+        "after": "Uh. Você… um mero Aventureira, trazendo de volta tesouros\r\n que nem eu, o maior caçador, consegui recuperar... Impossível!"
+      },
+      {
+        "id": "330264010140",
+        "column": "Text",
+        "before": "Aventureiro, por favor, guie bem Azid.",
+        "after": "Aventureira, por favor, guie bem Azid."
+      },
+      {
+        "id": "330303010080",
+        "column": "Text",
+        "before": "Aventureiro, você poderia trazer Limariya de volta?",
+        "after": "Aventureira, você poderia trazer Limariya de volta?"
+      },
+      {
+        "id": "330312020040",
+        "column": "Text",
+        "before": "Aventureiro, o pó de Naruru realmente funciona!",
+        "after": "Aventureira, o pó de Naruru realmente funciona!"
+      },
+      {
+        "id": "330371070010",
+        "column": "Text",
+        "before": "Até eu, que não sou aventureiro, posso sentir uma aura forte!\r\nPreciso iniciar o experimento imediatamente.",
+        "after": "Até eu, que não sou Aventureira, posso sentir uma aura forte!\r\nPreciso iniciar o experimento imediatamente."
+      },
+      {
+        "id": "330403010030",
+        "column": "Text",
+        "before": "Apenas me chame de Finn.\r\nAventureiro, você vê aquela pilha de lenha ali?",
+        "after": "Apenas me chame de Finn.\r\nAventureira, você vê aquela pilha de lenha ali?"
+      },
+      {
+        "id": "330465050030",
+        "column": "Text",
+        "before": "Aventureiro, por favor, me prometa isso.",
+        "after": "Aventureira, por favor, me prometa isso."
+      },
+      {
+        "id": "61",
+        "column": "Text",
+        "before": "Hmm… Houve a bênção de Ea. Se não fosse pelo aventureiro, teria sido um grande problema. Muito obrigado.",
+        "after": "Hmm… Houve a bênção de Ea. Se não fosse pelo Aventureira, teria sido um grande problema. Muito obrigado."
+      },
+      {
+        "id": "701020010020",
+        "column": "Text",
+        "before": "Você é o aventureiro, certo?\r\nExatamente como Rada descrito.",
+        "after": "Você é o Aventureira, certo?\r\nExatamente como Rada descrito."
+      }
+    ],
+    "EventBanner_Name.csv": [
+      {
+        "id": "90001",
+        "column": "Desc",
+        "before": "Junte-se a nós para comemorar o lançamento do novo servidor, Ragnar!\r\nRecarga dupla para o Tower Hot Time de Giant todas as segundas-feiras!\r\n+10% de bônus de EXP por derrotar monstros de Forsaken Lands!",
+        "after": "Junte-se a nós para celebrar o lançamento do novo servidor, Ragnar!\r\nRecarga em dobro do Hot Time da Giant's Tower toda segunda-feira!\r\n+10% de EXP adicional ao derrotar monstros em Forsaken Lands!"
+      }
+    ],
+    "EventDice_Name.csv": [
+      {
+        "id": "1003",
+        "column": "ToolTipString",
+        "before": "O <Yellow>[Name]</> usado no evento pode ser obtido até 20 por dia na Forsaken Land e no Giant's Torre.\r\nJogue os dados e se o número <Yellow>[6] aparecer, você pode jogar mais uma vez como bônus</>",
+        "after": "O <Yellow>[Name]</> usado no evento pode ser obtido até 20 por dia na Forsaken Land e no Giant's Tower.\r\nJogue os dados e se o número <Yellow>[6] aparecer, você pode jogar mais uma vez como bônus</>"
+      }
+    ],
+    "GadgetType_Name.csv": [
+      {
+        "id": "13",
+        "column": "Name",
+        "before": "Torre de Buff de Giant",
+        "after": "Torre de bônus da Giant's Tower"
+      }
+    ],
+    "GuideBoss_Name.csv": [
+      {
+        "id": "BossCategory1_WorldBoss1",
+        "column": "Name",
+        "before": "Monstro Antigo Behemoth",
+        "after": "Ancient Monster Behemoth"
+      },
+      {
+        "id": "BossCategory1_WorldBoss2",
+        "column": "Name",
+        "before": "Shahgar O King of Greed",
+        "after": "Shahgar The King of Greed"
+      },
+      {
+        "id": "BossCategory1_WorldBoss3",
+        "column": "Name",
+        "before": "Agarash, O Wings of Ruin",
+        "after": "Agarash, The Wings of Ruin"
+      },
+      {
+        "id": "BossCategory1_WorldBoss4",
+        "column": "Name",
+        "before": "Dariente, O Immortal Winter Lord",
+        "after": "Dariente, The Immortal Winter Lord"
+      },
+      {
+        "id": "BossCategory3_GuardianBoss1",
+        "column": "Name",
+        "before": "Gishkal o Lava Fist",
+        "after": "Gishkal the Lava Fist"
+      },
+      {
+        "id": "BossCategory3_GuardianBoss1",
+        "column": "Description",
+        "before": "Guardião da Torre 1F de Giant",
+        "after": "Guardião do 1º andar da Giant's Tower"
+      },
+      {
+        "id": "BossCategory3_GuardianBoss2",
+        "column": "Name",
+        "before": "Halpasiam a Lâmina Congelada",
+        "after": "Halpasiam the Frozen Blade"
+      },
+      {
+        "id": "BossCategory3_GuardianBoss2",
+        "column": "Description",
+        "before": "Guardião da Torre 2F de Giant",
+        "after": "Guardião do 2º andar da Giant's Tower"
+      },
+      {
+        "id": "BossCategory3_GuardianBoss3",
+        "column": "Name",
+        "before": "Drugamu a Maça do Trovão",
+        "after": "Drugamu the Thunder Mace"
+      },
+      {
+        "id": "BossCategory3_GuardianBoss3",
+        "column": "Description",
+        "before": "Guardião da Torre 3F de Giant",
+        "after": "Guardião do 3º andar da Giant's Tower"
+      },
+      {
+        "id": "BossCategory4_Sector3_FieldBoss4",
+        "column": "Name",
+        "before": "Presas Negras Kakaju",
+        "after": "Dark Fangs Kakaju"
+      },
+      {
+        "id": "BossCategory4_Sector4_FieldBoss5",
+        "column": "Name",
+        "before": "Shagan, O Avatar of Wind",
+        "after": "Shagan, The Avatar of Wind"
+      },
+      {
+        "id": "BossCategory4_Sector5_FieldBoss2",
+        "column": "Name",
+        "before": "Nurbahar o Twilight Hunter",
+        "after": "Nurbahar the Twilight Hunter"
+      },
+      {
+        "id": "BossCategory5_InterServer1_SubBoss1_1",
+        "column": "Name",
+        "before": "Solitário Asura Nergar",
+        "after": "Solitary Asura Nergar"
+      },
+      {
+        "id": "BossCategory5_InterServer1_SubBoss1_2",
+        "column": "Name",
+        "before": "Solitário Asura Nergar",
+        "after": "Solitary Asura Nergar"
+      },
+      {
+        "id": "BossCategory5_InterServer1_SubBoss1_3",
+        "column": "Name",
+        "before": "Solitário Asura Nergar",
+        "after": "Solitary Asura Nergar"
+      },
+      {
+        "id": "BossCategory5_InterServer1_SubBoss3_1",
+        "column": "Name",
+        "before": "Tempestade Silenciosa Imdugur",
+        "after": "Silent Storm Imdugur"
+      },
+      {
+        "id": "BossCategory5_InterServer1_SubBoss3_2",
+        "column": "Name",
+        "before": "Tempestade Silenciosa Imdugur",
+        "after": "Silent Storm Imdugur"
+      },
+      {
+        "id": "BossCategory5_InterServer1_SubBoss3_3",
+        "column": "Name",
+        "before": "Tempestade Silenciosa Imdugur",
+        "after": "Silent Storm Imdugur"
+      },
+      {
+        "id": "BossCategory5_InterServer1_SubBoss4_1",
+        "column": "Name",
+        "before": "Calamidade Voraz Nimgal",
+        "after": "Ravenous Calamity Nimgal"
+      },
+      {
+        "id": "BossCategory5_InterServer1_SubBoss4_2",
+        "column": "Name",
+        "before": "Calamidade Voraz Nimgal",
+        "after": "Ravenous Calamity Nimgal"
+      },
+      {
+        "id": "BossCategory5_InterServer1_SubBoss4_3",
+        "column": "Name",
+        "before": "Calamidade Voraz Nimgal",
+        "after": "Ravenous Calamity Nimgal"
+      },
+      {
+        "id": "BossCategory5_InterServer1_SubBoss5_1",
+        "column": "Name",
+        "before": "Céu corrompido Udugal",
+        "after": "Corrupted Sky Udugal"
+      },
+      {
+        "id": "BossCategory5_InterServer1_SubBoss5_2",
+        "column": "Name",
+        "before": "Céu corrompido Udugal",
+        "after": "Corrupted Sky Udugal"
+      },
+      {
+        "id": "BossCategory5_InterServer1_SubBoss5_3",
+        "column": "Name",
+        "before": "Céu corrompido Udugal",
+        "after": "Corrupted Sky Udugal"
+      },
+      {
+        "id": "BossCategory5_InterServer2_SubBoss1_1",
+        "column": "Name",
+        "before": "Solitário Asura Nergar",
+        "after": "Solitary Asura Nergar"
+      },
+      {
+        "id": "BossCategory5_InterServer2_SubBoss1_2",
+        "column": "Name",
+        "before": "Solitário Asura Nergar",
+        "after": "Solitary Asura Nergar"
+      },
+      {
+        "id": "BossCategory5_InterServer2_SubBoss1_3",
+        "column": "Name",
+        "before": "Solitário Asura Nergar",
+        "after": "Solitary Asura Nergar"
+      },
+      {
+        "id": "BossCategory5_InterServer2_SubBoss3_1",
+        "column": "Name",
+        "before": "Tempestade Silenciosa Imdugur",
+        "after": "Silent Storm Imdugur"
+      },
+      {
+        "id": "BossCategory5_InterServer2_SubBoss3_2",
+        "column": "Name",
+        "before": "Tempestade Silenciosa Imdugur",
+        "after": "Silent Storm Imdugur"
+      },
+      {
+        "id": "BossCategory5_InterServer2_SubBoss3_3",
+        "column": "Name",
+        "before": "Tempestade Silenciosa Imdugur",
+        "after": "Silent Storm Imdugur"
+      },
+      {
+        "id": "BossCategory5_InterServer2_SubBoss4_1",
+        "column": "Name",
+        "before": "Calamidade Voraz Nimgal",
+        "after": "Ravenous Calamity Nimgal"
+      },
+      {
+        "id": "BossCategory5_InterServer2_SubBoss4_2",
+        "column": "Name",
+        "before": "Calamidade Voraz Nimgal",
+        "after": "Ravenous Calamity Nimgal"
+      },
+      {
+        "id": "BossCategory5_InterServer2_SubBoss4_3",
+        "column": "Name",
+        "before": "Calamidade Voraz Nimgal",
+        "after": "Ravenous Calamity Nimgal"
+      },
+      {
+        "id": "BossCategory5_InterServer2_SubBoss5_1",
+        "column": "Name",
+        "before": "Céu corrompido Udugal",
+        "after": "Corrupted Sky Udugal"
+      },
+      {
+        "id": "BossCategory5_InterServer2_SubBoss5_2",
+        "column": "Name",
+        "before": "Céu corrompido Udugal",
+        "after": "Corrupted Sky Udugal"
+      },
+      {
+        "id": "BossCategory5_InterServer2_SubBoss5_3",
+        "column": "Name",
+        "before": "Céu corrompido Udugal",
+        "after": "Corrupted Sky Udugal"
+      }
+    ],
+    "Item_Name.csv": [
+      {
+        "id": "1921301",
+        "column": "Param3",
+        "before": "Caracteres",
+        "after": "Characters"
+      },
+      {
+        "id": "1921302",
+        "column": "Param3",
+        "before": "Caracteres",
+        "after": "Characters"
+      },
+      {
+        "id": "1921303",
+        "column": "Param3",
+        "before": "Reino",
+        "after": "Realm"
+      },
+      {
+        "id": "1921304",
+        "column": "Param3",
+        "before": "Reino",
+        "after": "Realm"
+      },
+      {
+        "id": "6207016",
+        "column": "Param3",
+        "before": "Escala",
+        "after": "Scale"
+      },
+      {
+        "id": "6207017",
+        "column": "Param3",
+        "before": "Escala",
+        "after": "Scale"
+      },
+      {
+        "id": "7050175",
+        "column": "Param3",
+        "before": "Ativo Skill",
+        "after": "Active Skill"
+      },
+      {
+        "id": "7050176",
+        "column": "Param3",
+        "before": "Ataque normal",
+        "after": "Normal Attack"
+      },
+      {
+        "id": "7050230",
+        "column": "Param3",
+        "before": "Núcleo de Infusão",
+        "after": "Infusion-Core"
+      },
+      {
+        "id": "7050231",
+        "column": "Param3",
+        "before": "Núcleo de Infusão",
+        "after": "Infusion-Core"
+      },
+      {
+        "id": "7050232",
+        "column": "Param3",
+        "before": "Núcleo de Infusão",
+        "after": "Infusion-Core"
+      },
+      {
+        "id": "7050233",
+        "column": "Param3",
+        "before": "Núcleo de Infusão",
+        "after": "Infusion-Core"
+      },
+      {
+        "id": "7050249",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050250",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050251",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050252",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050253",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050254",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050255",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050256",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050257",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050258",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050259",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050260",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050261",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050262",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050263",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050264",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050265",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050266",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050267",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050268",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050269",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050270",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050271",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050272",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050273",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050274",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050275",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050276",
+        "column": "Param3",
+        "before": "Ficha de Madeira",
+        "after": "Wooden Token"
+      },
+      {
+        "id": "7050300",
+        "column": "Param3",
+        "before": "Selecione",
+        "after": "Select"
+      },
+      {
+        "id": "7050301",
+        "column": "Param3",
+        "before": "Aleatório",
+        "after": "Random"
+      },
+      {
+        "id": "7050400",
+        "column": "Param3",
+        "before": "Núcleo de Infusão",
+        "after": "Infusion-Core"
+      },
+      {
+        "id": "7050401",
+        "column": "Param3",
+        "before": "Núcleo de Infusão",
+        "after": "Infusion-Core"
+      },
+      {
+        "id": "7050402",
+        "column": "Param3",
+        "before": "Núcleo de Infusão",
+        "after": "Infusion-Core"
+      },
+      {
+        "id": "7062330",
+        "column": "Param3",
+        "before": "Traje",
+        "after": "Costume"
+      },
+      {
+        "id": "7062331",
+        "column": "Param3",
+        "before": "Arma Fantasma",
+        "after": "Phantom Weapon"
+      },
+      {
+        "id": "7062332",
+        "column": "Param3",
+        "before": "Baú",
+        "after": "Chest"
+      },
+      {
+        "id": "7062333",
+        "column": "Param3",
+        "before": "Baú",
+        "after": "Chest"
+      },
+      {
+        "id": "7062334",
+        "column": "Param3",
+        "before": "Baú",
+        "after": "Chest"
+      },
+      {
+        "id": "7062335",
+        "column": "Param3",
+        "before": "Baú",
+        "after": "Chest"
+      },
+      {
+        "id": "7062336",
+        "column": "Param3",
+        "before": "Baú",
+        "after": "Chest"
+      },
+      {
+        "id": "7062337",
+        "column": "Param3",
+        "before": "Baú",
+        "after": "Chest"
+      },
+      {
+        "id": "7062338",
+        "column": "Param3",
+        "before": "Baú",
+        "after": "Chest"
+      },
+      {
+        "id": "7062339",
+        "column": "Param3",
+        "before": "Baú",
+        "after": "Chest"
+      },
+      {
+        "id": "7062340",
+        "column": "Param3",
+        "before": "Traje",
+        "after": "Costume"
+      },
+      {
+        "id": "7062341",
+        "column": "Param3",
+        "before": "Arma Fantasma",
+        "after": "Phantom Weapon"
+      },
+      {
+        "id": "7062342",
+        "column": "Param3",
+        "before": "Baú",
+        "after": "Chest"
+      },
+      {
+        "id": "7062343",
+        "column": "Param3",
+        "before": "Baú",
+        "after": "Chest"
+      },
+      {
+        "id": "7062344",
+        "column": "Param3",
+        "before": "Baú",
+        "after": "Chest"
+      },
+      {
+        "id": "7062345",
+        "column": "Param3",
+        "before": "Baú",
+        "after": "Chest"
+      },
+      {
+        "id": "7062346",
+        "column": "Param3",
+        "before": "Seleção de traje / arma fantasma",
+        "after": "Costume / Phantom Weapon Selection"
+      },
+      {
+        "id": "7062350",
+        "column": "Param3",
+        "before": "Seleção de traje / arma fantasma",
+        "after": "Costume / Phantom Weapon Selection"
+      },
+      {
+        "id": "7062393",
+        "column": "Param3",
+        "before": "Baú",
+        "after": "Chest"
+      },
+      {
+        "id": "7062394",
+        "column": "Param3",
+        "before": "Baú",
+        "after": "Chest"
+      },
+      {
+        "id": "7062395",
+        "column": "Param3",
+        "before": "Baú",
+        "after": "Chest"
+      },
+      {
+        "id": "7062640",
+        "column": "Param3",
+        "before": "Spellstone exclusivo",
+        "after": "Exclusive Spellstone"
+      },
+      {
+        "id": "9200442",
+        "column": "Param3",
+        "before": "Ativo Skill",
+        "after": "Active Skill"
+      },
+      {
+        "id": "9200443",
+        "column": "Param3",
+        "before": "Ataque normal",
+        "after": "Normal Attack"
+      },
+      {
+        "id": "9200612",
+        "column": "Param3",
+        "before": "Convocar",
+        "after": "Summon"
+      },
+      {
+        "id": "9200615",
+        "column": "Param3",
+        "before": "Convocar",
+        "after": "Summon"
+      },
+      {
+        "id": "9200617",
+        "column": "Param3",
+        "before": "Convocar",
+        "after": "Summon"
+      },
+      {
+        "id": "9200630",
+        "column": "Param3",
+        "before": "Convocar",
+        "after": "Summon"
+      },
+      {
+        "id": "9200857",
+        "column": "Param3",
+        "before": "Ativo Skill",
+        "after": "Active Skill"
+      },
+      {
+        "id": "9200877",
+        "column": "Param3",
+        "before": "Ativo Skill",
+        "after": "Active Skill"
+      },
+      {
+        "id": "9200889",
+        "column": "Param3",
+        "before": "Selecione",
+        "after": "Select"
+      },
+      {
+        "id": "9200900",
+        "column": "Param3",
+        "before": "Graça das Constelações",
+        "after": "Grace of the Constellations"
+      },
+      {
+        "id": "9200901",
+        "column": "Param3",
+        "before": "Graça das Constelações",
+        "after": "Grace of the Constellations"
+      },
+      {
+        "id": "9200902",
+        "column": "Param3",
+        "before": "Graça das Constelações",
+        "after": "Grace of the Constellations"
+      },
+      {
+        "id": "9200903",
+        "column": "Param3",
+        "before": "Graça das Constelações",
+        "after": "Grace of the Constellations"
+      },
+      {
+        "id": "9200904",
+        "column": "Param3",
+        "before": "Ativo Skill",
+        "after": "Active Skill"
+      },
+      {
+        "id": "9200911",
+        "column": "Param3",
+        "before": "Graça das Constelações",
+        "after": "Grace of the Constellations"
+      },
+      {
+        "id": "9201001",
+        "column": "Param3",
+        "before": "Convocar",
+        "after": "Summon"
+      },
+      {
+        "id": "9201002",
+        "column": "Param3",
+        "before": "Convocar",
+        "after": "Summon"
+      },
+      {
+        "id": "9201003",
+        "column": "Param3",
+        "before": "Convocar",
+        "after": "Summon"
+      },
+      {
+        "id": "9201004",
+        "column": "Param3",
+        "before": "Convocar",
+        "after": "Summon"
+      },
+      {
+        "id": "9201005",
+        "column": "Param3",
+        "before": "Convocar",
+        "after": "Summon"
+      },
+      {
+        "id": "9201006",
+        "column": "Param3",
+        "before": "Convocar",
+        "after": "Summon"
+      },
+      {
+        "id": "9201011",
+        "column": "Param3",
+        "before": "Convocar",
+        "after": "Summon"
+      },
+      {
+        "id": "9201012",
+        "column": "Param3",
+        "before": "Convocar",
+        "after": "Summon"
+      },
+      {
+        "id": "9201013",
+        "column": "Param3",
+        "before": "Convocar",
+        "after": "Summon"
+      },
+      {
+        "id": "9201014",
+        "column": "Param3",
+        "before": "Convocar",
+        "after": "Summon"
+      },
+      {
+        "id": "9201015",
+        "column": "Param3",
+        "before": "Convocar",
+        "after": "Summon"
+      },
+      {
+        "id": "9201016",
+        "column": "Param3",
+        "before": "Convocar",
+        "after": "Summon"
+      },
+      {
+        "id": "9201021",
+        "column": "Param3",
+        "before": "Selecione",
+        "after": "Select"
+      },
+      {
+        "id": "9201022",
+        "column": "Param3",
+        "before": "Selecione",
+        "after": "Select"
+      },
+      {
+        "id": "9201023",
+        "column": "Param3",
+        "before": "Selecione",
+        "after": "Select"
+      },
+      {
+        "id": "9201024",
+        "column": "Param3",
+        "before": "Selecione",
+        "after": "Select"
+      },
+      {
+        "id": "9201025",
+        "column": "Param3",
+        "before": "Selecione",
+        "after": "Select"
+      },
+      {
+        "id": "9201026",
+        "column": "Param3",
+        "before": "Selecione",
+        "after": "Select"
+      },
+      {
+        "id": "9201027",
+        "column": "Param3",
+        "before": "Graça das Constelações",
+        "after": "Grace of the Constellations"
+      },
+      {
+        "id": "9201028",
+        "column": "Param3",
+        "before": "Graça das Constelações",
+        "after": "Grace of the Constellations"
+      },
+      {
+        "id": "9201103",
+        "column": "Param3",
+        "before": "Selecione",
+        "after": "Select"
+      },
+      {
+        "id": "9201106",
+        "column": "Param3",
+        "before": "Selecione",
+        "after": "Select"
+      },
+      {
+        "id": "9201111",
+        "column": "Param3",
+        "before": "Constelações",
+        "after": "Constellations"
+      },
+      {
+        "id": "9201112",
+        "column": "Param3",
+        "before": "Constelações",
+        "after": "Constellations"
+      },
+      {
+        "id": "9201113",
+        "column": "Param3",
+        "before": "Constelações",
+        "after": "Constellations"
+      },
+      {
+        "id": "9201116",
+        "column": "Param3",
+        "before": "Lealdade",
+        "after": "Loyalty"
+      },
+      {
+        "id": "9201117",
+        "column": "Param3",
+        "before": "Subjugação",
+        "after": "Subjugation"
+      },
+      {
+        "id": "9201119",
+        "column": "Param3",
+        "before": "Núcleo de Infusão",
+        "after": "Infusion-Core"
+      },
+      {
+        "id": "9201120",
+        "column": "Param3",
+        "before": "Espécime de Monstro Menor",
+        "after": "Lesser Monster Specimen"
+      },
+      {
+        "id": "9201121",
+        "column": "Param3",
+        "before": "Reino 2 Espécime de Monstro Menor",
+        "after": "Realm 2 Lesser Monster Specimen"
+      },
+      {
+        "id": "9201122",
+        "column": "Param3",
+        "before": "Reino 3 Espécime de Monstro Menor",
+        "after": "Realm 3 Lesser Monster Specimen"
+      },
+      {
+        "id": "9201123",
+        "column": "Param3",
+        "before": "Reino 4 Espécime de Monstro Menor",
+        "after": "Realm 4 Lesser Monster Specimen"
+      },
+      {
+        "id": "9201124",
+        "column": "Param3",
+        "before": "Pesquisa de equipamento",
+        "after": "Equipment Research"
+      },
+      {
+        "id": "9201125",
+        "column": "Param3",
+        "before": "Baú",
+        "after": "Chest"
+      },
+      {
+        "id": "9201126",
+        "column": "Param3",
+        "before": "Baú",
+        "after": "Chest"
+      },
+      {
+        "id": "9201127",
+        "column": "Param3",
+        "before": "Relíquia Sagrada",
+        "after": "Sacred Relic"
+      },
+      {
+        "id": "9201128",
+        "column": "Param3",
+        "before": "Relíquia Sagrada",
+        "after": "Sacred Relic"
+      },
+      {
+        "id": "9201129",
+        "column": "Param3",
+        "before": "Relíquia Sagrada",
+        "after": "Sacred Relic"
+      },
+      {
+        "id": "9201130",
+        "column": "Param3",
+        "before": "Relíquia Sagrada",
+        "after": "Sacred Relic"
+      },
+      {
+        "id": "9201133",
+        "column": "Param3",
+        "before": "Relíquia Sagrada",
+        "after": "Sacred Relic"
+      },
+      {
+        "id": "9201134",
+        "column": "Param3",
+        "before": "Relíquia Sagrada",
+        "after": "Sacred Relic"
+      },
+      {
+        "id": "9201135",
+        "column": "Param3",
+        "before": "Relíquia Sagrada",
+        "after": "Sacred Relic"
+      },
+      {
+        "id": "9201136",
+        "column": "Param3",
+        "before": "Relíquia Sagrada",
+        "after": "Sacred Relic"
+      },
+      {
+        "id": "9201140",
+        "column": "Param3",
+        "before": "Relíquia Sagrada",
+        "after": "Sacred Relic"
+      }
+    ],
+    "QuestTask_Name.csv": [
+      {
+        "id": "102350020",
+        "column": "TaskName",
+        "before": "Vá para <EpicMain>Torre do Gigante</>",
+        "after": "Vá para a <EpicMain>Giant's Tower</>"
+      },
+      {
+        "id": "104270160",
+        "column": "TaskName",
+        "before": "Vá para <EpicMain>Torre do Gigante</>",
+        "after": "Vá para a <EpicMain>Giant's Tower</>"
+      },
+      {
+        "id": "104270170",
+        "column": "TaskName",
+        "before": "Vá para <EpicMain>Torre do Gigante</>",
+        "after": "Vá para a <EpicMain>Giant's Tower</>"
+      },
+      {
+        "id": "201010060",
+        "column": "TaskName",
+        "before": "Vá para o <Archive>Torre do Gigante 1F</> Lobby",
+        "after": "Vá para o lobby do 1º andar da <Archive>Giant's Tower</>"
+      },
+      {
+        "id": "201050200",
+        "column": "TaskName",
+        "before": "Vá para o <Archive>Giant’s Tower 2F Lobby</>",
+        "after": "Vá para o lobby do 2º andar da <Archive>Giant's Tower</>"
+      },
+      {
+        "id": "201050210",
+        "column": "TaskName",
+        "before": "Vá para <Archive> Entrada 2F da Torre do Gigante</>",
+        "after": "Vá para a entrada do 2º andar da <Archive>Giant's Tower</>"
+      },
+      {
+        "id": "201090230",
+        "column": "TaskName",
+        "before": "Vá para <Archive>o lobby 3F da Torre 3F do Giant</>",
+        "after": "Vá para o lobby do 3º andar da <Archive>Giant's Tower</>"
+      },
+      {
+        "id": "500120201",
+        "column": "TaskName",
+        "before": "Insira Giant's Tower 1F Lobby",
+        "after": "Entre no lobby do 1º andar da Giant's Tower."
+      }
+    ],
+    "TutorialWalkthrough_Name.csv": [
+      {
+        "id": "203001",
+        "column": "Desc",
+        "before": "A Torre do Gigante <Orange></> é um espaço enorme e secreto onde a verdade deste mundo está escondida.",
+        "after": "A <Orange>Giant's Tower</> é um espaço imenso e secreto onde se esconde a verdade deste mundo."
+      },
+      {
+        "id": "203003",
+        "column": "Desc",
+        "before": "O Lobby da Torre do Gigante <Orange></> é a área de preparação final para aventureiros antes de entrar na torre.\r\n① Acesse o Curador, General Merchant, Stash Keeper e Black Crystal Shop.\r\n② Entre na Giant's Tower pela entrada principal <Orange></>.",
+        "after": "O lobby da <Orange>Giant's Tower</> é a área de preparação dos aventureiros antes de entrarem na torre.\r\n① Acesse os serviços de cura, o comerciante geral, o depósito e a loja de Cristais Negros.\r\n② Entre na Giant's Tower pela <Orange>entrada principal</>."
+      },
+      {
+        "id": "206007",
+        "column": "Desc",
+        "before": "Obtenha Powerstones da Torre</> do gigante <Orange>.",
+        "after": "Obtenha Powerstones na <Orange>Giant's Tower</>."
+      }
+    ]
+  }
+}

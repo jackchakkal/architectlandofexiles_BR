@@ -1,0 +1,412 @@
+﻿Id,Name,DialogText
+10001,,
+10002,Movimento básico,"Pressione o botão <img id=""WASDKey"" width=""176"" height=""40""/> para <Orange>se mover</>."
+10003,Movimento básico,"Use o controle <img id=""MovePadKey"" width=""40"" height=""40""/> para <Orange>se mover</>."
+10102,Ataque básico,"Pressione o botão <img id=""EKey"" width=""40"" height=""40""/>,
+ou clique duas vezes no alvo para <Orange>atacar</>."
+10103,Ataque básico,"Pressione <img id=""AttackIcon"" width=""40"" height=""40"" classImg=""1""/>,
+ou clique duas vezes no alvo para <Orange>atacar</>."
+10104,Habilidades,"Pressione <img id=""SkillButton"" width=""40"" height=""40""/> ou as teclas <img id=""1Key"" width=""40"" height=""40""/><img id=""2Key"" width=""40"" height=""40""/> para usar uma <Orange>habilidade</>."
+10105,Habilidades,"Pressione o botão <img id=""SkillButton"" width=""40"" height=""40""/> para usar <Orange>habilidades</>."
+10201,Pular,"Pressione o botão <img id=""SpaceKey"" width=""80"" height=""40""/> para <Orange>pular</>."
+10202,Pular,"Pressione o botão <img id=""MJumpkey"" width=""40"" height=""40""/> para <Orange>pular</>."
+10302,Escalar,É possível escalar certos terrenos e construções.
+10303,Escalar,É possível escalar certos terrenos e construções.
+10401,,
+10402,Girar a câmera,"Use o botão <img id=""RClickkey"" width=""40"" height=""40""/> ou <img id=""Horizon"" width=""80"" height=""40""/> para girar a <Orange>câmera</>."
+10403,Girar a câmera,"Arraste <img id=""Widthkey"" width=""40"" height=""40""/> na tela para girar a <Orange>câmera</>."
+10404,,
+10405,Disparada,"Pressione o botão <img id=""Shiftkey"" width=""80"" height=""40""/> para dar uma <Orange>disparada</>."
+10406,Disparada,"Pressione o botão <img id=""MDashkey"" width=""40"" height=""40""/> para dar uma <Orange>disparada</>."
+10501,Esquiva,"Pressione o botão <img id=""SpaceKey"" width=""80"" height=""40""/> para
+<Orange>esquivar</> dos ataques do Colossus."
+10502,Esquiva,"Pressione o botão <img id=""MJumpkey"" width=""40"" height=""40""/> para
+<Orange>esquivar</> dos ataques do Colossus."
+10601,Dash,"Press <img id=""Shiftkey"" width=""80"" height=""40""/> to <Orange>Dash</>."
+10602,Dash,"Press the <img id=""MDashkey"" width=""40"" height=""40""/> button to <Orange>Dash</>."
+10701,Combate automático,"Pressione o botão <img id=""AutoCombat"" width=""40"" height=""40""/> para iniciar a <Orange>batalha automática</>."
+10702,Combate automático,"Pressione o botão <img id=""AutoCombat"" width=""40"" height=""40""/> para iniciar a <Orange>batalha automática</>."
+10901,Combate automático,As missões avançam automaticamente quando selecionadas.
+10902,Combate automático,As missões avançam automaticamente quando selecionadas.
+21301,,
+21302,Trial of Leap: Climbing,Climbing allows you to reach high places that cannot be accessed by jumping.
+21303,,
+21304,Trial of Leap: Gliding,"In certain sections of the Trial of Leap,
+you can easily pass complex obstacles by gliding."
+21401,Treasures at Ethereal Sanctums,"Treasure Chests will appear corresponding to the number of completed Tasks,
+and opening all Treasure Chests will complete the Trial."
+21501,Trial of Leap: Using Blocks,"Ride the ascending blocks
+to find the path to the exit."
+21601,Pressure Plates,"Stepping on and activating all <Orange>Pressure Plates</> will
+open the path to the next stage."
+21701,Pressure Plates,"Stepping on and activating all <Orange>Pressure Plates</> will
+open the path to the next stage."
+21801,Trial of Wisdom: Moving Blocks,You can push Moving Blocks with your <Orange>Basic Attack</>.
+21802,Trial of Wisdom: Reset Device,Use the <Orange>Reset Device</> to reset the position of the Moving Blocks.
+21901,Trial of Wisdom: Moving Blocks,You can push Moving Blocks with your <Orange>Basic Attack</>.
+21902,Trial of Wisdom: Reset Device,Use the <Orange>Reset Device</> to reset the position of the Moving Blocks.
+30101,,
+30102,Glide,"After jumping, press <img id=""SpaceKey"" width=""80"" height=""40""/> in mid air to glide."
+30103,Glide,"After jumping, tap the <img id=""MJumpkey"" width=""40"" height=""40""/> button in mid air to glide."
+30201,,
+30202,Updraft,"After jumping, press the <Orange>Jump</> button again in mid air to ride the updraft."
+30203,Updraft,"After jumping, press the <Orange>Jump</> button again in mid air to ride the updraft."
+30301,,
+30302,Updraft,"After jumping, press the <Orange>Jump</> button again in mid air to ride the updraft."
+30303,Updraft,"After jumping, press the <Orange>Jump</> button again in mid air to ride the updraft."
+30401,,
+30402,Updraft,"After jumping, press the <Orange>Jump</> button again in mid air to ride the updraft."
+30403,Updraft,"After jumping, press the <Orange>Jump</> button again in mid air to ride the updraft."
+30501,,
+30502,,
+30503,,
+30601,,
+30602,Treasure Chests and Sparkles,Interact with <Orange>Treasure Chests/Sparkles</> to obtain rewards.
+30603,Treasure Chests and Sparkles,Interact with <Orange>Treasure Chests/Sparkles</> to obtain rewards.
+30701,,
+30702,Mount Dash,"While riding a mount, press the <img id=""Shiftkey"" width=""80"" height=""40""/> button to <Orange>Dash</>."
+30703,Mount Dash,"While riding a mount, press the<img id=""MDashkey"" width=""40"" height=""40""/> button to <Orange>Dash</>."
+100101,,
+100102,,
+100103,,O Painel de assistência mostra as missões disponíveis e as atividades de aventura próximas.
+100104,,Selecione uma atividade na lista para seguir automaticamente até o local.
+100105,,Selecione uma missão no Painel de assistência para continuar a missão de Babylon.
+100201,,Abra o menu para acessar o Inventário.
+100202,,Você pode ver o item no Inventário.
+100206,,
+100207,,Selecione o equipamento obtido.
+100208,,Pressione Equipar para equipar a peça.
+100209,,Pressione Equipar automaticamente para equipar todas as peças de uma vez.
+100210,,Como usar Poções de HP:
+100211,,Selecione a aba Consumíveis para abrir o inventário de consumíveis.
+100212,,Select the slot to equip the consumable.
+100213,,Select the slot to equip the consumable.
+100214,,Selecione a Poção de HP que deseja equipar.
+100215,,Pressione o botão Sair.
+100216,,Os consumíveis podem ser usados automaticamente mesmo sem estarem em um atalho.
+100217,,O consumível selecionado será usado automaticamente.
+100218,,Press the Exit button.
+100219,,Ajuste os atalhos rápidos no menu Opções.
+100220,,Selecione a aba Jogo.
+100221,,Ative ou desative os atalhos rápidos.
+100301,,"Glider has been unlocked.
+Tap the button to check out the menu."
+100302,,Press the Glider.
+100303,,Press the Select Star Grade button for the Glider.
+100304,,Select a Glider.
+100305,,Summon the Glider.
+100306,,Press Equip to equip the Glider.
+100307,,"The Glider has been equipped..
+You can now glide freely."
+100308,,
+100309,,
+100401,,"Mount has been unlocked.
+Tap the button to check out the menu."
+100402,,Press Mount.
+100403,,Press the Select Star Grade button for the Mount.
+100404,,Select the starter Mount.
+100405,,Summon the Mount.
+100406,,Tap Equip to equip the Mount.
+100407,,The Mount has been equipped.
+100408,,Now press the Mount button to hop on it.
+100409,,Now press the Mount button to hop on it.
+100501,,Press here to open the menu.
+100502,,You can see various quests here.
+100503,,Press the tab to change the quest type.
+100504,,Navigate the menu to check out the details.
+100505,,"Now, let's take a look at sub quests."
+100506,,Tap an available quest to begin automatically.
+100601,Costume,
+100602,,"Costume has been unlocked.
+Press the button to access the menu."
+100603,,Tap Costume.
+100604,,
+100605,,
+100701,,
+100702,,
+100703,,The Adventurers Alliance can be easily accessed through the menu.
+100704,,Press the button to go to the Adventurers Alliance.
+100705,,"The Adventurers Alliance consists of 7 Guilds active in the Forsaken Lands.
+Each Guild provides various functions and rewards for adventurers."
+100706,,Select the Merchants Guild to check out what the Adventurers Alliance has to offer.
+100801,,
+100802,,"Equipment Enhancement has been unlocked.
+Press the button to check out the menu."
+100803,,Press Inventory.
+100804,,"You can now enhance equipment.
+Select an equipped piece of equipment."
+100805,,Press Enhance.
+100806,,"Select the equipment to enhance, and add the required enhancement materials.
+Press this button."
+100807,,Select the enhancement materials.
+100808,,Press the Select button to add the enhancement material.
+100809,,"After adding the materials, press the Enhance button.
+You can see the enhancement materials provided to you in your Inventory."
+100810,,"The basic stats of the equipment increase based on the enhancement level.
+Also, equipment is not destroyed at low enhancement levels."
+100811,,You can enhance multiple pieces of equipment at once with this button.
+100812,,Select the equipment again to cancel enhancement.
+100813,,You can upgrade your character by selecting and enhancing the desired equipment.
+100903,,
+100904,,
+101001,,
+101002,,"The Skill Level Up function has been unlocked.
+Press the button to check out the menu."
+101003,,Press Skill.
+101004,,
+101005,,Select a skill to upgrade.
+101006,,
+101007,,The selected skill can be upgraded by tapping this button.
+101008,,
+101009,,Press the Level Up button to raise the skill’s level.
+101010,,"The active skill has leveled up.
+The result screen closes when you touch the screen."
+101101,,
+101102,,Select the skill to bind a Spellstone to.
+101103,,
+101104,,Press a Spellstone.
+101105,,Unlock the Spellstone Slot.
+101106,,
+101107,,Spellstone slot unlocked.
+101108,,Select a Spellstone to bind to the skill.
+101109,,Press Bind Spellstone.
+101110,,
+101111,,The Spellstone has been bound.
+101112,,"You can also extract a bound Skillstone.
+Select a bound Spellstone."
+101113,,Tap Extract Spellstone.
+101114,,
+101115,,"The Spellstone has been extracted.
+Now you can create your own skills by freely binding and extracting Spellstones."
+101201,,
+101202,,"The Infuse Equipment function has been unlocked.
+Press the button to check out the menu."
+101203,,Press Inventory.
+101204,,"You can now Infuse equipment.
+Select an equipped piece of equipment."
+101205,,Press Infuse.
+101206,,"After registering the equipment, select a slot to apply stats."
+101207,,Press the + button to select the appropriate materials.
+101208,,Select the provided materials for Infusion.
+101209,,Add the selected materials.
+101210,,"After registering the materials, press this button."
+101211,,Check out the available stats.
+101212,,"After adding the materials, press Infuse to apply stats to the slot."
+101213,,"Infused equipment receives stats matching the registered materials, and you can change the granted stats by Infusing it again."
+101214,,Select the equipment again to cancel Infusion.
+101215,,You can continuously upgrade your character by improving equipment stats through Infusion.
+101301,,
+101302,,The Giant's Tower consists of multiple Floors.
+101303,,Press the Floor you wish to enter.
+101304,,You can see the information about the selected Floor.
+101305,,"You can obtain various and rare rewards by climbing the Giant's Tower, and even more rewards at the end of Hot Time."
+101306,,
+101307,,Tap Enter to go inside the Giant's Tower.
+101401,,
+101402,,
+101501,,
+101502,,"A new function has been unlocked.
+Press the button to access the menu."
+101503,,Press Season Pass.
+101504,,
+101505,,
+101601,,
+101602,,"You can check out the new skill.
+Press the button to check out the menu."
+101603,,Press Skill.
+101604,,Select the Passive Skill button.
+101605,,
+101606,,Select a skill.
+101607,,Tap the button to learn a new passive skill.
+101608,,
+101609,,
+101701,,"You can acquire a new skill.
+Tap the button to access the menu."
+101702,,Press Skill.
+101703,,
+101704,,
+101801,,Press here to open the menu.
+101802,,Press Inventory.
+101803,,Select the Teleportation Scroll item.
+101804,,"With a Teleportation Scroll, you can teleport to the nearest resurrection point."
+101805,,Tap Use to instantly consume the Teleportation Scroll and move to the Revive Point.
+101901,,Press the Quest Panel to see the target location.
+101902,,You can see the target location on the screen.
+101903,,Press this button to move to the designated quest location.
+102001,,Press this button to proceed with Auto-Combat.
+102101,,"You can use various convenience features 
+in the village."
+102102,,You can check out the features here.
+102103,,"Press the feature you wish to use to 
+teleport there."
+102301,,
+102302,,"A new function has been unlocked.
+Press the button to access the menu."
+102303,,Select the Guidebook.
+102304,,
+102305,,
+102306,,"Guidebook Missions are also displayed on the game screen.
+Close the Guidebook and move to the game screen."
+102307,,
+102308,,Select the Guidebook tab on the Assist Panel.
+102309,,The Guidebook Panel displays the missions you can play the fastest.
+102310,,You can display Re-Play Adventure at the top tab of the Assist Panel.
+102401,,
+102402,,
+102501,,"A new function has been unlocked.
+Press the button to access the menu."
+102502,,Select the Phantom Weapon menu.
+102503,,
+102504,,
+102601,,
+102602,,
+102701,,
+102702,,Your can find your beginner’s survival bag here.
+102801,,The Detection function has been unlocked! It will help you explore the world out there.
+102802,,Select the Detection Panel.
+102803,,The Detection Panel automatically locates and displays key NPCs nearby.
+102804,,Change your Detection Settings to track specific targets.
+102805,,Select a detected target to travel directly to the location.
+102806,,The Quest Panel also offers more gameplay information.
+102807,,"View nearby side quests, treasure chests, and Warp Anchors and select one of them to travel there."
+103001,,You can also pin frequently used menus to the game screen.
+103002,,Select a slot.
+103003,,Select the menu you want to pin.
+103004,,Select the Inventory.
+103005,,"Now, let's look at the game screen."
+103006,,You can find the pinned menus here.
+103007,,Customize frequently used menus for faster access.
+103102,,
+103103,,AI Auto-Battle offers Auto-Maintenance and other convenient functions.
+103104,,You can toggle each function on or off
+103105,,and customize specific options.
+103106,,You can perform Auto-Maintenance a set number of times once Auto-Combat begins.
+103107,,"When finished, press Confirm to return to the game screen."
+103108,,Tap the button to activate AI Auto-Battle.
+103201,,Costume Level-Up has been unlocked.
+103202,,
+200101,,
+200201,,
+200301,,
+200401,,
+200501,,
+200601,,
+200602,,
+200701,,
+200702,,
+200801,,
+200802,,
+200901,,
+200902,,
+201001,,
+201002,,
+201101,,
+201102,,
+201201,,
+201202,,
+201301,,
+201302,,
+201401,,
+201402,,
+201501,,
+201502,,
+201601,,
+201602,,
+201701,,
+201702,,
+201801,,
+201802,,
+201803,,
+201901,,
+202001,,
+202101,,
+202201,,
+202401,,
+202501,,
+202601,,
+202701,,
+202801,,
+202901,,
+203101,,
+203102,,
+203201,,"You can parry an enemy’s attack just before it lands, when the <Red>red circles</> merge."
+203202,,
+203203,Parry,"A successful Parry will leave the enemy in a groggy state, preventing them from moving for a set duration."
+203301,Memorite,
+203901,Warp Anchors,
+203902,Warp Anchors,
+204001,Observatory,
+204002,Observatory,
+204101,Treasure Chest,
+204102,Treasure Chest,
+204201,Giant's Remnants,
+204202,Giant's Remnants,
+204301,Twinkle,
+204302,Twinkle,
+204601,Incursion,
+204602,Incursion,
+204701,Grand Incursion,
+204702,Grand Incursion,
+204801,Tesseract,
+204802,Tesseract,
+205001,Monolith War,
+205501,Ascension and Potential Abilities,
+205502,Ascension and Potential Abilities,
+205701,Descent Skill,
+206001,Sacred Relic,
+206002,Sacred Relic,
+206201,Alignment and Outlaw,
+206301,Battle Log,
+206401,Relations,
+206501,Ranking,
+206701,Marketplace,
+206801,Death and Revival,
+206901,Offline AI Mode,
+206902,Offline AI Mode,
+207201,Map,
+207301,Healer Priest,
+207401,Vending Machine,
+207402,Vending Machine,
+207601,Infuse,
+207602,Infuse,
+207701,Infuse,
+207801,Sacred Relic,
+207901,Infinite Spire,
+208001,Snow Goblin Commotion,
+208101,Abyss Battlefield,
+208201,Artificial Tesseract,
+208202,Artificial Tesseract,
+208301,Temporal Barrier,
+208401,Resonance,
+208501,Preset,
+208601,AI Scheduler,
+208701,Shadow Incursion,
+208702,Shadow Incursion,
+208801,Rift Boss,
+208901,Tuning,
+209001,Keyring,
+999101,,
+999801,Khoon,Press this button to parry.
+998001,,
+998002,,
+998003,Rada,This is a Warp Conduit.
+998004,,
+998005,Khoon,This is an Observatory.
+998101,,Platform branching out test
+998102,,PC platform
+998103,,Mobile platform
+998201,,"Press <img id=""EKey"" width=""40"" height=""40""/> to <Orange>attack</>
+ nearby targets."
+998301,,"Press <img id=""EKey"" width=""40"" height=""40""/> to <Orange>attack</>
+ nearby targets."
+10000101,,
+10000102,,
+10000103,,Press the button to view the menu.
+10000104,,Select the Phantom Vault.
+10000105,,
+10000106,,
+209101,Title,
+209201,Arena,
+209301,Decorations,
+209401,Hall of Proof,
+209501,OOParts,

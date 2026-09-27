@@ -1,0 +1,430 @@
+﻿Id,Name,Desc
+101,Derrote monstros,Defeat {RequiredStackCount} Monsters
+102,Equip Phantom Weapon,Equip Phantom Weapon {RequiredStackCount} times
+103,Obtain 1-star equipment,Obtain {RequiredStackCount} 1-star equipment
+104,Derrote monstros,Defeat {RequiredStackCount} Monsters
+105,Total Skill Level,Reach Total Skill Level {RequiredStackCount}
+106,Attempt equipment enhancement,Attempt equipment enhancement {RequiredStackCount} times
+107,Derrote monstros,Defeat {RequiredStackCount} Monsters
+108,Join Clan,Create or Join a Clan
+109,Clear Sub Quests,Clear Sub Quests {RequiredStackCount} Times
+110,Derrote monstros,Defeat {RequiredStackCount} Monsters
+111,Level Up Costume,Level Up Costume {RequiredStackCount} times
+112,Attempt Awakening,Attempt Awakening {RequiredStackCount} times
+113,Derrote monstros,Defeat {RequiredStackCount} Monsters
+114,Class Advancement,Complete 1st Advancement
+115,Clear Adventurers’ Alliance Task,Clear Adventurers’ Alliance Task {RequiredStackCount} times
+116,Derrote monstros,Defeat {RequiredStackCount} Monsters
+117,Total Skill Level,Reach Total Skill Level {RequiredStackCount}
+118,Total Costume Level-Up Count,Reach Total Costume Level-Up Count {RequiredStackCount}
+119,Defeat Giant’s Tower Monsters,Defeat {RequiredStackCount} monsters in Giant's Tower
+120,Clear Rifts,Clear Rift {RequiredStackCount} Times
+121,Equip Grace of the constellations,Equip 4 Blessings of the Constellations
+122,Defeat Monsters in the Temporal Barrier,Defeat {RequiredStackCount} Temporal Barrier Monsters
+123,Class Advancement,Complete 2nd Advancement
+124,Acquire Gold,Acquire {RequiredStackCount} Gold
+125,Defeat Abyss Battlefield Monsters,Defeat {RequiredStackCount} Abyss Battlefield Monsters
+126,Defeat Field Bosses,Defeat Field Bosses {RequiredStackCount} times
+127,Clear Archive Quest,Clear Archive Quest {RequiredStackCount} times
+128,Derrote monstros,Defeat {RequiredStackCount} Monsters
+129,Attempt Awakening,Attempt Awakening {RequiredStackCount} times
+130,Clear Sub Quests,Clear Sub Quests {RequiredStackCount} Times
+131,Defeat Giant’s Tower Monsters,Defeat {RequiredStackCount} monsters in Giant's Tower
+132,Powerstone Refinement Count,Refine Powerstone {RequiredStackCount} times
+133,Clear Archive Quest,Clear Archive Quest {RequiredStackCount} times
+134,Derrote monstros,Defeat {RequiredStackCount} Monsters
+135,Complete Epic Quest,Complete Epic Quest: Destiny
+136,Total Skill Level,Reach Total Skill Level {RequiredStackCount}
+137,Derrote monstros,Defeat {RequiredStackCount} Monsters
+138,Class Advancement,Complete 3rd Advancement
+139,Total Costume Level-Up Count,Reach Total Costume Level-Up Count {RequiredStackCount}
+140,Defeat Abyss Battlefield Monsters,Defeat {RequiredStackCount} Abyss Battlefield Monsters
+141,Defeat Field Bosses,Defeat Field Bosses {RequiredStackCount} times
+142,Total Grace of the constellations Level,Reach Total Grace of the constellations Level {RequiredStackCount}
+143,Derrote monstros,Defeat {RequiredStackCount} Monsters
+144,Clear Sub Quests,Clear Sub Quests {RequiredStackCount} Times
+145,Total Skill Level,Reach Total Skill Level {RequiredStackCount}
+146,Defeat Monsters in the Temporal Barrier,Defeat {RequiredStackCount} Temporal Barrier Monsters
+147,Total Costume Level-Up Count,Reach Total Costume Level-Up Count {RequiredStackCount}
+148,Giant's Tower 2F,Enter Giant's Tower 2F Lobby
+149,Defeat Giant’s Tower Monsters,Defeat {RequiredStackCount} monsters in Giant's Tower
+150,Attempt Awakening,Attempt Awakening {RequiredStackCount} times
+151,Total Grace of the constellations Level,Reach Total Grace of the constellations Level {RequiredStackCount}
+152,Derrote monstros,Defeat {RequiredStackCount} Monsters
+153,Clear Sub Quests,Clear Sub Quests {RequiredStackCount} Times
+154,Total Skill Level,Reach Total Skill Level {RequiredStackCount}
+201,Clear Trial Gate,Clear Trial Gate 1-4
+202,Clear Ethereal Sanctum Trial of Combat,Clear Ethereal Sanctum Trial of Combat 1-1
+203,Reach ATK Stat Goal,Reach ATK Stat {RequiredStackCount}
+204,Clear Trial Gate,Clear Trial Gate 1-15
+205,Clear Ethereal Sanctum Trial of Combat,Clear Ethereal Sanctum Trial of Combat 1-2
+206,Reach DEF Stat Goal,Reach DEF Stat {RequiredStackCount}
+207,Clear Trial Gate,Clear Trial Gate 1-21
+208,Clear Ethereal Sanctum Trial of Combat,Clear Ethereal Sanctum Trial of Combat 1-3
+209,Defeat Black Reaper Karugura,Defeat Black Reaper Karugura
+210,Clear Trial Gate,Clear Trial Gate 1-25
+211,Clear Ethereal Sanctum Trial of Combat,Clear Ethereal Sanctum Trial of Combat 1-4
+212,Reach ATK Stat Goal,Reach ATK Stat {RequiredStackCount}
+213,Clear Trial Gate,Clear Trial Gate 1-29
+214,Clear Ethereal Sanctum Trial of Combat,Clear Ethereal Sanctum Trial of Combat 1-5
+215,Defeat Red Mane Tagar,Defeat Red Mane Tagar
+216,Clear Trial Gate,Clear Trial Gate 1-32
+217,Reach DEF Stat Goal,Reach DEF Stat {RequiredStackCount}
+218,Defeat Infected Beast King Gigaz,Defeat Infected Beast King Gigaz
+219,Clear Trial Gate,Clear Trial Gate 1-34
+220,Clear Ethereal Sanctum Trial of Combat,Clear Ethereal Sanctum Trial of Combat 1-6
+221,Reach Accuracy Stat Goal,Reach Accuracy Stat {RequiredStackCount}
+222,Clear Trial Gate,Clear Trial Gate 1-38
+223,Clear Ethereal Sanctum Trial of Combat,Clear Ethereal Sanctum Trial of Combat 1-7
+224,Defeat Storm Spear Urukkur,Defeat Storm Spear Urukkur
+225,Clear Trial Gate,Clear Trial Gate 1-42
+226,Clear Ethereal Sanctum Trial of Combat,Clear Ethereal Sanctum Trial of Combat 1-8
+227,Reach ATK Stat Goal,Reach ATK Stat {RequiredStackCount}
+228,Clear Trial Gate,Clear Trial Gate 1-47
+229,Reach DEF Stat Goal,Reach DEF Stat {RequiredStackCount}
+230,Defeat Fallen Mushgal,Defeat Fallen Mushgal
+231,Clear Trial Gate,Clear Trial Gate 1-57
+232,Reach Accuracy Stat Goal,Reach Accuracy Stat {RequiredStackCount}
+233,Defeat Wings of Ruin Agarash,Defeat Wings of Ruin Agarash
+234,Clear Trial Gate,Clear Trial Gate 2-2
+235,Reach ATK Stat Goal,Reach ATK Stat {RequiredStackCount}
+236,Defeat Landslide Kirjur,Defeat Landslide Kirjur
+237,Clear Trial Gate,Clear Trial Gate 2-8
+238,Reach DEF Stat Goal,Reach DEF Stat {RequiredStackCount}
+239,Clear Hidden Trial Gate,Clear Hidden Karugura Trial Gate
+240,Clear Trial Gate,Clear Trial Gate 2-12
+241,Clear Ethereal Sanctum Trial of Combat,Clear Ethereal Sanctum Trial of Combat 2-1
+242,Clear Hidden Trial Gate,Clear Hidden Tagar Trial Gate
+243,Clear Trial Gate,Clear Trial Gate 2-15
+244,Reach Accuracy Stat Goal,Reach Accuracy Stat {RequiredStackCount}
+245,Clear Hidden Trial Gate,Clear Hidden Gigaz Trial Gate
+246,Clear Trial Gate,Clear Trial Gate 2-17
+247,Clear Ethereal Sanctum Trial of Combat,Clear Ethereal Sanctum Trial of Combat 2-2
+248,Clear Hidden Trial Gate,Clear Hidden Urukkur Trial Gate
+301,Clear Ethereal Sanctum,Clear Ethereal Sanctum {RequiredStackCount} Times
+302,Acquire Treasure Chests,Acquire Treasure Chests {RequiredStackCount} times
+303,Activate Observatory,Activate Observatory {RequiredStackCount} Times
+304,Reach Gudua’s Memories Level,Reach Total Gudua’s Memories Level {RequiredStackCount}
+305,Use Adventurers’ Alliance Guild Coin Shop,Use Adventurers’ Alliance Guild Coin Shop {RequiredStackCount} times
+306,Acquire Treasure Chests,Acquire Treasure Chests {RequiredStackCount} times
+307,Clear Arbiter’s Ordeal,Clear Arbiter’s Ordeal {RequiredStackCount} times
+308,Use Adventurers' Alliance Shop,Use Adventurers' Alliance Shop {RequiredStackCount} times
+309,Use Vending Machines,Use Vending Machines {RequiredStackCount} times
+310,Clear Rifts,Clear Rift {RequiredStackCount} Times
+311,Enter the Temporal Barrier,Enter the Temporal Barrier {RequiredStackCount} times
+312,Use Black Crystal Shop,Use Black Crystal Shop {RequiredStackCount} times
+313,Craft Glider,Craft {RequiredStackCount} Explorer's Lesser Glider Chest
+314,Use Golden Crystal Shop,Purchase any item at the Golden Crystal Shop {RequiredStackCount} times
+315,Clear Trial Gate,Clear Trial Gates {RequiredStackCount} Times
+316,Sell Item at Marketplace,Sell Item at Marketplace {RequiredStackCount} times
+317,Fuse Grace of the constellations,Fuse Blessing of the Constellation {RequiredStackCount} times
+318,Reach Mount Total Ascensions,Ascend Mount or Glider {RequiredStackCount} times
+319,Reach Gudua’s Memories Level,Reach Total Gudua’s Memories Level {RequiredStackCount}
+320,Occupy the Vitalizing Sanctum,Occupy the Vitalizing Sanctum {RequiredStackCount} times
+321,Adventurers’ Alliance’s Reputation Total,Reach {RequiredStackCount} Adventurers’ Alliance’s Reputation Total
+322,Craft Equipment,Craft {RequiredStackCount} 3-star equipment
+323,Reach Resonance Intensity,Reach a total of {RequiredStackCount} or higher on Resonance Page 1
+324,Participate in Incursion,Participate in Incursion {RequiredStackCount} Times
+325,Use Giant’s Vending Machine Tokens,Use Giant’s Vending Machine {RequiredStackCount} times
+326,Reach Equipment Enhancement Level,Reach {RequiredStackCount} Total Equipped Equipment Enhancement Levels
+327,Proceed with Blacksmith Research,Proceed with Blacksmith Research {RequiredStackCount} times
+328,Use the Daily Commission House,Use the Daily Commission House {RequiredStackCount} times
+329,Use Aetherium Ores,Use {RequiredStackCount} Aetherium Ores
+330,Reach Crest Level,Reach Total Crest Level {RequiredStackCount}
+331,Participate in Incursion,Participate in Incursion {RequiredStackCount} Times
+332,Use Abyss Battlefield Recharge Ticket,Use Abyss Battlefield Recharge Ticket {RequiredStackCount} times
+333,Clear Trial Gate,Clear Trial Gates {RequiredStackCount} Times
+334,Participate in Tesseract,Participate in Tesseract {RequiredStackCount} times
+335,Reach Mount Total Ascensions,Ascend Mount or Glider {RequiredStackCount} times
+336,Clear Rifts,Clear Rift {RequiredStackCount} Times
+337,Use Hot Time,Use 8 hours of Hot Time in the Weekly Giant's Tower
+338,Proceed with Powerstone Refinement,Refine Powerstone {RequiredStackCount} times
+339,Reach Gudua’s Memories Level,Reach Total Gudua’s Memories Level {RequiredStackCount}
+340,Participate in Incursion,Participate in Incursion {RequiredStackCount} Times
+341,Craft Equipment,Craft {RequiredStackCount} 3-star equipment
+342,Reach Crest Level,Reach Total Crest Level {RequiredStackCount}
+343,Participate in Grand Incursion,Participate in Grand Incursion {RequiredStackCount} Times
+344,Reach Spellstone Equip Count,Equip {RequiredStackCount} Spellstones
+345,Reach Codex Points,Reach {RequiredStackCount} Codex Points
+346,Reach Ethereal Sanctum Clear Count,Clear Ethereal Sanctum {RequiredStackCount} Times
+347,Adventurers’ Alliance’s Reputation Total,Reach {RequiredStackCount} Adventurers’ Alliance’s Reputation Total
+348,Obtain Equipment,Obtain {RequiredStackCount} 1-star equipment
+349,Clear Rifts,Clear Rift {RequiredStackCount} Times
+350,Use Giant’s Vending Machine Tokens,Use Giant’s Vending Machine {RequiredStackCount} times
+351,Use Hot Time,Use 8 hours of Hot Time in the Weekly Giant's Tower
+352,Craft Items,Craft item {RequiredStackCount} times
+353,Reach Codex Points,Reach {RequiredStackCount} Codex Points
+354,Clear Arbiter’s Ordeal,Clear Arbiter’s Ordeal {RequiredStackCount} times
+355,Proceed with Artisan Research,Proceed with Artisan Research {RequiredStackCount} times
+356,Abyss Battlefield Usage Time,Use 8 hours of Abyss Battlefield Time
+357,Proceed with Item Enhancement,Enhance item {RequiredStackCount} times
+358,Participate in Incursion,Participate in Incursion {RequiredStackCount} Times
+359,Reach Gudua’s Memories Level,Reach Total Gudua’s Memories Level {RequiredStackCount}
+360,Craft Items,Craft item {RequiredStackCount} times
+361,Proceed with Merchants Guild Research,Proceed with Merchants Guild Research {RequiredStackCount} times
+362,Reach Codex Points,Reach {RequiredStackCount} Codex Points
+363,Adventurers’ Alliance’s Reputation Total,Reach {RequiredStackCount} Adventurers’ Alliance’s Reputation Total
+364,Reach Resonance Intensity,Reach a total of {RequiredStackCount} intensity on Resonance Page 1
+365,Proceed with Blacksmith Research,Proceed with Blacksmith Research {RequiredStackCount} times
+366,Proceed with Equipment Disassembly,Disassemble {RequiredStackCount} pieces of Equipment
+367,Occupy the Vitalizing Sanctum,Occupy the Vitalizing Sanctum {RequiredStackCount} times
+368,Reach Equipment Enhancement Level,Reach {RequiredStackCount} Total Equipped Equipment Enhancement Levels
+369,Participate in Grand Incursion,Participate in Grand Incursion {RequiredStackCount} Times
+370,Participate in Tesseract,Participate in Tesseract {RequiredStackCount} times
+371,Proceed with Artisan Research,Proceed with Artisan Research {RequiredStackCount} times
+372,Clear Arbiter’s Ordeal,Clear Arbiter’s Ordeal {RequiredStackCount} times
+373,Reach Equipment Enhancement Level,Reach {RequiredStackCount} Total Equipped Equipment Enhancement Levels
+374,Proceed with Merchants Guild Research,Proceed with Merchants Guild Research {RequiredStackCount} times
+375,Phantom Weapon Fusion Count Complete,Fuse Phantom Weapon {RequiredStackCount} times
+376,Proceed with Appraisers' Guild Research,Proceed with Appraisers' Guild Research {RequiredStackCount} times
+377,Costume Transcendence Count Complete,Transcend Costume {RequiredStackCount} Times
+378,Reach Crest Level,Reach Total Crest Level {RequiredStackCount}
+379,Reach Gudua’s Memories Level,Reach Total Gudua’s Memories Level {RequiredStackCount}
+380,Sacred Relic Advancement Count Complete,Advance Sacred Relic {RequiredStackCount} times
+381,Use Hot Time,Use 8 hours of Hot Time in the Weekly Giant's Tower
+382,Participate in Tesseract,Participate in Tesseract {RequiredStackCount} times
+383,Participate in Grand Incursion,Participate in Grand Incursion {RequiredStackCount} Times
+384,Adventurers’ Alliance’s Reputation Total,Reach {RequiredStackCount} Adventurers’ Alliance’s Reputation Total
+401,Derrote monstros,Defeat {RequiredStackCount} Monsters
+402,Equip Phantom Weapon,Equip Phantom Weapon {RequiredStackCount} times
+403,Obtain 1-star equipment,Obtain {RequiredStackCount} 1-star equipment
+404,Derrote monstros,Defeat {RequiredStackCount} Monsters
+405,Join Clan,Create or Join a Clan
+406,Attempt equipment enhancement,Attempt equipment enhancement {RequiredStackCount} times
+407,New Skills,Purchase items from the Skillbook Shop {RequiredStackCount} times
+408,Class Advancement,Complete 1st Advancement
+409,Total Grace of the constellations Level,Reach Total Grace of the constellations Level {RequiredStackCount}
+410,Defeat Monsters in the Temporal Barrier,Defeat {RequiredStackCount} Temporal Barrier Monsters
+411,Sell Item at Marketplace,Sell Item at Marketplace {RequiredStackCount} times
+412,Reach Gudua’s Memories Level,Reach Total Gudua’s Memories Level {RequiredStackCount}
+413,Clear Rifts,Clear Rift {RequiredStackCount} Times
+414,Use Rift Shop,Use Rift Shop {RequiredStackCount} times
+415,Attempt Awakening,Attempt Awakening {RequiredStackCount} times
+416,Craft Equipment,Craft Equipment {RequiredStackCount} times
+417,Proceed with Blacksmith Research,Proceed with Blacksmith Research {RequiredStackCount} times
+418,Clear Adventurers’ Alliance Task,Clear Adventurers’ Alliance Task {RequiredStackCount} times
+419,Mueena ,Clear Archive: Scions of a Fallen Kingdom
+420,Equip Grace of the constellations,Equip 4 Blessings of the Constellations
+421,Powerstone Refinement Count,Refine Powerstone {RequiredStackCount} times
+422,Defeat Field Bosses,Defeat Field Bosses {RequiredStackCount} times
+423,Total Skill Level,Reach Total Skill Level {RequiredStackCount}
+424,Use Infusion-Cores,Use Infusion-Core {RequiredStackCount} times
+425,Derrote monstros,Defeat {RequiredStackCount} Monsters
+426,Sacred Relic Advancement Count Complete,Advance Sacred Relic {RequiredStackCount} times
+427,Total Costume Level-Up Count,Reach Total Costume Level-Up Count {RequiredStackCount}
+428,Defeat Giant’s Tower Monsters,Defeat {RequiredStackCount} monsters in Giant's Tower
+429,Class Advancement,Complete 2nd Advancement
+430,New Skills,Purchase items from the Skillbook Shop {RequiredStackCount} times
+431,Defeat Abyss Battlefield Monsters,Defeat {RequiredStackCount} Abyss Battlefield Monsters
+432,Defeat Field Bosses,Defeat Field Bosses {RequiredStackCount} times
+433,Attempt Resonance,Attempt Resonance {RequiredStackCount} times
+434,Secondary Weapon II,Craft Secondary Weapon II x{RequiredStackCount}
+435,Participate in Rift Boss Raids,Participate in Rift Boss Raids {RequiredStackCount} times
+436,Beretta,Clear Archive: That Which a Scholar Requires
+437,Standard HP Potion,Buy Standard HP Potions x{RequiredStackCount} from the General Store
+438,Defeat Monsters in the Temporal Barrier,Defeat {RequiredStackCount} Temporal Barrier Monsters
+439,New Skills,Purchase items from the Skillbook Shop {RequiredStackCount} times
+440,Reach Total Attunement Level,Reach Total Attunement Level {RequiredStackCount}
+441,Azran,Clear Archive: Wolf Pups Pack Together
+442,Use Infusion-Cores,Use Infusion-Core {RequiredStackCount} times
+443,Derrote monstros,Defeat {RequiredStackCount} Monsters
+444,Attempt Awakening,Attempt Awakening {RequiredStackCount} times
+445,Reach Total Attunement Level,Reach Total Attunement Level {RequiredStackCount}
+446,Defeat Giant’s Tower Monsters,Defeat {RequiredStackCount} monsters in Giant's Tower
+447,Attempt equipment enhancement,Attempt equipment enhancement {RequiredStackCount} times
+448,Craft Equipment,Craft Equipment {RequiredStackCount} times
+449,Derrote monstros,Defeat {RequiredStackCount} Monsters
+450,Complete Epic Quest,Complete Epic Quest: Destiny
+451,Total Skill Level,Reach Total Skill Level {RequiredStackCount}
+452,Defeat Monsters in the Temporal Barrier,Defeat {RequiredStackCount} Temporal Barrier Monsters
+453,Class Advancement,Complete 3rd Advancement
+454,Total Costume Level-Up Count,Reach Total Costume Level-Up Count {RequiredStackCount}
+455,Defeat Abyss Battlefield Monsters,Defeat {RequiredStackCount} Abyss Battlefield Monsters
+456,New Skills,Purchase items from the Skillbook Shop {RequiredStackCount} times
+457,Total Grace of the constellations Level,Reach Total Grace of the constellations Level {RequiredStackCount}
+458,Derrote monstros,Defeat {RequiredStackCount} Monsters
+459,Attempt equipment enhancement,Attempt equipment enhancement {RequiredStackCount} times
+460,Craft Equipment,Craft Equipment {RequiredStackCount} times
+461,New Skills,Purchase items from the Skillbook Shop {RequiredStackCount} times
+462,Total Costume Level-Up Count,Reach Total Costume Level-Up Count {RequiredStackCount}
+463,Giant's Tower 2F,Enter Giant's Tower 2F Lobby
+464,Defeat Giant’s Tower Monsters,Defeat {RequiredStackCount} monsters in Giant's Tower
+465,Attempt Resonance,Attempt Resonance {RequiredStackCount} times
+466,Total Grace of the constellations Level,Reach Total Grace of the constellations Level {RequiredStackCount}
+467,Derrote monstros,Defeat {RequiredStackCount} Monsters
+468,Defeat Abyss Battlefield Monsters,Defeat {RequiredStackCount} Abyss Battlefield Monsters
+469,Total Skill Level,Reach Total Skill Level {RequiredStackCount}
+501,Clear Guidebook,Clear Guidebook Stage {RequiredStackCount}
+502,Character Level,Reach Lv. {RequiredStackCount}
+503,Reach ATK Stat Goal,Reach ATK Stat {RequiredStackCount}
+504,Wolf Hunt,Complete Epic Quest: Wolf Hunt
+505,Character Level,Reach Lv. {RequiredStackCount}
+506,Reach DEF Stat Goal,Reach DEF Stat {RequiredStackCount}
+507,Clear Guidebook,Clear Guidebook Stage {RequiredStackCount}
+508,Derrote monstros,Defeat {RequiredStackCount} Monsters
+509,Lesser HP Potion,Buy Lesser HP Potions x{RequiredStackCount} from the General Store
+510,Clear Trial Gate,Clear Trial Gate 1-15
+511,Clear Trial Gate,Clear Trial Gate 1-21
+512,Defeat Black Reaper Karugura,Defeat Black Reaper Karugura
+513,Derrote monstros,Defeat {RequiredStackCount} Monsters
+514,Character Level,Reach Lv. {RequiredStackCount}
+515,Defeat Monsters in the Temporal Barrier,Defeat {RequiredStackCount} Temporal Barrier Monsters
+516,Clear Trial Gate,Clear Trial Gate 1-25
+517,Clear Ethereal Sanctum Trial of Combat,Clear Ethereal Sanctum Trial of Combat 1-4
+518,Reach ATK Stat Goal,Reach ATK Stat {RequiredStackCount}
+519,Derrote monstros,Defeat {RequiredStackCount} Monsters
+520,Defeat Giant’s Tower Monsters,Defeat {RequiredStackCount} monsters in Giant's Tower
+521,Defeat Monsters in the Temporal Barrier,Defeat {RequiredStackCount} Temporal Barrier Monsters
+522,Clear Trial Gate,Clear Trial Gate 1-29
+523,Clear Ethereal Sanctum Trial of Combat,Clear Ethereal Sanctum Trial of Combat 1-5
+524,Defeat Red Mane Tagar,Defeat Red Mane Tagar
+525,Derrote monstros,Defeat {RequiredStackCount} Monsters
+526,Defeat Giant’s Tower Monsters,Defeat {RequiredStackCount} monsters in Giant's Tower
+527,Defeat Monsters in the Temporal Barrier,Defeat {RequiredStackCount} Temporal Barrier Monsters
+528,Clear Trial Gate,Clear Trial Gate 1-32
+529,Reach DEF Stat Goal,Reach DEF Stat {RequiredStackCount}
+530,Defeat Infected Beast King Gigaz,Defeat Infected Beast King Gigaz
+531,Derrote monstros,Defeat {RequiredStackCount} Monsters
+532,Defeat Giant’s Tower Monsters,Defeat {RequiredStackCount} monsters in Giant's Tower
+533,Defeat Monsters in the Temporal Barrier,Defeat {RequiredStackCount} Temporal Barrier Monsters
+534,Clear Trial Gate,Clear Trial Gate 1-34
+535,Clear Ethereal Sanctum Trial of Combat,Clear Ethereal Sanctum Trial of Combat 1-6
+536,Reach Accuracy Stat Goal,Reach Accuracy Stat {RequiredStackCount}
+537,Derrote monstros,Defeat {RequiredStackCount} Monsters
+538,Defeat Giant’s Tower Monsters,Defeat {RequiredStackCount} monsters in Giant's Tower
+539,Defeat Abyss Battlefield Monsters,Defeat {RequiredStackCount} Abyss Battlefield Monsters
+540,Clear Trial Gate,Clear Trial Gate 1-38
+541,Clear Ethereal Sanctum Trial of Combat,Clear Ethereal Sanctum Trial of Combat 1-7
+542,Defeat Storm Spear Urukkur,Defeat Storm Spear Urukkur
+543,Derrote monstros,Defeat {RequiredStackCount} Monsters
+544,Defeat Giant’s Tower Monsters,Defeat {RequiredStackCount} monsters in Giant's Tower
+545,Defeat Monsters in the Temporal Barrier,Defeat {RequiredStackCount} Temporal Barrier Monsters
+546,Clear Trial Gate,Clear Trial Gate 1-42
+547,Clear Ethereal Sanctum Trial of Combat,Clear Ethereal Sanctum Trial of Combat 1-8
+548,Reach ATK Stat Goal,Reach ATK Stat {RequiredStackCount}
+549,Derrote monstros,Defeat {RequiredStackCount} Monsters
+550,Defeat Giant’s Tower Monsters,Defeat {RequiredStackCount} monsters in Giant's Tower
+551,Defeat Abyss Battlefield Monsters,Defeat {RequiredStackCount} Abyss Battlefield Monsters
+552,Clear Trial Gate,Clear Trial Gate 1-47
+553,Reach DEF Stat Goal,Reach DEF Stat {RequiredStackCount}
+554,Defeat Fallen Mushgal,Defeat Fallen Mushgal
+555,Derrote monstros,Defeat {RequiredStackCount} Monsters
+556,Defeat Giant’s Tower Monsters,Defeat {RequiredStackCount} monsters in Giant's Tower
+557,Defeat Monsters in the Temporal Barrier,Defeat {RequiredStackCount} Temporal Barrier Monsters
+558,Clear Trial Gate,Clear Trial Gate 1-57
+559,Reach Accuracy Stat Goal,Reach Accuracy Stat {RequiredStackCount}
+560,Defeat Wings of Ruin Agarash,Defeat Wings of Ruin Agarash
+561,Derrote monstros,Defeat {RequiredStackCount} Monsters
+562,Defeat Giant’s Tower Monsters,Defeat {RequiredStackCount} monsters in Giant's Tower
+563,Defeat Abyss Battlefield Monsters,Defeat {RequiredStackCount} Abyss Battlefield Monsters
+564,Clear Trial Gate,Clear Trial Gate 2-2
+565,Reach ATK Stat Goal,Reach ATK Stat {RequiredStackCount}
+566,Defeat Landslide Kirjur,Defeat Landslide Kirjur
+567,Derrote monstros,Defeat {RequiredStackCount} Monsters
+568,Defeat Giant’s Tower Monsters,Defeat {RequiredStackCount} monsters in Giant's Tower
+569,Defeat Monsters in the Temporal Barrier,Defeat {RequiredStackCount} Temporal Barrier Monsters
+570,Clear Trial Gate,Clear Trial Gate 2-8
+571,Reach DEF Stat Goal,Reach DEF Stat {RequiredStackCount}
+572,Clear Hidden Trial Gate,Clear Hidden Karugura Trial Gate
+573,Derrote monstros,Defeat {RequiredStackCount} Monsters
+574,Defeat Giant’s Tower Monsters,Defeat {RequiredStackCount} monsters in Giant's Tower
+575,Defeat Abyss Battlefield Monsters,Defeat {RequiredStackCount} Abyss Battlefield Monsters
+576,Clear Trial Gate,Clear Trial Gate 2-12
+577,Clear Ethereal Sanctum Trial of Combat,Clear Ethereal Sanctum Trial of Combat 2-1
+578,Clear Hidden Trial Gate,Clear Hidden Tagar Trial Gate
+579,Derrote monstros,Defeat {RequiredStackCount} Monsters
+580,Defeat Giant’s Tower Monsters,Defeat {RequiredStackCount} monsters in Giant's Tower
+581,Defeat Monsters in the Temporal Barrier,Defeat {RequiredStackCount} Temporal Barrier Monsters
+582,Clear Trial Gate,Clear Trial Gate 2-15
+583,Reach Accuracy Stat Goal,Reach Accuracy Stat {RequiredStackCount}
+584,Clear Hidden Trial Gate,Clear Hidden Gigaz Trial Gate
+585,Derrote monstros,Defeat {RequiredStackCount} Monsters
+586,Defeat Giant’s Tower Monsters,Defeat {RequiredStackCount} monsters in Giant's Tower
+587,Defeat Abyss Battlefield Monsters,Defeat {RequiredStackCount} Abyss Battlefield Monsters
+588,Clear Trial Gate,Clear Trial Gate 2-17
+589,Clear Ethereal Sanctum Trial of Combat,Clear Ethereal Sanctum Trial of Combat 2-2
+590,Clear Hidden Trial Gate,Clear Hidden Urukkur Trial Gate
+601,Clear Arbiter’s Ordeal,Clear Arbiter’s Ordeal {RequiredStackCount} times
+602,Acquire Treasure Chests,Acquire Treasure Chests {RequiredStackCount} times
+603,Activate Observatory,Activate Observatory {RequiredStackCount} Times
+604,Reach Gudua’s Memories Level,Reach Total Gudua’s Memories Level {RequiredStackCount}
+605,Use Adventurers’ Alliance Guild Coin Shop,Use Adventurers’ Alliance Guild Coin Shop {RequiredStackCount} times
+606,Acquire Treasure Chests,Acquire Treasure Chests {RequiredStackCount} times
+607,Clear Arbiter’s Ordeal,Clear Arbiter’s Ordeal {RequiredStackCount} times
+608,Use Adventurers' Alliance Shop,Use Adventurers' Alliance Shop {RequiredStackCount} times
+609,Use Vending Machines,Use Vending Machines {RequiredStackCount} times
+610,Clear Rifts,Clear Rift {RequiredStackCount} Times
+611,Enter the Temporal Barrier,Enter the Temporal Barrier {RequiredStackCount} times
+612,Use Black Crystal Shop,Use Black Crystal Shop {RequiredStackCount} times
+613,Craft Glider,Craft {RequiredStackCount} Explorer's Lesser Glider Chest
+614,Occupy the Vitalizing Sanctum,Occupy the Vitalizing Sanctum {RequiredStackCount} times
+615,Clear Trial Gate,Clear Trial Gates {RequiredStackCount} Times
+616,Sell Item at Marketplace,Sell Item at Marketplace {RequiredStackCount} times
+617,Fuse Grace of the constellations,Fuse Blessing of the Constellation {RequiredStackCount} times
+618,Reach Mount Total Ascensions,Ascend Mount or Glider {RequiredStackCount} times
+619,Reach Gudua’s Memories Level,Reach Total Gudua’s Memories Level {RequiredStackCount}
+620,Reach Resonance Intensity,Reach a total of {RequiredStackCount} or higher on Resonance Page 1
+621,Adventurers’ Alliance’s Reputation Total,Reach {RequiredStackCount} Adventurers’ Alliance’s Reputation Total
+622,Craft Equipment,Craft {RequiredStackCount} 3-star equipment
+623,Use Golden Crystal Shop,Purchase any item at the Golden Crystal Shop {RequiredStackCount} times
+624,Participate in Incursion,Participate in Incursion {RequiredStackCount} Times
+625,Use Giant’s Vending Machine Tokens,Use Giant’s Vending Machine {RequiredStackCount} times
+626,Reach Equipment Enhancement Level,Reach {RequiredStackCount} Total Equipped Equipment Enhancement Levels
+627,Proceed with Blacksmith Research,Proceed with Blacksmith Research {RequiredStackCount} times
+628,Use the Daily Commission House,Use the Daily Commission House {RequiredStackCount} times
+629,Use Aetherium Ores,Use {RequiredStackCount} Aetherium Ores
+630,Reach Crest Level,Reach Total Crest Level {RequiredStackCount}
+631,Participate in Incursion,Participate in Incursion {RequiredStackCount} Times
+632,Use Abyss Battlefield Recharge Ticket,Use Abyss Battlefield Recharge Ticket {RequiredStackCount} times
+633,Clear Trial Gate,Clear Trial Gates {RequiredStackCount} Times
+634,Participate in Tesseract,Participate in Tesseract {RequiredStackCount} times
+635,Reach Mount Total Ascensions,Ascend Mount or Glider {RequiredStackCount} times
+636,Clear Rifts,Clear Rift {RequiredStackCount} Times
+637,Use Hot Time,Use 8 hours of Hot Time in the Weekly Giant's Tower
+638,Powerstone Refinement Count,Refine Powerstone {RequiredStackCount} times
+639,Reach Gudua’s Memories Level,Reach Total Gudua’s Memories Level {RequiredStackCount}
+640,Participate in Incursion,Participate in Incursion {RequiredStackCount} Times
+641,Craft Equipment,Craft {RequiredStackCount} 3-star equipment
+642,Reach Crest Level,Reach Total Crest Level {RequiredStackCount}
+643,Participate in Grand Incursion,Participate in Grand Incursion {RequiredStackCount} Times
+644,Reach Spellstone Equip Count,Equip {RequiredStackCount} Spellstones
+645,Reach Codex Points,Reach {RequiredStackCount} Codex Points
+646,Clear Ethereal Sanctum,Clear Ethereal Sanctum {RequiredStackCount} Times
+647,Adventurers’ Alliance’s Reputation Total,Reach {RequiredStackCount} Adventurers’ Alliance’s Reputation Total
+648,Obtain 1-star equipment,Obtain {RequiredStackCount} 1-star equipment
+649,Clear Rifts,Clear Rift {RequiredStackCount} Times
+650,Use Giant’s Vending Machine Tokens,Use Giant’s Vending Machine {RequiredStackCount} times
+651,Use Hot Time,Use 8 hours of Hot Time in the Weekly Giant's Tower
+652,Craft Items,Craft item {RequiredStackCount} times
+653,Reach Codex Points,Reach {RequiredStackCount} Codex Points
+654,Clear Arbiter’s Ordeal,Clear Arbiter’s Ordeal {RequiredStackCount} times
+655,Proceed with Artisan Research,Proceed with Artisan Research {RequiredStackCount} times
+656,Abyss Battlefield Usage Time,Use 8 hours of Abyss Battlefield Time
+657,Proceed with Item Enhancement,Enhance item {RequiredStackCount} times
+658,Participate in Incursion,Participate in Incursion {RequiredStackCount} Times
+659,Reach Gudua’s Memories Level,Reach Total Gudua’s Memories Level {RequiredStackCount}
+660,Craft Items,Craft item {RequiredStackCount} times
+661,Proceed with Merchants Guild Research,Proceed with Merchants Guild Research {RequiredStackCount} times
+662,Reach Codex Points,Reach {RequiredStackCount} Codex Points
+663,Adventurers’ Alliance’s Reputation Total,Reach {RequiredStackCount} Adventurers’ Alliance’s Reputation Total
+664,Reach Resonance Intensity,Reach a total of {RequiredStackCount} intensity on Resonance Page 1
+665,Proceed with Blacksmith Research,Proceed with Blacksmith Research {RequiredStackCount} times
+666,Proceed with Equipment Disassembly,Disassemble {RequiredStackCount} pieces of Equipment
+667,Occupy the Vitalizing Sanctum,Occupy the Vitalizing Sanctum {RequiredStackCount} times
+668,Reach Equipment Enhancement Level,Reach {RequiredStackCount} Total Equipped Equipment Enhancement Levels
+669,Participate in Grand Incursion,Participate in Grand Incursion {RequiredStackCount} Times
+670,Participate in Tesseract,Participate in Tesseract {RequiredStackCount} times
+671,Proceed with Artisan Research,Proceed with Artisan Research {RequiredStackCount} times
+672,Clear Arbiter’s Ordeal,Clear Arbiter’s Ordeal {RequiredStackCount} times
+673,Reach Equipment Enhancement Level,Reach {RequiredStackCount} Total Equipped Equipment Enhancement Levels
+674,Proceed with Merchants Guild Research,Proceed with Merchants Guild Research {RequiredStackCount} times
+675,Phantom Weapon Fusion Count Complete,Fuse Phantom Weapon {RequiredStackCount} times
+676,Proceed with Appraisers' Guild Research,Proceed with Appraisers' Guild Research {RequiredStackCount} times
+677,Costume Transcendence Count Complete,Transcend Costume {RequiredStackCount} Times
+678,Reach Crest Level,Reach Total Crest Level {RequiredStackCount}
+679,Reach Gudua’s Memories Level,Reach Total Gudua’s Memories Level {RequiredStackCount}
+680,Sacred Relic Advancement Count Complete,Advance Sacred Relic {RequiredStackCount} times
+681,Use Hot Time,Use 8 hours of Hot Time in the Weekly Giant's Tower
+682,Participate in Tesseract,Participate in Tesseract {RequiredStackCount} times
+683,Participate in Grand Incursion,Participate in Grand Incursion {RequiredStackCount} Times
+684,Adventurers’ Alliance’s Reputation Total,Reach {RequiredStackCount} Adventurers’ Alliance’s Reputation Total

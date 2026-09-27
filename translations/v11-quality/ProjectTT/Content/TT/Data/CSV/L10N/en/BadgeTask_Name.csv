@@ -1,0 +1,226 @@
+﻿Task,TaskParam,Name,Desc,Param
+0,,Notificação quando o inventário está cheio,,
+1,,Notificação quando houver uma caixa disponível,,
+4,,Notificação quando houver equipamento melhor,,
+10035,,{Param} Notificação de aquisição,,Novo item
+1800,,Notificação de pontos de fusão de relíquias sagradas disponíveis,,
+701,,{Param} Notificação de disponibilidade de item,,Ativo Skill
+702,,{Param} Notificação de disponibilidade de item,,Skill passivo
+703,,{Param} Notificação de aumento de nível,,Ativo Skill
+705,,{Param} Notificação de transcendência,,Ativo Skill
+10001,,Novo {Param} Notificação de aquisição de efeito,,Nível total
+10010,,{Param} Notificação de registro de nova lista confirmada,,Traje
+10011,,{Param} confirmada notificação de expiração da lista,,Traje
+100,,{Param} Notificação de aumento de nível,,Traje Equipado
+101,,{Param} Notificação de transcendência,,Traje Equipado
+10014,,Novo {Param} Notificação de aquisição de efeito,,Ligação
+10015,,Novo {Param} Notificação de aquisição de efeito,,Galeria
+103,,Efeito de conjunto inovador de traje desbloqueado,,
+10143,,Novo efeito de grupo de ascensão de traje desbloqueado,,
+10012,,{Param} Notificação de registro de nova lista confirmada,,Arma Fantasma
+10013,,{Param} confirmada notificação de expiração da lista,,Arma Fantasma
+10016,,Novo {Param} Notificação de aquisição de efeito,,De propriedade
+10017,,Novo {Param} Notificação de aquisição de efeito,,Arsenal
+104,,Equipado Ascensão da Arma Fantasma Disponível,,
+10144,,Nova arma fantasma Efeito de grupo de ascensão desbloqueado,,
+300,,{Param} Chamar notificação de disponibilidade,,Montagem
+301,,Notificação quando a ascensão está disponível para {Param} equipado,,Montagem
+303,,Notificação quando a ascensão está disponível para {Param} próprio,,Montagem
+10002,,Novo {Param} Notificação de aquisição de efeito,,Ascensão Total
+302,,Notificação quando uma capacidade potencial está pronta para ativar,,
+200,,{Param} Chamar notificação de disponibilidade,,Planador
+201,,Notificação quando a ascensão está disponível para {Param} equipado,,Planador
+203,,Notificação quando a ascensão está disponível para {Param} próprio,,Planador
+10003,,Novo {Param} Notificação de aquisição de efeito,,Ascensão Total
+202,,Notificação quando uma capacidade potencial está pronta para ativar,,
+500,,{Param} Notificação de reivindicação,,Recompensa de conquista
+501,,{Param} Notificação de reivindicação,,Recompensa de pontos de conquista
+10101,,Notificação ao ingressar em,,
+10102,,Notificação quando a Doação do Clã tenta redefinir,,
+10103,,Notificação quando nomeado como Auditor do Clã,,
+10104,,Notificação quando um novo candidato é adicionado,,
+10105,,Notificação ao receber um convite do clã,,
+5000,,Notificação quando a distribuição de recursos do Clã requer uma decisão,,
+10107,,Notificação quando um item de venda do clã for adicionado,,
+10117,,Notificação para uma nova solicitação de aliança,,
+10111,,Notificação quando um novo clã aliado for formado,,
+10112,,Notificação quando um novo clã hostil for formado,,
+10119,,Notificar quando uma nova solicitação de aliança Abyss Battlefield chegar,,
+10120,,Notificar quando um novo clã aliado Abyss Battlefield for formado,,
+10121,,Notificar quando um novo clã hostil Abyss Battlefield for formado,,
+10113,,Notificação quando um item de comércio de clã for registrado,,
+10114,,Notificação quando uma agenda de distribuição de recursos é registrada,,
+10115,,Notificação quando uma agenda de suporte de recursos do Clã Aliado é registrada,,
+10116,,Notificação quando houver uma mudança nos Auditores,,
+5003,,Notificação quando houver uma recompensa semanal exigível,,
+5004,,Notificação quando o Tesouro do Clã está cheio,,
+10118,,Notificação quando você for o comprador de uma venda designada,,
+5005,,Notificar recompensas de missão de clã exigíveis,,
+5006,,Notifique quando as recompensas dos Pontos de Missão do Clã estiverem disponíveis,,
+5007,,Notifique quando as recompensas do Privilégio da Missão do Clã estiverem disponíveis,,
+5150,,Notificação quando a Replica Seed do seu clã estiver ativa no campo,,
+600,,Notificação para exigíveis {Param} Recompensa,,Diário de Exploração
+10051,,Notificação para tempo de venda expirado,,
+1311,,Notificação para itens registrados vendidos,,
+1000,,Notificação quando houver um slot equipável,,
+1002,,{Param} Notificação de aumento de nível,,Cartão Equipado
+1001,,{Param} Notificação de transcendência,,Cartão Equipado
+10031,,Novo {Param} Notificação de aquisição de efeito,,Nebulosa
+1003,,Notificação quando os pontos de fusão da graça das constelações estiverem disponíveis,,
+401,,Notificação para {Param} recompensa de conquista,,Afinidade
+403,,Notificação para recompensa de conclusão {Param},,Nível
+400,,Notificação para {Param} disponível,Desbloquear,Pesquisa
+404,,Notificação quando houver um produto gratuito,,
+405,,Notificação para {Param} recompensa de conquista,,Nova pesquisa
+406,,Notificação para guilda doável,,
+10108,,Notificação para conclusão do aplicativo de entrada Monolith War do clã,,
+10109,,Notificação para Monolith War em andamento,,
+10110,,Notificação para disponibilidade de entrada Monolith War,,
+12,,Quest pronta para ser concluída Notificação,,
+13,,{Param} Notificação de recompensa,,Novo episódio
+16,,Notificação para recompensa de conclusão {Param},,Nova missão
+10042,,{Param} Notificação de atualização,,Comissão diária
+10043,,{Param} Notificação de atualização,,Comissão Semanal
+800,,Notificação para {Param} disponível,,Avanço
+801,1,Notificação para {Param} nível disponível,,Avanço
+900,,Notificação para {Param} disponível,,Desbloquear
+901,,Notificação de início de ativação,,
+10004,,Notificação geral do efeito de despertar,,
+1300,,{Param} Notificação de aumento de nível,,Memórias de Gudua
+1500,,{Param} Notificação de aumento de nível,,Crista
+10021,,{Param} Notificação de aquisição,,Nova Powerstone
+1200,,Notificação para fabricável {Param},,Equipamento
+1201,,Notificação para fabricável {Param},,Item
+1100,,{Param} Notificação de recompensa,,Nova missão
+1101,,Notificação para recompensa de conclusão {Param},,Novo nível
+1506,,Notificação de recompensa do passe de temporada ({Param}),,Diariamente
+1507,,Notificação de recompensa do passe de temporada ({Param}),,Semanal
+1508,,Notificação de recompensa do passe de temporada ({Param}),,Temporada
+1505,,{Param} Notificação de recompensa,,Nível da temporada
+11,,Notificação para o máximo de Tokens de Provação possuídos,,
+10005,,Nova notificação de solicitação de vingança,,
+10071,,Notificação de solicitação de novo amigo,,
+1310,,{Param} Notificação de recompensa,,Guia de repetição
+10061,,Nova notificação de e-mail,,
+5,,E-mail com notificação de recompensa,,
+1404,,{Param} Notificação de recompensa,,Compra total
+1600,,{Param} Notificação de produto,,
+1602,,{Param} Notificação de recompensa de produto,,Presença
+1608,,Passar Notificação de recompensa do produto ({Param}),,Diariamente
+1609,,Passar Notificação de recompensa do produto ({Param}),,Semanal
+1610,,Passar Notificação de recompensa do produto ({Param}),,Temporada
+1605,,{Param} Notificação de recompensa de produto,,Passar
+1603,,{Param} Notificação de recompensa de produto,,Missão
+1604,,Notificação quando um produto está em armazenamento,,
+10075,,Notificação para benefícios que expiram dentro de 3 dias,,
+10076,,Notificação para itens compráveis por meio de benefícios,,
+10077,,{Param} Notificação de produto,,Novo
+1607,,{Param} Notificação de produto,,Grátis no NPC Merchant
+10078,,Notificação diária de produto de incentivo de compra,,
+1614,,Notificação de recompensas de marco de compra,,
+1615,,Notificação de recompensas de marco de compra,,
+1616,,Notificação de recompensas de marco de nova compra,,
+10065,,Notificação de registro de novo evento,,
+1401,,{Param} Notificação de recompensa,,Novo evento de participação
+1403,,{Param} Notificação de recompensa,,Novo evento de missão
+1405,,{Param} Notificação de recompensa,,Novo evento de missão Contagem
+1402,,{Param} Notificação de recompensa,,Novo evento de missão
+1406,,Compra de item grátis na notificação da loja de eventos,,
+10066,,Notificação quando os materiais do Evento de Troca são atendidos,,
+1407,,Notificação para exigíveis {Param} Recompensa,,Classificação Missão Evento
+1409,,Notificação para exigíveis {Param} Recompensa,,Evento de dados
+1410,,Tentativas de dados grátis restantes,,
+1412,,Evento de roleta Notificação de tentativas gratuitas,,
+1413,,Notificação para exigíveis {Param} Recompensa,,Evento de roleta
+1414,,Evento de roleta Missão exclusiva pronta para ser concluída Notificação,,
+1417,,Notificação de cupom de evento de roleta disponível,,
+1411,,Evento de dados Missão exclusiva pronta para ser concluída Notificação,,
+10067,,obtidas {Param} Buff Notification,,Evento de Buff
+1950,,Recompensas disponíveis (jogador convidado),,
+1951,,Recompensas disponíveis (jogador aceitante),,
+1952,,Se recompensas individuais estiverem disponíveis (convidados),,
+10170,,Lucky Box Notificação de atualização da lista de recompensas do evento,,
+3,,Notificação quando a contagem de itens de uso automático for 0,,
+14,,{Param} Notificação de recompensa,,Novo
+15,,{Param} Notificação de recompensa,,Novo
+10055,,Corredor infinito Notificação de preparação para nova temporada,,
+10056,,Quando os tickets do Corredor Infinito são atualizados,,
+1351,,{Param} Notificação de reivindicação,,Recompensa do corredor infinito
+1451,1,{Param} Notificação de recompensa de evento de missão exigível,,Festival de Recompensas de Aburu
+1452,1,{Param} Notificação de recompensa de marco de evento de missão exigível,,Festival de Recompensas de Aburu
+1453,1,{Param} Grupo de evento de missão exigível Notificação de recompensa,,Festival de Recompensas de Aburu
+10091,1,{Param} Notificação de missão disponível,,Festival de Recompensas de Aburu
+17,1,{Param} Notificação de recompensa de missão exigível,,Festival de Recompensas de Aburu
+1506,1,{Param} Notificação diária de recompensa de missão de passe exigível,,Festival de Recompensas de Aburu
+1507,1,{Param} Notificação de recompensa de missão semanal de passe exigível,,Festival de Recompensas de Aburu
+1508,1,{Param} Notificação de recompensa de passe de temporada de passe exigível,,Festival de Recompensas de Aburu
+1505,1,{Param} Notificação de recompensa de passe exigível,,Festival de Recompensas de Aburu
+1451,2,{Param} Notificação de recompensa de evento de missão exigível,,Halo Festival
+1452,2,{Param} Notificação de recompensa de marco de evento de missão exigível,,Halo Festival
+1453,2,{Param} Grupo de evento de missão exigível Notificação de recompensa,,Halo Festival
+10091,2,{Param} Notificação de missão disponível,,Halo Festival
+17,2,{Param} Notificação de recompensa de missão exigível,,Halo Festival
+1506,2,{Param} Notificação diária de recompensa de missão de passe exigível,,Halo Festival
+1507,2,{Param} Notificação de recompensa de missão semanal de passe exigível,,Halo Festival
+1508,2,{Param} Notificação de recompensa de passe de temporada de passe exigível,,Halo Festival
+1505,2,{Param} Notificação de recompensa de passe exigível,,Halo Festival
+10006,2,{Param} Notificação de 5 minutos para evento de jogo,,Halo Festival
+1451,3,{Param} Notificação reivindicada de recompensa de missão,,Attack Titan
+1452,3,{Param} Notificação reivindicada de recompensa de marco de missão,,Attack Titan
+1453,3,{Param} Notificação de reivindicação de recompensa de grupo de missão,,Attack Titan
+10091,3,{Param} Notificação de missão disponível,,Attack Titan
+17,3,{Param} Notificação de reivindicação de recompensa de missão,,Attack Titan
+10146,3,{Param} Beast Giant Notificação de entrada disponível,,Attack Titan
+10068,1000,{Param} Notificação de início (grupo de crachás excluído),,High Pass do General Alto
+1415,1000,{Param} Notificação de recompensa de missão individual de desafio,,High Pass do General Alto
+1416,1000,{Param} Notificação de recompensa de marco de desafio,,High Pass do General Alto
+1451,1000,{Param} Notificação de recompensa de missão individual do Chronicle,,High Pass do General Alto
+1452,1000,{Param} Notificação de recompensa de marco do Chronicle,,High Pass do General Alto
+1453,1000,{Param} Notificação de recompensa do grupo de missão do Chronicle,,High Pass do General Alto
+10092,1000,{Param} Notificação diária de item de incentivo de compra,,High Pass do General Alto
+1612,1000,{Param} Notificação de item grátis,,High Pass do General Alto
+1415,2000,{Param} Notificação de recompensa de missão individual de desafio,,Desafio do Arquiteto
+1416,2000,{Param} Notificação de recompensa de marco de desafio,,Desafio do Arquiteto
+1451,2000,{Param} Notificação de recompensa de missão individual do Chronicle,,Desafio do Arquiteto
+1452,2000,{Param} Notificação de recompensa de marco do Chronicle,,Desafio do Arquiteto
+1453,2000,{Param} Notificação de recompensa do grupo de missão do Chronicle,,Desafio do Arquiteto
+10092,2000,{Param} Notificação diária de item de incentivo de compra,,Desafio do Arquiteto
+1612,2000,{Param} Notificação de item grátis,,Desafio do Arquiteto
+10085,,Nova notificação de formação de grupo de matchmaking,,
+10007,,Notificação de recarga de tempo de barreira de tempo,,
+451,,Ressonância disponível Notificação,,
+950,,Notifique sintonizações desbloqueáveis,,
+951,,Notificar sintonizações disponíveis para subir de nível,,
+952,,Notificar sintonizações disponíveis para transcendência,,
+10057,,Entrada do Rift chefe disponível,,
+1850,,Notificar quando o Chaveiro equipado estiver pronto para treinamento,,
+1851,,Notificar quando o Chaveiro equipado estiver pronto para Ascensão,,
+10018,,Notificar novo efeito de vínculo desbloqueado,,
+10019,,Notificar novo efeito de anel desbloqueado,,
+10140,,Novo Title adquirido,,
+1860,,Title Ativação disponível,,
+10134,,Nova temporada começa,,
+10135,,Promoção/rebaixamento automático,,
+10136,,1 dia até inatividade,,
+10137,,Inatividade Inicia,,
+10131,,disponíveis,,
+10145,,Nova decoração adquirida,,
+10142,,Novo efeito de decoração desbloqueado,,
+10059,,Hall of Proof Preparação para nova temporada,,
+5008,,Hall of Proof Recompensa disponível para reivindicação,,
+10060,,Hall of Proof Disponível para desbloqueio,,
+10058,,Hall of Proof Disponível para entrada,,
+10150,,Notificação quando o registro do torneio do clã abrir,,
+10151,,Notificação quando seu clã entrar no torneio,,
+10152,,Notificação quando a classificação do seu clã cair abaixo do limite do torneio,,
+10153,,Notificação quando a seleção de participantes do torneio for concluída,,
+10154,,Notificação quando a chave do torneio do seu clã for revelada,,
+5100,,Notificação quando a partida do seu clã estiver pronta,,
+5101,,Notificação quando a partida do seu clã estiver em andamento,,
+5102,,Notificação quando a previsão do vencedor da rodada abre,,
+10155,,Notificação quando o vencedor da rodada os resultados da previsão foram lançados,,
+5103,,Notificação quando a previsão do clã campeão for abertaㄴ,,
+10156,,Notificação quando os resultados da previsão do clã campeão forem divulgados,,
+10157,,Notificação quando a rodada de apostas abre,,
+10158,,Notificação quando os resultados das apostas da rodada saem,,
+1900,,Notificação quando o OOParts Exploration gratuito estiver pronto,,

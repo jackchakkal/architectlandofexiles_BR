@@ -1,0 +1,283 @@
+﻿WorldSpotInfoId,WorldName,Param
+100101,Babylon,
+100102,Bardad Expedition Garrison,
+100103,Taima Pioneer Village,
+100111,Scything Barrens,
+100112,Scything Barrens,
+100113,Scything Barrens,
+100114,Scything Barrens,
+100115,Scything Barrens,
+100116,Scything Barrens,
+100117,Scything Barrens,
+100118,Scything Barrens,
+100119,Scything Barrens,
+100120,Scything Barrens,
+100121,Scything Barrens,
+100122,Scything Barrens,
+100123,Scything Barrens,
+100124,Scything Barrens,
+100125,Scything Barrens,
+100126,Scything Barrens,
+100127,Scything Barrens,
+100128,Scything Barrens,
+100129,Scything Barrens,
+100130,Scything Barrens,
+100202,Aburu Village,
+100203,Rappie Ranch,
+100204,Sunset Brewery,
+100211,Giant's Garden,
+100212,Giant's Garden,
+100213,Giant's Garden,
+100214,Giant's Garden,
+100215,Giant's Garden,
+100216,Giant's Garden,
+100217,Giant's Garden,
+100218,Giant's Garden,
+100219,Giant's Garden,
+100220,Giant's Garden,
+100221,Giant's Garden,
+100222,Giant's Garden,
+100223,Giant's Garden,
+100224,Giant's Garden,
+100225,Giant's Garden,
+100226,Giant's Garden,
+100227,Giant's Garden,
+100301,Hesperia,
+100302,Frantia Gate,
+100303,Rappie Training Ground,
+100311,Pulsing Ridge,
+100312,Pulsing Ridge,
+100313,Pulsing Ridge,
+100314,Pulsing Ridge,
+100315,Pulsing Ridge,
+100316,Pulsing Ridge,
+100317,Pulsing Ridge,
+100318,Pulsing Ridge,
+100319,Pulsing Ridge,
+100320,Pulsing Ridge,
+100321,Pulsing Ridge,
+100322,Pulsing Ridge,
+100323,Pulsing Ridge,
+100324,Pulsing Ridge,
+100325,Pulsing Ridge,
+100326,Pulsing Ridge,
+100327,Pulsing Ridge,
+100328,Pulsing Ridge,
+100402,Verzard Outpost,
+100403,Stragglers' Camp,
+100404,Stormkel Gate,
+100405,Naruru Hot Springs,
+100411,Starfall Plateau,
+100412,Starfall Plateau,
+100413,Starfall Plateau,
+100414,Starfall Plateau,
+100415,Starfall Plateau,
+100416,Starfall Plateau,
+100417,Starfall Plateau,
+100418,Starfall Plateau,
+100419,Starfall Plateau,
+100420,Starfall Plateau,
+100421,Starfall Plateau,
+100422,Starfall Plateau,
+100423,Starfall Plateau,
+100424,Starfall Plateau,
+100425,Starfall Plateau,
+100426,Starfall Plateau,
+100427,Starfall Plateau,
+100428,Starfall Plateau,
+110501,Hunter's Village,
+110502,Bardad Expedition Forward Waypoints,
+100511,Twisted Elysium,
+100512,Twisted Elysium,
+100513,Twisted Elysium,
+100514,Twisted Elysium,
+100515,Twisted Elysium,
+100516,Twisted Elysium,
+100517,Twisted Elysium,
+100518,Twisted Elysium,
+100519,Twisted Elysium,
+100520,Twisted Elysium,
+100521,Twisted Elysium,
+100522,Twisted Elysium,
+100523,Twisted Elysium,
+100524,Twisted Elysium,
+100525,Twisted Elysium,
+100526,Twisted Elysium,
+100527,Twisted Elysium,
+100528,Twisted Elysium,
+100529,Twisted Elysium,
+100530,Twisted Elysium,
+100531,Twisted Elysium,
+100532,Twisted Elysium,
+100533,Twisted Elysium,
+100534,Twisted Elysium,
+100535,Twisted Elysium,
+200101,Teste de salto {Param},1-1
+200102,Trial of Flight {Param},1-1
+200103,Teste de Sabedoria {Param},1-1
+200104,Prova de Combate {Param},1-1
+200105,Teste de salto {Param},1-2
+200106,Trial of Flight {Param},1-2
+200107,Teste de Sabedoria {Param},1-2
+200108,Prova de Combate {Param},1-2
+200109,Teste de salto {Param},2-1
+200110,Trial of Flight {Param},2-1
+200111,Teste de Sabedoria {Param},2-1
+200112,Prova de Combate {Param},2-1
+200113,Trial of Flight {Param},2-2
+200114,Teste de Sabedoria {Param},2-2
+200115,Prova de Combate {Param},2-2
+200201,Teste de salto {Param},1-3
+200202,Trial of Flight {Param},1-3
+200203,Teste de Sabedoria {Param},1-3
+200204,Prova de Combate {Param},1-3
+200205,Teste de salto {Param},1-4
+200206,Trial of Flight {Param},1-4
+200207,Teste de Sabedoria {Param},1-4
+200208,Prova de Combate {Param},1-4
+200209,Teste de salto {Param},2-2
+200210,Trial of Flight {Param},2-3
+200211,Teste de Sabedoria {Param},2-3
+200212,Prova de Combate {Param},2-3
+200213,Trial of Flight {Param},2-4
+200214,Teste de Sabedoria {Param},2-4
+200215,Prova de Combate {Param},2-4
+200301,Teste de salto {Param},1-5
+200302,Trial of Flight {Param},1-5
+200303,Teste de Sabedoria {Param},1-5
+200304,Prova de Combate {Param},1-5
+200305,Teste de salto {Param},1-6
+200306,Trial of Flight {Param},1-6
+200307,Teste de Sabedoria {Param},1-6
+200308,Prova de Combate {Param},1-6
+200309,Teste de salto {Param},2-3
+200310,Trial of Flight {Param},2-5
+200311,Teste de Sabedoria {Param},2-5
+200312,Prova de Combate {Param},2-5
+200313,Trial of Flight {Param},2-6
+200314,Teste de Sabedoria {Param},2-6
+200315,Prova de Combate {Param},2-6
+200401,Teste de salto {Param},1-7
+200402,Trial of Flight {Param},1-7
+200403,Teste de Sabedoria {Param},1-7
+200404,Prova de Combate {Param},1-7
+200405,Teste de salto {Param},1-8
+200406,Trial of Flight {Param},1-8
+200407,Teste de Sabedoria {Param},1-8
+200408,Prova de Combate {Param},1-8
+200409,Teste de salto {Param},2-4
+200410,Trial of Flight {Param},2-7
+200411,Teste de Sabedoria {Param},2-7
+200412,Prova de Combate {Param},2-7
+200413,Trial of Flight {Param},2-8
+200414,Teste de Sabedoria {Param},2-8
+200415,Prova de Combate {Param},2-8
+200501,Teste de salto {Param},3-1
+200502,Trial of Flight {Param},3-1
+200503,Teste de Sabedoria {Param},3-1
+200504,Prova de Combate {Param},3-1
+200505,Teste de salto {Param},3-2
+200506,Trial of Flight {Param},3-2
+200507,Teste de Sabedoria {Param},3-2
+200508,Prova de Combate {Param},3-2
+4001001,Giant's Tower - Lobby,
+4002001,Giant's Tower - Lobby,
+4003001,Giant's Tower - Lobby,
+4004001,Giant's Tower - Lobby,
+3001001,Giant's Tower {Param},Floor 1
+3001002,Giant's Tower {Param},Floor 1
+3001003,Giant's Tower {Param},Floor 1
+3002001,Giant's Tower {Param},Floor 2
+3002002,Giant's Tower {Param},Floor 2
+3002003,Giant's Tower {Param},Floor 2
+3003001,Giant's Tower {Param},Floor 3
+3003002,Giant's Tower {Param},Floor 3
+3003003,Giant's Tower {Param},Floor 3
+3004001,Giant's Tower {Param},Floor 4
+3004002,Giant's Tower {Param},Floor 4
+3004003,Giant's Tower {Param},Floor 4
+1151,Arbiter’s Ordeal - {Param},Traje
+1152,Arbiter’s Ordeal - {Param},Skill
+1153,Arbiter’s Ordeal - {Param},Cartão
+1154,Arbiter’s Ordeal - {Param},Ouro
+81101001,Angbar Arena {Param},I
+81102001,Angbar Arena {Param},II
+81103001,Angbar Arena {Param},III
+81104001,Angbar Arena {Param},Ⅳ
+2010111,Trial Gates,
+2010211,Trial Gates,
+2010311,Trial Gates,
+2010411,Trial Gates,
+2010511,Trial Gates,
+2010611,Trial Gates,
+2010711,Trial Gates,
+2010811,Trial Gates,
+2020111,Trial Gates,
+2020121,Trial Gates,
+2020211,Trial Gates,
+2020311,Trial Gates,
+2030111,Trial Gates,
+2030211,Trial Gates,
+2040111,Expedição do Clã,
+2040121,Expedição do Clã,
+2040131,Expedição do Clã,
+2040141,Expedição do Clã,
+2130111,Trial Gates,
+2130211,Trial Gates,
+2131111,Halo Rift,
+3010011,Rift,
+3010021,Rift,
+3010031,Rift,
+3010041,Rift,
+3020011,Rift,
+3020021,Rift,
+3020031,Rift,
+3020041,Rift,
+4010011,Infinite Spire,
+4020011,Hall of Proof,
+5002001,Abyss Battlefield {Param},Floor 1
+5003001,Abyss Battlefield {Param},Floor 2
+5010011,Courtyard of the Binder,
+5011011,Citadel of the Giant Beast,
+700101,Skywing Canyon,
+700102,Skywing Canyon,
+700103,Skywing Canyon,
+700104,Skywing Canyon,
+700105,Skywing Canyon,
+700106,Skywing Canyon,
+6001011,Barrier of Enhancement,
+6001021,Barrier of Enhancement,
+6001031,Barrier of Enhancement,
+6001041,Barrier of Enhancement,
+6001051,Barrier of Enhancement,
+6001061,Barrier of Enhancement,
+6001012,Barrier of Enhancement,
+6001022,Barrier of Enhancement,
+6001032,Barrier of Enhancement,
+6001042,Barrier of Enhancement,
+6001052,Barrier of Enhancement,
+6001062,Barrier of Enhancement,
+6002011,Barrier of Gold,
+6002021,Barrier of Gold,
+6002031,Barrier of Gold,
+6002041,Barrier of Gold,
+6002051,Barrier of Gold,
+6002061,Barrier of Gold,
+6002012,Barrier of Gold,
+6002022,Barrier of Gold,
+6002032,Barrier of Gold,
+6002042,Barrier of Gold,
+6002052,Barrier of Gold,
+6002062,Barrier of Gold,
+7001011,Barreira do Desconhecido,
+7001021,Barreira do Desconhecido,
+7001031,Barreira do Desconhecido,
+7001041,Barreira do Desconhecido,
+7001051,Barreira do Desconhecido,
+7001061,Barreira do Desconhecido,
+7001012,Barreira do Desconhecido,
+7001022,Barreira do Desconhecido,
+7001032,Barreira do Desconhecido,
+7001042,Barreira do Desconhecido,
+7001052,Barreira do Desconhecido,
+7001062,Barreira do Desconhecido,

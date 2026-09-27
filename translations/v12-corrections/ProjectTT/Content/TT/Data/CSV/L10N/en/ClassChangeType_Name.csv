@@ -1,0 +1,15 @@
+﻿Type,Name,Tip
+0,Ativo Skill,"<Yellow>Level</> é retido na substituição.
+<Yellow>Spellstone Slot</> é retido após substituição.
+Spellstone Slot para <Yellow>Ataque padrão</> e <Yellow>Dash</> são <Yellow>retido</>."
+1,Skill passivo,Todos os <Yellow>Attack/habilidades passivas especializadas atualmente possuídos</> serão substituídos.
+2,Arma Fantasma,"Você pode substituir a Arma Fantasma de sua classe atual.
+Há um <Yellow>número máximo de tipos</> que você pode alterar."
+3,Equipamento,"Existe um <Yellow>número máximo de tipos</> que podem ser alterados.
+A melhoria <Yellow>do equipamento substituído é mantida</>.
+O <Yellow>A infusão do equipamento substituído é mantida</>.
+O equipamento é <Yellow>vinculado ao caractere</> após a substituição."
+4,Spellstone exclusivo,"Apenas <Yellow>um de cada tipo</> pode ser substituído.
+Há um <Yellow>número máximo de tipos</> que podem ser alterado e os Spellstones vinculados serão substituídos primeiro.
+Spellstones exclusivos adquiridos através do Guia <Yellow> ou da Loja do Clã</> serão <Yellow> substituídos à força por free</>.
+ Spellstones exclusivos são <Yellow> vinculados ao personagem</> após a substituição."

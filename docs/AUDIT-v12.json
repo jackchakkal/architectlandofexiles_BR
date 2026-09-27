@@ -1,0 +1,84 @@
+{
+  "summary": {
+    "missing_tables": 0,
+    "missing_ids": 0,
+    "new_ids": 0,
+    "empty_translations": 0,
+    "placeholder_mismatches": 0,
+    "item_name_mismatches": 0,
+    "bad_tower_mentions": 0,
+    "left_as_direction_candidates": 10
+  },
+  "issues": [
+    {
+      "kind": "left_may_mean_remaining",
+      "table": "ClientString_Name.csv",
+      "id": "ASSISTMODE_OFF_DESC",
+      "column": "Value",
+      "value": "Esta função está actualmente DESLIGADA. Toque no botão à esquerda para ligá-lo."
+    },
+    {
+      "kind": "left_may_mean_remaining",
+      "table": "Dialog_Name.csv",
+      "id": "701040021050",
+      "column": "Text",
+      "value": "Ah, e não vá para a direita.\r\nPorque os Thunderfall Ridges estão à esquerda."
+    },
+    {
+      "kind": "left_may_mean_remaining",
+      "table": "Dialog_Name.csv",
+      "id": "701040022040",
+      "column": "Text",
+      "value": "Ah, e não vá para a direita.\r\nPorque os Thunderfall Ridges estão à esquerda."
+    },
+    {
+      "kind": "left_may_mean_remaining",
+      "table": "Dialog_Name.csv",
+      "id": "110411010010",
+      "column": "Text",
+      "value": "Vou fazer esta parte.\r\nVocê vira à esquerda."
+    },
+    {
+      "kind": "left_may_mean_remaining",
+      "table": "Dialog_Name.csv",
+      "id": "220454030010",
+      "column": "Text",
+      "value": "Vamos nos dividir aqui.\r\nVou pela esquerda, você pela direita."
+    },
+    {
+      "kind": "left_may_mean_remaining",
+      "table": "DialogChoice_Name.csv",
+      "id": "2011200400101",
+      "column": "Text",
+      "value": "Vou pela esquerda."
+    },
+    {
+      "kind": "left_may_mean_remaining",
+      "table": "OptionInputKey_Name.csv",
+      "id": "276",
+      "column": "ViewText",
+      "value": "Alt Esquerda"
+    },
+    {
+      "kind": "left_may_mean_remaining",
+      "table": "TutorialWalkthrough_Name.csv",
+      "id": "20713",
+      "column": "Desc",
+      "value": "Existem dois tipos de Trial Gates: <Orange>o da esquerda abre quando você interage com ele</>,\r\nenquanto <Orange>o da direita abre quando você encontra um específico requisitos</>."
+    },
+    {
+      "kind": "left_may_mean_remaining",
+      "table": "TutorialWalkthrough_Name.csv",
+      "id": "207102",
+      "column": "Desc",
+      "value": "① Selecione um destino diretamente no mapa para ir até lá.\r\n② Use o menu à esquerda para navegar no mapa com facilidade."
+    },
+    {
+      "kind": "left_may_mean_remaining",
+      "table": "TutorialWalkthrough_Name.csv",
+      "id": "208403",
+      "column": "Desc",
+      "value": "Tentativa de <Orange>Ressonância</> levará ao <Orange>próxima sequência</> independentemente do resultado.\r\nA ressonância progride de <Orange>Esquerda → Direita</> e, ao chegar ao final, a próxima tentativa de ressonância começará novamente a partir do <Orange>início</>."
+    }
+  ]
+}

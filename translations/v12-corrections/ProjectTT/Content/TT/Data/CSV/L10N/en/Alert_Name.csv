@@ -1,0 +1,455 @@
+﻿Id,String,Param
+2,{Param}{jstag:} aparecerá em breve! O protetor de,Anteaters
+3,{Param}{jstag:} apareceu!,Anteaters
+4,{Param}{jstag:} está se preparando para um ataque poderoso <Red></>!,Giant Morcego
+5,{Param}{jstag:} está se preparando para um ataque poderoso <Red></>!,Titan
+6,Você derrotou monstros <Red>{Param}</>!,50
+7,Você derrotou monstros <Red>{Param}</>!,100
+8,Você derrotou monstros <Red>{Param}</>!,150
+9,Você derrotou monstros <Red>{Param}</>!,200
+10,Você derrotou monstros <Red>{Param}</>!,250
+11,Você derrotou monstros <Red>{Param}</>!,300
+12,Você derrotou monstros <Red>{Param}</>!,350
+13,<Red>{Param} minutos</> restantes na masmorra.,5
+14,<Red>{Param} minutos</> restantes na masmorra.,3
+15,<Red>{Param} minutos</> restantes na masmorra.,1
+16,Uma porta que bloqueava o caminho foi aberta.,
+200000001,Um monstro com a Bênção do Arquiteto apareceu.,
+200000002,Um monstro com a Bênção do Arquiteto apareceu.,
+200000003,Um monstro com a Bênção do Arquiteto apareceu.,
+202011001,A tocha de Atrahasis está sob ataque.,
+202011002,A tocha de Atrahasis está desmoronando.,
+202011003,A tocha de Atrahasis será destruída em breve.,
+202011004,{Param} caiu!,Frente
+202011005,{Param} caiu!,Traseira
+202011006,{Param} A invasão começará.,Primeira Aquisição
+202011007,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202011008,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202011009,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202011101,A tocha de Atrahasis está sob ataque.,
+202011102,A tocha de Atrahasis está desmoronando.,
+202011103,A tocha de Atrahasis será destruída em breve.,
+202011104,{Param} caiu!,Frente
+202011105,{Param} caiu!,Traseira
+202011106,{Param} A invasão começará.,Primeira Aquisição
+202011107,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202011108,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202011109,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202011201,A tocha de Atrahasis está sob ataque.,
+202011202,A tocha de Atrahasis está desmoronando.,
+202011203,A tocha de Atrahasis será destruída em breve.,
+202011204,{Param} caiu!,Frente
+202011205,{Param} caiu!,Traseira
+202011206,{Param} A invasão começará.,Primeira Aquisição
+202011207,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202011208,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202011209,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202021001,A tocha de Atrahasis está sob ataque.,
+202021002,A tocha de Atrahasis está desmoronando.,
+202021003,A tocha de Atrahasis será destruída em breve.,
+202021004,{Param} caiu!,Frente
+202021005,{Param} caiu!,Traseira
+202021006,{Param} A invasão começará.,Primeira Aquisição
+202021007,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202021008,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202021009,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202021101,A tocha de Atrahasis está sob ataque.,
+202021102,A tocha de Atrahasis está desmoronando.,
+202021103,A tocha de Atrahasis será destruída em breve.,
+202021104,{Param} caiu!,Frente
+202021105,{Param} caiu!,Traseira
+202021106,{Param} A invasão começará.,Primeira Aquisição
+202021107,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202021108,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202021109,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202021201,A tocha de Atrahasis está sob ataque.,
+202021202,A tocha de Atrahasis está desmoronando.,
+202021203,A tocha de Atrahasis será destruída em breve.,
+202021204,{Param} caiu!,Frente
+202021205,{Param} caiu!,Traseira
+202021206,{Param} A invasão começará.,Primeira Aquisição
+202021207,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202021208,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202021209,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202012401,A tocha de Atrahasis está sob ataque.,
+202012402,A tocha de Atrahasis está desmoronando.,
+202012403,A tocha de Atrahasis será destruída em breve.,
+202012404,{Param} caiu!,Frente
+202012405,{Param} caiu!,Traseira
+202012406,{Param} A invasão começará.,Primeira Aquisição
+202012407,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202012408,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202012409,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202011501,A tocha de Atrahasis está sob ataque.,
+202011502,A tocha de Atrahasis está desmoronando.,
+202011503,A tocha de Atrahasis será destruída em breve.,
+202011504,{Param} caiu!,Frente
+202011505,{Param} caiu!,Traseira
+202011506,{Param} A invasão começará.,Primeira Aquisição
+202011507,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202011508,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202011509,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202012601,A tocha de Atrahasis está sob ataque.,
+202012602,A tocha de Atrahasis está desmoronando.,
+202012603,A tocha de Atrahasis será destruída em breve.,
+202012604,{Param} caiu!,Frente
+202012605,{Param} caiu!,Traseira
+202012606,{Param} A invasão começará.,Primeira Aquisição
+202012607,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202012608,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202012609,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202021401,A tocha de Atrahasis está sob ataque.,
+202021402,A tocha de Atrahasis está desmoronando.,
+202021403,A tocha de Atrahasis será destruída em breve.,
+202021404,{Param} caiu!,Frente
+202021405,{Param} caiu!,Traseira
+202021406,{Param} A invasão começará.,Primeira Aquisição
+202021407,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202021408,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202021409,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202021501,A tocha de Atrahasis está sob ataque.,
+202021502,A tocha de Atrahasis está desmoronando.,
+202021503,A tocha de Atrahasis será destruída em breve.,
+202021504,{Param} caiu!,Frente
+202021505,{Param} caiu!,Traseira
+202021506,{Param} A invasão começará.,Primeira Aquisição
+202021507,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202021508,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202021509,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202021601,A tocha de Atrahasis está sob ataque.,
+202021602,A tocha de Atrahasis está desmoronando.,
+202021603,A tocha de Atrahasis será destruída em breve.,
+202021604,{Param} caiu!,Frente
+202021605,{Param} caiu!,Traseira
+202021606,{Param} A invasão começará.,Primeira Aquisição
+202021607,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202021608,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202021609,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202012001,A tocha de Atrahasis está sob ataque.,
+202012002,A tocha de Atrahasis está desmoronando.,
+202012003,A tocha de Atrahasis será destruída em breve.,
+202012004,{Param} caiu!,Frente
+202012005,{Param} caiu!,Traseira
+202012006,{Param} A invasão começará.,Primeira Aquisição
+202012007,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202012008,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202012009,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202012101,A tocha de Atrahasis está sob ataque.,
+202012102,A tocha de Atrahasis está desmoronando.,
+202012103,A tocha de Atrahasis será destruída em breve.,
+202012104,{Param} caiu!,Frente
+202012105,{Param} caiu!,Traseira
+202012106,{Param} A invasão começará.,Primeira Aquisição
+202012107,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202012108,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202012109,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202012201,A tocha de Atrahasis está sob ataque.,
+202012202,A tocha de Atrahasis está desmoronando.,
+202012203,A tocha de Atrahasis será destruída em breve.,
+202012204,{Param} caiu!,Frente
+202012205,{Param} caiu!,Traseira
+202012206,{Param} A invasão começará.,Primeira Aquisição
+202012207,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202012208,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202012209,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202022001,A tocha de Atrahasis está sob ataque.,
+202022002,A tocha de Atrahasis está desmoronando.,
+202022003,A tocha de Atrahasis será destruída em breve.,
+202022004,{Param} caiu!,Frente
+202022005,{Param} caiu!,Traseira
+202022006,{Param} A invasão começará.,Primeira Aquisição
+202022007,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202022008,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202022009,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202022101,A tocha de Atrahasis está sob ataque.,
+202022102,A tocha de Atrahasis está desmoronando.,
+202022103,A tocha de Atrahasis será destruída em breve.,
+202022104,{Param} caiu!,Frente
+202022105,{Param} caiu!,Traseira
+202022106,{Param} A invasão começará.,Primeira Aquisição
+202022107,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202022108,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202022109,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202022201,A tocha de Atrahasis está sob ataque.,
+202022202,A tocha de Atrahasis está desmoronando.,
+202022203,A tocha de Atrahasis será destruída em breve.,
+202022204,{Param} caiu!,Frente
+202022205,{Param} caiu!,Traseira
+202022206,{Param} A invasão começará.,Primeira Aquisição
+202022207,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202022208,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202022209,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202013401,A tocha de Atrahasis está sob ataque.,
+202013402,A tocha de Atrahasis está desmoronando.,
+202013403,A tocha de Atrahasis será destruída em breve.,
+202013404,{Param} caiu!,Frente
+202013405,{Param} caiu!,Traseira
+202013406,{Param} A invasão começará.,Primeira Aquisição
+202013407,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202013408,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202013409,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202012501,A tocha de Atrahasis está sob ataque.,
+202012502,A tocha de Atrahasis está desmoronando.,
+202012503,A tocha de Atrahasis será destruída em breve.,
+202012504,{Param} caiu!,Frente
+202012505,{Param} caiu!,Traseira
+202012506,{Param} A invasão começará.,Primeira Aquisição
+202012507,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202012508,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202012509,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202013601,A tocha de Atrahasis está sob ataque.,
+202013602,A tocha de Atrahasis está desmoronando.,
+202013603,A tocha de Atrahasis será destruída em breve.,
+202013604,{Param} caiu!,Frente
+202013605,{Param} caiu!,Traseira
+202013606,{Param} A invasão começará.,Primeira Aquisição
+202013607,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202013608,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202013609,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202022401,A tocha de Atrahasis está sob ataque.,
+202022402,A tocha de Atrahasis está desmoronando.,
+202022403,A tocha de Atrahasis será destruída em breve.,
+202022404,{Param} caiu!,Frente
+202022405,{Param} caiu!,Traseira
+202022406,{Param} A invasão começará.,Primeira Aquisição
+202022407,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202022408,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202022409,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202022501,A tocha de Atrahasis está sob ataque.,
+202022502,A tocha de Atrahasis está desmoronando.,
+202022503,A tocha de Atrahasis será destruída em breve.,
+202022504,{Param} caiu!,Frente
+202022505,{Param} caiu!,Traseira
+202022506,{Param} A invasão começará.,Primeira Aquisição
+202022507,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202022508,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202022509,{Param} A invasão começará. Pare os monstros poderosos.,Final
+202022601,A tocha de Atrahasis está sob ataque.,
+202022602,A tocha de Atrahasis está desmoronando.,
+202022603,A tocha de Atrahasis será destruída em breve.,
+202022604,{Param} caiu!,Frente
+202022605,{Param} caiu!,Traseira
+202022606,{Param} A invasão começará.,Primeira Aquisição
+202022607,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+202022608,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+202022609,{Param} A invasão começará. Pare os monstros poderosos.,Final
+3101,Guardian apareceu.,
+3102,Uma presença poderosa pode ser sentida nas profundezas da masmorra!,
+3103,Guardian apareceu.,
+3104,Uma presença poderosa pode ser sentida nas profundezas da masmorra!,
+3105,Guardian apareceu.,
+3106,Uma presença poderosa pode ser sentida nas profundezas da masmorra!,
+3107,Guardian apareceu.,
+3108,Uma presença poderosa pode ser sentida nas profundezas da masmorra!,
+3201,Mahashucud invocou um monstro.,
+3202,Mahashucud está furioso!,
+3203,Mahashucud invocou um monstro.,
+3204,Mahashucud está furioso!,
+3205,Mahashucud invocou um monstro.,
+3206,Mahashucud está furioso!,
+3207,Mahashucud invocou um monstro.,
+3208,Mahashucud está furioso!,
+3301,Guardian apareceu.,
+3302,Uma presença poderosa pode ser sentida nas profundezas da masmorra!,
+3303,Guardian apareceu.,
+3304,Uma presença poderosa pode ser sentida nas profundezas da masmorra!,
+3305,Guardian apareceu.,
+3306,Uma presença poderosa pode ser sentida nas profundezas da masmorra!,
+3307,Guardian apareceu.,
+3308,Uma presença poderosa pode ser sentida nas profundezas da masmorra!,
+3310,Tarsaq absorve nutrientes! <Red>Fique longe até terminar!</>,
+3311,Tarsaq absorve o poder da semente e fica mais forte!,
+3312,Você pode remover a Semente de Madeira <Red></> com a Chama Ardente.,
+3313,Você pode remover a Semente de Madeira <Red></> com a Chama Ardente.,
+3314,Você pode remover a Semente de Madeira <Red></> com a Chama Ardente.,
+3315,Você pode remover a Semente de Madeira <Red></> com a Chama Ardente.,
+4101,Guardian apareceu.,
+4102,Uma presença poderosa pode ser sentida nas profundezas da masmorra!,
+4103,Guardian apareceu.,
+4104,Uma presença poderosa pode ser sentida nas profundezas da masmorra!,
+4105,Guardian apareceu.,
+4106,Uma presença poderosa pode ser sentida nas profundezas da masmorra!,
+3010,<Blue>[CharacterName]</> defendeu o ataque de [MonsterName]!,
+3011,<Red>[CharacterName]</> defendeu o ataque de {Param}!,Guildraku
+3012,<Red>[CharacterName]</> defendeu o ataque de {Param}!,Guildraku
+3013,<Red>[CharacterName]</> defendeu o ataque de {Param}!,Guildraku
+3400002,Kubaba nomeou <Red>[CharacterName]</>.,
+3400003,Kubaba nomeou <Red>[CharacterName]</>.,
+3400004,Kubaba nomeou <Red>[CharacterName]</>.,
+3400005,Kubaba nomeou <Red>[CharacterName]</>.,
+3400009,Kubaba nomeou <Red>[CharacterName]</>.,
+3400006,{Param}{jstag:} enlouquece depois de não conseguir bloquear o ataque de Kubaba.,Kubaba
+3400007,{Param}{jstag:} enlouquece depois de não conseguir bloquear o ataque de Kubaba.,Kubaba
+3400008,{Param}{jstag:} enlouquece depois de não conseguir bloquear o ataque de Kubaba.,Kubaba Tripulação
+3400010,{Param}{jstag:} enlouquece depois de não conseguir bloquear o ataque de Kubaba.,Kubaba Tripulação
+3400011,Kubaba nomeou <Red>[CharacterName]</>.,
+3400012,Kubaba nomeou <Red>[CharacterName]</>.,
+3400013,Kubaba nomeou <Red>[CharacterName]</>.,
+3400014,{Param}{jstag:} enlouquece depois de não conseguir bloquear o ataque de Kubaba.,Kubaba
+3400015,{Param}{jstag:} enlouquece depois de não conseguir bloquear o ataque de Kubaba.,Kubaba Tripulação
+204011101,A tocha de Atrahasis está sob ataque.,
+204011102,A tocha de Atrahasis está desmoronando.,
+204011103,A tocha de Atrahasis será destruída em breve.,
+204011106,{Param} A invasão começará.,Primeira Aquisição
+204011107,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+204011108,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+204011109,{Param} A invasão começará. Pare os monstros poderosos.,Final
+204011110,Kakaju ataca a tocha.,
+204012101,A tocha de Atrahasis está sob ataque.,
+204012102,A tocha de Atrahasis está desmoronando.,
+204012103,A tocha de Atrahasis será destruída em breve.,
+204012106,{Param} A invasão começará.,Primeira Aquisição
+204012107,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+204012108,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+204012109,{Param} A invasão começará. Pare os monstros poderosos.,Final
+204012110,Kakaju ataca a tocha.,
+204013101,A tocha de Atrahasis está sob ataque.,
+204013102,A tocha de Atrahasis está desmoronando.,
+204013103,A tocha de Atrahasis será destruída em breve.,
+204013106,{Param} A invasão começará.,Primeira Aquisição
+204013107,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Segundo
+204013108,{Param} A invasão começará. Cuidado com os monstros que vão atrás da tocha.,Terceiro
+204013109,{Param} A invasão começará. Pare os monstros poderosos.,Final
+204013110,Kakaju ataca a tocha.,
+100001,Líder dos Lobos das Sombras se prepara para o <Red>Ataque Final</>!,
+3200216,Pare Zeroth antes que ele lance <Red>Ataques poderosos</>!,
+3200221,Vamos terminar aqui,
+3200223,Contra-atacou <Red>Poderoso de Zeroth Ataque</>!,
+200001,Preparando-se para um ataque poderoso.,
+3001304,Salte para evitar a corrente elétrica no chão.,
+3001003,Desvie o olhar de {Param}.,Aluk
+3001004,Desvie o olhar de {Param}.,Udugal
+3001705,{Param} dispara uma rajada de vento que <Red> rastreia o alvo principal</>!,Shagan
+3001706,{Param} dispara uma rajada de vento que <Red> rastreia o alvo principal</>!,Shagan
+3001707,{Param} dispara uma rajada de vento que <Red> rastreia o alvo principal</>!,Shagan
+3001708,{Param} dispara uma rajada de vento que <Red> rastreia o alvo principal</>!,Shagan
+3100108,Shahgal está criando vinhas!,
+3100212,Agarash está preparando um ataque letal!,
+3100213,Use a atualização para escapar dos ataques poderosos de Agarash!,
+3100214,Agarash destrói tudo.,
+3100215,Agarash está preparando um ataque letal!,
+3100216,Use a atualização para escapar dos ataques poderosos de Agarash!,
+3100217,Agarash destrói tudo.,
+3100309,{Param} cria <Red>pilares de gelo</> liberando uma rajada de ar gelado!,Dariente
+3100310,{Param} libera uma explosão de <Red>ar congelante</>!,Dariente
+3100311,{Param} detonará os cristais de gelo <Red></> em breve!,Dariente
+3400141,Você ouve o som de ondas vindo de algum lugar.,
+3000908,{Param}{jstag:} se sente entusiasmado após derrotar inimigos.,Urukkur
+3000909,{Param}{jstag:} se torna mais poderoso após mortes consecutivas.,Urukkur
+3000910,{Param}{jstag:} enlouquece depois de tirar sangue.,Urukkur
+3000911,{Param}{jstag:} se sente entusiasmado após derrotar inimigos.,Kiri
+3000912,{Param}{jstag:} se torna mais poderoso após mortes consecutivas.,Kiri
+3000913,{Param}{jstag:} enlouquece depois de tirar sangue.,Kiri
+3500510,<Red>Salte</> para escapar da onda de choque do Razorwing Bat!,
+3200706,Desvie os olhos de Logos!,
+3200304,O Prophet ganha proteção enquanto permanece no reino sagrado.,
+3201106,Rena lança Blessing e bloqueia o ataque.,
+3001809,<Red>Jump</> para escapar da onda de choque no solo,
+3300207,<Yellow>Qualquer pessoa que olhar para</> Drugamu ficará <Yellow> atordoado</>.,
+3300208,<Orange>Qualquer pessoa que não olhar para</> Drugamu será engolida por <Orange>medo</>.,
+3002006,{Param} caça o sangue do <Blue>Warrior</>! {jstag:},Damuradid
+3002007,{Param} caça o sangue de <Blue>Mage</>! {jstag:},Damuradid
+3002008,{Param} caça o sangue do <Blue>Battle Priest</>! {jstag:},Damuradid
+3002009,{Param} caça o sangue de <Blue>Assassin</>! {jstag:},Damuradid
+3002010,{Param} caça o sangue do <Blue>Hunter</>! {jstag:},Damuradid
+3002021,{Param} caça o sangue do <Blue>Warrior</>! {jstag:},Damuradid
+3002022,{Param} caça o sangue de <Blue>Mage</>! {jstag:},Damuradid
+3002023,{Param} caça o sangue do <Blue>Battle Priest</>! {jstag:},Damuradid
+3002024,{Param} caça o sangue de <Blue>Assassin</>! {jstag:},Damuradid
+3002025,{Param} caça o sangue do <Blue>Hunter</>! {jstag:},Damuradid
+5010041,Kubaba nomeou <Red>[CharacterName]</>.,
+40200101,"O membro do clã <Blue>[CharacterName]</> absorveu Aura, reduzindo o tempo de espera para todos os membros do clã.",
+40200102,"O membro do clã <Blue>[CharacterName]</> absorveu Aura, aumentando a velocidade de movimento para todos os membros do clã.",
+40200103,"O membro do clã <Blue>[CharacterName]</> absorveu Aura, aumentando a precisão contra chefes para todos os membros do clã.",
+40200104,"O membro do clã <Blue>[CharacterName]</> absorveu Aura, aumentando o dano contra chefes para todos os membros do clã.",
+40200105,"O membro do clã <Blue>[CharacterName]</> absorveu Aura, reduzindo o dano recebido dos chefes para todos os membros do clã.",
+40200201,A energia selada se libertou.,
+40200202,A energia selada se libertou.,
+40200203,A energia selada se libertou.,
+40200204,A energia selada se libertou.,
+40200205,A energia selada se libertou.,
+3600007,Cagaltus lança um sopro poderoso em <Red>[CharacterName]</>!,
+3600009,Você está surpreso com o rugido avassalador de Cagaltus!,
+3600010,Cagaltus irrompe no solo explodindo energia do éter!,
+3600012,<Blue>[CharacterName]</> absorve a energia do éter e se torna poderoso.,
+3600013,"Membro do partido, <Blue>[CharacterName]</>, absorve energia do éter e se torna poderoso.",
+3600040,O fragmento de Cagaltus está emergindo do solo!,
+4500001,"Agora, é um jogo <Red> perfeito</>!",Beast Giant
+4500002,"Agora, é um jogo <Red> perfeito</>!",Beast Giant
+4500003,"Agora, é um jogo <Red> perfeito</>!",Beast Giant
+4500004,Fim do jogo!,Beast Giant
+4500005,Fim do jogo!,Beast Giant
+4500006,Fim do jogo!,Beast Giant
+4500007,Raaaaaargh!!,Beast Giant
+4500101,"Agora, é um jogo <Red> perfeito</>!",Beast Giant
+4500102,"Agora, é um jogo <Red> perfeito</>!",Beast Giant
+4500103,"Agora, é um jogo <Red> perfeito</>!",Beast Giant
+4500104,Fim do jogo!,Beast Giant
+4500105,Fim do jogo!,Beast Giant
+4500106,Fim do jogo!,Beast Giant
+4500107,Raaaaaargh!!,Beast Giant
+4500201,"Agora, é um jogo <Red> perfeito</>!",Beast Giant
+4500202,"Agora, é um jogo <Red> perfeito</>!",Beast Giant
+4500203,"Agora, é um jogo <Red> perfeito</>!",Beast Giant
+4500204,Fim do jogo!,Beast Giant
+4500205,Fim do jogo!,Beast Giant
+4500206,Fim do jogo!,Beast Giant
+4500207,Raaaaaargh!!,Beast Giant
+4500301,"Agora, é um jogo <Red> perfeito</>!",Beast Giant
+4500302,"Agora, é um jogo <Red> perfeito</>!",Beast Giant
+4500303,"Agora, é um jogo <Red> perfeito</>!",Beast Giant
+4500304,Fim do jogo!,Beast Giant
+4500305,Fim do jogo!,Beast Giant
+4500306,Fim do jogo!,Beast Giant
+4500307,Raaaaaargh!!,Beast Giant
+4501001,"Venham, mortais!",Averus
+4501002,"Venham, mortais!",Averus
+4501003,"Venham, mortais!",Averus
+4501004,"Venham, mortais!",Averus
+4501005,O poder da dimensão é infinito!,Averus
+4501006,O poder da dimensão é infinito!,Averus
+4501007,O poder da dimensão é infinito!,Averus
+4501008,O poder da dimensão é infinito!,Averus
+4501009,Testemunhe a ira da dimensão!,Averus
+4501010,Testemunhe a ira da dimensão!,Averus
+4501011,Testemunhe a ira da dimensão!,Averus
+4501012,Testemunhe a ira da dimensão!,Averus
+4501013,Enfrente sua desgraça!,Averus
+4501014,Enfrente sua desgraça!,Averus
+4501015,Enfrente sua desgraça!,Averus
+4501016,Enfrente sua desgraça!,Averus
+4501017,Averus lança Tempestade Dimensional! Você pode fugir <Red> saltando</>!,
+4501018,Averus lança Tempestade Dimensional! Você pode fugir <Red> saltando</>!,
+4501019,Averus lança Tempestade Dimensional! Você pode fugir <Red> saltando</>!,
+4501020,Averus lança Tempestade Dimensional! Você pode fugir <Red> saltando</>!,
+4501021,Averus lança Tempestade Dimensional! Você pode fugir <Red> saltando</>!,
+4501022,Averus lança Tempestade Dimensional! Você pode fugir <Red> saltando</>!,
+4501023,Averus lança Tempestade Dimensional! Você pode fugir <Red> saltando</>!,
+4501024,Averus lança Tempestade Dimensional! Você pode fugir <Red> saltando</>!,
+4501025,Averus lança Tempestade Dimensional! Você pode fugir <Red> saltando</>!,
+4501026,Averus lança Tempestade Dimensional! Você pode fugir <Red> saltando</>!,
+4501027,Averus lança Tempestade Dimensional! Você pode fugir <Red> saltando</>!,
+4501028,Averus lança Tempestade Dimensional! Você pode fugir <Red> saltando</>!,
+4501029,Curve-se diante do poder da dimensão!,Averus
+4501030,Curve-se diante do poder da dimensão!,Averus
+4501031,Curve-se diante do poder da dimensão!,Averus
+4501032,Curve-se diante do poder da dimensão!,Averus
+4501033,Os projéteis de Averus diminuem a velocidade após passarem pela <Red>Dimensão de desaceleração</>!,
+4501034,Os projéteis de Averus diminuem a velocidade após passarem pela <Red>Dimensão de desaceleração</>!,
+4501035,Os projéteis de Averus diminuem a velocidade após passarem pela <Red>Dimensão de desaceleração</>!,
+4501036,Os projéteis de Averus diminuem a velocidade após passarem pela <Red>Dimensão de desaceleração</>!,
+4501037,Os projéteis de Averus aceleram após passar pela <Blue>Dimensão de Aceleração</>!,
+4501038,Os projéteis de Averus aceleram após passar pela <Blue>Dimensão de Aceleração</>!,
+4501039,Os projéteis de Averus aceleram após passar pela <Blue>Dimensão de Aceleração</>!,
+4501040,Os projéteis de Averus aceleram após passar pela <Blue>Dimensão de Aceleração</>!,
+4501041,<Red>Dimensão de Desaceleração</> e <Blue>Dimensão de aceleração</> surgiram simultaneamente!,
+4501042,<Red>Dimensão de Desaceleração</> e <Blue>Dimensão de aceleração</> surgiram simultaneamente!,
+4501043,<Red>Dimensão de Desaceleração</> e <Blue>Dimensão de aceleração</> surgiram simultaneamente!,
+4501044,<Red>Dimensão de Desaceleração</> e <Blue>Dimensão de aceleração</> surgiram simultaneamente!,
+3201400,<Red>Vaster</> está furioso!,
+3201401,<Red>Vaster</> está furioso!,
+3201402,<Red>Vaster</> está furioso!,
+3201403,<Red>Vaster</> está furioso!,
+3300320,{Param}{jstag:} lança <Red>Carga Arcana</>!,Arcanon
+3300330,{Param}{jstag:} lança <Red>Algemas de Arcana</>!,Arcanon
+3300334,{Param}{jstag:} lança <Red>Algemas de Arcana</>!,Arcanon

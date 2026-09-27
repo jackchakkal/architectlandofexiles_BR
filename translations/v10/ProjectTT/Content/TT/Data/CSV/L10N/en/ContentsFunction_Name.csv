@@ -1,0 +1,200 @@
+﻿Id,Desc,Param
+1001001,Tempo de reprodução off-line +[Value] hora(s),
+1001002,Clã {Param} Doação +[Value] tempo(s),Ouro
+1001004,{Param} +[Value]%,Velocidade de Natação
+1001005,{Param} +[Value]%,Velocidade de movimento
+1001006,{Param} +[Value]%,Resistência Máxima
+1001007,{Param} +[Value]%,Velocidade de montagem
+1001008,{Param} +[Value]%,Velocidade de Ataque
+1001009,Afinidade adicional {Param} [Value] adquirida,Guilda de Comerciantes
+1001010,Afinidade adicional {Param} [Value] adquirida,Guilda dos Ferreiros
+1001011,Afinidade adicional {Param} [Value] adquirida,Artisans Guild
+1001012,Afinidade adicional {Param} [Value] adquirida,Guilda dos Avaliadores
+1001013,Afinidade adicional {Param} [Value] adquirida,Hunters Guild
+1001014,Afinidade adicional {Param} [Value] adquirida,Guilda dos Exploradores
+1001015,Afinidade adicional {Param} [Value] adquirida,Wayfinders Guild
+1002001,Tempo de reprodução off-line +[Value] hora(s),
+1002002,Clã {Param} Doação +[Value] tempo(s),Ouro
+1002003,Clã {Param} Doação +[Value] tempo(s),Diamante
+1002004,Velocidade de Natação +[Value]%,
+1002005,Velocidade de movimento +[Value]%,
+1002006,Vigor máximo +[Value],
+1002007,Velocidade de movimento da montagem +[Value]%,
+1002008,Velocidade de ataque +[Value]%,
+1002009,Afinidade adicional {Param} [Value] adquirida,Guilda de Comerciantes
+1002010,Afinidade adicional {Param} [Value] adquirida,Guilda dos Ferreiros
+1002011,Afinidade adicional {Param} [Value] adquirida,Artisans Guild
+1002012,Afinidade adicional {Param} [Value] adquirida,Guilda dos Avaliadores
+1002013,Afinidade adicional {Param} [Value] adquirida,Hunters Guild
+1002014,Afinidade adicional {Param} [Value] adquirida,Guilda dos Exploradores
+1002015,Afinidade adicional {Param} [Value] adquirida,Wayfinders Guild
+10101,{Param}{jstag:} do personagem aumenta em [Value]%.,Velocidade de Movimento Básica
+10201,{Param}{jstag:} é adicionado para [Value] hora(s).,Tempo de reprodução off-line
+10301,Adiciona tentativa(s) de doação do clã [Value] {Param}.,Ouro
+10401,Adiciona slot(s) [Value] {Param}.,Inventário Padrão
+10501,Adiciona slot(s) [Value] {Param}.,Inventário Powerstone
+10601,Adiciona slot(s) [Value] {Param}.,Stash
+10701,Aumenta a capacidade da poção em[Value].,
+10801,{Param} está disponível na guia Atualização da Loja.,Baú de Fantasia de Invocação Avançada
+10802,{Param} está disponível na guia Atualização da Loja.,Baú de Arma Fantasma de Invocação Avançada
+10803,{Param} está disponível na guia Atualização da Loja.,Pedra de Aprimoramento Baú
+10804,{Param} está disponível na guia Atualização da Loja.,Baú de seleção de pedras de aprimoramento
+10901,Adiciona tentativa(s) de modo de manutenção [Value].,
+11001,Reduz os custos de compra da loja geral em [Value]%.,
+11101,Aumenta a contagem de mortes de monstros em [Value] após {Param}.,Comissão diária
+11201,Aumenta a contagem de mortes de monstros em [Value] após {Param}.,Comissão Semanal
+11301,Ativa o recurso Arbiter’s Ordeal Multi-Clear.,
+11401,Receber [Value] Token(s) de provação do árbitro via Inbox diariamente.,
+11501,Ativa o recurso de desmontagem automática de equipamento.,
+11601,{Param}{jstag:} é adicionado(s) tempo(s) [Value].,Tentativas de recuperação de pena de morte gratuita
+11701,{Param}{jstag:} é adicionado(s) tempo(s) [Value].,Cura Gratuita do Curador
+11801,Receba recompensas de afinidade [Value]x em {Param}.,Comissão diária
+11802,Receba recompensas de afinidade [Value]x em {Param}.,Comissão diária
+11803,Receba recompensas de afinidade [Value]x em {Param}.,Comissão diária
+11804,Receba recompensas de afinidade [Value]x em {Param}.,Comissão diária
+11805,Receba recompensas de afinidade [Value]x em {Param}.,Comissão diária
+11806,Receba recompensas de afinidade [Value]x em {Param}.,Comissão diária
+11807,Receba recompensas de afinidade [Value]x em {Param}.,Comissão diária
+11901,{Param}{jstag:} é adicionado(s) tempo(s) [Value].,Marketplace Capacidade de listagem
+11815,Receba recompensas de afinidade [Value]x em {Param}.,Comissão Semanal
+11816,Receba recompensas de afinidade [Value]x em {Param}.,Comissão Semanal
+11817,Receba recompensas de afinidade [Value]x em {Param}.,Comissão Semanal
+11818,Receba recompensas de afinidade [Value]x em {Param}.,Comissão Semanal
+11819,Receba recompensas de afinidade [Value]x em {Param}.,Comissão Semanal
+11820,Receba recompensas de afinidade [Value]x em {Param}.,Comissão Semanal
+11821,Receba recompensas de afinidade [Value]x em {Param}.,Comissão Semanal
+1000001,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Todos os reinos
+1000101,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000102,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000103,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000104,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000105,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000106,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000107,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000108,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000109,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000110,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000111,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000112,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000113,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000114,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000115,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000116,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000117,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000118,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000201,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Todos os reinos
+1000301,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Scything Barrens
+1000302,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Scything Barrens
+1000303,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Scything Barrens
+1000304,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Scything Barrens
+1000305,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Scything Barrens
+1000306,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Scything Barrens
+1000307,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Scything Barrens
+1000308,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Scything Barrens
+1000309,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Scything Barrens
+1000310,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Scything Barrens
+1000311,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Scything Barrens
+1000312,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Scything Barrens
+1000313,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Scything Barrens
+1000314,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Scything Barrens
+1000315,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Scything Barrens
+1000316,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Scything Barrens
+1000317,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Scything Barrens
+1000318,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Scything Barrens
+1000319,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Scything Barrens
+1000320,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Scything Barrens
+1000321,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Scything Barrens
+1000401,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Garden
+1000501,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Garden
+1000502,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Garden
+1000503,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Garden
+1000504,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Garden
+1000505,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Garden
+1000506,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Garden
+1000507,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Garden
+1000508,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Garden
+1000509,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Garden
+1000601,Adquira [Value]x {Param}{jstag:} mediante doação do clã.,Recompensa de Doação de Clã
+1000701,Adquira [Value]x {Param}{jstag:} mediante doação do clã.,Recompensa de Doação de Personagem
+1000801,Giant Duração do evento Tower Hot Time +[Value] hora(s).,
+1000902,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000903,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000904,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000905,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000906,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000907,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000908,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000909,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000910,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000911,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000912,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000913,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000914,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000915,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000916,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000917,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000918,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000919,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000920,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000921,Aumenta todas as taxas de queda de itens de mortes de monstros em {Param} em [Value]%.,Pulsing Ridge
+1000922,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000923,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000924,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000925,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000926,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000927,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000928,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000929,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000930,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000931,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000932,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000933,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000934,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000935,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000936,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000937,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000938,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000939,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000940,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000941,Aumenta o ganho de ouro de mortes de monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000942,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000943,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000944,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000945,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000946,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000947,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000948,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000949,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000950,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000951,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000952,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000953,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000954,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000955,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000956,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000957,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000958,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000959,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000960,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
+1000961,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
+1100101,{Param}{jstag:} é adicionado para [Value] hora(s).,Tempo de reprodução off-line
+9000101,Tempo quente da Giant's Tower [Value]x,
+9000102,Aumenta o ganho de EXP de mortes de monstros em {Param} em [Value]%.,Abandoned Land
+9000201,Tempo quente da Giant's Tower [Value]x,
+20101,{Param}{jstag:} do personagem aumenta em [Value]%.,Velocidade de Ataque
+20201,O ganho do Cristal Negro aumenta em [Value]%.,
+20301,O ganho semanal do Cristal Negro aumenta em [Value]%.,
+20401,Receba diariamente pela caixa de entrada o(s) bilhete(s) de recarga de Hot Time da Giant's Tower [Value].,
+20501,A taxa de reembolso de redefinição do Crest of the Ancients aumenta em [Value]%.,
+20601,O custo de redefinição do Crista dos Antigos diminui em [Value]%.,
+20701,{Param}{jstag:} é adicionado para [Value] hora(s).,Tempo de reprodução off-line
+20801,{Param}{jstag:} é adicionado(s) tempo(s) [Value].,Marketplace Capacidade de listagem
+20901,Receba Cristal(es) de Autoridade [Value] via caixa de entrada diariamente.,
+21001,{Param} está disponível na guia Atualização da Loja.,30 Molas Mecânicas Imbuídas de Magia Fraca
+21002,{Param} está disponível na guia Atualização da Loja.,10.000 Stardust
+21101,O ouro para aumento de nível do Crista dos Antigos diminui em [Value]%.,
+21201,{Param}{jstag:} é adicionado(s) tempo(s) [Value].,Cura Gratuita do Curador
+21301,{Param}{jstag:} é adicionado(s) tempo(s) [Value].,Tentativas de recuperação de pena de morte gratuita
+21401,Adiciona tentativa(s) de doação do clã [Value] {Param}.,Ouro
+21501,Aumenta a capacidade da poção em[Value].,
+21601,Adiciona slot(s) [Value] {Param}.,Inventário Padrão

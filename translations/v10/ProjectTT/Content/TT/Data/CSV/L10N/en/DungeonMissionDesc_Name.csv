@@ -1,0 +1,19 @@
+﻿MissionType,Description
+0,Desafio bem-sucedido
+1,Sucesso em [LimitTime]s
+2,Menos de [Count] [TargetName] mortes
+3,Derrote [Count] ou mais monstros
+4,Derrote monstros [Count] dentro de [LimitTime]s
+5,Obtenha [Count] [TargetName]
+6,Limpe sem usar Subir
+7,Limpar sem usar Deslizar
+8,Limpar sem usar Natação
+9,Limpar sem usar Saltar
+10,Limpar sem usar [TargetName]
+11,Realizar menos de [Count] [TargetName] ações
+12,Leve menos de [Count] golpes
+13,[TargetName] [Count] ou mais vezes o HP de
+14,Derrote monstros [Count] em uma fileira
+15,Use [TargetName] menos de [Count] vezes
+16,Limpe com [HpPercent]% ou mais HP restante
+17,[TargetName]: [HpPercent]% ou mais

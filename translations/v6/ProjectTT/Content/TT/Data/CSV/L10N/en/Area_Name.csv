@@ -1,0 +1,1302 @@
+﻿Id,PlaceName,PlaceDesc,Param
+9010401,Overflow Test Data,Overflow Test Data,
+9010402,Test Open World Sector,,
+9010403,Test Open World Hunting Grounds,,
+1,Scything Barrens,,
+2,Giant's Garden,,
+3,Pulsing Ridge,,
+4,Starfall Plateau,,
+5,Twisted Elysium,,
+101,Giant's Tower 1F,,
+102,Giant's Tower 2F,,
+103,Giant's Tower 3F,,
+104,Giant's Tower 4F,,
+151,Giant's Tower : World Guardian,,
+201,Giant's Tower 1F - Lobby,,
+202,Giant's Tower 2F - Lobby,,
+203,Giant's Tower 3F - Lobby,,
+204,Giant's Tower 4F - Lobby,,
+211,Barrier of Enhancement,,Barrier of Enhancement
+212,Barrier of Gold,,Barrier of Gold
+310,{Param}'s Domain,,Behemoth
+312,{Param}'s Domain,,Shagriga
+313,{Param}'s Domain,,Ereshianna
+314,{Param}'s Domain,,Saharnugal
+320,{Param}'s Domain,,Shahgal
+322,{Param}'s Domain,,Daidalkur
+323,{Param}'s Domain,,Saurgir
+324,{Param}'s Domain,,Galarusia
+330,{Param}'s Domain,,Agarash
+331,{Param}'s Domain,,Gigaz
+332,{Param}'s Domain,,Urukkur
+333,{Param}'s Domain,,Aluk
+334,{Param}'s Domain,,Kakazu
+335,{Param}'s Domain,,Lugaz
+340,{Param}'s Domain,,Dariente
+341,{Param}'s Domain,,Mushugal
+342,{Param}'s Domain,,Kirjur
+343,{Param}'s Domain,,Gnumar
+344,{Param}'s Domain,,Tilaga
+345,{Param}'s Domain,,Shagan
+353,{Param}'s Domain,,Damuradid
+354,{Param}'s Domain,,Nurbahar
+410,{Param}'s Domain,,Gishkal
+420,{Param}'s Domain,,Halpasiam
+421,{Param}'s Domain,,Drugamu
+440,{Param}'s Domain,,Arcanon
+502,Abyss Battlefield 1F,,
+503,Abyss Battlefield 2F,,
+1001,Babylon,,
+1002,Bardad Expedition Garrison,,
+1003,Taima Pioneer Village,,
+1004,First Step Village,,
+1005,Sunshade Encampment,,
+1006,Central Detachment Garrison,,
+1007,Magobi Encampment,,
+1008,Thundercrest,,
+1009,Gate of Lament,,
+1051,Asientet Gate,,
+1052,Road of Hardship,,
+1053,Nammu Valley,,
+1054,Temporary Shelter,,
+1055,Forsaken Ruins,,
+1056,Jade Valley,,
+1057,Giant's Corridor,,
+1058,Forsaken Encampment,,
+1110,,,
+1111,Pilgrim's Path,,
+1112,Mirage Gorge,,
+1113,Gale Ravine,,
+1114,Ancient Ruins Diggings,,
+1115,Golem's Tomb,,
+1116,Predator's Hunting Ground,,
+1117,White-Bone Expanse,,
+1118,Valley of Beasts,,
+1119,Gorge of Perdition,,
+1120,Taima Oasis,,
+1121,Crimson Shimmer Wastes,,
+1122,Whirlwind Gorge,,
+1123,Valley of Oblivion,,
+1124,Arcal’s Territory,,
+1125,Shrieking Vale,,
+1126,Whirling Barrows,,
+1127,Thunderbird's Nest,,
+1128,Red Rock Garden,,
+1129,Gate of Lament,,
+1130,Red Plains,,
+1251,Pilgrim's Path,,
+1252,Mirage Gorge,,
+1253,Gale Ravine,,
+1254,Ancient Ruins Diggings,,
+1255,Golem's Tomb,,
+1256,Predator's Hunting Ground,,
+1257,White-Bone Expanse,,
+1258,Valley of Beasts,,
+1259,Gorge of Perdition,,
+1260,Taima Oasis,,
+1261,Crimson Shimmer Wastes,,
+1262,Whirlwind Gorge,,
+1263,Valley of Oblivion,,
+1264,Arcal’s Territory,,
+1265,Shrieking Vale,,
+1266,Whirling Barrows,,
+1267,Thunderbird's Nest,,
+1268,Red Rock Garden,,
+1269,Gate of Lament,,
+1270,Red Plains,,
+2001,Aburu Village,,
+2002,Rappie Ranch,,
+2003,Sunset Brewery,,
+2004,Ancient Tree Bower,,
+2005,Cactus Nest,,
+2006,Great Arbor Domain,,
+2010,,,
+2011,Wide Riverbank,,
+2012,Sunrise Slope,,
+2013,Tenebrous Hollow,,
+2014,Brume-Veiled Meadow,,
+2015,Beast Corral,,
+2016,Kuduru's Domain,,
+2017,Garden of Twilight,,
+2018,Woodland of Elder Gods,,
+2019,Nameless Heights,,
+2020,Shadow Wolf Hideout,,
+2021,Paradise Advent Hideout,,
+2031,Forsaken Mine Entrance,,
+2032,Forsaken Mine,,
+2033,Forsaken Mine Outreaches,,
+2034,Ancient Imperial Institute Ruins,,
+2035,Hallowed Mana-Sanctum,,
+2036,The Savage Ravine,,
+2037,Forest of Bellowing Dragons,,
+2038,Wyvern’s Nest,,
+2039,Ea's Navel,,
+2040,Three-way Waterfall,,
+2042,Isle of Beasts,,
+2043,Ancient Ruins,,
+2044,Land of Omens,,
+2051,Wide Riverbank,,
+2052,Sunrise Slope,,
+2053,Tenebrous Hollow,,
+2054,Brume-Veiled Meadow,,
+2055,Beast Corral,,
+2056,Kuduru's Domain,,
+2057,Garden of Twilight,,
+2058,Woodland of Elder Gods,,
+2059,Nameless Heights,,
+2060,Forsaken Mine Entrance,,
+2061,Forsaken Mine,,
+2062,Forsaken Mine Outreaches,,
+2063,Ancient Imperial Institute Ruins,,
+2064,Hallowed Mana-Sanctum,,
+2065,The Savage Ravine,,
+2066,Forest of Bellowing Dragons,,
+2067,Wyvern’s Nest,,
+2901,Giant's Garden Ancient Ruins,,
+3001,Hesperia,,
+3002,Frantia Gate,,
+3003,Rappie Training Ground,,
+3004,Great Echo Encampment,,
+3005,Reconnaissance Outpost,,
+3006,Bardad Expedition Encampment,,
+3011,Dragon's Breath Gorge,,
+3012,Black Water Beach,,
+3013,Pulsing Ridge,,
+3014,Ancient Ruins,,
+3015,Ancient Ruins,,
+3016,,,
+3111,Halcyon-Hush Woods,,
+3112,Hesperia Farm (South),,
+3113,Hesperia Farm (North),,
+3114,Ember-Choke Grove,,
+3115,Borderlands,,
+3116,Adamant Ascent,,
+3117,War Drum Ridge,,
+3118,Ironblood Brigade Hideout,,
+3119,Hallowed Obsidian Mountain,,
+3120,Whirlwind Heights,,
+3121,Thunderfall Falls,,
+3122,Waterfall Grotto,,
+3123,Thunderfall Ridges,,
+3124,Forgotten Ridges,,
+3125,Ruins of the Forgotten Kingdom,,
+3126,Ruins Outskirts,,
+3127,Maelstrom Strand,,
+3128,Flay-Stone Reef,,
+3251,Halcyon-Hush Woods,,
+3252,Hesperia Farm (South),,
+3253,Hesperia Farm (North),,
+3254,Ember-Choke Grove,,
+3255,Borderlands,,
+3256,Adamant Ascent,,
+3257,War Drum Ridge,,
+3258,Ironblood Brigade Hideout,,
+3259,Hallowed Obsidian Mountain,,
+3260,Whirlwind Heights,,
+3261,Thunderfall Falls,,
+3262,Waterfall Grotto,,
+3263,Thunderfall Ridges,,
+3264,Forgotten Ridges,,
+3265,Ruins of the Forgotten Kingdom,,
+3266,Ruins Outskirts,,
+3267,Maelstrom Strand,,
+3268,Flay-Stone Reef,,
+3901,Pulsing Ridge Ancient Ruins,,
+4001,Verzard Outpost,,
+4002,Vagrant's Repose,,
+4003,Stormkel Gate,,
+4004,Naruru Hot Springs,,
+4005,Verzard Secret Outpost,,
+4006,Bardad Expedition Encampment,,
+4007,Crossroads Shelter,,
+4008,Obsidian Encampment,,
+4009,Alabaster Encampment,,
+4011,Hoarfrost Snowfield Entrance,,
+4012,Geyser Field,,
+4013,Black Pillar Cliffs,,
+4014,Gray Forest,,
+4015,Astrid Rebel Stronghold,,
+4016,Sere-Moss Heights,,
+4017,Serpent's Path,,
+4018,White Stag's Cradle,,
+4019,Hoarfrost Snowfield Crossroads,,
+4020,Silver Shadow Temple,,
+4021,Black Rock Plateau,,
+4022,Giant's Refuge West,,
+4023,Giant's Refuge East,,
+4024,Frozen Shore,,
+4025,Shrill-Whistle Coast,,
+4026,Blizzard's Breath Plain,,
+4027,Whispering Wind Plain,,
+4028,End of the Forsaken Land,,
+4051,Hoarfrost Snowfield Entrance,,
+4052,Geyser Field,,
+4053,Black Pillar Cliffs,,
+4054,Gray Forest,,
+4055,Astrid Rebel Stronghold,,
+4056,Sere-Moss Heights,,
+4057,Serpent's Path,,
+4058,White Stag's Cradle,,
+4059,Hoarfrost Snowfield Crossroads,,
+4060,Silver Shadow Temple,,
+4061,Black Rock Plateau,,
+4062,Giant's Refuge West,,
+4063,Giant's Refuge East,,
+4064,Frozen Shore,,
+4065,Shrill-Whistle Coast,,
+4066,Blizzard's Breath Plain,,
+4067,Whispering Wind Plain,,
+4068,End of the Forsaken Land,,
+4901,Starfall Plateau Ancient Ruins,,
+5001,Hunter's Village,,
+5002,Bardad Expedition Forward Waypoints,,
+5004,Northwind Rest Stop,,
+5005,Hunter's Border Outpost,,
+5006,Bower Shelter,,
+5007,Forest Keeper's Encampment,,
+5011,Ruins of the Tower: Depths,,
+5012,Ruins of the Tower: Depths,,
+5013,Sunken Cavern,,
+5014,Sunken Cavern,,
+5111,Dragon's Breath,,
+5112,Ascent,,
+5113,Tranquil Field,,
+5114,Low Wind,,
+5115,Demonic Beast's Mane,,
+5116,Devouring Cliff,,
+5117,Plain of Two Steps,,
+5118,Hunter's Platform,,
+5119,Dredged Shore,,
+5120,Broken Keel,,
+5121,Dragon's Maw,,
+5122,Vile Dragon's Lair,,
+5123,Three-Way Exit,,
+5124,Sunrise Shade,,
+5125,Twilight Forest,,
+5126,Red Veil Valley,,
+5127,Encampment Entrance,,
+5128,Eye of the Forest,,
+5129,Holy Water Springs,,
+5130,Explorer's Corridor,,
+5131,Bedrock Falls,,
+5132,Lake of Spirits,,
+5133,Sunlight Rapids,,
+5134,Ancient Fall Site,,
+5135,Adventurer's Recollection,,
+5211,Dragon's Breath,,
+5212,Ascent,,
+5213,Tranquil Field,,
+5214,Low Wind,,
+5215,Demonic Beast's Mane,,
+5216,Devouring Cliff,,
+5217,Plain of Two Steps,,
+5218,Hunter's Platform,,
+5219,Dredged Shore,,
+5220,Broken Keel,,
+5221,Dragon's Maw,,
+5222,Vile Dragon's Lair,,
+5223,Three-Way Exit,,
+5224,Sunrise Shade,,
+5225,Twilight Forest,,
+5226,Red Veil Valley,,
+5227,Encampment Entrance,,
+5228,Eye of the Forest,,
+5229,Holy Water Springs,,
+5230,Explorer's Corridor,,
+5231,Bedrock Falls,,
+5232,Lake of Spirits,,
+5233,Sunlight Rapids,,
+5234,Ancient Fall Site,,
+5235,Adventurer's Recollection,,
+5901,Twisted Elysium Ancient Ruins,,
+201011,Ancient Ruins,,
+201021,Deepwood Citadel,,
+201031,Forgotten Ruins,,
+201041,Abyssal Pit,,
+201051,Glacial Skyhold,,
+201071,Unclaimed Woods,,
+201081,Azure Threads,,
+202011,Desolate Citadel,,
+202012,Desolate Citadel,,
+202021,Rock Chasm Fortress,,
+202031,Ashen Crow Woods,,
+203011,,,
+203021,,,
+213011,,,
+213021,,,
+100001,Giant's Tower 1F - Lobby,,
+100002,Giant's Tower 2F - Lobby,,
+100003,Giant's Tower 3F - Lobby,,
+100004,Giant's Tower 4F - Lobby,,
+101001,The Tranquil Garth {Param},,Safe Zone
+101002,Bridge of Ordeals {Param},,Safe Zone
+101003,Banquet Hall of Silence {Param},,Safe Zone
+101101,The Tranquil Garth {Param},,Zone 1
+101102,The Tranquil Garth {Param},,Zone 2
+101103,The Tranquil Garth {Param},,Zone 3
+101104,The Tranquil Garth {Param},,Zone 4
+101105,The Tranquil Garth {Param},,Zone 5
+101106,The Tranquil Garth {Param},,Zone 6
+101201,Bridge of Ordeals {Param},,Zone 1
+101202,Bridge of Ordeals {Param},,Zone 2
+101203,Bridge of Ordeals {Param},,Zone 3
+101204,Bridge of Ordeals {Param},,Zone 4
+101205,Bridge of Ordeals {Param},,Zone 5
+101301,Banquet Hall of Silence {Param},,Zone 1
+101302,Banquet Hall of Silence {Param},,Zone 2
+101303,Banquet Hall of Silence {Param},,Zone 3
+101304,Banquet Hall of Silence {Param},,Zone 4
+101305,Banquet Hall of Silence {Param},,Zone 5
+101151,The Tranquil Garth {Param},,Zone 1
+101152,The Tranquil Garth {Param},,Zone 2
+101153,The Tranquil Garth {Param},,Zone 3
+101154,The Tranquil Garth {Param},,Zone 4
+101155,The Tranquil Garth {Param},,Zone 5
+101156,The Tranquil Garth {Param},,Zone 6
+101251,Bridge of Ordeals {Param},,Zone 1
+101252,Bridge of Ordeals {Param},,Zone 2
+101253,Bridge of Ordeals {Param},,Zone 3
+101254,Bridge of Ordeals {Param},,Zone 4
+101255,Bridge of Ordeals {Param},,Zone 5
+101351,Banquet Hall of Silence {Param},,Zone 1
+101352,Banquet Hall of Silence {Param},,Zone 2
+101353,Banquet Hall of Silence {Param},,Zone 3
+101354,Banquet Hall of Silence {Param},,Zone 4
+101355,Banquet Hall of Silence {Param},,Zone 5
+101000,,,
+1011001,Guardian's Cradle,,
+1011011,The Tranquil Garth {Param},,Zone 1
+1011012,The Tranquil Garth {Param},,Zone 1
+1011013,The Tranquil Garth {Param},,Zone 1
+1011021,The Tranquil Garth {Param},,Zone 2
+1011031,The Tranquil Garth {Param},,Zone 3
+1011041,The Tranquil Garth {Param},,Zone 4
+1011051,The Tranquil Garth {Param},,Zone 5
+1011061,The Tranquil Garth {Param},,Zone 6
+1012011,Bridge of Ordeals {Param},,Zone 1
+1012012,Bridge of Ordeals {Param},,Zone 1
+1012013,Bridge of Ordeals {Param},,Zone 1
+1012014,Bridge of Ordeals {Param},,Zone 1
+1012021,Bridge of Ordeals {Param},,Zone 2
+1012022,Bridge of Ordeals {Param},,Zone 2
+1012023,Bridge of Ordeals {Param},,Zone 2
+1012024,Bridge of Ordeals {Param},,Zone 2
+1012025,Bridge of Ordeals {Param},,Zone 2
+1012031,Bridge of Ordeals {Param},,Zone 3
+1012032,Bridge of Ordeals {Param},,Zone 3
+1012033,Bridge of Ordeals {Param},,Zone 3
+1012034,Bridge of Ordeals {Param},,Zone 3
+1012041,Bridge of Ordeals {Param},,Zone 4
+1012042,Bridge of Ordeals {Param},,Zone 4
+1012043,Bridge of Ordeals {Param},,Zone 4
+1012044,Bridge of Ordeals {Param},,Zone 4
+1012051,Bridge of Ordeals {Param},,Zone 5
+1012052,Bridge of Ordeals {Param},,Zone 5
+1012053,Bridge of Ordeals {Param},,Zone 5
+1012054,Bridge of Ordeals {Param},,Zone 5
+1013011,Banquet Hall of Silence {Param},,Zone 1
+1013021,Banquet Hall of Silence {Param},,Zone 2
+1013031,Banquet Hall of Silence {Param},,Zone 3
+1013041,Banquet Hall of Silence {Param},,Zone 4
+1013051,Banquet Hall of Silence {Param},,Zone 5
+1011101,The Tranquil Garth (Zone 1-2),,
+1011102,The Tranquil Garth (Zone 3-4),,
+1011103,The Tranquil Garth - Bridge of Ordeals,,
+1011104,Bridge of Ordeals (Zone 2),,
+1011105,Bridge of Ordeals - Banquet Hall of Silence,,
+102001,Garden of Beasts {Param},,Safe Zone
+102002,Staircase of Sighs {Param},,Safe Zone
+102003,Judgment Plaza {Param},,Safe Zone
+102101,Garden of Beasts {Param},,Zone 1
+102102,Garden of Beasts {Param},,Zone 2
+102103,Garden of Beasts {Param},,Zone 3
+102104,Garden of Beasts {Param},,Zone 4
+102105,Garden of Beasts {Param},,Zone 5
+102106,Garden of Beasts {Param},,Zone 6
+102201,Staircase of Sighs {Param},,Zone 1
+102202,Staircase of Sighs {Param},,Zone 2
+102203,Staircase of Sighs {Param},,Zone 3
+102204,Staircase of Sighs {Param},,Zone 4
+102205,Staircase of Sighs {Param},,Zone 5
+102301,Judgment Plaza {Param},,Zone 1
+102302,Judgment Plaza {Param},,Zone 2
+102303,Judgment Plaza {Param},,Zone 3
+102304,Judgment Plaza {Param},,Zone 4
+102305,Judgment Plaza {Param},,Zone 5
+102151,Garden of Beasts {Param},,Zone 1
+102152,Garden of Beasts {Param},,Zone 2
+102153,Garden of Beasts {Param},,Zone 3
+102154,Garden of Beasts {Param},,Zone 4
+102155,Garden of Beasts {Param},,Zone 5
+102156,Garden of Beasts {Param},,Zone 6
+102251,Staircase of Sighs {Param},,Zone 1
+102252,Staircase of Sighs {Param},,Zone 2
+102253,Staircase of Sighs {Param},,Zone 3
+102254,Staircase of Sighs {Param},,Zone 4
+102255,Staircase of Sighs {Param},,Zone 5
+102351,Judgment Plaza {Param},,Zone 1
+102352,Judgment Plaza {Param},,Zone 2
+102353,Judgment Plaza {Param},,Zone 3
+102354,Judgment Plaza {Param},,Zone 4
+102355,Judgment Plaza {Param},,Zone 5
+102000,,,
+1021001,Guardian's Cradle,,
+1021011,Garden of Beasts {Param},,Zone 1
+1021021,Garden of Beasts {Param},,Zone 2
+1021031,Garden of Beasts {Param},,Zone 3
+1021041,Garden of Beasts {Param},,Zone 4
+1021051,Garden of Beasts {Param},,Zone 5
+1021061,Garden of Beasts {Param},,Zone 6
+1022011,Staircase of Sighs {Param},,Zone 1
+1022012,Staircase of Sighs {Param},,Zone 1
+1022021,Staircase of Sighs {Param},,Zone 2
+1022031,Staircase of Sighs {Param},,Zone 3
+1022041,Staircase of Sighs {Param},,Zone 4
+1022051,Staircase of Sighs {Param},,Zone 5
+1023011,Judgment Plaza {Param},,Zone 1
+1023021,Judgment Plaza {Param},,Zone 2
+1023031,Judgment Plaza {Param},,Zone 3
+1023041,Judgment Plaza {Param},,Zone 4
+1023051,Judgment Plaza {Param},,Zone 5
+1021101,Garden of Beasts (Zones 2-3),,
+1021102,Staircase of Sighs (Zone 1),,
+1021103,Staircase of Sighs (Zones 4-5),,
+1021104,Staircase of Sighs - Judgment Plaza,,
+1021105,Judgment Plaza (Zone 1),,
+103001,Forest of Torment,,Safe Zone
+103002,Lost Paradise,,Safe Zone
+103003,Desolate Sanctum,,Safe Zone
+103101,Forest of Torment {Param},,Zone 1
+103102,Forest of Torment {Param},,Zone 2
+103103,Forest of Torment {Param},,Zone 3
+103104,Forest of Torment {Param},,Zone 4
+103105,Forest of Torment {Param},,Zone 5
+103106,Forest of Torment {Param},,Zone 6
+103201,Lost Paradise {Param},,Zone 1
+103202,Lost Paradise {Param},,Zone 2
+103203,Lost Paradise {Param},,Zone 3
+103204,Lost Paradise {Param},,Zone 4
+103205,Lost Paradise {Param},,Zone 5
+103301,Desolate Sanctum {Param},,Zone 1
+103302,Desolate Sanctum {Param},,Zone 2
+103303,Desolate Sanctum {Param},,Zone 3
+103304,Desolate Sanctum {Param},,Zone 4
+103305,Desolate Sanctum {Param},,Zone 5
+103151,Giant's Tower 3-1 Zone 1,,
+103152,Giant's Tower 3-1 Zone 2,,
+103153,Giant's Tower 3-1 Zone 3,,
+103154,Giant's Tower 3-1 Zone 4,,
+103155,Giant's Tower 3-1 Zone 5,,
+103156,Giant's Tower 3-1 Zone 6,,
+103251,Giant's Tower 3-2 Zone 1,,
+103252,Giant's Tower 3-2 Zone 2,,
+103253,Giant's Tower 3-2 Zone 3,,
+103254,Giant's Tower 3-2 Zone 4,,
+103255,Giant's Tower 3-2 Zone 5,,
+103351,Giant's Tower 3-3 Zone 1,,
+103352,Giant's Tower 3-3 Zone 2,,
+103353,Giant's Tower 3-3 Zone 3,,
+103354,Giant's Tower 3-3 Zone 4,,
+103355,Giant's Tower 3-3 Zone 5,,
+103000,,,
+1031001,Guardian's Cradle,,
+1031011,Forest of Torment {Param},,Zone 1
+1031021,Forest of Torment {Param},,Zone 2
+1031031,Forest of Torment {Param},,Zone 3
+1031041,Forest of Torment {Param},,Zone 4
+1031051,Forest of Torment {Param},,Zone 5
+1031061,Forest of Torment {Param},,Zone 6
+1032011,Lost Paradise {Param},,Zone 1
+1032021,Lost Paradise {Param},,Zone 2
+1032031,Lost Paradise {Param},,Zone 3
+1032041,Lost Paradise {Param},,Zone 4
+1032051,Lost Paradise {Param},,Zone 5
+1033011,Desolate Sanctum {Param},,Zone 1
+1033021,Desolate Sanctum {Param},,Zone 2
+1033031,Desolate Sanctum {Param},,Zone 3
+1033041,Desolate Sanctum {Param},,Zone 4
+1033051,Desolate Sanctum {Param},,Zone 5
+1031101,Forest of Torment (Zones 1-2),,
+1031102,Forest of Torment (Zone 4),,
+1031103,Lost Paradise (Zone 2),,
+1031104,Lost Paradise - Desolate Sanctum,,
+1031105,Desolate Sanctum (Zones 1-2),,
+104001,Void Pond,,Safe Zone
+104002,Violet Garden,,Safe Zone
+104003,Sanctuary of the Void,,Safe Zone
+104101,Void Pond {Param},,Zone 1
+104102,Void Pond {Param},,Zone 2
+104103,Void Pond {Param},,Zone 3
+104104,Void Pond {Param},,Zone 4
+104105,Void Pond {Param},,Zone 5
+104201,Violet Garden {Param},,Zone 1
+104202,Violet Garden {Param},,Zone 2
+104203,Violet Garden {Param},,Zone 3
+104204,Violet Garden {Param},,Zone 4
+104205,Violet Garden {Param},,Zone 5
+104301,Sanctuary of the Void {Param},,Zone 1
+104302,Sanctuary of the Void {Param},,Zone 2
+104303,Sanctuary of the Void {Param},,Zone 3
+104304,Sanctuary of the Void {Param},,Zone 4
+104305,Sanctuary of the Void {Param},,Zone 5
+104306,Sanctuary of the Void {Param},,Zone 6
+104151,Giant's Tower 4-1 Zone 1,,
+104152,Giant's Tower 4-1 Zone 2,,
+104153,Giant's Tower 4-1 Zone 3,,
+104154,Giant's Tower 4-1 Zone 4,,
+104155,Giant's Tower 4-1 Zone 5,,
+104251,Giant's Tower 4-2 Zone 1,,
+104252,Giant's Tower 4-2 Zone 2,,
+104253,Giant's Tower 4-2 Zone 3,,
+104254,Giant's Tower 4-2 Zone 4,,
+104255,Giant's Tower 4-2 Zone 5,,
+104351,Giant's Tower 4-3 Zone 1,,
+104352,Giant's Tower 4-3 Zone 2,,
+104353,Giant's Tower 4-3 Zone 3,,
+104354,Giant's Tower 4-3 Zone 4,,
+104355,Giant's Tower 4-3 Zone 5,,
+104356,Giant's Tower 4-3 Zone 6,,
+104000,,,
+1041001,Guardian's Cradle,,
+1041011,Void Pond {Param},,Zone 1
+1041021,Void Pond {Param},,Zone 2
+1041031,Void Pond {Param},,Zone 3
+1041041,Void Pond {Param},,Zone 4
+1041051,Void Pond {Param},,Zone 5
+1042011,Violet Garden {Param},,Zone 1
+1042021,Violet Garden {Param},,Zone 2
+1042031,Violet Garden {Param},,Zone 3
+1042041,Violet Garden {Param},,Zone 4
+1042051,Violet Garden {Param},,Zone 5
+1043011,Sanctuary of the Void {Param},,Zone 1
+1043021,Sanctuary of the Void {Param},,Zone 2
+1043031,Sanctuary of the Void {Param},,Zone 3
+1043041,Sanctuary of the Void {Param},,Zone 4
+1043051,Sanctuary of the Void {Param},,Zone 5
+1043061,Sanctuary of the Void {Param},,Zone 6
+1041101,,,
+1041102,,,
+1041103,,,
+1041104,,,
+1041105,,,
+500201,Redoubt of Valor,,
+500202,Redoubt of Resilience,,
+500203,Redoubt of Determination,,
+5002101,Battlefield of Valor {Param},,Zone 1
+5002102,Battlefield of Valor {Param},,Zone 2
+5002103,Battlefield of Valor {Param},,Zone 3
+5002104,Battlefield of Valor {Param},,Zone 4
+5002105,Battlefield of Valor {Param},,Zone 5
+5002150,Arena of Valor,,
+5002151,Battlefield of Valor {Param},,Zone 1
+5002152,Battlefield of Valor {Param},,Zone 2
+5002153,Battlefield of Valor {Param},,Zone 3
+5002154,Battlefield of Valor {Param},,Zone 4
+5002155,Battlefield of Valor {Param},,Zone 5
+5002201,Battlefield of Indomitability {Param},,Zone 1
+5002202,Battlefield of Indomitability {Param},,Zone 2
+5002203,Battlefield of Indomitability {Param},,Zone 3
+5002204,Battlefield of Indomitability {Param},,Zone 4
+5002205,Battlefield of Indomitability {Param},,Zone 5
+5002250,Arena of Resilience,,
+500251,Battlefield of Indomitability {Param},,Zone 1
+500252,Battlefield of Indomitability {Param},,Zone 2
+500253,Battlefield of Indomitability {Param},,Zone 3
+500254,Battlefield of Indomitability {Param},,Zone 4
+500255,Battlefield of Indomitability {Param},,Zone 5
+5002301,Battlefield of Determination {Param},,Zone 1
+5002302,Battlefield of Determination {Param},,Zone 2
+5002303,Battlefield of Determination {Param},,Zone 3
+5002304,Battlefield of Determination {Param},,Zone 4
+5002305,Battlefield of Determination {Param},,Zone 5
+5002350,Arena of Determination,,
+5002351,Battlefield of Determination {Param},,Battlefield of Determination 1
+5002352,Battlefield of Determination {Param},,Battlefield of Determination 2
+5002353,Battlefield of Determination {Param},,Battlefield of Determination 3
+5002354,Battlefield of Determination {Param},,Battlefield of Determination 4
+5002355,Battlefield of Determination {Param},,Battlefield of Determination 5
+5002401,Battlefield of Wrath {Param},,Zone 1
+5002402,Battlefield of Wrath {Param},,Zone 2
+5002403,Battlefield of Wrath {Param},,Zone 3
+5002404,Battlefield of Wrath {Param},,Zone 4
+5002405,Battlefield of Wrath {Param},,Zone 5
+5002406,Fortress of Wrath,,
+5002451,Battlefield of Wrath {Param},,Zone 1
+5002452,Battlefield of Wrath {Param},,Zone 2
+5002453,Battlefield of Wrath {Param},,Zone 3
+5002454,Battlefield of Wrath {Param},,Zone 4
+5002455,Battlefield of Wrath {Param},,Zone 5
+5002456,Fortress of Wrath,,
+5002501,Battlefield of Fierce Combat {Param},,Zone 1
+5002502,Battlefield of Fierce Combat {Param},,Zone 2
+5002503,Battlefield of Fierce Combat {Param},,Zone 3
+5002504,Battlefield of Fierce Combat {Param},,Zone 4
+5002505,Battlefield of Fierce Combat {Param},,Zone 5
+5002506,Fortress of Fierce Combat,,
+5002551,Battlefield of Fierce Combat {Param},,Zone 1
+5002552,Battlefield of Fierce Combat {Param},,Zone 2
+5002553,Battlefield of Fierce Combat {Param},,Zone 3
+5002554,Battlefield of Fierce Combat {Param},,Zone 4
+5002555,Battlefield of Fierce Combat {Param},,Zone 5
+5002556,Fortress of Fierce Combat,,
+5002601,Battlefield of Tremors {Param},,Zone 1
+5002602,Battlefield of Tremors {Param},,Zone 2
+5002603,Battlefield of Tremors {Param},,Zone 3
+5002604,Battlefield of Tremors {Param},,Zone 4
+5002605,Battlefield of Tremors {Param},,Zone 5
+5002606,Fortress of Tremors,,
+5002651,Battlefield of Tremors {Param},,Zone 1
+5002652,Battlefield of Tremors {Param},,Zone 2
+5002653,Battlefield of Tremors {Param},,Zone 3
+5002654,Battlefield of Tremors {Param},,Zone 4
+5002655,Battlefield of Tremors {Param},,Zone 5
+5002656,Fortress of Tremors,,
+5002701,Battlefield of Ruin {Param},,Zone 1
+5002702,Battlefield of Ruin {Param},,Zone 2
+5002703,Battlefield of Ruin {Param},,Zone 3
+5002704,Battlefield of Ruin {Param},,Zone 4
+5002705,Battlefield of Ruin {Param},,Zone 5
+5002706,Battlefield of Ruin {Param},,Zone 6
+5002750,Throne of Ruin,,
+5002751,Battlefield of Ruin {Param},,Zone 1
+5002752,Battlefield of Ruin {Param},,Zone 2
+5002753,Battlefield of Ruin {Param},,Zone 3
+5002754,Battlefield of Ruin {Param},,Zone 4
+5002755,Battlefield of Ruin {Param},,Zone 5
+5002756,Battlefield of Ruin {Param},,Zone 6
+5002757,Battlefield of Ruin {Param},,Zone 7
+5002758,Battlefield of Ruin {Param},,Zone 8
+5002759,Battlefield of Ruin {Param},,Zone 9
+5002760,Battlefield of Ruin {Param},,Zone 6
+500301,Redoubt of Resolve,,
+500302,Redoubt of Invincible,,
+500303,Redoubt of Torment,,
+5003101,Battlefield of Resolve {Param},,Zone 1
+5003102,Battlefield of Resolve {Param},,Zone 2
+5003103,Battlefield of Resolve {Param},,Zone 3
+5003104,Battlefield of Resolve {Param},,Zone 4
+5003105,Battlefield of Resolve {Param},,Zone 5
+5003150,Arena of Resolve,,
+5003151,Battlefield of Resolve {Param},,Zone 1
+5003152,Battlefield of Resolve {Param},,Zone 2
+5003153,Battlefield of Resolve {Param},,Zone 3
+5003154,Battlefield of Resolve {Param},,Zone 4
+5003155,Battlefield of Resolve {Param},,Zone 5
+5003201,Battlefield of Triumph {Param},,Zone 1
+5003202,Battlefield of Triumph {Param},,Zone 2
+5003203,Battlefield of Triumph {Param},,Zone 3
+5003204,Battlefield of Triumph {Param},,Zone 4
+5003205,Battlefield of Triumph {Param},,Zone 5
+5003250,Arena of Triumph,,
+500351,Battlefield of Triumph {Param},,Zone 1
+500352,Battlefield of Triumph {Param},,Zone 2
+500353,Battlefield of Triumph {Param},,Zone 3
+500354,Battlefield of Triumph {Param},,Zone 4
+500355,Battlefield of Triumph {Param},,Zone 5
+5003301,Battlefield of Torment {Param},,Zone 1
+5003302,Battlefield of Torment {Param},,Zone 2
+5003303,Battlefield of Torment {Param},,Zone 3
+5003304,Battlefield of Torment {Param},,Zone 4
+5003305,Battlefield of Torment {Param},,Zone 5
+5003350,Arena of Torment,,
+5003351,Battlefield of Torment {Param},,Battlefield of Determination 1
+5003352,Battlefield of Torment {Param},,Battlefield of Determination 2
+5003353,Battlefield of Torment {Param},,Battlefield of Determination 3
+5003354,Battlefield of Torment {Param},,Battlefield of Determination 4
+5003355,Battlefield of Torment {Param},,Battlefield of Determination 5
+5003401,Battlefield of Defiance {Param},,Zone 1
+5003402,Battlefield of Defiance {Param},,Zone 2
+5003403,Battlefield of Defiance {Param},,Zone 3
+5003404,Battlefield of Defiance {Param},,Zone 4
+5003405,Battlefield of Defiance {Param},,Zone 5
+5003406,Fortress of Bloodshed,,
+5003451,Battlefield of Defiance {Param},,Zone 1
+5003452,Battlefield of Defiance {Param},,Zone 2
+5003453,Battlefield of Defiance {Param},,Zone 3
+5003454,Battlefield of Defiance {Param},,Zone 4
+5003455,Battlefield of Defiance {Param},,Zone 5
+5003456,Fortress of Bloodshed,,
+5003501,Battlefield of Decimation {Param},,Zone 1
+5003502,Battlefield of Decimation {Param},,Zone 2
+5003503,Battlefield of Decimation {Param},,Zone 3
+5003504,Battlefield of Decimation {Param},,Zone 4
+5003505,Battlefield of Decimation {Param},,Zone 5
+5003506,Fortress of Slaughter,,
+5003551,Battlefield of Decimation {Param},,Zone 1
+5003552,Battlefield of Decimation {Param},,Zone 2
+5003553,Battlefield of Decimation {Param},,Zone 3
+5003554,Battlefield of Decimation {Param},,Zone 4
+5003555,Battlefield of Decimation {Param},,Zone 5
+5003556,Fortress of Slaughter,,
+5003601,Battlefield of Delirium {Param},,Zone 1
+5003602,Battlefield of Delirium {Param},,Zone 2
+5003603,Battlefield of Delirium {Param},,Zone 3
+5003604,Battlefield of Delirium {Param},,Zone 4
+5003605,Battlefield of Delirium {Param},,Zone 5
+5003606,Fortress of Frenzy,,
+5003651,Battlefield of Delirium {Param},,Zone 1
+5003652,Battlefield of Delirium {Param},,Zone 2
+5003653,Battlefield of Delirium {Param},,Zone 3
+5003654,Battlefield of Delirium {Param},,Zone 4
+5003655,Battlefield of Delirium {Param},,Zone 5
+5003656,Fortress of Frenzy,,
+5003701,Battlefield of Apocalypse {Param},,Zone 1
+5003702,Battlefield of Apocalypse {Param},,Zone 2
+5003703,Battlefield of Apocalypse {Param},,Zone 3
+5003704,Battlefield of Apocalypse {Param},,Zone 4
+5003705,Battlefield of Apocalypse {Param},,Zone 5
+5003706,Battlefield of Apocalypse {Param},,Zone 6
+5003750,Throne of Apocalypse,,
+5003751,Battlefield of Apocalypse {Param},,Zone 1
+5003752,Battlefield of Apocalypse {Param},,Zone 2
+5003753,Battlefield of Apocalypse {Param},,Zone 3
+5003754,Battlefield of Apocalypse {Param},,Zone 4
+5003755,Battlefield of Apocalypse {Param},,Zone 5
+5003756,Battlefield of Apocalypse {Param},,Zone 6
+5003757,Battlefield of Apocalypse {Param},,Zone 7
+5003758,Battlefield of Apocalypse {Param},,Zone 8
+5003759,Battlefield of Apocalypse {Param},,Zone 9
+5003760,Battlefield of Apocalypse {Param},,Zone 6
+9202011,,,
+9202012,,,
+9202021,,,
+9203011,,,
+9213011,,,
+9301001,,,
+9301002,,,
+9301003,,,
+9301004,,,
+9302001,,,
+9302002,,,
+9302003,,,
+9302004,,,
+9303001,,,
+9303002,,,
+9303003,,,
+9303004,,,
+9311001,,,
+9311002,,,
+9311003,,,
+9401001,,,
+9501001,,,
+9501101,,,
+9003001,,,
+9003002,,,
+9003003,,,
+9003004,,,
+9003501,,,
+9004001,,,
+9004002,,,
+9004003,,,
+9004004,,,
+9081101,,,
+9081102,,,
+9081103,,,
+600101,Barrier of Enhancement {Param},,Level 1
+600102,Barrier of Enhancement {Param},,Level 2
+600103,Barrier of Enhancement {Param},,Level 3
+600104,Barrier of Enhancement {Param},,Level 4
+600105,Barrier of Enhancement {Param},,Level 5
+600106,Barrier of Enhancement {Param},,Level 6
+600107,Barrier of Enhancement {Param},,Level 7  
+600108,Barrier of Enhancement {Param},,Level 8
+600201,Barrier of Gold {Param},,Level 1
+600202,Barrier of Gold {Param},,Level 2
+600203,Barrier of Gold {Param},,Level 3
+600204,Barrier of Gold {Param},,Level 4
+600205,Barrier of Gold {Param},,Level 5
+600206,Barrier of Gold {Param},,Level 6
+600207,Barrier of Gold {Param},,Level 7  
+600208,Barrier of Gold {Param},,Level 8
+60010101,Barrier of Enhancement {Param}: Upper Safe Village,,Level 1
+60010102,Barrier of Enhancement {Param}: Lower Safe Village,,Level 1
+60010201,Barrier of Enhancement {Param}: Upper Safe Village,,Level 2
+60010202,Barrier of Enhancement {Param}: Lower Safe Village,,Level 2
+60010301,Barrier of Enhancement {Param}: Upper Safe Village,,Level 3
+60010302,Barrier of Enhancement {Param}: Lower Safe Village,,Level 3
+60010401,Barrier of Enhancement {Param}: Upper Safe Village,,Level 4
+60010402,Barrier of Enhancement {Param}: Lower Safe Village,,Level 4
+60010501,Barrier of Enhancement {Param}: Upper Safe Village,,Level 5
+60010502,Barrier of Enhancement {Param}: Lower Safe Village,,Level 5
+60010601,Barrier of Enhancement {Param}: Upper Safe Village,,Level 6
+60010602,Barrier of Enhancement {Param}: Lower Safe Village,,Level 6
+60010701,Barrier of Enhancement {Param}: Upper Safe Village,,Level 7  
+60010702,Barrier of Enhancement {Param}: Lower Safe Village,,Level 7  
+60010801,Barrier of Enhancement {Param}: Upper Safe Village,,Level 8
+60010802,Barrier of Enhancement {Param}: Lower Safe Village,,Level 8
+60020101,Barrier of Gold {Param}: Upper Safe Village,,Level 1
+60020102,Barrier of Gold {Param}: Lower Safe Village,,Level 1
+60020201,Barrier of Gold {Param}: Upper Safe Village,,Level 2
+60020202,Barrier of Gold {Param}: Lower Safe Village,,Level 2
+60020301,Barrier of Gold {Param}: Upper Safe Village,,Level 3
+60020302,Barrier of Gold {Param}: Lower Safe Village,,Level 3
+60020401,Barrier of Gold {Param}: Upper Safe Village,,Level 4
+60020402,Barrier of Gold {Param}: Lower Safe Village,,Level 4
+60020501,Barrier of Gold {Param}: Upper Safe Village,,Level 5
+60020502,Barrier of Gold {Param}: Lower Safe Village,,Level 5
+60020601,Barrier of Gold {Param}: Upper Safe Village,,Level 6
+60020602,Barrier of Gold {Param}: Lower Safe Village,,Level 6
+60020701,Barrier of Gold {Param}: Upper Safe Village,,Level 7  
+60020702,Barrier of Gold {Param}: Lower Safe Village,,Level 7  
+60020801,Barrier of Gold {Param}: Upper Safe Village,,Level 8
+60020802,Barrier of Gold {Param}: Lower Safe Village,,Level 8
+6001011,Barrier of Enhancement Level 1 {Param},,Zone 1
+6001012,Barrier of Enhancement Level 1 {Param},,Zone 2
+6001013,Barrier of Enhancement Level 1 {Param},,Zone 3
+6001014,Barrier of Enhancement Level 1 {Param},,Zone 4
+6001015,Barrier of Enhancement Level 1 {Param},,Zone 5
+6001016,Barrier of Enhancement Level 1 {Param},,Zone 6
+6001017,Barrier of Enhancement Level 1 {Param},,Zone 7
+6001018,Barrier of Enhancement Level 1 {Param},,Zone 8
+6001019,Barrier of Enhancement Level 1 {Param},,Zone 9
+6001021,Barrier of Enhancement Level 2 {Param},,Zone 1
+6001022,Barrier of Enhancement Level 2 {Param},,Zone 2
+6001023,Barrier of Enhancement Level 2 {Param},,Zone 3
+6001024,Barrier of Enhancement Level 2 {Param},,Zone 4
+6001025,Barrier of Enhancement Level 2 {Param},,Zone 5
+6001026,Barrier of Enhancement Level 2 {Param},,Zone 6
+6001027,Barrier of Enhancement Level 2 {Param},,Zone 7
+6001028,Barrier of Enhancement Level 2 {Param},,Zone 8
+6001029,Barrier of Enhancement Level 2 {Param},,Zone 9
+6001031,Barrier of Enhancement Level 3 {Param},,Zone 1
+6001032,Barrier of Enhancement Level 3 {Param},,Zone 2
+6001033,Barrier of Enhancement Level 3 {Param},,Zone 3
+6001034,Barrier of Enhancement Level 3 {Param},,Zone 4
+6001035,Barrier of Enhancement Level 3 {Param},,Zone 5
+6001036,Barrier of Enhancement Level 3 {Param},,Zone 6
+6001037,Barrier of Enhancement Level 3 {Param},,Zone 7
+6001038,Barrier of Enhancement Level 3 {Param},,Zone 8
+6001039,Barrier of Enhancement Level 3 {Param},,Zone 9
+6001041,Barrier of Enhancement Level 4 {Param},,Zone 1
+6001042,Barrier of Enhancement Level 4 {Param},,Zone 2
+6001043,Barrier of Enhancement Level 4 {Param},,Zone 3
+6001044,Barrier of Enhancement Level 4 {Param},,Zone 4
+6001045,Barrier of Enhancement Level 4 {Param},,Zone 5
+6001046,Barrier of Enhancement Level 4 {Param},,Zone 6
+6001047,Barrier of Enhancement Level 4 {Param},,Zone 7
+6001048,Barrier of Enhancement Level 4 {Param},,Zone 8
+6001049,Barrier of Enhancement Level 4 {Param},,Zone 9
+6001051,Barrier of Enhancement Level 5 {Param},,Zone 1
+6001052,Barrier of Enhancement Level 5 {Param},,Zone 2
+6001053,Barrier of Enhancement Level 5 {Param},,Zone 3
+6001054,Barrier of Enhancement Level 5 {Param},,Zone 4
+6001055,Barrier of Enhancement Level 5 {Param},,Zone 5
+6001056,Barrier of Enhancement Level 5 {Param},,Zone 6
+6001057,Barrier of Enhancement Level 5 {Param},,Zone 7
+6001058,Barrier of Enhancement Level 5 {Param},,Zone 8
+6001059,Barrier of Enhancement Level 5 {Param},,Zone 9
+6001061,Barrier of Enhancement Level 6 {Param},,Zone 1
+6001062,Barrier of Enhancement Level 6 {Param},,Zone 2
+6001063,Barrier of Enhancement Level 6 {Param},,Zone 3
+6001064,Barrier of Enhancement Level 6 {Param},,Zone 4
+6001065,Barrier of Enhancement Level 6 {Param},,Zone 5
+6001066,Barrier of Enhancement Level 6 {Param},,Zone 6
+6001067,Barrier of Enhancement Level 6 {Param},,Zone 7
+6001068,Barrier of Enhancement Level 6 {Param},,Zone 8
+6001069,Barrier of Enhancement Level 6 {Param},,Zone 9
+6001071,Barrier of Enhancement Level 7 {Param},,Zone 1
+6001072,Barrier of Enhancement Level 7 {Param},,Zone 2
+6001073,Barrier of Enhancement Level 7 {Param},,Zone 3
+6001074,Barrier of Enhancement Level 7 {Param},,Zone 4
+6001075,Barrier of Enhancement Level 7 {Param},,Zone 5
+6001076,Barrier of Enhancement Level 7 {Param},,Zone 6
+6001077,Barrier of Enhancement Level 7 {Param},,Zone 7
+6001078,Barrier of Enhancement Level 7 {Param},,Zone 8
+6001079,Barrier of Enhancement Level 7 {Param},,Zone 9
+6001081,Barrier of Enhancement Level 8 {Param},,Zone 1
+6001082,Barrier of Enhancement Level 8 {Param},,Zone 2
+6001083,Barrier of Enhancement Level 8 {Param},,Zone 3
+6001084,Barrier of Enhancement Level 8 {Param},,Zone 4
+6001085,Barrier of Enhancement Level 8 {Param},,Zone 5
+6001086,Barrier of Enhancement Level 8 {Param},,Zone 6
+6001087,Barrier of Enhancement Level 8 {Param},,Zone 7
+6001088,Barrier of Enhancement Level 8 {Param},,Zone 8
+6001089,Barrier of Enhancement Level 8 {Param},,Zone 9
+6001101,Barrier of Enhancement Level 1 {Param},,Zone 1
+6001102,Barrier of Enhancement Level 1 {Param},,Zone 2
+6001103,Barrier of Enhancement Level 1 {Param},,Zone 3
+6001104,Barrier of Enhancement Level 1 {Param},,Zone 4
+6001105,Barrier of Enhancement Level 1 {Param},,Zone 5
+6001106,Barrier of Enhancement Level 1 {Param},,Zone 6
+6001107,Barrier of Enhancement Level 1 {Param},,Zone 7
+6001108,Barrier of Enhancement Level 1 {Param},,Zone 8
+6001109,Barrier of Enhancement Level 1 {Param},,Zone 9
+6001110,Barrier of Enhancement Level 2 {Param},,Zone 1
+6001111,Barrier of Enhancement Level 2 {Param},,Zone 2
+6001112,Barrier of Enhancement Level 2 {Param},,Zone 3
+6001113,Barrier of Enhancement Level 2 {Param},,Zone 4
+6001114,Barrier of Enhancement Level 2 {Param},,Zone 5
+6001115,Barrier of Enhancement Level 2 {Param},,Zone 6
+6001116,Barrier of Enhancement Level 2 {Param},,Zone 7
+6001117,Barrier of Enhancement Level 2 {Param},,Zone 8
+6001118,Barrier of Enhancement Level 2 {Param},,Zone 9
+6001119,Barrier of Enhancement Level 3 {Param},,Zone 1
+6001120,Barrier of Enhancement Level 3 {Param},,Zone 2
+6001121,Barrier of Enhancement Level 3 {Param},,Zone 3
+6001122,Barrier of Enhancement Level 3 {Param},,Zone 4
+6001123,Barrier of Enhancement Level 3 {Param},,Zone 5
+6001124,Barrier of Enhancement Level 3 {Param},,Zone 6
+6001125,Barrier of Enhancement Level 3 {Param},,Zone 7
+6001126,Barrier of Enhancement Level 3 {Param},,Zone 8
+6001127,Barrier of Enhancement Level 3 {Param},,Zone 9
+6001128,Barrier of Enhancement Level 4 {Param},,Zone 1
+6001129,Barrier of Enhancement Level 4 {Param},,Zone 2
+6001130,Barrier of Enhancement Level 4 {Param},,Zone 3
+6001131,Barrier of Enhancement Level 4 {Param},,Zone 4
+6001132,Barrier of Enhancement Level 4 {Param},,Zone 5
+6001133,Barrier of Enhancement Level 4 {Param},,Zone 6
+6001134,Barrier of Enhancement Level 4 {Param},,Zone 7
+6001135,Barrier of Enhancement Level 4 {Param},,Zone 8
+6001136,Barrier of Enhancement Level 4 {Param},,Zone 9
+6001137,Barrier of Enhancement Level 5 {Param},,Zone 1
+6001138,Barrier of Enhancement Level 5 {Param},,Zone 2
+6001139,Barrier of Enhancement Level 5 {Param},,Zone 3
+6001140,Barrier of Enhancement Level 5 {Param},,Zone 4
+6001141,Barrier of Enhancement Level 5 {Param},,Zone 5
+6001142,Barrier of Enhancement Level 5 {Param},,Zone 6
+6001143,Barrier of Enhancement Level 5 {Param},,Zone 7
+6001144,Barrier of Enhancement Level 5 {Param},,Zone 8
+6001145,Barrier of Enhancement Level 5 {Param},,Zone 9
+6001146,Barrier of Enhancement Level 6 {Param},,Zone 1
+6001147,Barrier of Enhancement Level 6 {Param},,Zone 2
+6001148,Barrier of Enhancement Level 6 {Param},,Zone 3
+6001149,Barrier of Enhancement Level 6 {Param},,Zone 4
+6001150,Barrier of Enhancement Level 6 {Param},,Zone 5
+6001151,Barrier of Enhancement Level 6 {Param},,Zone 6
+6001152,Barrier of Enhancement Level 6 {Param},,Zone 7
+6001153,Barrier of Enhancement Level 6 {Param},,Zone 8
+6001154,Barrier of Enhancement Level 6 {Param},,Zone 9
+6001155,Barrier of Enhancement Level 7 {Param},,Zone 1
+6001156,Barrier of Enhancement Level 7 {Param},,Zone 2
+6001157,Barrier of Enhancement Level 7 {Param},,Zone 3
+6001158,Barrier of Enhancement Level 7 {Param},,Zone 4
+6001159,Barrier of Enhancement Level 7 {Param},,Zone 5
+6001160,Barrier of Enhancement Level 7 {Param},,Zone 6
+6001161,Barrier of Enhancement Level 7 {Param},,Zone 7
+6001162,Barrier of Enhancement Level 7 {Param},,Zone 8
+6001163,Barrier of Enhancement Level 7 {Param},,Zone 9
+6001164,Barrier of Enhancement Level 8 {Param},,Zone 1
+6001165,Barrier of Enhancement Level 8 {Param},,Zone 2
+6001166,Barrier of Enhancement Level 8 {Param},,Zone 3
+6001167,Barrier of Enhancement Level 8 {Param},,Zone 4
+6001168,Barrier of Enhancement Level 8 {Param},,Zone 5
+6001169,Barrier of Enhancement Level 8 {Param},,Zone 6
+6001170,Barrier of Enhancement Level 8 {Param},,Zone 7
+6001171,Barrier of Enhancement Level 8 {Param},,Zone 8
+6001172,Barrier of Enhancement Level 8 {Param},,Zone 9
+6002011,Barrier of Gold Level 1 {Param},,Zone 1
+6002012,Barrier of Gold Level 1 {Param},,Zone 2
+6002013,Barrier of Gold Level 1 {Param},,Zone 3
+6002014,Barrier of Gold Level 1 {Param},,Zone 4
+6002015,Barrier of Gold Level 1 {Param},,Zone 5
+6002016,Barrier of Gold Level 1 {Param},,Zone 6
+6002017,Barrier of Gold Level 1 {Param},,Zone 7
+6002018,Barrier of Gold Level 1 {Param},,Zone 8
+6002019,Barrier of Gold Level 1 {Param},,Zone 9
+6002021,Barrier of Gold Level 2 {Param},,Zone 1
+6002022,Barrier of Gold Level 2 {Param},,Zone 2
+6002023,Barrier of Gold Level 2 {Param},,Zone 3
+6002024,Barrier of Gold Level 2 {Param},,Zone 4
+6002025,Barrier of Gold Level 2 {Param},,Zone 5
+6002026,Barrier of Gold Level 2 {Param},,Zone 6
+6002027,Barrier of Gold Level 2 {Param},,Zone 7
+6002028,Barrier of Gold Level 2 {Param},,Zone 8
+6002029,Barrier of Gold Level 2 {Param},,Zone 9
+6002031,Barrier of Gold Level 3 {Param},,Zone 1
+6002032,Barrier of Gold Level 3 {Param},,Zone 2
+6002033,Barrier of Gold Level 3 {Param},,Zone 3
+6002034,Barrier of Gold Level 3 {Param},,Zone 4
+6002035,Barrier of Gold Level 3 {Param},,Zone 5
+6002036,Barrier of Gold Level 3 {Param},,Zone 6
+6002037,Barrier of Gold Level 3 {Param},,Zone 7
+6002038,Barrier of Gold Level 3 {Param},,Zone 8
+6002039,Barrier of Gold Level 3 {Param},,Zone 9
+6002041,Barrier of Gold Level 4 {Param},,Zone 1
+6002042,Barrier of Gold Level 4 {Param},,Zone 2
+6002043,Barrier of Gold Level 4 {Param},,Zone 3
+6002044,Barrier of Gold Level 4 {Param},,Zone 4
+6002045,Barrier of Gold Level 4 {Param},,Zone 5
+6002046,Barrier of Gold Level 4 {Param},,Zone 6
+6002047,Barrier of Gold Level 4 {Param},,Zone 7
+6002048,Barrier of Gold Level 4 {Param},,Zone 8
+6002049,Barrier of Gold Level 4 {Param},,Zone 9
+6002051,Barrier of Gold Level 5 {Param},,Zone 1
+6002052,Barrier of Gold Level 5 {Param},,Zone 2
+6002053,Barrier of Gold Level 5 {Param},,Zone 3
+6002054,Barrier of Gold Level 5 {Param},,Zone 4
+6002055,Barrier of Gold Level 5 {Param},,Zone 5
+6002056,Barrier of Gold Level 5 {Param},,Zone 6
+6002057,Barrier of Gold Level 5 {Param},,Zone 7
+6002058,Barrier of Gold Level 5 {Param},,Zone 8
+6002059,Barrier of Gold Level 5 {Param},,Zone 9
+6002061,Barrier of Gold Level 6 {Param},,Zone 1
+6002062,Barrier of Gold Level 6 {Param},,Zone 2
+6002063,Barrier of Gold Level 6 {Param},,Zone 3
+6002064,Barrier of Gold Level 6 {Param},,Zone 4
+6002065,Barrier of Gold Level 6 {Param},,Zone 5
+6002066,Barrier of Gold Level 6 {Param},,Zone 6
+6002067,Barrier of Gold Level 6 {Param},,Zone 7
+6002068,Barrier of Gold Level 6 {Param},,Zone 8
+6002069,Barrier of Gold Level 6 {Param},,Zone 9
+6002071,Barrier of Gold Level 7 {Param},,Zone 1
+6002072,Barrier of Gold Level 7 {Param},,Zone 2
+6002073,Barrier of Gold Level 7 {Param},,Zone 3
+6002074,Barrier of Gold Level 7 {Param},,Zone 4
+6002075,Barrier of Gold Level 7 {Param},,Zone 5
+6002076,Barrier of Gold Level 7 {Param},,Zone 6
+6002077,Barrier of Gold Level 7 {Param},,Zone 7
+6002078,Barrier of Gold Level 7 {Param},,Zone 8
+6002079,Barrier of Gold Level 7 {Param},,Zone 9
+6002081,Barrier of Gold Level 8: {Param},,Zone 1
+6002082,Barrier of Gold Level 8: {Param},,Zone 2
+6002083,Barrier of Gold Level 8: {Param},,Zone 3
+6002084,Barrier of Gold Level 8: {Param},,Zone 4
+6002085,Barrier of Gold Level 8: {Param},,Zone 5
+6002086,Barrier of Gold Level 8: {Param},,Zone 6
+6002087,Barrier of Gold Level 8: {Param},,Zone 7
+6002088,Barrier of Gold Level 8: {Param},,Zone 8
+6002089,Barrier of Gold Level 8: {Param},,Zone 9
+6002101,Barrier of Gold Level 1 {Param},,Zone 1
+6002102,Barrier of Gold Level 1 {Param},,Zone 2
+6002103,Barrier of Gold Level 1 {Param},,Zone 3
+6002104,Barrier of Gold Level 1 {Param},,Zone 4
+6002105,Barrier of Gold Level 1 {Param},,Zone 5
+6002106,Barrier of Gold Level 1 {Param},,Zone 6
+6002107,Barrier of Gold Level 1 {Param},,Zone 7
+6002108,Barrier of Gold Level 1 {Param},,Zone 8
+6002109,Barrier of Gold Level 1 {Param},,Zone 9
+6002110,Barrier of Gold Level 2 {Param},,Zone 1
+6002111,Barrier of Gold Level 2 {Param},,Zone 2
+6002112,Barrier of Gold Level 2 {Param},,Zone 3
+6002113,Barrier of Gold Level 2 {Param},,Zone 4
+6002114,Barrier of Gold Level 2 {Param},,Zone 5
+6002115,Barrier of Gold Level 2 {Param},,Zone 6
+6002116,Barrier of Gold Level 2 {Param},,Zone 7
+6002117,Barrier of Gold Level 2 {Param},,Zone 8
+6002118,Barrier of Gold Level 2 {Param},,Zone 9
+6002119,Barrier of Gold Level 3 {Param},,Zone 1
+6002120,Barrier of Gold Level 3 {Param},,Zone 2
+6002121,Barrier of Gold Level 3 {Param},,Zone 3
+6002122,Barrier of Gold Level 3 {Param},,Zone 4
+6002123,Barrier of Gold Level 3 {Param},,Zone 5
+6002124,Barrier of Gold Level 3 {Param},,Zone 6
+6002125,Barrier of Gold Level 3 {Param},,Zone 7
+6002126,Barrier of Gold Level 3 {Param},,Zone 8
+6002127,Barrier of Gold Level 3 {Param},,Zone 9
+6002128,Barrier of Gold Level 4 {Param},,Zone 1
+6002129,Barrier of Gold Level 4 {Param},,Zone 2
+6002130,Barrier of Gold Level 4 {Param},,Zone 3
+6002131,Barrier of Gold Level 4 {Param},,Zone 4
+6002132,Barrier of Gold Level 4 {Param},,Zone 5
+6002133,Barrier of Gold Level 4 {Param},,Zone 6
+6002134,Barrier of Gold Level 4 {Param},,Zone 7
+6002135,Barrier of Gold Level 4 {Param},,Zone 8
+6002136,Barrier of Gold Level 4 {Param},,Zone 9
+6002137,Barrier of Gold Level 5 {Param},,Zone 1
+6002138,Barrier of Gold Level 5 {Param},,Zone 2
+6002139,Barrier of Gold Level 5 {Param},,Zone 3
+6002140,Barrier of Gold Level 5 {Param},,Zone 4
+6002141,Barrier of Gold Level 5 {Param},,Zone 5
+6002142,Barrier of Gold Level 5 {Param},,Zone 6
+6002143,Barrier of Gold Level 5 {Param},,Zone 7
+6002144,Barrier of Gold Level 5 {Param},,Zone 8
+6002145,Barrier of Gold Level 5 {Param},,Zone 9
+6002146,Barrier of Gold Level 6 {Param},,Zone 1
+6002147,Barrier of Gold Level 6 {Param},,Zone 2
+6002148,Barrier of Gold Level 6 {Param},,Zone 3
+6002149,Barrier of Gold Level 6 {Param},,Zone 4
+6002150,Barrier of Gold Level 6 {Param},,Zone 5
+6002151,Barrier of Gold Level 6 {Param},,Zone 6
+6002152,Barrier of Gold Level 6 {Param},,Zone 7
+6002153,Barrier of Gold Level 6 {Param},,Zone 8
+6002154,Barrier of Gold Level 6 {Param},,Zone 9
+6002155,Barrier of Gold Level 7 {Param},,Zone 1
+6002156,Barrier of Gold Level 7 {Param},,Zone 2
+6002157,Barrier of Gold Level 7 {Param},,Zone 3
+6002158,Barrier of Gold Level 7 {Param},,Zone 4
+6002159,Barrier of Gold Level 7 {Param},,Zone 5
+6002160,Barrier of Gold Level 7 {Param},,Zone 6
+6002161,Barrier of Gold Level 7 {Param},,Zone 7
+6002162,Barrier of Gold Level 7 {Param},,Zone 8
+6002163,Barrier of Gold Level 7 {Param},,Zone 9
+6002164,Barrier of Gold Level 8: {Param},,Zone 1
+6002165,Barrier of Gold Level 8: {Param},,Zone 2
+6002166,Barrier of Gold Level 8: {Param},,Zone 3
+6002167,Barrier of Gold Level 8: {Param},,Zone 4
+6002168,Barrier of Gold Level 8: {Param},,Zone 5
+6002169,Barrier of Gold Level 8: {Param},,Zone 6
+6002170,Barrier of Gold Level 8: {Param},,Zone 7
+6002171,Barrier of Gold Level 8: {Param},,Zone 8
+6002172,Barrier of Gold Level 8: {Param},,Zone 9
+700101,Barrier of the Unknown {Param},,Level 1
+700102,Barrier of the Unknown {Param},,Level 2
+700103,Barrier of the Unknown {Param},,Level 3
+700104,Barrier of the Unknown {Param},,Level 4
+700105,Barrier of the Unknown {Param},,Level 5
+700106,Barrier of the Unknown {Param},,Level 6
+700107,Barrier of the Unknown {Param},,Level 7  
+700108,Barrier of the Unknown {Param},,Level 8
+70010101,Barrier of the Unknown {Param}: Upper Safe Village,,Level 1
+70010102,Barrier of the Unknown {Param}: Lower Safe Village,,Level 1
+70010201,Barrier of the Unknown {Param}: Upper Safe Village,,Level 2
+70010202,Barrier of the Unknown {Param}: Lower Safe Village,,Level 2
+70010301,Barrier of the Unknown {Param}: Upper Safe Village,,Level 3
+70010302,Barrier of the Unknown {Param}: Lower Safe Village,,Level 3
+70010401,Barrier of the Unknown {Param}: Upper Safe Village,,Level 4
+70010402,Barrier of the Unknown {Param}: Lower Safe Village,,Level 4
+70010501,Barrier of the Unknown {Param}: Upper Safe Village,,Level 5
+70010502,Barrier of the Unknown {Param}: Lower Safe Village,,Level 5
+70010601,Barrier of the Unknown {Param}: Upper Safe Village,,Level 6
+70010602,Barrier of the Unknown {Param}: Lower Safe Village,,Level 6
+70010701,Barrier of the Unknown {Param}: Upper Safe Village,,Level 7  
+70010702,Barrier of the Unknown {Param}: Lower Safe Village,,Level 7  
+70010801,Barrier of the Unknown {Param}: Upper Safe Village,,Level 8
+70010802,Barrier of the Unknown {Param}: Lower Safe Village,,Level 8
+7001011,Barrier of the Unknown Level 1 {Param},,Zone 1
+7001012,Barrier of the Unknown Level 1 {Param},,Zone 2
+7001013,Barrier of the Unknown Level 1 {Param},,Zone 3
+7001014,Barrier of the Unknown Level 1 {Param},,Zone 4
+7001015,Barrier of the Unknown Level 1 {Param},,Zone 5
+7001016,Barrier of the Unknown Level 1 {Param},,Zone 6
+7001017,Barrier of the Unknown Level 1 {Param},,Zone 7
+7001018,Barrier of the Unknown Level 1 {Param},,Zone 8
+7001019,Barrier of the Unknown Level 1 {Param},,Zone 9
+7001021,Barrier of the Unknown Level 2 {Param},,Zone 1
+7001022,Barrier of the Unknown Level 2 {Param},,Zone 2
+7001023,Barrier of the Unknown Level 2 {Param},,Zone 3
+7001024,Barrier of the Unknown Level 2 {Param},,Zone 4
+7001025,Barrier of the Unknown Level 2 {Param},,Zone 5
+7001026,Barrier of the Unknown Level 2 {Param},,Zone 6
+7001027,Barrier of the Unknown Level 2 {Param},,Zone 7
+7001028,Barrier of the Unknown Level 2 {Param},,Zone 8
+7001029,Barrier of the Unknown Level 2 {Param},,Zone 9
+7001031,Barrier of the Unknown Level 3 {Param},,Zone 1
+7001032,Barrier of the Unknown Level 3 {Param},,Zone 2
+7001033,Barrier of the Unknown Level 3 {Param},,Zone 3
+7001034,Barrier of the Unknown Level 3 {Param},,Zone 4
+7001035,Barrier of the Unknown Level 3 {Param},,Zone 5
+7001036,Barrier of the Unknown Level 3 {Param},,Zone 6
+7001037,Barrier of the Unknown Level 3 {Param},,Zone 7
+7001038,Barrier of the Unknown Level 3 {Param},,Zone 8
+7001039,Barrier of the Unknown Level 3 {Param},,Zone 9
+7001041,Barrier of the Unknown Level 4 {Param},,Zone 1
+7001042,Barrier of the Unknown Level 4 {Param},,Zone 2
+7001043,Barrier of the Unknown Level 4 {Param},,Zone 3
+7001044,Barrier of the Unknown Level 4 {Param},,Zone 4
+7001045,Barrier of the Unknown Level 4 {Param},,Zone 5
+7001046,Barrier of the Unknown Level 4 {Param},,Zone 6
+7001047,Barrier of the Unknown Level 4 {Param},,Zone 7
+7001048,Barrier of the Unknown Level 4 {Param},,Zone 8
+7001049,Barrier of the Unknown Level 4 {Param},,Zone 9
+7001051,Barrier of the Unknown Level 5 {Param},,Zone 1
+7001052,Barrier of the Unknown Level 5 {Param},,Zone 2
+7001053,Barrier of the Unknown Level 5 {Param},,Zone 3
+7001054,Barrier of the Unknown Level 5 {Param},,Zone 4
+7001055,Barrier of the Unknown Level 5 {Param},,Zone 5
+7001056,Barrier of the Unknown Level 5 {Param},,Zone 6
+7001057,Barrier of the Unknown Level 5 {Param},,Zone 7
+7001058,Barrier of the Unknown Level 5 {Param},,Zone 8
+7001059,Barrier of the Unknown Level 5 {Param},,Zone 9
+7001061,Barrier of the Unknown Level 6 {Param},,Zone 1
+7001062,Barrier of the Unknown Level 6 {Param},,Zone 2
+7001063,Barrier of the Unknown Level 6 {Param},,Zone 3
+7001064,Barrier of the Unknown Level 6 {Param},,Zone 4
+7001065,Barrier of the Unknown Level 6 {Param},,Zone 5
+7001066,Barrier of the Unknown Level 6 {Param},,Zone 6
+7001067,Barrier of the Unknown Level 6 {Param},,Zone 7
+7001068,Barrier of the Unknown Level 6 {Param},,Zone 8
+7001069,Barrier of the Unknown Level 6 {Param},,Zone 9
+7001071,Barrier of the Unknown Level 7: {Param},,Zone 1
+7001072,Barrier of the Unknown Level 7: {Param},,Zone 2
+7001073,Barrier of the Unknown Level 7: {Param},,Zone 3
+7001074,Barrier of the Unknown Level 7: {Param},,Zone 4
+7001075,Barrier of the Unknown Level 7: {Param},,Zone 5
+7001076,Barrier of the Unknown Level 7: {Param},,Zone 6
+7001077,Barrier of the Unknown Level 7: {Param},,Zone 7
+7001078,Barrier of the Unknown Level 7: {Param},,Zone 8
+7001079,Barrier of the Unknown Level 7: {Param},,Zone 9
+7001081,Barrier of the Unknown Level 8: {Param},,Zone 1
+7001082,Barrier of the Unknown Level 8: {Param},,Zone 2
+7001083,Barrier of the Unknown Level 8: {Param},,Zone 3
+7001084,Barrier of the Unknown Level 8: {Param},,Zone 4
+7001085,Barrier of the Unknown Level 8: {Param},,Zone 5
+7001086,Barrier of the Unknown Level 8: {Param},,Zone 6
+7001087,Barrier of the Unknown Level 8: {Param},,Zone 7
+7001088,Barrier of the Unknown Level 8: {Param},,Zone 8
+7001089,Barrier of the Unknown Level 8: {Param},,Zone 9
+7001101,Barrier of the Unknown Level 1 {Param},,Zone 1
+7001102,Barrier of the Unknown Level 1 {Param},,Zone 2
+7001103,Barrier of the Unknown Level 1 {Param},,Zone 3
+7001104,Barrier of the Unknown Level 1 {Param},,Zone 4
+7001105,Barrier of the Unknown Level 1 {Param},,Zone 5
+7001106,Barrier of the Unknown Level 1 {Param},,Zone 6
+7001107,Barrier of the Unknown Level 1 {Param},,Zone 7
+7001108,Barrier of the Unknown Level 1 {Param},,Zone 8
+7001109,Barrier of the Unknown Level 1 {Param},,Zone 9
+7001110,Barrier of the Unknown Level 2 {Param},,Zone 1
+7001111,Barrier of the Unknown Level 2 {Param},,Zone 2
+7001112,Barrier of the Unknown Level 2 {Param},,Zone 3
+7001113,Barrier of the Unknown Level 2 {Param},,Zone 4
+7001114,Barrier of the Unknown Level 2 {Param},,Zone 5
+7001115,Barrier of the Unknown Level 2 {Param},,Zone 6
+7001116,Barrier of the Unknown Level 2 {Param},,Zone 7
+7001117,Barrier of the Unknown Level 2 {Param},,Zone 8
+7001118,Barrier of the Unknown Level 2 {Param},,Zone 9
+7001119,Barrier of the Unknown Level 3 {Param},,Zone 1
+7001120,Barrier of the Unknown Level 3 {Param},,Zone 2
+7001121,Barrier of the Unknown Level 3 {Param},,Zone 3
+7001122,Barrier of the Unknown Level 3 {Param},,Zone 4
+7001123,Barrier of the Unknown Level 3 {Param},,Zone 5
+7001124,Barrier of the Unknown Level 3 {Param},,Zone 6
+7001125,Barrier of the Unknown Level 3 {Param},,Zone 7
+7001126,Barrier of the Unknown Level 3 {Param},,Zone 8
+7001127,Barrier of the Unknown Level 3 {Param},,Zone 9
+7001128,Barrier of the Unknown Level 4 {Param},,Zone 1
+7001129,Barrier of the Unknown Level 4 {Param},,Zone 2
+7001130,Barrier of the Unknown Level 4 {Param},,Zone 3
+7001131,Barrier of the Unknown Level 4 {Param},,Zone 4
+7001132,Barrier of the Unknown Level 4 {Param},,Zone 5
+7001133,Barrier of the Unknown Level 4 {Param},,Zone 6
+7001134,Barrier of the Unknown Level 4 {Param},,Zone 7
+7001135,Barrier of the Unknown Level 4 {Param},,Zone 8
+7001136,Barrier of the Unknown Level 4 {Param},,Zone 9
+7001137,Barrier of the Unknown Level 5 {Param},,Zone 1
+7001138,Barrier of the Unknown Level 5 {Param},,Zone 2
+7001139,Barrier of the Unknown Level 5 {Param},,Zone 3
+7001140,Barrier of the Unknown Level 5 {Param},,Zone 4
+7001141,Barrier of the Unknown Level 5 {Param},,Zone 5
+7001142,Barrier of the Unknown Level 5 {Param},,Zone 6
+7001143,Barrier of the Unknown Level 5 {Param},,Zone 7
+7001144,Barrier of the Unknown Level 5 {Param},,Zone 8
+7001145,Barrier of the Unknown Level 5 {Param},,Zone 9
+7001146,Barrier of the Unknown Level 6 {Param},,Zone 1
+7001147,Barrier of the Unknown Level 6 {Param},,Zone 2
+7001148,Barrier of the Unknown Level 6 {Param},,Zone 3
+7001149,Barrier of the Unknown Level 6 {Param},,Zone 4
+7001150,Barrier of the Unknown Level 6 {Param},,Zone 5
+7001151,Barrier of the Unknown Level 6 {Param},,Zone 6
+7001152,Barrier of the Unknown Level 6 {Param},,Zone 7
+7001153,Barrier of the Unknown Level 6 {Param},,Zone 8
+7001154,Barrier of the Unknown Level 6 {Param},,Zone 9
+7001155,Barrier of the Unknown Level 7: {Param},,Zone 1
+7001156,Barrier of the Unknown Level 7: {Param},,Zone 2
+7001157,Barrier of the Unknown Level 7: {Param},,Zone 3
+7001158,Barrier of the Unknown Level 7: {Param},,Zone 4
+7001159,Barrier of the Unknown Level 7: {Param},,Zone 5
+7001160,Barrier of the Unknown Level 7: {Param},,Zone 6
+7001161,Barrier of the Unknown Level 7: {Param},,Zone 7
+7001162,Barrier of the Unknown Level 7: {Param},,Zone 8
+7001163,Barrier of the Unknown Level 7: {Param},,Zone 9
+7001164,Barrier of the Unknown Level 8: {Param},,Zone 1
+7001165,Barrier of the Unknown Level 8: {Param},,Zone 2
+7001166,Barrier of the Unknown Level 8: {Param},,Zone 3
+7001167,Barrier of the Unknown Level 8: {Param},,Zone 4
+7001168,Barrier of the Unknown Level 8: {Param},,Zone 5
+7001169,Barrier of the Unknown Level 8: {Param},,Zone 6
+7001170,Barrier of the Unknown Level 8: {Param},,Zone 7
+7001171,Barrier of the Unknown Level 8: {Param},,Zone 8
+7001172,Barrier of the Unknown Level 8: {Param},,Zone 9
+8110101,Angbar Arena {Param},,Entrance
+8110201,Angbar Arena {Param},,Entrance
+8110301,Angbar Arena {Param},,Entrance
+8110401,Angbar Arena {Param},,Entrance

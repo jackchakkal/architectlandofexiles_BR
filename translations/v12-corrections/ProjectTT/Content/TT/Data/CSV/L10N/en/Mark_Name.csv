@@ -1,0 +1,27 @@
+﻿Id,Name,Param
+1,Ponto de Reunião do Clã,
+11,,
+12,,
+13,,
+14,,
+15,,
+16,,
+101,Marcador de Localização do Clã {Param},1
+102,Marcador de Localização do Clã {Param},2
+103,Marcador de Localização do Clã {Param},3
+104,Marcador de Localização do Clã {Param},4
+105,Marcador de Localização do Clã {Param},5
+106,Marcador de Localização do Clã {Param},6
+10001,Ponto de encontro do grupo,
+10011,,
+10012,,
+10013,,
+10014,,
+10015,,
+10016,,
+10101,Marcador de localização do grupo {Param},1
+10102,Marcador de localização do grupo {Param},2
+10103,Marcador de localização do grupo {Param},3
+10104,Marcador de localização do grupo {Param},4
+10105,Marcador de localização do grupo {Param},5
+10106,Marcador de localização do grupo {Param},6

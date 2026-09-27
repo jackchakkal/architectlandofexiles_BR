@@ -1,0 +1,23 @@
+# Game packages and extracted proprietary assets stay on each contributor's PC.
+*.pak
+*.uasset
+*.uexp
+*.ubulk
+*.uptnl
+
+# Local AES credential. Never commit this file or its value.
+/work/.architect-aes-key
+/.architect-aes-key
+/secrets/
+*.secret
+*.key
+
+# Local extraction/build workspaces and generated artifacts.
+/work/extracted-*/
+/work/build-*/
+/work/generated-*/
+/outputs/
+
+__pycache__/
+*.py[cod]
+/work/

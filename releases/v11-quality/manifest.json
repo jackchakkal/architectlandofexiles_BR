@@ -1,0 +1,33 @@
+{
+  "version": "v11-quality-corrections",
+  "repak": "repak_cli 0.2.3",
+  "install_paths": {
+    "main": "H:\\Games\\Architect\\ProjectTT\\Saved\\PersistentDownloadDir\\DownloadContent\\pakchunk0-Windows.pak",
+    "override": "H:\\Games\\Architect\\ProjectTT\\Content\\Paks\\pakchunk9999-Windows_1_P.pak"
+  },
+  "credential_file": "work/.architect-aes-key (AES-256, hex; secret omitted)",
+  "format": {
+    "pak_version": "V11",
+    "mount_point": "../../../",
+    "encrypted_index": true,
+    "path_hash_seed": "E92532A4",
+    "main_compression": "Zlib",
+    "override_compression": "None",
+    "main_entries": 6749,
+    "override_entries": 227
+  },
+  "files": {
+    "main": {
+      "bytes": 77438636,
+      "sha256": "dcd42856c32363af108cc5fb01383fb57a3f6944b64b4c5d3ea727dccd744a28"
+    },
+    "override": {
+      "bytes": 12434208,
+      "sha256": "9b00962495ac37887c2807b4b246dcc12f228530066ed743cb310e7908fd6651"
+    }
+  },
+  "verification": {
+    "item_name_templates_match_original": true,
+    "bad_giant_tower_variants": 0
+  }
+}

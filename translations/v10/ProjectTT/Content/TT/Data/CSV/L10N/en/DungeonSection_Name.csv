@@ -1,0 +1,880 @@
+﻿Id,Name,Description,StringParam
+110101011,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Ancient Ruins
+110101021,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Kuduru Sorcerer
+110101031,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Desolate Citadel
+110101041,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Blue Wyvern
+110101051,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Deepwood Citadel
+110101061,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Thorn Boar
+110101071,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Desolate Citadel
+110101081,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Karugura
+110101091,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Ancient Ruins
+110101101,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Gray Wyvern
+110101111,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Desolate Citadel
+110101121,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Sandmaw
+110101131,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Deepwood Citadel
+110101141,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Adamantine Beast
+110101151,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Karugura
+110102011,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Ancient Ruins
+110102021,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Shagriga
+110102031,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Desolate Citadel
+110102041,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Ereshianna
+110102051,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Deepwood Citadel
+110102061,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Saharnugal
+110102071,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Desolate Citadel
+110102081,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Thunderbird
+110102091,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Ancient Ruins
+110102101,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Shagriga
+110102111,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Desolate Citadel
+110102121,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Giant Majestic Wyvern
+110102131,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Deepwood Citadel
+110102141,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Ereshianna
+110102151,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Saharnugal
+110201011,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Forgotten Ruins
+110201021,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Blue Wyvern
+110201031,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Rock Chasm Fortress
+110201041,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Sandmaw
+110201051,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Abyssal Pit
+110201061,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Clawed Bat
+110201071,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Rock Chasm Fortress
+110201081,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Tagar
+110201091,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Forgotten Ruins
+110201101,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Ancient Beast
+110201111,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Rock Chasm Fortress
+110201121,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Thunderbird
+110201131,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Abyssal Pit
+110201141,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Golden-Maned Bison
+110201151,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Tagar
+110202011,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Forgotten Ruins
+110202021,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Daidalkur
+110202031,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Rock Chasm Fortress
+110202041,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Saurgir
+110202051,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Abyssal Pit
+110202061,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Galarusia
+110202071,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Rock Chasm Fortress
+110202081,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Blue Wyvern
+110202091,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Forgotten Ruins
+110202101,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Golden-Maned Bison
+110202111,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Rock Chasm Fortress
+110202121,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Daidalkur
+110202131,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Abyssal Pit
+110202141,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Saurgir
+110202151,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Galarusia
+110301011,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Ancient Ruins
+110301021,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Bladed Bat
+110301031,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Desolate Citadel
+110301041,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Gigaz
+110301051,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Forgotten Ruins
+110301061,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Golden-Maned Bison
+110301071,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Desolate Citadel
+110301081,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Urukkur
+110301091,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Deepwood Citadel
+110301101,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Kuduru Sorcerer
+110301111,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Desolate Citadel
+110301121,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Gigaz
+110301131,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Abyssal Pit
+110301141,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Majestic Wyvern
+110301151,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Urukkur
+110302011,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Ancient Ruins
+110302021,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Gigaz
+110302031,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Desolate Citadel
+110302041,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Clawed Bat
+110302051,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Forgotten Ruins
+110302061,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Kuduru Great Warrior
+110302071,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Desolate Citadel
+110302081,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Great Sandmaw
+110302091,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Deepwood Citadel
+110302101,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Blue Wyvern
+110302111,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Desolate Citadel
+110302121,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Golden-Maned Bison
+110302131,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Abyssal Pit
+110302141,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Thunderbird
+110302151,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Urukkur
+110401011,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Glacial Skyhold
+110401021,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Sandmaw
+110401031,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Rock Chasm Fortress
+110401041,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Mushugal
+110401051,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Deepwood Citadel
+110401061,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Blue Wyvern
+110401071,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Rock Chasm Fortress
+110401081,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Kirjur
+110401091,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Glacial Skyhold
+110401101,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Thunderbird
+110401111,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Rock Chasm Fortress
+110401121,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Mushugal
+110401131,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Abyssal Pit
+110401141,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Kuduru Great Warrior
+110401151,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Kirjur
+110402011,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Glacial Skyhold
+110402021,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Thorn Boar
+110402031,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Rock Chasm Fortress
+110402041,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Mushugal
+110402051,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Deepwood Citadel
+110402061,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Giant Majestic Wyvern
+110402071,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Rock Chasm Fortress
+110402081,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Great Lord of the Forest
+110402091,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Glacial Skyhold
+110402101,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Giant Carapace Beast
+110402111,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Rock Chasm Fortress
+110402121,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Thunderbird
+110402131,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Abyssal Pit
+110402141,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Kuduru Great Warrior
+110402151,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Kirjur
+110501011,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Unclaimed Woods
+110501021,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Ashen Crow Woods
+110501031,Explore {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Azure Threads
+110501041,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Blue Wyvern
+110501051,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Risen Ruins
+110501061,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Ashen Crow Woods
+110501071,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Unclaimed Woods
+110501081,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Gigaz
+110501091,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Azure Threads
+110501101,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Ashen Crow Woods
+110501111,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Risen Ruins
+110501121,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Bladed Bat
+110501131,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Unclaimed Woods
+110501141,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Golden-Maned Bison
+110501151,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Urukkur
+110502011,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Glacial Skyhold
+110502021,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Thorn Boar
+110502031,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Rock Chasm Fortress
+110502041,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Mushugal
+110502051,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Deepwood Citadel
+110502061,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Giant Majestic Wyvern
+110502071,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Rock Chasm Fortress
+110502081,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Great Lord of the Forest
+110502091,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Glacial Skyhold
+110502101,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Giant Carapace Beast
+110502111,Defend {StringParam},Defend the Sacred Torch from the surging fury of monsters in {StringParam}.,Rock Chasm Fortress
+110502121,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Thunderbird
+110502131,Explore {StringParam},Fight through the hordes of monsters in {StringParam} and eliminate the danger lurking deep within.,Abyssal Pit
+110502141,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Kuduru Great Warrior
+110502151,Defeat {StringParam},Defeat {StringParam}{jstag:}.,Kirjur
+115001011,<Talim>choice</>,<Talim>overcome or fall</>,
+115001021,<Talim>brave</>,<Talim>face the trial</>,
+115001031,<Talim>strength</>,<Talim>conquer the trial</>,
+115001041,<Talim>beyond</>,<Talim>step into fate</>,
+115001051,<Talim>patience</>,<Talim>trial awaits</>,
+115001061,<Talim>indomitable</>,<Talim>defy the impossible</>,
+115001071,<Talim>truth</>,<Talim>fear fear itself</>,
+115001081,<Talim>time</>,<Talim>live or leave</>,
+115001091,<Talim>hope</>,<Talim>light the long dark</>,
+115001101,<Talim>ease</>,<Talim>be arrogant and subjugated</>,
+115001111,<Talim>serene</>,<Talim>kill inner noise</>,
+115001121,<Talim>get</>,<Talim>through the trial</>,
+115001131,<Talim>resolve</>,<Talim>shatter the illusion</>,
+115001141,<Talim>despair</>,<Talim>drown in echoes</>,
+115001151,<Talim>sacrifice</>,<Talim>bleed for tomorrow</>,
+115001161,<Talim>void</>,<Talim>embrace the abyss</>,
+115001171,<Talim>faith</>,<Talim>walk the unseen path</>,
+115001181,<Talim>wrath</>,<Talim>burn the ashes</>,
+115001191,<Talim>endurance</>,<Talim>endure the burden</>,
+115001201,<Talim>defiance</>,<Talim>face the tide</>,
+11500201,Halo Rift {StringParam},Defeat the monsters before time runs out to earn rewards.,I
+11500202,Halo Rift {StringParam},Defeat the monsters before time runs out to earn rewards.,Ⅱ
+11500203,Halo Rift {StringParam},Defeat the monsters before time runs out to earn rewards.,Ⅲ
+11500204,Halo Rift {StringParam},Defeat the monsters before time runs out to earn rewards.,IV
+11500205,Halo Rift {StringParam},Defeat the monsters before time runs out to earn rewards.,V
+11500206,Halo Rift {StringParam},Defeat the monsters before time runs out to earn rewards.,VI
+210101011,Leap and Soar,Follow the Dimensional Fragments to the final destination.,
+210101021,First Steps of Gliding,Pass through the Rings of Light to the final destination.,
+210101031,Secrets Buried in Sand,Operate the devices to move blocks and reach your destination.,
+210101041,First Steps of Combat,Defeat the Guardian of the Treasure before time runs out.,
+210101051,Steps Across the Water,Follow the Dimensional Fragments to the final destination.,
+210101061,Trial of Flight {StringParam},Pass through the Rings of Light to the final destination.,Ⅰ
+210101071,Moving Blocks upon the Water,Operate the devices to move blocks and reach your destination.,
+210101081,First Steps of Combat,Defeat the Guardian of the Treasure before time runs out.,
+210101091,Trial of Leap {StringParam},Find as many Dimensional Fragments as possible and reach your destination.,2-1
+210101101,Trial of Flight {StringParam},Pass through the Rings of Light to the final destination.,2-1
+210101111,Trial of Wisdom {StringParam},Step on the pressure plates to move blocks and reach your destination.,2-1
+210101121,Trial of Combat {StringParam},Defeat the Guardian of the Treasure before time runs out.,2-1
+210101131,Trial of Flight {StringParam},Pass through the Rings of Light to the final destination.,2-2
+210101141,Trial of Wisdom {StringParam},Operate the devices to move blocks and reach your destination.,2-2
+210101151,Trial of Combat {StringParam},Defeat the Guardian of the Treasure before time runs out.,2-2
+210201011,To the Lofty Skies,Follow the Dimensional Fragments to reach the final destination.,
+210201021,Trial of Flight {StringParam},Pass through the Rings of Light to reach the final destination.,Ⅱ
+210201031,Amidst the Water Mist,Operate the devices to move blocks and reach your destination.,
+210201041,Trial of Combat Novice,Defeat the Guardian of the Treasure before time runs out.,
+210201051,Along the Flowing River,Follow the Dimensional Fragments to the final destination.,
+210201061,Trial of Flight {StringParam},Pass through the Rings of Light to the final destination.,Ⅲ
+210201071,Secrets Buried in the Ruins,Operate the devices to move blocks and reach your destination.,
+210201081,Trial of Combat Intermediate,Defeat the Guardian of the Treasure before time runs out.,
+210201091,Trial of Leap {StringParam},Find as many Dimensional Fragments as possible and reach your destination.,2-2
+210201101,Trial of Flight {StringParam},Pass through the Rings of Light to the final destination.,2-3
+210201111,Trial of Wisdom {StringParam},Step on the pressure plates to move blocks and reach your destination.,2-3
+210201121,Trial of Combat {StringParam},Defeat the Guardian of the Treasure before time runs out.,2-3
+210201131,Trial of Flight {StringParam},Pass through the Rings of Light to the final destination.,2-4
+210201141,Trial of Wisdom {StringParam},Operate the devices to move blocks and reach your destination.,2-4
+210201151,Trial of Combat {StringParam},Defeat the Guardian of the Treasure before time runs out.,2-4
+210301011,Treasure Hunt,Find as many Dimensional Fragments as possible and reach your destination.,
+210301021,"Turn Right, then Turn Left",Pass through the Rings of Light to the final destination.,
+210301031,One Step at a Time,Operate the devices to move blocks and reach your destination.,
+210301041,Combat in the Forest {StringParam},Defeat the Guardian of the Treasure before time runs out.,Ⅳ
+210301051,Jump Up and Down,Follow the Dimensional Fragments to the final destination.,
+210301061,Glide over the Seashore,Pass through the Rings of Light to the final destination.,
+210301071,The Long and the Short,Operate the devices to move blocks and reach your destination.,
+210301081,Combat in the Forest {StringParam},Defeat the Guardian of the Treasure before time runs out.,Ⅷ
+210301091,Trial of Leap {StringParam},Follow the Dimensional Fragments to the final destination.,2-3
+210301101,Glide over the Seashore,Pass through the Rings of Light to the final destination.,
+210301111,Trial of Wisdom {StringParam},Operate the devices to move blocks and reach your destination.,2-5
+210301121,Trial of Combat {StringParam},Defeat the Guardian of the Treasure before time runs out.,2-5
+210301131,Trial of Flight {StringParam},Pass through the Rings of Light to the final destination.,2-6
+210301141,Trial of Wisdom {StringParam},Operate the devices to move blocks and reach your destination.,2-6
+210301151,Trial of Combat {StringParam},Defeat the Guardian of the Treasure before time runs out.,2-6
+210401011,Approaching Shadow,Follow the Dimensional Fragments to reach the final destination.,
+210401021,Following the Moving Rings,Pass through the Rings of Light to the final destination.,
+210401031,The Perfect Height,Operate the devices to move blocks and reach your destination.,
+210401041,Combat in the Snowfield {StringParam},Defeat the Guardian of the Treasure before time runs out.,Ⅳ
+210401051,Combat in the Snowfield {StringParam},Defeat the Guardian of the Treasure before time runs out.,Ⅴ
+210401061,Combat in the Snowfield {StringParam},Defeat the Guardian of the Treasure before time runs out.,Ⅵ
+210401071,Combat in the Snowfield {StringParam},Defeat the Guardian of the Treasure before time runs out.,Ⅶ
+210401081,Combat in the Snowfield {StringParam},Defeat the Guardian of the Treasure before time runs out.,Ⅷ
+210401091,Trial of Leap {StringParam},Follow the Dimensional Fragments to the final destination.,2-4
+210401101,Trial of Flight {StringParam},Pass through the Rings of Light to the final destination.,2-7
+210401111,Trial of Wisdom {StringParam},Step on the pressure plates to move blocks and reach your destination.,2-7
+210401121,Trial of Combat {StringParam},Defeat the Guardian of the Treasure before time runs out.,2-7
+210401131,Trial of Flight {StringParam},Pass through the Rings of Light to the final destination.,2-8
+210401141,Trial of Wisdom {StringParam},Operate the devices to move blocks and reach your destination.,2-8
+210401151,Trial of Combat {StringParam},Defeat the Guardian of the Treasure before time runs out.,2-8
+210501011,Trial of Leap {StringParam},Find as many Dimensional Fragments as possible and reach your destination.,3-1
+210501021,Trial of Flight {StringParam},Pass through the Rings of Light to the final destination.,3-1
+210501031,Trial of Wisdom {StringParam},Step on the pressure plates to move blocks and reach your destination.,3-1
+210501041,Trial of Combat {StringParam},Defeat the Guardian of the Treasure before time runs out.,3-1
+210501051,Trial of Leap {StringParam},Follow the Dimensional Fragments to reach the final destination.,3-2
+210501061,Trial of Flight {StringParam},Pass through the Rings of Light to the final destination.,3-2
+210501071,Trial of Wisdom {StringParam},Operate the devices to move blocks and reach your destination.,3-2
+210501081,Trial of Combat {StringParam},Defeat the Guardian of the Treasure before time runs out.,3-2
+811010101,Angbar Arena {StringParam},Angbar Arena {StringParam},1-1
+811010201,Angbar Arena {StringParam},Angbar Arena {StringParam},1-2
+811010301,Angbar Arena {StringParam},Angbar Arena {StringParam},1-3
+811020101,Angbar Arena {StringParam},Angbar Arena {StringParam},2-1
+811020201,Angbar Arena {StringParam},Angbar Arena {StringParam},2-2
+811020301,Angbar Arena {StringParam},Angbar Arena {StringParam},2-3
+811030101,Angbar Arena {StringParam},Angbar Arena {StringParam},3-1
+811030201,Angbar Arena {StringParam},Angbar Arena {StringParam},3-2
+811030301,Angbar Arena {StringParam},Angbar Arena {StringParam},3-3
+811040101,Angbar Arena {StringParam},Angbar Arena {StringParam},4-1
+811040201,Angbar Arena {StringParam},Angbar Arena {StringParam},4-2
+811040301,Angbar Arena {StringParam},Angbar Arena {StringParam},4-3
+801020001,(Test) Replica Seed - {StringParam},(Test) Replica Seed - {StringParam},Karugura
+801021101,Replica Seed (Active),"{StringParam} Essence extracted via the Replica Seed.
+Cells are proliferating with seething intensity.",Karugura
+801021201,Replica Seed (Active),"{StringParam} Essence extracted via the Replica Seed.
+Cells are multiplying at an explosive rate.",Shagriga
+801021301,Replica Seed (Active),"{StringParam} Essence extracted via the Replica Seed.
+Cells are multiplying at an explosive rate.",Ereshianna
+801021401,Replica Seed (Active),"{StringParam} Essence extracted via the Replica Seed.
+Cells are multiplying at an explosive rate.",Saharnugal
+801022101,Replica Seed (Active),"{StringParam} Essence extracted via the Replica Seed.
+Cells are proliferating with seething intensity.",Tagar
+801022201,Replica Seed (Active),"{StringParam} Essence extracted via the Replica Seed.
+Cells are multiplying at an explosive rate.",Daidalkur
+801022301,Replica Seed (Active),"{StringParam} Essence extracted via the Replica Seed.
+Cells are multiplying at an explosive rate.",Saurgir
+801022401,Replica Seed (Active),"{StringParam} Essence extracted via the Replica Seed.
+Cells are multiplying at an explosive rate.",Galarusia
+801023101,Replica Seed (Active),"{StringParam} Essence extracted via the Replica Seed.
+Cells are proliferating with seething intensity.",Gigaz
+801023201,Replica Seed (Active),"{StringParam} Essence extracted via the Replica Seed.
+Cells are proliferating with seething intensity.",Urukkur
+801023301,Replica Seed (Active),"{StringParam} Essence extracted via the Replica Seed.
+Cells are multiplying at an explosive rate.",Aluk
+801023401,Replica Seed (Active),"{StringParam} Essence extracted via the Replica Seed.
+Cells are multiplying at an explosive rate.",Kakazu
+801023501,Replica Seed (Active),"{StringParam} Essence extracted via the Replica Seed.
+Cells are multiplying at an explosive rate.",Lugaz
+801024101,Replica Seed (Active),"{StringParam} Essence extracted via the Replica Seed.
+Cells are proliferating with seething intensity.",Mushugal
+801024201,Replica Seed (Active),"{StringParam} Essence extracted via the Replica Seed.
+Cells are proliferating with seething intensity.",Kirjur
+801024301,Replica Seed (Active),"{StringParam} Essence extracted via the Replica Seed.
+Cells are multiplying at an explosive rate.",Gnumar
+801024401,Replica Seed (Active),"{StringParam} Essence extracted via the Replica Seed.
+Cells are multiplying at an explosive rate.",Tilaga
+801024501,Replica Seed (Active),"{StringParam} Essence extracted via the Replica Seed.
+Cells are multiplying at an explosive rate.",Shagan
+802010101,Defend {StringParam},Defend the Sacred Torch of Athraharis against the enraged monsters.,Desolate Citadel
+802010102,Defend {StringParam},Defend the Sacred Torch of Athraharis against the enraged monsters.,Desolate Citadel
+802010103,Defend {StringParam},Defend the Sacred Torch of Athraharis against the enraged monsters.,Desolate Citadel
+802010104,Defend {StringParam},Defend the Sacred Torch of Athraharis against the enraged monsters.,Desolate Citadel
+802010201,Defend {StringParam},Defend the Sacred Torch of Athraharis against the enraged monsters.,Desolate Citadel
+802010202,Defend {StringParam},Defend the Sacred Torch of Athraharis against the enraged monsters.,Desolate Citadel
+802010203,Defend {StringParam},Defend the Sacred Torch of Athraharis against the enraged monsters.,Desolate Citadel
+802010301,Defend {StringParam},Defend the Sacred Torch of Athraharis against the enraged monsters.,Desolate Citadel
+802010302,Defend {StringParam},Defend the Sacred Torch of Athraharis against the enraged monsters.,Desolate Citadel
+802010303,Defend {StringParam},Defend the Sacred Torch of Athraharis against the enraged monsters.,Desolate Citadel
+130101101,Ordeal of Binding,Conquer Arbiter’s Ordeal to prove your strength!,
+130101102,Ordeal of Binding,Conquer Arbiter’s Ordeal to prove your strength!,
+130101103,Ordeal of Binding,Conquer Arbiter’s Ordeal to prove your strength!,
+130101104,Ordeal of Binding,Conquer Arbiter’s Ordeal to prove your strength!,
+130101105,Ordeal of Binding,Conquer Arbiter’s Ordeal to prove your strength!,
+130101106,Ordeal of Binding,Conquer Arbiter’s Ordeal to prove your strength!,
+130101201,Ordeal of Skill,Conquer Arbiter’s Ordeal to prove your strength!,
+130101202,Ordeal of Skill,Conquer Arbiter’s Ordeal to prove your strength!,
+130101203,Ordeal of Skill,Conquer Arbiter’s Ordeal to prove your strength!,
+130101204,Ordeal of Skill,Conquer Arbiter’s Ordeal to prove your strength!,
+130101205,Ordeal of Skill,Conquer Arbiter’s Ordeal to prove your strength!,
+130101206,Ordeal of Skill,Conquer Arbiter’s Ordeal to prove your strength!,
+130101301,Ordeal of Constellations,Conquer Arbiter’s Ordeal to prove your strength!,
+130101302,Ordeal of Constellations,Conquer Arbiter’s Ordeal to prove your strength!,
+130101303,Ordeal of Constellations,Conquer Arbiter’s Ordeal to prove your strength!,
+130101304,Ordeal of Constellations,Conquer Arbiter’s Ordeal to prove your strength!,
+130101305,Ordeal of Constellations,Conquer Arbiter’s Ordeal to prove your strength!,
+130101306,Ordeal of Constellations,Conquer Arbiter’s Ordeal to prove your strength!,
+130101401,Ordeal of Gold,Conquer Arbiter’s Ordeal to prove your strength!,
+130101402,Ordeal of Gold,Conquer Arbiter’s Ordeal to prove your strength!,
+130101403,Ordeal of Gold,Conquer Arbiter’s Ordeal to prove your strength!,
+130101404,Ordeal of Gold,Conquer Arbiter’s Ordeal to prove your strength!,
+130101405,Ordeal of Gold,Conquer Arbiter’s Ordeal to prove your strength!,
+130101406,Ordeal of Gold,Conquer Arbiter’s Ordeal to prove your strength!,
+120101011,Explore {StringParam},Survive the monster threats alongside your allies.,Blue Demon Ruins
+120101021,Explore {StringParam},Survive the monster threats alongside your allies.,Blue Demon Ruins
+120101031,Explore {StringParam},Survive the monster threats alongside your allies.,Blue Demon Ruins
+120101041,Explore {StringParam},Survive the monster threats alongside your allies.,Blue Demon Ruins
+120201011,Explore {StringParam},Survive the monster threats alongside your allies.,Abyss Hunter's Swamp
+120201021,Explore {StringParam},Survive the monster threats alongside your allies.,Abyss Hunter's Swamp
+120201031,Explore {StringParam},Survive the monster threats alongside your allies.,Abyss Hunter's Swamp
+120201041,Explore {StringParam},Survive the monster threats alongside your allies.,Abyss Hunter's Swamp
+120301011,Explore {StringParam},Survive the monster threats alongside your allies.,Grave of Dead Roots
+120301021,Explore {StringParam},Survive the monster threats alongside your allies.,Grave of Dead Roots
+120301031,Explore {StringParam},Survive the monster threats alongside your allies.,Grave of Dead Roots
+120301041,Explore {StringParam},Survive the monster threats alongside your allies.,Grave of Dead Roots
+120401011,Desperate Fight for Survival,Survive the monster threats alongside your allies.,
+121101011,Explore {StringParam},Survive the monster threats alongside your allies.,Blue Demon Ruins
+121101021,Explore {StringParam},Survive the monster threats alongside your allies.,Blue Demon Ruins
+121101031,Explore {StringParam},Survive the monster threats alongside your allies.,Blue Demon Ruins
+121101041,Explore {StringParam},Survive the monster threats alongside your allies.,Blue Demon Ruins
+121201011,Explore {StringParam},Survive the monster threats alongside your allies.,Abyss Hunter's Swamp
+121201021,Explore {StringParam},Survive the monster threats alongside your allies.,Abyss Hunter's Swamp
+121201031,Explore {StringParam},Survive the monster threats alongside your allies.,Abyss Hunter's Swamp
+121201041,Explore {StringParam},Survive the monster threats alongside your allies.,Abyss Hunter's Swamp
+121301011,Explore {StringParam},Survive the monster threats alongside your allies.,Grave of Dead Roots
+121301021,Explore {StringParam},Survive the monster threats alongside your allies.,Grave of Dead Roots
+121301031,Explore {StringParam},Survive the monster threats alongside your allies.,Grave of Dead Roots
+121301041,Explore {StringParam},Survive the monster threats alongside your allies.,Grave of Dead Roots
+125101011,Explore {StringParam},Survive the monster threats alongside your allies.,Uninvited Guest
+125101021,Explore {StringParam},Survive the monster threats alongside your allies.,Uninvited Guest
+125101031,Explore {StringParam},Survive the monster threats alongside your allies.,Uninvited Guest
+140101101,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140101102,Infinite Spire,Defeat all monsters before time runs out.,
+140101103,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140101104,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Karugura
+140101105,Infinite Spire,Defeat all monsters before time runs out.,
+140101106,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140101107,Infinite Spire,Defeat all monsters before time runs out.,
+140101108,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140101109,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Shagriga
+140101200,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140101201,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140101202,Infinite Spire,Defeat all monsters before time runs out.,
+140101203,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140101204,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Shadow Wolf Leader
+140101205,Infinite Spire,Defeat all monsters before time runs out.,
+140101206,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140101207,Infinite Spire,Defeat all monsters before time runs out.,
+140101208,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140101209,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Paradise Advent Prophet
+140101300,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140101301,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140101302,Infinite Spire,Defeat all monsters before time runs out.,
+140101303,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140101304,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Ironblood Brigade Leader
+140101305,Infinite Spire,Defeat all monsters before time runs out.,
+140101306,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140101307,Infinite Spire,Defeat all monsters before time runs out.,
+140101308,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140101309,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Apostle Valbas
+140101400,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140101401,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140101402,Infinite Spire,Defeat all monsters before time runs out.,
+140101403,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140101404,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Xeros
+140101405,Infinite Spire,Defeat all monsters before time runs out.,
+140101406,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140101407,Infinite Spire,Defeat all monsters before time runs out.,
+140101408,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140101409,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Apostle Logos
+140101500,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140101501,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140101502,Infinite Spire,Defeat all monsters before time runs out.,
+140101503,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140101504,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Astrid
+140101505,Infinite Spire,Defeat all monsters before time runs out.,
+140101506,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140101507,Infinite Spire,Defeat all monsters before time runs out.,
+140101508,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140101509,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Fahad
+140101600,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140102101,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140102102,Infinite Spire,Defeat all monsters before time runs out.,
+140102103,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140102104,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Karugura
+140102105,Infinite Spire,Defeat all monsters before time runs out.,
+140102106,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140102107,Infinite Spire,Defeat all monsters before time runs out.,
+140102108,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140102109,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Shagriga
+140102200,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140102201,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140102202,Infinite Spire,Defeat all monsters before time runs out.,
+140102203,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140102204,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Shadow Wolf Leader
+140102205,Infinite Spire,Defeat all monsters before time runs out.,
+140102206,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140102207,Infinite Spire,Defeat all monsters before time runs out.,
+140102208,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140102209,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Paradise Advent Prophet
+140102300,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140102301,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140102302,Infinite Spire,Defeat all monsters before time runs out.,
+140102303,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140102304,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Ironblood Brigade Leader
+140102305,Infinite Spire,Defeat all monsters before time runs out.,
+140102306,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140102307,Infinite Spire,Defeat all monsters before time runs out.,
+140102308,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140102309,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Apostle Valbas
+140102400,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140102401,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140102402,Infinite Spire,Defeat all monsters before time runs out.,
+140102403,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140102404,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Xeros
+140102405,Infinite Spire,Defeat all monsters before time runs out.,
+140102406,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140102407,Infinite Spire,Defeat all monsters before time runs out.,
+140102408,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140102409,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Apostle Logos
+140102500,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140102501,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140102502,Infinite Spire,Defeat all monsters before time runs out.,
+140102503,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140102504,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Astrid
+140102505,Infinite Spire,Defeat all monsters before time runs out.,
+140102506,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140102507,Infinite Spire,Defeat all monsters before time runs out.,
+140102508,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140102509,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Fahad
+140102600,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140103101,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140103102,Infinite Spire,Defeat all monsters before time runs out.,
+140103103,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140103104,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Karugura
+140103105,Infinite Spire,Defeat all monsters before time runs out.,
+140103106,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140103107,Infinite Spire,Defeat all monsters before time runs out.,
+140103108,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140103109,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Shagriga
+140103200,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140103201,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140103202,Infinite Spire,Defeat all monsters before time runs out.,
+140103203,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140103204,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Shadow Wolf Leader
+140103205,Infinite Spire,Defeat all monsters before time runs out.,
+140103206,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140103207,Infinite Spire,Defeat all monsters before time runs out.,
+140103208,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140103209,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Paradise Advent Prophet
+140103300,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140103301,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140103302,Infinite Spire,Defeat all monsters before time runs out.,
+140103303,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140103304,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Ironblood Brigade Leader
+140103305,Infinite Spire,Defeat all monsters before time runs out.,
+140103306,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140103307,Infinite Spire,Defeat all monsters before time runs out.,
+140103308,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140103309,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Apostle Valbas
+140103400,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140103401,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140103402,Infinite Spire,Defeat all monsters before time runs out.,
+140103403,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140103404,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Xeros
+140103405,Infinite Spire,Defeat all monsters before time runs out.,
+140103406,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140103407,Infinite Spire,Defeat all monsters before time runs out.,
+140103408,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140103409,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Apostle Logos
+140103500,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140103501,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140103502,Infinite Spire,Defeat all monsters before time runs out.,
+140103503,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140103504,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Astrid
+140103505,Infinite Spire,Defeat all monsters before time runs out.,
+140103506,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140103507,Infinite Spire,Defeat all monsters before time runs out.,
+140103508,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140103509,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Fahad
+140103600,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140104101,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140104102,Infinite Spire,Defeat all monsters before time runs out.,
+140104103,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140104104,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Karugura
+140104105,Infinite Spire,Defeat all monsters before time runs out.,
+140104106,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140104107,Infinite Spire,Defeat all monsters before time runs out.,
+140104108,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140104109,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Shagriga
+140104200,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140104201,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140104202,Infinite Spire,Defeat all monsters before time runs out.,
+140104203,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140104204,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Shadow Wolf Leader
+140104205,Infinite Spire,Defeat all monsters before time runs out.,
+140104206,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140104207,Infinite Spire,Defeat all monsters before time runs out.,
+140104208,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140104209,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Paradise Advent Prophet
+140104300,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140104301,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140104302,Infinite Spire,Defeat all monsters before time runs out.,
+140104303,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140104304,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Ironblood Brigade Leader
+140104305,Infinite Spire,Defeat all monsters before time runs out.,
+140104306,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140104307,Infinite Spire,Defeat all monsters before time runs out.,
+140104308,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140104309,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Apostle Valbas
+140104400,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140104401,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140104402,Infinite Spire,Defeat all monsters before time runs out.,
+140104403,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140104404,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Xeros
+140104405,Infinite Spire,Defeat all monsters before time runs out.,
+140104406,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140104407,Infinite Spire,Defeat all monsters before time runs out.,
+140104408,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140104409,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Apostle Logos
+140104500,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140104501,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140104502,Infinite Spire,Defeat all monsters before time runs out.,
+140104503,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140104504,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Astrid
+140104505,Infinite Spire,Defeat all monsters before time runs out.,
+140104506,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140104507,Infinite Spire,Defeat all monsters before time runs out.,
+140104508,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140104509,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Fahad
+140104600,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140105101,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140105102,Infinite Spire,Defeat all monsters before time runs out.,
+140105103,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140105104,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Karugura
+140105105,Infinite Spire,Defeat all monsters before time runs out.,
+140105106,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140105107,Infinite Spire,Defeat all monsters before time runs out.,
+140105108,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140105109,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Shagriga
+140105200,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140105201,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140105202,Infinite Spire,Defeat all monsters before time runs out.,
+140105203,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140105204,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Shadow Wolf Leader
+140105205,Infinite Spire,Defeat all monsters before time runs out.,
+140105206,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140105207,Infinite Spire,Defeat all monsters before time runs out.,
+140105208,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140105209,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Paradise Advent Prophet
+140105300,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140105301,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140105302,Infinite Spire,Defeat all monsters before time runs out.,
+140105303,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140105304,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Ironblood Brigade Leader
+140105305,Infinite Spire,Defeat all monsters before time runs out.,
+140105306,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140105307,Infinite Spire,Defeat all monsters before time runs out.,
+140105308,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140105309,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Apostle Valbas
+140105400,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140105401,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140105402,Infinite Spire,Defeat all monsters before time runs out.,
+140105403,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140105404,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Xeros
+140105405,Infinite Spire,Defeat all monsters before time runs out.,
+140105406,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140105407,Infinite Spire,Defeat all monsters before time runs out.,
+140105408,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140105409,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Apostle Logos
+140105500,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140105501,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140105502,Infinite Spire,Defeat all monsters before time runs out.,
+140105503,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140105504,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Astrid
+140105505,Infinite Spire,Defeat all monsters before time runs out.,
+140105506,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140105507,Infinite Spire,Defeat all monsters before time runs out.,
+140105508,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140105509,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Fahad
+140105600,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140106101,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140106102,Infinite Spire,Defeat all monsters before time runs out.,
+140106103,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140106104,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Karugura
+140106105,Infinite Spire,Defeat all monsters before time runs out.,
+140106106,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140106107,Infinite Spire,Defeat all monsters before time runs out.,
+140106108,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140106109,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Shagriga
+140106200,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140106201,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140106202,Infinite Spire,Defeat all monsters before time runs out.,
+140106203,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140106204,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Shadow Wolf Leader
+140106205,Infinite Spire,Defeat all monsters before time runs out.,
+140106206,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140106207,Infinite Spire,Defeat all monsters before time runs out.,
+140106208,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140106209,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Paradise Advent Prophet
+140106300,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140106301,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140106302,Infinite Spire,Defeat all monsters before time runs out.,
+140106303,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140106304,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Ironblood Brigade Leader
+140106305,Infinite Spire,Defeat all monsters before time runs out.,
+140106306,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140106307,Infinite Spire,Defeat all monsters before time runs out.,
+140106308,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140106309,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Apostle Valbas
+140106400,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140106401,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140106402,Infinite Spire,Defeat all monsters before time runs out.,
+140106403,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140106404,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Xeros
+140106405,Infinite Spire,Defeat all monsters before time runs out.,
+140106406,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140106407,Infinite Spire,Defeat all monsters before time runs out.,
+140106408,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140106409,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Apostle Logos
+140106500,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140106501,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140106502,Infinite Spire,Defeat all monsters before time runs out.,
+140106503,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140106504,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Astrid
+140106505,Infinite Spire,Defeat all monsters before time runs out.,
+140106506,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140106507,Infinite Spire,Defeat all monsters before time runs out.,
+140106508,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140106509,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Fahad
+140106600,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140107101,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140107102,Infinite Spire,Defeat all monsters before time runs out.,
+140107103,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140107104,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Karugura
+140107105,Infinite Spire,Defeat all monsters before time runs out.,
+140107106,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140107107,Infinite Spire,Defeat all monsters before time runs out.,
+140107108,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140107109,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Shagriga
+140107200,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140107201,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140107202,Infinite Spire,Defeat all monsters before time runs out.,
+140107203,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140107204,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Shadow Wolf Leader
+140107205,Infinite Spire,Defeat all monsters before time runs out.,
+140107206,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140107207,Infinite Spire,Defeat all monsters before time runs out.,
+140107208,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140107209,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Paradise Advent Prophet
+140107300,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140107301,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140107302,Infinite Spire,Defeat all monsters before time runs out.,
+140107303,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140107304,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Ironblood Brigade Leader
+140107305,Infinite Spire,Defeat all monsters before time runs out.,
+140107306,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140107307,Infinite Spire,Defeat all monsters before time runs out.,
+140107308,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140107309,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Apostle Valbas
+140107400,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140107401,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140107402,Infinite Spire,Defeat all monsters before time runs out.,
+140107403,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140107404,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Xeros
+140107405,Infinite Spire,Defeat all monsters before time runs out.,
+140107406,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140107407,Infinite Spire,Defeat all monsters before time runs out.,
+140107408,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140107409,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Apostle Logos
+140107500,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140107501,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140107502,Infinite Spire,Defeat all monsters before time runs out.,
+140107503,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140107504,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Astrid
+140107505,Infinite Spire,Defeat all monsters before time runs out.,
+140107506,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140107507,Infinite Spire,Defeat all monsters before time runs out.,
+140107508,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140107509,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Fahad
+140107600,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140108101,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140108102,Infinite Spire,Defeat all monsters before time runs out.,
+140108103,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140108104,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Karugura
+140108105,Infinite Spire,Defeat all monsters before time runs out.,
+140108106,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140108107,Infinite Spire,Defeat all monsters before time runs out.,
+140108108,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140108109,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Shagriga
+140108200,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140108201,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140108202,Infinite Spire,Defeat all monsters before time runs out.,
+140108203,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140108204,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Shadow Wolf Leader
+140108205,Infinite Spire,Defeat all monsters before time runs out.,
+140108206,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140108207,Infinite Spire,Defeat all monsters before time runs out.,
+140108208,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140108209,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Paradise Advent Prophet
+140108300,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140108301,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140108302,Infinite Spire,Defeat all monsters before time runs out.,
+140108303,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140108304,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Ironblood Brigade Leader
+140108305,Infinite Spire,Defeat all monsters before time runs out.,
+140108306,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140108307,Infinite Spire,Defeat all monsters before time runs out.,
+140108308,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140108309,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Apostle Valbas
+140108400,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140108401,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140108402,Infinite Spire,Defeat all monsters before time runs out.,
+140108403,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140108404,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Xeros
+140108405,Infinite Spire,Defeat all monsters before time runs out.,
+140108406,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140108407,Infinite Spire,Defeat all monsters before time runs out.,
+140108408,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140108409,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Apostle Logos
+140108500,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140108501,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140108502,Infinite Spire,Defeat all monsters before time runs out.,
+140108503,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140108504,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Astrid
+140108505,Infinite Spire,Defeat all monsters before time runs out.,
+140108506,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140108507,Infinite Spire,Defeat all monsters before time runs out.,
+140108508,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140108509,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Fahad
+140108600,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140109101,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140109102,Infinite Spire,Defeat all monsters before time runs out.,
+140109103,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140109104,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Karugura
+140109105,Infinite Spire,Defeat all monsters before time runs out.,
+140109106,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140109107,Infinite Spire,Defeat all monsters before time runs out.,
+140109108,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140109109,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Shagriga
+140109200,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140109201,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140109202,Infinite Spire,Defeat all monsters before time runs out.,
+140109203,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140109204,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Shadow Wolf Leader
+140109205,Infinite Spire,Defeat all monsters before time runs out.,
+140109206,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140109207,Infinite Spire,Defeat all monsters before time runs out.,
+140109208,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140109209,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Paradise Advent Prophet
+140109300,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140109301,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140109302,Infinite Spire,Defeat all monsters before time runs out.,
+140109303,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140109304,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Ironblood Brigade Leader
+140109305,Infinite Spire,Defeat all monsters before time runs out.,
+140109306,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140109307,Infinite Spire,Defeat all monsters before time runs out.,
+140109308,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140109309,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Apostle Valbas
+140109400,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140109401,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140109402,Infinite Spire,Defeat all monsters before time runs out.,
+140109403,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140109404,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Xeros
+140109405,Infinite Spire,Defeat all monsters before time runs out.,
+140109406,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140109407,Infinite Spire,Defeat all monsters before time runs out.,
+140109408,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140109409,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Apostle Logos
+140109500,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+140109501,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140109502,Infinite Spire,Defeat all monsters before time runs out.,
+140109503,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140109504,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Astrid
+140109505,Infinite Spire,Defeat all monsters before time runs out.,
+140109506,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140109507,Infinite Spire,Defeat all monsters before time runs out.,
+140109508,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Monster Horde
+140109509,Infinite Spire,Defeat {StringParam}{jstag:} before time runs out.,Fahad
+140109600,Infinite Spire,"Defeat as many monsters as you can before time runs out.
+Slaying chefes grants massive points!",
+150101011,Enhancement Barrier Level {StringParam},You’re in the Enhancement Barrier Level {StringParam}.,1
+150101021,Enhancement Barrier Level {StringParam},You’re in the Enhancement Barrier Level {StringParam}.,2
+150101031,Enhancement Barrier Level {StringParam},You’re in the Enhancement Barrier Level {StringParam}.,3
+150101041,Enhancement Barrier Level {StringParam},You’re in the Enhancement Barrier Level {StringParam}.,4
+150101051,Enhancement Barrier Level {StringParam},You’re in the Enhancement Barrier Level {StringParam}.,5
+150101061,Enhancement Barrier Level {StringParam},You’re in the Enhancement Barrier Level {StringParam}.,6
+150101071,Enhancement Barrier Level {StringParam},You’re in the Enhancement Barrier Level {StringParam}.,7
+150101081,Enhancement Barrier Level {StringParam},You’re in the Enhancement Barrier Level {StringParam}.,8
+150102011,Golden Barrier Level {StringParam},You’re in the Golden Barrier Level {StringParam}.,1
+150102021,Golden Barrier Level {StringParam},You’re in the Golden Barrier Level {StringParam}.,2
+150102031,Golden Barrier Level {StringParam},You’re in the Golden Barrier Level {StringParam}.,3
+150102041,Golden Barrier Level {StringParam},You’re in the Golden Barrier Level {StringParam}.,4
+150102051,Golden Barrier Level {StringParam},You’re in the Golden Barrier Level {StringParam}.,5
+150102061,Golden Barrier Level {StringParam},You’re in the Golden Barrier Level {StringParam}.,6
+150102071,Golden Barrier Level {StringParam},You’re in the Golden Barrier Level {StringParam}.,7
+150102081,Golden Barrier Level {StringParam},You’re in the Golden Barrier Level {StringParam}.,8
+150701011,Barrier of the Unknown Level {StringParam},You’re in the Barrier of the Unknown Level {StringParam}.,1
+150701021,Barrier of the Unknown Level {StringParam},You’re in the Barrier of the Unknown Level {StringParam}.,2
+150701031,Barrier of the Unknown Level {StringParam},You’re in the Barrier of the Unknown Level {StringParam}.,3
+150701041,Barrier of the Unknown Level {StringParam},You’re in the Barrier of the Unknown Level {StringParam}.,4
+150701051,Barrier of the Unknown Level {StringParam},You’re in the Barrier of the Unknown Level {StringParam}.,5
+150701061,Barrier of the Unknown Level {StringParam},You’re in the Barrier of the Unknown Level {StringParam}.,6
+150701071,Barrier of the Unknown Level {StringParam},You’re in the Barrier of the Unknown Level {StringParam}.,7
+150701081,Barrier of the Unknown Level {StringParam},You’re in the Barrier of the Unknown Level {StringParam}.,8
+160101011,Averus Level {StringParam},Defeat Averus and free the space-time he has imprisoned.,1
+160101021,Averus Level {StringParam},Defeat Averus and free the space-time he has imprisoned.,2
+160101031,Averus Level {StringParam},Defeat Averus and free the space-time he has imprisoned.,3
+160101041,Averus Level {StringParam},Defeat Averus and free the space-time he has imprisoned.,4
+170101011,Hall of Proof,Bring glory to your clan by slaying as many chefes as possible before time runs out.,

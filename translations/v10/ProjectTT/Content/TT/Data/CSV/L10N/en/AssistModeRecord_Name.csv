@@ -1,0 +1,12 @@
+﻿Id,SystemMessage,HistoryString
+0,A batalha automática de IA terminou.,A batalha automática de IA terminou.
+1,começou.,começou.
+2,O personagem foi revivido.,O personagem foi revivido automaticamente após a morte.
+3,Healer Priest removeu a Pena de Morte.,Healer Priest removeu a pena de morte. ([Value])
+4,Item armazenado.,Item armazenado devido a espaço insuficiente no estoque.
+6,Comprou um bônus de monólito.,Comprou um bônus de monólito. [Value] consumido.
+5,Comprou um consumível.,Comprou um consumível. [Value] consumido.
+8,Retornando aos Campos de Caça.,
+11,Indo para a Loja para comprar consumíveis.,
+12,Mover para Armazenamento para armazenar itens.,
+13,Mudança para Healer Priest para remover a pena de morte.,

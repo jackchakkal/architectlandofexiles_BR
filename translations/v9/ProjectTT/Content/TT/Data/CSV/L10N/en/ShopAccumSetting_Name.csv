@@ -1,0 +1,15 @@
+﻿Id,Name,Param
+101,Dados cumulativos de teste de página de pagamento,
+110003,Compras cumulativas semanais/mensais,
+110101,Compras cumulativas semanais/mensais ({Param}),S2
+110201,Compras cumulativas semanais/mensais ({Param}),S3
+110301,Compras cumulativas semanais/mensais ({Param}),S4
+110401,Compras cumulativas semanais/mensais ({Param}),S5
+110501,Compras cumulativas semanais/mensais ({Param}),S6
+110601,Compras cumulativas semanais/mensais ({Param}),S7
+210001,Chaveiro Milestone Summon,
+110701,Compras cumulativas semanais/mensais ({Param}),S8
+112001,Novo produto de marco,
+110801,Celebração de lançamento global,
+110802,Compras cumulativas semanais/mensais,
+110902,Compras cumulativas semanais/mensais,

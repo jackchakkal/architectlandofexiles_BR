@@ -1,0 +1,665 @@
+﻿Id,Name,Desc,Param
+190110000,Roupa de baixo,,
+190110001,Habitante do Abandoned Land,,
+190110002,Exílio de {Param},,Enkia
+190110003,Exílio de {Param},,Krea
+190110004,Exílio de {Param},,Stormkel
+190110005,Exílio de {Param},,Frantia
+190110006,Exílio de {Param},,Asientet
+190110007,Viajante de {Param},,Enkia
+190120008,Pioneiro de {Param},,Enkia
+190120009,Pioneiro de {Param},,Krea
+190110010,Viajante de {Param},,Krea
+190120011,Pioneiro de {Param},,Stormkel
+190120012,Pioneiro de {Param},,Frantia
+190110013,Viajante de {Param},,Stormkel
+190120014,Pioneiro de {Param},,Asientet
+190120015,{Param} Aventureiro de,,Enkia
+190110016,Viajante de {Param},,Frantia
+190120017,{Param} Aventureiro de,,Krea
+190130018,{Param} Aventureiro de,,Frantia
+190110019,Viajante de {Param},,Asientet
+190120020,{Param} Aventureiro de,,Stormkel
+190130021,{Param} Aventureiro de,,Asientet
+190130022,Expedição de {Param},,Sertões
+190130023,Expedição de {Param},,Plains
+190130024,Expedição de {Param},,Cumes
+190130025,Expedição de {Param},,Campos de neve
+190210001,Elsetia’s Succession Outfit,,
+190210002,{Param}Warrior,,Honra
+190210003,{Param}Warrior,,Indomável
+190210004,Grupo de Escotismo de {Param},,Labyrinth
+190210005,Explorador de {Param},,Asientet
+190210006,Monstro de {Param} Hunter,,Asientet
+190210007,Fixador de {Param},,Krea
+190210008,Andarilho de {Param},,Krea
+190210009,Fixador de {Param},,Stormkel
+190210010,Monstro de {Param} Hunter,,Frantia
+190210011,Fixador de {Param},,Enkia
+190220012,Andarilho de {Param},,Enkia
+190220013,Grupo de Escotismo de {Param},,Ruínas
+190220014,Grupo de Escotismo de {Param},,Rift
+190220015,{Param}Warrior,,Valor
+190220016,Andarilho de {Param},,Asientet
+190220017,Explorador de {Param},,Krea
+190220018,Andarilho de {Param},,Stormkel
+190220019,Andarilho de {Param},,Frantia
+190230020,Explorador de {Param},,Enkia
+190230021,{Param}Warrior,,Vitória
+190230022,Fixador de {Param},,Asientet
+190230023,Monstro de {Param} Hunter,,Krea
+190230024,Monstro de {Param} Hunter,,Stormkel
+190230025,Explorador de {Param},,Frantia
+190230026,Monstro de {Param} Hunter,,Enkia
+190310001,{Param} Diretor,,Menor
+190310002,{Param} Mercenary,,Menor
+190310003,{Param} Mercenary,,Intermediário
+190310004,{Param} Swordsman,,Menor
+190310005,{Param} Swordsman,,Intermediário
+190310006,Tesouro Hunter,,
+190310007,Restaurador de Ruínas,,
+190310008,{Param} Infantaria,,Menor
+190310009,{Param} Infantaria,,Intermediário
+190310010,{Param} Scout,,Menor
+190310011,{Param} Scout,,Intermediário
+190310012,{Param} Priest,,Menor
+190310013,{Param} Agente especial,,Menor
+190310014,{Param} Agente especial,,Intermediário
+190310015,{Param} Executor,,Menor
+190310016,{Param} Rastreador,,Menor
+190320017,{Param} Diretor,,Intermediário
+190320018,{Param} Mercenary,,Maior
+190320019,{Param} Mercenary,,Supremo
+190320020,{Param} Swordsman,,Maior
+190320021,Colecionador de Ruínas,,
+190320022,Arqueólogo,,
+190320023,{Param} Executor,,Intermediário
+190320024,{Param} Diretor,,Maior
+190320025,{Param} Rastreador,,Intermediário
+190320026,{Param} Scout,,Maior
+190320027,{Param} Priest,,Intermediário
+190320028,{Param} Priest,,Maior
+190320029,{Param} Agente especial,,Maior
+190320030,Assistente de {Param},,Terra
+190330031,{Param} Agente especial,,Prime
+190330032,{Param} Priest,,Sênior
+190330033,{Param} Swordsman,,Apex
+190330034,{Param} Executor,,Maior
+190330035,{Param} Infantaria,,Maior
+190330036,{Param} Rastreador,,Maior
+190330037,Assistente de {Param},,Dispara
+190330038,Assistente de {Param},,Água
+190350039,{Param} Infantaria,,Elite
+190350040,{Param} Diretor,,Comando
+190350041,{Param} Scout,,Elite
+190350042,{Param} Executor,,Sênior
+190350043,{Param} Rastreador,,Prestigioso
+190350044,Assistente de {Param},,Vento
+190410001,Indomável Alto Geral,,
+190410002,Vingador das Trevas,,
+190410003,Lâmina dos Nove Reinos,,
+190410004,Real Guard,,
+190410005,Lobo Azul,,
+190410006,Inquisidor,,
+190410007,Herdeiro do Nobre,,
+190410008,Follower do antigo,,
+190410009,Majestade do Conquistador,,
+190410010,Libertador da Nova Humanidade,,
+190410011,Buscador de Éter,,
+190410012,Instrutor do Magic Corps,,
+190410013,Mage da Salvação,,
+190410014,Servo da Rainha,,
+190420015,Sábio da Torre de Areia,,
+190420016,Lealista do Reino Caído,,
+190420017,Perseguidor Silencioso,,
+190420018,Overlord of Transcendence,,
+190420019,Demônio Carmesim,,
+190420020,Conselho do equilíbrio,,
+190420021,Lutador do Leste,,
+190420022,Priest da Escuridão,,
+190420023,Frantia’s Star,,
+190420024,Enkia’s Divinity,,
+190420025,Buscador da verdade,,
+190420026,Nobre da Cidade Cinzenta,,
+190430027,Guardião da Muralha Norte,,
+190430028,Soberano Violento da Guerra,,
+190430029,Comandante do Magic Corps,,
+190430030,Herdeiro do Nobre,,
+190430031,Ilusionista,,
+190430032,Guarda Real do Arquimago,,
+190430033,Vestal Imaculada,,
+190430034,Árbitro Exaltado,,
+190450035,A Estrela do Norte,,
+190450036,Asceta Solitário,,
+190450037,Arcanista,,
+190450038,Governante da Maré Dourada,,
+190450039,Arauto das Constelações,,
+190450040,Árbitro implacável,,
+190450041,Festival Eterno,,
+190450042,O Grande Baile da Noite de Inverno,,
+190450043,Comandante do Regimento do Magic Corps,,
+190450045,Ordem da Estrela Azul,,
+190450046,Imperial Guard do Sol,,
+190450050,Chanceler da Irmandade,,
+190450051,Banquete de Neve Branca,,
+190450053,Cadete da Academia de Batalha,,
+190450054,Arquivista Arcano,,
+190450055,Uniforme do Regimento Scout (Básico),,
+190450056,Uniforme do Regimento Scout (capa),,
+190450057,Azure Royal Guard,,
+190450058,Alabaster Ethereal of Wishes,,
+190450059,Future-Weaver Regalia,,
+190450060,Arauto do Triunfo Radiante,,
+190450061,Infiltrador imprudente,,
+190450062,Véu de Reflexões,,
+190450064,Moonlight Walk,,
+190450065,Empregada doméstica,,
+190450066,Tidal Chaser,,
+190450067,Canção das Velas Azure,,
+190450068,Fantasia de 1º aniversário,,
+190510001,Executor de luz radiante,,
+190510002,Governante dos Espíritos,,
+190510003,Crimson Reaper,,
+190510004,Apóstolo da Morte,,
+190510005,Cavaleiro Dragão da Tempestade,,
+190510006,Destruidor do Caos,,
+190510007,Abissal Nobre,,
+190510008,Invencível God of War,,
+190520009,Cavaleiro Dragão Celestial,,
+190520010,Chaser of Spacetime,,
+190520011,Grão-Duque de Aço,,
+190520012,Apóstolo do Desastre,,
+190520013,Executor Ironblood,,
+190520014,Sucessor de autoridade,,
+190520015,Legion Commander of the Lunar Zenith,,
+190530016,Wayfinder dos Espíritos,,
+190530017,Ceifador da Vigília Eterna,,
+190530018,Grão-Duque de Scarlet,,
+190530019,Supernova,,
+190530020,Dimensional Chaser,,
+190550021,Fomentador da guerra,,
+190550022,Legion Commander of Transcendence,,
+190550023,Nobre do Caos,,
+190550024,Vigário das Estrelas,,
+190550025,Cardeal da Noite,,
+190550026,Oráculo do Paraíso,,
+190550029,Titan Bodysuit,,
+190550030,Cavaleiro Guardião of Storm,,
+190550031,Radiant Wayfinder,,
+190550032,Cavaleiro Guardião do Fogo Ardente,,
+190550033,Nobre Wayfinder,,
+190630001,Senhor das Quatro Estações,,
+190630002,Divine Majestade do Resplendor,,
+190630003,Divine Majestade do Luar,,
+190630004,Divine Majestade das Constelações,,
+190630005,Prophet da Perdição,,
+210110999,,,
+220110999,,,
+230110999,,,
+240110999,,,
+250110999,,,
+210110001,{Param} Espada Grande,,do Ilimitado Wanderer
+210110002,{Param} Espada Grande,,do Aventureiro Esquecido
+210110003,{Param} Espada Grande,,do Artesão Arrogante
+210110004,{Param} Espada Grande,,da Vontade Inflexível
+210120005,{Param} Espada Grande,,da Enganação Astuta
+210120006,{Param} Espada Grande,,da Harmonia Equilibrada
+210120007,{Param} Espada Grande,,Colhendo infortúnio
+210120008,{Param} Espada Grande,,da Dominância Dispersa
+210130009,{Param} Espada Grande,,Manchado pela Traição
+210130010,{Param} Espada Grande,,Invocando Sin
+210130011,{Param} Espada Grande,,Geada Brilhante
+220110001,{Param} Equipe,,do Ilimitado Wanderer
+220110002,{Param} Equipe,,do Aventureiro Esquecido
+220110003,{Param} Equipe,,do Artesão Arrogante
+220110004,{Param} Equipe,,da Vontade Inflexível
+220120005,{Param} Equipe,,da Enganação Astuta
+220120006,{Param} Equipe,,da Harmonia Equilibrada
+220120007,{Param} Equipe,,Colhendo infortúnio
+220120008,{Param} Equipe,,da Dominância Dispersa
+220130009,{Param} Equipe,,Manchado pela Traição
+220130010,{Param} Equipe,,Invocando Sin
+220130011,{Param} Equipe,,Geada Brilhante
+230110001,{Param} Orbe,,do Ilimitado Wanderer
+230110002,{Param} Orbe,,do Aventureiro Esquecido
+230110003,{Param} Orbe,,do Artesão Arrogante
+230110004,{Param} Orbe,,da Vontade Inflexível
+230120005,{Param} Orbe,,da Enganação Astuta
+230120006,{Param} Orbe,,da Harmonia Equilibrada
+230120007,{Param} Orbe,,Colhendo infortúnio
+230120008,{Param} Orbe,,da Dominância Dispersa
+230130009,{Param} Orbe,,Manchado pela Traição
+230130010,{Param} Orbe,,Invocando Sin
+230130011,{Param} Orbe,,Geada Brilhante
+240110001,{Param} Adaga,,do Ilimitado Wanderer
+240110002,{Param} Adaga,,do Aventureiro Esquecido
+240110003,{Param} Adaga,,do Artesão Arrogante
+240110004,{Param} Adaga,,da Vontade Inflexível
+240120005,{Param} Adaga,,da Enganação Astuta
+240120006,{Param} Adaga,,da Harmonia Equilibrada
+240120007,{Param} Adaga,,Colhendo infortúnio
+240120008,{Param} Adaga,,da Dominância Dispersa
+240130009,{Param} Adaga,,Manchado pela Traição
+240130010,{Param} Adaga,,Invocando Sin
+240130011,{Param} Adaga,,Geada Brilhante
+250110001,{Param} Arco,,do Ilimitado Wanderer
+250110002,{Param} Arco,,do Aventureiro Esquecido
+250110003,{Param} Arco,,do Artesão Arrogante
+250110004,{Param} Arco,,da Vontade Inflexível
+250120005,{Param} Arco,,da Enganação Astuta
+250120006,{Param} Arco,,da Harmonia Equilibrada
+250120007,{Param} Arco,,Colhendo infortúnio
+250120008,{Param} Arco,,da Dominância Dispersa
+250130009,{Param} Arco,,Manchado pela Traição
+250130010,{Param} Arco,,Invocando Sin
+250130011,{Param} Arco,,Geada Brilhante
+210210001,{Param} Espada Grande,,Escuro Sussurrante
+210210002,{Param} Espada Grande,,do Desafiador
+210210003,{Param} Espada Grande,,Temperado pela guerra
+210210004,{Param} Espada Grande,,dos Instintos de Combate
+210220005,{Param} Espada Grande,,da Resolução Manchada
+210220006,{Param} Espada Grande,,da Dor Invasiva
+210220007,{Param} Espada Grande,,de Bond
+210220008,{Param} Espada Grande,,da Obsessão Negra
+210230009,{Param} Espada Grande,,da Torrente Surgente
+210230010,{Param} Espada Grande,,Manchado de sangue
+220210001,{Param} Equipe,,Escuro Sussurrante
+220210002,{Param} Equipe,,do Desafiador
+220210003,{Param} Equipe,,Temperado pela guerra
+220210004,{Param} Equipe,,dos Instintos de Combate
+220220005,{Param} Equipe,,da Resolução Manchada
+220220006,{Param} Equipe,,da Dor Invasiva
+220220007,{Param} Equipe,,de Bond
+220220008,{Param} Equipe,,da Obsessão Negra
+220230009,{Param} Equipe,,da Torrente Surgente
+220230010,{Param} Equipe,,Manchado de sangue
+230210001,{Param} Orbe,,Escuro Sussurrante
+230210002,{Param} Orbe,,do Desafiador
+230210003,{Param} Orbe,,Temperado pela guerra
+230210004,{Param} Orbe,,dos Instintos de Combate
+230220005,{Param} Orbe,,da Resolução Manchada
+230220006,{Param} Orbe,,da Dor Invasiva
+230220007,{Param} Orbe,,de Bond
+230220008,{Param} Orbe,,da Obsessão Negra
+230230009,{Param} Orbe,,da Torrente Surgente
+230230010,{Param} Orbe,,Manchado de sangue
+240210001,{Param} Adaga,,Escuro Sussurrante
+240210002,{Param} Adaga,,do Desafiador
+240210003,{Param} Adaga,,Temperado pela guerra
+240210004,{Param} Adaga,,dos Instintos de Combate
+240220005,{Param} Adaga,,da Resolução Manchada
+240220006,{Param} Adaga,,da Dor Invasiva
+240220007,{Param} Adaga,,de Bond
+240220008,{Param} Adaga,,da Obsessão Negra
+240230009,{Param} Adaga,,da Torrente Surgente
+240230010,{Param} Adaga,,Manchado de sangue
+250210001,{Param} Arco,,Escuro Sussurrante
+250210002,{Param} Arco,,do Desafiador
+250210003,{Param} Arco,,Temperado pela guerra
+250210004,{Param} Arco,,dos Instintos de Combate
+250220005,{Param} Arco,,da Resolução Manchada
+250220006,{Param} Arco,,da Dor Invasiva
+250220007,{Param} Arco,,de Bond
+250220008,{Param} Arco,,da Obsessão Negra
+250230009,{Param} Arco,,da Torrente Surgente
+250230010,{Param} Arco,,Manchado de sangue
+210310001,{Param} Espada Grande,,da Vingança Fria
+210310002,{Param} Espada Grande,,Devorador de Vidas
+210310003,{Param} Espada Grande,,Sombra da meia-noite
+210310004,{Param} Espada Grande,,Do Guardião
+210320005,{Param} Espada Grande,,Dos Mortos Sem Nome
+210320006,{Param} Espada Grande,,Tecendo Ilusões
+210320007,{Param} Espada Grande,,Fantasma sem voz
+210320008,{Param} Espada Grande,,Da Raiva Distorcida
+210330009,{Param} Espada Grande,,Do Penitente Inocente
+210330010,{Param} Espada Grande,,Do Monstro Uivante
+210350011,{Param} Espada Grande,,Da Ferocidade Selvagem
+210350012,{Param} Espada Grande,,Do Espectro Dançante
+220310001,{Param} Equipe,,da Vingança Fria
+220310002,{Param} Equipe,,Devorador de Vidas
+220310003,{Param} Equipe,,Sombra da meia-noite
+220310004,{Param} Equipe,,Do Guardião
+220320005,{Param} Equipe,,Dos Mortos Sem Nome
+220320006,{Param} Equipe,,Tecendo Ilusões
+220320007,{Param} Equipe,,Fantasma sem voz
+220320008,{Param} Equipe,,Da Raiva Distorcida
+220330009,{Param} Equipe,,Do Penitente Inocente
+220330010,{Param} Equipe,,Do Monstro Uivante
+220350011,{Param} Equipe,,Da Ferocidade Selvagem
+220350012,{Param} Equipe,,Do Espectro Dançante
+230310001,{Param} Orbe,,da Vingança Fria
+230310002,{Param} Orbe,,Devorador de Vidas
+230310003,{Param} Orbe,,Sombra da meia-noite
+230310004,{Param} Orbe,,Do Guardião
+230320005,{Param} Orbe,,Dos Mortos Sem Nome
+230320006,{Param} Orbe,,Tecendo Ilusões
+230320007,{Param} Orbe,,Fantasma sem voz
+230320008,{Param} Orbe,,Da Raiva Distorcida
+230330009,{Param} Orbe,,Do Penitente Inocente
+230330010,{Param} Orbe,,Do Monstro Uivante
+230350011,{Param} Orbe,,Da Ferocidade Selvagem
+230350012,{Param} Orbe,,Do Espectro Dançante
+240310001,{Param} Adaga,,da Vingança Fria
+240310002,{Param} Adaga,,Devorador de Vidas
+240310003,{Param} Adaga,,Sombra da meia-noite
+240310004,{Param} Adaga,,Do Guardião
+240320005,{Param} Adaga,,Dos Mortos Sem Nome
+240320006,{Param} Adaga,,Tecendo Ilusões
+240320007,{Param} Adaga,,Fantasma sem voz
+240320008,{Param} Adaga,,Da Raiva Distorcida
+240330009,{Param} Adaga,,Do Penitente Inocente
+240330010,{Param} Adaga,,Do Monstro Uivante
+240350011,{Param} Adaga,,Da Ferocidade Selvagem
+240350012,{Param} Adaga,,Do Espectro Dançante
+250310001,{Param} Arco,,da Vingança Fria
+250310002,{Param} Arco,,Devorador de Vidas
+250310003,{Param} Arco,,Sombra da meia-noite
+250310004,{Param} Arco,,Do Guardião
+250320005,{Param} Arco,,Dos Mortos Sem Nome
+250320006,{Param} Arco,,Tecendo Ilusões
+250320007,{Param} Arco,,Fantasma sem voz
+250320008,{Param} Arco,,Da Raiva Distorcida
+250330009,{Param} Arco,,Do Penitente Inocente
+250330010,{Param} Arco,,Do Monstro Uivante
+250350011,{Param} Arco,,Da Ferocidade Selvagem
+250350012,{Param} Arco,,Do Espectro Dançante
+210410001,{Param} Espada Grande,,Do Final Cruel
+210410002,{Param} Espada Grande,,Da Aljava Silenciosa
+210410003,{Param} Espada Grande,,Queima de Almas
+210410004,{Param} Espada Grande,,Da Vingança Eterna
+210420005,{Param} Espada Grande,,Do Abismo Lamentador
+210420006,{Param} Espada Grande,,Do Santo Retorcido
+210420007,{Param} Espada Grande,,Do Executor Silencioso
+210420008,{Param} Espada Grande,,Do Julgamento Implacável
+210430009,{Param} Espada Grande,,Do Medo Gravado
+210430010,{Param} Espada Grande,,Do Coração Rupturante
+210430011,{Param} Espada Grande,,Da Mente Despedaçada
+210430012,{Param} Espada Grande,,Da Loucura Ressonante
+210450013,{Param} Espada Grande,,Da Perdição Destinada
+210450014,{Param} Espada Grande,,Do Espírito Isolado Soberano
+210450015,{Param} Espada Grande,,Glória Esquecida
+210450016,{Param} Espada Grande,,Verdura engolida
+210450017,{Param} Espada Grande,,Ataque
+220410001,{Param} Equipe,,Do Final Cruel
+220410002,{Param} Equipe,,Da Aljava Silenciosa
+220410003,{Param} Equipe,,Queima de Almas
+220410004,{Param} Equipe,,Da Vingança Eterna
+220420005,{Param} Equipe,,Do Abismo Lamentador
+220420006,{Param} Equipe,,Do Santo Retorcido
+220420007,{Param} Equipe,,Do Executor Silencioso
+220420008,{Param} Equipe,,Do Julgamento Implacável
+220430009,{Param} Equipe,,Do Medo Gravado
+220430010,{Param} Equipe,,Do Coração Rupturante
+220430011,{Param} Equipe,,Da Mente Despedaçada
+220430012,{Param} Equipe,,Da Loucura Ressonante
+220450013,{Param} Equipe,,Da Perdição Destinada
+220450014,{Param} Equipe,,Do Espírito Isolado Soberano
+220450015,{Param} Equipe,,Glória Esquecida
+220450016,{Param} Equipe,,Verdura engolida
+220450017,{Param} Equipe,,Ataque
+230410001,{Param} Orbe,,Do Final Cruel
+230410002,{Param} Orbe,,Da Aljava Silenciosa
+230410003,{Param} Orbe,,Queima de Almas
+230410004,{Param} Orbe,,Da Vingança Eterna
+230420005,{Param} Orbe,,Do Abismo Lamentador
+230420006,{Param} Orbe,,Do Santo Retorcido
+230420007,{Param} Orbe,,Do Executor Silencioso
+230420008,{Param} Orbe,,Do Julgamento Implacável
+230430009,{Param} Orbe,,Do Medo Gravado
+230430010,{Param} Orbe,,Do Coração Rupturante
+230430011,{Param} Orbe,,Da Mente Despedaçada
+230430012,{Param} Orbe,,Da Loucura Ressonante
+230450013,{Param} Orbe,,Da Perdição Destinada
+230450014,{Param} Orbe,,Do Espírito Isolado Soberano
+230450015,{Param} Orbe,,Glória Esquecida
+230450016,{Param} Orbe,,Verdura engolida
+230450017,{Param} Orbe,,Ataque
+240410001,{Param} Adaga,,Do Final Cruel
+240410002,{Param} Adaga,,Da Aljava Silenciosa
+240410003,{Param} Adaga,,Queima de Almas
+240410004,{Param} Adaga,,Da Vingança Eterna
+240420005,{Param} Adaga,,Do Abismo Lamentador
+240420006,{Param} Adaga,,Do Santo Retorcido
+240420007,{Param} Adaga,,Do Executor Silencioso
+240420008,{Param} Adaga,,Do Julgamento Implacável
+240430009,{Param} Adaga,,Do Medo Gravado
+240430010,{Param} Adaga,,Do Coração Rupturante
+240430011,{Param} Adaga,,Da Mente Despedaçada
+240430012,{Param} Adaga,,Da Loucura Ressonante
+240450013,{Param} Adaga,,Da Perdição Destinada
+240450014,{Param} Adaga,,Do Espírito Isolado Soberano
+240450015,{Param} Adaga,,Glória Esquecida
+240450016,{Param} Adaga,,Verdura engolida
+240450017,{Param} Adaga,,Ataque
+250410001,{Param} Arco,,Do Final Cruel
+250410002,{Param} Arco,,Da Aljava Silenciosa
+250410003,{Param} Arco,,Queima de Almas
+250410004,{Param} Arco,,Da Vingança Eterna
+250420005,{Param} Arco,,Do Abismo Lamentador
+250420006,{Param} Arco,,Do Santo Retorcido
+250420007,{Param} Arco,,Do Executor Silencioso
+250420008,{Param} Arco,,Do Julgamento Implacável
+250430009,{Param} Arco,,Do Medo Gravado
+250430010,{Param} Arco,,Do Coração Rupturante
+250430011,{Param} Arco,,Da Mente Despedaçada
+250430012,{Param} Arco,,Da Loucura Ressonante
+250450013,{Param} Arco,,Da Perdição Destinada
+250450014,{Param} Arco,,Do Espírito Isolado Soberano
+250450015,{Param} Arco,,Glória Esquecida
+250450016,{Param} Arco,,Verdura engolida
+250450017,{Param} Arco,,Ataque
+210510001,Espada Grande do Herói Retornado,,
+210510002,Conquistador da Fenda,,
+210510003,Stormbringer,,
+210510004,Morte do Berserker,,
+210520005,O Último Justiciar,,
+210520006,Crônica do Triunfo Radiante,,
+210530007,O Senhor Supremo do Aço,,
+210530008,Libertador do Destino,,
+210550009,Governante Eterno,,
+210550010,O War-Ender,,
+210550011,Andarilho noturno,,
+210550012,Punição da Tempestade,,
+210550013,{Param} Espada Grande,,Anel Dourado
+210550014,{Param} Espada Grande,,Celestial Ring's
+220510001,Cajado da Autoridade Abençoada,,
+220510002,Cajado de Divine Selo Recompensas de estágio,,
+220510003,Thunder Rod,,
+220510004,Ressonância Milagrosa,,
+220520005,Aliança da Radiância,,
+220520006,Hino de Salvação,,
+220530007,Lanterna da Glória Radiante,,
+220530008,Autoridade do Nobre Caído,,
+220550009,Ceifador do Submundo,,
+220550010,Punho dos Esquecidos Prophet,,
+220550011,Consciência vinculada,,
+220550012,Sintonizador Congelado,,
+220550013,{Param} Equipe,,Anel Dourado
+220550014,{Param} Equipe,,Celestial Ring's
+230510001,Fragmento de vazio,,
+230510002,Caixa do tempo distorcido,,
+230510003,Ilusão dos Cegos,,
+230510004,Abyssal Watcher,,
+230520005,Advento do Celestial,,
+230520006,Descida do Ancião,,
+230530007,Lanterna dos Pesadelos,,
+230530008,Sonho do Paraíso,,
+230550009,Nexus de dimensões,,
+230550010,Perfeição Impecável,,
+230550011,Luz do Incorporador,,
+230550012,Mangual de Blasfêmia,,
+230550013,{Param} Orbe,,Anel Dourado
+230550014,{Param} Orbe,,Celestial Ring's
+240510001,Sede Eterna de Sangue,,
+240510002,Arco-íris do Submundo,,
+240510003,Lâmina de corte de tempo,,
+240510004,Estigma Eterno,,
+240520005,Doom-Crier,,
+240520006,Desafiador Eterno,,
+240530007,Farol do Inferno,,
+240530008,Convite do Reaper,,
+240550009,Retornado de as Quatro Estações,,
+240550010,Presas do Dragão Vil,,
+240550011,Adaga da Cegueira,,
+240550012,O Penitente de Olhos Frios,,
+240550013,{Param} Adaga,,Anel Dourado
+240550014,{Param} Adaga,,Celestial Ring's
+250510001,Thunder Spike,,
+250510002,Meteor Fall,,
+250510003,Arco dos Céus,,
+250510004,O Aniquilador,,
+250520005,Dragon Slayer,,
+250520006,Marca do Submundo,,
+250530007,Limiar de Existência,,
+250530008,Arco Celestial,,
+250550009,Órbita Caótica,,
+250550010,Reencarnação do Rei Besta,,
+250550011,Devorador de Pecados,,
+250550012,Sussurros Perfurantes,,
+250550013,{Param} Arco,,Anel Dourado
+250550014,{Param} Arco,,Celestial Ring's
+210630001,Lâmina Sagrada Sem Nome,,
+210630002,Destruidor de Mundos,,
+210630003,{Param} Espada Grande,,Estrela Infundida
+220630001,O Deicídio,,
+220630002,Legado Celestial,,
+220630003,{Param} Equipe,,Estrela Infundida
+230630001,Coração do Arquidemônio,,
+230630002,Legado do Dragão Dourado,,
+230630003,{Param} Orbe,,Estrela Infundida
+240630001,Algemas da Imortalidade,,
+240630002,Mãos do Absoluto,,
+240630003,{Param} Adaga,,Estrela Infundida
+250630001,Prelúdio para o Apocalipse,,
+250630002,Limite Infinito,,
+250630003,{Param} Arco,,Estrela Infundida
+190100001,,,
+190100002,,,
+190100003,,,
+190100004,,,
+190100005,,,
+190100006,,,
+190100007,,,
+190100008,,,
+190100009,,,
+190100010,,,
+190100011,,,
+190100012,,,
+190100013,,,
+190100014,,,
+190100015,,,
+190100016,,,
+190100017,,,
+190100018,,,
+190100019,,,
+190100020,,,
+190100021,,,
+190100022,,,
+190100023,,,
+190100024,,,
+190100025,,,
+190100026,,,
+190100027,,,
+190100028,,,
+190100029,,,
+190100030,,,
+190100031,,,
+190100032,,,
+190100033,,,
+190100034,,,
+190100035,,,
+190100036,,,
+190100037,,,
+190100038,,,
+190100039,,,
+190100040,,,
+190100041,,,
+190100042,,,
+190100043,,,
+190100044,,,
+190100045,,,
+190100046,,,
+190100047,,,
+190100048,,,
+190100049,,,
+190100050,,,
+410110001,Tapa-olho do Insight,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410110002,Tapa-olho do Silêncio,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410110003,Tapa-olho do Monge,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410110004,Óculos de Conhecimento,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410110005,Óculos do aprendiz,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410110006,Óculos Dourados,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410110007,Orelhas Ferais,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410110008,Máscara Estrela Azul,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410110009,Máscara da Serenidade,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410110010,Máscara da Tranquilidade,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410210001,Óculos de Sabedoria,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410210002,Óculos do Mentor,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410210003,Monóculo da Iluminação,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410210004,Skyrunner Goggles,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410210005,Óculos de Crepúsculo,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410210006,Óculos de sol Nouveau Riche,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410210007,Óculos de sol da Avareza,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410210008,Máscara do Engenheiro,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410210009,Óculos de Bombeiro,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410210010,Mouthy Meow,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410310001,Batwing Headpiece,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410310002,Capacete agridoce,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410310003,Capacete de pipoca,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410310004,Olho de Cat,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410310005,Sonolento Cat Tapa-olho,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410310006,Óculos de sol de coração,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410310007,Óculos de sol alienígenas,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410310008,Máscara de gás do Juízo Final,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410310009,Coroa de espinhos do tirano,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410310010,Bubblegum,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410410001,Guard do Destruidor,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410410002,Enchanting Ears,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410410003,Orelhas Santas,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410410004,Fone de ouvido Miau rosa,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410410005,Neon Meow Headset,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410410006,Olhos Românticos,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410410007,Olhos Adoráveis,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410410008,Olhos Rosa,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410410009,Angelic Halo,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410410010,Chifres de Ouro do Tesoureiro,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",

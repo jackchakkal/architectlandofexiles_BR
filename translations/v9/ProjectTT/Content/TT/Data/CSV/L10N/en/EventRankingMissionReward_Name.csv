@@ -1,0 +1,47 @@
+﻿Id,Desc
+40101,Classificação {RequiredValue}
+40102,Classificação {RequiredValue}
+40103,Classificação {RequiredValue}
+40104,Topo {RequiredValue}
+40105,Topo {RequiredValue}
+40106,Topo {RequiredValue}
+40107,Principais 10%
+40108,Principais 20%
+40109,Principais 50%
+40110,Principais 75%
+40111,Principais 100%
+40201,Classificação {RequiredValue}
+40202,Classificação {RequiredValue}
+40203,Classificação {RequiredValue}
+40204,Topo {RequiredValue}
+40205,Topo {RequiredValue}
+40206,Topo {RequiredValue}
+40207,Principais 10%
+40208,Principais 20%
+40209,Principais 50%
+40210,Principais 75%
+40211,Principais 100%
+40401,#1–10
+40402,#11–20
+40403,#21–30
+40404,#31–40
+40405,#41–100
+40406,#101–500
+40407,#501 ou inferior
+40501,1º Lugar
+40502,Principais 2
+40503,Principais 3-10
+40504,#11–20
+40505,#21–30
+40506,Principais 31–50
+40507,#51 - #100
+40508,#101–500
+40509,Fora dos 500 melhores
+40601,1º Lugar
+40602,Principais 2–3
+40603,Principais 4–10
+40604,Principais 11–50
+40605,#51–100
+40606,#101–250
+40607,#251–500
+40608,Inferior a #500

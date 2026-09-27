@@ -1,0 +1,46 @@
+{
+  "version": "v12-corrections",
+  "translation_snapshot": "translations/v12-corrections",
+  "repak": "repak_cli 0.2.3",
+  "credential_file": "work/.architect-aes-key (AES-256, 64 hex characters; value intentionally not stored in public repository)",
+  "install_paths": {
+    "main": "H:\\Games\\Architect\\ProjectTT\\Saved\\PersistentDownloadDir\\DownloadContent\\pakchunk0-Windows.pak",
+    "override": "H:\\Games\\Architect\\ProjectTT\\Content\\Paks\\pakchunk9999-Windows_1_P.pak"
+  },
+  "format": {
+    "pak_version": "V11",
+    "mount_point": "../../../",
+    "encrypted_index": true,
+    "path_hash_seed": "E92532A4",
+    "main_compression": "Zlib",
+    "override_compression": "None",
+    "main_entries": 6749,
+    "override_entries": 227
+  },
+  "files": {
+    "main": {
+      "filename": "pakchunk0-Windows-ptbr.pak",
+      "bytes": 77438792,
+      "sha256": "91c7e1993d51d36cd028886e75edc529aa6faf477a5a8f31e58347526bfc79b1"
+    },
+    "override": {
+      "filename": "pakchunk9999-Windows_1_P-ptbr.pak",
+      "bytes": 12435326,
+      "sha256": "2711910e4b57b5d57a26d81cdf2d2256cab851b357786fd9ab3ece86de50c197"
+    }
+  },
+  "validation": {
+    "tables": 227,
+    "missing_tables": 0,
+    "missing_ids": 0,
+    "new_ids": 0,
+    "empty_translations": 0,
+    "placeholder_mismatches": 0,
+    "item_name_template_or_parameter_mismatches": 0,
+    "bad_giants_tower_mentions": 0,
+    "left_context_candidates": 10,
+    "override_extraction_matches_all_csv_hashes": true,
+    "changed_cells_from_v11": 91
+  },
+  "installation_status": "Prepared and validated locally; not copied into the game because the game process was active at packaging time."
+}

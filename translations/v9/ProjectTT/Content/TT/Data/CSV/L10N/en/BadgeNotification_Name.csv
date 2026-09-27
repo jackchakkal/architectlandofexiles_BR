@@ -1,0 +1,108 @@
+﻿GroupKeyword,Message,Param
+ViewUI_BattlefieldTournamentEntryStart,{Param} Comece a recrutar participantes,Torneio do Clã
+ViewUI_BattlefieldTournamentEnter,{Param} Participação concluída,Torneio do Clã
+ViewUI_BattlefieldTournamentRankOut,{Param} retirados das classificações elegíveis,Torneio do Clã
+ViewUI_BattlefieldTournamentEntryEnd,{Param} Seleção de participante concluída,Torneio do Clã
+ViewUI_BattlefieldTournamentBracketConfirm,{Param} Colchetes revelados,Torneio do Clã
+BattlefieldTournament_BattleReady,{Param} Preparação para a partida,Torneio do Clã
+BattlefieldTournament_BattleStart,{Param} Partida ao vivo,Torneio do Clã
+BattlefieldTournament_AccumulatePredict,{Param} Previsão do vencedor da rodada disponível,Torneio do Clã
+ViewUI_BattlefieldTournamentAccumulatePredictResult,Resultados do vencedor da rodada {Param} revelados,Torneio do Clã
+BattlefieldTournament_ChampionPredict,{Param} Champion Previsão do clã disponível,Torneio do Clã
+ViewUI_BattlefieldTournamentChampionPredictResult,{Param} Champion Clã Resultados revelados,Torneio do Clã
+ViewUI_BattlefieldTournamentBet,{Param} Rodada de apostas ao vivo,Torneio do Clã
+ViewUI_BattlefieldTournamentBetResult,Rodada {Param} Resultados de apostas revelados,Torneio do Clã
+ViewUI_Mail_New,Você Tem correspondência não lida,
+Mail_GetReward,Você tem correspondência com recompensas,
+Pass_10001,{Param} Recompensa de passe especial disponível,Colaboração
+SeasonalEvent_Mission,{Param} Recompensa de missão especial disponível,Colaboração
+ViewUI_SeasonalEventQuestOpen,Nova missão de colaboração aberta,Colaboração
+SeasonalEvent_GlobalBoss,Beast Giant Entrada disponível,Colaboração
+EventGetReward,{Param} Recompensa exigível,Eventos
+EventShopFreePurchase,{Param} produtos gratuitos disponíveis para compra,Eventos
+Event_DiceFreeCount,{Param} Free Rolls,Dados de Evento
+Event_RouletteFreeCount,{Param} Free Rolls,Evento Roleta
+Event_RouletteUseCoupon,{Param} Cupom disponível,Evento Roleta
+Faction_FriendshipGetReward,{Param} Recompensa disponível,Afinidade da Aliança de Aventureiros
+Faction_GuideBookGetReward,{Param} Recompensa disponível,Tarefa da Aliança dos Aventureiros
+Faction_MissionGetReward,{Param} Recompensa disponível,Conquistas da Aliança de Aventureiros
+Faction_PossibleDonation,{Param} Disponível,Pesquisa da Aliança de Aventureiros
+Faction_CollectionGetReward,{Param} Recompensa exigível,Pesquisa da Adventurers Alliance alcançada
+Faction_ShopFreeReward,{Param} produtos gratuitos disponíveis para compra,Adventurers Alliance
+Faction_PossibleGiveTribute,{Param} Disponível,Doação de medalha exclusiva da Aliança de Aventureiros
+InterServer,Abyss Battlefield Notificação de novo grupo correspondente,
+ViewUI_Battlefield_Progress,Monolith War Em andamento,
+ViewUI_Battlefield_EntryStart,{Param} Disponível,Monolith War Inscrição de entrada
+ClassRank_Possible,{Param} Disponível,Promoção de personagem
+Skill_PossibleAcquisitionActive,{Param} disponível para aprender,Ativo Skill
+Skill_PossibleLevelUpActive,Aumento de nível disponível: {Param},Ativo Skill
+Skill_PossibleExceedActive,{Param} Transcendência disponível,Ativo Skill
+Skill_PossibleAcquisitionPassive,{Param} disponível para aprender,Skill passivo
+Costume_PossibleLevelUp,Aumento de nível disponível: {Param},Traje Equipado
+Costume_PossibleExceed,{Param} Transcendência disponível,Traje Equipado
+ViewUI_Costume_TimeoutDecide,{Param} Tempo de confirmação expirado,Traje
+Costume_PossibleLimitBreak,{Param} Ascensão disponível,Traje Equipado
+ViewUI_WeaponCostume_TimeoutDecide,{Param} Tempo de confirmação expirado,Arma Fantasma
+WeaponCostume_PossibleLimitBreak,{Param} Ascensão disponível,Arma Fantasma Equipada
+ViewUI_DecorationAcquisitionNew,Nova decoração adquirida,
+GroundVehicle_PossibleSummon,{Param} Convocação disponível,Montagem
+GroundVehicle_PossibleLimitBreak,Equipado {Param} Ascensão Disponível,Montagem
+AirVehicle_PossibleSummon,{Param} Convocação disponível,Convocação de Planador
+AirVehicle_PossibleLimitBreak,Equipado {Param} Ascensão Disponível,Planador
+Keiring_PossibleLevelUp,{Param} Treinamento disponível,Chaveiro Equipado
+Keiring_PossibleExceed,{Param} Ascensão disponível,Chaveiro Equipado
+CharacterTitle_PossibleActive,Novo Title disponível,
+ViewUI_CharacterTitle_NewTitle,Novo Title adquirido,
+OOParts_NormalFreeCount,Exploração gratuita de OOPparts disponível,
+Inventory_Full,Inventário Cheio,
+Inventory_HighEquipment,Melhor equipamento disponível,
+StarStone_PossiblePointUse,Pontos de avanço da Sacred Relic disponíveis,
+ViewUI_Auction_SellComplete,Marketplace Venda concluída,
+ViewUI_Auction_TimeoutSell,Marketplace Listagem expirada,
+Shop_FreePurchase,{Param} produtos gratuitos disponíveis para compra,Loja
+Shop_MissionGetReward,{Param} Recompensa exigível,Pacote Milestone
+Shop_NpcShopFreePurchase_800,{Param} produtos gratuitos disponíveis para compra,Loja de livros de habilidades
+Shop_NpcShopFreePurchase_500,{Param} produtos gratuitos disponíveis para compra,Ancient Coin Shop
+Shop_NpcShopFreePurchase_600,{Param} produtos gratuitos disponíveis para compra,Adventurers’ Alliance Guild Coin Shop
+Shop_NpcShopFreePurchase_700,{Param} produtos gratuitos disponíveis para compra,Black Crystal Shop
+Shop_NpcShopFreePurchase_900,{Param} produtos gratuitos disponíveis para compra,Gold Crystal Shop
+Shop_NpcShopFreePurchase_910,{Param} produtos gratuitos disponíveis para compra,Rift Shop
+Shop_NpcShopFreePurchase_930,{Param} produtos gratuitos disponíveis para compra,Arena Shop
+ViewUI_ShopSubscribeRemainTime1,Privilégio do sucessor expirando em breve,
+ViewUI_ShopSubscribeRemainTime2,Bênção de Giant Privilégio Expirando Em breve,
+GachaShop_FreePurchase,{Param} produtos gratuitos disponíveis para compra,Evocar Loja
+Awakening_Possible,{Param} Disponível,Despertar Célula Desbloqueada
+Awakening_LimitBreak_Possible,Página pronta para despertar,
+Gudua,{Param} Disponível,Restaurar Memórias de Gudua
+Blessing_PossibleEquip,{Param} Disponível,Equipar Estrela Guardiã
+Blessing_PossibleLevelUp,Aumento de nível disponível: {Param},Estrela Guardiã Equipada
+CrestLevelUp,Aumento de nível disponível: {Param},Crista dos Antigos
+Akasha_PossibleAcquisition,Notifique sintonizações desbloqueáveis,
+Akasha_PossibleLevelUp,Notificar sintonizações disponíveis para subir de nível,
+Akasha_PossibleExceed,Notificar sintonizações disponíveis para transcendência,
+TrialGate_PointGetReward,{Param} Recompensa exigível,Trial Gates
+TreasureBox_PointGetReward,{Param} Recompensa exigível,Santuário Etéreo
+Guide,{Param} Recompensa exigível,Guia de aventura
+Record_GetReward,{Param} Recompensa exigível,Codex
+Pass_Mission,{Param} Recompensa exigível,Passe de temporada
+Pass_Level,{Param} Recompensa exigível,Nível da temporada
+GlobalBoss,Entrada do Rift chefe disponível,
+ViewUI_DungeonFrontierStartSeason,Infinite Spire Começa a nova temporada,
+ViewUI_DungeonFrontierEnter,Tickets do Corredor Perpétuo recarregados,
+DungeonFrontier_GetRewardSeason,{Param} Recompensa exigível,Infinite Spire
+ViewUI_ClanFrontierStartSeason,Nova temporada para {Param} começa,Hall of Proof
+ClanFrontier_GetReward,{Param} Recompensa exigível,Hall of Proof
+ViewUI_ClanFrontierEnableOpen,{Param} disponível para desbloqueio,Hall of Proof
+ViewUI_ClanFrontier_CanEnter,{Param} Entrada Disponível,Hall of Proof
+ViewUI_CommisionQuest_RefreshDaily,Commission House {Param} Atualizado,Comissão diária
+ViewUI_CommisionQuest_RefreshWeekly,Commission House {Param} Atualizado,Comissão Semanal
+GuideBook,{Param} Recompensa exigível,Guia
+Achievement_GetReward,{Param} Recompensa exigível,Troféu
+Achievement_GetPointReward,{Param} Recompensa exigível,Pontuação do troféu
+ViewUI_Clan_JoinComplete,Clã entrou em,
+ViewUI_Clan_DonationRefresh,{Param} Disponível,Doação do Clã
+ViewUI_Clan_RequestListAdd,Novo pedido de adesão ao clã,
+ViewUI_Clan_InviteListAdd,Convite do Clã Recebido,
+ClanActivity,Recompensa da missão do clã disponível,
+CommunityFriendRequestView,Solicitação de nova amizade,
+BattleRecordRequestRevenge,Novo pedido de vingança recebido,

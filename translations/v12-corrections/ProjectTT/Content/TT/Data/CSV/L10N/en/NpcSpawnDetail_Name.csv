@@ -1,0 +1,577 @@
+﻿NpcSpawnInfoId,SpawnDescription,Description
+31010000,,"Quando os portões da torre finalmente se abriram, o mundo testemunhou o terrível retorno de Behemoth.
+Seus passos de tremer a terra e suas presas colossais eram exatamente como haviam sido preditos nos antigos pergaminhos – uma catástrofe imparável cuja resiliência lendária tornava cada ataque mortal totalmente sem sentido."
+31020000,,"Shahgal é o resultado evolutivo de plantas parasitas que floresceram em toda a Terra Abandonada após o Grande Cataclismo.
+Originalmente uma forma de vida artificial na forma de uma planta, desenvolveu uma consciência e se transformou no líder dos parasitas."
+31020004,Shahgal o Desolador solta um rugido!,"Florescendo em vermelho escuro enquanto se alimenta da energia do cataclismo, Shahgal criou raízes nas profundezas da terra, pronto para devorar qualquer vida que se aproxime."
+31030000,,"Agarash é indiscutivelmente uma das criaturas mais fortes que existem.
+Inúmeros heróis o desafiaram, mas encontraram a morte sem sequer conseguirem escapar de sua sombra."
+31030001,Agarash the Desolator solta um rugido!,"Em meio às cinzas, a chama solitária de Agarash arde indomável, seu calor crescente buscando sua próxima presa mesmo agora"
+31040000,,"Dariente, o ser absoluto que respira em meio ao silêncio dos campos de neve, simboliza o próprio inverno do Norte.
+Aparecendo com as nevascas, ele congela tudo em seu caminho, enchendo o campo de batalha com energia fria."
+32010100,,"Karugura, com suas enormes asas lançando escuridão, é conhecido por muitos como o ‘Arauto da Morte’. 
+É notório entre os aventureiros por seu ‘Veneno Amaldiçoado’, uma substância misturada com retribuição antiga que drena a vida de suas vítimas."
+32020100,,"Tagar é o chefe da tribo Kuduru, atualmente envolvido em conflito com a tribo Naruru pelo jardim de Giant.
+Embora cínico e violento, ele persegue a glória de um vencedor em batalha."
+32030100,,"Gigaz, antes chamado de governante das colinas, tornou-se o hospedeiro do parasita plantas.
+Possuindo força esmagadora e poder destrutivo, ele agora é chamado de desastre vivo."
+32030200,,"Urukkur — um grande guerreiro da tribo Kiguru — busca recuperar a glória perdida dos tempos antigos.
+Permanecendo na vanguarda do campo de batalha, ele se tornou uma lança que corta e perfura os inimigos, e a loucura é a única coisa que permanece em seus olhos."
+32040100,,"Os Creans chamavam Mushgal – aquele que caiu enquanto subia aos céus – de “Imugi”. 
+ A frustração e a raiva de Mushgal se tornaram um desastre de trovões e relâmpagos para o povo da Terra Abandonada."
+32040200,,"Kirjur evoluiu de uma variante Sergal para uma variante muito mais feroz raça.
+Conhecido por seu apetite insaciável por carne humana, ele é especialmente conhecido entre os aventureiros que exploram as terras altas. Cavaleiro"
+32010200,,"Shagrigar caça abrindo túneis subterrâneos para emboscar suas presas. Ele é protegido por uma pele tão resistente quanto o ferro e possui garras grandes e poderosas.
+Sua arma mais perigosa é uma língua longa e bifurcada, capaz de perfurar a armadura de um aventureiro com facilidade."
+32010300,,"Ereshianna, o governante da Legião das Formigas de Ferro, despertou sob os Renegados Land.
+Muitos aventureiros foram vítimas de seu veneno ácido letal, que causa agonia ao dissolver carne e sangue."
+32010400,,"Sahar-Unugar, o insaciável 'Monarca Gorging', garante que nada que entre em sua boca veja a luz novamente.
+Quando os ventos devastadores uivam e um brilho ofuscante destrói seu senso de direção, a sobrevivência se torna uma causa perdida - apenas um fim inevitável permanece."
+32020200,,"Daidalcur é um guerreiro da tribo Kurgal, conhecido como o Açougueiro.
+Seus olhos vermelhos escuros queimam com um ódio insaciável, consumidos por uma sede eterna de caçar humanos a qualquer hora e em qualquer lugar."
+32020300,,"Saurgir é um descendente de antigas feras mágicas que já governaram o céu.
+Diz-se que apenas cadáveres se acumulam onde passa seu redemoinho gigante - acompanhados por relâmpagos azuis."
+32020400,,"Galarusia é a personificação viva do terror na Terra Abandonada.
+Com um corpo evoluído para uma arma viva, o campo de batalha nada mais é do que um salão de banquetes – perfeito para vomitar veneno e sugar sangue."
+32030300,,"Aluk é a manifestação de uma antiga maldição com asas.
+No final de suas asas negras cobrindo o céu, o terror segue onde quer que seu olhar amaldiçoado e corruptor caia."
+32030400,,"Kakaju é o líder de uma matilha de lobos de duas cabeças.
+Ele instila medo instintivo nos aventureiros com suas poderosas presas e poluentes."
+32030500,,"Esta criatura não compartilha nenhuma semelhança com nenhuma forma de vida em Abandoned Land.
+Presume-se que tenha se originado na Giant's Tower, ela possui um esqueleto translúcido e tentáculos afiados."
+32040300,,"Gnumar é uma arma biológica que não conhece descanso.
+Embora as pinças do caranguejo esporo sejam suficientemente ameaçadoras, são as colônias de cogumelos parasitas que crescem em sua carapaça que causam vários problemas de status."
+32040400,,"Tilaga é a governante das Bruxas Mariposa, conhecida como uma espécie antiga.
+Fiel ao seu pseudônimo “Wings of Death”, um único bater de suas asas envolve o campo de batalha em veneno e paralisa todo o corpo."
+32040500,,"Shagan tem uma construção gigante, mas percorre os céus com habilidades incomparáveis. agilidade.
+Ameaçando aventureiros com tempestades e redemoinhos com suas asas batendo, ele não é diferente da encarnação do vento."
+32050100,,"Este colossal horror semelhante a um lobo anda sobre duas pernas, sendo o maior pesadelo para os aventureiros vagando pela Terra Abandonada.
+A presa deste perseguidor carmesim é deixada apenas para aguardar uma morte brutal sob sua sombra imponente."
+32050200,,"Nurbahar é um caçador especialmente feroz, mesmo entre os Muzuru.
+Empunhando um monstruoso arco de osso, ele domina o campo de batalha, perfurando a presa de longe."
+500200401,,"Kagaltus - um antigo dragão e guardião das veias da terra - foi capturado vivo pelo Imperador, preso no abismo e corrompido por experimentos mágicos de engenharia.
+Tendo perdido toda a razão, seus rugidos ainda se espalham loucura e medo em todo o abismo."
+500200110,,"Nergar sobreviveu à Arena do Abismo.
+Embora corrompido pelo Abismo, encharcado no sangue de seus próprios parentes, essa glória é um caminho ordenado exclusivamente para o Monarca.
+Ele tem conquistou o título de Monarca, mas seu poder permanece fraco e desbotado."
+500200120,,"Urmash é o alfa que lidera a matilha de lobos abissais.
+Suas cabeças gêmeas podem rasgar a carne de uma presa de cima a baixo com um único fôlego.
+Ele conquistou o título de Monarca, mas seu poder permanece fraco e desbotado."
+500200130,,"Imdugur é o descendente da besta demoníaca que uma vez subjugou o antigo e caótico ecossistema.
+Depois que o enorme vórtice passa com um flash de luz negra como breu, apenas um rugido oco se segue.
+Ele exerce o poder intacto do Abismo, realmente condizente com o status de um Monarca."
+500200140,,"A densa aura de desespero corroeu o ninho de Nimgal, mergulhando-o no abismo da loucura.
+Quando não há mais nada a perder, qualquer um renasceria como um predador.
+Ele exerce o poder intacto do Abismo, realmente condizente com o status de um Monarca."
+500200150,,"Udugal é a própria manifestação da maldição Abissal ligada às asas.
+Asas negras cobrem o céu selado, e onde seu olhar de desespero e corrupção cair, o terror o seguirá.
+Ele foi agraciado com o poder de autoridade mais sombrio entre todos os Monarcas."
+500200210,,"Nergar sobreviveu à Arena do Abismo.
+Embora corrompido pelo Abismo, encharcado no sangue de seus próprios parentes, essa glória é um caminho ordenado exclusivamente para o Monarca.
+Ele tem conquistou o título de Monarca, mas seu poder permanece fraco e desbotado."
+500200220,,"Urmash é o alfa que lidera a matilha de lobos abissais.
+Suas cabeças gêmeas podem rasgar a carne de uma presa de cima a baixo com um único fôlego.
+Ele conquistou o título de Monarca, mas seu poder permanece fraco e desbotado."
+500200230,,"Imdugur é o descendente da besta demoníaca que uma vez subjugou o antigo e caótico ecossistema.
+Depois que o enorme vórtice passa com um flash de luz negra como breu, apenas um rugido oco se segue.
+Ele exerce o poder intacto do Abismo, realmente condizente com o status de um Monarca."
+500200240,,"A densa aura de desespero corroeu o ninho de Nimgal, mergulhando-o no abismo da loucura.
+Quando não há mais nada a perder, qualquer um renasceria como um predador.
+Ele exerce o poder intacto do Abismo, realmente condizente com o status de um Monarca."
+500200250,,"Udugal é a própria manifestação da maldição Abissal ligada às asas.
+Asas negras cobrem o céu selado, e onde seu olhar de desespero e corrupção cair, o terror o seguirá.
+Ele foi agraciado com o poder de autoridade mais sombrio entre todos os Monarcas."
+500200310,,"Nergar sobreviveu à Arena do Abismo.
+Embora corrompido pelo Abismo, encharcado no sangue de seus próprios parentes, essa glória é um caminho ordenado exclusivamente para o Monarca.
+Ele tem conquistou o título de Monarca, mas seu poder permanece fraco e desbotado."
+500200320,,"Urmash é o alfa que lidera a matilha de lobos abissais.
+Suas cabeças gêmeas podem rasgar a carne de uma presa de cima a baixo com um único fôlego.
+Ele conquistou o título de Monarca, mas seu poder permanece fraco e desbotado."
+500200330,,"Imdugur é o descendente da besta demoníaca que uma vez subjugou o antigo e caótico ecossistema.
+Depois que o enorme vórtice passa com um flash de luz negra como breu, apenas um rugido oco se segue.
+Ele exerce o poder intacto do Abismo, realmente condizente com o status de um Monarca."
+500200340,,"A densa aura de desespero corroeu o ninho de Nimgal, mergulhando-o no abismo da loucura.
+Quando não há mais nada a perder, qualquer um renasceria como um predador.
+Ele exerce o poder intacto do Abismo, realmente condizente com o status de um Monarca."
+500200350,,"Udugal é a própria manifestação da maldição Abissal ligada às asas.
+Asas negras cobrem o céu selado, e onde seu olhar de desespero e corrupção cair, o terror o seguirá.
+Ele foi agraciado com o poder de autoridade mais sombrio entre todos os Monarcas."
+500291901,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500291902,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500291903,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500291904,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500291905,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500291906,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500291907,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500291908,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500291909,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500291910,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500291911,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500291912,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500291913,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500291914,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500291915,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500292901,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500292902,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500292903,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500292904,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500292905,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500292906,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500292907,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500292908,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500292909,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500292910,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500292911,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500292912,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500292913,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500292914,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500292915,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500293901,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500293902,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500293903,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500293904,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500293905,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500293906,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500293907,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500293908,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500293909,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500293910,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500293911,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500293912,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500293913,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500293914,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500293915,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500294901,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500294902,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500294903,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500294904,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500294905,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500294906,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500294907,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500294908,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500294909,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500294910,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500294911,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500294912,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500294913,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500294914,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500294915,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500295901,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500295902,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500295903,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500295904,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500295905,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500295906,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500295907,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500295908,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500295909,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500295910,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500295911,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500295912,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500295913,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500295914,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500295915,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500296901,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500296902,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500296903,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500296904,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500296905,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500296906,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500296907,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500296908,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500296909,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500296910,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500296911,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500296912,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500296913,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500296914,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500296915,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500297901,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500297902,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500297903,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500297904,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500297905,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500297906,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500297907,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500297908,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500297909,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500297910,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500297911,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500297912,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500297913,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500297914,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500297915,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500297916,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500297917,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500297918,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500300401,,"Kagaltus - um antigo dragão e guardião das veias da terra - foi capturado vivo pelo Imperador, preso no abismo e corrompido por experimentos mágicos de engenharia.
+Tendo perdido toda a razão, seus rugidos ainda se espalham loucura e medo em todo o abismo."
+500300110,,"Nergar sobreviveu à Arena do Abismo.
+Embora corrompido pelo Abismo, encharcado no sangue de seus próprios parentes, essa glória é um caminho ordenado exclusivamente para o Monarca.
+Ele tem conquistou o título de Monarca, mas seu poder permanece fraco e desbotado."
+500300120,,"Urmash é o alfa que lidera a matilha de lobos abissais.
+Suas cabeças gêmeas podem rasgar a carne de uma presa de cima a baixo com um único fôlego.
+Ele conquistou o título de Monarca, mas seu poder permanece fraco e desbotado."
+500300130,,"Imdugur é o descendente da besta demoníaca que uma vez subjugou o antigo e caótico ecossistema.
+Depois que o enorme vórtice passa com um flash de luz negra como breu, apenas um rugido oco se segue.
+Ele exerce o poder intacto do Abismo, realmente condizente com o status de um Monarca."
+500300140,,"A densa aura de desespero corroeu o ninho de Nimgal, mergulhando-o no abismo da loucura.
+Quando não há mais nada a perder, qualquer um renasceria como um predador.
+Ele exerce o poder intacto do Abismo, realmente condizente com o status de um Monarca."
+500300150,,"Udugal é a própria manifestação da maldição Abissal ligada às asas.
+Asas negras cobrem o céu selado, e onde seu olhar de desespero e corrupção cair, o terror o seguirá.
+Ele foi agraciado com o poder de autoridade mais sombrio entre todos os Monarcas."
+500300210,,"Nergar sobreviveu à Arena do Abismo.
+Embora corrompido pelo Abismo, encharcado no sangue de seus próprios parentes, essa glória é um caminho ordenado exclusivamente para o Monarca.
+Ele tem conquistou o título de Monarca, mas seu poder permanece fraco e desbotado."
+500300220,,"Urmash é o alfa que lidera a matilha de lobos abissais.
+Suas cabeças gêmeas podem rasgar a carne de uma presa de cima a baixo com um único fôlego.
+Ele conquistou o título de Monarca, mas seu poder permanece fraco e desbotado."
+500300230,,"Imdugur é o descendente da besta demoníaca que uma vez subjugou o antigo e caótico ecossistema.
+Depois que o enorme vórtice passa com um flash de luz negra como breu, apenas um rugido oco se segue.
+Ele exerce o poder intacto do Abismo, realmente condizente com o status de um Monarca."
+500300240,,"A densa aura de desespero corroeu o ninho de Nimgal, mergulhando-o no abismo da loucura.
+Quando não há mais nada a perder, qualquer um renasceria como um predador.
+Ele exerce o poder intacto do Abismo, realmente condizente com o status de um Monarca."
+500300250,,"Udugal é a própria manifestação da maldição Abissal ligada às asas.
+Asas negras cobrem o céu selado, e onde seu olhar de desespero e corrupção cair, o terror o seguirá.
+Ele foi agraciado com o poder de autoridade mais sombrio entre todos os Monarcas."
+500300310,,"Nergar sobreviveu à Arena do Abismo.
+Embora corrompido pelo Abismo, encharcado no sangue de seus próprios parentes, essa glória é um caminho ordenado exclusivamente para o Monarca.
+Ele tem conquistou o título de Monarca, mas seu poder permanece fraco e desbotado."
+500300320,,"Urmash é o alfa que lidera a matilha de lobos abissais.
+Suas cabeças gêmeas podem rasgar a carne de uma presa de cima a baixo com um único fôlego.
+Ele conquistou o título de Monarca, mas seu poder permanece fraco e desbotado."
+500300330,,"Imdugur é o descendente da besta demoníaca que uma vez subjugou o antigo e caótico ecossistema.
+Depois que o enorme vórtice passa com um flash de luz negra como breu, apenas um rugido oco se segue.
+Ele exerce o poder intacto do Abismo, realmente condizente com o status de um Monarca."
+500300340,,"A densa aura de desespero corroeu o ninho de Nimgal, mergulhando-o no abismo da loucura.
+Quando não há mais nada a perder, qualquer um renasceria como um predador.
+Ele exerce o poder intacto do Abismo, realmente condizente com o status de um Monarca."
+500300350,,"Udugal é a própria manifestação da maldição Abissal ligada às asas.
+Asas negras cobrem o céu selado, e onde seu olhar de desespero e corrupção cair, o terror o seguirá.
+Ele foi agraciado com o poder de autoridade mais sombrio entre todos os Monarcas."
+500391901,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500391902,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500391903,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500391904,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500391905,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500391906,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500391907,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500391908,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500391909,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500391910,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500391911,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500391912,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500391913,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500391914,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500391915,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500392901,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500392902,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500392903,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500392904,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500392905,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500392906,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500392907,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500392908,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500392909,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500392910,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500392911,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500392912,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500392913,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500392914,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500392915,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500393901,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500393902,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500393903,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500393904,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500393905,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500393906,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500393907,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500393908,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500393909,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500393910,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500393911,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500393912,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500393913,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500393914,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500393915,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500394901,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500394902,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500394903,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500394904,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500394905,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500394906,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500394907,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500394908,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500394909,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500394910,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500394911,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500394912,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500394913,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500394914,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500394915,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500395901,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500395902,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500395903,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500395904,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500395905,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500395906,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500395907,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500395908,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500395909,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500395910,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500395911,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500395912,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500395913,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500395914,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500395915,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500396901,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500396902,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500396903,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500396904,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500396905,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500396906,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500396907,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500396908,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500396909,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500396910,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500396911,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500396912,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500396913,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500396914,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500396915,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500397901,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500397902,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500397903,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500397904,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500397905,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500397906,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500397907,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500397908,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500397909,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500397910,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500397911,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500397912,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500397913,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500397914,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500397915,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500397916,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500397917,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."
+500397918,,"Devorado pelo fogo abissal do inferno, Akarakatum perdeu seu corpo físico, reduzido a uma concha vazia com nada mais além do instinto de destruição.
+O brilho cintilante que emana através de suas hastes de armadura de ferro preto quebradas de um calor intenso o suficiente para derreter ouro."

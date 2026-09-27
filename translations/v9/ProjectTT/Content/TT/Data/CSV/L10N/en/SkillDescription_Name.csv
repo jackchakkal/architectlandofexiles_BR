@@ -1,0 +1,2277 @@
+﻿Id,Title,Desc
+1011,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1021,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1031,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1041,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1051,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1061,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1071,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1081,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1091,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1101,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1111,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1121,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1131,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1141,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1151,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1161,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1171,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1181,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1191,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1201,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1211,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1221,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1231,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1241,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1251,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1261,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1271,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1281,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1291,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1301,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1311,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1321,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1331,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1341,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1351,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1361,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1371,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1381,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1391,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1401,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1411,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1421,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1431,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1441,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1451,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1461,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1471,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1481,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1491,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1501,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+1511,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1521,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1531,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1541,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1551,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1561,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1571,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1581,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1591,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1601,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1611,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1621,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1631,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1641,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1651,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1661,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1671,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1681,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1691,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1701,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1711,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1721,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1731,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1741,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1751,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1761,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1771,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1781,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1791,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1801,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1811,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1821,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1831,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1841,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1851,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1861,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1871,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1881,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1891,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1901,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1911,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1921,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1931,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1941,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1951,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1961,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1971,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1981,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+1991,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+2001,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+2011,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2021,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2031,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2041,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2051,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2061,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2071,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2081,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2091,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2101,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2111,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2121,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2131,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2141,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2151,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2161,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2171,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2181,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2191,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2201,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2211,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2221,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2231,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2241,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2251,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2261,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2271,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2281,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2291,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2301,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2311,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2321,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2331,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2341,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2351,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2361,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2371,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2381,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2391,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2401,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2411,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2421,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2431,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2441,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2451,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2461,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2471,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2481,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2491,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2501,Aerotransportado,Tem {EffectParam2}% de chance para lançamento aéreo para {EffectParam1}s
+2511,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2521,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2531,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2541,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2551,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2561,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2571,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2581,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2591,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2601,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2611,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2621,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2631,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2641,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2651,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2661,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2671,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2681,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2691,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2701,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2711,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2721,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2731,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2741,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2751,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2761,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2771,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2781,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2791,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2801,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2811,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2821,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2831,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2841,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2851,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2861,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2871,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2881,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2891,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2901,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2911,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2921,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2931,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2941,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2951,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2961,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2971,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2981,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+2991,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+3001,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+3011,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3021,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3031,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3041,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3051,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3061,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3071,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3081,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3091,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3101,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3111,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3121,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3131,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3141,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3151,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3161,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3171,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3181,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3191,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3201,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3211,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3221,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3231,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3241,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3251,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3261,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3271,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3281,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3291,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3301,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3311,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3321,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3331,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3341,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3351,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3361,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3371,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3381,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3391,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3401,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3411,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3421,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3431,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3441,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3451,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3461,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3471,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3481,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3491,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3501,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3511,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3521,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3531,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3541,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3551,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3561,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3571,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3581,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3591,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3601,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3611,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3621,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3631,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3641,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3651,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3661,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3671,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3681,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3691,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3711,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3721,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3731,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3741,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3751,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3761,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3771,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3781,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3791,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3811,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3821,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3831,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3841,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3851,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3861,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3871,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3881,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3891,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3911,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3921,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3931,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3941,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3951,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3961,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3971,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3981,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+3991,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+5011,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5021,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5031,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5041,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5051,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5061,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5071,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5081,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5091,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5101,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5111,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5121,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5131,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5141,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5151,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5161,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5171,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5181,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5191,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5201,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5211,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5221,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5231,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5241,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5251,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5261,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5271,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5281,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5291,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5301,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5311,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5321,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5331,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5341,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5351,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5361,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5371,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5381,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5391,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5401,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5411,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5421,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5431,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5441,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5451,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5461,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5471,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5481,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5491,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5501,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+5511,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5521,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5531,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5541,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5551,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5561,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5571,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5581,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5591,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5601,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5611,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5621,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5631,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5641,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5651,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5661,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5671,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5681,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5691,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5701,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5711,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5721,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5731,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5741,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5751,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5761,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5771,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5781,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5791,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5801,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5811,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5821,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5831,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5841,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5851,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5861,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5871,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5881,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5891,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5901,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5911,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5921,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5931,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5941,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5951,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5961,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5971,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5981,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+5991,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+6001,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+6011,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6021,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6031,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6041,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6051,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6061,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6071,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6081,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6091,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6101,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6111,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6121,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6131,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6141,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6151,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6161,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6171,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6181,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6191,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6201,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6211,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6221,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6231,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6241,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6251,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6261,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6271,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6281,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6291,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6301,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6311,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6321,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6331,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6341,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6351,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6361,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6371,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6381,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6391,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6401,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6411,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6421,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6431,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6441,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6451,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6461,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6471,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6481,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6491,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6501,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+6511,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6521,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6531,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6541,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6551,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6561,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6571,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6581,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6591,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6601,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6611,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6621,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6631,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6641,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6651,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6661,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6671,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6681,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6691,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6701,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6711,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6721,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6731,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6741,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6751,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6761,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6771,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6781,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6791,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6801,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6811,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6821,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6831,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6841,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6851,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6861,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6871,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6881,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6891,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6901,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6911,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6921,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6931,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6941,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6951,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6961,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6971,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6981,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+6991,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+7001,Congelar,Tem {EffectParam2}% chance de congelar para {EffectParam1}s
+7011,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7021,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7031,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7041,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7051,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7061,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7071,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7081,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7091,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7101,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7111,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7121,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7131,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7141,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7151,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7161,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7171,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7181,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7191,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7201,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7211,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7221,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7231,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7241,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7251,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7261,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7271,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7281,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7291,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7301,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7311,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7321,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7331,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7341,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7351,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7361,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7371,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7381,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7391,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7401,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7411,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7421,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7431,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7441,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7451,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7461,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7471,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7481,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7491,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7501,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+7511,Mutação,Tem uma chance {EffectParam2}% de sofrer mutação para {EffectParam1}s
+7521,Mutação,Tem uma chance {EffectParam2}% de sofrer mutação para {EffectParam1}s
+7531,Mutação,Tem uma chance {EffectParam2}% de sofrer mutação para {EffectParam1}s
+7541,Mutação,Tem uma chance {EffectParam2}% de sofrer mutação para {EffectParam1}s
+7551,Mutação,Tem uma chance {EffectParam2}% de sofrer mutação para {EffectParam1}s
+7561,Mutação,Tem uma chance {EffectParam2}% de sofrer mutação para {EffectParam1}s
+7571,Mutação,Tem uma chance {EffectParam2}% de sofrer mutação para {EffectParam1}s
+7581,Mutação,Tem uma chance {EffectParam2}% de sofrer mutação para {EffectParam1}s
+7591,Mutação,Tem uma chance {EffectParam2}% de sofrer mutação para {EffectParam1}s
+7601,Mutação,Tem uma chance {EffectParam2}% de sofrer mutação para {EffectParam1}s
+8011,Controle mental,tem uma chance {EffectParam2}% de controle mental para {EffectParam1}s
+8021,Controle mental,tem uma chance {EffectParam2}% de controle mental para {EffectParam1}s
+8031,Controle mental,tem uma chance {EffectParam2}% de controle mental para {EffectParam1}s
+8041,Controle mental,tem uma chance {EffectParam2}% de controle mental para {EffectParam1}s
+8051,Controle mental,tem uma chance {EffectParam2}% de controle mental para {EffectParam1}s
+8061,Controle mental,tem uma chance {EffectParam2}% de controle mental para {EffectParam1}s
+8071,Controle mental,tem uma chance {EffectParam2}% de controle mental para {EffectParam1}s
+8081,Controle mental,tem uma chance {EffectParam2}% de controle mental para {EffectParam1}s
+8091,Controle mental,tem uma chance {EffectParam2}% de controle mental para {EffectParam1}s
+8101,Controle mental,tem uma chance {EffectParam2}% de controle mental para {EffectParam1}s
+8511,Medo,Tem {EffectParam2}% de chance de Temer por {EffectParam1}s
+8521,Medo,Tem {EffectParam2}% de chance de Temer por {EffectParam1}s
+8531,Medo,Tem {EffectParam2}% de chance de Temer por {EffectParam1}s
+8541,Medo,Tem {EffectParam2}% de chance de Temer por {EffectParam1}s
+8551,Medo,Tem {EffectParam2}% de chance de Temer por {EffectParam1}s
+8561,Medo,Tem {EffectParam2}% de chance de Temer por {EffectParam1}s
+8571,Medo,Tem {EffectParam2}% de chance de Temer por {EffectParam1}s
+8581,Medo,Tem {EffectParam2}% de chance de Temer por {EffectParam1}s
+8591,Medo,Tem {EffectParam2}% de chance de Temer por {EffectParam1}s
+8601,Medo,Tem {EffectParam2}% de chance de Temer por {EffectParam1}s
+10111,Lento,Tem uma chance de {EffectParam3}% de reduzir a Velocidade de Movimento do alvo em {EffectParam1}% para {EffectParam2}s
+10211,Knock Down,Tem {EffectParam2}% de chance de derrubar o alvo por {EffectParam1}s
+10311,Preparando-se para a Batalha,Aumenta o ataque em {EffectParam1} para {EffectParam2}s
+10411,Sangramento,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+10412,Ataque de proteção,Aumenta a defesa em {EffectParam1} para {EffectParam2}s
+11011,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+14011011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14011012,Alcançando o Surge,Aumenta a distância máxima de lançamento de skill em {EffectParam1}m
+15011011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15011012,Alcançando o Surge,Aumenta a distância máxima de lançamento de skill em {EffectParam1}m
+15011013,Surpresa de choque,Reduz a defesa do alvo em {EffectParam1}
+11111,Concentração,Aumenta a precisão em {EffectParam1} para {EffectParam2}s
+14011111,Foco aprimorado,Aumenta a evasão em {EffectParam1}
+15011111,Foco inabalável,"Aumenta a evasão em {EffectParam1}
+ Aumenta a precisão em {EffectParam2}%"
+11211,Queimar,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+11212,Lento,Tem uma chance de {EffectParam3}% de reduzir a Velocidade de Movimento do alvo em {EffectParam1}% para {EffectParam2}s
+14011211,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14011212,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+15011211,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15011212,Raiva sem fim,Aumenta a distância máxima de lançamento de skill em {EffectParam1}m
+15011213,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+12011,Sangramento,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+14012011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14012012,Lento,Tem uma chance de {EffectParam3}% de desacelerar os inimigos em {EffectParam1}% para {EffectParam2}s
+15012011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15012012,Lento,Tem uma chance de {EffectParam3}% de desacelerar os inimigos em {EffectParam1}% para {EffectParam2}s
+15012013,Divisão de lâmina,"Aumenta a velocidade de lançamento de Skill em {EffectParam1}%
+ Aumenta a contagem de alvos de Skill em {EffectParam2}"
+12111,Aprimoramento Físico,Aumenta a velocidade de ataque em {EffectParam1}% para {EffectParam2}s
+14012111,Físico aprimorado,"Aumenta o dano de ataque básico em {EffectParam1}%
+(dobrado em PvE)"
+15012111,Físico Perfeito,"Aumenta o dano de ataque básico em {EffectParam1}%
+(dobrado em PvE)
+Aumenta Skill Dano em {EffectParam2}% 
+ (dobrado em PvE)"
+12511,Momento da batalha,Aumenta a Defesa em {EffectParam1} e reduz o dano recebido de Ataques Básicos em {EffectParam2}% para Membros do clã dentro da área (até 10 membros)
+12512,Batalha Terror,Reduz o ataque de inimigos dentro da área em {EffectParam1}
+14012511,Lento,Retarda os inimigos dentro da área em {EffectParam1}%
+15012511,Lento,Retarda os inimigos dentro da área em {EffectParam1}%
+15012512,Dominação do campo de batalha,"Aumenta Alcance de Skill em 2m
+Tem uma chance de {EffectParam3}% de reduzir a velocidade de ataque dos inimigos dentro da área em {EffectParam1}% para {EffectParam2}s ao lançar (excluindo chefes)"
+15012513,Reduz o dano crítico,Reduz Skill Dano de Acerto Crítico recebido pelo lançador em {EffectParam1}%
+12611,Marca da Espada,"Para {EffectParam3}s,
+aumenta o dano causado aos alvos com a Marca de Blade em {EffectParam2}%
+Reduz o dano recebido de alvos com a Marca de Blade em {EffectParam1}%"
+12612,Lento,Tem uma chance de {EffectParam3}% de desacelerar os inimigos em {EffectParam1}% para {EffectParam2}s
+12613,Sangramento,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+14012611,Carga de Mark,"Aumenta a distância máxima de lançamento de Skill em {EffectParam3}m
+Aumenta ainda mais o dano causado a alvos com a Marca de Blade em {EffectParam2}%
+Reduz ainda mais o dano recebido de alvos com a Marca de Blade em {EffectParam1}%"
+15012611,Marca opressiva,"Aumenta a distância máxima de lançamento de Skill em {EffectParam3}m
+Aumenta ainda mais o dano causado a alvos com a Marca de Blade em {EffectParam2}%
+Reduz ainda mais o dano recebido de alvos com a Marca de Blade em {EffectParam1}%"
+15012612,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+15012613,Reduz Taxa de Evasão,Reduz a Taxa de Evasão de jogadores marcados com a Marca da Espada em {EffectParam1}%
+13011,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+13012,Foco de Destruição,Reduz o dano recebido em {EffectParam1}% ao lançar skills
+14013011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14013012,Espalhando Destruição,"Aumenta o alcance do dano de explosão em 2 m
+ Aumenta o dano causado a alvos suprimidos em {EffectParam1}%"
+15013011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15013012,Espalhando Destruição,"Aumenta o alcance do dano de explosão em 2 m
+ Aumenta o dano causado a alvos suprimidos em {EffectParam1}%"
+15013013,Atordoamento,Tem um {EffectParam2}% de chance de atordoar alvos atingidos pela explosão para {EffectParam1}s
+13111,Raiva Ironclad,"Para {EffectParam4}s,
+aumenta a chance crítica em {EffectParam1}%,
+Velocidade de movimento em {EffectParam2}%,
+e Skill Ataque por {EffectParam3}"
+14013111,Afiado Ironclad,"Aumenta o Ataque Básico em {EffectParam1}
+ Aumenta o dano crítico do ataque básico em {EffectParam2}% 
+ (dobrado em PvE)"
+15013111,Feroz Couraçado,"Aumenta a velocidade de lançamento de Skill em {EffectParam1}%
+Aumenta o ataque básico em {EffectParam2}
+Aumenta o dano crítico do ataque básico em {EffectParam3}%
+(dobrado em PvE)
+Aumenta o dano crítico de Skill em {EffectParam4}%
+(dobrado em PvE)"
+13511,,Tem 80% chance de puxar o alvo em direção ao lançador
+14013511,Extensão de corrente,Aumenta a distância máxima de lançamento de skill em {EffectParam1}m
+14013512,Ligação,Tem uma chance {EffectParam2}% de vincular o alvo para {EffectParam1}s
+14013513,Item desativado Item,"Ao acertar, tem {EffectParam2}% de chance de desabilitar o uso de itens do alvo para {EffectParam1}s"
+15013511,Extensão de corrente,Aumenta a distância máxima de lançamento de skill em {EffectParam1}m
+15013512,Ligação,Tem uma chance {EffectParam2}% de vincular o alvo para {EffectParam1}s
+15013513,Item desativado Item,"Ao acertar, tem {EffectParam2}% de chance de desabilitar o uso de itens do alvo para {EffectParam1}s"
+13611,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+14013611,Leap Shock,Aumenta Alcance de Skill em 2m
+14013612,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+15013611,Leap Shock,Aumenta Alcance de Skill em 2m
+15013612,Provoca,Tem uma chance de {EffectParam2}% de Provocação para {EffectParam1}s
+15013613,Pouso Perfeito,"Aumenta a velocidade de movimento em {EffectParam1}% para {EffectParam3}s após lançar uma habilidade
+Reduz o dano recebido em {EffectParam2}% por {EffectParam3}s após lançar um skill"
+14011,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+14012,Queimar,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+14014011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14014012,Trajetória Extra,Aumenta os alvos de múltiplas trajetórias em 1.
+15014011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15014012,Trajetória Extra,Aumenta os alvos de múltiplas trajetórias em 2.
+15014013,Ressonância da Espada,Aumenta a resistência ao controle de multidão em {EffectParam1}% para {EffectParam2}s
+14111,Espírito de Luta do Overlord,"Para {EffectParam4} sec
+Aumenta o dano de acerto crítico em {EffectParam1}%
+Reduz o dano de Skill recebido por {EffectParam2}%
+Aumenta a taxa de resistência a golpes críticos em {EffectParam3}"
+14014111,Espírito de Luta do Overlord,"Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}%
+Aumenta a defesa em {EffectParam2}"
+15014111,Espírito de Luta do Overlord,"Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}%
+Aumenta a defesa em {EffectParam2}
+Aumenta o poder de ataque de ignorar em {EffectParam3}"
+14511,Poder da Espada,80% de chance de puxar em direção ao centro
+14512,Queimar,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+14014511,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+15014511,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+15014512,Ferida da Espada Grande,Reduz a chance de acerto do Crowd Control em {EffectParam1}% para {EffectParam2}s
+14611,Proteção de aço,"Para {EffectParam4} sec
+Reduz os danos recebidos por {EffectParam1}%
+Aumenta a taxa de resistência a golpes críticos em {EffectParam2}%
+Aumenta a taxa de resistência de maximização em {EffectParam3}%"
+14014611,Proteção de aço,Aumenta a resistência ao controle de multidão Taxa em {EffectParam1}%
+15014611,Proteção de aço,"Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}%
+Reduz Dano de acerto crítico recebido em {EffectParam2}%"
+20011,Lento,Tem uma chance de {EffectParam3}% de desacelerar os inimigos em {EffectParam1}% para {EffectParam2}s
+20111,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+20311,Preparando-se para a Batalha,Aumenta o ataque em {EffectParam1} para {EffectParam2}s
+20411,Veneno,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+20412,Mana Reverso,Cria {EffectParam1} Escudo para {EffectParam2}s
+21011,Explosão do Selo,"Enquanto o Selo estiver ativo, acertar o alvo {EffectParam1} vezes causa dano adicional"
+21012,Atordoamento,"Após a explosão, tem {EffectParam2}% de chance de atordoar {EffectParam1}s."
+14021011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14021012,Lento,Tem {EffectParam2}% de chance de Retardar alvos com o Selo em {EffectParam1}%
+15021011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15021012,Lento,Tem {EffectParam2}% de chance de Retardar alvos com o Selo em {EffectParam1}%
+15021013,Expansão do Selo,Expande o ataque de dano adicional em um alcance de 3m
+21111,Concentração,Aumenta a precisão em {EffectParam1} para {EffectParam2}s
+14021111,Foco aprimorado,Aumenta a evasão em {EffectParam1}
+15021111,Foco inabalável,"Aumenta a evasão em {EffectParam1}
+ Aumenta a precisão em {EffectParam2}%"
+21211,Congelar,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+14021211,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14021212,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+15021211,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15021212,Campo de Espinhos,"Aumenta o alcance de Skill em 1,5 m"
+15021213,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+22011,Queimar,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+14022011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14022012,Lento,Tem uma chance de {EffectParam3}% de reduzir a Velocidade de Movimento do alvo em {EffectParam1}% para {EffectParam2}s
+15022011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15022012,Lento,Tem uma chance de {EffectParam3}% de reduzir a Velocidade de Movimento do alvo em {EffectParam1}% para {EffectParam2}s
+15022013,Expansão Infernal,"Aumenta a contagem de destino de Skill em {EffectParam1}
+Aumenta a duração de Skill em 2s"
+22111,Aprimoramento Físico,Aumenta a velocidade de ataque em {EffectParam1}% para {EffectParam2}s
+14022111,Físico aprimorado,"Aumenta o dano de ataque básico em {EffectParam1}%
+(dobrado em PvE)"
+15022111,Físico Perfeito,"Aumenta o dano de ataque básico em {EffectParam1}%
+(dobrado em PvE)
+Aumenta Skill Dano em {EffectParam2}% 
+ (dobrado em PvE)"
+22511,Mana Escudo,Cria {EffectParam1} Escudo para {EffectParam2}s
+14022511,Expansão de proteção,Aumenta o Escudo Mágico em {EffectParam1}%
+15022511,Proteção Potente,"Aumenta o Escudo Mágico em {EffectParam1}% 
+ Aumenta o Dano em {EffectParam2}% enquanto o Escudo está ativo"
+22611,Mana Circulação,"Para {EffectParam3}s,
+reduz Skill Cooldown em {EffectParam1}%
+e Custo de MP em {EffectParam2}%"
+14022611,Ciclo estendido,Estende a duração de Skill em {EffectParam1}s
+15022611,Mana Refluxo,"Aumenta a duração de Skill em {EffectParam1}s
+ Aumenta a velocidade de lançamento em {EffectParam2}%"
+23011,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+14023011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14023012,Expansão de espaço,Aumenta o alcance da explosão em 1 m
+15023011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15023012,Expansão de espaço,Aumenta o alcance da explosão em 1 m
+15023013,Explosão Espacial,Cria uma zona na área de explosão. Inimigos na zona recebem {EffectParam1}% de dano aumentado
+23111,Alta Densidade Mana,"Para {EffectParam4}s,
+aumenta a chance crítica em {EffectParam1}%,
+Velocidade de lançamento em {EffectParam2}%, 
+ e Skill Ataque por {EffectParam3}"
+14023111,Mana puro,"Aumenta o Ataque Básico em {EffectParam1}
+ Aumenta o dano crítico do ataque básico em {EffectParam2}% 
+ (dobrado em PvE)"
+15023111,Hiperdenso Mana,"Aumenta a velocidade de movimento em {EffectParam1}%
+ Aumenta o ataque básico em {EffectParam2}
+Aumenta o dano crítico do ataque básico em {EffectParam3}%
+(dobrado em PvE)
+Aumenta o dano crítico de Skill em {EffectParam4}%
+(dobrado em PvE)"
+23511,Escudo de Gelo,Aumenta a defesa dos membros do grupo próximos ao pilar de gelo em {EffectParam1}
+23512,Choque,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
+23513,Congelar,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+14023511,Relaxe,Retarda os inimigos próximos ao pilar de gelo em {EffectParam1}% para {EffectParam2}s
+14023512,Geada Duradoura,Aumenta a duração do pilar de gelo em 2s
+15023511,Nevasca,Retarda os inimigos próximos ao pilar de gelo em {EffectParam1}% para {EffectParam2}s
+15023512,Nevasca Duradoura,"Aumenta a duração do pilar de gelo em 4s
+Aumenta a contagem de alvos do pilar de gelo em {EffectParam1}"
+15023513,Choque,Aumenta a duração do choque em {EffectParam1}s
+23611,Bênção,Reduz o dano recebido em {EffectParam1}% para {EffectParam2}s
+14023611,Proteção aprimorada,Aumenta a redução de danos em {EffectParam1}%
+15023611,Proteção Perfeita,"Aumenta a redução de danos em {EffectParam1}%
+ Aumenta a taxa de resistência ao controle de multidão em {EffectParam2}%"
+24011,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+24012,Congelar,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+14024011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14024012,Geada sem fim,Aumenta a duração de Skill em 1s
+15024011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15024012,Geada sem fim,Aumenta a duração de Skill em 2s
+15024013,Inferno Gelado,Reduz o dano recebido de inimigos dentro da área do Inferno Congelado em {EffectParam1}%
+24111,Sabedoria Eterna,"Para {EffectParam4} sec
+Aumenta o dano de acerto crítico em {EffectParam1}%
+Reduz Skill Dano recebido por {EffectParam2}%
+Aumenta a Defesa em {EffectParam3}"
+14024111,Sabedoria Eterna,"Aumenta a taxa de resistência a ataques críticos em {EffectParam1}%
+Aumenta a taxa de resistência a ataques críticos em {EffectParam2}"
+15024111,Sabedoria Eterna,"Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}%
+Aumenta a taxa de resistência a golpes críticos em {EffectParam2}
+Aumenta o poder de ataque ignorado em {EffectParam3}"
+24511,Escudo,Cria {EffectParam1} Escudo para {EffectParam2}s
+24512,Berço de Mana,Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}% enquanto o escudo está ativo
+24513,Mana Detecção,Remove a invisibilidade de alvos hostis dentro do berço do alcance de Mana
+14024511,Aprimoramento do berço,"Aumenta o alcance do berço de Mana em 5m
+ Aumenta a taxa de resistência ao controle de multidão em mais 10% enquanto o escudo está ativo"
+14024512,Aprimoramento de verificação,Aumenta a remoção furtiva alcance em 5m
+15024511,Aprimoramento do berço,"Aumenta o alcance do berço Mana em 5m
+Aumenta a taxa de resistência ao controle de multidão em mais 15% enquanto o escudo está ativo"
+15024512,Aprimoramento de verificação,Aumenta a remoção furtiva alcance em 5m
+15024513,Bênção de Mana,Aumenta o dano de ataque básico em {EffectParam1}% enquanto o escudo está ativo
+24611,Sobrecarga de elemento,"Para {EffectParam4} sec
+Aumenta a duração do Buff em {EffectParam1}%
+Aumenta a taxa de resistência a acertos críticos em {EffectParam2}%
+Aumenta a taxa de resistência à maximização em {EffectParam3}%"
+14024611,Sobrecarga de elemento,Aumenta a resistência ao controle de multidão Taxa em {EffectParam1}%
+15024611,Sobrecarga de elemento,"Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}%
+Reduz Dano de acerto crítico recebido em {EffectParam2}%"
+30011,Lento,Tem uma chance de {EffectParam3}% de reduzir a Velocidade de Movimento do alvo em {EffectParam1}% para {EffectParam2}s
+30211,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+30311,Preparando-se para a Batalha,Aumenta o ataque em {EffectParam1} para {EffectParam2}s
+30411,Recuperação de HP,Recupera HP por {EffectParam1}
+31011,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+31012,Congelar,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+14031011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14031012,Moonlight Glide,Aumenta a velocidade de movimento em {EffectParam1}% para {EffectParam2}s após lançar um skill
+15031011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15031012,Moonlight Glide,Aumenta a velocidade de movimento em {EffectParam1}% para {EffectParam2}s após lançar um skill
+15031013,Luar Deslumbrante,"Reduz a defesa do alvo em {EffectParam1}
+ Aumenta o dano recebido dos jogadores em {EffectParam2}%"
+31111,Concentração,Aumenta a precisão em {EffectParam1} para {EffectParam2}s
+14031111,Foco aprimorado,Aumenta a evasão em {EffectParam1}
+15031111,Foco inabalável,"Aumenta a evasão em {EffectParam1}
+ Aumenta a precisão em {EffectParam2}%"
+31211,Veneno,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+14031211,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14031212,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+15031211,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15031212,Onda Potente,"Aumenta o alcance de Skill em 1,5 m"
+15031213,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+32011,Lento,Tem uma chance de {EffectParam3}% de desacelerar alvos atingidos por {EffectParam1}% para {EffectParam2}s
+14032011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14032012,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+15032011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15032012,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+15032013,Redemoinho,"Aumenta Intervalo Skill em {EffectParam1}m
+ Aumenta a contagem de destino de Skill em {EffectParam2}"
+32111,Aprimoramento Físico,Aumenta a velocidade de ataque em {EffectParam1}% para {EffectParam2}s
+14032111,Físico aprimorado,"Aumenta o dano de ataque básico em {EffectParam1}%
+(dobrado em PvE)"
+15032111,Físico Perfeito,"Aumenta o dano de ataque básico em {EffectParam1}%
+(dobrado em PvE)
+Aumenta Skill Dano em {EffectParam2}% 
+ (dobrado em PvE)"
+32511,Recuperação de HP,Recupera HP por {EffectParam1}
+14032511,Cura Potente,Aumenta a quantidade de recuperação de cura Skill em {EffectParam1}%
+15032511,Cura Potente,Aumenta a quantidade de recuperação de cura Skill em {EffectParam1}%
+15032512,Cura sem fim,Aumenta a distância máxima de lançamento de skill em {EffectParam1}m
+32611,Purificado Purifique,"Remove 5 debuffs
+Recupera o HP do alvo em {EffectParam1}"
+32612,Aura de Recuperação,Aumenta a cura de HP recebida pelo alvo purificado em {EffectParam1}% para {EffectParam2} sec
+14032611,Purificar Aura,Aumenta a velocidade de movimento de alvos purificados em {EffectParam1}% para {EffectParam2}s
+15032611,Purificar Aura,Aumenta a velocidade de movimento de alvos purificados em {EffectParam1}% para {EffectParam2}s
+15032612,Purificação Perfeita,Remove todos os debuffs e efeito cego
+15032613,Restaura MP,Restaura {EffectParam1}% do Max MP para Alvos purificados. Restrição
+33011,Twisted Fate,Tem 50% de chance de puxar o alvo em direção ao centro do alcance de ataque
+14033011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14033012,Distorção poderosa,Aumenta Alcance de Skill em 2m
+14033013,Supressão,Tem uma chance de {EffectParam2}% de suprimir alvos puxados para {EffectParam1}s
+15033011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15033012,Distorção sem fim,"Aumenta o alcance de Skill em 2m
+Cria uma zona após lançar um skill que causa 100% de dano adicional por 4s"
+15033013,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+15033014,Supressão,Tem uma chance de {EffectParam2}% de suprimir alvos puxados para {EffectParam1}s
+33111,Força da Natureza,"para {EffectParam4}s,
+aumenta a chance crítica em {EffectParam1}%,
+Velocidade de movimento em {EffectParam2}%,
+e ataque básico em {EffectParam3}"
+14033111,Nature’s Pulse,"Aumenta o ataque de Skill em {EffectParam1}
+ Aumenta o dano crítico de ataque básico em {EffectParam2}%
+(dobrado em PvE)"
+15033111,Nature’s Reach,"Aumenta a velocidade de lançamento de Skill em {EffectParam1}%
+ Aumenta o ataque de Skill em {EffectParam2}
+Aumenta o dano crítico do ataque básico em {EffectParam3}%
+(dobrado em PvE)
+Aumenta o dano crítico de Skill em {EffectParam4}%
+ (dobrado em PvE)"
+33511,Recuperação de HP,"Restaura {EffectParam1} HP para alvos na área a cada 0,5s"
+14033511,Salvação sem fim,Aumenta a duração de Skill em 2s
+14033512,Aliança de Salvação,Aumenta a taxa de resistência a golpes críticos em {EffectParam1}% para alvos dentro da área
+15033511,Salvação Perfeita,"Aumenta a duração de Skill em 2s
+Aumenta o intervalo Skill em 2m
+Aumenta a contagem de destino Skill em {EffectParam1}"
+15033512,Aliança de Salvação,Aumenta a taxa de resistência a golpes críticos em {EffectParam1}% para alvos dentro da área
+33611,Recuperação de HP,Restaura {EffectParam1} HP para {EffectParam2}s
+14033611,Corpo leve,Aumenta a velocidade de movimento em {EffectParam1}% para {EffectParam2}s após lançar um skill
+14033612,Cura sem fim,Aumenta a distância máxima de lançamento de skill em {EffectParam1}m
+15033611,Corpo leve,Aumenta a velocidade de movimento em {EffectParam1}% para {EffectParam2}s após lançar um skill
+15033612,Cura Perfeita,"Aumenta a distância máxima de lançamento de Skill em {EffectParam1}m
+ Aumenta a duração de Skill em {EffectParam2}s
+ (Cura aumentada pela duração estendida)"
+34011,Lento,Tem uma chance de {EffectParam3}% de desacelerar alvos atingidos por {EffectParam1}% para {EffectParam2}s
+34012,Veneno,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+14034011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14034012,Deep Spring,Aumenta a duração de Skill em 1s
+15034011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15034012,Deep Spring,Aumenta a duração de Skill em 2s
+15034013,Névoa da Primavera,Reduz a chance de acerto do Crowd Control em {EffectParam1}% em inimigos dentro da Abyssal Spring
+34111,Sopro do Juiz,"Para {EffectParam4} sec
+Aumenta o dano de acerto crítico em {EffectParam1}%
+Reduz Skill Dano recebido por {EffectParam2}%
+Aumenta a Defesa em {EffectParam3}"
+14034111,Sopro do Juiz,"Aumenta a taxa de resistência a ataques críticos em {EffectParam1}%
+Aumenta a taxa de resistência a ataques críticos em {EffectParam2}"
+15034111,Sopro do Juiz,"Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}%
+Aumenta a taxa de resistência a golpes críticos em {EffectParam2}
+Aumenta o poder de ataque ignorado em {EffectParam3}"
+34511,Recuperação de HP,Recupera HP por {EffectParam1}
+34512,Divine Respiração,Aumenta o HP máximo do alvo em {EffectParam2} para {EffectParam1} sec
+34513,Divine Bênção,"Ao usar um skill, reduz o dano recebido de Skill em {EffectParam1}% e o dano de acerto crítico recebido de skills em {EffectParam2}% por {EffectParam3} seg"
+14034511,Respiração Perfeita,Reduz a duração do Crowd Control em {EffectParam1}% para o efeito de respiração Divine.
+14034512,Aura de Proteção,"Para o efeito de proteção Divine,
+Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}%
+Aumenta a taxa de resistência a golpes críticos de Skill em {EffectParam2}%"
+15034511,Respiração Perfeita,Reduz a duração do Crowd Control em {EffectParam1}% para o efeito de respiração Divine.
+15034512,Aura de Proteção,"Para o efeito de proteção Divine,
+Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}%
+Aumenta a taxa de resistência a golpes críticos de Skill em {EffectParam2}%"
+34611,Batismo de Luz,"para {EffectParam4} sec
+Aumenta a taxa de recuperação de cura em {EffectParam1}%
+Aumenta a taxa de resistência a golpes críticos em {EffectParam2}%
+Aumenta a taxa de resistência de maximização em {EffectParam3}%"
+14034611,Batismo de Luz,Aumenta a resistência ao controle de multidão Taxa em {EffectParam1}%
+15034611,Batismo de Luz,"Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}%
+Reduz Dano de acerto crítico recebido em {EffectParam2}%"
+40011,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+40111,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+40211,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+40311,Preparando-se para a Batalha,Aumenta o ataque em {EffectParam1} para {EffectParam2}s
+40411,Sangramento,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+41011,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+14041011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14041012,Passo de Sombra,Aumenta a distância de lançamento de Skill em {EffectParam1}m
+15041011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15041012,Passo de Sombra,Aumenta a distância de lançamento de Skill em {EffectParam1}m
+15041013,Surpresa de choque,Reduz a Defesa em {EffectParam1}
+41111,Concentração,Aumenta a precisão em {EffectParam1} para {EffectParam2}s
+14041111,Foco aprimorado,Aumenta a evasão em {EffectParam1}
+15041111,Foco inabalável,"Aumenta a evasão em {EffectParam1}
+ Aumenta a precisão em {EffectParam2}%"
+41211,Veneno,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+41212,Lento,Tem uma chance de {EffectParam3}% de reduzir a Velocidade de Movimento do alvo em {EffectParam1}% para {EffectParam2}s
+14041211,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14041212,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+15041211,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15041212,Tempestade de areia,Aumenta o alcance de Skill em 1 m
+15041213,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
+42011,Veneno,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+14042011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14042012,Lento,Tem uma chance de {EffectParam3}% de reduzir a Velocidade de Movimento do alvo em {EffectParam1}% para {EffectParam2}s
+15042011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15042012,Lento,Tem uma chance de {EffectParam3}% de reduzir a Velocidade de Movimento do alvo em {EffectParam1}% para {EffectParam2}s
+15042013,Névoa espessa,"Aumenta a contagem de destino de Skill em {EffectParam1}
+Aumenta Skill Duração em 2s
+Aumenta a evasão de si mesmo dentro da névoa venenosa em {EffectParam2}%"
+42111,Aprimoramento Físico,Aumenta a velocidade de ataque em {EffectParam1}% para {EffectParam2}s
+14042111,Físico aprimorado,"Aumenta o dano de ataque básico em {EffectParam1}%
+(dobrado em PvE)"
+15042111,Físico Perfeito,"Aumenta o dano de ataque básico em {EffectParam1}%
+(dobrado em PvE)
+Aumenta Skill Dano em {EffectParam2}% 
+ (dobrado em PvE)"
+42511,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+42512,Sangramento,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+14042511,Arremesso aprimorado,Aumenta a distância de lançamento de Skill em {EffectParam1}m
+14042512,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+15042511,Arremesso Perfeito,"Aumenta a distância de lançamento de Skill em {EffectParam1}m
+Tem uma chance {EffectParam3}% de impedir que os alvos usem consumíveis para {EffectParam2}s"
+15042512,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+42611,A caça começa,"Para {EffectParam2} sec
+Aumenta a taxa de acerto crítico contra jogadores em {EffectParam1}%
+Reduz o dano de ataque básico recebido por {EffectParam3}%"
+14042611,Sortie de Caça,Aumenta o dano crítico contra jogadores em {EffectParam1}%
+15042611,Sortie de Caça,Aumenta o dano crítico contra jogadores em {EffectParam1}%
+15042612,Troféus,Aumenta a velocidade de movimento em {EffectParam1}% e a velocidade de ataque em {EffectParam2}% para {EffectParam3}s ao derrotar um jogador enquanto o efeito skill está ativo
+43011,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+14043011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14043012,Marca de assalto,Inimigos atingidos recebem {EffectParam1}% de dano aumentado do lançador
+15043011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15043012,Marca de assalto,Inimigos atingidos recebem {EffectParam1}% de dano aumentado do lançador
+15043013,Queda Perfeita,Aumenta a velocidade de movimento em {EffectParam1}% para {EffectParam2}s após lançar um skill
+43111,Caminho do Assassin,"Para {EffectParam4}s, 
+ aumenta a chance crítica em {EffectParam1}%,
+Velocidade de movimento por {EffectParam2}%,
+e ataque por {EffectParam3}"
+14043111,Postura de Assassin,"Aumenta o acerto crítico em {EffectParam1}
+ Aumenta o dano crítico do ataque básico em {EffectParam2}%
+ (dobrado em PvE)"
+15043111,Caminho Real de Assassin,"Aumenta a velocidade de lançamento de Skill em {EffectParam1}%
+Aumenta o acerto crítico em {EffectParam2}
+Aumenta o dano crítico do ataque básico em {EffectParam3}%
+(dobrado em PvE)
+Aumenta o dano crítico de Skill em {EffectParam4}%
+(dobrado em PvE)"
+43511,Furtivo,"entra em modo furtivo para {EffectParam1}s
+ causa 100% de acerto crítico ao acertar enquanto estiver em modo furtivo."
+14043511,Furtividade impecável,"Aumenta a duração da Furtividade em {EffectParam1}s
+ Aumenta a Velocidade de Movimento em {EffectParam2}% enquanto em Furtividade
+ Aumenta a Evasão em {EffectParam3}% enquanto em Furtividade"
+15043511,Furtividade Absoluta,"Aumenta a duração da Furtividade em {EffectParam1}s
+Aumenta a Velocidade de Movimento em {EffectParam2}% enquanto estiver em Furtividade
+Aumenta a Evasão em {EffectParam3}% enquanto estiver em Furtividade Stealth
+Ignorar colisão enquanto estiver em Stealth"
+43611,Supressão,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
+43612,Ataque preciso,Aumenta a chance crítica em {EffectParam1}% contra jogadores
+14043611,Golpe Perfeito,Aumenta ainda mais a chance crítica em {EffectParam1}% contra jogadores
+14043612,Cura desativada,"Tem uma chance de {EffectParam3}% de reduzir a regeneração natural de HP, recuperação de poções de HP e cura recebida por {EffectParam1}% para {EffectParam2}s"
+15043611,Golpe Perfeito,"Aumenta ainda mais a chance crítica em {EffectParam1}% contra jogadores
+Aumenta a duração da supressão em {EffectParam2}s"
+15043612,Cura desativada,"tem um {EffectParam3}% de chance de reduzir a regeneração natural de HP do alvo, a recuperação de poções de HP e a cura recebida em {EffectParam1}% para {EffectParam2}s
+Reduz o MP do alvo em {EffectParam4}%"
+44011,Silêncio,Tem uma chance {EffectParam2}% de silenciar para {EffectParam1}s
+44012,Sangramento,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+14044011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14044012,Adiciona Afterimage,Aumenta os alvos do Afterimage Flurry em 1.
+15044011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15044012,Adiciona Afterimage,Aumenta os alvos do Afterimage Flurry em 2.
+15044013,Efeito de pós-imagem,Aumenta a taxa de evasão em {EffectParam1}% para {EffectParam2}s
+44111,Brilho de Malícia,"Para {EffectParam4} sec
+Aumenta o dano de acerto crítico em {EffectParam1}%
+Reduz o dano de Skill recebido por {EffectParam2}%
+Aumenta a taxa de resistência a golpes críticos em {EffectParam3}"
+14044111,Brilho de Malícia,"Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}%
+Aumenta a defesa em {EffectParam2}"
+15044111,Brilho de Malícia,"Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}%
+Aumenta a defesa em {EffectParam2}
+Aumenta o poder de ataque de ignorar em {EffectParam3}"
+44511,Cego,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
+44512,Veneno,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+14044511,Lento,Reduz o movimento Velocidade em {EffectParam1}% em inimigos dentro da Névoa Sombria
+15044511,Lento,Reduz o movimento Velocidade em {EffectParam1}% em inimigos dentro da Névoa Sombria
+15044512,Controle de Névoa,Aumenta a resistência ao controle de multidão Taxa em {EffectParam1}%
+44611,Malícia Concentrada,"Para {EffectParam4} sec
+Reduz o dano de acerto crítico recebido por {EffectParam1}%
+Aumenta a taxa de resistência a acerto crítico em {EffectParam2}%
+Aumenta a taxa de resistência de maximização em {EffectParam3}%"
+14044611,Malícia Concentrada,Aumenta a resistência ao controle de multidão Taxa em {EffectParam1}%
+15044611,Malícia Concentrada,"Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}%
+Reduz Dano de acerto crítico recebido em {EffectParam2}%"
+50011,Knock Back,Tem 50% de chance de empurrar o inimigo de volta ao final do caminho da flecha.
+50111,Lento,Tem uma chance de {EffectParam3}% de reduzir a Velocidade de Movimento do alvo em {EffectParam1}% para {EffectParam2}s
+50211,Knock Back,Tem um {EffectParam2}% de chance de derrubar alvos próximos
+50311,Preparando-se para a Batalha,Aumenta o ataque em {EffectParam1} para {EffectParam2}s
+50411,Queimar,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+14051011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14051012,Lento,Tem uma chance de {EffectParam3}% de desacelerar alvos em {EffectParam1}% para {EffectParam2}s
+15051011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15051012,Lento,Tem uma chance de {EffectParam3}% de desacelerar alvos em {EffectParam1}% para {EffectParam2}s
+15051013,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+51111,Concentração,Aumenta a precisão em {EffectParam1} para {EffectParam2}s
+14051111,Foco aprimorado,Aumenta a evasão em {EffectParam1}
+15051111,Foco inabalável,"Aumenta a evasão em {EffectParam1}
+ Aumenta a precisão em {EffectParam2}%"
+51211,Sangramento,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+14051211,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14051212,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+15051211,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15051212,Seta de divisão,"Aumenta o alcance de Skill em 1,5 m"
+15051213,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+52011,Sangramento,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+14052011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14052012,Lento,Tem uma chance de {EffectParam3}% de reduzir a Velocidade de Movimento do alvo em {EffectParam1}% para {EffectParam2}s
+15052011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15052012,Lento,Tem uma chance de {EffectParam3}% de reduzir a Velocidade de Movimento do alvo em {EffectParam1}% para {EffectParam2}s
+15052013,Chuva sem fim,"Aumenta a contagem de destino de Skill em {EffectParam1}
+Aumenta a duração de Skill em 2s"
+52111,Aprimoramento Físico,Aumenta a velocidade de ataque em {EffectParam1}% para {EffectParam2}s
+14052111,Físico aprimorado,"Aumenta o dano de ataque básico em {EffectParam1}%
+(dobrado em PvE)"
+15052111,Físico Perfeito,"Aumenta o dano de ataque básico em {EffectParam1}%
+(dobrado em PvE)
+Aumenta Skill Dano em {EffectParam2}% 
+ (dobrado em PvE)"
+52511,Seta de rastreamento,"1º acerto: Tem uma chance de {EffectParam7}% de desacelerar {EffectParam1}% para {EffectParam4}s
+2º acerto: tem uma chance de {EffectParam5}% de vincular-se a {EffectParam2}s
+3º acerto: tem uma chance de {EffectParam6}% de silenciar para {EffectParam3}s"
+14052511,Flecha adicional,4º acerto: tem {EffectParam2}% de chance de cegar para {EffectParam1}s
+15052511,Seta poderosa,"aprimora o efeito da seta de rastreamento
+1º acerto: tem uma chance de {EffectParam9}% de desacelerar em {EffectParam1}% para {EffectParam5}s
+2º acerto: tem um {EffectParam6}% de chance de vincular para {EffectParam2}s
+3º acerto: tem uma chance de {EffectParam7}% de silenciar para {EffectParam3}s
+4º acerto: tem um {EffectParam8}% chance de cegar para {EffectParam4}s"
+52711,Expor Fraqueza,"Concede efeitos adicionais ao Ataque Básico para {EffectParam8}s.
+Tem uma chance de {EffectParam5}% de retardar alvos atingidos por Ataque Básico por {EffectParam1}% para {EffectParam2}s (Max {EffectParam7} stacks)
+Tem uma chance {EffectParam6}% de reduzir a velocidade de ataque dos alvos atingidos pelo ataque básico {EffectParam7} vezes em {EffectParam3}% para {EffectParam4}s"
+52712,Ataque de Ponto Fraco,Aumenta a taxa de precisão de ataque básico em {EffectParam1}% para {EffectParam2} sec
+14052711,Análise de Fraqueza,"Aumenta Skill Duração em {EffectParam1}s
+ Detecção de fraqueza: Além disso, diminui em {EffectParam2}%"
+15052711,Aliança de Fraqueza,"Aumenta a duração de Skill em {EffectParam1}s
+Adicionalmente retarda em {EffectParam2}%
+Reduz adicionalmente a velocidade de ataque em {EffectParam3}%
+Reduz a precisão em {EffectParam4}% em {EffectParam5} acumula"
+53011,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+14053011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14053012,Penetração de alma,O alvo recebe {EffectParam1}% de dano aumentado do lançador
+15053011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15053012,Penetração de alma,O alvo recebe {EffectParam1}% de dano aumentado do lançador
+15053013,Absorção de alma,Aumenta a velocidade de ataque em {EffectParam1}% para {EffectParam2}s após lançar um skill
+53111,Instinto de caça,"Para {EffectParam4}s,
+aumenta a chance crítica em {EffectParam1}%,
+Velocidade de lançamento de habilidade em {EffectParam2}%, 
+ e Ataque Básico de {EffectParam3}"
+14053111,Sentidos Aguçados,"Aumenta o ataque de Skill em {EffectParam1}
+ Aumenta o dano crítico de ataque básico em {EffectParam2}%
+(dobrado em PvE)"
+15053111,Predator’s Senses,"Aumenta a velocidade de movimento em {EffectParam1}%
+Aumenta o ataque de Skill em {EffectParam2}
+Aumenta o dano crítico do ataque básico em {EffectParam3}%
+(dobrado em PvE)
+Aumenta o dano crítico de Skill em {EffectParam4}%
+(dobrado em PvE)"
+53511,Armadilha,Implanta uma Trap que dura 15s
+53512,Knock Down,Tem {EffectParam2}% de chance de derrubar o alvo por {EffectParam1}s quando a armadilha explode
+53513,Queimar,Tem um {EffectParam3}% de chance de causar {EffectParam1}% de Poder para Danificar alvos para {EffectParam2}s quando a armadilha explode
+14053511,Armadilha resistente,Aumenta a duração da armadilha implantada em 10 s
+14053512,Mana Recolher,Reduz o MP do alvo em {EffectParam1}% quando a armadilha explode.
+14053513,Shadow Trap,Reduz a cura recebida em {EffectParam2}% para {EffectParam1}s
+15053511,Armadilha resistente,Aumenta a duração da armadilha implantada em 20 s
+15053512,Mana Recolher,Reduz o MP do alvo em {EffectParam1}% quando a armadilha explode.
+15053513,Shadow Trap,Reduz a cura recebida em {EffectParam2}% para {EffectParam1}s
+15053514,Cego,Tem {EffectParam2}% de chance de cegar o alvo por {EffectParam1}s quando a armadilha explode
+53611,Libertação,Remove 5 buffs do alvo ao ser atingido
+14053611,Silêncio,Tem uma chance {EffectParam2}% de silenciar o alvo por {EffectParam1} seg ao ser atingido
+15053611,Silêncio,Tem uma chance {EffectParam2}% de silenciar o alvo por {EffectParam1} seg ao ser atingido
+15053612,Absoulute Liberte,"Skill alcance aumentado em 2m
+Remove todos os Buffs do alvo ao acertar"
+54011,Atordoamento,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
+54012,Sangramento,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+14054011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+14054012,Elo de corrente,Aumenta os alvos Chain Shackles em 1
+15054011,Aumento de dano,Aumenta o dano de skill em {EffectParam1}%
+15054012,Elo de corrente,Aumenta os alvos Chain Shackles em 2
+15054013,,Reduz a chance de resistência ao efeito de aflição em {EffectParam1}% para {EffectParam2}s
+54111,Olhar do Mestre Archer,"Para {EffectParam4} sec
+Aumenta o Dano de Acerto Crítico em {EffectParam1}%
+Reduz Skill Dano recebido por {EffectParam2}%
+Aumenta Ignorar o poder de ataque por {EffectParam3}"
+14054111,Olhar do Mestre Archer,"Aumenta a taxa de resistência a ataques críticos em {EffectParam1}%
+Aumenta a taxa de resistência a ataques críticos em {EffectParam2}"
+15054111,Olhar do Mestre Archer,"Aumenta a taxa de resistência a ataques críticos em {EffectParam1}%
+Aumenta a taxa de resistência a ataques críticos em {EffectParam2}
+Aumenta a defesa em {EffectParam3}"
+54511,Ligação,tem uma chance de {EffectParam2}% de vincular para {EffectParam1}s
+54512,Veneno,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
+14054511,Consumíveis indisponíveis,Tem uma chance {EffectParam2}% de desabilitar o uso de itens consumíveis para {EffectParam1}s
+15054511,Consumíveis indisponíveis,Tem uma chance {EffectParam2}% de desabilitar o uso de itens consumíveis para {EffectParam1}s
+15054512,Mana Recolher,Reduz o MP do alvo atingido em {EffectParam1}%
+54611,Olhar do Governante,"para {EffectParam4}s
+Aumenta a chance de acerto do Crowd Control em {EffectParam1}%
+Aumenta a taxa de resistência a acertos críticos em {EffectParam2}%
+Aumenta a taxa de resistência à maximização em {EffectParam3}%"
+14054611,Olhar do Governante,Aumenta a resistência ao controle de multidão Taxa em {EffectParam1}%
+15054611,Olhar do Governante,"Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}%
+Reduz Dano de acerto crítico recebido em {EffectParam2}%"
+211001,Combate básico,Aumenta o poder de ataque em {EffectParam1}
+211011,Postura Defensiva,Aumenta a defesa em {EffectParam1}
+211021,Prepare-se para atacar,Aumenta o acerto crítico em {EffectParam1}
+212001,Mira precisa,Aumenta Precisão em {EffectParam1}
+212011,Instintos Aguçados,Aumenta a evasão em {EffectParam1}
+213001,Poder do Combate,Aumenta o poder de ataque em {EffectParam1}
+213011,Golpe Pesado,"Aumenta a taxa de maximização em {EffectParam1}%
+ Aumenta o poder de ataque básico em {EffectParam2}"
+213021,Melhorar a vitalidade,"Aumenta Max HP em {EffectParam1}
+ Aumenta HP Potion Healing em {EffectParam2}"
+214001,Fluxo do Campo de Batalha,"Aumenta a regeneração de MP em {EffectParam1}
+ Aumenta o poder de ataque de Skill em {EffectParam2}"
+214011,Respiração Focada,Aumenta a taxa de precisão em {EffectParam1}%
+214021,Corpo indomável,"Aumenta a taxa de resistência a acertos críticos de Skill em {EffectParam1}%
+Reduz o dano de acerto crítico recebido por {EffectParam2}%"
+215001,Compartilhada Aura do Herói,"Reduz o Dano Recebido em {EffectParam1}% 
+ Aumenta a Velocidade de Movimento em {EffectParam2}%"
+215011,Gale Resolver,"aumenta Taxa de resistência ao controle de multidão em {EffectParam1}%
+Aumenta a velocidade de lançamento de Skill em {EffectParam2}%"
+215021,Carne imortal,"Aumenta o HP máximo em {EffectParam1}
+Dano reduzido recebido de alvo único Skills em {EffectParam2}%"
+211401,Treinamento de Esgrima,Aumenta o poder de ataque em {EffectParam1}
+212401,Aprimoramento de espada larga,Aumenta a defesa de ignorar em {EffectParam1}
+213401,Vontade de Combate: Warrior,"Aumenta o dano contra monstros em {EffectParam1}% 
+ Aumenta o poder de ataque de Skill em {EffectParam2}"
+213411,Fúria Feroz,"Aumenta o Dano de Acerto Crítico em {EffectParam1}%
+ Aumenta a Defesa em {EffectParam2}"
+214401,Aura de Warrior,"Aumenta a chance de acerto crítico em {EffectParam1}%
+ Aumenta o poder de ataque básico em {EffectParam2}"
+214411,Fúria de Aço,"Aumenta o dano contra inimigos derrubados em {EffectParam1}% 
+ Aumenta o dano contra inimigos aéreos em {EffectParam2}%"
+214412,Fúria de Aço,"Após um ataque de acompanhamento bem-sucedido, aumenta adicionalmente a velocidade de lançamento de 
+ em {EffectParam1}% e Velocidade de movimento em {EffectParam2}% para {EffectParam3} sec
+ (recarga: {EffectParam4} seg)"
+214431,Fúria Ardente,"Aumenta o dano contra alvos queimados em {EffectParam1}% 
+ Aumenta o dano contra alvos sangrando em {EffectParam2}%"
+214432,Chamas de Raiva,"No ataque bem-sucedido, para {EffectParam1}s, 
+ Aumenta a velocidade de ataque em {EffectParam2}% 
+ (CD: {EffectParam3}s)"
+215401,Espada da Destruição,Aumenta o dano em {EffectParam1}%
+215402,Correntes Destrutivas,"Após o acompanhamento bem-sucedido, skill atingiu, tem um {EffectParam2}% de chance de aumentar o dano de Skill em {EffectParam1}% por {EffectParam3} seg."
+211701,Instinto de Combate: Warrior,Aumenta o poder de ataque de ignorar em {EffectParam1}
+212701,Vontade forte,"Aumenta a defesa em {EffectParam1}
+ Aumenta a geração de Aggro em {EffectParam2}%"
+213701,Honorável Combate,"Aumenta a resistência a golpes críticos em {EffectParam1}
+Reduz o dano de ataque básico recebido por {EffectParam2}"
+213711,Coração de Aço,Aumenta HP Regen por {EffectParam1}Reduz Skill Dano recebido por {EffectParam2}%
+214701,Dominação da Raiva,"Quando você sofre dano, por {EffectParam3} seg:
+Reduz o dano recebido por {EffectParam1}%
+Aumenta a geração de Aggro em {EffectParam2}%
+(máx. 5 pilhas)"
+214711,Bênção da Terra,"Aumenta o HP máximo em {EffectParam1}%
+Aumenta a cura de poções em {EffectParam2}
+Aumenta a cura recebida por {EffectParam3}%
+Reduz a duração do Crowd Control em {EffectParam4}%"
+214712,Bênção Duradoura,"Além disso, se o HP estiver abaixo de 30%, 
+ aumenta ainda mais a recuperação de cura recebida em {EffectParam1}%"
+214731,Combate Tenaz,"Aumenta a taxa de precisão em {EffectParam1}%
+Reduz Skill Dano de acerto crítico recebido por {EffectParam2}%"
+215701,Proteção Ironclad,"Aumenta a resistência ao controle de multidão em {EffectParam1}% 
+Reduz o dano recebido enquanto está sob controle de multidão em {EffectParam2}%"
+215721,Coragem endurecida pela batalha,"Reduz o dano crítico recebido em {EffectParam1}%
+ Aumenta a taxa de resistência ao controle de multidão em {EffectParam2}%"
+215722,Veteran's Insight,"No golpe de Ataque Básico, tem {EffectParam2}% de chance de aumentar o Dano causado a alvos protegidos por {EffectParam1}% para {EffectParam3}s"
+221001,Combate básico,Aumenta o poder de ataque em {EffectParam1}
+221011,Postura Defensiva,Aumenta a defesa em {EffectParam1}
+221021,Prepare-se para atacar,Aumenta o acerto crítico em {EffectParam1}
+222001,Mira precisa,Aumenta Precisão em {EffectParam1}
+222011,Instintos Aguçados,Aumenta a evasão em {EffectParam1}
+223001,Poder do Combate,Aumenta o poder de ataque em {EffectParam1}
+223011,Golpe Pesado,"Aumenta a taxa de maximização em {EffectParam1}%
+ Aumenta o poder de ataque básico em {EffectParam2}"
+223021,Melhorar a vitalidade,"Aumenta Max HP em {EffectParam1}
+ Aumenta HP Potion Healing em {EffectParam2}"
+224001,Fluxo do Campo de Batalha,"Aumenta a regeneração de MP em {EffectParam1}
+ Aumenta o poder de ataque de Skill em {EffectParam2}"
+224011,Respiração Focada,Aumenta a taxa de precisão em {EffectParam1}%
+224021,Corpo indomável,"Aumenta a taxa de resistência a acertos críticos de Skill em {EffectParam1}%
+Reduz o dano de acerto crítico recebido por {EffectParam2}%"
+225001,Compartilhada Aura do Herói,"Reduz o Dano Recebido em {EffectParam1}% 
+ Aumenta a Velocidade de Movimento em {EffectParam2}%"
+225011,Gale Resolver,"aumenta Taxa de resistência ao controle de multidão em {EffectParam1}%
+Aumenta a velocidade de lançamento de Skill em {EffectParam2}%"
+225021,Carne imortal,"Aumenta o HP máximo em {EffectParam1}
+Dano reduzido recebido de alvo único Skills em {EffectParam2}%"
+221401,Mana Treinamento,Aumenta o poder de ataque básico em {EffectParam1}
+222401,Aprimoramento de equipe,Aumenta o poder de ataque de Skill em {EffectParam1}
+223401,Vontade de Combate: Mage,"Aumenta o dano contra monstros em {EffectParam1}% 
+ Aumenta o poder de ataque de Skill em {EffectParam2}"
+223411,Magia Primordial,"Aumenta o dano de acerto crítico em {EffectParam1}% 
+ Aumenta o HP máximo em {EffectParam2}"
+224401,Aura de Mage,"Aumenta a chance de acerto crítico em {EffectParam1}%
+ Aumenta o poder de ataque básico em {EffectParam2}"
+224411,Mind Blast,Aumenta o dano contra alvos atordoados em {EffectParam1}%
+224412,Consciência Focada,"Após um ataque de acompanhamento bem-sucedido, aumenta adicionalmente a velocidade de lançamento de 
+ em {EffectParam1}% e Velocidade de movimento em {EffectParam2}% para {EffectParam3} sec
+ (recarga: {EffectParam4} seg)"
+224431,Chama Congelada,"Aumenta o dano contra alvos queimados em {EffectParam1}% 
+ Aumenta o dano contra alvos congelados em {EffectParam2}%"
+224432,Energia da Flor de Gelo,"Em ataques adicionais bem-sucedidos ataque, para {EffectParam1}s, 
+ Aumenta o dano de Skill em {EffectParam2}% 
+ (CD: {EffectParam3}s)"
+225401,Coração ardente,Aumenta o dano em {EffectParam1}%
+225402,Coração feroz,"Após o uso de skill de acompanhamento, aumenta o dano de Skill em {EffectParam1}% para {EffectParam2} sec
+ (máximo de 5 pilhas)"
+221701,Instinto de Combate: Mage,Aumenta a resistência a golpes críticos em {EffectParam1}
+222701,Vontade de Mana,"Aumenta a Defesa em {EffectParam1}
+ Aumenta a Regeneração de MP em {EffectParam2}"
+223701,Magic Focus,"Aumenta a evasão em {EffectParam1}
+ Aumenta a velocidade de lançamento de Skill em {EffectParam2}%"
+223711,Mana Amplificação,"Ao acertar o Ataque Básico, tem {EffectParam2}% de chance de aumentar o poder de ataque seu e dos membros do seu grupo em {EffectParam1} para {EffectParam3} seg."
+224701,Mana Armadura,"Ao receber dano, tem {EffectParam2}% de chance de criar um Escudo {EffectParam1} para {EffectParam3}s
+(cooldown:{EffectParam4} seg)"
+224702,Armadura leve,"Quando um Escudo de Armadura Mágica é criado, aumenta a Velocidade de Movimento em {EffectParam1}% enquanto a Barreira durar."
+224721,Previsão,Aumenta Skill Taxa de evasão em {EffectParam1}%
+224722,Predição bem-sucedida,"Após o uso de skill, tem uma chance de {EffectParam1}% de reduzir Skill Recarga em {EffectParam2}s
+ (recarga: {EffectParam3} seg.)"
+224741,Aceleração de feitiço,"Aumenta a taxa de precisão em {EffectParam1}%
+Aumenta o dano de Skill em {EffectParam2}%
+Aumenta a velocidade de lançamento de Skill em {EffectParam3}%"
+225701,Olho do Campo de Batalha,"Após acertar o Ataque Básico, tem {EffectParam2}% de chance de aumentar o Dano causado por você e pelos membros do seu grupo em {EffectParam1}% por {EffectParam3} seg."
+225721,Mana Erosão,"Reduz o dano crítico recebido por {EffectParam1}%
+Reduz a duração do controle de multidão recebido em {EffectParam2}%"
+225722,Mana Insight,"Ao acertar Skill, tem {EffectParam2}% de chance de aumentar o dano causado a alvos protegidos em {EffectParam1}% para {EffectParam3}s"
+231001,Combate básico,Aumenta o poder de ataque em {EffectParam1}
+231011,Postura Defensiva,Aumenta a defesa em {EffectParam1}
+231021,Prepare-se para atacar,Aumenta o acerto crítico em {EffectParam1}
+232001,Mira precisa,Aumenta Precisão em {EffectParam1}
+232011,Instintos Aguçados,Aumenta a evasão em {EffectParam1}
+233001,Poder do Combate,Aumenta o poder de ataque em {EffectParam1}
+233011,Golpe Pesado,"Aumenta a taxa de maximização em {EffectParam1}%
+ Aumenta o poder de ataque básico em {EffectParam2}"
+233021,Melhorar a vitalidade,"Aumenta Max HP em {EffectParam1}
+ Aumenta HP Potion Healing em {EffectParam2}"
+234001,Fluxo do Campo de Batalha,"Aumenta a regeneração de MP em {EffectParam1}
+ Aumenta o poder de ataque de Skill em {EffectParam2}"
+234011,Respiração Focada,Aumenta a taxa de precisão em {EffectParam1}%
+234021,Corpo indomável,"Aumenta a taxa de resistência a acertos críticos de Skill em {EffectParam1}%
+Reduz o dano de acerto crítico recebido por {EffectParam2}%"
+235001,Compartilhada Aura do Herói,"Reduz o Dano Recebido em {EffectParam1}% 
+ Aumenta a Velocidade de Movimento em {EffectParam2}%"
+235011,Gale Resolver,"aumenta Taxa de resistência ao controle de multidão em {EffectParam1}%
+Aumenta a velocidade de lançamento de Skill em {EffectParam2}%"
+235021,Carne imortal,"Aumenta o HP máximo em {EffectParam1}
+Dano reduzido recebido de alvo único Skills em {EffectParam2}%"
+231401,Divine Treinamento,Aumenta o poder de ataque básico em {EffectParam1}
+232401,Aprimoramento de Orbe,Aumenta o poder de ataque de Skill em {EffectParam1}
+233401,Vontade de combate: Battle Priest,"Aumenta o dano contra monstros em {EffectParam1}%
+ Aumenta o poder de ataque básico em {EffectParam2}"
+233411,Visão interna,"Aumenta o Dano de Acerto Crítico em {EffectParam1}%
+Aumenta o Poder de Ataque de Ignorar em {EffectParam2}"
+234401,Battle Priest,"Aumenta a chance de acerto crítico em {EffectParam1}% 
+ Aumenta o poder de ataque de Skill em {EffectParam2}"
+234411,Santo Radiância,Aumenta o dano contra alvos com velocidade de movimento reduzida em {EffectParam1}%
+234412,Luz Radiante,"Após ataque de acompanhamento bem-sucedido, aumenta adicionalmente a velocidade de ataque de 
+ em {EffectParam1}% e a velocidade de movimento em {EffectParam2}% para {EffectParam3} sec
+ (recarga: {EffectParam4} seg)"
+234431,Miasma Congelado,"Aumenta o dano contra alvos congelados em {EffectParam1}% 
+ Aumenta o dano contra alvos envenenados em {EffectParam2}%"
+234432,Energia do Veneno de Gelo,"Em ataques adicionais bem-sucedidos ataque, para {EffectParam1}s, 
+ Aumenta o dano de Skill em {EffectParam2}% 
+ (CD: {EffectParam3}s)"
+235401,Divine Julgamento,Aumenta o dano em {EffectParam1}%
+235402,Dispensando Justiça,"Após o acerto do Ataque Básico, aumenta o Dano do Ataque Básico em {EffectParam1}% para {EffectParam2} sec
+ (máx. 10 stack seg)"
+231701,Instinto de Combate: Battle Priest,Aumenta a defesa em {EffectParam1}
+232701,Vontade da Natureza,"Aumenta o HP máximo em {EffectParam1}
+ Aumenta a regeneração de MP em {EffectParam2}"
+233701,Escudo de recuperação,"Aumenta a defesa em {EffectParam1}
+ Aumenta a quantidade de cura em {EffectParam2}%"
+233711,Vontade supressiva,Aumenta a precisão do ataque básico em {EffectParam1}
+233712,Supressão de cura,"Ao acertar o Ataque Básico, tem {EffectParam2}% de chance de reduzir a Cura Recebida pelo alvo em {EffectParam1}% por {EffectParam3} seg."
+234701,Bênção de Combate,"Ao acertar o Ataque Básico, tem um {EffectParam1}% de chance de conceder um Escudo que anula 1 ataque por {EffectParam2} sec
+ (tempo de recarga: {EffectParam3} seg)"
+234711,Reagrupar,"Reduz o Tempo de Recarga de Skill em {EffectParam1}%
+Reduz a duração do controle de multidão em {EffectParam2}%"
+234712,Poder de Cura,"Ao curar skill, tem uma chance de {EffectParam2}% de restaurar {EffectParam1} HP"
+234731,Divine Supressão,"Aumenta a taxa de precisão em {EffectParam1}% 
+ Aumenta o dano de Skill em {EffectParam2}% 
+ Aumenta a chance de acerto do Crowd Control em {EffectParam3}%"
+235701,Santuário,Aumenta a quantidade de cura em {EffectParam1}%
+235702,Salvador,"Ao curar o uso de skill, 
+ aumenta a taxa de evasão em {EffectParam1}% e a velocidade de movimento em {EffectParam2}% para {EffectParam3} sec
+ (cooldown: {EffectParam4} seg)"
+235721,Sagrada Bênção,"Reduz o dano crítico recebido em {EffectParam1}%
+ Aumenta a taxa de resistência ao controle de multidão em {EffectParam2}%"
+235722,Insight Sagrado,"No golpe de Ataque Básico, tem {EffectParam2}% de chance de aumentar o Dano causado a alvos protegidos por {EffectParam1}% para {EffectParam3}s"
+241001,Combate básico,Aumenta o poder de ataque em {EffectParam1}
+241011,Postura Defensiva,Aumenta a defesa em {EffectParam1}
+241021,Prepare-se para atacar,Aumenta o acerto crítico em {EffectParam1}
+242001,Mira precisa,Aumenta Precisão em {EffectParam1}
+242011,Instintos Aguçados,Aumenta a evasão em {EffectParam1}
+243001,Poder do Combate,Aumenta o poder de ataque em {EffectParam1}
+243011,Golpe Pesado,"Aumenta a taxa de maximização em {EffectParam1}%
+ Aumenta o poder de ataque básico em {EffectParam2}"
+243021,Melhorar a vitalidade,"Aumenta Max HP em {EffectParam1}
+ Aumenta HP Potion Healing em {EffectParam2}"
+244001,Fluxo do Campo de Batalha,"Aumenta a regeneração de MP em {EffectParam1}
+ Aumenta o poder de ataque de Skill em {EffectParam2}"
+244011,Respiração Focada,Aumenta a taxa de precisão em {EffectParam1}%
+244021,Corpo indomável,"Aumenta a taxa de resistência a acertos críticos de Skill em {EffectParam1}%
+Reduz o dano de acerto crítico recebido por {EffectParam2}%"
+245001,Compartilhada Aura do Herói,"Reduz o Dano Recebido em {EffectParam1}% 
+ Aumenta a Velocidade de Movimento em {EffectParam2}%"
+245011,Gale Resolver,"aumenta Taxa de resistência ao controle de multidão em {EffectParam1}%
+Aumenta a velocidade de lançamento de Skill em {EffectParam2}%"
+245021,Carne imortal,"Aumenta o HP máximo em {EffectParam1}
+Dano reduzido recebido de alvo único Skills em {EffectParam2}%"
+241401,Treinamento de Assassinato,Aumenta a defesa de ignorar em {EffectParam1}
+242401,Aprimoramento da Adaga,Aumenta o poder de ataque em {EffectParam1}
+243401,Vontade de combate: Assassin,"Aumenta o dano contra monstros em {EffectParam1}% 
+ Aumenta o poder de ataque de Skill em {EffectParam2}"
+243411,Disciplina de sombra,"Aumenta o Dano de Acerto Crítico em {EffectParam1}%
+Aumenta a Evasão em {EffectParam2}"
+244401,Aura de Assassin,"Aumenta a chance de acerto crítico em {EffectParam1}%
+ Aumenta o poder de ataque básico em {EffectParam2}"
+244411,Lâmina de sombra,Aumenta o dano contra alvos atordoados em {EffectParam1}%
+244412,Caminhada nas Sombras,"Após ataque de acompanhamento bem-sucedido, aumenta 
+Acerto crítico Chance em {EffectParam1}% e velocidade de movimento em {EffectParam2}% para {EffectParam3} sec
+ (recarga: {EffectParam4} sec)"
+244431,Impressão cruel,"Aumenta Dano contra alvos envenenados em {EffectParam1}%
+Aumenta o dano contra alvos sangrando em {EffectParam2}%"
+244432,Rastro de Impressão,"No ataque bem-sucedido, para {EffectParam1}s, 
+ Aumenta a velocidade de ataque em {EffectParam2}% 
+ (CD: {EffectParam3}s)"
+245401,Assassin Respiração de,Aumenta o dano em {EffectParam1}%
+245402,de Assassin Aura de Assassin,"Após o acerto crítico subsequente, aumenta o Dano de Skill em {EffectParam2}% para {EffectParam1} sec"
+241701,Instinto de Combate: Assassin,Aumenta o acerto crítico contra jogadores em {EffectParam1}
+242701,Vontade das Trevas,"Aumenta o poder de ataque contra jogadores em {EffectParam1}
+ Aumenta a precisão contra jogadores em {EffectParam2}"
+243701,Eco de Sangue,"Aumenta a taxa de precisão contra jogadores em {EffectParam1}% 
+ Aumenta o dano contra alvos de sangramento em {EffectParam2}%"
+243711,Foco escuro,"Se o HP restante do alvo for 30% ou menos, 
+ aumenta o dano em {EffectParam1}% para {EffectParam2} sec"
+244701,Aura de Sangue,"Se seu HP restante cair para 30% ou menos:
+aumenta a taxa de evasão em {EffectParam1}%
+Aumenta a velocidade de movimento em {EffectParam2}%"
+244711,Amplificação Escura,Aumenta o dano de acerto crítico do jogador em {EffectParam1}%
+244721,Instinto de Sombra,"Aumenta a taxa de precisão em {EffectParam1}%
+Reduz a duração do Crowd Control em {EffectParam2}%"
+245701,Julgamento,"Ao acertar skill, aumenta a chance de acerto crítico contra jogadores em {EffectParam1}% para {EffectParam2} sec
+ (recarga: {EffectParam3} seg)"
+245721,Instinto cruel,"Reduz o dano crítico recebido por {EffectParam1}%
+Aumenta Chance de resistência à aflição {EffectParam2}%"
+245722,Insight cruel,"Ao acertar Skill, tem {EffectParam2}% de chance de aumentar o dano causado a alvos protegidos em {EffectParam1}% para {EffectParam3}s"
+251001,Combate básico,Aumenta o poder de ataque em {EffectParam1}
+251011,Postura Defensiva,Aumenta a defesa em {EffectParam1}
+251021,Prepare-se para atacar,Aumenta o acerto crítico em {EffectParam1}
+252001,Mira precisa,Aumenta Precisão em {EffectParam1}
+252011,Instintos Aguçados,Aumenta a evasão em {EffectParam1}
+253001,Poder do Combate,Aumenta o poder de ataque em {EffectParam1}
+253011,Golpe Pesado,"Aumenta a taxa de maximização em {EffectParam1}%
+ Aumenta o poder de ataque básico em {EffectParam2}"
+253021,Melhorar a vitalidade,"Aumenta Max HP em {EffectParam1}
+ Aumenta HP Potion Healing em {EffectParam2}"
+254001,Fluxo do Campo de Batalha,"Aumenta a regeneração de MP em {EffectParam1}
+ Aumenta o poder de ataque de Skill em {EffectParam2}"
+254011,Respiração Focada,Aumenta a taxa de precisão em {EffectParam1}%
+254021,Corpo indomável,"Aumenta a taxa de resistência a acertos críticos de Skill em {EffectParam1}%
+Reduz o dano de acerto crítico recebido por {EffectParam2}%"
+255001,Compartilhada Aura do Herói,"Reduz o Dano Recebido em {EffectParam1}% 
+ Aumenta a Velocidade de Movimento em {EffectParam2}%"
+255011,Gale Resolver,"aumenta Taxa de resistência ao controle de multidão em {EffectParam1}%
+Aumenta a velocidade de lançamento de Skill em {EffectParam2}%"
+255021,Carne imortal,"Aumenta o HP máximo em {EffectParam1}
+Dano reduzido recebido de alvo único Skills em {EffectParam2}%"
+251401,Treinamento de Tiro com Arco,Aumenta o poder de ataque de Skill em {EffectParam1}
+252401,Aprimoramento de arco longo,Aumenta o poder de ataque básico em {EffectParam1}
+253401,Vontade de Combate: Hunter,"Aumenta o dano contra monstros em {EffectParam1}%
+ Aumenta o poder de ataque básico em {EffectParam2}"
+253411,Gale Seta,"Aumenta o Dano de Acerto Crítico em {EffectParam1}%
+ Aumenta a Resistência a Acerto Crítico em {EffectParam2}"
+254401,Aura de Hunter,"Aumenta a chance de acerto crítico em {EffectParam1}% 
+ Aumenta o poder de ataque de Skill em {EffectParam2}"
+254411,Presa da Besta,Aumenta o dano contra alvos com velocidade de movimento reduzida em {EffectParam1}%
+254412,Intuição Bestial,"Após ataque de acompanhamento bem-sucedido, aumenta
+ Dano de habilidade em {EffectParam1}% e velocidade de movimento em {EffectParam2}% para {EffectParam3} sec
+ (recarga: {EffectParam4} seg)"
+254431,Instinto Manchado de Sangue,Aumenta o dano contra alvos sangrando em {EffectParam1}%
+254432,Despertar de Sangue,"Em ataques adicionais bem-sucedidos, para {EffectParam1}s, 
+Aumenta o dano de ataque básico em {EffectParam2}%
+(CD: {EffectParam3}s)"
+255401,Postura Perfeita,Aumenta o dano em {EffectParam1}%
+255402,Respiração Silenciadora,"Além disso, se estiver parado por 5 segundos, 
+ aumenta o dano de ataque básico em {EffectParam1}%"
+251701,Instinto de Combate: Hunter,Aumenta a defesa de ignorar em {EffectParam1}
+252701,Arrow’s Will,"Aumenta Max HP em {EffectParam1}
+ Aumenta a regeneração de HP em {EffectParam2}"
+253701,Destreza de Caça,"Aumenta a precisão em {EffectParam1}
+ Aumenta a chance de acerto do Crowd Control em {EffectParam2}%"
+253711,Instinto de Besta,"Após o acerto do Ataque Básico, {EffectParam2}% de chance de reduzir a Taxa de Resistência ao Controle de Multidão do alvo em {EffectParam4}% por {EffectParam1} sec
+ (Recarga: {EffectParam3} seg)"
+254701,Essência de caça,"Ao acertar o Ataque Básico, reduz a Defesa do alvo em {EffectParam1} (máximo de 5 segundos de pilha)"
+254711,Quebra de defesa,"Após skill atingido, reduz a Taxa de Resistência Crítica do alvo em {EffectParam1}% 
+ (recarga: {EffectParam2} seg)"
+254721,Caça à Fraqueza,"Aumenta a taxa de precisão em {EffectParam1}%
+Aumenta o dano a alvos controlados por multidão em {EffectParam2}%"
+255701,Ashen Arrow,Aumenta a duração do Crowd Control em {EffectParam1}%
+255702,Ferida Cinzenta,"Ao acertar skill, {EffectParam1}% de chance de prevenir o alvo de usar consumíveis para {EffectParam3} sec
+ (Recarga: {EffectParam2} sec)"
+255721,Venom Tracker,"Reduz o dano crítico recebido por {EffectParam1}%
+Aumenta Chance de resistência à aflição {EffectParam2}%"
+255722,Venomous Insight,"Ao acertar Skill, tem {EffectParam2}% de chance de aumentar o dano causado a alvos protegidos em {EffectParam1}% para {EffectParam3}s"
+10010011,Aumento de Poder de Ataque,"Ao usar Bound Skill, causa dano com Poder de Ataque aumentado em {EffectParam1}"
+10010021,Aumento de Poder de Ataque,"Ao usar Bound Skill, causa dano com Poder de Ataque aumentado em {EffectParam1}"
+10010031,Aumento de Poder de Ataque,"Ao usar Bound Skill, causa dano com Poder de Ataque aumentado em {EffectParam1}"
+10010041,Aumento de Poder de Ataque,"Ao usar Bound Skill, causa dano com Poder de Ataque aumentado em {EffectParam1}"
+10010051,Aumento de Poder de Ataque,"Ao usar Bound Skill, causa dano com Poder de Ataque aumentado em {EffectParam1}"
+10010111,Aumento de precisão,"Ao usar o Bound Skill, causa dano com Precisão aumentada em {EffectParam1}"
+10010121,Aumento de precisão,"Ao usar o Bound Skill, causa dano com Precisão aumentada em {EffectParam1}"
+10010131,Aumento de precisão,"Ao usar o Bound Skill, causa dano com Precisão aumentada em {EffectParam1}"
+10010141,Aumento de precisão,"Ao usar o Bound Skill, causa dano com Precisão aumentada em {EffectParam1}"
+10010151,Aumento de precisão,"Ao usar o Bound Skill, causa dano com Precisão aumentada em {EffectParam1}"
+10010211,Aumento de acerto crítico,"Ao usar Bound Skill, causa dano com Acerto Crítico aumentado em {EffectParam1}"
+10010221,Aumento de acerto crítico,"Ao usar Bound Skill, causa dano com Acerto Crítico aumentado em {EffectParam1}"
+10010231,Aumento de acerto crítico,"Ao usar Bound Skill, causa dano com Acerto Crítico aumentado em {EffectParam1}"
+10010241,Aumento de acerto crítico,"Ao usar Bound Skill, causa dano com Acerto Crítico aumentado em {EffectParam1}"
+10010251,Aumento de acerto crítico,"Ao usar Bound Skill, causa dano com Acerto Crítico aumentado em {EffectParam1}"
+10010341,Aumenta o dano de Skill,Aumenta o dano de skill em {EffectParam1}%
+10010351,Aumenta o dano de Skill,Aumenta o dano de skill em {EffectParam1}%
+10010441,Aumento de dano a alvos controlados por multidão,Aumenta o dano limitado de Skill contra alvos afetados pelo Crowd Control em {EffectParam1}%
+10010451,Aumento de dano a alvos controlados por multidão,Aumenta o dano limitado de Skill contra alvos afetados pelo Crowd Control em {EffectParam1}%
+10010541,Aumento de dano a alvos afetados,Aumenta o dano limitado de Skill contra alvos afetados por Aflição em {EffectParam1}%
+10010551,Aumento de dano a alvos afetados,Aumenta o dano limitado de Skill contra alvos afetados por Aflição em {EffectParam1}%
+10010641,Aumento da taxa de precisão,Aumenta a taxa de precisão do limite Skill em {EffectParam1}%
+10010651,Aumento da taxa de precisão,Aumenta a taxa de precisão do limite Skill em {EffectParam1}%
+10010741,Aumento da chance de acerto crítico,Aumenta a chance de acerto crítico de limite Skill em {EffectParam1}%
+10010751,Aumento da chance de acerto crítico,Aumenta a chance de acerto crítico de limite Skill em {EffectParam1}%
+10010841,Aumento de dano crítico,Aumenta o dano de acerto crítico do Bound Skill em {EffectParam1}%
+10010851,Aumento de dano crítico,Aumenta o dano de acerto crítico do Bound Skill em {EffectParam1}%
+10010911,Aumento da quantidade de cura,Aumenta a quantidade de cura do limite Skill em {EffectParam1}%
+10010921,Aumento da quantidade de cura,Aumenta a quantidade de cura do limite Skill em {EffectParam1}%
+10010931,Aumento da quantidade de cura,Aumenta a quantidade de cura do limite Skill em {EffectParam1}%
+10010941,Aumento da quantidade de cura,Aumenta a quantidade de cura do limite Skill em {EffectParam1}%
+10010951,Aumento da quantidade de cura,Aumenta a quantidade de cura do limite Skill em {EffectParam1}%
+10011011,Aumento da Quantidade do Escudo,Aumenta a quantidade de escudo do limite Skill em {EffectParam1}%
+10011021,Aumento da Quantidade do Escudo,Aumenta a quantidade de escudo do limite Skill em {EffectParam1}%
+10011031,Aumento da Quantidade do Escudo,Aumenta a quantidade de escudo do limite Skill em {EffectParam1}%
+10011041,Aumento da Quantidade do Escudo,Aumenta a quantidade de escudo do limite Skill em {EffectParam1}%
+10011051,Aumento da Quantidade do Escudo,Aumenta a quantidade de escudo do limite Skill em {EffectParam1}%
+10011111,Redução do Cooldown,Aumenta o limite Skill Cooldown em {EffectParam1}%
+10011121,Redução do Cooldown,Aumenta o limite Skill Cooldown em {EffectParam1}%
+10011131,Redução do Cooldown,Aumenta o limite Skill Cooldown em {EffectParam1}%
+10011141,Redução do Cooldown,Aumenta o limite Skill Cooldown em {EffectParam1}%
+10011151,Redução do Cooldown,Aumenta o limite Skill Cooldown em {EffectParam1}%
+10011211,Aumento da velocidade de lançamento,Aumenta a velocidade de lançamento do limite Skill em {EffectParam1}%
+10011221,Aumento da velocidade de lançamento,Aumenta a velocidade de lançamento do limite Skill em {EffectParam1}%
+10011231,Aumento da velocidade de lançamento,Aumenta a velocidade de lançamento do limite Skill em {EffectParam1}%
+10011241,Aumento da velocidade de lançamento,Aumenta a velocidade de lançamento do limite Skill em {EffectParam1}%
+10011311,Aumento da resistência ao controle de multidão,Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}% ao lançar Bound Skill
+10011321,Aumento da resistência ao controle de multidão,Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}% ao lançar Bound Skill
+10011331,Aumento da resistência ao controle de multidão,Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}% ao lançar Bound Skill
+10011341,Aumento da resistência ao controle de multidão,Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}% ao lançar Bound Skill
+10011431,Aumento da Duração do Atordoamento,Aumenta a duração do atordoamento do limite Skill em {EffectParam1}%
+10011441,Aumento da Duração do Atordoamento,Aumenta a duração do atordoamento do limite Skill em {EffectParam1}%
+10011451,Aumento da Duração do Atordoamento,Aumenta a duração do atordoamento do limite Skill em {EffectParam1}%
+10011531,Aumenta a duração do nocaute e do efeito de voo,Aumenta a duração de Knockdown e Airborne do Bound Skill em {EffectParam1}%
+10011541,Aumenta a duração do nocaute e do efeito de voo,Aumenta a duração de Knockdown e Airborne do Bound Skill em {EffectParam1}%
+10011551,Aumenta a duração do nocaute e do efeito de voo,Aumenta a duração de Knockdown e Airborne do Bound Skill em {EffectParam1}%
+10011631,Aumento de duração de lentidão,Aumenta a duração da redução da velocidade de movimento desde o limite Skill em {EffectParam1}%
+10011641,Aumento de duração de lentidão,Aumenta a duração da redução da velocidade de movimento desde o limite Skill em {EffectParam1}%
+10011651,Aumento de duração de lentidão,Aumenta a duração da redução da velocidade de movimento desde o limite Skill em {EffectParam1}%
+10011731,Aumento da Chance de Atordoamento,Aumenta a chance de acerto de atordoamento do limite Skill em {EffectParam1}%
+10011741,Aumento da Chance de Atordoamento,Aumenta a chance de acerto de atordoamento do limite Skill em {EffectParam1}%
+10011751,Aumento da Chance de Atordoamento,Aumenta a chance de acerto de atordoamento do limite Skill em {EffectParam1}%
+10011831,Aumenta a chance de nocaute e de voo,Aumenta a Chance de Knockdown e Airborne Hit do Bound Skill em {EffectParam1}%
+10011841,Aumenta a chance de nocaute e de voo,Aumenta a Chance de Knockdown e Airborne Hit do Bound Skill em {EffectParam1}%
+10011851,Aumenta a chance de nocaute e de voo,Aumenta a Chance de Knockdown e Airborne Hit do Bound Skill em {EffectParam1}%
+10011931,Aumento de chance de lentidão,Aumenta a chance de acerto de redução de velocidade de movimento de limite Skill em {EffectParam1}%
+10011941,Aumento de chance de lentidão,Aumenta a chance de acerto de redução de velocidade de movimento de limite Skill em {EffectParam1}%
+10011951,Aumento de chance de lentidão,Aumenta a chance de acerto de redução de velocidade de movimento de limite Skill em {EffectParam1}%
+10012031,Aumento da duração da aflição,Aumenta a duração da aflição do limite Skill em {EffectParam1}%
+10012041,Aumento da duração da aflição,Aumenta a duração da aflição do limite Skill em {EffectParam1}%
+10012051,Aumento da duração da aflição,Aumenta a duração da aflição do limite Skill em {EffectParam1}%
+10012131,Aumento da chance de aflição,aumenta a chance de acerto do limite Skill em {EffectParam1}%
+10012141,Aumento da chance de aflição,aumenta a chance de acerto do limite Skill em {EffectParam1}%
+10012151,Aumento da chance de aflição,aumenta a chance de acerto do limite Skill em {EffectParam1}%
+10012211,Redução de custos de MP,Diminui Limite Skill Consumo de MP por {EffectParam1}%
+10012221,Redução de custos de MP,Diminui Limite Skill Consumo de MP por {EffectParam1}%
+10012231,Redução de custos de MP,Diminui Limite Skill Consumo de MP por {EffectParam1}%
+10012241,Redução de custos de MP,Diminui Limite Skill Consumo de MP por {EffectParam1}%
+10012311,Aumento da duração do buff,Aumenta a duração do Buff vinculado Skill em {EffectParam1}%
+10012321,Aumento da duração do buff,Aumenta a duração do Buff vinculado Skill em {EffectParam1}%
+10012331,Aumento da duração do buff,Aumenta a duração do Buff vinculado Skill em {EffectParam1}%
+10012341,Aumento da duração do buff,Aumenta a duração do Buff vinculado Skill em {EffectParam1}%
+10012411,Recuperação de HP,"Após o uso de Skill vinculado, tem uma chance de {EffectParam1}% de restaurar {EffectParam2} HP"
+10012421,Recuperação de HP,"Após o uso de Skill vinculado, tem uma chance de {EffectParam1}% de restaurar {EffectParam2} HP"
+10012431,Recuperação de HP,"Após o uso de Skill vinculado, tem uma chance de {EffectParam1}% de restaurar {EffectParam2} HP"
+10012441,Recuperação de HP,"Após o uso de Skill vinculado, tem uma chance de {EffectParam1}% de restaurar {EffectParam2} HP"
+10012541,Reset do Cooldown,"Ao usar Skill vinculado, tem uma chance de {EffectParam1}% de redefinir o resfriamento de Skill"
+10012551,Reset do Cooldown,"Ao usar Skill vinculado, tem uma chance de {EffectParam1}% de redefinir o resfriamento de Skill"
+10012651,Aumentar,Bound Skill causa dano com Penetração aumentada em {EffectParam1}.
+10012711,Aumento de Dano de Monstro,Aumenta o dano do Bound Skill contra monstros em {EffectParam1}%
+10012721,Aumento de Dano de Monstro,Aumenta o dano do Bound Skill contra monstros em {EffectParam1}%
+10012731,Aumento de Dano de Monstro,Aumenta o dano do Bound Skill contra monstros em {EffectParam1}%
+10012751,Aumento de Dano de Monstro,Aumenta o dano do Bound Skill contra monstros em {EffectParam1}%
+10012811,Aumento de Dano ao Jogador,Aumenta o dano do Bound Skill contra jogadores em {EffectParam1}%
+10012821,Aumento de Dano ao Jogador,Aumenta o dano do Bound Skill contra jogadores em {EffectParam1}%
+10012831,Aumento de Dano ao Jogador,Aumenta o dano do Bound Skill contra jogadores em {EffectParam1}%
+10012851,Aumento de Dano ao Jogador,Aumenta o dano do Bound Skill contra jogadores em {EffectParam1}%
+10012911,Aumento da Precisão do Monstro,Aumenta a taxa de precisão do limite Skill contra monstros em {EffectParam1}%
+10012921,Aumento da Precisão do Monstro,Aumenta a taxa de precisão do limite Skill contra monstros em {EffectParam1}%
+10012931,Aumento da Precisão do Monstro,Aumenta a taxa de precisão do limite Skill contra monstros em {EffectParam1}%
+10012951,Aumento da Precisão do Monstro,Aumenta a taxa de precisão do limite Skill contra monstros em {EffectParam1}%
+10013011,Aumento da precisão do jogador,Aumenta a taxa de precisão do limite Skill contra jogadores em {EffectParam1}%
+10013021,Aumento da precisão do jogador,Aumenta a taxa de precisão do limite Skill contra jogadores em {EffectParam1}%
+10013031,Aumento da precisão do jogador,Aumenta a taxa de precisão do limite Skill contra jogadores em {EffectParam1}%
+10013051,Aumento da precisão do jogador,Aumenta a taxa de precisão do limite Skill contra jogadores em {EffectParam1}%
+10013111,Aumento de Chance de Acerto Crítico de Monstro,Aumenta a chance de acerto crítico de limite Skill contra monstros em {EffectParam1}%
+10013121,Aumento de Chance de Acerto Crítico de Monstro,Aumenta a chance de acerto crítico de limite Skill contra monstros em {EffectParam1}%
+10013131,Aumento de Chance de Acerto Crítico de Monstro,Aumenta a chance de acerto crítico de limite Skill contra monstros em {EffectParam1}%
+10013151,Aumento de Chance de Acerto Crítico de Monstro,Aumenta a chance de acerto crítico de limite Skill contra monstros em {EffectParam1}%
+10013211,Aumento da chance de acerto crítico do jogador,Aumenta a chance de acerto crítico de limite Skill contra jogadores em {EffectParam1}%
+10013221,Aumento da chance de acerto crítico do jogador,Aumenta a chance de acerto crítico de limite Skill contra jogadores em {EffectParam1}%
+10013231,Aumento da chance de acerto crítico do jogador,Aumenta a chance de acerto crítico de limite Skill contra jogadores em {EffectParam1}%
+10013251,Aumento da chance de acerto crítico do jogador,Aumenta a chance de acerto crítico de limite Skill contra jogadores em {EffectParam1}%
+10013311,Aumento do Dano Crítico do Monstro,Aumenta o dano de acerto crítico do Bound Skill contra monstros em {EffectParam1}%
+10013321,Aumento do Dano Crítico do Monstro,Aumenta o dano de acerto crítico do Bound Skill contra monstros em {EffectParam1}%
+10013331,Aumento do Dano Crítico do Monstro,Aumenta o dano de acerto crítico do Bound Skill contra monstros em {EffectParam1}%
+10013351,Aumento do Dano Crítico do Monstro,Aumenta o dano de acerto crítico do Bound Skill contra monstros em {EffectParam1}%
+10013411,Aumento do dano crítico do jogador,Aumenta o dano de acerto crítico do Bound Skill contra jogadores em {EffectParam1}%
+10013421,Aumento do dano crítico do jogador,Aumenta o dano de acerto crítico do Bound Skill contra jogadores em {EffectParam1}%
+10013431,Aumento do dano crítico do jogador,Aumenta o dano de acerto crítico do Bound Skill contra jogadores em {EffectParam1}%
+10013451,Aumento do dano crítico do jogador,Aumenta o dano de acerto crítico do Bound Skill contra jogadores em {EffectParam1}%
+10013511,Aumento de chance de maximização,Aumenta a chance de maximização de Limita Skill em {EffectParam1}%
+10013521,Aumento de chance de maximização,Aumenta a chance de maximização de Limita Skill em {EffectParam1}%
+10013531,Aumento de chance de maximização,Aumenta a chance de maximização de Limita Skill em {EffectParam1}%
+10013541,Aumento de chance de maximização,Aumenta a chance de maximização de Limita Skill em {EffectParam1}%
+10013551,Aumento de chance de maximização,Aumenta a chance de maximização de Limita Skill em {EffectParam1}%
+10013611,Recuperação de MP de,"Após o uso de Skill vinculado, tem uma chance de {EffectParam2}% de restaurar {EffectParam1} MP"
+10013621,Recuperação de MP de,"Após o uso de Skill vinculado, tem uma chance de {EffectParam2}% de restaurar {EffectParam1} MP"
+10013631,Recuperação de MP de,"Após o uso de Skill vinculado, tem uma chance de {EffectParam2}% de restaurar {EffectParam1} MP"
+10013641,Recuperação de MP de,"Após o uso de Skill vinculado, tem uma chance de {EffectParam2}% de restaurar {EffectParam1} MP"
+10013711,Geração do Escudo,"Ao usar o Bound Skill, tem uma chance de {EffectParam2}% de criar um Escudo {EffectParam1} por {EffectParam3} segundos (o efeito não se acumula)"
+10013721,Geração do Escudo,"Ao usar o Bound Skill, tem uma chance de {EffectParam2}% de criar um Escudo {EffectParam1} por {EffectParam3} segundos (o efeito não se acumula)"
+10013731,Geração do Escudo,"Ao usar o Bound Skill, tem uma chance de {EffectParam2}% de criar um Escudo {EffectParam1} por {EffectParam3} segundos (o efeito não se acumula)"
+10013741,Geração do Escudo,"Ao usar o Bound Skill, tem uma chance de {EffectParam2}% de criar um Escudo {EffectParam1} por {EffectParam3} segundos (o efeito não se acumula)"
+10013811,Aumento de velocidade de movimento,"Após o uso de Bound Skill, aumenta a velocidade de movimento em {EffectParam1}% por {EffectParam2} segundos (o efeito não se acumula)"
+10013821,Aumento de velocidade de movimento,"Após o uso de Bound Skill, aumenta a velocidade de movimento em {EffectParam1}% por {EffectParam2} segundos (o efeito não se acumula)"
+10013831,Aumento de velocidade de movimento,"Após o uso de Bound Skill, aumenta a velocidade de movimento em {EffectParam1}% por {EffectParam2} segundos (o efeito não se acumula)"
+10013841,Aumento de velocidade de movimento,"Após o uso de Bound Skill, aumenta a velocidade de movimento em {EffectParam1}% por {EffectParam2} segundos (o efeito não se acumula)"
+10013941,Reduz o dano recebido,"Após o uso de Skill vinculado, reduz o dano recebido em {EffectParam1}% por {EffectParam2} segundos (o efeito não se acumula)"
+10013951,Reduz o dano recebido,"Após o uso de Skill vinculado, reduz o dano recebido em {EffectParam1}% por {EffectParam2} segundos (o efeito não se acumula)"
+10014041,aumenta a chance de evasão,"Após o uso do limite Skill, aumenta a taxa de evasão em {EffectParam1}% por {EffectParam2} segundos (o efeito não se acumula)"
+10014051,aumenta a chance de evasão,"Após o uso do limite Skill, aumenta a taxa de evasão em {EffectParam1}% por {EffectParam2} segundos (o efeito não se acumula)"
+10014141,Aumento da resistência ao controle de multidão,"Após o uso de Skill vinculado, aumenta a taxa de resistência ao controle de multidão em {EffectParam1}% por {EffectParam2} segundos (o efeito não se acumula)"
+10014151,Aumento da resistência ao controle de multidão,"Após o uso de Skill vinculado, aumenta a taxa de resistência ao controle de multidão em {EffectParam1}% por {EffectParam2} segundos (o efeito não se acumula)"
+10014241,Aumento de dano a monstros chefes,Aumenta o dano vinculado de Skill contra monstros chefes em {EffectParam1}%
+10014251,Aumento de dano a monstros chefes,Aumenta o dano vinculado de Skill contra monstros chefes em {EffectParam1}%
+10014341,Aumento de dano a alvos protegidos,Aumenta Skill vinculado Dano contra alvos protegidos em {EffectParam1}%
+10014351,Aumento de dano a alvos protegidos,Aumenta Skill vinculado Dano contra alvos protegidos em {EffectParam1}%
+10014441,Aumento de Precisão do Monstro Chefe,Aumenta Linked Skill Taxa de precisão contra monstros chefes em {EffectParam1}%
+10014451,Aumento de Precisão do Monstro Chefe,Aumenta Linked Skill Taxa de precisão contra monstros chefes em {EffectParam1}%
+10014541,Aumento da chance de acerto crítico do monstro chefe,aumenta vinculado Skill Chance de acerto crítico contra monstros chefes em {EffectParam1}%
+10014551,Aumento da chance de acerto crítico do monstro chefe,aumenta vinculado Skill Chance de acerto crítico contra monstros chefes em {EffectParam1}%
+10014641,Aumento de Dano Crítico do Monstro Chefe,aumenta o dano crítico vinculado contra monstros chefes em Skill%
+10014651,Aumento de Dano Crítico do Monstro Chefe,aumenta o dano crítico vinculado contra monstros chefes em Skill%
+10014741,Aumenta a taxa de resistência a acerto crítico contra jogadores,"No lançamento de Skill vinculado, aumenta a taxa de resistência ao acerto crítico em {EffectParam1}% para {EffectParam2}s (o efeito não se acumula)"
+10014751,Aumenta a taxa de resistência a acerto crítico contra jogadores,"No lançamento de Skill vinculado, aumenta a taxa de resistência ao acerto crítico em {EffectParam1}% para {EffectParam2}s (o efeito não se acumula)"
+10014841,Aumento de Poder de Ataque,"No lançamento de Skill vinculado, aumenta o poder de ataque em {EffectParam1} para {EffectParam2}s (o efeito não se acumula)"
+10014851,Aumento de Poder de Ataque,"No lançamento de Skill vinculado, aumenta o poder de ataque em {EffectParam1} para {EffectParam2}s (o efeito não se acumula)"
+10014941,Aumenta a defesa,"No lançamento de Skill vinculado, aumenta a defesa em {EffectParam1} para {EffectParam2}s (efeito não acumula)"
+10014951,Aumenta a defesa,"No lançamento de Skill vinculado, aumenta a defesa em {EffectParam1} para {EffectParam2}s (efeito não acumula)"
+10015041,Aumentar Skill Velocidade de lançamento,"No lançamento vinculado de Skill, aumenta a velocidade de lançamento de Skill em {EffectParam1}% para {EffectParam2}s (efeito não acumula)"
+10015051,Aumentar Skill Velocidade de lançamento,"No lançamento vinculado de Skill, aumenta a velocidade de lançamento de Skill em {EffectParam1}% para {EffectParam2}s (efeito não acumula)"
+10020011,Aumentar [Ataque Básico] Poder,O Ataque Básico causa dano com Poder de Ataque aumentado em {EffectParam1}
+10020021,Aumentar [Ataque Básico] Poder,O Ataque Básico causa dano com Poder de Ataque aumentado em {EffectParam1}
+10020031,Aumentar [Ataque Básico] Poder,O Ataque Básico causa dano com Poder de Ataque aumentado em {EffectParam1}
+10020041,Aumentar [Ataque Básico] Poder,O Ataque Básico causa dano com Poder de Ataque aumentado em {EffectParam1}
+10020051,Aumentar [Ataque Básico] Poder,O Ataque Básico causa dano com Poder de Ataque aumentado em {EffectParam1}
+10020111,Aumentar [Ataque Básico] Precisão,O Ataque Básico causa dano com Precisão aumentada em {EffectParam1}
+10020121,Aumentar [Ataque Básico] Precisão,O Ataque Básico causa dano com Precisão aumentada em {EffectParam1}
+10020131,Aumentar [Ataque Básico] Precisão,O Ataque Básico causa dano com Precisão aumentada em {EffectParam1}
+10020141,Aumentar [Ataque Básico] Precisão,O Ataque Básico causa dano com Precisão aumentada em {EffectParam1}
+10020151,Aumentar [Ataque Básico] Precisão,O Ataque Básico causa dano com Precisão aumentada em {EffectParam1}
+10020211,Aumentar [Ataque Básico] Acerto Crítico,O Ataque Básico causa dano com Crítico aumentado em {EffectParam1}
+10020221,Aumentar [Ataque Básico] Acerto Crítico,O Ataque Básico causa dano com Crítico aumentado em {EffectParam1}
+10020231,Aumentar [Ataque Básico] Acerto Crítico,O Ataque Básico causa dano com Crítico aumentado em {EffectParam1}
+10020241,Aumentar [Ataque Básico] Acerto Crítico,O Ataque Básico causa dano com Crítico aumentado em {EffectParam1}
+10020251,Aumentar [Ataque Básico] Acerto Crítico,O Ataque Básico causa dano com Crítico aumentado em {EffectParam1}
+10020341,Aumentar [Ataque Básico] Dano,Aumenta o dano de ataque básico em {EffectParam1}%
+10020351,Aumentar [Ataque Básico] Dano,Aumenta o dano de ataque básico em {EffectParam1}%
+10020441,Aumentar [Ataque Básico] Taxa de Precisão,Aumenta a taxa de precisão de ataque básico em {EffectParam1}%
+10020451,Aumentar [Ataque Básico] Taxa de Precisão,Aumenta a taxa de precisão de ataque básico em {EffectParam1}%
+10020541,Aumentar [Ataque Básico] Chance de Acerto Crítico,Aumenta a chance de acerto crítico de ataque básico em {EffectParam1}%
+10020551,Aumentar [Ataque Básico] Chance de Acerto Crítico,Aumenta a chance de acerto crítico de ataque básico em {EffectParam1}%
+10020641,Aumentar [Ataque Básico] Dano de Acerto Crítico,Aumenta o Ataque Básico Dano de acerto crítico em {EffectParam1}%
+10020651,Aumentar [Ataque Básico] Dano de Acerto Crítico,Aumenta o Ataque Básico Dano de acerto crítico em {EffectParam1}%
+10020741,Aumentar [Ataque Básico] Velocidade,Aumenta o poder de ataque básico em {EffectParam1} Velocidade de Ataque em {EffectParam1}%
+10020751,Aumentar [Ataque Básico] Velocidade,Aumenta o poder de ataque básico em {EffectParam1} Velocidade de Ataque em {EffectParam1}%
+10020811,Reduza o poder do [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam1}% de chance de reduzir o poder de ataque do alvo em {EffectParam3} por {EffectParam2} sec
+ (tempo de espera: {EffectParam4} seg)"
+10020821,Reduza o poder do [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam1}% de chance de reduzir o poder de ataque do alvo em {EffectParam3} por {EffectParam2} sec
+ (tempo de espera: {EffectParam4} seg)"
+10020831,Reduza o poder do [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam1}% de chance de reduzir o poder de ataque do alvo em {EffectParam3} por {EffectParam2} sec
+ (tempo de espera: {EffectParam4} seg)"
+10020841,Reduza o poder do [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam1}% de chance de reduzir o poder de ataque do alvo em {EffectParam3} por {EffectParam2} sec
+ (tempo de espera: {EffectParam4} seg)"
+10020851,Reduza o poder do [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam1}% de chance de reduzir o poder de ataque do alvo em {EffectParam3} por {EffectParam2} sec
+ (tempo de espera: {EffectParam4} seg)"
+10020911,Reduza a Defesa do [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam1}% de chance de reduzir a Defesa do alvo em {EffectParam3} para {EffectParam2} sec
+ (cooldown: {EffectParam4} seg)"
+10020921,Reduza a Defesa do [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam1}% de chance de reduzir a Defesa do alvo em {EffectParam3} para {EffectParam2} sec
+ (cooldown: {EffectParam4} seg)"
+10020931,Reduza a Defesa do [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam1}% de chance de reduzir a Defesa do alvo em {EffectParam3} para {EffectParam2} sec
+ (cooldown: {EffectParam4} seg)"
+10020941,Reduza a Defesa do [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam1}% de chance de reduzir a Defesa do alvo em {EffectParam3} para {EffectParam2} sec
+ (cooldown: {EffectParam4} seg)"
+10020951,Reduza a Defesa do [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam1}% de chance de reduzir a Defesa do alvo em {EffectParam3} para {EffectParam2} sec
+ (cooldown: {EffectParam4} seg)"
+10021041,Adicionar Sangramento ao [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam1}% de chance de infligir Sangramento no alvo por {EffectParam2} sec
+ (cooldown: {EffectParam3} sec)"
+10021051,Adicionar Sangramento ao [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam1}% de chance de infligir Sangramento no alvo por {EffectParam2} sec
+ (cooldown: {EffectParam3} sec)"
+10021141,Adicionar Vinculação ao [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam1}% de chance de infligir Vinculação no alvo por {EffectParam2}s
+ (tempo de espera: {EffectParam3} seg)"
+10021151,Adicionar Vinculação ao [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam1}% de chance de infligir Vinculação no alvo por {EffectParam2}s
+ (tempo de espera: {EffectParam3} seg)"
+10021241,Adicionar Atordoamento ao [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam1}% de chance de infligir Atordoamento no alvo por {EffectParam2}s
+ (cooldown: {EffectParam3} seg)"
+10021251,Adicionar Atordoamento ao [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam1}% de chance de infligir Atordoamento no alvo por {EffectParam2}s
+ (cooldown: {EffectParam3} seg)"
+10021351,Aumentar [Ataque Básico] Penetração,Ataque Básico causa dano com Penetração aumentada em {EffectParam1}%
+10021411,Aumentar [Ataque Básico] Dano contra Monstros,Aumenta o dano de ataque básico contra monstros em {EffectParam1}%
+10021421,Aumentar [Ataque Básico] Dano contra Monstros,Aumenta o dano de ataque básico contra monstros em {EffectParam1}%
+10021431,Aumentar [Ataque Básico] Dano contra Monstros,Aumenta o dano de ataque básico contra monstros em {EffectParam1}%
+10021451,Aumentar [Ataque Básico] Dano contra Monstros,Aumenta o dano de ataque básico contra monstros em {EffectParam1}%
+10021511,Aumenta [Ataque Básico] Dano contra Jogadores,Aumenta o dano de ataque básico contra jogadores em {EffectParam1}%
+10021521,Aumenta [Ataque Básico] Dano contra Jogadores,Aumenta o dano de ataque básico contra jogadores em {EffectParam1}%
+10021531,Aumenta [Ataque Básico] Dano contra Jogadores,Aumenta o dano de ataque básico contra jogadores em {EffectParam1}%
+10021551,Aumenta [Ataque Básico] Dano contra Jogadores,Aumenta o dano de ataque básico contra jogadores em {EffectParam1}%
+10021641,Aumentar [Ataque Básico] Dano contra monstros chefes,Aumenta o dano de ataque básico contra monstros chefes em {EffectParam1}%
+10021651,Aumentar [Ataque Básico] Dano contra monstros chefes,Aumenta o dano de ataque básico contra monstros chefes em {EffectParam1}%
+10021711,Aumentar [Ataque Básico] Taxa de Precisão contra Monstros,Aumenta a taxa de precisão de ataque básico contra monstros em {EffectParam1}%
+10021721,Aumentar [Ataque Básico] Taxa de Precisão contra Monstros,Aumenta a taxa de precisão de ataque básico contra monstros em {EffectParam1}%
+10021731,Aumentar [Ataque Básico] Taxa de Precisão contra Monstros,Aumenta a taxa de precisão de ataque básico contra monstros em {EffectParam1}%
+10021751,Aumentar [Ataque Básico] Taxa de Precisão contra Monstros,Aumenta a taxa de precisão de ataque básico contra monstros em {EffectParam1}%
+10021811,Aumentar [Ataque Básico] Taxa de Precisão contra Jogadores,Aumenta a taxa de precisão de ataque básico contra jogadores em {EffectParam1}%
+10021821,Aumentar [Ataque Básico] Taxa de Precisão contra Jogadores,Aumenta a taxa de precisão de ataque básico contra jogadores em {EffectParam1}%
+10021831,Aumentar [Ataque Básico] Taxa de Precisão contra Jogadores,Aumenta a taxa de precisão de ataque básico contra jogadores em {EffectParam1}%
+10021851,Aumentar [Ataque Básico] Taxa de Precisão contra Jogadores,Aumenta a taxa de precisão de ataque básico contra jogadores em {EffectParam1}%
+10021911,Aumentar [Ataque Básico] Chance de Acerto Crítico contra Monstros,Aumenta a chance crítica de ataque básico contra monstros em {EffectParam1}%
+10021921,Aumentar [Ataque Básico] Chance de Acerto Crítico contra Monstros,Aumenta a chance crítica de ataque básico contra monstros em {EffectParam1}%
+10021931,Aumentar [Ataque Básico] Chance de Acerto Crítico contra Monstros,Aumenta a chance crítica de ataque básico contra monstros em {EffectParam1}%
+10021951,Aumentar [Ataque Básico] Chance de Acerto Crítico contra Monstros,Aumenta a chance crítica de ataque básico contra monstros em {EffectParam1}%
+10022011,Aumentar [Ataque Básico] Chance de Acerto Crítico contra Jogadores,Aumenta a chance de acerto crítico de ataque básico contra jogadores em {EffectParam1}%
+10022021,Aumentar [Ataque Básico] Chance de Acerto Crítico contra Jogadores,Aumenta a chance de acerto crítico de ataque básico contra jogadores em {EffectParam1}%
+10022031,Aumentar [Ataque Básico] Chance de Acerto Crítico contra Jogadores,Aumenta a chance de acerto crítico de ataque básico contra jogadores em {EffectParam1}%
+10022051,Aumentar [Ataque Básico] Chance de Acerto Crítico contra Jogadores,Aumenta a chance de acerto crítico de ataque básico contra jogadores em {EffectParam1}%
+10022111,Aumentar [Ataque Básico] Dano de Acerto Crítico contra Monstros,Aumenta o Dano de Acerto Crítico do Ataque Básico contra monstros em {EffectParam1}%
+10022121,Aumentar [Ataque Básico] Dano de Acerto Crítico contra Monstros,Aumenta o Dano de Acerto Crítico do Ataque Básico contra monstros em {EffectParam1}%
+10022131,Aumentar [Ataque Básico] Dano de Acerto Crítico contra Monstros,Aumenta o Dano de Acerto Crítico do Ataque Básico contra monstros em {EffectParam1}%
+10022151,Aumentar [Ataque Básico] Dano de Acerto Crítico contra Monstros,Aumenta o Dano de Acerto Crítico do Ataque Básico contra monstros em {EffectParam1}%
+10022211,Aumentar [Ataque Básico] Dano de Acerto Crítico contra Jogadores,Aumenta o Dano de Acerto Crítico do Ataque Básico contra jogadores em {EffectParam1}%
+10022221,Aumentar [Ataque Básico] Dano de Acerto Crítico contra Jogadores,Aumenta o Dano de Acerto Crítico do Ataque Básico contra jogadores em {EffectParam1}%
+10022231,Aumentar [Ataque Básico] Dano de Acerto Crítico contra Jogadores,Aumenta o Dano de Acerto Crítico do Ataque Básico contra jogadores em {EffectParam1}%
+10022251,Aumentar [Ataque Básico] Dano de Acerto Crítico contra Jogadores,Aumenta o Dano de Acerto Crítico do Ataque Básico contra jogadores em {EffectParam1}%
+10022311,Aumentar [Ataque Básico] Chance de Maximização,Aumenta a chance de maximização de ataque básico em {EffectParam1}%
+10022321,Aumentar [Ataque Básico] Chance de Maximização,Aumenta a chance de maximização de ataque básico em {EffectParam1}%
+10022331,Aumentar [Ataque Básico] Chance de Maximização,Aumenta a chance de maximização de ataque básico em {EffectParam1}%
+10022341,Aumentar [Ataque Básico] Chance de Maximização,Aumenta a chance de maximização de ataque básico em {EffectParam1}%
+10022351,Aumentar [Ataque Básico] Chance de Maximização,Aumenta a chance de maximização de ataque básico em {EffectParam1}%
+10022441,Adicionar Redução de Velocidade de Movimento ao [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam2}% de chance de infligir Redução de Velocidade de Movimento no alvo por {EffectParam3}s Lentos {EffectParam1}% (tempo de espera: {EffectParam4} seg)"
+10022451,Adicionar Redução de Velocidade de Movimento ao [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam2}% de chance de infligir Redução de Velocidade de Movimento no alvo por {EffectParam3}s Lentos {EffectParam1}% (tempo de espera: {EffectParam4} seg)"
+10022541,Adicionar Queimadura ao [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam2}% de chance de infligir Queimadura no alvo por {EffectParam1} seg (tempo de espera: {EffectParam3} seg)"
+10022551,Adicionar Queimadura ao [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam2}% de chance de infligir Queimadura no alvo por {EffectParam1} seg (tempo de espera: {EffectParam3} seg)"
+10022641,Adicionar Congelamento ao [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam2}% de chance de infligir Congelamento no alvo por {EffectParam1} seg (tempo de espera: {EffectParam3} seg)"
+10022651,Adicionar Congelamento ao [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam2}% de chance de infligir Congelamento no alvo por {EffectParam1} seg (tempo de espera: {EffectParam3} seg)"
+10022741,Adicionar Veneno ao [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam2}% de chance de Infligir Veneno no alvo por {EffectParam1} seg (tempo de recarga: {EffectParam3} seg)"
+10022751,Adicionar Veneno ao [Ataque Básico],"Ao acertar o Ataque Básico, tem {EffectParam2}% de chance de Infligir Veneno no alvo por {EffectParam1} seg (tempo de recarga: {EffectParam3} seg)"
+10022841,Aumenta o [Ataque Básico] Dano contra alvos Controlados por Multidão,Aumenta o dano de ataques básicos contra alvos controlados por multidão em {EffectParam1}%
+10022851,Aumenta o [Ataque Básico] Dano contra alvos Controlados por Multidão,Aumenta o dano de ataques básicos contra alvos controlados por multidão em {EffectParam1}%
+10022941,Aumenta o [Ataque Básico] Dano contra alvos Afligidos,Aumenta o dano de ataques básicos contra alvos afetados em {EffectParam1}%
+10022951,Aumenta o [Ataque Básico] Dano contra alvos Afligidos,Aumenta o dano de ataques básicos contra alvos afetados em {EffectParam1}%
+10023041,Aumenta o dano do [Ataque Básico] contra alvos protegidos,Aumenta o dano de ataque básico contra alvos protegidos em {EffectParam1}%
+10023051,Aumenta o dano do [Ataque Básico] contra alvos protegidos,Aumenta o dano de ataque básico contra alvos protegidos em {EffectParam1}%
+10023141,Aumenta a Taxa de Precisão do [Ataque Básico] contra Monstros Chefes,Aumenta a taxa de precisão de ataque básico contra monstros chefes em {EffectParam1}%
+10023151,Aumenta a Taxa de Precisão do [Ataque Básico] contra Monstros Chefes,Aumenta a taxa de precisão de ataque básico contra monstros chefes em {EffectParam1}%
+10023241,Aumenta o [Ataque Básico] Chance de Acerto Crítico contra Monstros Chefes,Aumenta o ataque básico Chance de acerto crítico de ataque contra monstros chefes em {EffectParam1}%
+10023251,Aumenta o [Ataque Básico] Chance de Acerto Crítico contra Monstros Chefes,Aumenta o ataque básico Chance de acerto crítico de ataque contra monstros chefes em {EffectParam1}%
+10023341,Aumenta o [Ataque Básico] Dano de Acerto Crítico contra Monstros Chefes,Aumenta a chance de acerto crítico de ataque básico Dano contra Monstros Chefes em {EffectParam1}%
+10023351,Aumenta o [Ataque Básico] Dano de Acerto Crítico contra Monstros Chefes,Aumenta a chance de acerto crítico de ataque básico Dano contra Monstros Chefes em {EffectParam1}%
+10023441,Aumenta a velocidade de movimento em [ataques básicos],"No ataque básico, tem uma chance de {EffectParam2}% de aumentar a velocidade de movimento em {EffectParam1}% para {EffectParam3}s (recarga: {EffectParam4}s)"
+10023451,Aumenta a velocidade de movimento em [ataques básicos],"No ataque básico, tem uma chance de {EffectParam2}% de aumentar a velocidade de movimento em {EffectParam1}% para {EffectParam3}s (recarga: {EffectParam4}s)"
+10023541,Restaura MP em [Ataques Básicos],Derrotar um jogador com um Ataque Básico restaura {EffectParam1}% MP (tempo de espera: {EffectParam2}s)
+10023551,Restaura MP em [Ataques Básicos],Derrotar um jogador com um Ataque Básico restaura {EffectParam1}% MP (tempo de espera: {EffectParam2}s)
+10030011,Reduzir o tempo de espera de [Dash],Reduz o Tempo de Recarga do Dash em {EffectParam1}%
+10030021,Reduzir o tempo de espera de [Dash],Reduz o Tempo de Recarga do Dash em {EffectParam1}%
+10030031,Reduzir o tempo de espera de [Dash],Reduz o Tempo de Recarga do Dash em {EffectParam1}%
+10030041,Reduzir o tempo de espera de [Dash],Reduz o Tempo de Recarga do Dash em {EffectParam1}%
+10030051,Reduzir o tempo de espera de [Dash],Reduz o Tempo de Recarga do Dash em {EffectParam1}%
+10030141,Aumentar [Dash] Distância,Aumenta a distância do traço em {EffectParam1}m
+10030151,Aumentar [Dash] Distância,Aumenta a distância do traço em {EffectParam1}m
+10030251,Aumentar o máximo [Dash],Aumenta Max Dash em {EffectParam1}
+10030311,[Dash] para redefinir o resfriamento,Usar Dash tem uma chance de {EffectParam1}% de redefinir o tempo de recarga do Dash.
+10030321,[Dash] para redefinir o resfriamento,Usar Dash tem uma chance de {EffectParam1}% de redefinir o tempo de recarga do Dash.
+10030331,[Dash] para redefinir o resfriamento,Usar Dash tem uma chance de {EffectParam1}% de redefinir o tempo de recarga do Dash.
+10030341,[Dash] para redefinir o resfriamento,Usar Dash tem uma chance de {EffectParam1}% de redefinir o tempo de recarga do Dash.
+10030351,[Dash] para redefinir o resfriamento,Usar Dash tem uma chance de {EffectParam1}% de redefinir o tempo de recarga do Dash.
+10030441,[Dash] para aumentar a taxa de resistência ao controle de multidão,Usar Dash tem uma chance de {EffectParam2}% de aumentar a taxa de resistência ao Crowd Control por {EffectParam1} seg (cooldown: {EffectParam3} seg)
+10030451,[Dash] para aumentar a taxa de resistência ao controle de multidão,Usar Dash tem uma chance de {EffectParam2}% de aumentar a taxa de resistência ao Crowd Control por {EffectParam1} seg (cooldown: {EffectParam3} seg)
+10030511,[Dash] para aumentar a velocidade de movimento,Usar Dash aumenta a velocidade de movimento em {EffectParam2}% para {EffectParam1}s
+10030521,[Dash] para aumentar a velocidade de movimento,Usar Dash aumenta a velocidade de movimento em {EffectParam2}% para {EffectParam1}s
+10030531,[Dash] para aumentar a velocidade de movimento,Usar Dash aumenta a velocidade de movimento em {EffectParam2}% para {EffectParam1}s
+10030541,[Dash] para aumentar a velocidade de movimento,Usar Dash aumenta a velocidade de movimento em {EffectParam2}% para {EffectParam1}s
+10030551,[Dash] para aumentar a velocidade de movimento,Usar Dash aumenta a velocidade de movimento em {EffectParam2}% para {EffectParam1}s
+10030641,[Dash] para aumentar a taxa de evasão,Usar Dash aumenta Taxa de Evasão em {EffectParam2}% por {EffectParam1} seg (tempo de espera: {EffectParam3} seg)
+10030651,[Dash] para aumentar a taxa de evasão,Usar Dash aumenta Taxa de Evasão em {EffectParam2}% por {EffectParam1} seg (tempo de espera: {EffectParam3} seg)
+10030751,[Dash] para remover o controle de multidão,"Após Dash enquanto estiver sob Crowd Control, remove imediatamente Crowd Control
+Além disso, aumenta a taxa de resistência de Crowd Control em {EffectParam2}% para {EffectParam1}s.
+ (Recarga: 90 seg.)"
+10030841,[Dash] para ignorar a colisão,"Ao usar Dash, ignora colisão
+Reduz o cooldown do Dash em {EffectParam1}%"
+10030851,[Dash] para ignorar a colisão,"Ao usar Dash, ignora colisão
+Reduz o cooldown do Dash em {EffectParam1}%"
+10030911,[Dash] para aumentar a velocidade de lançamento,Usar Dash aumenta a velocidade de lançamento em {EffectParam1}% para {EffectParam2} sec
+10030921,[Dash] para aumentar a velocidade de lançamento,Usar Dash aumenta a velocidade de lançamento em {EffectParam1}% para {EffectParam2} sec
+10030931,[Dash] para aumentar a velocidade de lançamento,Usar Dash aumenta a velocidade de lançamento em {EffectParam1}% para {EffectParam2} sec
+10030941,[Dash] para aumentar a velocidade de lançamento,Usar Dash aumenta a velocidade de lançamento em {EffectParam1}% para {EffectParam2} sec
+10030951,[Dash] para aumentar a velocidade de lançamento,Usar Dash aumenta a velocidade de lançamento em {EffectParam1}% para {EffectParam2} sec
+10031041,[Dash] para aumentar a defesa,Usar Dash aumenta a Defesa em {EffectParam1} para {EffectParam2} seg (cooldown: {EffectParam3} seg)
+10031051,[Dash] para aumentar a defesa,Usar Dash aumenta a Defesa em {EffectParam1} para {EffectParam2} seg (cooldown: {EffectParam3} seg)
+10031111,[Dash] para aumentar a defesa contra monstros,Usar Dash aumenta a defesa contra monstros em {EffectParam1} por {EffectParam2} seg (cooldown: {EffectParam3} seg)
+10031121,[Dash] para aumentar a defesa contra monstros,Usar Dash aumenta a defesa contra monstros em {EffectParam1} por {EffectParam2} seg (cooldown: {EffectParam3} seg)
+10031131,[Dash] para aumentar a defesa contra monstros,Usar Dash aumenta a defesa contra monstros em {EffectParam1} por {EffectParam2} seg (cooldown: {EffectParam3} seg)
+10031211,[Dash] para aumentar a defesa contra jogadores,Usar Dash aumenta a defesa contra jogadores em {EffectParam1} por {EffectParam2} seg (cooldown: {EffectParam3} seg)
+10031221,[Dash] para aumentar a defesa contra jogadores,Usar Dash aumenta a defesa contra jogadores em {EffectParam1} por {EffectParam2} seg (cooldown: {EffectParam3} seg)
+10031231,[Dash] para aumentar a defesa contra jogadores,Usar Dash aumenta a defesa contra jogadores em {EffectParam1} por {EffectParam2} seg (cooldown: {EffectParam3} seg)
+10031341,[Dash] para aumentar a evasão,Usar Dash aumenta a Evasão em {EffectParam1} para {EffectParam2} seg (recarga: {EffectParam3} seg)
+10031351,[Dash] para aumentar a evasão,Usar Dash aumenta a Evasão em {EffectParam1} para {EffectParam2} seg (recarga: {EffectParam3} seg)
+10031411,[Dash] para aumentar a evasão contra monstros,Usar Dash aumenta a Evasão contra monstros em {EffectParam1} por {EffectParam2} seg (cooldown: {EffectParam3} seg)
+10031421,[Dash] para aumentar a evasão contra monstros,Usar Dash aumenta a Evasão contra monstros em {EffectParam1} por {EffectParam2} seg (cooldown: {EffectParam3} seg)
+10031431,[Dash] para aumentar a evasão contra monstros,Usar Dash aumenta a Evasão contra monstros em {EffectParam1} por {EffectParam2} seg (cooldown: {EffectParam3} seg)
+10031511,[Dash] para aumentar a evasão contra jogadores,Usar Dash aumenta a Evasão contra jogadores em {EffectParam1} por {EffectParam2} seg (cooldown: {EffectParam3} seg)
+10031521,[Dash] para aumentar a evasão contra jogadores,Usar Dash aumenta a Evasão contra jogadores em {EffectParam1} por {EffectParam2} seg (cooldown: {EffectParam3} seg)
+10031531,[Dash] para aumentar a evasão contra jogadores,Usar Dash aumenta a Evasão contra jogadores em {EffectParam1} por {EffectParam2} seg (cooldown: {EffectParam3} seg)
+10031641,[Dash] para aumentar a resistência a golpes críticos,Usar Dash aumenta a resistência a golpes críticos em {EffectParam1} por {EffectParam2} seg (cooldown: {EffectParam3} seg)
+10031651,[Dash] para aumentar a resistência a golpes críticos,Usar Dash aumenta a resistência a golpes críticos em {EffectParam1} por {EffectParam2} seg (cooldown: {EffectParam3} seg)
+10031711,[Dash] para aumentar a resistência a ataques críticos contra monstros,Usar Dash aumenta a resistência a golpes críticos contra monstros em {EffectParam1} por {EffectParam2} seg (cooldown: {EffectParam3} seg)
+10031721,[Dash] para aumentar a resistência a ataques críticos contra monstros,Usar Dash aumenta a resistência a golpes críticos contra monstros em {EffectParam1} por {EffectParam2} seg (cooldown: {EffectParam3} seg)
+10031731,[Dash] para aumentar a resistência a ataques críticos contra monstros,Usar Dash aumenta a resistência a golpes críticos contra monstros em {EffectParam1} por {EffectParam2} seg (cooldown: {EffectParam3} seg)
+10031811,[Dash] para aumentar a resistência a ataques críticos contra jogadores,Usar Dash aumenta a resistência a golpes críticos contra jogadores em {EffectParam1} por {EffectParam2} seg (tempo de espera: {EffectParam3} seg)
+10031821,[Dash] para aumentar a resistência a ataques críticos contra jogadores,Usar Dash aumenta a resistência a golpes críticos contra jogadores em {EffectParam1} por {EffectParam2} seg (tempo de espera: {EffectParam3} seg)
+10031831,[Dash] para aumentar a resistência a ataques críticos contra jogadores,Usar Dash aumenta a resistência a golpes críticos contra jogadores em {EffectParam1} por {EffectParam2} seg (tempo de espera: {EffectParam3} seg)
+10031941,[Dash] para reduzir o dano de ataque básico recebido,Usar Dash reduz o Dano de Ataque Básico recebido em {EffectParam1}% por {EffectParam2} seg (tempo de espera: {EffectParam3} seg)
+10031951,[Dash] para reduzir o dano de ataque básico recebido,Usar Dash reduz o Dano de Ataque Básico recebido em {EffectParam1}% por {EffectParam2} seg (tempo de espera: {EffectParam3} seg)
+10032041,[Dash] para reduzir os danos recebidos de Skill,Usar Dash reduz Skill Dano recebido em {EffectParam1}% por {EffectParam2} seg (tempo de espera: {EffectParam3} seg)
+10032051,[Dash] para reduzir os danos recebidos de Skill,Usar Dash reduz Skill Dano recebido em {EffectParam1}% por {EffectParam2} seg (tempo de espera: {EffectParam3} seg)
+10032141,[Dash] para reduzir o dano recebido de monstros,Usar Dash reduz o dano recebido de monstros em {EffectParam1}% por {EffectParam2} seg (tempo de espera: {EffectParam3} seg)
+10032151,[Dash] para reduzir o dano recebido de monstros,Usar Dash reduz o dano recebido de monstros em {EffectParam1}% por {EffectParam2} seg (tempo de espera: {EffectParam3} seg)
+10032241,[Dash] para reduzir os danos recebidos dos jogadores,Usar Dash reduz o dano recebido dos jogadores em {EffectParam1}% por {EffectParam2} segundos (tempo de espera: {EffectParam3} segundos)
+10032251,[Dash] para reduzir os danos recebidos dos jogadores,Usar Dash reduz o dano recebido dos jogadores em {EffectParam1}% por {EffectParam2} segundos (tempo de espera: {EffectParam3} segundos)
+10032351,[Dash] para remover a aflição,"Usar Dash remove imediatamente Affliction (cooldown: {EffectParam3} seg)
+Além disso, aumenta a taxa de resistência à aflição em {EffectParam1}% para {EffectParam2} sec"
+10032451,Adicionar Invisibilidade ao [Ataque Básico],Usar Dash tem uma chance de {EffectParam1}% de conceder Invisibilidade para {EffectParam2}s
+10032541,[Dash] Gale,"Usar Dash tem {EffectParam1}% de chance de ativar
+Causa dano a inimigos próximos com {EffectParam2}% de chance de empurrá-los para trás. (cooldown: {EffectParam3}s)"
+10032551,[Dash] Gale,"Usar Dash tem {EffectParam1}% de chance de ativar
+Causa dano a inimigos próximos com {EffectParam2}% de chance de empurrá-los para trás. (cooldown: {EffectParam3}s)"
+10032641,[Dash] Explosão,"Usar Dash tem uma chance de {EffectParam1}% de ativar
+Causa dano a inimigos próximos com {EffectParam2}% de chance de atordoá-los por {EffectParam3}s. (cooldown: {EffectParam4}s)"
+10032651,[Dash] Explosão,"Usar Dash tem uma chance de {EffectParam1}% de ativar
+Causa dano a inimigos próximos com {EffectParam2}% de chance de atordoá-los por {EffectParam3}s. (cooldown: {EffectParam4}s)"
+500031,Mercenary Poder,"Quando ativado, consome Memorite para aumentar o Dano de Ataque Básico 
+ em {EffectParam1}% e o Poder de Ataque Básico em {EffectParam2}"
+500041,Poder do Cavaleiro,"Quando ativado, consome Memorite para aumentar o Dano de Ataque Básico 
+ em {EffectParam1}% e o Poder de Ataque Básico em {EffectParam2}"
+500051,Poder de Champion,"Quando ativado, consome Memorite para aumentar o Dano de Ataque Básico 
+ em {EffectParam1}% e o Poder de Ataque Básico em {EffectParam2}"
+500061,do Eremita Poder do Herói,"Quando ativado, consome Memorite para aumentar o Dano de Ataque Básico 
+ em {EffectParam1}% e o Poder de Ataque Básico em {EffectParam2}"
+514011,Cura rápida,Aumenta a quantidade de cura em {EffectParam1}%
+514021,Melhorar o espírito de luta,Aumenta a maximização em {EffectParam1}%
+514031,Melhorar a visão,Aumenta a taxa de precisão de ataque básico em {EffectParam1}%
+514041,Foco Skill,Aumenta a taxa de precisão de Skill em {EffectParam1}%
+514051,compartilhado Instinto impressionante,Aumenta a taxa de precisão em {EffectParam1}%
+514061,Momento Afiado,Aumenta a chance de acerto crítico de ataque básico em {EffectParam1}%
+514071,Afiado Skill,Aumenta a chance de acerto crítico de Skill em {EffectParam1}%
+514081,Instinto Crítico,Aumenta a chance de acerto crítico em {EffectParam1}%
+514091,Explosão de ataque,Aumenta o Ataque Básico Dano de acerto crítico em {EffectParam1}%
+514101,Explosão Skill,Aumenta o dano de acerto crítico de Skill em {EffectParam1}%
+514111,Rift Fissure,Aumenta o Dano de Acerto Crítico em {EffectParam1}%
+514121,Poder liberado,Aumenta o dano de ataque básico em {EffectParam1}%
+514131,Liberado Skills,Aumenta o dano de Skill em {EffectParam1}%
+514141,Batimento cardíaco,Aumenta o dano em {EffectParam1}%
+514151,Eu Interior Aguçado,Aumenta o dano do jogador em {EffectParam1}%
+514161,Predator's Aura,Aumenta o dano a todos os monstros em {EffectParam1}%
+515011,Regeneração de Vida,"Aumenta a taxa de precisão em {EffectParam1}%
+Aumenta a quantidade de cura em {EffectParam2}%"
+515021,Despertar do Espírito de Luta,"Aumenta a taxa de precisão em {EffectParam1}%
+Aumenta a chance de maximização em {EffectParam2}%"
+515031,Rift Perfeito,"Aumenta a taxa de precisão em {EffectParam1}%
+Aumenta a chance de acerto crítico em {EffectParam2}%"
+515041,Melhorar Rift,"Aumenta a taxa de precisão em {EffectParam1}%
+Aumenta o dano de acerto crítico em {EffectParam2}%"
+515051,Power Unbound,"Aumenta a taxa de precisão em {EffectParam1}% 
+ Aumenta o dano de ataque básico em {EffectParam2}%"
+515061,Skill Não consolidado,"Aumenta a taxa de precisão em {EffectParam1}% 
+ Aumenta o dano de Skill em {EffectParam2}%"
+515071,Instinto de Besta,"Aumenta a taxa de precisão em {EffectParam1}% 
+ Aumenta o dano contra todos os monstros em {EffectParam2}%"
+515081,Resolução interna,"Aumenta a taxa de precisão em {EffectParam1}%
+Aumenta o dano contra jogadores em {EffectParam2}%"
+515091,Predator’s Senses,"Aumenta a taxa de precisão em {EffectParam1}%
+Aumenta o dano contra chefes em {EffectParam2}%"
+515101,Fúria do Coração,"Aumenta a taxa de precisão em {EffectParam1}%
+ Aumenta o dano em {EffectParam2}%"
+515111,Instinto do Governante,"Aumenta a taxa de precisão em {EffectParam1}%
+Aumenta o dano contra jogadores em {EffectParam2}%"
+515121,Visão do Predador,"Aumenta a taxa de precisão em {EffectParam1}%
+Aumenta o dano contra chefes em {EffectParam2}%"
+516011,Julgamento do Absoluto,"Aumenta a taxa de precisão em {EffectParam1}%
+Aumenta a quantidade de cura em {EffectParam2}%
+Aumenta a quantidade de escudo em {EffectParam3}%
+Aumenta a chance de maximização em {EffectParam4}%
+Aumenta o dano de acerto crítico em {EffectParam5}%"
+516021,A Grande Batalha,"Aumenta a taxa de precisão em {EffectParam1}%
+Aumenta a quantidade de cura em {EffectParam2}%
+Aumenta a quantidade de escudo em {EffectParam3}%
+Aumenta a chance de maximização em {EffectParam4}%
+Aumenta o dano em {EffectParam5}%"
+516031,Boundless Dawn,"Aumenta a taxa de precisão em {EffectParam1}%
+Aumenta a cura de HP em {EffectParam2}%
+Aumenta a quantidade de escudo em {EffectParam3}%
+Aumenta a chance de maximização em {EffectParam4}%
+Aumenta o dano em {EffectParam5}%
+Aumenta o dano crítico contra jogadores em {EffectParam6}%"
+525011,Supressão de Dominação,"Aumenta a taxa de acertos do Crowd Control em {EffectParam1}% 
+ Aumenta a taxa de acertos de aflição em {EffectParam2}%"
+526011,Supressão Primordial,"Aumenta a taxa de acertos do Crowd Control em {EffectParam1}% 
+ Aumenta a taxa de acertos de aflição em {EffectParam2}%"
+536011,Emocionante Dança da Lâmina,"Ao atacar Skill atingido, tem {EffectParam1}% de chance de redefinir o tempo de recarga da última habilidade ativa de classe usada
+ (cooldown: {EffectParam2}s)"
+536021,Grito da Lâmina do Primordial,"Ao acertar o Ataque Básico, tem {EffectParam3}% de chance de aumentar a Velocidade de Movimento em {EffectParam1}% e a Velocidade de Ataque em {EffectParam2}% para {EffectParam4}s
+ (recarga: {EffectParam5}s)"
+536031,Precisão Absoluta,"Acertar um ataque tem uma chance de {EffectParam3}% de aumentar Taxa de precisão em {EffectParam1}% e taxa de acerto de CC em {EffectParam2}% por {EffectParam4} segundos
+ (Recarga: {EffectParam5}s)"
+544011,Cura rápida,Aumenta a quantidade de cura recebida em {EffectParam1}%
+544021,Treinamento de proteção,Aumenta a quantidade de escudo recebida em {EffectParam1}%
+544031,Supressão de vontade,Aumenta a taxa de resistência de maximização em {EffectParam1}%
+544041,Supressão de vontade,Aumenta a taxa de resistência de maximização em {EffectParam1}%
+544051,Melhorar sentidos,Aumenta a taxa de evasão de ataque básico em {EffectParam1}%
+544061,Melhorar a intuição,Aumenta Skill Taxa de evasão em {EffectParam1}%
+544071,Detecção de crises,aumenta a evasão Taxa contra todos os monstros em {EffectParam1}%
+544081,Detecção de Espírito de Luta,Aumenta a taxa de evasão contra jogadores em {EffectParam1}%
+544091,Foco sensorial,Aumenta a taxa de evasão em {EffectParam1}%
+544101,Absorção de choque,Aumenta a taxa de resistência ao acerto crítico de ataques básicos em {EffectParam1}%
+544111,Defesa Focada,Aumenta a taxa de resistência a acertos críticos de Skill em {EffectParam1}%
+544121,Resistência à caça,Aumenta a taxa de resistência a acertos críticos contra todos os monstros em {EffectParam1}%
+544131,Evasão de ataque,Aumenta a taxa de resistência a acertos críticos contra jogadores em {EffectParam1}%
+544141,Melhorar a resistência,Aumenta a taxa de acertos críticos Taxa de resistência em {EffectParam1}%
+544151,Resistência a Pulverização,Reduz o dano crítico de ataque básico recebido em {EffectParam1}%
+544161,Mitigação de danos,Reduz Skill Dano Crítico Recebido em {EffectParam1}%
+544171,Instintos de Sobrevivência,Reduz o Dano de Acerto Crítico recebido de todos os monstros {EffectParam1}%
+544181,Supressão de Choque,Reduz o Dano de Acerto Crítico recebido de jogadores em {EffectParam1}%
+544191,Resistência à dor,Reduz o Dano de Acerto Crítico recebido em {EffectParam1}%
+544201,Mitigação de ataque,Reduz o dano de ataque básico recebido por {EffectParam1}%
+544211,Skill Defesa,Reduz Skill Dano recebido em {EffectParam1}%
+544221,Caça Resistência,Reduz o dano recebido de todos os monstros em {EffectParam1}%
+544231,Defesa de Duelo,Reduz o dano recebido dos jogadores em {EffectParam1}%
+544241,Instintos de caça,Reduz o dano recebido dos chefes em {EffectParam1}%
+544251,Essência de Defesa,Reduz a Taxa de Redução de Dano em {EffectParam1}%
+545011,Cura Instantânea,"Aumenta a taxa de evasão em {EffectParam1}%
+Aumenta a Taxa de Aumento da Quantidade de Cura em {EffectParam2}%"
+545021,Mão do Guardião,"Aumenta a taxa de evasão em {EffectParam1}%
+ Aumenta a quantidade de escudo recebida por {EffectParam2}%"
+545031,Eco de Correntes,"Aumenta a taxa de evasão em {EffectParam1}%
+Aumenta a taxa de resistência de maximização em {EffectParam2}%"
+545041,Caça de Sobrevivência,"Aumenta a taxa de evasão em {EffectParam1}%
+Aumenta a Taxa de Resistência a Acertos Críticos contra todos os monstros em {EffectParam2}%"
+545051,Momentum Congelado,"Aumenta a Taxa de Evasão em {EffectParam1}%
+Aumenta a Taxa de Resistência a Acertos Críticos contra jogadores em {EffectParam2}%"
+545061,Instintos de resistência,"Aumenta a taxa de evasão em {EffectParam1}%
+ Aumenta a taxa de resistência a acertos críticos em {EffectParam2}%"
+545071,Sobrevivência inflexível,"Aumenta a taxa de evasão em {EffectParam1}% 
+Reduz o dano crítico recebido de todos os monstros em {EffectParam2}%"
+545081,Memórias de dor,"Aumenta a taxa de evasão em {EffectParam1}%
+Reduz o dano crítico recebido dos jogadores em {EffectParam2}%"
+545091,Resistência à Explosão,"Aumenta a Taxa de Evasão em {EffectParam1}%
+Reduz o Dano Crítico recebido por {EffectParam2}%"
+545101,Mitigação de ataque,"Aumenta a taxa de evasão em {EffectParam1}%
+Reduz o Dano de Ataque Básico recebido por {EffectParam2}%"
+545111,Skill Mitigação,"Aumenta a taxa de evasão em {EffectParam1}%
+Reduz Skill Dano recebido por {EffectParam2}%"
+545121,Resistência da Caçada,"Aumenta a taxa de evasão em {EffectParam1}%
+Reduz o dano recebido de todos os monstros por {EffectParam2}%"
+545131,Instintos de Sobrevivência,"Aumenta a taxa de evasão em {EffectParam1}%
+Reduz o dano recebido dos jogadores em {EffectParam2}%"
+545141,Aura do Predador,"Aumenta a taxa de evasão em {EffectParam1}%
+Reduz o dano recebido de chefes em {EffectParam2}%"
+545151,Vontade indomável,"Aumenta a taxa de evasão em {EffectParam1}%
+Reduz o dano recebido em {EffectParam2}%"
+545161,Vontade que desafia a morte,"Aumenta a taxa de evasão em {EffectParam1}%
+Reduz o dano recebido por {EffectParam2}%
+Reduz o dano crítico recebido por {EffectParam3}%"
+545171,Resistência Silenciosa,"Aumenta a taxa de evasão em {EffectParam1}%
+Reduz o dano recebido em {EffectParam2}%"
+545181,Dissipação de choque,"Aumenta a taxa de evasão em {EffectParam1}%
+Reduz o dano recebido por {EffectParam2}%
+Reduz o dano crítico recebido por {EffectParam3}%"
+546011,Bainha da Calamidade,"Aumenta a taxa de evasão em {EffectParam1}%
+ Aumenta a quantidade de cura recebida por {EffectParam2}%
+ Aumenta a quantidade de escudo recebida por {EffectParam3}%
+Aumenta a taxa de resistência à maximização em {EffectParam4}%
+Reduz o dano de acerto crítico recebido por {EffectParam5}%"
+546021,Selo de dor,"Aumenta a Taxa de Evasão em {EffectParam1}%
+Aumenta a Quantidade de Cura recebida por {EffectParam2}%
+Aumenta a quantidade de escudo recebida por {EffectParam3}%
+Aumenta a taxa de resistência de maximização em {EffectParam4}%
+Aumenta a resistência a golpes críticos em {EffectParam5}%"
+546031,Aliança de Sobrevivência,"Aumenta a taxa de evasão em {EffectParam1}%
+Aumenta a quantidade de cura recebida por {EffectParam2}%
+Aumenta a quantidade de escudo recebida por {EffectParam3}%
+Aumenta a taxa de resistência de maximização em {EffectParam4}%
+Reduz o dano recebido em {EffectParam5}%"
+546041,Grito de Proteção,"Aumenta a taxa de evasão em {EffectParam1}%
+ Aumenta a quantidade de cura recebida por {EffectParam2}%
+ Aumenta a quantidade de escudo recebida por {EffectParam3}%
+Aumenta a taxa de resistência de maximização em {EffectParam4}%
+Aumenta a resistência a golpes críticos em {EffectParam5}%
+Reduz o dano recebido por {EffectParam6}%"
+546051,Despair of the Blade,"Aumenta a taxa de evasão em {EffectParam1}%
+Aumenta a quantidade de cura recebida por {EffectParam2}%
+Aumenta a quantidade de escudo recebida por {EffectParam3}%
+Aumenta a taxa de resistência de maximização em {EffectParam4}%
+Reduz o dano de acerto crítico recebido por {EffectParam5}%
+Reduz o dano recebido por {EffectParam6}%"
+555011,Forma de Warrior,"Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}% 
+ Aumenta a taxa de resistência à aflição em {EffectParam2}%"
+556011,Resplendor do Herói,"Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}% 
+ Aumenta a taxa de resistência à aflição em {EffectParam2}%"
+566011,Espírito Comandante do Governante,"Quando você é atingido, for atingido, tem {EffectParam2}% de chance de reduzir o Dano de Ataque Básico recebido em {EffectParam1}% para {EffectParam3}s
+(cooldown: {EffectParam4}s)"
+566021,Fluxo Radiante,"Quando você é atingido, tem um {EffectParam2}% de chance de reduzir Skill Dano recebido por {EffectParam1}% para {EffectParam3}s
+(cooldown: {EffectParam4}s)"
+566031,Aura do Luar,"Quando você é atingido, tem {EffectParam2}% de chance de conceder um Escudo {EffectParam1} para {EffectParam3}s
+(cooldown: {EffectParam4}s)"
+566041,Visão Astral,"Quando você é atingido, tem uma chance de {EffectParam2}% de aumentar a Taxa de Evasão de Ataque Básico em {EffectParam1}% para {EffectParam3}s
+ (tempo de espera: {EffectParam4}s)"
+566051,Prophet,"Quando você é atingido, tem {EffectParam2}% de chance de aumentar a Taxa de Evasão de Skill em {EffectParam1}% para {EffectParam3}s
+(cooldown: {EffectParam4}s)"
+580011,Pressa,Aumenta a velocidade de montagem em {EffectParam2}% para {EffectParam1}secs
+580021,Pressa,Aumenta a velocidade de montagem em {EffectParam2}% para {EffectParam1}secs
+580031,Pressa,Aumenta a velocidade de montagem em {EffectParam2}% para {EffectParam1}secs
+580041,Pressa,Aumenta a velocidade de montagem em {EffectParam2}% para {EffectParam1}secs
+580051,Pressa,Aumenta a velocidade de montagem em {EffectParam2}% para {EffectParam1}secs
+580061,Pressa,Aumenta a velocidade de montagem em {EffectParam2}% para {EffectParam1}secs
+581011,Poder do Sigilo,"Aumenta a regeneração de HP em {EffectParam1}
+Aumenta a regeneração de MP em {EffectParam2}"
+581021,Poder da Besta,Aumenta a cura de poção de HP em {EffectParam1}
+581031,Poder da Besta,Aumenta a cura de poção de HP em {EffectParam1}
+581041,Aura da Árvore,Reduz o custo de MP em {EffectParam1}%
+581051,Poder do Sigilo,"Aumenta a regeneração de HP em {EffectParam1}
+Aumenta a regeneração de MP em {EffectParam2}"
+581061,Aura da Árvore,Reduz o custo de MP em {EffectParam1}%
+581071,Poder do Sigilo,"Aumenta a regeneração de HP em {EffectParam1}
+Aumenta a regeneração de MP em {EffectParam2}"
+581081,Início do Festival,"Aumenta a cura de poção de HP em {EffectParam1}
+ Aumenta a regeneração de MP em {EffectParam2}"
+581091,Halo,"Aumenta a cura de poção de HP em {EffectParam1}
+ Aumenta a regeneração de MP em {EffectParam2}"
+581101,Esperança de sete cores,"Aumenta a cura de poção de HP em {EffectParam1}
+ Aumenta a regeneração de MP em {EffectParam2}"
+581111,Poder do Golem,Aumenta a cura de poção de HP em {EffectParam1}
+581121,Ligação Dimensional,"Aumenta a cura de poção de HP em {EffectParam1}
+ Aumenta a regeneração de MP em {EffectParam2}"
+581131,Rugido de Besta,Aumenta a regeneração de MP em {EffectParam1}
+582011,Espírito da Floresta,"Aumenta a Regeneração de HP em {EffectParam1}
+ Aumenta a Cura de Poção de HP em {EffectParam2}
+Reduz a redução do consumo de MP em {EffectParam3}%"
+582021,Poder da Besta,"Aumenta a regeneração de HP em {EffectParam1}
+ Aumenta a regeneração de MP em {EffectParam2}
+ Aumenta a cura de poções de HP em {EffectParam3}"
+582031,Melhorar a capacidade de combate,"Aumenta a regeneração de HP em {EffectParam1}
+ Aumenta a regeneração de MP em {EffectParam2}
+ Aumenta a cura de poções de HP em {EffectParam3}"
+585011,Rugido da Juba do Trovão,Reduz o dano recebido de todos os monstros em {EffectParam1}%
+585021,Wanderer’s Cry,Reduz o dano de ataque básico recebido por {EffectParam1}%
+585031,Aumenta a defesa,Reduz Skill Dano recebido em {EffectParam1}%
+590111,Descida do Trovão,Causa dano na área de pouso com 100% de chance de infligir Choque para {EffectParam1}s
+590211,Anel of Lightning,Causa dano à área de pouso em forma de donut e reduz a velocidade de movimento em {EffectParam1}% para {EffectParam2}s
+590311,Pouso Abençoado,Cura instantaneamente aliados na área de pouso em {EffectParam1} HP
+590411,Descida de Proteção,"Cria uma cúpula na área de pouso por 7 s, reduzindo o dano recebido pelos aliados dentro da área em {EffectParam1}%"
+590511,Descida de Corrupção,"Cria um campo na área de pouso por 7 s, causando dano aos inimigos dentro da área ao longo do tempo e reduzindo a velocidade de movimento em {EffectParam1}%"
+590611,Dark Lightning,Causa dano a a área de pouso e reduz a taxa de resistência a golpes críticos em {EffectParam1}% para {EffectParam2}s
+590711,Wings of Fate,"Concede aleatoriamente um dos seguintes Buffs aos aliados na área de pouso
+: Aumenta a velocidade de movimento em {EffectParam1}% para {EffectParam5}s
+: Aumenta a velocidade de lançamento em {EffectParam2}% para {EffectParam5}s
+: Aumenta a velocidade de ataque em {EffectParam3}% para {EffectParam5}s
+: Reduz o resfriamento de Skill em {EffectParam4}% para {EffectParam5}s"
+590811,Onda de cadeia,"Causa dano à área de pouso 3 vezes
+1º acerto: 3m / 2º acerto: 4m / 3º acerto: 5m"
+590911,Colapso da Terra,Tem {EffectParam2}% de chance por segundo de infligir Atordoamento em {EffectParam1}s na área de pouso
+591011,Martelo Tectônico,Causa dano na área de pouso com {EffectParam2}% de chance de infligir Aerotransportado para {EffectParam1}s
+591111,Implosão a Vácuo,Causas dano na área de pouso com {EffectParam2}% de chance de infligir atordoamento para {EffectParam1}s
+591211,Fragmento Abençoado,"Ao pousar, concede {EffectParam1}% de aumento de dano ao chefe para {EffectParam2}s"
+591311,Tempestade do Dragão,Cria uma corrente ascendente no local de pouso que dura 10 segundos
+595011,Celestial Warrior,"Aumenta o HP máximo em {EffectParam1}% 
+ Aumenta o dano de ataque básico em {EffectParam2}%"
+595021,Cavaleiro Celestial,"Aumenta o HP máximo em {EffectParam1}% 
+ Aumenta o dano de Skill em {EffectParam2}%"
+595031,Espírito do Vento,"Aumenta o HP máximo em {EffectParam1}%
+Aumenta a quantidade de cura em {EffectParam2}%"
+595041,Bênção da Levitação,"Aumenta o HP máximo em {EffectParam1}%
+Aumenta a quantidade de escudo em {EffectParam2}%"
+595051,Deslizamento Radiante,"Aumenta o HP máximo em {EffectParam1}% 
+ Aumenta o dano contra monstros de todos os níveis em {EffectParam2}%"
+595061,Dark Glide,"Aumenta o HP máximo em {EffectParam1}%
+Aumenta o dano contra jogadores em {EffectParam2}%"
+595071,Asas Azure,"Aumenta o HP máximo em {EffectParam1}%
+Aumenta o dano crítico de Skill em {EffectParam2}%"
+595081,Orientação Celestial,"Aumenta o HP máximo em {EffectParam1}%
+Aumenta o dano crítico do ataque básico em {EffectParam2}%"
+595091,Céu Abissal,"Aumenta o HP máximo em {EffectParam1}%
+Aumenta o dano em {EffectParam2}%"
+595101,Domínio da Estética,"Aumenta o HP máximo em {EffectParam1}% 
+ Aumenta o dano aos alvos afetados em {EffectParam2}%"
+595111,Soaring Dream,"Aumenta o HP máximo em {EffectParam1}%
+Aumenta o dano a alvos controlados por multidão em {EffectParam2}%"
+595121,Gale Dança,"Aumenta o HP máximo em {EffectParam1}%
+Aumenta o dano a monstros chefes em {EffectParam2}%"
+595131,Asas do Dragão,"Aumenta o HP máximo em {EffectParam1}%
+Aumenta o dano contra monstros Comuns e Elite em {EffectParam2}%"
+610001,Acionador de chaveiro - Teste Skill Evento de atualização de chaveiro,"Ao acertar o Ataque Básico, tem um {EffectParam2}% de chance de aumentar o dano em {EffectParam1%} para {EffectParam3}s (recarga: {EffectParam4}s)"
+610011,Nó da Névoa do Amanhecer,"Ao derrotar monstros, reduz o dano recebido de monstros em {EffectParam1}% para {EffectParam2}s (tempo de espera: {EffectParam3}s)"
+610021,Trava da Lua Velada,"Ao acertar skill contra monstros, tem {EffectParam2}% de chance de aumentar o dano contra monstros chefes em {EffectParam1}% para {EffectParam3}s (recarga: {EffectParam4}s)"
+610031,Nó da Névoa do Amanhecer,"Ao derrotar monstros, reduz o dano recebido de monstros em {EffectParam1}% para {EffectParam2}s (tempo de espera: {EffectParam3}s)"
+610041,Nó da Névoa do Amanhecer,"Ao derrotar monstros, reduz o dano recebido de monstros em {EffectParam1}% para {EffectParam2}s (tempo de espera: {EffectParam3}s)"
+610051,Mandíbulas da Maré Negra,"Ao acertar skill contra monstros, tem uma chance de {EffectParam2}% de aumentar o dano de Skill contra Monstros Chefes em {EffectParam1}% para {EffectParam3}s (cooldown: {EffectParam4}s)"
+610061,Constelação fraturada,"Ao acertar skill contra monstros, tem {EffectParam2}% de chance de aumentar o Dano de Ataque Básico contra Monstros Chefes em {EffectParam1}% para {EffectParam3}s (recarga: {EffectParam4}s)"
+610071,Nó da Névoa do Amanhecer,"Ao derrotar monstros, reduz o dano recebido de monstros em {EffectParam1}% para {EffectParam2}s (tempo de espera: {EffectParam3}s)"
+610081,Pálpebra Cinzenta,"Ao acertar skill contra monstros, tem {EffectParam2}% de chance de aumentar o dano contra monstros chefes em {EffectParam1}% para {EffectParam3}s (recarga: {EffectParam4}s)"
+610091,Véu de Inalação,"Ao derrotar monstros, reduz o dano recebido de monstros em {EffectParam1}% para {EffectParam2}s (tempo de espera: {EffectParam3}s)"
+610101,Moonlight Gauge,"Ao acertar skill contra monstros, tem {EffectParam2}% de chance de aumentar o dano contra monstros chefes em {EffectParam1}% para {EffectParam3}s (recarga: {EffectParam4}s)"
+610111,Pedágio quebrado,"Quando atingido por jogadores, aumenta Taxa de resistência ao atordoamento em {EffectParam1}% para {EffectParam2}s (tempo de espera: {EffectParam3}s)"
+610121,Véu de Inalação,"Ao derrotar monstros, reduz o dano recebido de monstros em {EffectParam1}% para {EffectParam2}s (tempo de espera: {EffectParam3}s)"
+610131,Véu de Inalação,"Ao derrotar monstros, reduz o dano recebido de monstros em {EffectParam1}% para {EffectParam2}s (tempo de espera: {EffectParam3}s)"
+610141,Ondulação Cinzenta,"Ao acertar skill contra monstros, tem uma chance de {EffectParam3}% de aumentar o dano de Skill contra Monstros Chefes em {EffectParam1}% e Dano contra monstros chefes em {EffectParam2}% para {EffectParam4}s (cooldown: {EffectParam5}s)"
+610151,Quietude Carmesim,"Quando atingido por jogadores, aumenta a taxa de resistência ao atordoamento em {EffectParam1}% para {EffectParam3}s e recupera {EffectParam2} MP (cooldown: {EffectParam4}s)"
+610161,Vela Enterrada,"Ao acertar skill contra monstros, tem {EffectParam2}% de chance de aumentar o dano contra monstros chefes em {EffectParam1}% para {EffectParam3}s (recarga: {EffectParam4}s)"
+610171,Véu de Inalação,"Ao derrotar monstros, reduz o dano recebido de monstros em {EffectParam1}% para {EffectParam2}s (tempo de espera: {EffectParam3}s)"
+610181,Cidadela de Vidro,"Ao acertar skill contra monstros, tem uma chance de {EffectParam3}% de aumentar o Dano de Ataque Básico contra Monstros Chefes em {EffectParam1}% e o Dano contra Monstros Chefes {EffectParam2}% para {EffectParam4}s (cooldown: {EffectParam5}s)"
+610191,Cetro Empoeirado,"Quando atingido por jogadores, reduz o dano recebido dos jogadores em {EffectParam1}% e aumenta a taxa de resistência a atordoamento em {EffectParam2}% para {EffectParam3}s (recarga: {EffectParam4}s)"
+610201,Selo da Noite Branca,"Quando atingido por jogadores, aumenta Taxa de resistência ao atordoamento em {EffectParam1}% para {EffectParam2}s (tempo de espera: {EffectParam3}s)"
+610211,Santuário da Respiração Azul,"Ao derrotar monstros, reduz o dano recebido de monstros em {EffectParam1}% para {EffectParam2}s (tempo de espera: {EffectParam3}s)"
+610221,Órbita da Silhueta Negra,"Ao acertar skill contra monstros, tem {EffectParam2}% de chance de aumentar o dano contra monstros chefes em {EffectParam1}% para {EffectParam3}s (recarga: {EffectParam4}s)"
+610231,Juramento inabalável,"Quando atingido por jogadores, aumenta a taxa de resistência ao atordoamento em {EffectParam1}% para {EffectParam3}s e recupera MP em {EffectParam2}% (cooldown: {EffectParam4}s)"
+610241,Santuário da Respiração Azul,"Ao derrotar monstros, reduz o dano recebido de monstros em {EffectParam1}% para {EffectParam2}s (tempo de espera: {EffectParam3}s)"
+610251,Twisted Golden Ratio,"Ao acertar skill contra monstros, tem {EffectParam2}% de chance de aumentar o dano contra monstros chefes em {EffectParam1}% para {EffectParam3}s (recarga: {EffectParam4}s)"
+610261,Aliança de Brasas,"Quando atingido por jogadores, reduz o dano recebido dos jogadores em {EffectParam1}% e aumenta a taxa de resistência a atordoamento em {EffectParam2}% para {EffectParam3}s (recarga: {EffectParam4}s)"
+610311,Aliança inflexível,"Quando atingido por jogadores, aumenta a chance de resistência ao atordoamento em {EffectParam1}% e reduz o dano crítico recebido dos jogadores em {EffectParam2}% para {EffectParam3}s (tempo de recarga: {EffectParam4}s)"
+610271,Santuário da Respiração Azul,"Ao derrotar monstros, reduz o dano recebido de monstros em {EffectParam1}% para {EffectParam2}s (tempo de espera: {EffectParam3}s)"
+610281,Respiração Eterna,"Ao derrotar monstros, reduz o dano recebido de monstros em {EffectParam1}% para {EffectParam2}s (tempo de espera: {EffectParam3}s)"
+610291,Órbita impecável,"Ao acertar skill contra monstros, tem {EffectParam2}% de chance de aumentar o dano contra monstros chefes em {EffectParam1}% para {EffectParam3}s e zera o tempo de espera da última classe ativa Skill usada (tempo de espera: {EffectParam4}s)"
+610301,Silêncio da Coroa,"Quando atingido por jogadores, aumenta a taxa de resistência ao atordoamento em {EffectParam1}% para {EffectParam3}s e recupera MP em {EffectParam2}% (cooldown: {EffectParam4}s)"
+620001,Teste de chaveiro Skill 1 Teste de chaveiro,Aumenta Precisão em {EffectParam1}
+620011,Presença de esquecimento,Oblivion Resistance Rate {EffectParam1}%
+620021,Presença de esquecimento,Oblivion Resistance Rate {EffectParam1}%
+620031,Presença de esquecimento,Oblivion Resistance Rate {EffectParam1}%
+620041,Presença de invasão,Taxa de resistência à invasão {EffectParam1}%
+620051,Presença de invasão,Taxa de resistência à invasão {EffectParam1}%
+620061,Presença de invasão,Taxa de resistência à invasão {EffectParam1}%
+620071,Presença do vazio,Taxa de resistência ao vazio {EffectParam1}%
+620081,Presença do vazio,Taxa de resistência ao vazio {EffectParam1}%
+621011,Rastro de Esquecimento,Oblivion Resistance Rate {EffectParam1}%
+621021,Rastro de Esquecimento,Oblivion Resistance Rate {EffectParam1}%
+621031,Rastro de Esquecimento,Oblivion Resistance Rate {EffectParam1}%
+621041,Traço de invasão,Taxa de resistência à invasão {EffectParam1}%
+621051,Traço de invasão,Taxa de resistência à invasão {EffectParam1}%
+621061,Traço de invasão,Taxa de resistência à invasão {EffectParam1}%
+621071,Rastro do Vazio,Taxa de resistência ao vazio {EffectParam1}%
+621081,Rastro do Vazio,Taxa de resistência ao vazio {EffectParam1}%
+622011,Eco de Esquecimento,Oblivion Resistance Rate {EffectParam1}%
+622021,Eco de Esquecimento,Oblivion Resistance Rate {EffectParam1}%
+622031,Eco de Esquecimento,Oblivion Resistance Rate {EffectParam1}%
+622041,Eco de Invasão,Taxa de resistência à invasão {EffectParam1}%
+622051,Eco de Invasão,Taxa de resistência à invasão {EffectParam1}%
+622061,Eco de Invasão,Taxa de resistência à invasão {EffectParam1}%
+622071,Eco do Vazio,Taxa de resistência ao vazio {EffectParam1}%
+622081,Eco do Vazio,Taxa de resistência ao vazio {EffectParam1}%
+623011,Fio de Prata do Esquecimento,Oblivion Resistance Rate {EffectParam1}%
+623021,Fio de Prata do Esquecimento,Oblivion Resistance Rate {EffectParam1}%
+623031,Fio de Prata do Esquecimento,Oblivion Resistance Rate {EffectParam1}%
+623041,Fio de Prata do Esquecimento,Oblivion Resistance Rate {EffectParam1}%
+623051,Fio de Prata da Invasão,Taxa de resistência à invasão {EffectParam1}%
+623061,Fio de Prata da Invasão,Taxa de resistência à invasão {EffectParam1}%
+623071,Fio de Prata da Invasão,Taxa de resistência à invasão {EffectParam1}%
+623081,Fio de Prata da Invasão,Taxa de resistência à invasão {EffectParam1}%
+623091,Fio de Prata de o Vazio,Taxa de resistência ao vazio {EffectParam1}%
+623101,Fio de Prata de o Vazio,Taxa de resistência ao vazio {EffectParam1}%
+623111,Fio de Prata de o Vazio,Taxa de resistência ao vazio {EffectParam1}%
+623121,Fio de Prata de o Vazio,Taxa de resistência ao vazio {EffectParam1}%
+624011,Estigmas do esquecimento,Oblivion Resistance Rate {EffectParam1}%
+624081,Estigmas do esquecimento,Oblivion Resistance Rate {EffectParam1}%
+624021,Estigmas do esquecimento,Oblivion Resistance Rate {EffectParam1}%
+624031,Estigma da invasão,Taxa de resistência à invasão {EffectParam1}%
+624041,Estigma da invasão,Taxa de resistência à invasão {EffectParam1}%
+624051,Estigmas do vazio,Taxa de resistência ao vazio {EffectParam1}%
+624061,Estigmas do vazio,Taxa de resistência ao vazio {EffectParam1}%
+624071,Estigmas do vazio,Taxa de resistência ao vazio {EffectParam1}%
+625011,Bênção da Erosão,Taxa de resistência à erosão {EffectParam1}%
+625021,Bênção da Erosão,Taxa de resistência à erosão {EffectParam1}%
+625031,Bênção da Erosão,Taxa de resistência à erosão {EffectParam1}%
+630001,Skill 2,Aumenta a taxa de evasão em {EffectParam1}%
+630011,Eco de Calor,"Aumenta o HP máximo em {EffectParam1}%
+ Aumenta o HP de cura de poções em {EffectParam2}"
+630021,Cortina de Ferro,"Aumenta o HP máximo em {EffectParam1}%
+Aumenta Skill Dano contra monstros chefes em {EffectParam2}%"
+630031,Lanterna do Silêncio,"Aumenta o HP máximo em {EffectParam1}%
+Aumenta a taxa de resistência ao silêncio em {EffectParam2}%
+Aumenta a regeneração de MP em {EffectParam3}"
+630111,Lanterna da Tranquilidade,"Aumenta o HP máximo em {EffectParam1}%
+Aumenta a taxa de resistência ao silêncio em {EffectParam2}%
+Aumenta a regeneração de MP em {EffectParam3}"
+630041,Eco da Primavera,"Aumenta o HP máximo em {EffectParam1}%
+Reduz o custo de MP em {EffectParam2}%
+Aumenta a regeneração de MP em {EffectParam3}"
+630051,Armadura Starshroud,"Aumenta o HP máximo em {EffectParam1}%
+Aumenta o dano de ataque básico contra monstros chefes em {EffectParam2}%"
+630061,Lanterna de Ecos,"Aumenta o HP máximo em {EffectParam1}%
+Aumenta a taxa de resistência ao silêncio em {EffectParam2}%
+Reduz o custo de MP em {EffectParam3}%"
+630071,Eco de Aço,"Aumenta o HP máximo em {EffectParam1}% 
+Reduz o dano crítico recebido de monstros em {EffectParam2}%"
+630081,Calor Imortal,"Aumenta o HP máximo em {EffectParam1}%
+Aumenta HP Potion Healing em {EffectParam2}
+Reduz o custo de MP em {EffectParam3}%
+Reduz o dano crítico recebido de monstros por {EffectParam4}%"
+630091,Cidadela Cinzenta,"Aumenta o HP máximo em {EffectParam1}%
+Aumenta o dano de acerto crítico em {EffectParam2}%"
+630101,Soberano Silencioso,"Aumenta o HP máximo em {EffectParam1}%
+Aumenta a taxa de resistência ao silêncio em {EffectParam2}%
+Aumenta a regeneração de MP em {EffectParam3}
+Reduz o custo de MP em {EffectParam4}%"
+850101,,O Diretor causa dano aos jogadores inimigos.
+850201,,"Aumenta a velocidade de ataque em <Orange>{EffectParam1}</>%
+ e a velocidade de movimento em <Orange>{EffectParam2}</>%"
+850301,,Reduz o dano recebido de jogadores por <Orange>{EffectParam1}</>%
+850401,,"entra em modo furtivo, tornando-se invisível aos inimigos."
+850501,,"Aumenta a regeneração de HP em <Orange>{EffectParam1}</>%
+Aumenta a regeneração de MP em <Orange>{EffectParam2}</>%
+Aumenta Cura de Poção de HP em <Orange>{EffectParam3}</>%"
+850601,,Restaura um <Orange>{EffectParam1}</>% adicional do HP máximo ao reaparecer em um Clan Beacon
+850701,,"Aumenta o dano contra jogadores em <Orange>{EffectParam1}</>%
+Reduz o dano causado aos jogadores por <Orange>{EffectParam2}</>%
+Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam3}</>%
+Reduz a duração do controle de multidão em <Orange>{EffectParam4}</>%"
+850801,,Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%
+850901,,Redefine a descida Skill Cooldowns
+851001,,Convoca à força membros do clã
+851101,,Aumenta o dano recebido por o alvo marcado dos membros do clã do lançador por <Orange>{EffectParam1}</>%
+1401011,Forma Abissal I,Reduz o tempo de espera para mudança de postura em {EffectParam1}%
+1401021,Forma Abissal I,Reduz o tempo de espera para mudança de postura em {EffectParam1}%
+1401031,Forma Abissal I,Reduz o tempo de espera para mudança de postura em {EffectParam1}%
+1401041,Forma Abissal I,Reduz o tempo de espera para mudança de postura em {EffectParam1}%
+1401051,Forma Abissal I,Reduz o tempo de espera para mudança de postura em {EffectParam1}%
+1401061,Forma Abissal I,Reduz o tempo de espera para mudança de postura em {EffectParam1}%
+1402011,Forma Abissal II,"Aumenta o dano contra alvos queimados e envenenados em {EffectParam1}%
+Reduz alvo único Skill Dano sofrido em {EffectParam2}%"
+1402021,Forma Abissal II,"Aumenta o dano contra alvos queimados e envenenados em {EffectParam1}%
+Reduz alvo único Skill Dano sofrido em {EffectParam2}%"
+1402031,Forma Abissal II,"Aumenta o dano contra alvos queimados e envenenados em {EffectParam1}%
+Reduz alvo único Skill Dano sofrido em {EffectParam2}%"
+1402041,Forma Abissal II,"Aumenta o dano contra alvos queimados e envenenados em {EffectParam1}%
+Reduz alvo único Skill Dano sofrido em {EffectParam2}%"
+1402051,Forma Abissal II,"Aumenta o dano contra alvos queimados e envenenados em {EffectParam1}%
+Reduz alvo único Skill Dano sofrido em {EffectParam2}%"
+1402061,Forma Abissal II,"Aumenta o dano contra alvos queimados e envenenados em {EffectParam1}%
+Reduz alvo único Skill Dano sofrido em {EffectParam2}%"
+1403011,Forma Abissal III,"Ao acertar o Ataque Básico, tem {EffectParam2}% de chance de aumentar a Penetração em {EffectParam1} para {EffectParam3}s (CD: {EffectParam4}s)"
+1403021,Forma Abissal III,"Ao acertar o Ataque Básico, tem {EffectParam2}% de chance de aumentar a Penetração em {EffectParam1} para {EffectParam3}s (CD: {EffectParam4}s)"
+1403031,Forma Abissal III,"Ao acertar o Ataque Básico, tem {EffectParam2}% de chance de aumentar a Penetração em {EffectParam1} para {EffectParam3}s (CD: {EffectParam4}s)"
+1403041,Forma Abissal III,"Ao acertar o Ataque Básico, tem {EffectParam2}% de chance de aumentar a Penetração em {EffectParam1} para {EffectParam3}s (CD: {EffectParam4}s)"
+1403051,Forma Abissal III,"Ao acertar o Ataque Básico, tem {EffectParam2}% de chance de aumentar a Penetração em {EffectParam1} para {EffectParam3}s (CD: {EffectParam4}s)"
+1403061,Forma Abissal III,"Ao acertar o Ataque Básico, tem {EffectParam2}% de chance de aumentar a Penetração em {EffectParam1} para {EffectParam3}s (CD: {EffectParam4}s)"
+1404011,Formulário de animação I,Restaura um {EffectParam1}% adicional do HP máximo após a ressurreição.
+1404021,Formulário de animação I,Restaura um {EffectParam1}% adicional do HP máximo após a ressurreição.
+1404031,Formulário de animação I,Restaura um {EffectParam1}% adicional do HP máximo após a ressurreição.
+1404041,Formulário de animação I,Restaura um {EffectParam1}% adicional do HP máximo após a ressurreição.
+1404051,Formulário de animação I,Restaura um {EffectParam1}% adicional do HP máximo após a ressurreição.
+1404061,Formulário de animação I,Restaura um {EffectParam1}% adicional do HP máximo após a ressurreição.
+1405011,Formulário de animação II,"Aumenta o dano contra alvos congelados/sangrando em {EffectParam1}%
+Reduz o dano recebido de Skills multialvo em {EffectParam2}%"
+1405021,Formulário de animação II,"Aumenta o dano contra alvos congelados/sangrando em {EffectParam1}%
+Reduz o dano recebido de Skills multialvo em {EffectParam2}%"
+1405031,Formulário de animação II,"Aumenta o dano contra alvos congelados/sangrando em {EffectParam1}%
+Reduz o dano recebido de Skills multialvo em {EffectParam2}%"
+1405041,Formulário de animação II,"Aumenta o dano contra alvos congelados/sangrando em {EffectParam1}%
+Reduz o dano recebido de Skills multialvo em {EffectParam2}%"
+1405051,Formulário de animação II,"Aumenta o dano contra alvos congelados/sangrando em {EffectParam1}%
+Reduz o dano recebido de Skills multialvo em {EffectParam2}%"
+1405061,Formulário de animação II,"Aumenta o dano contra alvos congelados/sangrando em {EffectParam1}%
+Reduz o dano recebido de Skills multialvo em {EffectParam2}%"
+1406011,Forma de Anima III,Tem uma chance de {EffectParam2}% de aumentar o Bloqueio em {EffectParam1} para {EffectParam3}s após o acerto de skill (CD: {EffectParam4}s)
+1406021,Forma de Anima III,Tem uma chance de {EffectParam2}% de aumentar o Bloqueio em {EffectParam1} para {EffectParam3}s após o acerto de skill (CD: {EffectParam4}s)
+1406031,Forma de Anima III,Tem uma chance de {EffectParam2}% de aumentar o Bloqueio em {EffectParam1} para {EffectParam3}s após o acerto de skill (CD: {EffectParam4}s)
+1406041,Forma de Anima III,Tem uma chance de {EffectParam2}% de aumentar o Bloqueio em {EffectParam1} para {EffectParam3}s após o acerto de skill (CD: {EffectParam4}s)
+1406051,Forma de Anima III,Tem uma chance de {EffectParam2}% de aumentar o Bloqueio em {EffectParam1} para {EffectParam3}s após o acerto de skill (CD: {EffectParam4}s)
+1406061,Forma de Anima III,Tem uma chance de {EffectParam2}% de aumentar o Bloqueio em {EffectParam1} para {EffectParam3}s após o acerto de skill (CD: {EffectParam4}s)
+1407011,Forma indomável I,"Aumenta o dano recebido enquanto estiver na [Postura de ataque] em {EffectParam1}%
+Reduz o dano recebido enquanto estiver em [Specialized] em {EffectParam2}%"
+1407021,Forma indomável I,"Aumenta o dano recebido enquanto estiver na [Postura de ataque] em {EffectParam1}%
+Reduz o dano recebido enquanto estiver em [Specialized] em {EffectParam2}%"
+1407031,Forma indomável I,"Aumenta o dano recebido enquanto estiver na [Postura de ataque] em {EffectParam1}%
+Reduz o dano recebido enquanto estiver em [Specialized] em {EffectParam2}%"
+1407041,Forma indomável I,"Aumenta o dano recebido enquanto estiver na [Postura de ataque] em {EffectParam1}%
+Reduz o dano recebido enquanto estiver em [Specialized] em {EffectParam2}%"
+1407051,Forma indomável I,"Aumenta o dano recebido enquanto estiver na [Postura de ataque] em {EffectParam1}%
+Reduz o dano recebido enquanto estiver em [Specialized] em {EffectParam2}%"
+1407061,Forma indomável I,"Aumenta o dano recebido enquanto estiver na [Postura de ataque] em {EffectParam1}%
+Reduz o dano recebido enquanto estiver em [Specialized] em {EffectParam2}%"
+1408011,Forma indomável II,"Aumenta o dano em {EffectParam1}% enquanto estiver no Postura [Special]
+Reduz o dano recebido em {EffectParam2}% enquanto na postura [Attack]"
+1408021,Forma indomável II,"Aumenta o dano em {EffectParam1}% enquanto estiver no Postura [Special]
+Reduz o dano recebido em {EffectParam2}% enquanto na postura [Attack]"
+1408031,Forma indomável II,"Aumenta o dano em {EffectParam1}% enquanto estiver no Postura [Special]
+Reduz o dano recebido em {EffectParam2}% enquanto na postura [Attack]"
+1408041,Forma indomável II,"Aumenta o dano em {EffectParam1}% enquanto estiver no Postura [Special]
+Reduz o dano recebido em {EffectParam2}% enquanto na postura [Attack]"
+1408051,Forma indomável II,"Aumenta o dano em {EffectParam1}% enquanto estiver no Postura [Special]
+Reduz o dano recebido em {EffectParam2}% enquanto na postura [Attack]"
+1408061,Forma indomável II,"Aumenta o dano em {EffectParam1}% enquanto estiver no Postura [Special]
+Reduz o dano recebido em {EffectParam2}% enquanto na postura [Attack]"

@@ -1,0 +1,118 @@
+﻿Id,Name,Desc,ViewParam
+40101,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount},
+40102,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount},
+40103,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount},
+40104,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount},
+40105,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount},
+40106,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount},
+40107,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount},
+40111,Usar elementos de animação {RequiredStackCount} (repetíveis),Usar elementos de animação {RequiredStackCount} (repetíveis),
+40112,Usar elementos de animação {RequiredStackCount} (repetíveis),Usar elementos de animação {RequiredStackCount} (repetíveis),
+40113,Usar elementos de animação {RequiredStackCount} (repetíveis),Usar elementos de animação {RequiredStackCount} (repetíveis),
+40201,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount},
+40202,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount},
+40203,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount},
+40204,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount},
+40205,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount},
+40206,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount},
+40207,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount},
+40211,Usar elementos de animação {RequiredStackCount} (repetíveis),Usar elementos de animação {RequiredStackCount} (repetíveis),
+40212,Usar elementos de animação {RequiredStackCount} (repetíveis),Usar elementos de animação {RequiredStackCount} (repetíveis),
+40213,Usar elementos de animação {RequiredStackCount} (repetíveis),Usar elementos de animação {RequiredStackCount} (repetíveis),
+40301,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount},
+40302,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount},
+40303,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount},
+40304,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount},
+40305,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount},
+40306,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount},
+40307,Usar elementos de animação {RequiredStackCount},Usar elementos de animação {RequiredStackCount},
+40311,Usar elementos de animação {RequiredStackCount} (repetíveis),Usar elementos de animação {RequiredStackCount} (repetíveis),
+40312,Usar elementos de animação {RequiredStackCount} (repetíveis),Usar elementos de animação {RequiredStackCount} (repetíveis),
+40313,Usar elementos de animação {RequiredStackCount} (repetíveis),Usar elementos de animação {RequiredStackCount} (repetíveis),
+40401,Use Abyss Battlefield para horas {ViewParam},Use Abyss Battlefield para horas {ViewParam},1
+40402,Use Abyss Battlefield para horas {ViewParam},Use Abyss Battlefield para horas {ViewParam},3
+40403,Use Abyss Battlefield para horas {ViewParam},Use Abyss Battlefield para horas {ViewParam},5
+40404,Use Abyss Battlefield para horas {ViewParam},Use Abyss Battlefield para horas {ViewParam},10
+40405,Derrote Abyss Battlefield Monstros,Derrotar {RequiredStackCount} Abyss Battlefield Monstros,3000
+40406,Derrote Abyss Battlefield Monstros,Derrotar {RequiredStackCount} Abyss Battlefield Monstros,10000
+40407,Valor Battlefield Zone {StringParam} (repetível),Valor Battlefield Zone {StringParam} (repetível),1
+40408,Valor Battlefield Zone {StringParam} (repetível),Valor Battlefield Zone {StringParam} (repetível),2
+40409,Valor Battlefield Zone {StringParam} (repetível),Valor Battlefield Zone {StringParam} (repetível),3
+40410,Valor Battlefield Zone {StringParam} (repetível),Valor Battlefield Zone {StringParam} (repetível),4
+40411,Valor Battlefield Zone {StringParam} (repetível),Valor Battlefield Zone {StringParam} (repetível),5
+40412,Fortitude Battlefield {StringParam} (Repetível),Fortitude Battlefield {StringParam} (Repetível),1
+40413,Fortitude Battlefield {StringParam} (Repetível),Fortitude Battlefield {StringParam} (Repetível),2
+40414,Fortitude Battlefield {StringParam} (Repetível),Fortitude Battlefield {StringParam} (Repetível),3
+40415,Fortitude Battlefield {StringParam} (Repetível),Fortitude Battlefield {StringParam} (Repetível),4
+40416,Fortitude Battlefield {StringParam} (Repetível),Fortitude Battlefield {StringParam} (Repetível),5
+40417,Zona de Campo de Batalha do Espírito de Luta {StringParam} (Repetível),Zona de Campo de Batalha do Espírito de Luta {StringParam} (Repetível),1
+40418,Zona de Campo de Batalha do Espírito de Luta {StringParam} (Repetível),Zona de Campo de Batalha do Espírito de Luta {StringParam} (Repetível),2
+40419,Zona de Campo de Batalha do Espírito de Luta {StringParam} (Repetível),Zona de Campo de Batalha do Espírito de Luta {StringParam} (Repetível),3
+40420,Zona de Campo de Batalha do Espírito de Luta {StringParam} (Repetível),Zona de Campo de Batalha do Espírito de Luta {StringParam} (Repetível),4
+40421,Zona de Campo de Batalha do Espírito de Luta {StringParam} (Repetível),Zona de Campo de Batalha do Espírito de Luta {StringParam} (Repetível),5
+40422,Rage Battlefield Zone {StringParam} (Repetível),Rage Battlefield Zone {StringParam} (Repetível),1
+40423,Rage Battlefield Zone {StringParam} (Repetível),Rage Battlefield Zone {StringParam} (Repetível),2
+40424,Rage Battlefield Zone {StringParam} (Repetível),Rage Battlefield Zone {StringParam} (Repetível),3
+40425,Rage Battlefield Zone {StringParam} (Repetível),Rage Battlefield Zone {StringParam} (Repetível),4
+40426,Rage Battlefield Zone {StringParam} (Repetível),Rage Battlefield Zone {StringParam} (Repetível),5
+40427,Zona de campo de batalha de combate feroz {StringParam} (repetível),Zona de campo de batalha de combate feroz {StringParam} (repetível),1
+40428,Zona de campo de batalha de combate feroz {StringParam} (repetível),Zona de campo de batalha de combate feroz {StringParam} (repetível),2
+40429,Zona de campo de batalha de combate feroz {StringParam} (repetível),Zona de campo de batalha de combate feroz {StringParam} (repetível),3
+40430,Zona de campo de batalha de combate feroz {StringParam} (repetível),Zona de campo de batalha de combate feroz {StringParam} (repetível),4
+40431,Zona de campo de batalha de combate feroz {StringParam} (repetível),Zona de campo de batalha de combate feroz {StringParam} (repetível),5
+40432,Zona de campo de batalha trêmula {StringParam} (repetível),Zona de campo de batalha trêmula {StringParam} (repetível),1
+40433,Zona de campo de batalha trêmula {StringParam} (repetível),Zona de campo de batalha trêmula {StringParam} (repetível),2
+40437,Doom Battlefield Zone {StringParam} (Repetível),Doom Battlefield Zone {StringParam} (Repetível),1
+40438,Doom Battlefield Zone {StringParam} (Repetível),Doom Battlefield Zone {StringParam} (Repetível),2
+40439,Doom Battlefield Zone {StringParam} (Repetível),Doom Battlefield Zone {StringParam} (Repetível),3
+40441,Classificação entre os 3 primeiros em contribuição para Abyss Battlefield chefe Kill (repetível),Classificação entre os 3 primeiros em contribuição para Abyss Battlefield chefe Kill (repetível),
+40501,Use Abyss Battlefield para horas {ViewParam},Use Abyss Battlefield para horas {ViewParam},1
+40502,Use Abyss Battlefield para horas {ViewParam},Use Abyss Battlefield para horas {ViewParam},3
+40503,Use Abyss Battlefield para horas {ViewParam},Use Abyss Battlefield para horas {ViewParam},5
+40504,Use Abyss Battlefield para horas {ViewParam},Use Abyss Battlefield para horas {ViewParam},10
+40505,Derrote Abyss Battlefield Monstros,Derrotar {RequiredStackCount} Abyss Battlefield Monstros,5000
+40506,Derrote Abyss Battlefield Monstros,Derrotar {RequiredStackCount} Abyss Battlefield Monstros,10000
+40507,Battlefield of Valor Zone 1 (Repetível),Battlefield of Valor Zone 1 (Repetível),1
+40508,Battlefield of Valor Zone 2 (Repetível),Battlefield of Valor Zone 2 (Repetível),2
+40509,Battlefield of Valor Zone 3 (Repetível),Battlefield of Valor Zone 3 (Repetível),3
+40510,Battlefield of Valor Zone 4 (Repetível),Battlefield of Valor Zone 4 (Repetível),4
+40511,Battlefield of Valor Zone 5 (Repetível),Battlefield of Valor Zone 5 (Repetível),5
+40512,Campo de Batalha da Fortitude Zone 1 (Repetível),Campo de Batalha da Fortitude Zone 1 (Repetível),1
+40513,Campo de Batalha da Fortitude Zone 2 (Repetível),Campo de Batalha da Fortitude Zone 2 (Repetível),2
+40514,Campo de Batalha da Fortitude Zone 3 (Repetível),Campo de Batalha da Fortitude Zone 3 (Repetível),3
+40515,Campo de Batalha da Fortitude Zone 4 (Repetível),Campo de Batalha da Fortitude Zone 4 (Repetível),4
+40516,Campo de Batalha da Fortitude Zone 5 (Repetível),Campo de Batalha da Fortitude Zone 5 (Repetível),5
+40517,Campo de Batalha do Espírito de Luta Zone 1 (Repetível),Campo de Batalha do Espírito de Luta Zone 1 (Repetível),1
+40518,Campo de Batalha do Espírito de Luta Zone 2 (Repetível),Campo de Batalha do Espírito de Luta Zone 2 (Repetível),2
+40519,Campo de batalha do Fighting Spirit Zone 3 (repetível),Campo de batalha do Fighting Spirit Zone 3 (repetível),3
+40520,Campo de batalha do Fighting Spirit Zone 4 (repetível),Campo de batalha do Fighting Spirit Zone 4 (repetível),4
+40521,Campo de batalha do Fighting Spirit Zone 5 (repetível),Campo de batalha do Fighting Spirit Zone 5 (repetível),5
+40522,Campo de Batalha da Fúria Zone 1 (Repetível),Campo de Batalha da Fúria Zone 1 (Repetível),1
+40523,Campo de batalha da raiva Zone 2 (repetível),Campo de batalha da raiva Zone 2 (repetível),2
+40524,Campo de batalha da raiva Zone 3 (repetível),Campo de batalha da raiva Zone 3 (repetível),3
+40525,Campo de batalha da raiva Zone 4 (repetível),Campo de batalha da raiva Zone 4 (repetível),4
+40526,Campo de Batalha da Raiva Zone 5 (Repetível),Campo de Batalha da Raiva Zone 5 (Repetível),5
+40527,Battlefield of Fierce Combat Zone 1 (Repetível),Battlefield of Fierce Combat Zone 1 (Repetível),1
+40528,Battlefield of Fierce Combat Zone 2 (Repetível),Battlefield of Fierce Combat Zone 2 (Repetível),2
+40529,Battlefield of Fierce Combat Zone 3 (Repetível),Battlefield of Fierce Combat Zone 3 (Repetível),3
+40530,Battlefield of Fierce Combat Zone 4 (Repetível),Battlefield of Fierce Combat Zone 4 (Repetível),4
+40531,Battlefield of Fierce Combat Zone 5 (Repetível),Battlefield of Fierce Combat Zone 5 (Repetível),5
+40532,Campo de Batalha do Pavor Zone 1 (Repetível),Campo de Batalha do Pavor Zone 1 (Repetível),1
+40533,Campo de Batalha do Pavor Zone 2 (Repetível),Campo de Batalha do Pavor Zone 2 (Repetível),2
+40534,Campo de Batalha do Pavor Zone 3 (Repetível),Campo de Batalha do Pavor Zone 3 (Repetível),3
+40535,Campo de Batalha do Pavor Zone 4 (Repetível),Campo de Batalha do Pavor Zone 4 (Repetível),4
+40536,Campo de Batalha do Pavor Zone 5 (Repetível),Campo de Batalha do Pavor Zone 5 (Repetível),5
+40537,Campo de Batalha da Perdição Zone 1 (Repetível),Campo de Batalha da Perdição Zone 1 (Repetível),1
+40538,Campo de Batalha da Perdição Zone 2 (Repetível),Campo de Batalha da Perdição Zone 2 (Repetível),2
+40539,Campo de Batalha da Perdição Zone 3 (Repetível),Campo de Batalha da Perdição Zone 3 (Repetível),3
+40540,Campo de Batalha da Perdição Zone 4 (Repetível),Campo de Batalha da Perdição Zone 4 (Repetível),4
+40541,Campo de Batalha da Perdição Zone 5 (Repetível),Campo de Batalha da Perdição Zone 5 (Repetível),5
+40542,Campo de Batalha da Perdição Zone 6 (Repetível),Campo de Batalha da Perdição Zone 6 (Repetível),6
+40601,Derrote Abyss Battlefield Monstros,Derrote monstros Abyss Battlefield (repetível),1
+40602,Derrote os monstros da torre de Giant,Derrote os monstros da torre de Giant (repetível),1
+40603,Derrote monstros da Terra Abandonada,Derrote {RequiredStackCount} Monstros na Terra Abandonada,1000
+40604,Derrote monstros da Terra Abandonada,Derrote {RequiredStackCount} Monstros na Terra Abandonada,3000
+40605,Derrote os monstros da torre de Giant,Derrote os monstros da torre de Giant {RequiredStackCount} vezes,1000
+40606,Derrote os monstros da torre de Giant,Derrote os monstros da torre de Giant {RequiredStackCount} vezes,3000
+40607,Limpar Grande Incursão,Limpar Grande Incursão {RequiredStackCount} Tempos,1
+40608,Limpar Grande Incursão,Limpar Grande Incursão {RequiredStackCount} Tempos,3

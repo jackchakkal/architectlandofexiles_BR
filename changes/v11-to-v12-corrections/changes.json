@@ -1,0 +1,696 @@
+{
+  "from": "v11-quality",
+  "to": "v12-corrections",
+  "files": [
+    {
+      "table": "AcquireAndUseViewGroup_Name.csv",
+      "changed_cells": 6,
+      "cells": [
+        {
+          "id": "3000",
+          "column": "Desc",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "7600",
+          "column": "Param",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "31900",
+          "column": "Param",
+          "before": "",
+          "after": "Recompensas de fase"
+        },
+        {
+          "id": "34800",
+          "column": "Param",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "108200",
+          "column": "Param",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "111000",
+          "column": "Param",
+          "before": "",
+          "after": "Invocar traje"
+        }
+      ]
+    },
+    {
+      "table": "Asset_Name.csv",
+      "changed_cells": 1,
+      "cells": [
+        {
+          "id": "24",
+          "column": "Param",
+          "before": "",
+          "after": "Comerciante"
+        }
+      ]
+    },
+    {
+      "table": "AuctionCategory_Name.csv",
+      "changed_cells": 1,
+      "cells": [
+        {
+          "id": "11",
+          "column": "Name",
+          "before": "",
+          "after": "Espécime de monstro"
+        }
+      ]
+    },
+    {
+      "table": "BadgeTask_Name.csv",
+      "changed_cells": 1,
+      "cells": [
+        {
+          "id": "1600",
+          "column": "Param",
+          "before": "",
+          "after": "Grátis"
+        }
+      ]
+    },
+    {
+      "table": "ClientString_Name.csv",
+      "changed_cells": 24,
+      "cells": [
+        {
+          "id": "CAMERA_MODE_ACTION",
+          "column": "Value",
+          "before": "",
+          "after": "Ação"
+        },
+        {
+          "id": "CAMERA_MODE_FREE",
+          "column": "Value",
+          "before": "",
+          "after": "Livre"
+        },
+        {
+          "id": "CHAT_CATEGORY_PUBLICGROUP",
+          "column": "Value",
+          "before": "",
+          "after": "Lista de grupos públicos"
+        },
+        {
+          "id": "CLAN_COFFER_ITEM_SELL_TYPE_EXTERNAL",
+          "column": "Value",
+          "before": "",
+          "after": "Externo"
+        },
+        {
+          "id": "COMMON_LATEST",
+          "column": "Value",
+          "before": "",
+          "after": "Recentes"
+        },
+        {
+          "id": "CRAFTINFO_TITLE2",
+          "column": "Value",
+          "before": "",
+          "after": "Lista de criação"
+        },
+        {
+          "id": "EVENT_ROULETTE_FREE",
+          "column": "Value",
+          "before": "",
+          "after": "Grátis"
+        },
+        {
+          "id": "ITEM_DISASSEMBLE_COMMON",
+          "column": "Value",
+          "before": "",
+          "after": "Desmontar"
+        },
+        {
+          "id": "PATCH_POPUP_TITLE",
+          "column": "Value",
+          "before": "",
+          "after": "Aviso de atualização"
+        },
+        {
+          "id": "QUICKBUTTON_DELETE",
+          "column": "Value",
+          "before": "",
+          "after": "Desequipar"
+        },
+        {
+          "id": "RECORD_GIANTPIECE_DISCOVEREDNOT",
+          "column": "Value",
+          "before": "",
+          "after": "Não registrado"
+        },
+        {
+          "id": "REPLICASEED_DESTROY",
+          "column": "Value",
+          "before": "",
+          "after": "Destruir"
+        },
+        {
+          "id": "RESTRICT_DETAIL",
+          "column": "Value",
+          "before": "",
+          "after": "Detalhes da restrição"
+        },
+        {
+          "id": "SERVER_SELECT_RECOMMENDED",
+          "column": "Value",
+          "before": "",
+          "after": "Recomendado"
+        },
+        {
+          "id": "SHOP_PASSPACKAGE_FREE",
+          "column": "Value",
+          "before": "",
+          "after": "Grátis"
+        },
+        {
+          "id": "SHOP_PURCHASE_PRICE_FREE",
+          "column": "Value",
+          "before": "",
+          "after": "Grátis"
+        },
+        {
+          "id": "SOCIALACTION_POSE",
+          "column": "Value",
+          "before": "",
+          "after": "Pose"
+        },
+        {
+          "id": "VEHICLE_FIRST_GAIN_TEXT",
+          "column": "Value",
+          "before": "",
+          "after": "Primeira obtenção"
+        },
+        {
+          "id": "SCREENSHOT_CHARACTER_POSE",
+          "column": "Value",
+          "before": "",
+          "after": "Pose"
+        },
+        {
+          "id": "SCREENSHOT_OPTION_SHOWTYPE",
+          "column": "Value",
+          "before": "",
+          "after": "Exibição"
+        },
+        {
+          "id": "ELITEDUNGEON_DUNGEONENTER_ENTERCOST_NONE",
+          "column": "Value",
+          "before": "",
+          "after": "Grátis"
+        },
+        {
+          "id": "RESONANCE_TAB_LINE",
+          "column": "Value",
+          "before": "",
+          "after": "Linha"
+        },
+        {
+          "id": "CLASH_BACKGROUNDMODE_HISTORY_TITLE",
+          "column": "Value",
+          "before": "",
+          "after": "Resultado do combate automático"
+        },
+        {
+          "id": "BATTLEFIELD_TOURNAMENT_PREDICTION_ROUND_SUBMIT_COMPLETE",
+          "column": "Value",
+          "before": "",
+          "after": "Enviado"
+        }
+      ]
+    },
+    {
+      "table": "CollectionCategory_Name.csv",
+      "changed_cells": 1,
+      "cells": [
+        {
+          "id": "7",
+          "column": "Name",
+          "before": "",
+          "after": "Comerciante"
+        }
+      ]
+    },
+    {
+      "table": "Costume_Name.csv",
+      "changed_cells": 5,
+      "cells": [
+        {
+          "id": "210550014",
+          "column": "Param",
+          "before": "",
+          "after": "Celestial Ring's"
+        },
+        {
+          "id": "220550014",
+          "column": "Param",
+          "before": "",
+          "after": "Celestial Ring's"
+        },
+        {
+          "id": "230550014",
+          "column": "Param",
+          "before": "",
+          "after": "Celestial Ring's"
+        },
+        {
+          "id": "240550014",
+          "column": "Param",
+          "before": "",
+          "after": "Celestial Ring's"
+        },
+        {
+          "id": "250550014",
+          "column": "Param",
+          "before": "",
+          "after": "Celestial Ring's"
+        }
+      ]
+    },
+    {
+      "table": "Dialog_Name.csv",
+      "changed_cells": 1,
+      "cells": [
+        {
+          "id": "220444030060",
+          "column": "Text",
+          "before": "<Yellow>Ingel ordena que você avance com a \"Grande Causa\" do Paradise Advent Society.",
+          "after": "<Yellow>Ingel ordena que você avance com a “Grande Causa” do Paradise Advent Society.</>"
+        }
+      ]
+    },
+    {
+      "table": "Effect_Name.csv",
+      "changed_cells": 6,
+      "cells": [
+        {
+          "id": "1352",
+          "column": "Name",
+          "before": "",
+          "after": "Imobilização em cadeia"
+        },
+        {
+          "id": "1353",
+          "column": "Name",
+          "before": "",
+          "after": "Imobilização em cadeia"
+        },
+        {
+          "id": "1354",
+          "column": "Name",
+          "before": "",
+          "after": "Imobilização em cadeia"
+        },
+        {
+          "id": "5403",
+          "column": "Name",
+          "before": "",
+          "after": "Encadeamento"
+        },
+        {
+          "id": "30019000",
+          "column": "SummaryEffectDescription",
+          "before": "",
+          "after": "Direcionado"
+        },
+        {
+          "id": "30019004",
+          "column": "SummaryEffectDescription",
+          "before": "",
+          "after": "Direcionado"
+        }
+      ]
+    },
+    {
+      "table": "EventMission_Name.csv",
+      "changed_cells": 1,
+      "cells": [
+        {
+          "id": "10820",
+          "column": "PageName",
+          "before": "",
+          "after": "Evento de melhoria do chaveiro"
+        }
+      ]
+    },
+    {
+      "table": "EventTab_Name.csv",
+      "changed_cells": 1,
+      "cells": [
+        {
+          "id": "1082",
+          "column": "TabName",
+          "before": "",
+          "after": "Evento de melhoria do chaveiro"
+        }
+      ]
+    },
+    {
+      "table": "Faction_Name.csv",
+      "changed_cells": 1,
+      "cells": [
+        {
+          "id": "0",
+          "column": "Name",
+          "before": "",
+          "after": "Comerciante"
+        }
+      ]
+    },
+    {
+      "table": "FactionLevelShortcut_Name.csv",
+      "changed_cells": 5,
+      "cells": [
+        {
+          "id": "1001",
+          "column": "Param",
+          "before": "",
+          "after": "Comerciante"
+        },
+        {
+          "id": "1002",
+          "column": "Param",
+          "before": "",
+          "after": "Comerciante"
+        },
+        {
+          "id": "1003",
+          "column": "Param",
+          "before": "",
+          "after": "Comerciante"
+        },
+        {
+          "id": "1005",
+          "column": "Param",
+          "before": "",
+          "after": "Comerciante"
+        },
+        {
+          "id": "1006",
+          "column": "Param",
+          "before": "",
+          "after": "Comerciante"
+        }
+      ]
+    },
+    {
+      "table": "Gadget_Name.csv",
+      "changed_cells": 3,
+      "cells": [
+        {
+          "id": "10231112",
+          "column": "Name",
+          "before": "",
+          "after": "Estátua"
+        },
+        {
+          "id": "10150304",
+          "column": "Name",
+          "before": "",
+          "after": "Estátua"
+        },
+        {
+          "id": "10150703",
+          "column": "Name",
+          "before": "",
+          "after": "Expositor"
+        }
+      ]
+    },
+    {
+      "table": "GadgetInteraction_Name.csv",
+      "changed_cells": 1,
+      "cells": [
+        {
+          "id": "1225",
+          "column": "Desc",
+          "before": "",
+          "after": "Exibir"
+        }
+      ]
+    },
+    {
+      "table": "Item_Name.csv",
+      "changed_cells": 3,
+      "cells": [
+        {
+          "id": "9200606",
+          "column": "Desc",
+          "before": "Use para escolher Costume Summon Chest ou Phantom Weapon Summon Chest de {Param3}★.",
+          "after": "Use para selecionar e obter um Costume Summon Chest de {Param3} estrelas ou um Phantom Weapon Summon Chest de {Param3} estrelas."
+        },
+        {
+          "id": "9200810",
+          "column": "Desc",
+          "before": "Use para escolher Costume Summon Chest ou Phantom Weapon Summon Chest de {Param3}★.",
+          "after": "Use para selecionar e obter um Costume Summon Chest de {Param3} estrelas ou um Phantom Weapon Summon Chest de {Param3} estrelas."
+        },
+        {
+          "id": "9200866",
+          "column": "Desc",
+          "before": "Use para escolher Costume Summon Chest ou Phantom Weapon Summon Chest de {Param3}★.",
+          "after": "Use para selecionar e obter um Costume Summon Chest de {Param3} estrelas ou um Phantom Weapon Summon Chest de {Param3} estrelas."
+        }
+      ]
+    },
+    {
+      "table": "OperationMainType_Name.csv",
+      "changed_cells": 1,
+      "cells": [
+        {
+          "id": "600",
+          "column": "GroupName",
+          "before": "",
+          "after": "Esquiva"
+        }
+      ]
+    },
+    {
+      "table": "Option_Name.csv",
+      "changed_cells": 1,
+      "cells": [
+        {
+          "id": "3005",
+          "column": "TypeParam2",
+          "before": "",
+          "after": "Livre"
+        }
+      ]
+    },
+    {
+      "table": "PassMission_Name.csv",
+      "changed_cells": 20,
+      "cells": [
+        {
+          "id": "2001001",
+          "column": "Name",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "2001002",
+          "column": "Name",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "2001003",
+          "column": "Name",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "2001004",
+          "column": "Name",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "2001005",
+          "column": "Name",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "2001006",
+          "column": "Name",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "2001007",
+          "column": "Name",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "2001008",
+          "column": "Name",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "2001009",
+          "column": "Name",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "2001010",
+          "column": "Name",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "2001011",
+          "column": "Name",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "2001012",
+          "column": "Name",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "2001013",
+          "column": "Name",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "2001014",
+          "column": "Name",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "2001015",
+          "column": "Name",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "2001016",
+          "column": "Name",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "2001017",
+          "column": "Name",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "2001018",
+          "column": "Name",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "2001019",
+          "column": "Name",
+          "before": "",
+          "after": "Invocar traje"
+        },
+        {
+          "id": "2001020",
+          "column": "Name",
+          "before": "",
+          "after": "Invocar traje"
+        }
+      ]
+    },
+    {
+      "table": "ShopTab_Name.csv",
+      "changed_cells": 2,
+      "cells": [
+        {
+          "id": "110001",
+          "column": "TabName",
+          "before": "",
+          "after": "Recomendados"
+        },
+        {
+          "id": "400100",
+          "column": "TabName",
+          "before": "",
+          "after": "Invocar traje"
+        }
+      ]
+    },
+    {
+      "table": "Skill_Name.csv",
+      "changed_cells": 1,
+      "cells": [
+        {
+          "id": "1351",
+          "column": "Name",
+          "before": "",
+          "after": "Imobilização em cadeia"
+        }
+      ]
+    },
+    {
+      "table": "SkillAction_Name.csv",
+      "changed_cells": 2,
+      "cells": [
+        {
+          "id": "3001410",
+          "column": "Name",
+          "before": "",
+          "after": "Skill 2 - Início"
+        },
+        {
+          "id": "3100004",
+          "column": "Name",
+          "before": "",
+          "after": "Skill 2 - Início"
+        }
+      ]
+    },
+    {
+      "table": "SkillDescription_Name.csv",
+      "changed_cells": 2,
+      "cells": [
+        {
+          "id": "13511",
+          "column": "Title",
+          "before": "",
+          "after": "Encadeamento"
+        },
+        {
+          "id": "15054013",
+          "column": "Title",
+          "before": "",
+          "after": "Encadeamento"
+        }
+      ]
+    },
+    {
+      "table": "TutorialWalkthrough_Name.csv",
+      "changed_cells": 1,
+      "cells": [
+        {
+          "id": "204702",
+          "column": "Desc",
+          "before": "◎ Uma Grande Incursão refere-se a um fenômeno massivo de Incursão que ocorre <Orange> de acordo com um cronograma definido</>.\r\n ◎ Após a ocorrência, uma placa de status QZ <Orange></> torna-se visível para todos os Aventureiros dentro dos Renegados Land.\r\n◎ Quando uma Grande Incursão começa, múltiplas <Orange>Incursões com vários níveis de progressão</> se manifestam em toda a Terra Abandonada.\r\n◎ Cada uma será imbuída de um dos seguintes atributos: <Orange>Tempestade</>, <Orange>Relâmpago</> ou <Orange>Chama</>.</>",
+          "after": "◉ Uma Incursão Grandiosa é um fenômeno de Incursão de grande escala que ocorre <Orange>em horários predefinidos</>.\r\n◉ Quando acontece, um <Orange>aviso</> e um <Orange>quadro de status</> ficam visíveis para todos os Aventureiros em Forsaken Land.\r\n◉ Quando uma Incursão Grandiosa começa, várias <Orange>Incursões com diferentes níveis de progressão</> surgem por Forsaken Land.\r\n◉ Cada uma recebe um dos seguintes atributos: <Orange>Tempestade</>, <Orange>Relâmpago</> ou <Orange>Chama</>."
+        }
+      ]
+    }
+  ]
+}

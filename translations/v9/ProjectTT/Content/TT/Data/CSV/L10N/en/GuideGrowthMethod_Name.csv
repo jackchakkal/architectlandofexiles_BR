@@ -1,0 +1,131 @@
+﻿Id,GrowthMethodName,GrowthMethodDesc
+100101,Subir de nível,"<Orange>Nível de personagem</> serve como base para seu crescimento que aumenta à medida que você avança em diversos conteúdos.
+Ganhe EXP completando <Orange>Quests</>, <Orange>Missões de arquivo</> e <Orange>caçar monstros</>.
+Cada subida de nível aumenta as estatísticas básicas do seu personagem."
+100201,Efeitos de avanço de classe,"<Orange>Advancement</> permite que você desbloqueie o verdadeiro potencial da sua classe.
+Uon avançando, o <Orange>stats</> do seu personagem aumentará e você terá acesso a novos <Orange>habilidades</>.
+Você deve atender às condições de nível <Orange> necessárias</> e completar as missões de avanço <Orange> específicas</>."
+100202,Postura,"Após seu 2º Avanço de Classe, você desbloqueará <Orange>Especializados</> e <Orange>Posturas de Batalha</>, expandindo significativamente suas opções táticas em combate."
+100301,Célula de atualização,"<Orange>Awakening</> é um sistema de progressão onde você desbloqueia e desenvolve <Orange>Cells</> infundidas com várias estatísticas.
+Desbloquear essas células progressivamente concede estatísticas.
+Uma vez em cada célula uma página for desbloqueada, você poderá prosseguir com <Orange>Awakening</>."
+100302,Efeito de despertar,"Quando as notas das células mudam por meio do Despertar, as estatísticas de bônus são aplicadas.
+O <Orange>Efeito geral do despertar</> também é ativado com base na soma total de todas as notas das células naquela página.
+O despertar consiste em várias páginas."
+100401,Atualização de ressonância,"<Orange>Ressonância</> é um sistema de progressão que concede bônus de estatísticas mais altos conforme você avança nos estágios.
+À medida que seu <Orange>Intensidade de ressonância</> aumenta, seus efeitos principais são amplificado.
+Ao longo do caminho, <Orange>Vestiges</>, <Orange>Fragments</> e <Orange>Forms</> serão ativados, concedendo bônus estatísticas."
+100601,Aumento de nível,"<Orange>Tuning</> permite que você desbloqueie e desenvolva registros para aumentar as estatísticas do seu personagem.
+Uuse materiais especializados para <Orange>level</>-los para cima, 
+ e cada vez que o nível sobe, um slot de registro <Orange></> é desbloqueado um por um, concedendo estatísticas adicionais."
+100602,Transcender,"Ao atingir o nível máximo para cada grau, você pode avançar para o próximo grau através de <Orange>Transcendence</>.
+Desbloquear slots de registro no próximo grau concederá estatísticas ainda mais altas."
+200101,Configuração e aprimoramento de equipamento,"<Orange>Armas</> consistem em uma <Orange>Arma primária</>, <Orange>Equipamento secundário I</> e <Orange>Equipamento Secundário II</>,
+e equipá-los diretamente aumenta as capacidades de combate do seu personagem.
+Cada peça de equipamento pode ser progredida através <Orange>Enhancement</>
+ — quanto maior o <Orange>Grade</> e <Orange>Tier</>, maiores serão as estatísticas que você pode obter."
+200102,Infundir,"<Orange>Infusion</> permite que você imbua equipamentos com estatísticas adicionais para aumentar seu poder.
+Embora os tipos de slots disponíveis variem dependendo da peça de equipamento,
+as estatísticas obtidas são determinadas pelo tipo e grau do equipamento. <Orange>Núcleos de infusão</> usados.
+Você também pode usar <Orange>Auto-Infuse</> selecionando as estatísticas desejadas."
+200201,Configuração e aprimoramento de equipamento,"<Orange>Armor</> compreende o <Orange>Helm</>, <Orange>Spaulders</>, <Orange>Peitoral</>, <Orange>Polainas</>, <Orange>Cinto</>, <Orange>Luvas</>, <Orange>Sapatos</> e <Orange>Capa</>, 
+projetado para aumentar a capacidade de sobrevivência e combate do seu personagem destreza.
+Cada peça de armadura pode ser atualizada por meio de <Orange>Aprimoramento</>—
+quanto maior o <Orange>Grau</> e <Orange>Tier</>, maiores serão as estatísticas que você poderá obter."
+200202,Infundir,"<Orange>Infusion</> permite que você imbua equipamentos com estatísticas adicionais para aumentar seu poder.
+Embora os tipos de slots disponíveis variem dependendo da peça de equipamento,
+as estatísticas obtidas são determinadas pelo tipo e grau do equipamento. <Orange>Núcleos de infusão</> usados.
+Você também pode usar <Orange>Auto-Infuse</> selecionando as estatísticas desejadas."
+200301,Configuração e aprimoramento de equipamento,"<Orange>Acessórios</> consistem em <Orange>Colares</>, <Orange>Brincos</>, <Orange>Anéis</> e <Orange>Pulseiras</>,
+fornecendo uma ampla variedade de estatísticas de bônus.
+Cada acessório pode ser atualizado através <Orange>Aprimoramento</>
+ - quanto maior for <Orange>Grade</> e <Orange>Tier</>, maiores serão as estatísticas que você pode obter."
+200302,Infundir,"<Orange>Infusion</> permite que você imbua equipamentos com estatísticas adicionais para aumentar seu poder.
+Embora os tipos de slots disponíveis variem dependendo da peça de equipamento,
+as estatísticas obtidas são determinadas pelo tipo e grau do equipamento. <Orange>Núcleos de infusão</> usados.
+Você também pode usar <Orange>Auto-Infuse</> selecionando as estatísticas desejadas."
+200401,Estatísticas e progressão equipadas,"<Orange>Relíquias Sagradas</> são elementos de crescimento equipáveis que conferem estatísticas especiais.
+Cada Relíquia Sagrada pode ser equipada com base em seu tipo distinto,
+com suas estatísticas aplicadas diretamente ao seu personagem.
+Além disso, você pode atualizar seu nível por meio de <Orange>Avanço</>—
+quanto mais alto o nível, mais potentes eles se tornam, desbloqueando estatísticas adicionais ao atingir um nível específico."
+300101,Restaurar memória,"<Orange>Memórias de Gudua</> é um recurso exclusivo onde você utiliza <Orange>Fragmentos de memória</> para restaurar memórias perdidas e ganhar estatísticas.
+Maiores bônus de estatísticas são concedidos com base no O nível de restauração de <Orange>Factor</>,
+ e o tipo necessário de fragmento de memória variam de acordo com o fator."
+300201,Progressão do cartão,"<Orange>Graça das constelações</> é um recurso distinto centrado na coleta e equipamento de cartas infundidas com o poder das estrelas.
+Equipar uma carta como <Orange>Guardian Star</> aplica suas estatísticas ao seu personagem, 
+ e você pode <Orange> subir de nível </> e <Orange> transcender </> essas cartas para torná-las ainda mais poderosas."
+300202,Efeito de nebulosa,"À medida que você coleta e desenvolve suas cartas, efeitos exclusivos de nebulosa <Orange></> são ativados para conceder estatísticas de bônus. 
+Qualquer cartão excedente pode ser utilizado para <Orange>Fusion</>."
+300301,Cristas e Powerstones,"<Orange>Crest of the Ancients</> é um sistema de atualização projetado para aumentar suas estatísticas, fortalecendo seus brasões e <Orange>Powerstones</>.
+<Orange>Nivele</> seus Crests para obter estatísticas maiores,
+e equipe Powerstones para aplicar mais estatísticas de bônus."
+300302,Powerstone Upgrade,"Pedras de energia podem ser significativamente atualizadas através de <Orange>Refinamento</> e <Orange>Avaliação</>.
+<Orange>Desmonte</> quaisquer Powerstones desnecessários para usar como materiais valiosos de crescimento."
+300401,Ascensão e Habilidades Potenciais,"Mounts permitem que você aumente as estatísticas do seu personagem através de <Orange>Ascension</> e <Orange>Potential Habilidades</>.
+<Orange>Ascenda</> suas montarias para ganhar recompensas de estatísticas,
+e <Orange>Efeito de Ascensão Geral</> é ativado com base em sua contagem cumulativa de Ascensão.
+Você também pode conceder <Orange>Habilidades potenciais</> em montarias ascendidas,
+que se aplicam como <Orange>Estatísticas próprias</>."
+300402,Estatísticas equipadas,"Cada montaria possui suas próprias <Orange>Estatísticas equipadas</>.
+Essas estatísticas permanecem ativas enquanto a montaria estiver equipada, permitindo que você selecione estrategicamente a montaria ideal dependendo da situação."
+300501,Ascensão e Habilidades Potenciais,"Gliders permite que você aumente as estatísticas do seu personagem através de <Orange>Ascension</> e <Orange>Potential Habilidades</>.
+<Orange>Ascenda</> suas montarias para ganhar recompensas de estatísticas,
+e <Orange>Efeito de Ascensão Geral</> é ativado com base em sua contagem cumulativa de Ascensão.
+Você também pode conceder <Orange>Habilidades potenciais</> a planadores ascendidos,
+que se aplicam como <Orange>Estatísticas próprias</>."
+300502,Estatísticas equipadas,"Cada planador possui suas próprias estatísticas exclusivas <Orange>Equipped Stats</>.
+Essas estatísticas permanecem ativas enquanto a montaria estiver equipada,
+permitindo que você selecione estrategicamente a montaria ideal dependendo da situação."
+300503,Descida Skill,"Equipar um planador <Orange>4-star</> ou superior desbloqueia o acesso à habilidade de descida <Orange></>.
+Cada planador apresenta uma descida distinta skill,
+dando a você uma vantagem tática baseada no ambiente de combate <Orange></>.
+Embora o Descent skills possa ser usado durante o vôo, eles não podem ser implantados em altitudes excessivamente altas."
+300601,Efeitos de pesquisa,"Revise o atual <Orange>Status de pesquisa</> para cada guilda e <Orange>filtro</> a lista de pesquisa com base em critérios específicos.
+Através da pesquisa <Orange></> disponível em cada guilda, você pode visualizar <Orange>efeitos</> e <Orange>rewards</>."
+300701,Efeitos Equipados e Próprios,"<Orange>Trajes</> fornecem aparências e estatísticas distintas para capacitar ainda mais seu personagem.
+Equipar uma fantasia aplica suas <Orange>Equipped Stats específicas e Habilidades</>,
+enquanto certas <Orange>Estatísticas próprias</> permanecem ativas independentemente de estar equipado."
+300702,Fusível,"Trajes duplicados podem ser usados ​​como materiais <Orange>Fusion</>,
+oferecendo a chance de obter um traje da próxima classificação por estrelas com taxas variando de acordo com o grau."
+300703,Galeria do Imperador,"Para trajes de 3 estrelas ou superior, você pode optar por desbloquear estatísticas extras através de <Orange>Galeria do Imperador</>,
+ou simplesmente usar quaisquer trajes restantes para <Orange>Fusion</>."
+300801,Efeitos Equipados e Próprios,"<Orange>Armas Fantasmas</> fornecem aparências e estatísticas distintas para capacitar ainda mais seu personagem.
+Equipar uma arma fantasma aplica suas estatísticas específicas <Orange>Equipadas e Habilidades</>,
+e você também pode obter <Orange>Efeitos próprios</> com base no número de armas possuídas por classificação por estrela."
+300802,Fusível,"Armas fantasmas duplicadas podem ser usadas como materiais <Orange>Fusion</>,
+oferecendo a chance de obter uma arma fantasma do próximo grau de estrela com taxas variando de acordo com o grau."
+300803,Arsenal do Imperador,"Para armas fantasmas de 3 estrelas ou superiores de sua classe, você pode optar por desbloquear estatísticas extras por meio de <Orange>Arsenal do Imperador</>."
+300901,Ativo Skill Atualização,"Atualize seu ativo skills através de <Orange> nivelando </> e <Orange>transcendência</>.
+Atualizar seu skills aumenta seu desempenho geral desempenho, 
+ e <Orange> Efeito de nível total Skill</> é aplicado com base na soma <Orange> de seus níveis skill</>."
+300902,Desbloqueio passivo Skill,"<Orange>Habilidades passivas</> fornecem <Orange>aumentos contínuos</> às habilidades do seu personagem.
+O avanço de classe expande a variedade de skills passivos que você pode obtenha,
+e você pode desbloqueá-los usando <Orange>Elixires</>."
+100701,Efeitos do chaveiro,"Treine ou aprimore seus chaveiros para atualizar seus efeitos de chaveiro <Orange></> aumentando suas estatísticas e skills.
+Equipe-os para utilizar essas estatísticas e skills em combate. Convocar um chaveiro ativa os efeitos do chaveiro convocado no campo.
+Obter ou ascender um chaveiro ativa automaticamente os efeitos de vínculo e os efeitos do Anel de Harmonia."
+100702,Fusão do chaveiro,"<Orange>Keyring Fusion</> consome 4 chaveiros do mesmo grau base para obter um chaveiro de grau superior.
+Mesmo se a fusão falhar, você receberá um chaveiro do mesmo grau. Use o recurso <Orange>Fuse All</> para consumir rapidamente chaveiros de nível inferior."
+100703,Treinamento de chaveiro,"<Orange>Treinamento de chaveiro</> é um sistema de progressão garantida que aumenta o nível do seu chaveiro passo a passo.
+Usando chaveiros da mesma classificação dos materiais, você pode obter uma taxa de sucesso de 100% para avançar para o próximo nível, desde que atenda aos requisitos.
+Treinar mais depois de atingir o T3 aumentará o Star Rank e redefinirá o nível de volta para T1."
+100704,Ascensão do limite do chaveiro,"Consumir <Orange>Keyrings duplicados</> para tentar a Ascensão.
+Limit ascender seus Keyrings para atualizar seus Special e Support skills.
+Limite de ascensão está vinculado ao Sistema <Orange>Bond</> para conceder estatísticas de títulos."
+100705,Bond,"Um sistema de progressão que permite aos jogadores coletar chaveiros e atualizá-los através da Ascensão para ganhar estatísticas.
+Adquira e <Orange>Ascenda</> seus <Orange>Keyrings</> para ativar <Orange>Bonds</>.
+Actived Bonds concedem permanentemente <Orange>estatísticas no nível da conta</>."
+100706,Anel de Harmonia,"Um sistema de progressão que concede estatísticas atualizando combinações de chaveiros organizadas por tema.
+Registre <Orange>Keyrings</> no <Orange>Anel de Harmonia</> para aumentar permanente stats.
+Colete ou treine chaveiros registrados para aumentar sua nota combinada para estatísticas de bônus."
+100802,Não adquirido,"Ganhe títulos <Orange></> completando um troféu específico ou alcançando <Orange>ranks</>.
+Esses também podem ser adquiridos via <Orange>itens</> ou como <Orange>recompensas</>.
+Você só pode <Orange>equipar</> um dos <Orange>titles</> que você possui por vez."
+100803,As estatísticas,"Cada <Orange>title</> tem suas <Orange>Estatísticas próprias</>.
+<Orange>Stats</> instantaneamente aplicam-se ao personagem ao adquirir um título <Orange></>,
+e são <Orange>perdidos</> se o título <Orange></> for removido."
+301001,Não adquirido,"<Orange>Decorações</> pode ser obtido através de vários conteúdos.
+Se você receber um item que já possui, receberá uma recompensa diferente <Orange> em vez disso</>.
+Você só pode <Orange>equipar</> um <Orange>Decoração</> de propriedade por vez."
+301002,As estatísticas,Coletando <Orange>Decorações</> para aumentar sua quantidade <Orange> de propriedade</> concede <Orange>Efeitos próprios</> com base na classificação estrela.

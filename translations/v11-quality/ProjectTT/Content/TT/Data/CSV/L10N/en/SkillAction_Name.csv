@@ -1,0 +1,331 @@
+﻿Id,Name
+11,Golpe básico do guerreiro 1
+12,ataque guerreiro 2
+13,guerreiro bateu 3
+14,Média de acertos do guerreiro 4
+21,Ataque básico do mago 1
+22,Ataque básico do mago 2
+23,Ataque básico do mago 3
+24,Ataque básico do mago 4
+31,Ataque Básico do Sacerdote de Batalha 1
+32,Ataque Básico do Sacerdote de Batalha 2
+33,Ataque Básico do Sacerdote de Batalha 3
+34,Ataque Básico do Sacerdote de Batalha 4
+41,Assassino atingiu 1
+42,assassino atingiu 2
+43,assassino atingiu 3
+44,Média de acertos de assassinos 4
+101,evite testar antes
+102,teste esquivar para a esquerda
+103,teste esquivar para a direita
+104,esquivar-se para o final do teste
+511,Guerreiro Dash_Front
+512,Guerreiro Dash_Left
+513,Guerreiro Dash_Right
+514,Guerreiro Dash_Back
+521,Assistente Dash_Front
+522,Assistente Dash_Left
+523,Assistente Dash_Right
+524,Assistente Dash_Back
+531,Sacerdote de Batalha Dash_Front
+532,Sacerdote de Batalha Dash_Left
+533,Sacerdote de Batalha Dash_Right
+534,Sacerdote de Batalha Dash_Back
+541,Assassino Dash_Front
+542,Assassino Dash_Left
+543,Assassino Dash_Right
+544,Assassino Dash_Back
+551,Caçador de feras demoníacas dash_front
+552,Caçador de Demônios Dash_Left
+553,Besta demoníaca caçador dash_right
+554,Caçador de feras demoníacas dash_back
+1001,Corte da Tempestade
+1011,Terremoto
+1021,Earth Shatter
+1101,Corrida de Lâmina
+1101,Corrida de Lâmina
+1261,marca de espada
+1351,Restrição de corrente (alvo)
+1361,Leap Slash (Jump)
+1361,Leap Slash (Jump)
+1451,O rugido da espada (alvo)
+2011,Explosão de espaço
+2021,Flash
+2301,Compressão de espaço
+2351,pilar de gelo
+3201,Onda de Vento
+3251,cura
+3301,Twisted Fate
+4001,corte o coração
+4011,execução
+4101,Shadow Surge (Teletransporte)
+4101,Shadow Surge (Teletransporte)
+4101,Shadow Surge (Teletransporte)
+4101,Shadow Surge (Teletransporte)
+4301,tempestade
+5001,rajada de fogo
+5011,setas de supressão
+5201,chuva de flechas
+57001,Corrida de natação
+1001605,Rock Golem Habilidade Média01 - Ataque Giratório
+1001705,Rock Golem Grande Habilidade01 - Ataque Giratório
+1002503,Steel Bison Médio - Fugitivo
+1002603,Steel Bison Grande - Fugitivo
+1040505,Habilidade gigante ignorante 2 - Rush
+2000007,Onda de Vento
+2000008,Twisted Fate (para introdução)
+2000010,Lada Dash_Front
+2000011,Lada Dash_Left
+2000012,Lada Dash_Right
+2000013,Lada Dash_Back
+2000108,Introdução Coon Beast Hunter Dash_Left
+2000109,Introdução Coon Beast Hunter Dash_Right
+2000110,Introdução Coon Beast Hunter Dash_Back
+2000205,corte o coração
+2000207,Shadow Surge (Teletransporte)
+2000207,Shadow Surge (Teletransporte)
+2000207,Shadow Surge (Teletransporte)
+2000207,Shadow Surge (Teletransporte)
+2000209,tempestade
+2000210,Azran Dash_Front
+2000211,Azran Dash_Left
+2000212,Azran Dash_Right
+2000213,Azran Dash_Back
+2000310,Beretta Dash_Front
+2000311,Beretta Dash_Left
+2000312,Beretta Dash_Right
+2000313,Beretta Dash_Back
+2000405,Ragnar Dash Frente
+2000406,Ragnar Dash Esquerda
+2000407,Ragnar Dash Direita
+2000408,Ragnar Dash Atrás
+3000007,Corredor infinito - Morcego gigante: Rush
+3000102,Tamanduá – Ataque normal 2 vezes
+3000103,Tamanduá - Habilidade nº 1
+3000103,Tamanduá - Habilidade nº 1
+3000104,Tamanduá - Habilidade 2
+3000107,Corredor infinito - Ataque de habilidade Tamanduá 4 vezes - Rush
+3000192,Tamanduá – Ataque normal 2 vezes
+3000194,Tamanduá - Habilidade nº 1
+3000194,Tamanduá - Habilidade nº 1
+3000195,Tamanduá - Habilidade 2
+3000205,Ataque de Habilidade #8 – Carga
+3000304,Toca de Habilidade - Buffer
+3000305,Toca de Habilidade - Buffer
+3000305,Toca de Habilidade
+3000306,Ataque de Habilidade #4 – Rolagem (esquerda)
+3000307,Ataque de Habilidade 4-1 – Rolando (direita)
+3000309,Ataque de Habilidade 6 - Carga
+3000317,Ataque normal: 4 golpes de cauda
+3000403,Habilidade de corte rotativo do chefe Kuduru nº 1
+3000403,Habilidade de corte rotativo do chefe Kuduru nº 1
+3000406,Habilidade de Espera 3 do Ataque Impiedoso do Chefe Marauder
+3000406,Habilidade de Salto Ataque Impiedoso do Chefe Marauder #3
+3000411,Habilidade de corte rotativo do chefe Kuduru nº 1
+3000411,Habilidade de corte rotativo do chefe Kuduru nº 1
+3000504,Escola Secundária de Cheolsan
+3000504,Escola Secundária de Cheolsan
+3000606,Habilidade #7 – RootMotion
+3000608,Habilidade #7 – RootMotion
+3000704,Rainha Vespa Vampira Esperando
+3000704,rainha vespa vampiro pulando
+3000707,Vampiro Vespa Rainha Voando
+3000709,Rainha Vespa Vampira Dash
+3000805,Habilidade nº 3 - Fúria
+3000904,ataque traseiro
+3000905,Puxar
+3001104,Ataque de habilidade 1 – Salte para frente e agarre – Espere
+3001104,Ataque de Habilidade #1 – Salte para frente e garra – Salte
+3001105,Ataque de Habilidade 4 - 10 Rush
+3001106,Ataque de Habilidade #6 – Contaminação em forma de leque de cuspe
+3001108,Ataque de Habilidade #2 – Pule para trás e dê um passo para trás
+3001108,Ataque de Habilidade #2 – Pule para trás e dê um passo para trás
+3001120,Ataque de Habilidade #9 – Carga de Aparar
+3001205,Teletransporte de Habilidade - Buffer
+3001205,Teletransporte de habilidade
+3001207,Teletransporte de Habilidade - Buffer
+3001207,Teletransporte de habilidade
+3001410,
+3001411,Habilidade nº 2 - Loop
+3001411,Habilidade nº 2 - Loop
+3001412,Habilidade nº 2 - Concluir
+3001603,Habilidade nº 1
+3001703,Ataque normal: 3 golpes de cauda
+3001805,Carga Colosso
+3001808,Esperando o soldado gigante pular
+3001808,Soldado Gigante Salto Salto
+3001821,Para a área de spawn do soldado gigante
+3001821,Esperando o soldado gigante pular
+3001821,Soldado Gigante Salto Salto
+3100003,Habilidade 1: Golpe de Cauda
+3100004,
+3100005,Habilidade nº 2 - Loop
+3100005,Habilidade nº 2 - Loop
+3100006,Habilidade nº 2 - Concluir
+3100006,Habilidade nº 2 - Concluir
+3100012,Habilidade 4 ataque de rotação
+3100110,Sem voltas de raiz emaranhadas
+3100110,raízes emaranhadas
+3100203,Habilidade 1-1 Vista frontal
+3100204,Habilidade 1-2 Projeção traseira
+3100204,Habilidade 1-2 Projeção traseira
+3100205,Habilidade 2 Rush
+3100205,Habilidade 2 Rush
+3100209,Habilidade 4-2 Respiração
+3100211,Habilidade 5 pousando
+3100211,Habilidade 5 pousando
+3100213,Habilidade 6 Aniquilador 1 - Loop
+3100214,Habilidade 6 Aniquilador 1 - Concluir
+3100216,Habilidade 6 Aniquilador 2 - Loop
+3100217,Habilidade 6 Aniquilador 2 - Concluir
+3100219,Habilidade 5 pousando
+3100219,Habilidade 5 pousando
+3100220,Habilidade 2 Rush
+3100220,Habilidade 2 Rush
+3100223,Gatilho de Carga de Localização de Spawn
+3100304,Habilidade 01 – Ataque de Salto
+3100304,Habilidade 01 – Ataque de Salto
+3100311,Absorver Frio
+3100313,Absorver Frio
+3100315,Absorver Frio
+3100331,Cristal de Gelo - Ataque Normal
+3100342,Pilar de Gelo – Ataque Normal
+3200005,Carga Colosso
+3200008,Esperando o soldado gigante pular
+3200008,Soldado Gigante Salto Salto
+3200016,Esperando o soldado gigante pular
+3200016,Soldado Gigante Salto Salto
+3200103,Habilidade de lobo de sombra 1
+3200104,Habilidade de lobo de sombra 2 - Espera de teleporte
+3200104,Habilidade de lobo de sombra 2 - Fade out
+3200105,Habilidade de lobo de sombra 3 - Teleporte
+3200105,Habilidade de Shadow Wolf 3 - Fade in
+3200108,Shadow Wolf Skill 4 - Teleport Fade In
+3200110,Shadow Wolf Skill 5 - Teleport Wait
+3200110,Shadow Wolf Skill 5 - Fade In
+3200110,Shadow Wolf Skill 5 - Fade Wait
+3200110,Shadow Wolf Skill 5 - Fade Out
+3200111,Habilidade de lobo de sombra 2 - Espera de teleporte
+3200111,Habilidade de lobo de sombra 2 - Fade out
+3200112,Habilidade de lobo de sombra 2 - Espera de teleporte
+3200112,Habilidade de lobo de sombra 2 - Fade out
+3200201,Zeros ataque normal 1
+3200202,Zeros ataque normal 1 - Aprimoramento
+3200203,Zeros Ataque Simples 2
+3200204,Zeros Normal Strike 2 - Aprimoramento
+3200205,Zeros ataque normal 3
+3200206,Zeros ataque normal 3 - Aprimoramento
+3200210,Habilidade Zeros 1
+3200211,Habilidade Zeros 2 - Adol
+3200214,Habilidade Zeros 3 – Espera de Teletransporte
+3200214,Habilidade Zeros 3 - Fade Out
+3200214,Habilidade Zeros 3 – Teletransporte
+3200214,Habilidade Zeros 3 - Fade In
+3200215,Habilidade Zeros 4
+3200216,Habilidade Zeros 5 - Iniciar
+3200217,Habilidade Zeros 1
+3200222,Habilidade Zeros 5 - Loop
+3200224,Habilidade Zeros 7 – Adol Contínuo
+3200405,Líder da Brigada Sangvis – Habilidade de Movimento para Trás
+3200506,Teleporte de habilidade de Balbas - Buffer
+3200506,Teleporte de habilidade de Balbas
+3200603,Astrid habilidade 1 salto
+3200704,Puxar logotipos
+3300003,Ataque de Habilidade #1 – Ataque à frente
+3300004,Ataque de Habilidade #2 – Carga Curta
+3300006,Ataque de habilidade nº 4 - Assinatura do ataque da guilda (aparar)
+3300010,Ataque de habilidade número 4 - Mover para coordenadas específicas
+3300010,Ataque de habilidade número 4 - Mover para coordenadas específicas
+3300010,Ataque de habilidade número 4 - Mover para coordenadas específicas
+3300011,Ataque de habilidade número 7 - Mover para coordenadas específicas
+3300011,Ataque de habilidade número 7 - Mover para coordenadas específicas
+3300011,Ataque de habilidade número 7 - Mover para coordenadas específicas
+3300017,Grogue quando a defesa é bem sucedida
+3300104,Ataque normal 3 vezes
+3300105,Ataque de Habilidade #1 – Corte Contínuo
+3300106,Teletransporte de Habilidade - Buffer
+3300106,Teletransporte de habilidade
+3300107,Direção de teletransporte de habilidade fixa
+3300108,Ataque de Habilidade #3 – Ataque direto para frente
+3300110,Ataque de Habilidade #5 – Carga giratória para frente
+3300111,Ataque de habilidade número 6 - Mover para coordenadas específicas
+3300111,Ataque de habilidade número 6 - Mover para coordenadas específicas
+3300111,Ataque de habilidade número 6 - Mover para coordenadas específicas
+3300114,Ataque de habilidade número 7 - Mover para coordenadas específicas
+3300114,Ataque de habilidade número 7 - Mover para coordenadas específicas
+3300114,Ataque de habilidade número 7 - Mover para coordenadas específicas
+3300209,Skill Attack #8 – Somente Torre (mover para as coordenadas de spawn)
+3300209,Skill Attack #8 – Somente Torre (mover para as coordenadas de spawn)
+3300209,Skill Attack #8 – Somente Torre (mover para as coordenadas de spawn)
+3300216,Ataque de habilidade número 7 - Apenas ataque de clã (mova para as coordenadas de spawn)
+3300216,Ataque de habilidade número 7 - Apenas ataque de clã (mova para as coordenadas de spawn)
+3300216,Ataque de habilidade número 7 - Apenas ataque de clã (mova para as coordenadas de spawn)
+3300231,Grogue quando a defesa é bem sucedida
+3400004,Habilidade nº 2 - Salto
+3400008,Habilidade nº 5 – Thrash
+3400008,Habilidade nº 5 – Thrash
+3400104,Habilidade nº 2 - Loop
+3400104,Habilidade nº 2 - Loop
+3400105,Habilidade nº 2 - Concluir
+3400106,Habilidade nº 2 - Concluir
+3400108,Skill Attack 3 – Avance e corte 3 vezes
+3400110,Ataque de habilidade nº 5 - Movimento Core Skill_Location
+3400110,Ataque de habilidade nº 5 - Movimento Core Skill_Location
+3400110,Ataque de habilidade nº 5 - Movimento Core Skill_Location
+3400203,Ataque de Habilidade #1 – Esticar Tronco de Árvore (Pull Shift)
+3400205,Ataque de Habilidade No. 3 – Esticar Tronco de Árvore (Pull Shift)
+3400205,Ataque de Habilidade No. 3 – Esticar Tronco de Árvore (Pull Shift)
+3400210,Ataque de Habilidade No. 6 – Esticar Tronco de Árvore (Pull Shift)
+3500005,Carga de Javali com Cerdas
+3500007,Carga de Javali com Cerdas
+3500009,Carga de Javali com Cerdas
+3500103,Bisonte de Aço - Carga
+3500203,Marauder Warrior Médio - Rush
+3500204,Marauder Warrior Médio - Ataque Contínuo
+3500304,corrida de vôo Thunderbird
+3500404,Habilidade Wyvern 1 – Carga
+3500404,Habilidade nº 2 - Loop
+3500508,King Bat - Carregar
+3500605,Toca de Habilidade - Buffer
+3500605,Toca de Habilidade
+3500606,Ataque de habilidade Sandmaw 4 vezes - Role para a esquerda
+3500606,Ataque de habilidade Sandmaw 4 vezes - Role para a esquerda
+3500607,Sandmaw Skill Attack 4-1 - Role para a direita
+3500607,Sandmaw Skill Attack 4-1 - Role para a direita
+3500608,Ataque de habilidade Sandmaw 6 vezes - Rush
+3500703,Ataque de habilidade Tamanduá 4 - Carga
+3500707,Ataque de habilidade Tamanduá 081 – Espera
+3500707,Ataque de habilidade Tamanduá 082 - Salto
+3500905,Carga Behemoth
+3501004,Veado Branco - Carga
+3501105,Alce Gigante - Carga
+3501205,Merguard - Rush
+3501305,Habilidade gigante ignorante 2 - Rush
+3700005,carga gigante de armadura
+3700008,assalto gigante de armadura
+4000004,Chefe Dimensional – Corte Acelerado
+5000191,Descida de monstro voador
+5000191,Descida de monstro voador
+9010105,Habilidade nº 31: Jump Start
+9010105,Habilidade nº 31: Jump Start
+9010131,besta gigante atmosférica
+9010132,Habilidade nº 31: Jump Start
+9010132,Habilidade nº 31: Jump Start
+9010133,Habilidade nº 31: Jump Start
+9010133,Habilidade nº 31: Jump Start
+9010134,Habilidade nº 31: Jump Start
+9010134,Habilidade nº 31: Jump Start
+9010135,Habilidade nº 31: Jump Start
+9010135,Habilidade nº 31: Jump Start
+9010136,Habilidade nº 31: Jump Start
+9010136,Habilidade nº 31: Jump Start
+9010137,Habilidade nº 31: Jump Start
+9010137,Habilidade nº 31: Jump Start
+9010138,Habilidade nº 31: Jump Start
+9010138,Habilidade nº 31: Jump Start
+9010139,Habilidade nº 31: Jump Start
+9010139,Habilidade nº 31: Jump Start
+9010140,Habilidade nº 31: Jump Start
+9010140,Habilidade nº 31: Jump Start
+9010144,besta gigante atmosférica
+12000041,Corredor Infinito - Fenômeno de Tempestade (Efeito Solo)
