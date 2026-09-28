@@ -20,7 +20,7 @@
 119,Derrote os monstros da Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
 120,Limpar Rifts,Limpar Rift {RequiredStackCount} Vezes
 121,Equipar Graça das constelações,Equipar 4 Bênçãos das Constelações
-122,Derrote Monstros na Barreira Temporal,Derrote {RequiredStackCount} Monstros de Barreira Temporal
+122,Derrote Monstros na Temporal Barrier,Derrote {RequiredStackCount} Monstros de Temporal Barrier
 123,Avanço de classe,Conclua o 2º avanço
 124,Adquira Ouro,Adquira {RequiredStackCount} Ouro
 125,Derrote Abyss Battlefield Monstros,Derrotar {RequiredStackCount} Abyss Battlefield Monstros
@@ -44,7 +44,7 @@
 143,Derrote monstros,Derrote Monstros {RequiredStackCount}
 144,Concluir submissões,Concluir submissões {RequiredStackCount} Vezes
 145,Total Skill Nível,Alcance o nível total Skill {RequiredStackCount}
-146,Derrote Monstros na Barreira Temporal,Derrote {RequiredStackCount} Monstros de Barreira Temporal
+146,Derrote Monstros na Temporal Barrier,Derrote {RequiredStackCount} Monstros de Temporal Barrier
 147,Contagem total de aumento de nível de fantasia,Alcance a contagem total de aumento de nível de fantasia {RequiredStackCount}
 148,Giant's Tower 2F,Insira Giant's Tower 2F Lobby
 149,Derrote os monstros da Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
@@ -54,31 +54,31 @@
 153,Concluir submissões,Concluir submissões {RequiredStackCount} Vezes
 154,Total Skill Nível,Alcance o nível total Skill {RequiredStackCount}
 201,Concluir Trial Gate,Limpar Trial Gate 1-4
-202,Limpe o Julgamento de Combate do Santuário Etéreo,Limpe o Julgamento de Combate do Santuário Etéreo 1-1
+202,Concluir Ethereal Sanctum Trial of Combat,Concluir Ethereal Sanctum Trial of Combat 1-1
 203,Alcance a meta de estatísticas de ATK,Alcance ATK Stat {RequiredStackCount}
 204,Concluir Trial Gate,Concluir Trial Gate 1-15
-205,Limpe o Julgamento de Combate do Santuário Etéreo,Limpar Prova de Combate do Santuário Etéreo 1-2
+205,Limpe o Trial of Combat do Ethereal Sanctum,Limpar Trial of Combat do Ethereal Sanctum 1-2
 206,Alcance a meta do DEF Stat,Alcance o DEF Stat {RequiredStackCount}
 207,Concluir Trial Gate,Limpar Trial Gate 1-21
-208,Limpe o Julgamento de Combate do Santuário Etéreo,Concluir a Prova de Combate do Santuário Etéreo 1-3
+208,Limpe o Trial of Combat do Ethereal Sanctum,Concluir a Trial of Combat do Ethereal Sanctum 1-3
 209,Derrote Black Reaper Karugura,Derrote Black Reaper Karugura
 210,Concluir Trial Gate,Limpar Trial Gate 1-25
-211,Limpe o Julgamento de Combate do Santuário Etéreo,Concluir a Prova de Combate do Santuário Etéreo 1-4
+211,Limpe o Trial of Combat do Ethereal Sanctum,Concluir a Trial of Combat do Ethereal Sanctum 1-4
 212,Alcance a meta de estatísticas de ATK,Alcance ATK Stat {RequiredStackCount}
 213,Concluir Trial Gate,Limpar Trial Gate 1-29
-214,Limpe o Julgamento de Combate do Santuário Etéreo,Concluir a Prova de Combate do Santuário Etéreo 1-5
+214,Limpe o Trial of Combat do Ethereal Sanctum,Concluir a Trial of Combat do Ethereal Sanctum 1-5
 215,Derrotar Red Mane Tagar,Derrotar Red Mane Tagar
 216,Concluir Trial Gate,Limpar Trial Gate 1-32
 217,Alcance a meta do DEF Stat,Alcance o DEF Stat {RequiredStackCount}
 218,Derrote Infected Beast King Gigaz,Derrote Infected Beast King Gigaz
 219,Concluir Trial Gate,Limpar Trial Gate 1-34
-220,Limpe o Julgamento de Combate do Santuário Etéreo,Concluir o Santuário Etéreo Prova de Combate 1-6
+220,Limpe o Trial of Combat do Ethereal Sanctum,Concluir o Ethereal Sanctum Trial of Combat 1-6
 221,Alcance Precisão Stat Meta,Alcance Stat Precisão {RequiredStackCount}
 222,Concluir Trial Gate,Limpar Trial Gate 1-38
-223,Limpe o Julgamento de Combate do Santuário Etéreo,Limpar o Santuário Etéreo Prova de Combate 1-7
+223,Limpe o Trial of Combat do Ethereal Sanctum,Limpar o Ethereal Sanctum Trial of Combat 1-7
 224,Derrote Storm Spear Urukkur,Derrote Storm Spear Urukkur
 225,Concluir Trial Gate,Limpar Trial Gate 1-42
-226,Limpe o Julgamento de Combate do Santuário Etéreo,Limpar o Santuário Etéreo Prova de Combate 1-8
+226,Limpe o Trial of Combat do Ethereal Sanctum,Limpar o Ethereal Sanctum Trial of Combat 1-8
 227,Alcance a meta de estatísticas de ATK,Alcance ATK Stat {RequiredStackCount}
 228,Concluir Trial Gate,Limpar Trial Gate 1-47
 229,Alcance a meta do DEF Stat,Alcance o DEF Stat {RequiredStackCount}
@@ -93,25 +93,25 @@
 238,Alcance a meta do DEF Stat,Alcance o DEF Stat {RequiredStackCount}
 239,Limpar Trial Gate oculto,Limpar Trial Gate Karugura Trial Gate
 240,Concluir Trial Gate,Limpar Trial Gate 2-12
-241,Limpe o Julgamento de Combate do Santuário Etéreo,Limpar o Santuário Etéreo Prova de Combate 2-1
+241,Limpe o Trial of Combat do Ethereal Sanctum,Limpar o Ethereal Sanctum Trial of Combat 2-1
 242,Limpar Trial Gate oculto,Limpar Trial Gate oculto Tagar Trial Gate
 243,Concluir Trial Gate,Limpar Trial Gate 2-15
 244,Alcance Precisão Stat Meta,Alcance Stat Precisão {RequiredStackCount}
 245,Limpar Trial Gate oculto,Limpar Oculto Gigaz Trial Gate
 246,Concluir Trial Gate,Limpar Trial Gate 2-17
-247,Limpe o Julgamento de Combate do Santuário Etéreo,Limpar o Santuário Etéreo Prova de Combate 2-2
+247,Limpe o Trial of Combat do Ethereal Sanctum,Limpar o Ethereal Sanctum Trial of Combat 2-2
 248,Limpar Trial Gate oculto,Limpar oculto Urukkur Trial Gate
-301,Conclua o Santuário Etéreo,Limpe o Santuário Etéreo {RequiredStackCount} Vezes
-302,Adquira Baús de Tesouro,Adquira Baús de Tesouro {RequiredStackCount} vezes
+301,Conclua o Ethereal Sanctum,Limpe o Ethereal Sanctum {RequiredStackCount} Vezes
+302,Adquira Treasure Chests,Adquira Treasure Chests {RequiredStackCount} vezes
 303,Ativar Observatório,Ativar Observatório {RequiredStackCount} Vezes
-304,Alcance o nível de memórias de Gudua,Alcance o nível total de memórias de Gudua {RequiredStackCount}
+304,Alcance o nível de Gudua’s Memories,Alcance o nível total de Gudua’s Memories {RequiredStackCount}
 305,Use Adventurers’ Alliance Guild Coin Shop,Usar Adventurers’ Alliance Guild Coin Shop {RequiredStackCount} vezes
-306,Adquira Baús de Tesouro,Adquira Baús de Tesouro {RequiredStackCount} vezes
+306,Adquira Treasure Chests,Adquira Treasure Chests {RequiredStackCount} vezes
 307,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
 308,Use a Loja da Adventurers' Alliance,Use a Loja da Adventurers' Alliance {RequiredStackCount} vezes
 309,Use máquinas de venda automática,Use máquinas de venda automática {RequiredStackCount} vezes
 310,Limpar Rifts,Limpar Rift {RequiredStackCount} Vezes
-311,Insira a Barreira Temporal,Insira a Barreira Temporal {RequiredStackCount} vezes
+311,Insira a Temporal Barrier,Insira a Temporal Barrier {RequiredStackCount} vezes
 312,Usar Black Crystal Shop,Use Black Crystal Shop {RequiredStackCount} vezes
 313,Planador artesanal,Craft {RequiredStackCount} Baú de Planador Menor do Explorador
 314,Use a Loja de Cristal Dourado,Compre qualquer item na Golden Crystal Shop {RequiredStackCount} vezes
@@ -119,7 +119,7 @@
 316,Vender Item em Marketplace,Vender item em Marketplace {RequiredStackCount} vezes
 317,Fusível Graça das constelações,Fusível Bênção da Constelação {RequiredStackCount} vezes
 318,Alcance Montar Total de Ascensões,Subir Montaria ou Planador {RequiredStackCount} vezes
-319,Alcance o nível de memórias de Gudua,Alcance o nível total de memórias de Gudua {RequiredStackCount}
+319,Alcance o nível de Gudua’s Memories,Alcance o nível total de Gudua’s Memories {RequiredStackCount}
 320,Ocupe o Santuário Vitalizante,Ocupe the Vitalizing Sanctum {RequiredStackCount} times
 321,Reputação da Adventurers’ Alliance Total,Alcance {RequiredStackCount} Reputação total da Adventurers’ Alliance
 322,Equipamento de artesanato,Craft {RequiredStackCount} Equipamento de 3 estrelas
@@ -132,21 +132,21 @@
 329,Usar Minérios de Aetherium,Use {RequiredStackCount} Minérios de Aetherium
 330,Alcance o Nível da Crista,Alcance o nível de crista total {RequiredStackCount}
 331,Participe de Incursões,Participe de Incursões {RequiredStackCount} Vezes
-332,Use Abyss Battlefield Bilhete de recarga,Use Abyss Battlefield Bilhete de recarga {RequiredStackCount} vezes
+332,Usar Abyss Battlefield Recharge Ticket,Usar Abyss Battlefield Recharge Ticket {RequiredStackCount} vezes
 333,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
 334,Participe de Tesseract,Participe de Tesseract {RequiredStackCount} vezes
 335,Alcance Montar Total de Ascensões,Subir Montaria ou Planador {RequiredStackCount} vezes
 336,Limpar Rifts,Limpar Rift {RequiredStackCount} Vezes
 337,Use Hot Time,Use 8 horas de Hot Time semanal da Giant's Tower
 338,Prossiga com o refinamento da Powerstone,Refine Powerstone {RequiredStackCount} vezes
-339,Alcance o nível de memórias de Gudua,Alcance o nível total de memórias de Gudua {RequiredStackCount}
+339,Alcance o nível de Gudua’s Memories,Alcance o nível total de Gudua’s Memories {RequiredStackCount}
 340,Participe de Incursões,Participe de Incursões {RequiredStackCount} Vezes
 341,Equipamento de artesanato,Craft {RequiredStackCount} Equipamento de 3 estrelas
 342,Alcance o Nível da Crista,Alcance o nível de crista total {RequiredStackCount}
 343,Participe da Grande Incursão,Participe da Grande Incursão {RequiredStackCount} Vezes
 344,Alcance a contagem de equipamentos de Spellstone,Equipar {RequiredStackCount} Spellstones
 345,Alcance Codex Pontos,Alcance {RequiredStackCount} Codex Pontos
-346,Alcance o Santuário Etéreo Limpar Contagem,Limpe o Santuário Etéreo {RequiredStackCount} Vezes
+346,Alcance o Ethereal Sanctum Limpar Contagem,Limpe o Ethereal Sanctum {RequiredStackCount} Vezes
 347,Reputação da Adventurers’ Alliance Total,Alcance {RequiredStackCount} Reputação total da Adventurers’ Alliance
 348,Obter Equipamento,Obtenha equipamento {RequiredStackCount} 1 estrela
 349,Limpar Rifts,Limpar Rift {RequiredStackCount} Vezes
@@ -159,7 +159,7 @@
 356,Abyss Battlefield Tempo de uso,Use 8 horas de tempo Abyss Battlefield
 357,Prossiga com o aprimoramento do item,Aprimorar item {RequiredStackCount} vezes
 358,Participe de Incursões,Participe de Incursões {RequiredStackCount} Vezes
-359,Alcance o nível de memórias de Gudua,Alcance o nível total de memórias de Gudua {RequiredStackCount}
+359,Alcance o nível de Gudua’s Memories,Alcance o nível total de Gudua’s Memories {RequiredStackCount}
 360,Itens de artesanato,Crie o item {RequiredStackCount} vezes
 361,Prossiga com a pesquisa da Merchants Guild,Prossiga com a pesquisa da Merchants Guild {RequiredStackCount} vezes
 362,Alcance Codex Pontos,Alcance {RequiredStackCount} Codex Pontos
@@ -179,7 +179,7 @@
 376,Prossiga com a Appraisers' Guild Research,Prossiga com a Pesquisa da Appraisers' Guild {RequiredStackCount} vezes
 377,Contagem de transcendência do traje completo Traje,Transcende Traje {RequiredStackCount} Vezes
 378,Alcance o Nível da Crista,Alcance o nível de crista total {RequiredStackCount}
-379,Alcance o nível de memórias de Gudua,Alcance o nível total de memórias de Gudua {RequiredStackCount}
+379,Alcance o nível de Gudua’s Memories,Alcance o nível total de Gudua’s Memories {RequiredStackCount}
 380,Contagem completa de avanço da relíquia sagrada,Avançando Relíquia Sagrada {RequiredStackCount} vezes
 381,Use Hot Time,Use 8 horas de Hot Time semanal da Giant's Tower
 382,Participe de Tesseract,Participe de Tesseract {RequiredStackCount} vezes
@@ -194,9 +194,9 @@
 407,Novo Skills,Comprar itens na Skillbook Shop {RequiredStackCount} vezes
 408,Avanço de classe,Conclua o 1º avanço
 409,Graça total das constelações Nível,Alcance o nível de graça total das constelações {RequiredStackCount}
-410,Derrote Monstros na Barreira Temporal,Derrote {RequiredStackCount} Monstros de Barreira Temporal
+410,Derrote Monstros na Temporal Barrier,Derrote {RequiredStackCount} Monstros de Temporal Barrier
 411,Vender Item em Marketplace,Vender item em Marketplace {RequiredStackCount} vezes
-412,Alcance o nível de memórias de Gudua,Alcance o nível total de memórias de Gudua {RequiredStackCount}
+412,Alcance o nível de Gudua’s Memories,Alcance o nível total de Gudua’s Memories {RequiredStackCount}
 413,Limpar Rifts,Limpar Rift {RequiredStackCount} Vezes
 414,Use Rift Shop,Use Rift Shop {RequiredStackCount} vezes
 415,Tentativa de despertar,Tentativa de despertar {RequiredStackCount} vezes
@@ -219,10 +219,10 @@
 432,Derrote chefes de campo,Derrote chefes de campo {RequiredStackCount} vezes
 433,Tentativa de ressonância,Tentativa de ressonância {RequiredStackCount} vezes
 434,Arma Secundária II,Criar Arma Secundária II x{RequiredStackCount}
-435,Participe de Raids de Rift chefe,Participe de Rift chefe Raids {RequiredStackCount} vezes
+435,Participe de Raids de Rift Boss,Participe de Rift Boss Raids {RequiredStackCount} vezes
 436,Beretta,Limpar arquivo: aquilo que um estudioso exige
 437,Poção HP padrão,Compre Poções HP Padrão x{RequiredStackCount} na Loja Geral
-438,Derrote Monstros na Barreira Temporal,Derrote {RequiredStackCount} Monstros de Barreira Temporal
+438,Derrote Monstros na Temporal Barrier,Derrote {RequiredStackCount} Monstros de Temporal Barrier
 439,Novo Skills,Comprar itens na Skillbook Shop {RequiredStackCount} vezes
 440,Alcance o nível de sintonização total,Alcance o nível de sintonização total {RequiredStackCount}
 441,Azran,Limpar arquivo: Filhotes de lobo embalam juntos
@@ -236,7 +236,7 @@
 449,Derrote monstros,Derrote Monstros {RequiredStackCount}
 450,Complete a Epic Quest,Complete a Epic Quest: Destiny
 451,Total Skill Nível,Alcance o nível total Skill {RequiredStackCount}
-452,Derrote Monstros na Barreira Temporal,Derrote {RequiredStackCount} Monstros de Barreira Temporal
+452,Derrote Monstros na Temporal Barrier,Derrote {RequiredStackCount} Monstros de Temporal Barrier
 453,Avanço de classe,Complete o 3º avanço
 454,Contagem total de aumento de nível de fantasia,Alcance a contagem total de aumento de nível de fantasia {RequiredStackCount}
 455,Derrote Abyss Battlefield Monstros,Derrotar {RequiredStackCount} Abyss Battlefield Monstros
@@ -268,39 +268,39 @@
 512,Derrote Black Reaper Karugura,Derrote Black Reaper Karugura
 513,Derrote monstros,Derrote Monstros {RequiredStackCount}
 514,Nível do personagem,Alcance o nível. {RequiredStackCount}
-515,Derrote Monstros na Barreira Temporal,Derrote {RequiredStackCount} Monstros de Barreira Temporal
+515,Derrote Monstros na Temporal Barrier,Derrote {RequiredStackCount} Monstros de Temporal Barrier
 516,Concluir Trial Gate,Limpar Trial Gate 1-25
-517,Limpe o Julgamento de Combate do Santuário Etéreo,Concluir a Prova de Combate do Santuário Etéreo 1-4
+517,Limpe o Trial of Combat do Ethereal Sanctum,Concluir a Trial of Combat do Ethereal Sanctum 1-4
 518,Alcance a meta de estatísticas de ATK,Alcance ATK Stat {RequiredStackCount}
 519,Derrote monstros,Derrote Monstros {RequiredStackCount}
 520,Derrote os monstros da Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
-521,Derrote Monstros na Barreira Temporal,Derrote {RequiredStackCount} Monstros de Barreira Temporal
+521,Derrote Monstros na Temporal Barrier,Derrote {RequiredStackCount} Monstros de Temporal Barrier
 522,Concluir Trial Gate,Limpar Trial Gate 1-29
-523,Limpe o Julgamento de Combate do Santuário Etéreo,Concluir a Prova de Combate do Santuário Etéreo 1-5
+523,Limpe o Trial of Combat do Ethereal Sanctum,Concluir a Trial of Combat do Ethereal Sanctum 1-5
 524,Derrotar Red Mane Tagar,Derrotar Red Mane Tagar
 525,Derrote monstros,Derrote Monstros {RequiredStackCount}
 526,Derrote os monstros da Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
-527,Derrote Monstros na Barreira Temporal,Derrote {RequiredStackCount} Monstros de Barreira Temporal
+527,Derrote Monstros na Temporal Barrier,Derrote {RequiredStackCount} Monstros de Temporal Barrier
 528,Concluir Trial Gate,Limpar Trial Gate 1-32
 529,Alcance a meta do DEF Stat,Alcance o DEF Stat {RequiredStackCount}
 530,Derrote Infected Beast King Gigaz,Derrote Infected Beast King Gigaz
 531,Derrote monstros,Derrote Monstros {RequiredStackCount}
 532,Derrote os monstros da Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
-533,Derrote Monstros na Barreira Temporal,Derrote {RequiredStackCount} Monstros de Barreira Temporal
+533,Derrote Monstros na Temporal Barrier,Derrote {RequiredStackCount} Monstros de Temporal Barrier
 534,Concluir Trial Gate,Limpar Trial Gate 1-34
-535,Limpe o Julgamento de Combate do Santuário Etéreo,Concluir o Santuário Etéreo Prova de Combate 1-6
+535,Limpe o Trial of Combat do Ethereal Sanctum,Concluir o Ethereal Sanctum Trial of Combat 1-6
 536,Alcance Precisão Stat Meta,Alcance Stat Precisão {RequiredStackCount}
 537,Derrote monstros,Derrote Monstros {RequiredStackCount}
 538,Derrote os monstros da Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
 539,Derrote Abyss Battlefield Monstros,Derrotar {RequiredStackCount} Abyss Battlefield Monstros
 540,Concluir Trial Gate,Limpar Trial Gate 1-38
-541,Limpe o Julgamento de Combate do Santuário Etéreo,Limpar o Santuário Etéreo Prova de Combate 1-7
+541,Limpe o Trial of Combat do Ethereal Sanctum,Limpar o Ethereal Sanctum Trial of Combat 1-7
 542,Derrote Storm Spear Urukkur,Derrote Storm Spear Urukkur
 543,Derrote monstros,Derrote Monstros {RequiredStackCount}
 544,Derrote os monstros da Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
-545,Derrote Monstros na Barreira Temporal,Derrote {RequiredStackCount} Monstros de Barreira Temporal
+545,Derrote Monstros na Temporal Barrier,Derrote {RequiredStackCount} Monstros de Temporal Barrier
 546,Concluir Trial Gate,Limpar Trial Gate 1-42
-547,Limpe o Julgamento de Combate do Santuário Etéreo,Limpar o Santuário Etéreo Prova de Combate 1-8
+547,Limpe o Trial of Combat do Ethereal Sanctum,Limpar o Ethereal Sanctum Trial of Combat 1-8
 548,Alcance a meta de estatísticas de ATK,Alcance ATK Stat {RequiredStackCount}
 549,Derrote monstros,Derrote Monstros {RequiredStackCount}
 550,Derrote os monstros da Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
@@ -310,7 +310,7 @@
 554,Derrote Mushgal Caído,Derrote Mushgal Caído
 555,Derrote monstros,Derrote Monstros {RequiredStackCount}
 556,Derrote os monstros da Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
-557,Derrote Monstros na Barreira Temporal,Derrote {RequiredStackCount} Monstros de Barreira Temporal
+557,Derrote Monstros na Temporal Barrier,Derrote {RequiredStackCount} Monstros de Temporal Barrier
 558,Concluir Trial Gate,Limpar Trial Gate 1-57
 559,Alcance Precisão Stat Meta,Alcance Stat Precisão {RequiredStackCount}
 560,Derrote Wings of Ruin Agarash,Derrote Wings of Ruin Agarash
@@ -322,7 +322,7 @@
 566,Derrote Landslide Kirjur,Derrote Landslide Kirjur
 567,Derrote monstros,Derrote Monstros {RequiredStackCount}
 568,Derrote os monstros da Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
-569,Derrote Monstros na Barreira Temporal,Derrote {RequiredStackCount} Monstros de Barreira Temporal
+569,Derrote Monstros na Temporal Barrier,Derrote {RequiredStackCount} Monstros de Temporal Barrier
 570,Concluir Trial Gate,Limpar Trial Gate 2-8
 571,Alcance a meta do DEF Stat,Alcance o DEF Stat {RequiredStackCount}
 572,Limpar Trial Gate oculto,Limpar Trial Gate Karugura Trial Gate
@@ -330,11 +330,11 @@
 574,Derrote os monstros da Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
 575,Derrote Abyss Battlefield Monstros,Derrotar {RequiredStackCount} Abyss Battlefield Monstros
 576,Concluir Trial Gate,Limpar Trial Gate 2-12
-577,Limpe o Julgamento de Combate do Santuário Etéreo,Limpar o Santuário Etéreo Prova de Combate 2-1
+577,Limpe o Trial of Combat do Ethereal Sanctum,Limpar o Ethereal Sanctum Trial of Combat 2-1
 578,Limpar Trial Gate oculto,Limpar Trial Gate oculto Tagar Trial Gate
 579,Derrote monstros,Derrote Monstros {RequiredStackCount}
 580,Derrote os monstros da Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
-581,Derrote Monstros na Barreira Temporal,Derrote {RequiredStackCount} Monstros de Barreira Temporal
+581,Derrote Monstros na Temporal Barrier,Derrote {RequiredStackCount} Monstros de Temporal Barrier
 582,Concluir Trial Gate,Limpar Trial Gate 2-15
 583,Alcance Precisão Stat Meta,Alcance Stat Precisão {RequiredStackCount}
 584,Limpar Trial Gate oculto,Limpar Oculto Gigaz Trial Gate
@@ -342,19 +342,19 @@
 586,Derrote os monstros da Giant's Tower,Derrote Monstros {RequiredStackCount} na Giant's Tower
 587,Derrote Abyss Battlefield Monstros,Derrotar {RequiredStackCount} Abyss Battlefield Monstros
 588,Concluir Trial Gate,Limpar Trial Gate 2-17
-589,Limpe o Julgamento de Combate do Santuário Etéreo,Limpar o Santuário Etéreo Prova de Combate 2-2
+589,Limpe o Trial of Combat do Ethereal Sanctum,Limpar o Ethereal Sanctum Trial of Combat 2-2
 590,Limpar Trial Gate oculto,Limpar oculto Urukkur Trial Gate
 601,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
-602,Adquira Baús de Tesouro,Adquira Baús de Tesouro {RequiredStackCount} vezes
+602,Adquira Treasure Chests,Adquira Treasure Chests {RequiredStackCount} vezes
 603,Ativar Observatório,Ativar Observatório {RequiredStackCount} Vezes
-604,Alcance o nível de memórias de Gudua,Alcance o nível total de memórias de Gudua {RequiredStackCount}
+604,Alcance o nível de Gudua’s Memories,Alcance o nível total de Gudua’s Memories {RequiredStackCount}
 605,Use Adventurers’ Alliance Guild Coin Shop,Usar Adventurers’ Alliance Guild Coin Shop {RequiredStackCount} vezes
-606,Adquira Baús de Tesouro,Adquira Baús de Tesouro {RequiredStackCount} vezes
+606,Adquira Treasure Chests,Adquira Treasure Chests {RequiredStackCount} vezes
 607,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
 608,Use a Loja da Adventurers' Alliance,Use a Loja da Adventurers' Alliance {RequiredStackCount} vezes
 609,Use máquinas de venda automática,Use máquinas de venda automática {RequiredStackCount} vezes
 610,Limpar Rifts,Limpar Rift {RequiredStackCount} Vezes
-611,Insira a Barreira Temporal,Insira a Barreira Temporal {RequiredStackCount} vezes
+611,Insira a Temporal Barrier,Insira a Temporal Barrier {RequiredStackCount} vezes
 612,Usar Black Crystal Shop,Use Black Crystal Shop {RequiredStackCount} vezes
 613,Planador artesanal,Craft {RequiredStackCount} Baú de Planador Menor do Explorador
 614,Ocupe o Santuário Vitalizante,Ocupe the Vitalizing Sanctum {RequiredStackCount} times
@@ -362,7 +362,7 @@
 616,Vender Item em Marketplace,Vender item em Marketplace {RequiredStackCount} vezes
 617,Fusível Graça das constelações,Fusível Bênção da Constelação {RequiredStackCount} vezes
 618,Alcance Montar Total de Ascensões,Subir Montaria ou Planador {RequiredStackCount} vezes
-619,Alcance o nível de memórias de Gudua,Alcance o nível total de memórias de Gudua {RequiredStackCount}
+619,Alcance o nível de Gudua’s Memories,Alcance o nível total de Gudua’s Memories {RequiredStackCount}
 620,Alcance a Intensidade de Ressonância,Alcance um total de {RequiredStackCount} ou superior na Ressonância Page 1
 621,Reputação da Adventurers’ Alliance Total,Alcance {RequiredStackCount} Reputação total da Adventurers’ Alliance
 622,Equipamento de artesanato,Craft {RequiredStackCount} Equipamento de 3 estrelas
@@ -375,21 +375,21 @@
 629,Usar Minérios de Aetherium,Use {RequiredStackCount} Minérios de Aetherium
 630,Alcance o Nível da Crista,Alcance o nível de crista total {RequiredStackCount}
 631,Participe de Incursões,Participe de Incursões {RequiredStackCount} Vezes
-632,Use Abyss Battlefield Bilhete de recarga,Use Abyss Battlefield Bilhete de recarga {RequiredStackCount} vezes
+632,Use Abyss Battlefield Recharge Ticket,Use Abyss Battlefield Recharge Ticket {RequiredStackCount} vezes
 633,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
 634,Participe de Tesseract,Participe de Tesseract {RequiredStackCount} vezes
 635,Alcance Montar Total de Ascensões,Subir Montaria ou Planador {RequiredStackCount} vezes
 636,Limpar Rifts,Limpar Rift {RequiredStackCount} Vezes
 637,Use Hot Time,Use 8 horas de Hot Time semanal da Giant's Tower
 638,Powerstone Contagem de refinamento,Refine Powerstone {RequiredStackCount} vezes
-639,Alcance o nível de memórias de Gudua,Alcance o nível total de memórias de Gudua {RequiredStackCount}
+639,Alcance o nível de Gudua’s Memories,Alcance o nível total de Gudua’s Memories {RequiredStackCount}
 640,Participe de Incursões,Participe de Incursões {RequiredStackCount} Vezes
 641,Equipamento de artesanato,Craft {RequiredStackCount} Equipamento de 3 estrelas
 642,Alcance o Nível da Crista,Alcance o nível de crista total {RequiredStackCount}
 643,Participe da Grande Incursão,Participe da Grande Incursão {RequiredStackCount} Vezes
 644,Alcance a contagem de equipamentos de Spellstone,Equipar {RequiredStackCount} Spellstones
 645,Alcance Codex Pontos,Alcance {RequiredStackCount} Codex Pontos
-646,Conclua o Santuário Etéreo,Limpe o Santuário Etéreo {RequiredStackCount} Vezes
+646,Conclua o Ethereal Sanctum,Limpe o Ethereal Sanctum {RequiredStackCount} Vezes
 647,Reputação da Adventurers’ Alliance Total,Alcance {RequiredStackCount} Reputação total da Adventurers’ Alliance
 648,Obtenha equipamento de 1 estrela,Obtenha equipamento {RequiredStackCount} 1 estrela
 649,Limpar Rifts,Limpar Rift {RequiredStackCount} Vezes
@@ -402,7 +402,7 @@
 656,Abyss Battlefield Tempo de uso,Use 8 horas de tempo Abyss Battlefield
 657,Prossiga com o aprimoramento do item,Aprimorar item {RequiredStackCount} vezes
 658,Participe de Incursões,Participe de Incursões {RequiredStackCount} Vezes
-659,Alcance o nível de memórias de Gudua,Alcance o nível total de memórias de Gudua {RequiredStackCount}
+659,Alcance o nível de Gudua’s Memories,Alcance o nível total de Gudua’s Memories {RequiredStackCount}
 660,Itens de artesanato,Crie o item {RequiredStackCount} vezes
 661,Prossiga com a pesquisa da Merchants Guild,Prossiga com a pesquisa da Merchants Guild {RequiredStackCount} vezes
 662,Alcance Codex Pontos,Alcance {RequiredStackCount} Codex Pontos
@@ -422,7 +422,7 @@
 676,Prossiga com a Appraisers' Guild Research,Prossiga com a Pesquisa da Appraisers' Guild {RequiredStackCount} vezes
 677,Contagem de transcendência do traje completo Traje,Transcende Traje {RequiredStackCount} Vezes
 678,Alcance o Nível da Crista,Alcance o nível de crista total {RequiredStackCount}
-679,Alcance o nível de memórias de Gudua,Alcance o nível total de memórias de Gudua {RequiredStackCount}
+679,Alcance o nível de Gudua’s Memories,Alcance o nível total de Gudua’s Memories {RequiredStackCount}
 680,Contagem completa de avanço da relíquia sagrada,Avançando Relíquia Sagrada {RequiredStackCount} vezes
 681,Use Hot Time,Use 8 horas de Hot Time semanal da Giant's Tower
 682,Participe de Tesseract,Participe de Tesseract {RequiredStackCount} vezes

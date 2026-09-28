@@ -758,7 +758,7 @@ Reduz o dano de acerto crítico recebido por <Orange>{EffectParam5}</>%",Melhora
 Aumenta o dano de ataque básico em <Orange>{EffectParam2}</>% (dobrado em PVE)
  Aumenta o dano de Skill em <Orange>{EffectParam3}</>% (dobrado em PVE)",Aumenta o poder de ataque,
 2251,Mana Shield,Shield Generation,Escudo,
-2252,Mana Shield,"Geração de escudo
+2252,Mana Shield,"Shield Generation
 Aumenta o dano em <Orange>{EffectParam2}</>% enquanto o escudo está ativo",Aumenta o escudo e o dano,
 2261,Mana Circulation,"Reduz Skill Cooldown por <Orange>{EffectParam1}</>% 
 Reduz o custo de MP em <Orange>{EffectParam2}</>%",Aumenta o poder de ataque,
@@ -806,11 +806,11 @@ Aumenta a defesa em <Orange>{EffectParam3}</>
 Aumenta o controle de multidão Taxa de resistência em <Orange>{EffectParam4}</>%
  Aumenta a taxa de resistência a golpes críticos em <Orange>{EffectParam5}</>
  Aumenta o poder de ataque ignorado em <Orange>{EffectParam6}</>",Melhora o ataque e a defesa,
-2451,Cradle of Mana,"Escudo Geração
+2451,Cradle of Mana,"Shield Generation
 Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>% enquanto o escudo está ativo",Melhora a defesa,
-2452,Cradle of Mana,"Escudo Geração
+2452,Cradle of Mana,"Shield Generation
 Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>% enquanto o escudo está ativo",Melhora a defesa,
-2453,Cradle of Mana,"Geração de escudo
+2453,Cradle of Mana,"Shield Generation
 Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>% enquanto o escudo está ativo
 Aumenta o dano de ataque básico em <Orange>{EffectParam2}</>% enquanto o escudo está ativo",Aprimoramento de Poder Interno,
 2461,Element Overload,"Aumenta a duração do Buff em <Orange>{EffectParam1}</>%
@@ -1356,7 +1356,7 @@ Aumenta a regeneração de HP em <Orange>{EffectParam2}</>",Melhore a sobrevivê
 25472,Weakness Hunting,"Aumenta a taxa de precisão em <Orange>{EffectParam1}</>%
 Aumenta o dano contra alvos controlados por multidão em <Orange>{EffectParam2}</>%",Precisão e aprimoramento de ataque,
 25570,Ashen Arrow,Aumenta a duração do Crowd Control em <Orange>{EffectParam1}</>%,Aumenta a duração do controle de multidão,
-25571,Ashen Arrow,Item desativado Item,Item desativado Item,
+25571,Ashen Arrow,Item desativado,Item desativado Item,
 25572,Venom Tracker,"Reduz Dano de acerto crítico sofrido por <Orange>{EffectParam1}</>%
 Aumenta a taxa de resistência ao efeito de aflição em <Orange>{EffectParam2}</>%",Melhore a sobrevivência Skills,
 25573,Venomous Insight,Aumenta o dano causado a alvos protegidos em <Orange>{EffectParam1}</>%,Aumento de dano a alvos protegidos,
@@ -1758,7 +1758,7 @@ Reduz o dano de acerto crítico recebido de jogadores por <Orange>{EffectParam2}
 61029,Flawless Orbit,Aumenta o dano aos monstros chefes em <Orange>{EffectParam1}</>%,Chaveiro Efeito equipado,
 61030,Silence of the Crown,"Aumenta a taxa de resistência ao atordoamento em <Orange>{EffectParam1}</>%
 Recupera MP em <Orange>{EffectParam2}</>%",Chaveiro Efeito equipado,
-62000,Keyring Test Skill 1,Teste de chaveiro Skill 1 - Precisão,Dados de teste,
+62000,Keyring Test Skill 1,Keyring Test Skill 1 - Precisão,Dados de teste,
 62001,Presence of Oblivion,Taxa de resistência ao esquecimento <Orange>{EffectParam1}</>%,Chaveiro Efeito equipado,
 62002,Presence of Oblivion,Taxa de resistência ao esquecimento <Orange>{EffectParam1}</>%,Chaveiro Efeito equipado,
 62003,Presence of Oblivion,Taxa de resistência ao esquecimento <Orange>{EffectParam1}</>%,Chaveiro Efeito equipado,
@@ -1806,7 +1806,7 @@ Recupera MP em <Orange>{EffectParam2}</>%",Chaveiro Efeito equipado,
 62501,Blessing of Erosion,Taxa de Resistência à Erosão <Orange>{EffectParam1}</>%,Chaveiro Efeito equipado,
 62502,Blessing of Erosion,Taxa de Resistência à Erosão <Orange>{EffectParam1}</>%,Chaveiro Efeito equipado,
 62503,Blessing of Erosion,Taxa de Resistência à Erosão <Orange>{EffectParam1}</>%,Chaveiro Efeito equipado,
-63000,Keyring Test Skill 2,Teste de chaveiro Skill 2 - Evasão,Dados de teste,
+63000,Keyring Test Skill 2,Keyring Test Skill 2 - Evasão,Dados de teste,
 63001,Echo of Warmth,"Aumenta o HP máximo em <Orange>{EffectParam1}</>%
  Aumenta o HP Potion Cura por <Orange>{EffectParam2}</>",Chaveiro Efeito equipado,
 63002,Iron Curtain,"Aumenta o HP máximo em <Orange>{EffectParam1}</>%
@@ -1867,58 +1867,58 @@ Reduz a duração do controle de multidão em <Orange>{EffectParam4}</>%",Combat
 91013,Poção MP Padrão,Cura Max MP por <Orange>{EffectParam1}</>%,Recuperação de MP de,
 91014,Poção de MP maior,Cura Max MP por <Orange>{EffectParam1}</>%,Recuperação de MP de,
 91019,Poção especial de MP,Cura Max MP por <Orange>{EffectParam1}</>%,Recuperação de MP de,
-91021,Elixir de Ataque I,"Aumenta o poder de ataque em <Orange>{EffectParam1}</>
+91021,Elixir of Attack I,"Aumenta o poder de ataque em <Orange>{EffectParam1}</>
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumento de Poder de Ataque,
-91022,Elixir de Ataque II,"Aumenta o poder de ataque em <Orange>{EffectParam1}</>
+91022,Elixir of Attack II,"Aumenta o poder de ataque em <Orange>{EffectParam1}</>
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumento de Poder de Ataque,
-91023,Elixir de Ataque III,"Aumenta o poder de ataque em <Orange>{EffectParam1}</>
+91023,Elixir of Attack III,"Aumenta o poder de ataque em <Orange>{EffectParam1}</>
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumento de Poder de Ataque,
-91031,Elixir de defesa I,"Aumenta a defesa em <Orange>{EffectParam1}</>
+91031,Elixir of Defense I,"Aumenta a defesa em <Orange>{EffectParam1}</>
 
 <Orange>※ Não se aplica aos campos de batalha da Arena.</>",Aumenta a defesa,
-91032,Elixir de defesa II,"Aumenta a defesa em <Orange>{EffectParam1}</>
+91032,Elixir of Defense II,"Aumenta a defesa em <Orange>{EffectParam1}</>
 
 <Orange>※ Não se aplica aos campos de batalha da Arena.</>",Aumenta a defesa,
-91033,Elixir de defesa III,"Aumenta a defesa em <Orange>{EffectParam1}</>
+91033,Elixir of Defense III,"Aumenta a defesa em <Orange>{EffectParam1}</>
 
 <Orange>※ Não se aplica aos campos de batalha da Arena.</>",Aumenta a defesa,
-91041,Elixir de Precisão I,"Aumenta a precisão em <Orange>{EffectParam1}</>
+91041,Elixir of Accuracy I,"Aumenta a precisão em <Orange>{EffectParam1}</>
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumento de precisão,
-91042,Elixir de Precisão II,"Aumenta a precisão em <Orange>{EffectParam1}</>
+91042,Elixir of Accuracy II,"Aumenta a precisão em <Orange>{EffectParam1}</>
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumento de precisão,
-91043,Elixir de Precisão III,"Aumenta a precisão em <Orange>{EffectParam1}</>
+91043,Elixir of Accuracy III,"Aumenta a precisão em <Orange>{EffectParam1}</>
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumento de precisão,
-91051,Elixir de Evasão I,"Aumenta a Evasão em <Orange>{EffectParam1}</>
+91051,Elixir of Evasion I,"Aumenta a Evasão em <Orange>{EffectParam1}</>
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumenta a Evasão,
-91052,Elixir de Evasão II,"Aumenta a Evasão em <Orange>{EffectParam1}</>
+91052,Elixir of Evasion II,"Aumenta a Evasão em <Orange>{EffectParam1}</>
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumenta a Evasão,
-91053,Elixir de Evasão III,"Aumenta a Evasão em <Orange>{EffectParam1}</>
+91053,Elixir of Evasion III,"Aumenta a Evasão em <Orange>{EffectParam1}</>
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumenta a Evasão,
-91061,Elixir de HP I,"Aumenta HP em <Orange>{EffectParam1}</>
+91061,Elixir of HP I,"Aumenta HP em <Orange>{EffectParam1}</>
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumenta HP,
 91062,HP Elixir II,"Aumenta HP em <Orange>{EffectParam1}</>
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumenta HP,
-91063,Elixir de HP III,"Aumenta HP em <Orange>{EffectParam1}</>
+91063,Elixir of HP III,"Aumenta HP em <Orange>{EffectParam1}</>
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumenta HP,
-91071,Elixir da Agressividade I,"aumenta Taxa de precisão contra jogadores por <Orange>{EffectParam1}</>%
+91071,Elixir of Onslaught I,"aumenta Taxa de precisão contra jogadores por <Orange>{EffectParam1}</>%
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumenta a taxa de precisão do jogador,
-91072,Elixir da Agressividade II,"aumenta Taxa de precisão contra jogadores por <Orange>{EffectParam1}</>%
+91072,Elixir of Onslaught II,"aumenta Taxa de precisão contra jogadores por <Orange>{EffectParam1}</>%
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumenta a taxa de precisão do jogador,
-91073,Elixir da Aceleração Onslaught III,"aumenta Taxa de precisão contra jogadores por <Orange>{EffectParam1}</>%
+91073,Elixir of Onslaught III,"aumenta Taxa de precisão contra jogadores por <Orange>{EffectParam1}</>%
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumenta a taxa de precisão do jogador,
 91081,Elixir de Aceleração I,"Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%
@@ -1939,10 +1939,10 @@ Reduz a duração do controle de multidão em <Orange>{EffectParam4}</>%",Combat
 91093,Elixir de resistência ao controle de multidão III,"Aumenta a taxa de resistência ao controle de multidão em <Orange>{EffectParam1}</>%
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumento da resistência ao controle de multidão,
-91101,Elixir do Herói I,"Aumenta o dano a monstros chefes em <Orange>{EffectParam1}</>%
+91101,Elixir of Hero I,"Aumenta o dano a monstros chefes em <Orange>{EffectParam1}</>%
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumenta o dano contra monstros chefes,
-91102,Elixir do Herói II,"Aumenta o dano a monstros chefes em <Orange>{EffectParam1}</>%
+91102,Hero’s Elixir II,"Aumenta o dano a monstros chefes em <Orange>{EffectParam1}</>%
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumenta o dano contra monstros chefes,
 91103,Elixir de herói III,"Aumenta o dano a monstros chefes em <Orange>{EffectParam1}</>%
@@ -1982,17 +1982,17 @@ Reduz a duração do controle de multidão em <Orange>{EffectParam4}</>%",Combat
 
 <Orange>※ Aplica-se até o nível do personagem 75.</>
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumenta o ganho de EXP,
-91141,Elixir do crescimento do abismo I,"Ao derrotar monstros, aumenta o ganho de EXP em <Orange>{EffectParam1}</>%
+91141,Abyss Elixir of Growth I,"Ao derrotar monstros, aumenta o ganho de EXP em <Orange>{EffectParam1}</>%
 
 <Orange>※ Aplica-se apenas dentro do Abyss Battlefield.</>
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumenta o ganho de EXP,
-91151,Elixir de Erosão I,"Aumenta a taxa de resistência à erosão em <Orange>{EffectParam1}</>%
+91151,Elixir of Erosion I,"Aumenta a taxa de resistência à erosão em <Orange>{EffectParam1}</>%
 
 <Orange>※ Não se aplica na Arena campos de batalha.</>",aumenta a taxa de resistência à erosão,
-91152,Elixir de Erosão II,"Aumenta a taxa de resistência à erosão em <Orange>{EffectParam1}</>%
+91152,Elixir of Erosion II,"Aumenta a taxa de resistência à erosão em <Orange>{EffectParam1}</>%
 
 <Orange>※ Não se aplica na Arena campos de batalha.</>",aumenta a taxa de resistência à erosão,
-91153,Elixir de Erosão III,"Aumenta a taxa de resistência à erosão em <Orange>{EffectParam1}</>%
+91153,Elixir of Erosion III,"Aumenta a taxa de resistência à erosão em <Orange>{EffectParam1}</>%
 
 <Orange>※ Não se aplica na Arena campos de batalha.</>",aumenta a taxa de resistência à erosão,
 91201,Baba Bread,"Reduz o dano recebido de monstros em <Orange>{EffectParam1}</>%
@@ -2014,11 +2014,11 @@ Reduz o dano recebido de jogadores por <Orange>{EffectParam2}</>%
 91206,Moon Halo Wine,"Ao derrotar monstros, aumenta o ganho de EXP em <Orange>{EffectParam1}</>%
 
 <Orange>※ Não se aplica na Arena campos de batalha.</>",Aumenta o ganho de EXP,
-91207,Bolo de Festival de 200 Dias,"Aumenta Velocidade de ataque em <Orange>{EffectParam1}</>%
+91207,200-Day Festival Cake,"Aumenta Velocidade de ataque em <Orange>{EffectParam1}</>%
  Aumenta a velocidade de lançamento de Skill em <Orange>{EffectParam2}</>%
 
 <Orange>※ Não se aplica nos campos de batalha da Arena.</>",Aumenta a velocidade,
-91208,Vinho envelhecido de 200 dias,"Ao derrotar monstros, aumenta o ganho de EXP em <Orange>{EffectParam1}</>%
+91208,200-Day Aged Wine,"Ao derrotar monstros, aumenta o ganho de EXP em <Orange>{EffectParam1}</>%
 
 <Orange>※ Não se aplica na Arena campos de batalha.</>",Aumenta o ganho de EXP,
 91209,Crusty Bread,"Reduz Dano recebido de monstros por <Orange>{EffectParam1}</>%
@@ -2225,27 +2225,27 @@ Reduz o resfriamento de Skill em <Orange>{EffectParam7}</>%
  Aumenta a Taxa de Redução de Dano de Ataque Básico contra monstros em <Orange>{EffectParam3}</>%
  Aumenta a Taxa de Redução de Dano de Acerto Crítico contra monstros em <Orange>{EffectParam4}</>%
 Aumenta a taxa de ganho de ouro em <Orange>{EffectParam5}</>%",Fúria da Sentinela,
-71310,Ressonância do Sentinela (Proprietário),"Aumenta o ganho de EXP ao derrotar monstros em <Orange>{EffectParam1}</>%
+71310,Sentinel's Resonance (Proprietário),"Aumenta o ganho de EXP ao derrotar monstros em <Orange>{EffectParam1}</>%
 Aumenta a chance de maximização em <Orange>{EffectParam2}</>%
 Reduz Descer Skill Dano recebido por <Orange>{EffectParam3}</>%
-Reduz o custo de MP em <Orange>{EffectParam4}</>%",Ressonância do Sentinela (Proprietário),
-71311,Ressonância do Sentinela (Membro do Clã),"Aumenta o ganho de EXP ao derrotar monstros em <Orange>{EffectParam1}</>%
+Reduz o custo de MP em <Orange>{EffectParam4}</>%",Sentinel's Resonance (Proprietário),
+71311,Sentinel's Resonance (Membro do Clã),"Aumenta o ganho de EXP ao derrotar monstros em <Orange>{EffectParam1}</>%
 Aumenta a chance de maximização em <Orange>{EffectParam2}</>%
 Reduz Descer Skill Dano recebido por <Orange>{EffectParam3}</>%
-Reduz o custo de MP em <Orange>{EffectParam4}</>%",Ressonância do Sentinela (Membro do Clã),
+Reduz o custo de MP em <Orange>{EffectParam4}</>%",Sentinel's Resonance (Membro do Clã),
 71320,Fúria da Sentinela,"Aumenta a taxa de precisão contra monstros em <Orange>{EffectParam1}</>%
  Aumenta a taxa de evasão contra monstros em <Orange>{EffectParam2}</>%
  Aumenta a Taxa de Redução de Dano de Ataque Básico contra monstros em <Orange>{EffectParam3}</>%
  Aumenta a Taxa de Redução de Dano de Acerto Crítico contra monstros em <Orange>{EffectParam4}</>%
 Aumenta a taxa de ganho de ouro em <Orange>{EffectParam5}</>%",Fúria da Sentinela,
-71330,Ressonância do Sentinela (Proprietário),"Aumenta o ganho de EXP ao derrotar monstros em <Orange>{EffectParam1}</>%
+71330,Sentinel's Resonance (Proprietário),"Aumenta o ganho de EXP ao derrotar monstros em <Orange>{EffectParam1}</>%
 Aumenta a chance de maximização em <Orange>{EffectParam2}</>%
 Reduz Descer Skill Dano recebido por <Orange>{EffectParam3}</>%
-Reduz o custo de MP em <Orange>{EffectParam4}</>%",Ressonância do Sentinela (Proprietário),
-71331,Ressonância do Sentinela (Membro do Clã),"Aumenta o ganho de EXP ao derrotar monstros em <Orange>{EffectParam1}</>%
+Reduz o custo de MP em <Orange>{EffectParam4}</>%",Sentinel's Resonance (Proprietário),
+71331,Sentinel's Resonance (Membro do Clã),"Aumenta o ganho de EXP ao derrotar monstros em <Orange>{EffectParam1}</>%
 Aumenta a chance de maximização em <Orange>{EffectParam2}</>%
 Reduz Descer Skill Dano recebido por <Orange>{EffectParam3}</>%
-Reduz o custo de MP em <Orange>{EffectParam4}</>%",Ressonância do Sentinela (Membro do Clã),
+Reduz o custo de MP em <Orange>{EffectParam4}</>%",Sentinel's Resonance (Membro do Clã),
 71401,Alma do Guardião,"Aumenta Taxa de precisão em <Orange>{EffectParam1}</>%
 Aumenta a velocidade de movimento em <Orange>{EffectParam2}</>%
 Aumenta o Dano Verdadeiro do Ataque Básico contra jogadores em <Orange>{EffectParam3}</>
@@ -2404,18 +2404,18 @@ Taxa de queda de item aumentada em <Orange>{EffectParam2}</>%",Tempo Quente da G
 130101,Recompensa Indomável,Recompensas adicionais concedidas ao defender com sucesso o Golem Guardião,Recompensas adicionais por defender o Golem Guardião,
 130151,Melhorar Golem Guardião,Dano recebido pelo Guardian Golem reduzido e sua Evasão e Regeneração de HP aumentadas.,Melhorar Golem Guardião,
 130161,Recompensa Indomável,Recompensas adicionais concedidas ao defender com sucesso o Golem Guardião,Recompensas adicionais por defender o Golem Guardião,
-3001001,Tocha de Ashur (proprietário),"EXP Ganho ao derrotar monstros aumentado em <Orange>{EffectParam1}</>%
+3001001,Ashur's Torch (proprietário),"EXP Ganho ao derrotar monstros aumentado em <Orange>{EffectParam1}</>%
  Chance de acerto crítico aumentada em <Orange>{EffectParam2}</>%
 Taxa de maximização aumentada em <Orange>{EffectParam3}</>%
 Descent Skill Dano aumentado em <Orange>{EffectParam4}</>%
 Penetração aumentada em <Orange>{EffectParam5}</>
-Bloqueio aumentado em <Orange>{EffectParam6}</>",Tocha de Ashur (proprietário),
-3001002,Tocha de Ashur (membro do clã),"EXP Ganho ao derrotar monstros aumentado em <Orange>{EffectParam1}</>%
+Bloqueio aumentado em <Orange>{EffectParam6}</>",Ashur's Torch (proprietário),
+3001002,Ashur's Torch (membro do clã),"EXP Ganho ao derrotar monstros aumentado em <Orange>{EffectParam1}</>%
  Chance de acerto crítico aumentada em <Orange>{EffectParam2}</>%
 Taxa de maximização aumentada em <Orange>{EffectParam3}</>%
 Descent Skill Dano aumentado em <Orange>{EffectParam4}</>%
 Penetração aumentada em <Orange>{EffectParam5}</>
-Bloqueio aumentado em <Orange>{EffectParam6}</>",Tocha de Ashur (membro do clã),
+Bloqueio aumentado em <Orange>{EffectParam6}</>",Ashur's Torch (membro do clã),
 130011,Benefício de grau 1 (Classificação de nível),"Defesa aumentada em <Orange>{EffectParam1}</>
 MP Regeneração aumentada em <Orange>{EffectParam2}</>
  HP máximo aumentado em <Orange>{EffectParam3}</>
@@ -2546,54 +2546,54 @@ Reduz o dano Skill de alvo único recebido por <Orange>{EffectParam2}</>%",Efeit
 140304,Abyssal Form III,Aumenta a penetração em <Orange>{EffectParam1}</>,Abyssal Form III Efeito,
 140305,Abyssal Form III,Aumenta a penetração em <Orange>{EffectParam1}</>,Abyssal Form III Efeito,
 140306,Abyssal Form III,Aumenta a penetração em <Orange>{EffectParam1}</>,Abyssal Form III Efeito,
-140401,Anima Form I,Recupera um <Orange>{EffectParam1}</>% adicional do HP máximo após a ressurreição,Forma de animação I Efeito,
-140402,Anima Form I,Recupera um <Orange>{EffectParam1}</>% adicional do HP máximo após a ressurreição,Forma de animação I Efeito,
-140403,Anima Form I,Recupera um <Orange>{EffectParam1}</>% adicional do HP máximo após a ressurreição,Forma de animação I Efeito,
-140404,Anima Form I,Recupera um <Orange>{EffectParam1}</>% adicional do HP máximo após a ressurreição,Forma de animação I Efeito,
-140405,Anima Form I,Recupera um <Orange>{EffectParam1}</>% adicional do HP máximo após a ressurreição,Forma de animação I Efeito,
-140406,Anima Form I,Recupera um <Orange>{EffectParam1}</>% adicional do HP máximo após a ressurreição,Forma de animação I Efeito,
+140401,Anima Form I,Recupera um <Orange>{EffectParam1}</>% adicional do HP máximo após a ressurreição,Efeito de Anima Form I,
+140402,Anima Form I,Recupera um <Orange>{EffectParam1}</>% adicional do HP máximo após a ressurreição,Efeito de Anima Form I,
+140403,Anima Form I,Recupera um <Orange>{EffectParam1}</>% adicional do HP máximo após a ressurreição,Efeito de Anima Form I,
+140404,Anima Form I,Recupera um <Orange>{EffectParam1}</>% adicional do HP máximo após a ressurreição,Efeito de Anima Form I,
+140405,Anima Form I,Recupera um <Orange>{EffectParam1}</>% adicional do HP máximo após a ressurreição,Efeito de Anima Form I,
+140406,Anima Form I,Recupera um <Orange>{EffectParam1}</>% adicional do HP máximo após a ressurreição,Efeito de Anima Form I,
 140501,Anima Form II,"Aumenta o dano contra alvos congelados/sangrando em <Orange>{EffectParam1}</>%
-Reduz o dano recebido de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de forma de animação II,
+Reduz o dano recebido de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de Anima Form II,
 140502,Anima Form II,"Aumenta o dano contra alvos congelados/sangrando em <Orange>{EffectParam1}</>%
-Reduz o dano recebido de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de forma de animação II,
+Reduz o dano recebido de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de Anima Form II,
 140503,Anima Form II,"Aumenta o dano contra alvos congelados/sangrando em <Orange>{EffectParam1}</>%
-Reduz o dano recebido de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de forma de animação II,
+Reduz o dano recebido de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de Anima Form II,
 140504,Anima Form II,"Aumenta o dano contra alvos congelados/sangrando em <Orange>{EffectParam1}</>%
-Reduz o dano recebido de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de forma de animação II,
+Reduz o dano recebido de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de Anima Form II,
 140505,Anima Form II,"Aumenta o dano contra alvos congelados/sangrando em <Orange>{EffectParam1}</>%
-Reduz o dano recebido de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de forma de animação II,
+Reduz o dano recebido de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de Anima Form II,
 140506,Anima Form II,"Aumenta o dano contra alvos congelados/sangrando em <Orange>{EffectParam1}</>%
-Reduz o dano recebido de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de forma de animação II,
-140601,Anima Form III,Aumenta o bloqueio em <Orange>{EffectParam1}</>,Forma de animação III Efeito,
-140602,Anima Form III,Aumenta o bloqueio em <Orange>{EffectParam1}</>,Forma de animação III Efeito,
-140603,Anima Form III,Aumenta o bloqueio em <Orange>{EffectParam1}</>,Forma de animação III Efeito,
-140604,Anima Form III,Aumenta o bloqueio em <Orange>{EffectParam1}</>,Forma de animação III Efeito,
-140605,Anima Form III,Aumenta o bloqueio em <Orange>{EffectParam1}</>,Forma de animação III Efeito,
-140606,Anima Form III,Aumenta o bloqueio em <Orange>{EffectParam1}</>,Forma de animação III Efeito,
+Reduz o dano recebido de vários alvos Skills em <Orange>{EffectParam2}</>%",Efeito de Anima Form II,
+140601,Anima Form III,Aumenta o bloqueio em <Orange>{EffectParam1}</>,Efeito de Anima Form III,
+140602,Anima Form III,Aumenta o bloqueio em <Orange>{EffectParam1}</>,Efeito de Anima Form III,
+140603,Anima Form III,Aumenta o bloqueio em <Orange>{EffectParam1}</>,Efeito de Anima Form III,
+140604,Anima Form III,Aumenta o bloqueio em <Orange>{EffectParam1}</>,Efeito de Anima Form III,
+140605,Anima Form III,Aumenta o bloqueio em <Orange>{EffectParam1}</>,Efeito de Anima Form III,
+140606,Anima Form III,Aumenta o bloqueio em <Orange>{EffectParam1}</>,Efeito de Anima Form III,
 140701,Indomitable Form I,"Aumenta Dano recebido enquanto estiver na [Postura de Ataque] por <Orange>{EffectParam1}</>% 
-Reduz o dano recebido enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito Indomável Forma I,
+Reduz o dano recebido enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito de Indomitable Form I,
 140702,Indomitable Form I,"Aumenta Dano recebido enquanto estiver na [Postura de Ataque] por <Orange>{EffectParam1}</>% 
-Reduz o dano recebido enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito Indomável Forma I,
+Reduz o dano recebido enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito de Indomitable Form I,
 140703,Indomitable Form I,"Aumenta Dano recebido enquanto estiver na [Postura de Ataque] por <Orange>{EffectParam1}</>% 
-Reduz o dano recebido enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito Indomável Forma I,
+Reduz o dano recebido enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito de Indomitable Form I,
 140704,Indomitable Form I,"Aumenta Dano recebido enquanto estiver na [Postura de Ataque] por <Orange>{EffectParam1}</>% 
-Reduz o dano recebido enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito Indomável Forma I,
+Reduz o dano recebido enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito de Indomitable Form I,
 140705,Indomitable Form I,"Aumenta Dano recebido enquanto estiver na [Postura de Ataque] por <Orange>{EffectParam1}</>% 
-Reduz o dano recebido enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito Indomável Forma I,
+Reduz o dano recebido enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito de Indomitable Form I,
 140706,Indomitable Form I,"Aumenta Dano recebido enquanto estiver na [Postura de Ataque] por <Orange>{EffectParam1}</>% 
-Reduz o dano recebido enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito Indomável Forma I,
+Reduz o dano recebido enquanto estiver em [Specialized] por <Orange>{EffectParam2}</>%",Efeito de Indomitable Form I,
 140801,Indomitable Form II,"Aumenta o dano em [{EffectParam1}]% enquanto estiver no <Orange>Special</> Postura
-Reduz o dano recebido em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Forma Indomável II Efeito,
+Reduz o dano recebido em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Efeito de Indomitable Form II,
 140802,Indomitable Form II,"Aumenta o dano em [{EffectParam1}]% enquanto estiver no <Orange>Special</> Postura
-Reduz o dano recebido em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Forma Indomável II Efeito,
+Reduz o dano recebido em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Efeito de Indomitable Form II,
 140803,Indomitable Form II,"Aumenta o dano em [{EffectParam1}]% enquanto estiver no <Orange>Special</> Postura
-Reduz o dano recebido em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Forma Indomável II Efeito,
+Reduz o dano recebido em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Efeito de Indomitable Form II,
 140804,Indomitable Form II,"Aumenta o dano em [{EffectParam1}]% enquanto estiver no <Orange>Special</> Postura
-Reduz o dano recebido em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Forma Indomável II Efeito,
+Reduz o dano recebido em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Efeito de Indomitable Form II,
 140805,Indomitable Form II,"Aumenta o dano em [{EffectParam1}]% enquanto estiver no <Orange>Special</> Postura
-Reduz o dano recebido em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Forma Indomável II Efeito,
+Reduz o dano recebido em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Efeito de Indomitable Form II,
 140806,Indomitable Form II,"Aumenta o dano em [{EffectParam1}]% enquanto estiver no <Orange>Special</> Postura
-Reduz o dano recebido em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Forma Indomável II Efeito,
+Reduz o dano recebido em [{EffectParam2}]% enquanto está na postura <Orange>Attack</>",Efeito de Indomitable Form II,
 110000,Dano de queda,,,
 110010,Deslizar,,,
 100000,,,,
@@ -3453,7 +3453,7 @@ Você deve deixar a área.",Danos ao longo do tempo,
 5000101,,,,
 5000111,,,,
 5000121,Freeze,Efeito do Chill Trap. Reduz a velocidade de movimento em <Red>{EffectParam1}</>%.,,
-5000122,Poison,Efeito da Armadilha de Névoa Venenosa. Reduz a velocidade de movimento em <Red>{EffectParam1}</>%.,,
+5000122,Poison,Efeito da Armadilha de Poison Mist. Reduz a velocidade de movimento em <Red>{EffectParam1}</>%.,,
 5000123,Eletrocussão,Efeito da Armadilha Relâmpago. Atordoa por 1 segundo.,,
 5000131,,,,
 5000132,,,,
@@ -3472,7 +3472,7 @@ Você deve deixar a área.",Danos ao longo do tempo,
 5000163,,,,
 5000191,,,,
 5001121,Freeze,Efeito do Chill Trap. Reduz a velocidade de movimento em <Red>{EffectParam1}</>%.,,
-5001122,Poison,Efeito da Armadilha de Névoa Venenosa. Reduz a velocidade de movimento em <Red>{EffectParam1}</>%.,,
+5001122,Poison,Efeito da Armadilha de Poison Mist. Reduz a velocidade de movimento em <Red>{EffectParam1}</>%.,,
 5001123,Eletrocussão,Efeito da Armadilha Relâmpago. Atordoa por 1 segundo.,,
 5001131,,,,
 5001132,,,,

@@ -49,16 +49,16 @@
 100508,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
 100509,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
 100510,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
-100601,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Barreira Temporal
-100602,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Barreira Temporal
-100603,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Barreira Temporal
-100604,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Barreira Temporal
-100605,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Barreira Temporal
-100606,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Barreira Temporal
-100607,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Barreira Temporal
-100608,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Barreira Temporal
-100609,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Barreira Temporal
-100610,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Barreira Temporal
+100601,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Temporal Barrier
+100602,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Temporal Barrier
+100603,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Temporal Barrier
+100604,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Temporal Barrier
+100605,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Temporal Barrier
+100606,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Temporal Barrier
+100607,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Temporal Barrier
+100608,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Temporal Barrier
+100609,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Temporal Barrier
+100610,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Temporal Barrier
 100701,Guardião da Torre {TaskIndex},Derrote Monstros {RequiredStackCount} na Giant's Tower
 100702,Guardião da Torre {TaskIndex},Derrote Monstros {RequiredStackCount} na Giant's Tower
 100703,Guardião da Torre {TaskIndex},Derrote Monstros {RequiredStackCount} na Giant's Tower
@@ -169,16 +169,16 @@
 101708,As incursões não têm nada contra mim {TaskIndex},Limpar todos os tipos de incursões {RequiredStackCount} vezes
 101709,As incursões não têm nada contra mim {TaskIndex},Limpar todos os tipos de incursões {RequiredStackCount} vezes
 101710,As incursões não têm nada contra mim {TaskIndex},Limpar todos os tipos de incursões {RequiredStackCount} vezes
-101801,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Arena Angbar
-101802,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Arena Angbar
-101803,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Arena Angbar
-101804,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Arena Angbar
-101805,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Arena Angbar
-101806,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Arena Angbar
-101807,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Arena Angbar
-101808,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Arena Angbar
-101809,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Arena Angbar
-101810,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Arena Angbar
+101801,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Angbar Arena
+101802,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Angbar Arena
+101803,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Angbar Arena
+101804,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Angbar Arena
+101805,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Angbar Arena
+101806,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Angbar Arena
+101807,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Angbar Arena
+101808,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Angbar Arena
+101809,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Angbar Arena
+101810,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Angbar Arena
 101901,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
 101902,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
 101903,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition

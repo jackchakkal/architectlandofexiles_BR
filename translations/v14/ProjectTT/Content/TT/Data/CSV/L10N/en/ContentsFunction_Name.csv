@@ -4,7 +4,7 @@
 1001004,{Param} +[Value]%,Velocidade de Natação
 1001005,{Param} +[Value]%,Velocidade de movimento
 1001006,{Param} +[Value]%,Resistência Máxima
-1001007,{Param} +[Value]%,Velocidade de montagem
+1001007,{Param} +[Value]%,Velocidade de Montaria
 1001008,{Param} +[Value]%,Velocidade de Ataque
 1001009,Afinidade adicional {Param} [Value] adquirida,Merchants Guild
 1001010,Afinidade adicional {Param} [Value] adquirida,Blacksmiths Guild
@@ -29,16 +29,16 @@
 1002014,Afinidade adicional {Param} [Value] adquirida,Explorers Guild
 1002015,Afinidade adicional {Param} [Value] adquirida,Wayfinders Guild
 10101,{Param}{jstag:} do personagem aumenta em [Value]%.,Velocidade de Movimento Básica
-10201,{Param}{jstag:} é adicionado para [Value] hora(s).,Tempo de reprodução off-line
+10201,{Param}{jstag:} é adicionado para [Value] hora(s).,Tempo de Jogo Off-line
 10301,Adiciona tentativa(s) de doação do clã [Value] {Param}.,Ouro
 10401,Adiciona slot(s) [Value] {Param}.,Inventário Padrão
-10501,Adiciona slot(s) [Value] {Param}.,Inventário Powerstone
+10501,Adiciona slot(s) [Value] {Param}.,Inventário de Powerstones
 10601,Adiciona slot(s) [Value] {Param}.,Stash
 10701,Aumenta a capacidade da poção em[Value].,
-10801,{Param} está disponível na guia Atualização da Loja.,Baú de Fantasia de Invocação Avançada
-10802,{Param} está disponível na guia Atualização da Loja.,Baú de Arma Fantasma de Invocação Avançada
-10803,{Param} está disponível na guia Atualização da Loja.,Pedra de Aprimoramento Baú
-10804,{Param} está disponível na guia Atualização da Loja.,Baú de seleção de pedras de aprimoramento
+10801,{Param} está disponível na guia Atualização da Loja.,Advanced Summon Costume Chest
+10802,{Param} está disponível na guia Atualização da Loja.,Advanced Summon Phantom Weapon Chest
+10803,{Param} está disponível na guia Atualização da Loja.,Enhancement Stone Chest
+10804,{Param} está disponível na guia Atualização da Loja.,Enhancement Stone Selection Chest
 10901,Adiciona tentativa(s) de modo de manutenção [Value].,
 11001,Reduz os custos de compra da loja geral em [Value]%.,
 11101,Aumenta a contagem de mortes de monstros em [Value] após {Param}.,Comissão diária
@@ -46,7 +46,7 @@
 11301,Ativa o recurso Arbiter’s Ordeal Multi-Clear.,
 11401,Receba [Value] Arbiter's Ordeal Token por dia pela caixa de entrada.,
 11501,Ativa o recurso de desmontagem automática de equipamento.,
-11601,{Param}{jstag:} é adicionado(s) tempo(s) [Value].,Tentativas de recuperação de pena de morte gratuita
+11601,{Param}{jstag:} é adicionado(s) tempo(s) [Value].,Tentativas Gratuitas de Recuperação de Penalidade de Morte
 11701,{Param}{jstag:} é adicionado(s) tempo(s) [Value].,Cura Gratuita do Curador
 11801,Receba recompensas de afinidade [Value]x em {Param}.,Comissão diária
 11802,Receba recompensas de afinidade [Value]x em {Param}.,Comissão diária
@@ -55,7 +55,7 @@
 11805,Receba recompensas de afinidade [Value]x em {Param}.,Comissão diária
 11806,Receba recompensas de afinidade [Value]x em {Param}.,Comissão diária
 11807,Receba recompensas de afinidade [Value]x em {Param}.,Comissão diária
-11901,{Param}{jstag:} é adicionado(s) tempo(s) [Value].,Marketplace Capacidade de listagem
+11901,{Param}{jstag:} é adicionado(s) tempo(s) [Value].,Capacidade de Anúncios no Marketplace
 11815,Receba recompensas de afinidade [Value]x em {Param}.,Comissão Semanal
 11816,Receba recompensas de afinidade [Value]x em {Param}.,Comissão Semanal
 11817,Receba recompensas de afinidade [Value]x em {Param}.,Comissão Semanal
@@ -177,7 +177,7 @@
 1000959,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
 1000960,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
 1000961,Aumenta a EXP do personagem ao matar monstros em {Param} em [Value]%.,Giant's Tower 1F
-1100101,{Param}{jstag:} é adicionado para [Value] hora(s).,Tempo de reprodução off-line
+1100101,{Param}{jstag:} é adicionado para [Value] hora(s).,Tempo de Jogo Off-line
 9000101,Tempo quente da Giant's Tower [Value]x,
 9000102,Aumenta o ganho de EXP de mortes de monstros em {Param} em [Value]%.,Abandoned Land
 9000201,Tempo quente da Giant's Tower [Value]x,
@@ -186,15 +186,15 @@
 20301,O ganho semanal do Cristal Negro aumenta em [Value]%.,
 20401,Receba [Value] Giant's Tower Hot Time Recharge Ticket por dia pela caixa de entrada.,
 20501,A taxa de reembolso de redefinição do Crest of the Ancients aumenta em [Value]%.,
-20601,O custo de redefinição do Crista dos Antigos diminui em [Value]%.,
-20701,{Param}{jstag:} é adicionado para [Value] hora(s).,Tempo de reprodução off-line
-20801,{Param}{jstag:} é adicionado(s) tempo(s) [Value].,Marketplace Capacidade de listagem
+20601,O custo de redefinição do Crest of the Ancients diminui em [Value]%.,
+20701,{Param}{jstag:} é adicionado para [Value] hora(s).,Tempo de Jogo Off-line
+20801,{Param}{jstag:} é adicionado(s) tempo(s) [Value].,Capacidade de Anúncios no Marketplace
 20901,Receba Cristal(es) de Autoridade [Value] via caixa de entrada diariamente.,
 21001,{Param} está disponível na guia Atualização da Loja.,30 Faint Magic-Imbued Clockwork Springs
 21002,{Param} está disponível na guia Atualização da Loja.,10.000 Stardust
-21101,O ouro para aumento de nível do Crista dos Antigos diminui em [Value]%.,
+21101,O ouro para aumento de nível do Crest of the Ancients diminui em [Value]%.,
 21201,{Param}{jstag:} é adicionado(s) tempo(s) [Value].,Cura Gratuita do Curador
-21301,{Param}{jstag:} é adicionado(s) tempo(s) [Value].,Tentativas de recuperação de pena de morte gratuita
+21301,{Param}{jstag:} é adicionado(s) tempo(s) [Value].,Tentativas Gratuitas de Recuperação de Penalidade de Morte
 21401,Adiciona tentativa(s) de doação do clã [Value] {Param}.,Ouro
 21501,Aumenta a capacidade da poção em[Value].,
 21601,Adiciona slot(s) [Value] {Param}.,Inventário Padrão

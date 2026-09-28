@@ -6,12 +6,12 @@
 103,Sistema,Recompensa do fornecedor,Enviado por correio devido a espaço insuficiente no inventário.
 104,Sistema,[PassName] Recompensa,Enviado por correio devido a espaço insuficiente no inventário.
 105,Sistema,Arbiter’s Ordeal Recompensa,Enviado por correio devido a espaço insuficiente no inventário.
-106,Sistema,Baú de tesouro,Enviado por correio devido a espaço insuficiente no inventário.
-107,Sistema,Baú de Tesouro Especial,Enviado por correio devido a espaço insuficiente no inventário.
+106,Sistema,Treasure Chest,Enviado por correio devido a espaço insuficiente no inventário.
+107,Sistema,Special Treasure Chest,Enviado por correio devido a espaço insuficiente no inventário.
 108,Sistema,Season Pass Premium Reward,Enviado por correio devido a espaço insuficiente no inventário.
 109,Sistema,Recompensa de Incursão,Enviado por correio devido a espaço insuficiente no inventário.
 110,Sistema,Recompensa da Grande Incursão,Enviado por correio devido a espaço insuficiente no inventário.
-111,Sistema,Recompensa do chefe do Rift,Enviado por correio devido a espaço insuficiente no inventário.
+111,Sistema,Recompensa de Rift Boss,Enviado por correio devido a espaço insuficiente no inventário.
 112,Sistema,Recompensas da Shadow Incursion,Enviado por correio devido a espaço insuficiente no inventário.
 113,Sistema,[PassName] O período de recompensa premium,Enviado por correio devido a espaço insuficiente no inventário.
 114,Sistema,Recompensa do Summon Pass,Enviado por correio devido a espaço insuficiente no inventário.
@@ -21,19 +21,19 @@
 204,Sistema,Restos do evento de incursão encerrado,[OriginalCount] [OriginalName] alterado para [MigratedCount] [MigratedName].
 205,Sistema,Restos do evento de incursão encerrado,[OriginalCount] [OriginalName] alterado para [MigratedCount] [MigratedName].
 206,Sistema,Infinito Temporada do corredor encerrada,[OriginalCount] [OriginalName] alterado para [MigratedCount] [MigratedName].
-207,Sistema,Festival de Halo encerrado,[OriginalCount] [OriginalName] alterado para [MigratedCount] [MigratedName].
+207,Sistema,Halo Festival encerrado,[OriginalCount] [OriginalName] alterado para [MigratedCount] [MigratedName].
 208,Sistema,foram convertidas em ouro.,[OriginalName] x[OriginalCount] convertido em [MigratedName] x[MigratedCount].
 209,Sistema,Melhorias no token de extermínio do Rift,"Seu [OriginalName] x[OriginalCount] foi convertido para recursos.
 Eles não ocupam mais slots de inventário e podem ser visualizados na guia Recursos."
 210,Sistema,Moedas Especiais de Arma Fantasma foram convertidas em Ouro.,[OriginalName] x[OriginalCount] convertido em [MigratedName] x[MigratedCount].
 211,Sistema,foram convertidas em ouro.,Moedas de Fantasia Especial foram convertidas em Ouro. Uma única moeda é convertida em 1.000 ouro.
-212,Sistema,Ataque em Titan Moedas Especiais foram convertidas em Ouro.,O ataque às moedas especiais Titan foi convertido em ouro. Uma única moeda é convertida em 1.000 ouro.
+212,Sistema,As Attack on Titan Special Coins foram convertidas em Ouro.,As Attack on Titan Special Coins foram convertidas em Ouro. Cada moeda foi convertida em 1.000 de ouro.
 213,Sistema,Moedas Especiais de Relíquias Sagradas foram convertidas em Ouro.,Moedas Especiais de Relíquia Sagrada foram convertidas em Ouro. Uma única moeda é convertida em 1.000 ouro.
 214,Sistema,O Impulso da Atualização de Verão Os bilhetes de roleta foram convertidos em Ouro.,Cada bilhete da Summer Upgrade Boost Roulette foi convertido em 1.000 Gold.
 215,Sistema,Moedas Especiais de Arma Fantasma foram convertidas em Ouro.,Moedas especiais de arma fantasma foram convertidas em ouro a uma taxa de 1.000 ouro por moeda.
 301,Sistema,Transferência do servidor do clã,Seu clã foi transferido para o servidor [ServerName].
-302,Sistema,Ticket de transferência de servidor de conta expirado,Ticket de transferência de servidor de conta expirou e o valor da compra foi reembolsado.
-303,Sistema,O ticket de transferência do servidor do clã expirou,O ticket de transferência do servidor do clã expirou e a compra valor foi reembolsado.
+302,Sistema,Account Server Transfer Ticket expirado,Account Server Transfer Ticket expirou e o valor da compra foi reembolsado.
+303,Sistema,O Clan Server Transfer Ticket expirou,O Clan Server Transfer Ticket expirou e a compra valor foi reembolsado.
 304,Sistema,Class Change Coin expirada,expiraram; elas foram substituídas por moedas de mudança de classe antiga.
 305,Sistema,Class Change Ticket expirado,Tickets de Mudança de Classe expiraram; eles foram reembolsados.
 306,Sistema,Transferência de servidor High Pass concluída,Bilhetes de transferência não utilizados foram reembolsados.
@@ -55,7 +55,7 @@ Verifique os itens anexados."
 1009,Sistema,Tesseract Recompensa de contribuição,Enviado por correio devido a espaço insuficiente no estoque para recompensa de contribuição [ItemName].
 1010,Sistema,Tesseract Recompensa de instalação,Enviado por correio devido a espaço insuficiente no inventário para o prêmio de instalação [ItemName].
 1011,Sistema,Recompensa de distribuição de recursos do clã,As recompensas de recursos distribuídas pelo Clã chegaram. Verifique os itens anexados.
-1012,Sistema,Santuário Etéreo Recompensa de conclusão,[DungeonName] Etéreo A recompensa do Santuário chegou. Verifique os itens anexados.
+1012,Sistema,Ethereal Sanctum Recompensa de conclusão,A recompensa de [DungeonName] Ethereal Sanctum chegou. Confira os itens anexados.
 1013,Sistema,Trial Gate Clear Reward,[DungeonName] A recompensa do Trial Gate chegou. Verifique os itens anexados.
 1014,Sistema,Recompensa de Classificação de Evento Evento,Recebeu uma recompensa por alcançar [EventName] em [Ranking].
 1015,Sistema,Compra de Evento Recompensas de Marco,Recebeu uma recompensa por atingir pontos [EventName] em [RewardGrade].
@@ -84,10 +84,10 @@ O prêmio da Temporada do Corredor Infinito [SeasonNo] [LeagueName] A fase de c
 Recompensa pela Temporada do Corredor Infinito [SeasonNo] [LeagueName] A adesão à Liga chegou."
 1049,Sistema,Temporada do corredor infinito terminando em breve,Temporada do Corredor Infinito [SeasonNo] fecha em 3 dias.
 1050,Sistema,Temporada do corredor infinito terminando em breve,Temporada do corredor infinito [SeasonNo] fecha em 1 dia.
-1051,Sistema,Recompensa de Participação no Corredor Perpétuo do Clã,"Enviado por correio devido à capacidade máxima de itens.
-A recompensa de participação para a temporada do corredor perpétuo do clã [SeasonNo] chegou."
-1052,Sistema,Recompensa de Classificação de Final de Temporada do Corredor Perpétuo do Clã,"Enviado por correio devido à capacidade máxima de itens.
-A recompensa de classificação para a Temporada do Corredor Perpétuo do Clã [SeasonNo] chegou."
+1051,Sistema,Recompensa de Participação no Clan Perpetual Corridor,"Enviado por correio devido à capacidade máxima de itens.
+A recompensa de participação para a temporada do Clan Perpetual Corridor [SeasonNo] chegou."
+1052,Sistema,Recompensa de Classificação de Final de Temporada do Clan Perpetual Corridor,"Enviado por correio devido à capacidade máxima de itens.
+A recompensa de classificação para a Temporada do Clan Perpetual Corridor [SeasonNo] chegou."
 1031,Sistema,[EventName] Recompensas de marco de pontuação do evento,[EventName] A recompensa por marco de pontuação do evento chegou.
 1032,Sistema,[EventName] Recompensa de classificação do evento,[EventName] A recompensa de classificação do evento chegou.
 1033,Sistema,Hidden Trial Gate Clear Reward,A recompensa de conclusão do Hidden Trial Gate chegou. Verifique os itens anexados.
@@ -178,7 +178,7 @@ Até mais."
 Estamos enviando esta carta para fornecer informações sobre o Codex, então verifique.
 
 ◈ Como usar o Codex ◈ 
-1. Encontre <Yellow> Baús de Tesouro</> e <Yellow>Resquícios do Gigante</>escondidos em todos os lugares.
+1. Encontre <Yellow> Treasure Chests</> e <Yellow>Giant’s Remnants</>escondidos em todos os lugares.
 2. Quando o registro for registrado no <Yellow>Codex</>, uma recompensa será concedida.
 
 ※ Esta carta recebeu permissão oficial de Orica, o Explorer Guild Master.

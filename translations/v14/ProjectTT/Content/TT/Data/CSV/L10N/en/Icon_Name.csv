@@ -1,34 +1,34 @@
 ﻿IconType,Param,Name,StringParam,Desc,Category
 EXP,,EXP,,Pontos necessários para subir de nível.,Recursos
 EXPPer,,EXP,,Pontos necessários para subir de nível.,Recursos
-Random,,Baú aleatório,,Um baú onde você pode obter itens aleatórios.,Item
+Random,,Random Chest,,Um baú onde você pode obter itens aleatórios.,Item
 ItemBagSlot,,Expandir o inventário de itens,,Expande os slots de inventário.,Item
-PassEXP,1,Pass{StringParam} EXP,Attack Pass,Pontos necessários para subir de nível no Pass{StringParam}.,Recursos
-PassEXP,2,Pass{StringParam} EXP,Attack Pass,Pontos necessários para subir de nível no Pass{StringParam}.,Recursos
-PassEXP,100,Pass{StringParam} EXP,Attack Pass,Pontos necessários para subir de nível no Pass{StringParam}.,Recursos
-PassEXP,1001,Passe de temporada,Attack Pass,EXP necessário para subir de nível {StringParam}.,Recursos
-PassEXP,1002,Passe de temporada,Attack Pass,EXP necessário para subir de nível {StringParam}.,Recursos
-PassEXP,1003,Passe de temporada,Attack Pass,EXP necessário para subir de nível {StringParam}.,Recursos
-PassEXP,1004,Passe de temporada,Attack Pass,EXP necessário para subir de nível {StringParam}.,Recursos
-PassEXP,1005,Passe de temporada,Attack Pass,EXP necessário para subir de nível {StringParam}.,Recursos
-PassEXP,1006,Passe de temporada,Attack Pass,EXP necessário para subir de nível {StringParam}.,Recursos
-PassEXP,1007,Passe de temporada,Attack Pass,EXP necessário para subir de nível {StringParam}.,Recursos
-PassEXP,1008,Passe de temporada,Attack Pass,EXP necessário para subir de nível {StringParam}.,Recursos
-PassEXP,1009,Passe de temporada,Attack Pass,EXP necessário para subir de nível {StringParam}.,Recursos
-PassEXP,2001,{StringParam} EXP,Attack Pass,EXP necessário para subir de nível {StringParam}.,Recursos
-PassEXP,2002,{StringParam} EXP,Attack Pass,EXP necessário para subir de nível {StringParam}.,Recursos
-PassEXP,3000,{StringParam} EXP,Attack Pass,EXP necessário para subir de nível {StringParam}.,Recursos
-PassEXP,10100,{StringParam} EXP,Attack Pass,EXP necessário para subir de nível {StringParam}.,Recursos
-PassEXP,10001,{StringParam} EXP,Attack Pass,EXP necessário para subir de nível {StringParam}.,Recursos
-PassEXP,10002,Halo Pass EXP,Attack Pass,EXP necessário para subir de nível {StringParam}.,Recursos
+PassEXP,1,Pass{StringParam} EXP,1,Pontos necessários para subir de nível no Pass{StringParam}.,Recursos
+PassEXP,2,Pass{StringParam} EXP,2,Pontos necessários para subir de nível no Pass{StringParam}.,Recursos
+PassEXP,100,Pass{StringParam} EXP,2,Pontos necessários para subir de nível no Pass{StringParam}.,Recursos
+PassEXP,1001,Season Pass,Season Pass,EXP necessário para subir de nível {StringParam}.,Recursos
+PassEXP,1002,Season Pass,Season Pass,EXP necessário para subir de nível {StringParam}.,Recursos
+PassEXP,1003,Season Pass,Season Pass,EXP necessário para subir de nível {StringParam}.,Recursos
+PassEXP,1004,Season Pass,Season Pass,EXP necessário para subir de nível {StringParam}.,Recursos
+PassEXP,1005,Season Pass,Season Pass,EXP necessário para subir de nível {StringParam}.,Recursos
+PassEXP,1006,Season Pass,Season Pass,EXP necessário para subir de nível {StringParam}.,Recursos
+PassEXP,1007,Season Pass,Season Pass,EXP necessário para subir de nível {StringParam}.,Recursos
+PassEXP,1008,Season Pass,Season Pass,EXP necessário para subir de nível {StringParam}.,Recursos
+PassEXP,1009,Season Pass,Season Pass,EXP necessário para subir de nível {StringParam}.,Recursos
+PassEXP,2001,{StringParam} EXP,Summon Pass,EXP necessário para subir de nível {StringParam}.,Recursos
+PassEXP,2002,{StringParam} EXP,Summon Pass,EXP necessário para subir de nível {StringParam}.,Recursos
+PassEXP,3000,{StringParam} EXP,Pacote de Avanço,EXP necessário para subir de nível {StringParam}.,Recursos
+PassEXP,10100,{StringParam} EXP,Pacote de passe,EXP necessário para subir de nível {StringParam}.,Recursos
+PassEXP,10001,{StringParam} EXP,Passe do Festival de Recompensas,EXP necessário para subir de nível {StringParam}.,Recursos
+PassEXP,10002,Halo Pass EXP,Halo Pass,EXP necessário para subir de nível {StringParam}.,Recursos
 PassEXP,10003,{StringParam} EXP,Attack Pass,EXP necessário para subir de nível {StringParam}.,Recursos
-ModularDungeonPoint,,Token de Provação,,Uma chave usada para inserir Arbiter’s Ordeal.,Recursos
+ModularDungeonPoint,,Ordeal Token,,Uma chave usada para entrar em Arbiter’s Ordeal.,Recursos
 ContentsChance,FrontierEntryTicket,Ticket de Entrada do Corredor Perpétuo,,"Uma licença usada para entrar no Corredor Perpétuo.
 Dez ingressos são fornecidos por dia.
 
 ※ Você pode ter até 30 ingressos.",Recursos
 ContentsChance,ClanFrontierEntryTicket,Hall of Proof Bilhete de entrada,,Uma permissão usada para inserir Hall of Proof.,Recursos
-ContentsChance,"GlobalBossRewardTicket,1",Dimensional Prism,,"Um cristal que captura a essência dos Rift chefes. Refine a energia dos chefes derrotados para obter tesouros dimensionais.
+ContentsChance,"GlobalBossRewardTicket,1",Dimensional Prism,,"Um cristal que captura a essência dos Rift Bosses. Refine a energia dos chefes derrotados para obter tesouros dimensionais.
 
 ※ Os Prismas Dimensionais são redefinidos para 3 a cada semana.",Recursos
 ContentsChance,"GlobalBossRewardTicket,2",Prisma de colaboração,,"Um cristal que captura a essência da Colaboração Beast Giant. Refine a energia dos chefes derrotados para obter tesouros.

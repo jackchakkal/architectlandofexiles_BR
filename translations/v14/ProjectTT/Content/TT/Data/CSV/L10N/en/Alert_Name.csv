@@ -1,7 +1,7 @@
 ﻿Id,String,Param
 2,{Param}{jstag:} aparecerá em breve! O protetor de,Anteaters
 3,{Param}{jstag:} apareceu!,Anteaters
-4,{Param}{jstag:} está se preparando para um ataque poderoso <Red></>!,Giant Morcego
+4,{Param}{jstag:} está se preparando para um ataque poderoso <Red></>!,Morcego Gigante
 5,{Param}{jstag:} está se preparando para um ataque poderoso <Red></>!,Titan
 6,Você derrotou monstros <Red>{Param}</>!,50
 7,Você derrotou monstros <Red>{Param}</>!,100
@@ -280,13 +280,13 @@
 3400009,Kubaba nomeou <Red>[CharacterName]</>.,
 3400006,{Param}{jstag:} enlouquece depois de não conseguir bloquear o ataque de Kubaba.,Kubaba
 3400007,{Param}{jstag:} enlouquece depois de não conseguir bloquear o ataque de Kubaba.,Kubaba
-3400008,{Param}{jstag:} enlouquece depois de não conseguir bloquear o ataque de Kubaba.,Kubaba Tripulação
-3400010,{Param}{jstag:} enlouquece depois de não conseguir bloquear o ataque de Kubaba.,Kubaba Tripulação
+3400008,{Param}{jstag:} enlouquece depois de não conseguir bloquear o ataque de Kubaba.,Kubaba’s Crew
+3400010,{Param}{jstag:} enlouquece depois de não conseguir bloquear o ataque de Kubaba.,Kubaba’s Crew
 3400011,Kubaba nomeou <Red>[CharacterName]</>.,
 3400012,Kubaba nomeou <Red>[CharacterName]</>.,
 3400013,Kubaba nomeou <Red>[CharacterName]</>.,
 3400014,{Param}{jstag:} enlouquece depois de não conseguir bloquear o ataque de Kubaba.,Kubaba
-3400015,{Param}{jstag:} enlouquece depois de não conseguir bloquear o ataque de Kubaba.,Kubaba Tripulação
+3400015,{Param}{jstag:} enlouquece depois de não conseguir bloquear o ataque de Kubaba.,Kubaba’s Crew
 204011101,A tocha de Atrahasis está sob ataque.,
 204011102,A tocha de Atrahasis está desmoronando.,
 204011103,A tocha de Atrahasis será destruída em breve.,

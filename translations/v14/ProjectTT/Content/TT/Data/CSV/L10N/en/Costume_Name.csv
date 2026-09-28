@@ -21,13 +21,13 @@
 190110019,{Param}‘s Traveler,,Asientet
 190120020,{Param}‘s Adventurer,,Stormkel
 190130021,{Param}‘s Adventurer,,Asientet
-190130022,{Param}‘s Expedition,,Sertões
+190130022,{Param}‘s Expedition,,Barrens
 190130023,{Param}‘s Expedition,,Plains
-190130024,{Param}‘s Expedition,,Cumes
-190130025,{Param}‘s Expedition,,Campos de neve
+190130024,{Param}‘s Expedition,,Ridges
+190130025,{Param}‘s Expedition,,Snowfields
 190210001,Elsetia’s Succession Outfit,,
-190210002,{Param}‘s Warrior,,Honra
-190210003,{Param}‘s Warrior,,Indomável
+190210002,{Param}‘s Warrior,,Honor
+190210003,{Param}‘s Warrior,,Indomitable
 190210004,{Param}‘s Scouting Party,,Labyrinth
 190210005,{Param}‘s Explorer,,Asientet
 190210006,{Param}‘s Monster Hunter,,Asientet
@@ -37,7 +37,7 @@
 190210010,{Param}‘s Monster Hunter,,Frantia
 190210011,{Param}‘s Fixer,,Enkia
 190220012,{Param}‘s Wanderer,,Enkia
-190220013,{Param}‘s Scouting Party,,Ruínas
+190220013,{Param}‘s Scouting Party,,Ruins
 190220014,{Param}‘s Scouting Party,,Rift
 190220015,{Param}‘s Warrior,,Valor
 190220016,{Param}‘s Wanderer,,Asientet
@@ -45,56 +45,56 @@
 190220018,{Param}‘s Wanderer,,Stormkel
 190220019,{Param}‘s Wanderer,,Frantia
 190230020,{Param}‘s Explorer,,Enkia
-190230021,{Param}‘s Warrior,,Vitória
+190230021,{Param}‘s Warrior,,Victory
 190230022,{Param}‘s Fixer,,Asientet
 190230023,{Param}‘s Monster Hunter,,Krea
 190230024,{Param}‘s Monster Hunter,,Stormkel
 190230025,{Param}‘s Explorer,,Frantia
 190230026,{Param}‘s Monster Hunter,,Enkia
-190310001,{Param} Officer,,Menor
-190310002,{Param} Mercenary,,Menor
-190310003,{Param} Mercenary,,Intermediário
-190310004,{Param} Swordsman,,Menor
-190310005,{Param} Swordsman,,Intermediário
+190310001,{Param} Officer,,Lesser
+190310002,{Param} Mercenary,,Lesser
+190310003,{Param} Mercenary,,Intermediate
+190310004,{Param} Swordsman,,Lesser
+190310005,{Param} Swordsman,,Intermediate
 190310006,Treasure Hunter,,
 190310007,Ruin Restorer,,
-190310008,{Param} Infantry,,Menor
-190310009,{Param} Infantry,,Intermediário
-190310010,{Param} Scout,,Menor
-190310011,{Param} Scout,,Intermediário
-190310012,{Param} Priest,,Menor
-190310013,{Param} Special Agent,,Menor
-190310014,{Param} Special Agent,,Intermediário
-190310015,{Param} Executor,,Menor
-190310016,{Param} Tracker,,Menor
-190320017,{Param} Officer,,Intermediário
-190320018,{Param} Mercenary,,Maior
-190320019,{Param} Mercenary,,Supremo
-190320020,{Param} Swordsman,,Maior
+190310008,{Param} Infantry,,Lesser
+190310009,{Param} Infantry,,Intermediate
+190310010,{Param} Scout,,Lesser
+190310011,{Param} Scout,,Intermediate
+190310012,{Param} Priest,,Lesser
+190310013,{Param} Special Agent,,Lesser
+190310014,{Param} Special Agent,,Intermediate
+190310015,{Param} Executor,,Lesser
+190310016,{Param} Tracker,,Lesser
+190320017,{Param} Officer,,Intermediate
+190320018,{Param} Mercenary,,Greater
+190320019,{Param} Mercenary,,Supreme
+190320020,{Param} Swordsman,,Greater
 190320021,Ruin Collector,,
 190320022,Archaeologist,,
-190320023,{Param} Executor,,Intermediário
-190320024,{Param} Officer,,Maior
-190320025,{Param} Tracker,,Intermediário
-190320026,{Param} Scout,,Maior
-190320027,{Param} Priest,,Intermediário
-190320028,{Param} Priest,,Maior
-190320029,{Param} Special Agent,,Maior
-190320030,{Param}‘s Wizard,,Terra
+190320023,{Param} Executor,,Intermediate
+190320024,{Param} Officer,,Greater
+190320025,{Param} Tracker,,Intermediate
+190320026,{Param} Scout,,Greater
+190320027,{Param} Priest,,Intermediate
+190320028,{Param} Priest,,Greater
+190320029,{Param} Special Agent,,Greater
+190320030,{Param}‘s Wizard,,Earth
 190330031,{Param} Special Agent,,Prime
-190330032,{Param} Priest,,Sênior
+190330032,{Param} Priest,,Senior
 190330033,{Param} Swordsman,,Apex
-190330034,{Param} Executor,,Maior
-190330035,{Param} Infantry,,Maior
-190330036,{Param} Tracker,,Maior
-190330037,{Param}‘s Wizard,,Dispara
-190330038,{Param}‘s Wizard,,Água
+190330034,{Param} Executor,,Greater
+190330035,{Param} Infantry,,Greater
+190330036,{Param} Tracker,,Greater
+190330037,{Param}‘s Wizard,,Fire
+190330038,{Param}‘s Wizard,,Water
 190350039,{Param} Infantry,,Elite
-190350040,{Param} Officer,,Comando
+190350040,{Param} Officer,,Command
 190350041,{Param} Scout,,Elite
-190350042,{Param} Executor,,Sênior
-190350043,{Param} Tracker,,Prestigioso
-190350044,{Param}‘s Wizard,,Vento
+190350042,{Param} Executor,,Senior
+190350043,{Param} Tracker,,Prestigious
+190350044,{Param}‘s Wizard,,Wind
 190410001,Indomitable High General,,
 190410002,Avenger of Darkness,,
 190410003,Blade of the Nine Kingdoms,,
@@ -198,256 +198,256 @@
 230110999,,,
 240110999,,,
 250110999,,,
-210110001,{Param} Greatsword,,do Ilimitado Wanderer
-210110002,{Param} Greatsword,,do Aventureiro Esquecido
-210110003,{Param} Greatsword,,do Artisan Arrogante
-210110004,{Param} Greatsword,,da Vontade Inflexível
-210120005,{Param} Greatsword,,da Enganação Astuta
-210120006,{Param} Greatsword,,da Harmonia Equilibrada
-210120007,{Param} Greatsword,,Colhendo infortúnio
-210120008,{Param} Greatsword,,da Dominância Dispersa
-210130009,{Param} Greatsword,,Manchado pela Traição
-210130010,{Param} Greatsword,,Invocando Sin
-210130011,{Param} Greatsword,,Geada Brilhante
-220110001,{Param} Staff,,do Ilimitado Wanderer
-220110002,{Param} Staff,,do Aventureiro Esquecido
-220110003,{Param} Staff,,do Artisan Arrogante
-220110004,{Param} Staff,,da Vontade Inflexível
-220120005,{Param} Staff,,da Enganação Astuta
-220120006,{Param} Staff,,da Harmonia Equilibrada
-220120007,{Param} Staff,,Colhendo infortúnio
-220120008,{Param} Staff,,da Dominância Dispersa
-220130009,{Param} Staff,,Manchado pela Traição
-220130010,{Param} Staff,,Invocando Sin
-220130011,{Param} Staff,,Geada Brilhante
-230110001,{Param} Orb,,do Ilimitado Wanderer
-230110002,{Param} Orb,,do Aventureiro Esquecido
-230110003,{Param} Orb,,do Artisan Arrogante
-230110004,{Param} Orb,,da Vontade Inflexível
-230120005,{Param} Orb,,da Enganação Astuta
-230120006,{Param} Orb,,da Harmonia Equilibrada
-230120007,{Param} Orb,,Colhendo infortúnio
-230120008,{Param} Orb,,da Dominância Dispersa
-230130009,{Param} Orb,,Manchado pela Traição
-230130010,{Param} Orb,,Invocando Sin
-230130011,{Param} Orb,,Geada Brilhante
-240110001,{Param} Dagger,,do Ilimitado Wanderer
-240110002,{Param} Dagger,,do Aventureiro Esquecido
-240110003,{Param} Dagger,,do Artisan Arrogante
-240110004,{Param} Dagger,,da Vontade Inflexível
-240120005,{Param} Dagger,,da Enganação Astuta
-240120006,{Param} Dagger,,da Harmonia Equilibrada
-240120007,{Param} Dagger,,Colhendo infortúnio
-240120008,{Param} Dagger,,da Dominância Dispersa
-240130009,{Param} Dagger,,Manchado pela Traição
-240130010,{Param} Dagger,,Invocando Sin
-240130011,{Param} Dagger,,Geada Brilhante
-250110001,{Param} Bow,,do Ilimitado Wanderer
-250110002,{Param} Bow,,do Aventureiro Esquecido
-250110003,{Param} Bow,,do Artisan Arrogante
-250110004,{Param} Bow,,da Vontade Inflexível
-250120005,{Param} Bow,,da Enganação Astuta
-250120006,{Param} Bow,,da Harmonia Equilibrada
-250120007,{Param} Bow,,Colhendo infortúnio
-250120008,{Param} Bow,,da Dominância Dispersa
-250130009,{Param} Bow,,Manchado pela Traição
-250130010,{Param} Bow,,Invocando Sin
-250130011,{Param} Bow,,Geada Brilhante
-210210001,{Param} Greatsword,,Escuro Sussurrante
-210210002,{Param} Greatsword,,do Desafiador
-210210003,{Param} Greatsword,,Temperado pela guerra
-210210004,{Param} Greatsword,,dos Instintos de Combate
-210220005,{Param} Greatsword,,da Resolução Manchada
-210220006,{Param} Greatsword,,da Dor Invasiva
-210220007,{Param} Greatsword,,de Bond
-210220008,{Param} Greatsword,,da Obsessão Negra
-210230009,{Param} Greatsword,,da Torrente Surgente
-210230010,{Param} Greatsword,,Manchado de sangue
-220210001,{Param} Staff,,Escuro Sussurrante
-220210002,{Param} Staff,,do Desafiador
-220210003,{Param} Staff,,Temperado pela guerra
-220210004,{Param} Staff,,dos Instintos de Combate
-220220005,{Param} Staff,,da Resolução Manchada
-220220006,{Param} Staff,,da Dor Invasiva
-220220007,{Param} Staff,,de Bond
-220220008,{Param} Staff,,da Obsessão Negra
-220230009,{Param} Staff,,da Torrente Surgente
-220230010,{Param} Staff,,Manchado de sangue
-230210001,{Param} Orb,,Escuro Sussurrante
-230210002,{Param} Orb,,do Desafiador
-230210003,{Param} Orb,,Temperado pela guerra
-230210004,{Param} Orb,,dos Instintos de Combate
-230220005,{Param} Orb,,da Resolução Manchada
-230220006,{Param} Orb,,da Dor Invasiva
-230220007,{Param} Orb,,de Bond
-230220008,{Param} Orb,,da Obsessão Negra
-230230009,{Param} Orb,,da Torrente Surgente
-230230010,{Param} Orb,,Manchado de sangue
-240210001,{Param} Dagger,,Escuro Sussurrante
-240210002,{Param} Dagger,,do Desafiador
-240210003,{Param} Dagger,,Temperado pela guerra
-240210004,{Param} Dagger,,dos Instintos de Combate
-240220005,{Param} Dagger,,da Resolução Manchada
-240220006,{Param} Dagger,,da Dor Invasiva
-240220007,{Param} Dagger,,de Bond
-240220008,{Param} Dagger,,da Obsessão Negra
-240230009,{Param} Dagger,,da Torrente Surgente
-240230010,{Param} Dagger,,Manchado de sangue
-250210001,{Param} Bow,,Escuro Sussurrante
-250210002,{Param} Bow,,do Desafiador
-250210003,{Param} Bow,,Temperado pela guerra
-250210004,{Param} Bow,,dos Instintos de Combate
-250220005,{Param} Bow,,da Resolução Manchada
-250220006,{Param} Bow,,da Dor Invasiva
-250220007,{Param} Bow,,de Bond
-250220008,{Param} Bow,,da Obsessão Negra
-250230009,{Param} Bow,,da Torrente Surgente
-250230010,{Param} Bow,,Manchado de sangue
-210310001,{Param} Greatsword,,da Vingança Fria
-210310002,{Param} Greatsword,,Devorador de Vidas
-210310003,{Param} Greatsword,,Sombra da meia-noite
-210310004,{Param} Greatsword,,Do Guardião
-210320005,{Param} Greatsword,,Dos Mortos Sem Nome
-210320006,{Param} Greatsword,,Tecendo Ilusões
-210320007,{Param} Greatsword,,Fantasma sem voz
-210320008,{Param} Greatsword,,Da Raiva Distorcida
-210330009,{Param} Greatsword,,Do Penitente Inocente
-210330010,{Param} Greatsword,,Do Monstro Uivante
-210350011,{Param} Greatsword,,Da Ferocidade Selvagem
-210350012,{Param} Greatsword,,Do Espectro Dançante
-220310001,{Param} Staff,,da Vingança Fria
-220310002,{Param} Staff,,Devorador de Vidas
-220310003,{Param} Staff,,Sombra da meia-noite
-220310004,{Param} Staff,,Do Guardião
-220320005,{Param} Staff,,Dos Mortos Sem Nome
-220320006,{Param} Staff,,Tecendo Ilusões
-220320007,{Param} Staff,,Fantasma sem voz
-220320008,{Param} Staff,,Da Raiva Distorcida
-220330009,{Param} Staff,,Do Penitente Inocente
-220330010,{Param} Staff,,Do Monstro Uivante
-220350011,{Param} Staff,,Da Ferocidade Selvagem
-220350012,{Param} Staff,,Do Espectro Dançante
-230310001,{Param} Orb,,da Vingança Fria
-230310002,{Param} Orb,,Devorador de Vidas
-230310003,{Param} Orb,,Sombra da meia-noite
-230310004,{Param} Orb,,Do Guardião
-230320005,{Param} Orb,,Dos Mortos Sem Nome
-230320006,{Param} Orb,,Tecendo Ilusões
-230320007,{Param} Orb,,Fantasma sem voz
-230320008,{Param} Orb,,Da Raiva Distorcida
-230330009,{Param} Orb,,Do Penitente Inocente
-230330010,{Param} Orb,,Do Monstro Uivante
-230350011,{Param} Orb,,Da Ferocidade Selvagem
-230350012,{Param} Orb,,Do Espectro Dançante
-240310001,{Param} Dagger,,da Vingança Fria
-240310002,{Param} Dagger,,Devorador de Vidas
-240310003,{Param} Dagger,,Sombra da meia-noite
-240310004,{Param} Dagger,,Do Guardião
-240320005,{Param} Dagger,,Dos Mortos Sem Nome
-240320006,{Param} Dagger,,Tecendo Ilusões
-240320007,{Param} Dagger,,Fantasma sem voz
-240320008,{Param} Dagger,,Da Raiva Distorcida
-240330009,{Param} Dagger,,Do Penitente Inocente
-240330010,{Param} Dagger,,Do Monstro Uivante
-240350011,{Param} Dagger,,Da Ferocidade Selvagem
-240350012,{Param} Dagger,,Do Espectro Dançante
-250310001,{Param} Bow,,da Vingança Fria
-250310002,{Param} Bow,,Devorador de Vidas
-250310003,{Param} Bow,,Sombra da meia-noite
-250310004,{Param} Bow,,Do Guardião
-250320005,{Param} Bow,,Dos Mortos Sem Nome
-250320006,{Param} Bow,,Tecendo Ilusões
-250320007,{Param} Bow,,Fantasma sem voz
-250320008,{Param} Bow,,Da Raiva Distorcida
-250330009,{Param} Bow,,Do Penitente Inocente
-250330010,{Param} Bow,,Do Monstro Uivante
-250350011,{Param} Bow,,Da Ferocidade Selvagem
-250350012,{Param} Bow,,Do Espectro Dançante
-210410001,{Param} Greatsword,,Do Final Cruel
-210410002,{Param} Greatsword,,Da Aljava Silenciosa
-210410003,{Param} Greatsword,,Queima de Almas
-210410004,{Param} Greatsword,,Da Vingança Eterna
-210420005,{Param} Greatsword,,Do Abismo Lamentador
-210420006,{Param} Greatsword,,Do Santo Retorcido
-210420007,{Param} Greatsword,,Do Executor Silencioso
-210420008,{Param} Greatsword,,Do Julgamento Implacável
-210430009,{Param} Greatsword,,Do Medo Gravado
-210430010,{Param} Greatsword,,Do Coração Rupturante
-210430011,{Param} Greatsword,,Da Mente Despedaçada
-210430012,{Param} Greatsword,,Da Loucura Ressonante
-210450013,{Param} Greatsword,,Da Perdição Destinada
-210450014,{Param} Greatsword,,Do Espírito Isolado Soberano
-210450015,{Param} Greatsword,,Glória Esquecida
-210450016,{Param} Greatsword,,Verdura engolida
-210450017,{Param} Greatsword,,Ataque
-220410001,{Param} Staff,,Do Final Cruel
-220410002,{Param} Staff,,Da Aljava Silenciosa
-220410003,{Param} Staff,,Queima de Almas
-220410004,{Param} Staff,,Da Vingança Eterna
-220420005,{Param} Staff,,Do Abismo Lamentador
-220420006,{Param} Staff,,Do Santo Retorcido
-220420007,{Param} Staff,,Do Executor Silencioso
-220420008,{Param} Staff,,Do Julgamento Implacável
-220430009,{Param} Staff,,Do Medo Gravado
-220430010,{Param} Staff,,Do Coração Rupturante
-220430011,{Param} Staff,,Da Mente Despedaçada
-220430012,{Param} Staff,,Da Loucura Ressonante
-220450013,{Param} Staff,,Da Perdição Destinada
-220450014,{Param} Staff,,Do Espírito Isolado Soberano
-220450015,{Param} Staff,,Glória Esquecida
-220450016,{Param} Staff,,Verdura engolida
-220450017,{Param} Staff,,Ataque
-230410001,{Param} Orb,,Do Final Cruel
-230410002,{Param} Orb,,Da Aljava Silenciosa
-230410003,{Param} Orb,,Queima de Almas
-230410004,{Param} Orb,,Da Vingança Eterna
-230420005,{Param} Orb,,Do Abismo Lamentador
-230420006,{Param} Orb,,Do Santo Retorcido
-230420007,{Param} Orb,,Do Executor Silencioso
-230420008,{Param} Orb,,Do Julgamento Implacável
-230430009,{Param} Orb,,Do Medo Gravado
-230430010,{Param} Orb,,Do Coração Rupturante
-230430011,{Param} Orb,,Da Mente Despedaçada
-230430012,{Param} Orb,,Da Loucura Ressonante
-230450013,{Param} Orb,,Da Perdição Destinada
-230450014,{Param} Orb,,Do Espírito Isolado Soberano
-230450015,{Param} Orb,,Glória Esquecida
-230450016,{Param} Orb,,Verdura engolida
-230450017,{Param} Orb,,Ataque
-240410001,{Param} Dagger,,Do Final Cruel
-240410002,{Param} Dagger,,Da Aljava Silenciosa
-240410003,{Param} Dagger,,Queima de Almas
-240410004,{Param} Dagger,,Da Vingança Eterna
-240420005,{Param} Dagger,,Do Abismo Lamentador
-240420006,{Param} Dagger,,Do Santo Retorcido
-240420007,{Param} Dagger,,Do Executor Silencioso
-240420008,{Param} Dagger,,Do Julgamento Implacável
-240430009,{Param} Dagger,,Do Medo Gravado
-240430010,{Param} Dagger,,Do Coração Rupturante
-240430011,{Param} Dagger,,Da Mente Despedaçada
-240430012,{Param} Dagger,,Da Loucura Ressonante
-240450013,{Param} Dagger,,Da Perdição Destinada
-240450014,{Param} Dagger,,Do Espírito Isolado Soberano
-240450015,{Param} Dagger,,Glória Esquecida
-240450016,{Param} Dagger,,Verdura engolida
-240450017,{Param} Dagger,,Ataque
-250410001,{Param} Bow,,Do Final Cruel
-250410002,{Param} Bow,,Da Aljava Silenciosa
-250410003,{Param} Bow,,Queima de Almas
-250410004,{Param} Bow,,Da Vingança Eterna
-250420005,{Param} Bow,,Do Abismo Lamentador
-250420006,{Param} Bow,,Do Santo Retorcido
-250420007,{Param} Bow,,Do Executor Silencioso
-250420008,{Param} Bow,,Do Julgamento Implacável
-250430009,{Param} Bow,,Do Medo Gravado
-250430010,{Param} Bow,,Do Coração Rupturante
-250430011,{Param} Bow,,Da Mente Despedaçada
-250430012,{Param} Bow,,Da Loucura Ressonante
-250450013,{Param} Bow,,Da Perdição Destinada
-250450014,{Param} Bow,,Do Espírito Isolado Soberano
-250450015,{Param} Bow,,Glória Esquecida
-250450016,{Param} Bow,,Verdura engolida
-250450017,{Param} Bow,,Ataque
+210110001,{Param} Greatsword,,of the Boundless Wanderer
+210110002,{Param} Greatsword,,of the Forgotten Adventurer
+210110003,{Param} Greatsword,,of the Arrogant Artisan
+210110004,{Param} Greatsword,,of Unyielding Will
+210120005,{Param} Greatsword,,of Cunning Deception
+210120006,{Param} Greatsword,,of Balanced Harmony
+210120007,{Param} Greatsword,,Harvesting Misfortune
+210120008,{Param} Greatsword,,of Scattered Dominance
+210130009,{Param} Greatsword,,Stained by Treachery
+210130010,{Param} Greatsword,,Invoking Sin
+210130011,{Param} Greatsword,,Shining Frost
+220110001,{Param} Staff,,of the Boundless Wanderer
+220110002,{Param} Staff,,of the Forgotten Adventurer
+220110003,{Param} Staff,,of the Arrogant Artisan
+220110004,{Param} Staff,,of Unyielding Will
+220120005,{Param} Staff,,of Cunning Deception
+220120006,{Param} Staff,,of Balanced Harmony
+220120007,{Param} Staff,,Harvesting Misfortune
+220120008,{Param} Staff,,of Scattered Dominance
+220130009,{Param} Staff,,Stained by Treachery
+220130010,{Param} Staff,,Invoking Sin
+220130011,{Param} Staff,,Shining Frost
+230110001,{Param} Orb,,of the Boundless Wanderer
+230110002,{Param} Orb,,of the Forgotten Adventurer
+230110003,{Param} Orb,,of the Arrogant Artisan
+230110004,{Param} Orb,,of Unyielding Will
+230120005,{Param} Orb,,of Cunning Deception
+230120006,{Param} Orb,,of Balanced Harmony
+230120007,{Param} Orb,,Harvesting Misfortune
+230120008,{Param} Orb,,of Scattered Dominance
+230130009,{Param} Orb,,Stained by Treachery
+230130010,{Param} Orb,,Invoking Sin
+230130011,{Param} Orb,,Shining Frost
+240110001,{Param} Dagger,,of the Boundless Wanderer
+240110002,{Param} Dagger,,of the Forgotten Adventurer
+240110003,{Param} Dagger,,of the Arrogant Artisan
+240110004,{Param} Dagger,,of Unyielding Will
+240120005,{Param} Dagger,,of Cunning Deception
+240120006,{Param} Dagger,,of Balanced Harmony
+240120007,{Param} Dagger,,Harvesting Misfortune
+240120008,{Param} Dagger,,of Scattered Dominance
+240130009,{Param} Dagger,,Stained by Treachery
+240130010,{Param} Dagger,,Invoking Sin
+240130011,{Param} Dagger,,Shining Frost
+250110001,{Param} Bow,,of the Boundless Wanderer
+250110002,{Param} Bow,,of the Forgotten Adventurer
+250110003,{Param} Bow,,of the Arrogant Artisan
+250110004,{Param} Bow,,of Unyielding Will
+250120005,{Param} Bow,,of Cunning Deception
+250120006,{Param} Bow,,of Balanced Harmony
+250120007,{Param} Bow,,Harvesting Misfortune
+250120008,{Param} Bow,,of Scattered Dominance
+250130009,{Param} Bow,,Stained by Treachery
+250130010,{Param} Bow,,Invoking Sin
+250130011,{Param} Bow,,Shining Frost
+210210001,{Param} Greatsword,,Whispering Dark
+210210002,{Param} Greatsword,,of the Challenger
+210210003,{Param} Greatsword,,Tempered by War
+210210004,{Param} Greatsword,,of Combat Instincts
+210220005,{Param} Greatsword,,of Tarnished Resolve
+210220006,{Param} Greatsword,,of Encroaching Pain
+210220007,{Param} Greatsword,,of Bond
+210220008,{Param} Greatsword,,of Dark Obsession
+210230009,{Param} Greatsword,,of Surging Torrent
+210230010,{Param} Greatsword,,Blood-stained
+220210001,{Param} Staff,,Whispering Dark
+220210002,{Param} Staff,,of the Challenger
+220210003,{Param} Staff,,Tempered by War
+220210004,{Param} Staff,,of Combat Instincts
+220220005,{Param} Staff,,of Tarnished Resolve
+220220006,{Param} Staff,,of Encroaching Pain
+220220007,{Param} Staff,,of Bond
+220220008,{Param} Staff,,of Dark Obsession
+220230009,{Param} Staff,,of Surging Torrent
+220230010,{Param} Staff,,Blood-stained
+230210001,{Param} Orb,,Whispering Dark
+230210002,{Param} Orb,,of the Challenger
+230210003,{Param} Orb,,Tempered by War
+230210004,{Param} Orb,,of Combat Instincts
+230220005,{Param} Orb,,of Tarnished Resolve
+230220006,{Param} Orb,,of Encroaching Pain
+230220007,{Param} Orb,,of Bond
+230220008,{Param} Orb,,of Dark Obsession
+230230009,{Param} Orb,,of Surging Torrent
+230230010,{Param} Orb,,Blood-stained
+240210001,{Param} Dagger,,Whispering Dark
+240210002,{Param} Dagger,,of the Challenger
+240210003,{Param} Dagger,,Tempered by War
+240210004,{Param} Dagger,,of Combat Instincts
+240220005,{Param} Dagger,,of Tarnished Resolve
+240220006,{Param} Dagger,,of Encroaching Pain
+240220007,{Param} Dagger,,of Bond
+240220008,{Param} Dagger,,of Dark Obsession
+240230009,{Param} Dagger,,of Surging Torrent
+240230010,{Param} Dagger,,Blood-stained
+250210001,{Param} Bow,,Whispering Dark
+250210002,{Param} Bow,,of the Challenger
+250210003,{Param} Bow,,Tempered by War
+250210004,{Param} Bow,,of Combat Instincts
+250220005,{Param} Bow,,of Tarnished Resolve
+250220006,{Param} Bow,,of Encroaching Pain
+250220007,{Param} Bow,,of Bond
+250220008,{Param} Bow,,of Dark Obsession
+250230009,{Param} Bow,,of Surging Torrent
+250230010,{Param} Bow,,Blood-stained
+210310001,{Param} Greatsword,,of Cold Revenge
+210310002,{Param} Greatsword,,Life-Devouring
+210310003,{Param} Greatsword,,Midnight Shadow
+210310004,{Param} Greatsword,,Of the Guardian
+210320005,{Param} Greatsword,,Of the Nameless Dead
+210320006,{Param} Greatsword,,Weaving Illusions
+210320007,{Param} Greatsword,,Voiceless Ghost
+210320008,{Param} Greatsword,,Of the Distorted Rage
+210330009,{Param} Greatsword,,Of the Innocent Penitent
+210330010,{Param} Greatsword,,Of the Howling Monster
+210350011,{Param} Greatsword,,Of Wild Ferocity
+210350012,{Param} Greatsword,,Of the Dancing Wraith
+220310001,{Param} Staff,,of Cold Revenge
+220310002,{Param} Staff,,Life-Devouring
+220310003,{Param} Staff,,Midnight Shadow
+220310004,{Param} Staff,,Of the Guardian
+220320005,{Param} Staff,,Of the Nameless Dead
+220320006,{Param} Staff,,Weaving Illusions
+220320007,{Param} Staff,,Voiceless Ghost
+220320008,{Param} Staff,,Of the Distorted Rage
+220330009,{Param} Staff,,Of the Innocent Penitent
+220330010,{Param} Staff,,Of the Howling Monster
+220350011,{Param} Staff,,Of Wild Ferocity
+220350012,{Param} Staff,,Of the Dancing Wraith
+230310001,{Param} Orb,,of Cold Revenge
+230310002,{Param} Orb,,Life-Devouring
+230310003,{Param} Orb,,Midnight Shadow
+230310004,{Param} Orb,,Of the Guardian
+230320005,{Param} Orb,,Of the Nameless Dead
+230320006,{Param} Orb,,Weaving Illusions
+230320007,{Param} Orb,,Voiceless Ghost
+230320008,{Param} Orb,,Of the Distorted Rage
+230330009,{Param} Orb,,Of the Innocent Penitent
+230330010,{Param} Orb,,Of the Howling Monster
+230350011,{Param} Orb,,Of Wild Ferocity
+230350012,{Param} Orb,,Of the Dancing Wraith
+240310001,{Param} Dagger,,of Cold Revenge
+240310002,{Param} Dagger,,Life-Devouring
+240310003,{Param} Dagger,,Midnight Shadow
+240310004,{Param} Dagger,,Of the Guardian
+240320005,{Param} Dagger,,Of the Nameless Dead
+240320006,{Param} Dagger,,Weaving Illusions
+240320007,{Param} Dagger,,Voiceless Ghost
+240320008,{Param} Dagger,,Of the Distorted Rage
+240330009,{Param} Dagger,,Of the Innocent Penitent
+240330010,{Param} Dagger,,Of the Howling Monster
+240350011,{Param} Dagger,,Of Wild Ferocity
+240350012,{Param} Dagger,,Of the Dancing Wraith
+250310001,{Param} Bow,,of Cold Revenge
+250310002,{Param} Bow,,Life-Devouring
+250310003,{Param} Bow,,Midnight Shadow
+250310004,{Param} Bow,,Of the Guardian
+250320005,{Param} Bow,,Of the Nameless Dead
+250320006,{Param} Bow,,Weaving Illusions
+250320007,{Param} Bow,,Voiceless Ghost
+250320008,{Param} Bow,,Of the Distorted Rage
+250330009,{Param} Bow,,Of the Innocent Penitent
+250330010,{Param} Bow,,Of the Howling Monster
+250350011,{Param} Bow,,Of Wild Ferocity
+250350012,{Param} Bow,,Of the Dancing Wraith
+210410001,{Param} Greatsword,,Of the Cruel Ending
+210410002,{Param} Greatsword,,Of the Hushed Quiver
+210410003,{Param} Greatsword,,Soul-Searing
+210410004,{Param} Greatsword,,Of the Eternal Vengeance
+210420005,{Param} Greatsword,,Of the Wailing Abyss
+210420006,{Param} Greatsword,,Of the Twisted Saint
+210420007,{Param} Greatsword,,Of the Soundless Executioner
+210420008,{Param} Greatsword,,Of the Ruthless Judgment
+210430009,{Param} Greatsword,,Of the Engraved Fear
+210430010,{Param} Greatsword,,Of the Rupturing Heart
+210430011,{Param} Greatsword,,Of the Shattered Mind
+210430012,{Param} Greatsword,,Of the Resonating Madness
+210450013,{Param} Greatsword,,Of the Destined Doom
+210450014,{Param} Greatsword,,Of the Secluded Spirit Sovereign
+210450015,{Param} Greatsword,,Forgotten Glory
+210450016,{Param} Greatsword,,Swallowed Verdure
+210450017,{Param} Greatsword,,Attack
+220410001,{Param} Staff,,Of the Cruel Ending
+220410002,{Param} Staff,,Of the Hushed Quiver
+220410003,{Param} Staff,,Soul-Searing
+220410004,{Param} Staff,,Of the Eternal Vengeance
+220420005,{Param} Staff,,Of the Wailing Abyss
+220420006,{Param} Staff,,Of the Twisted Saint
+220420007,{Param} Staff,,Of the Soundless Executioner
+220420008,{Param} Staff,,Of the Ruthless Judgment
+220430009,{Param} Staff,,Of the Engraved Fear
+220430010,{Param} Staff,,Of the Rupturing Heart
+220430011,{Param} Staff,,Of the Shattered Mind
+220430012,{Param} Staff,,Of the Resonating Madness
+220450013,{Param} Staff,,Of the Destined Doom
+220450014,{Param} Staff,,Of the Secluded Spirit Sovereign
+220450015,{Param} Staff,,Forgotten Glory
+220450016,{Param} Staff,,Swallowed Verdure
+220450017,{Param} Staff,,Attack
+230410001,{Param} Orb,,Of the Cruel Ending
+230410002,{Param} Orb,,Of the Hushed Quiver
+230410003,{Param} Orb,,Soul-Searing
+230410004,{Param} Orb,,Of the Eternal Vengeance
+230420005,{Param} Orb,,Of the Wailing Abyss
+230420006,{Param} Orb,,Of the Twisted Saint
+230420007,{Param} Orb,,Of the Soundless Executioner
+230420008,{Param} Orb,,Of the Ruthless Judgment
+230430009,{Param} Orb,,Of the Engraved Fear
+230430010,{Param} Orb,,Of the Rupturing Heart
+230430011,{Param} Orb,,Of the Shattered Mind
+230430012,{Param} Orb,,Of the Resonating Madness
+230450013,{Param} Orb,,Of the Destined Doom
+230450014,{Param} Orb,,Of the Secluded Spirit Sovereign
+230450015,{Param} Orb,,Forgotten Glory
+230450016,{Param} Orb,,Swallowed Verdure
+230450017,{Param} Orb,,Attack
+240410001,{Param} Dagger,,Of the Cruel Ending
+240410002,{Param} Dagger,,Of the Hushed Quiver
+240410003,{Param} Dagger,,Soul-Searing
+240410004,{Param} Dagger,,Of the Eternal Vengeance
+240420005,{Param} Dagger,,Of the Wailing Abyss
+240420006,{Param} Dagger,,Of the Twisted Saint
+240420007,{Param} Dagger,,Of the Soundless Executioner
+240420008,{Param} Dagger,,Of the Ruthless Judgment
+240430009,{Param} Dagger,,Of the Engraved Fear
+240430010,{Param} Dagger,,Of the Rupturing Heart
+240430011,{Param} Dagger,,Of the Shattered Mind
+240430012,{Param} Dagger,,Of the Resonating Madness
+240450013,{Param} Dagger,,Of the Destined Doom
+240450014,{Param} Dagger,,Of the Secluded Spirit Sovereign
+240450015,{Param} Dagger,,Forgotten Glory
+240450016,{Param} Dagger,,Swallowed Verdure
+240450017,{Param} Dagger,,Attack
+250410001,{Param} Bow,,Of the Cruel Ending
+250410002,{Param} Bow,,Of the Hushed Quiver
+250410003,{Param} Bow,,Soul-Searing
+250410004,{Param} Bow,,Of the Eternal Vengeance
+250420005,{Param} Bow,,Of the Wailing Abyss
+250420006,{Param} Bow,,Of the Twisted Saint
+250420007,{Param} Bow,,Of the Soundless Executioner
+250420008,{Param} Bow,,Of the Ruthless Judgment
+250430009,{Param} Bow,,Of the Engraved Fear
+250430010,{Param} Bow,,Of the Rupturing Heart
+250430011,{Param} Bow,,Of the Shattered Mind
+250430012,{Param} Bow,,Of the Resonating Madness
+250450013,{Param} Bow,,Of the Destined Doom
+250450014,{Param} Bow,,Of the Secluded Spirit Sovereign
+250450015,{Param} Bow,,Forgotten Glory
+250450016,{Param} Bow,,Swallowed Verdure
+250450017,{Param} Bow,,Attack
 210510001,Greatsword of the Returned Hero,,
 210510002,Conqueror of the Rift,,
 210510003,Stormbringer,,
@@ -460,7 +460,7 @@
 210550010,The War-Ender,,
 210550011,Night-Walking Wanderer,,
 210550012,Punishment of Tempest,,
-210550013,{Param} Greatsword,,Anel Dourado
+210550013,{Param} Greatsword,,Golden Ring’s
 210550014,{Param} Greatsword,,Celestial Ring's
 220510001,Staff of Blessed Authority,,
 220510002,Staff of Divine Seal,,
@@ -474,7 +474,7 @@
 220550010,Hilt of the Forgotten Prophet,,
 220550011,Bound Consciousness,,
 220550012,Frozen Tuner,,
-220550013,{Param} Staff,,Anel Dourado
+220550013,{Param} Staff,,Golden Ring’s
 220550014,{Param} Staff,,Celestial Ring's
 230510001,Void Fragment,,
 230510002,Box of Distorted Time,,
@@ -488,7 +488,7 @@
 230550010,Flawless Perfection,,
 230550011,Light of the Embodier,,
 230550012,Flail of Blasphemy,,
-230550013,{Param} Orb,,Anel Dourado
+230550013,{Param} Orb,,Golden Ring’s
 230550014,{Param} Orb,,Celestial Ring's
 240510001,Eternal Thirst for Blood,,
 240510002,Rainbow of the Underworld,,
@@ -502,7 +502,7 @@
 240550010,Fangs of the Vile Dragon,,
 240550011,Dagger of Blindness,,
 240550012,The Cold-Eyed Penitent,,
-240550013,{Param} Dagger,,Anel Dourado
+240550013,{Param} Dagger,,Golden Ring’s
 240550014,{Param} Dagger,,Celestial Ring's
 250510001,Thunder Spike,,
 250510002,Meteor Fall,,
@@ -516,23 +516,23 @@
 250550010,Reincarnation of the Beast King,,
 250550011,Devourer of Sins,,
 250550012,Piercing Whispers,,
-250550013,{Param} Bow,,Anel Dourado
+250550013,{Param} Bow,,Golden Ring’s
 250550014,{Param} Bow,,Celestial Ring's
 210630001,Nameless Holy Blade,,
 210630002,World Destroyer,,
-210630003,{Param} Greatsword,,Estrela Infundida
+210630003,{Param} Greatsword,,Star-Infused
 220630001,The Deicide,,
 220630002,Celestial Legacy,,
-220630003,{Param} Staff,,Estrela Infundida
+220630003,{Param} Staff,,Star-Infused
 230630001,Heart of the Archfiend,,
 230630002,Legacy of the Golden Dragon,,
-230630003,{Param} Orb,,Estrela Infundida
+230630003,{Param} Orb,,Star-Infused
 240630001,Shackles of Immortality,,
 240630002,Hands of the Absolute,,
-240630003,{Param} Dagger,,Estrela Infundida
+240630003,{Param} Dagger,,Star-Infused
 250630001,Prelude to the Apocalypse,,
 250630002,Infinite Boundary,,
-250630003,{Param} Bow,,Estrela Infundida
+250630003,{Param} Bow,,Star-Infused
 190100001,,,
 190100002,,,
 190100003,,,

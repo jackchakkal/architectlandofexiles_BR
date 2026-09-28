@@ -4,14 +4,14 @@
 1001003,{Param} +{IntParam}%,Velocidade de Natação
 1001004,{Param} +{IntParam}%,Velocidade de movimento
 1001005,{Param} +{IntParam}%,Resistência Máxima
-1001006,{Param} +{IntParam}%,Velocidade de montagem
+1001006,{Param} +{IntParam}%,Velocidade de Montaria
 1001007,{Param} +{IntParam}%,Velocidade de Ataque
 1001008,Reputação da Adventurers Alliance +{IntParam},
 101,{Param} +<Yellow> [+{IntParam}%]</>,Velocidade de movimento
-102,{Param} +<Yellow> [{IntParam} hora(s)]</>,Tempo de reprodução off-line
+102,{Param} +<Yellow> [{IntParam} hora(s)]</>,Tempo de Jogo Off-line
 103,Clã {Param} Doação <Yellow>[+{IntParam} hora(s)]</>,Ouro
 104,{Param} Slot <Yellow>[+{IntParam}]</>,Inventário Padrão
-105,{Param} Slot <Yellow>[+{IntParam}]</>,Inventário Powerstone
+105,{Param} Slot <Yellow>[+{IntParam}]</>,Inventário de Powerstones
 106,{Param} Slot <Yellow>[+{IntParam}]</>,Stash
 107,Capacidade da poção <Yellow>[+{IntParam}]</>,
 108,Itens especiais da loja adicionados na guia <Yellow>[Upgrade]</>,
@@ -22,7 +22,7 @@
 113,<Yellow> Arbiter’s Ordeal Multi-Clear</> disponível,
 114,Arbiter’s Ordeal Tokens Diários <Yellow>[{IntParam}]</>,
 115,<Yellow>Engrenagem automática Desmontagem</> disponível,
-116,{Param} contagem <Yellow>[+{IntParam}]</>,Recuperação de pena de morte gratuita
+116,{Param} contagem <Yellow>[+{IntParam}]</>,Recuperação Gratuita de Penalidade de Morte
 117,{Param} contagem <Yellow>[+{IntParam}]</>,Cura Gratuita do Curador
 118,Recompensa de afinidade de conclusão de comissão diária <Yellow>[x{IntParam}]</>,
 119,Marketplace listando capacidade <Yellow>[+{IntParam}]</>,
@@ -37,7 +37,7 @@
 10007,Doação de Clã {Param} x{IntParam},Recompensas de personagem
 10008,Evento de tempo quente da Giant's Tower +{IntParam} hora(s),
 10009,"Taxa de queda de ouro, EXP e itens +{IntParam}%",
-10010,{Param} +<Yellow> [{IntParam} hora(s)]</>,Tempo de reprodução off-line
+10010,{Param} +<Yellow> [{IntParam} hora(s)]</>,Tempo de Jogo Off-line
 90001,"EXP na Forsaken Land <Yellow>{IntParam}+%</>
 Tempo quente da Giant's Tower <Yellow>+8 horas</>",
 90002,Tempo quente da Giant's Tower <Yellow>+{IntParam} hora(s)</>,
@@ -45,14 +45,14 @@ Tempo quente da Giant's Tower <Yellow>+8 horas</>",
 202,Aumento de ganho de cristal preto <Yellow>[{IntParam}%]</>,
 203,Aumento de ganho semanal do Black Crystal <Yellow>[{IntParam}%]</>,
 204,Giant's Tower Hot Time Recharge Ticket diário <Yellow>[{IntParam}]</>,
-205,Aumento de redefinição do Crista dos Antigos Taxa de reembolso <Yellow>[{IntParam}%]</>,Taxa de reembolso de redefinição de crista
-206,Desconto de custo de redefinição do Crista dos Antigos <Yellow>[{IntParam}%]</>,Redefinir crista
-207,{Param} +<Yellow> [{IntParam} hora(s)]</>,Tempo de reprodução off-line
+205,Aumento de redefinição do Crest of the Ancients Taxa de reembolso <Yellow>[{IntParam}%]</>,Taxa de Reembolso ao Redefinir Brasão
+206,Desconto de custo de redefinição do Crest of the Ancients <Yellow>[{IntParam}%]</>,Redefinir Brasão
+207,{Param} +<Yellow> [{IntParam} hora(s)]</>,Tempo de Jogo Off-line
 208,Marketplace listando capacidade <Yellow>[+{IntParam}]</>,
 209,Crystal of Authority diário <Yellow>[{IntParam}]</>,
 210,Itens especiais da loja adicionados na guia <Yellow>[Upgrade]</>,
-211,Desconto de ouro para aumento de nível do Crista dos Antigos <Yellow>[{IntParam}%]</>,
-212,{Param} contagem <Yellow>[+{IntParam}]</>,Recuperação de pena de morte gratuita
+211,Desconto de ouro para aumento de nível do Crest of the Ancients <Yellow>[{IntParam}%]</>,
+212,{Param} contagem <Yellow>[+{IntParam}]</>,Recuperação Gratuita de Penalidade de Morte
 213,{Param} contagem <Yellow>[+{IntParam}]</>,Cura Gratuita do Curador
 214,Clã {Param} Doação <Yellow>[+{IntParam} hora(s)]</>,Ouro
 215,Capacidade da poção <Yellow>[+{IntParam}]</>,

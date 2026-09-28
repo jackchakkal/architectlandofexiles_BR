@@ -15,12 +15,12 @@
   "files": {
     "player_download": {
       "filename": "Architect-PTBR-v14.zip",
-      "sha256": "19de7ac8782c0effdebaf75465f1ca015632a7bdca7cb1d1982360b0f0f5c88c"
+      "sha256": "431f882baba808ba427bcf14881e56fa799246be39eef4f7ad00b4c7017400bf"
     },
     "pak": {
       "filename": "pakchunk9999-Windows_21474835_P.pak",
-      "bytes": 12383136,
-      "sha256": "54153104e47f31fdac6fbd2501e83bbb9270556acfbc029613b12fa7c05207af"
+      "bytes": 12375437,
+      "sha256": "5378a3d70568c9cc910f2ae54f61708ffba9b71aa6d797948a2db7585a9faa1f"
     }
   },
   "validation": {
@@ -34,7 +34,7 @@
     "bad_tower_mentions": 0,
     "pak_entries_match_snapshot": "227/227",
     "completeness_zhCN": "../work/completeness-v13-zhCN.json",
-    "name_mentions": "../work/name-mentions-v14.json (5 falsos positivos restantes)"
+    "name_mentions": "../work/name-mentions-v14.json (0 células-nome traduzidas, 0 frases com nome perdido)"
   },
-  "summary": "Todo nome próprio em inglês em qualquer menção (regra completa no GLOSSARIO); falantes descritivos e moedas em PT; On→Ligado. 15.197 células sobre a v13."
+  "summary": "Todo nome próprio em inglês em qualquer menção (regra completa no GLOSSARIO); falantes descritivos e moedas em PT; On→Ligado; menu Crescimento reescrito. 18.337 células sobre a v13."
 }

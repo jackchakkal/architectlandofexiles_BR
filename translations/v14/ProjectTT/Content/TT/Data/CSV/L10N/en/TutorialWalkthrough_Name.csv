@@ -19,13 +19,13 @@ e diminui rapidamente à medida que você sobe."
 Pise em um bloco para ativá-lo e ative todos os blocos para abrir um caminho."
 20212,Placas de pressão,"Pisar em um bloco já ativo contará como uma falha, 
 , o que significa que você precisa reiniciar o desafio desde o início."
-20311,Teste de salto,"Segure a tecla W perto de uma parede para começar a escalar.
+20311,Trial of Leap,"Segure a tecla W perto de uma parede para começar a escalar.
 WPara escalar uma parede, use as teclas WASD para se mover em diferentes direções."
-20312,Teste de salto,"Combine escalada e salto para seguir os Fragmentos Dimensionais
+20312,Trial of Leap,"Combine escalada e salto para seguir os Fragmentos Dimensionais
 até seu destino."
-20321,Teste de salto,"Segure o joystick em direção a uma parede para começar a escalar.
+20321,Trial of Leap,"Segure o joystick em direção a uma parede para começar a escalar.
 Mova o joystick para navegar enquanto estiver na parede."
-20322,Teste de salto,"Combine escalada e salto para seguir os Fragmentos Dimensionais
+20322,Trial of Leap,"Combine escalada e salto para seguir os Fragmentos Dimensionais
 até seu destino."
 20712,Trial Gates,"Derrotar um monstro com <Orange>Bênção do arquiteto</>
  transferirá a bênção para você."
@@ -74,9 +74,9 @@ Agora, você pode alternar entre <Orange>Attack e Specialized</> Stances."
 200402,Guia,"① O guia consiste em <Orange>múltiplos estágios</>.
 ② Você pode visualizar a lista de missões <Orange></> e <Orange>recompensas</> para cada estágio.
 ③ Completar todas as missões em um estágio concede uma recompensa de estágio <Orange></> e desbloqueia o próximo conjunto de missões."
-200601,Teste de salto,"O Trial of Leap apresenta blocos que se movem em diferentes padrões.
+200601,Trial of Leap,"O Trial of Leap apresenta blocos que se movem em diferentes padrões.
 Uuse Saltar e Escalar para montar blocos em movimento até seu destino."
-200602,Teste de salto,"Siga os fragmentos dimensionais para chegar ao seu destino.
+200602,Trial of Leap,"Siga os fragmentos dimensionais para chegar ao seu destino.
 Use Salte e suba com cuidado enquanto avança."
 200701,Blocos Esmagadores,"Se você for pego entre Blocos Esmagadores, você reiniciará no ponto de verificação mais próximo.
 Preste atenção aos padrões dos blocos conforme você avança."
@@ -90,17 +90,17 @@ Pise em um ladrilho para ativá-lo e ative todos os ladrilhos para abrir o camin
 , o que significa que você precisa reiniciar o desafio desde o início."
 201101,Portal Warp,"Você pode viajar entre locais distantes usando Warp Portals.
 Entrar em um portal irá transportá-lo instantaneamente para o portal."
-201201,Prova de Sabedoria,"Você pode deslocar Blocos Móveis usando um Ataque Básico.
+201201,Trial of Wisdom,"Você pode deslocar Blocos Móveis usando um Ataque Básico.
 Esses blocos se movem em linha reta na direção do seu ataque até atingirem uma parede."
-201202,Prova de Sabedoria,"Ao progredir nos testes, você pode encontrar Dispositivos Suspeitos que concedem vários efeitos.
+201202,Trial of Wisdom,"Ao progredir nos testes, você pode encontrar Dispositivos Suspeitos que concedem vários efeitos.
 Você pode acionar esses dispositivos empurrando Blocos Móveis para eles."
-201203,Prova de Sabedoria,Ativar o dispositivo de reinicialização retorna os blocos móveis às suas posições originais.
+201203,Trial of Wisdom,Ativar o dispositivo de reinicialização retorna os blocos móveis às suas posições originais.
 201301,Trial of Flight,"O Trial of Glide apresenta anéis de luz pelos quais você pode deslizar.
 Passe por esses anéis para chegar ao seu destino final."
 201302,Trial of Flight,"Passe pelos anéis de aceleração
  para ganhar um aumento temporário de velocidade."
 201303,Trial of Flight,Coletar Essência de Energia permite que você recupere rapidamente sua resistência.
-201401,Prova de Combate,"Nas Provas de Batalha, você enfrentará uma série de inimigos formidáveis.
+201401,Trial of Combat,"Nas Provas de Batalha, você enfrentará uma série de inimigos formidáveis.
 Derrote-os para reivindicar tesouros antigos como recompensa."
 201501,Trial Gates,Proteja a <Orange>Tocha de Athraharis</> dos monstros que enxameiam.
 201502,Trial Gates,"Cada onda apresenta monstros com a Bênção do Arquiteto <Orange></> .
@@ -125,7 +125,7 @@ Interagir com um baú aciona um evento <Orange>loot</>."
 201703,Rift,"Escolha entre <Orange>Look for Party</> ou <Orange>Início rápido</>.
 ① Look for Party forma automaticamente um grupo de <Orange>cinco</> aventureiros do Rift.
 ② O Quick Start permite que você entre no Rift com seus <Orange>membros atuais do grupo</>."
-201704,Rift,"Depois de <Orange> limpar o Rift</>, você pode reivindicar suas recompensas no Baú do Tesouro.
+201704,Rift,"Depois de <Orange> limpar o Rift</>, você pode reivindicar suas recompensas no Treasure Chest.
 As recompensas podem ser reivindicadas uma vez por cada jogador com <Orange>Rift Selos</>.
 Você pode obter Rift Seals todas as semanas completando <Orange>Comissões Semanais</>."
 201811,Deslizar,"Pressione o botão Jump no ar para mudar para o modo Glide.
@@ -153,12 +153,12 @@ e diminui rapidamente à medida que você sobe."
 ④ Você também pode verificar os efeitos <Orange> específicos</> e <Orange>recompensas</> concedidas após a conclusão de cada projeto."
 202004,Adventurers Alliance,"① Aqui você pode navegar pela lista de itens <Orange></> para cada guilda. A seleção de itens compráveis ​​se expande à medida que sua reputação <Orange></> aumenta.
 ② Use as configurações <Orange>Compra em massa</> para adquirir facilmente itens de todas as guildas."
-202101,Memórias de Gudua,<Orange>Memórias de Gudua</> é um elemento de atualização de personagem que permite restaurar memórias perdidas usando <Orange>Fragmentos de memória</>.
-202102,Memórias de Gudua,"① Selecione um <Orange>factor</> para iniciar o processo de restauração.
+202101,Gudua's Memories,<Orange>Gudua’s Memories</> é um elemento de atualização de personagem que permite restaurar memórias perdidas usando <Orange>Fragmentos de memória</>.
+202102,Gudua's Memories,"① Selecione um <Orange>factor</> para iniciar o processo de restauração.
 ② Você pode visualizar as estatísticas <Orange></> obtidas em cada restauração de memória <Orange>Level</>.
 ③ O número <Orange> necessário de fragmentos de memória</> para restauração é exibido aqui.
 ④ Você pode prosseguir com a restauração da memória selecionando o desejado <Orange>level</>."
-202103,Memórias de Gudua,"① O tipo de fragmentos de memória necessários depende de cada Gudua <Orange>factor</>.
+202103,Gudua's Memories,"① O tipo de fragmentos de memória necessários depende de cada Gudua <Orange>factor</>.
 ② Fragmentos de memória podem ser obtidos através de <Orange>Trial Gates</> e <Orange>Santuários Etéreos</>."
 202201,Troféu,<Orange>Trophy</> são <Orange>conteúdo de progressão</> que narra a jornada de um aventureiro.
 202202,Troféu,"① Aqui, você pode acompanhar seu progresso <Orange></> para cada troféu.
@@ -254,7 +254,7 @@ A provação <Orange>Token</> recarrega automaticamente ao longo do tempo e pode
 202803,Arbiter’s Ordeal,"① Cada Provação consiste em múltiplas Dificuldades <Orange></>. Dificuldades maiores <Orange>Desbloqueie ao atingir níveis específicos</>.
 ② Veja <Orange>rewards</> obtidos ao completar a provação.
 ③ Verifique a quantidade de <Orange>recursos</> necessários para reivindicar a Provação <Orange>recompensas</>.
-④ O Token de Provação é <Orange> consumido somente após a reivindicação recompensas</>, não na entrada."
+④ O Ordeal Token é <Orange> consumido somente após a reivindicação recompensas</>, não na entrada."
 202804,Arbiter’s Ordeal,"Masmorra <Orange>layouts e padrões de monstros</> variam de acordo com o tipo de provação.
 ① Veja o <Orange> da provaçãoJogar Meta</> e <Orange>Tempo restante</>.
 ② <Orange>A reprodução automática</> começa imediatamente após a seleção."
@@ -280,9 +280,9 @@ A provação <Orange>Token</> recarrega automaticamente ao longo do tempo e pode
 203005,Giant's Tower,"<Orange>Hot Time</> fornece buffs especiais exclusivamente na Giant's Tower.
 ① <Orange>Todos os aventureiros recebem 8 horas de Hot Time por semana.</>. É consumido continuamente dentro da Giant's Tower. Você pode permanecer na torre mesmo depois que seu Hot Time expirar.
 ② <Orange>EXP e aumentos de aquisição de itens</> são aplicados enquanto Hot Time está ativo."
-203006,,"<Orange>Tocha de Ashur</> é um buff poderoso que <Orange>apenas um jogador</> por andar pode possuir.
-① A tocha de Ashur está localizada em um ponto de vista elevado dentro da Giant's Tower. Se a tocha não tiver dono, você poderá interagir com ela para reivindicar o buff. No entanto, se já existir um proprietário, você deve <Orange> derrotá-lo</> para aproveitá-lo."
-203007,,"② O proprietário da Tocha de Ashur recebe um buff poderoso <Orange></>, enquanto seus membros do clã <Orange></> recebem um bônus igual à metade de seu efeito.
+203006,,"<Orange>Ashur’s Torch</> é um buff poderoso que <Orange>apenas um jogador</> por andar pode possuir.
+① A Ashur’s Torch está localizada em um ponto de vista elevado dentro da Giant's Tower. Se a tocha não tiver dono, você poderá interagir com ela para reivindicar o buff. No entanto, se já existir um proprietário, você deve <Orange> derrotá-lo</> para aproveitá-lo."
+203007,,"② O proprietário da Ashur’s Torch recebe um buff poderoso <Orange></>, enquanto seus membros do clã <Orange></> recebem um bônus igual à metade de seu efeito.
 ③ A propriedade será perdida se você permanecer fora de combate por um determinado período ou se sair da Giant's Tower enquanto estiver possuindo a tocha."
 203008,,"Cada andar da Giant's Tower é <Orange> guardado por um chefe</>.
  Após sua derrota, o Clã com a maior contribuição de mortes é nomeado Supervisor de Andar. O chefe derrotado se transforma em um Golem Guardião, que possui funções de gerenciamento. 
@@ -313,15 +313,15 @@ permitindo que você visualize informações detalhadas sobre o Reino."
 204001,Observatório,Um <Orange>Observatório</> é um dispositivo usado para monitorar fenômenos de Incursão na Forsaken Land.
 204002,Observatório,Interaja com o Observatório para apreciar a vista circundante.
 204003,Observatório,Acompanhe o status de descoberta dos Observatórios por meio do <Orange>Codex</>.
-204101,Baú de tesouro,"No mundo do Architect, você pode descobrir vários <Orange> Baús de Tesouro</> escondidos.
-Interaja com um Baú de Tesouro <Orange></> para obter uma ampla gama de recompensas, desde preciosas tesouros em lixo comum."
-204102,Baú de tesouro,"Ao longo de sua aventura, você também pode encontrar <Orange>Baús de tesouro especiais</> guardados por monstros e truques."
-204103,Baú de tesouro,Acompanhe o status de descoberta de baús de tesouro por meio do <Orange>Codex</>.
-204201,Giant's Remanescentes,"<Orange>O Remanescente do Gigante</> é um antigo dispositivo de gravação de dados.
+204101,Treasure Chest,"No mundo do Architect, você pode descobrir vários <Orange> Treasure Chests</> escondidos.
+Interaja com um Treasure Chest <Orange></> para obter uma ampla gama de recompensas, desde preciosas tesouros em lixo comum."
+204102,Treasure Chest,"Ao longo de sua aventura, você também pode encontrar <Orange>Treasure Chests especiais</> guardados por monstros e truques."
+204103,Treasure Chest,Acompanhe o status de descoberta de Treasure Chests por meio do <Orange>Codex</>.
+204201,Giant's Remnants,"<Orange>O Remanescente do Gigante</> é um antigo dispositivo de gravação de dados.
 Eles podem ser encontrados em todo o mundo do Architect."
-204202,Giant's Remanescentes,"A maioria dos restos de Giant estão danificados, 
+204202,Giant's Remnants,"A maioria dos Giant’s Remnants estão danificados, 
 , mas você ainda pode acessar os dados gravados de <Orange></> daqueles que permanecem intactos."
-204203,Giant's Remanescentes,Acompanhe o status de descoberta dos remanescentes de Giant e revise os dados coletados por meio do <Orange>Codex</>.
+204203,Giant's Remnants,Acompanhe o status de descoberta dos Giant’s Remnants e revise os dados coletados por meio do <Orange>Codex</>.
 204301,Brilho,"<Orange>Sparkles</> são pequenas fortunas espalhadas pelo mundo. 
 Interaja com eles para reivindicar recompensas <Orange></> ou descobrir informações ocultas."
 204601,Incursão,Uma <Orange>Incursion</> é uma invasão repentina de monstros que se manifesta na Forsaken Land.
@@ -383,9 +383,9 @@ Ativar o sistema de mira Skill via <Orange>Configurações - Controles - Control
 205302,Traje,"① A lista de fantasias <Orange></>. Trajes próprios/equipados são priorizados no topo da lista.
 ② <Orange>Verifique as estatísticas</> do traje selecionado e toque em <Orange>equipar</>.
 Quando um traje é equipado, seu <Orange>Estatísticas e habilidades de equipamento</> são aplicadas ao personagem. <Orange>Estatísticas próprias</> estão permanentemente ativas, independentemente do seu equipamento atual."
-205303,Traje,"Tenha 3★ ou mais trajes para adquirir estatísticas adicionais através da Galeria do Imperador <Orange></>.
+205303,Traje,"Tenha 3★ ou mais trajes para adquirir estatísticas adicionais através da Emperor’s Gallery <Orange></>.
 ① Os slots do Showcase exibem até trajes <Orange>7 em ordem</>, começando em <Orange>, o grau Star</> mais alto.
-② <Orange>Adquira estatísticas</> com base no grau de estrela dos trajes exibidos na Galeria do Imperador."
+② <Orange>Adquira estatísticas</> com base no grau de estrela dos trajes exibidos na Emperor’s Gallery."
 205304,Traje,"<Orange>Fuse</> <Orange>surplus Trajes</> para alcançar graus de estrela mais altos.
 ① Esta é a lista de seus trajes excedentes.
 ② Combine trajes <Orange>4</> do mesmo grau para tentar uma fusão de nível superior."
@@ -413,27 +413,27 @@ Quando um traje é equipado, seu <Orange>Estatísticas e habilidades de equipame
 ② Cada planador tem um Descend Skill exclusivo para uso estratégico em diferentes combates <Orange> ambientes.</>"
 205603,Descida Skill,"① Equipe um planador 4★ ou superior enquanto plana para exibir o botão <Orange>Descer Skill</>.
 ② <Orange>Pressione o button</> para usar o Descend Skill enquanto plana; não pode ser usado em altitudes excessivamente elevadas."
-205701,Graça das Constelações,<Orange>Graça das constelações</> é um sistema para se fortalecer coletando e equipando cartas imbuídas do poder das estrelas.
-205702,Graça das Constelações,"① Esta é a lista de <Orange>Graça das constelações Card</>.
+205701,Grace of the Constellations,<Orange>Graça das constelações</> é um sistema para se fortalecer coletando e equipando cartas imbuídas do poder das estrelas.
+205702,Grace of the Constellations,"① Esta é a lista de <Orange>Graça das constelações Card</>.
 ② Veja as estatísticas das cartas selecionadas e equipe-se como <Orange>Guardian Star</>; as estatísticas são aplicadas ao personagem ao ser equipado.
 ③ Equipe até <Orange>4 </>Guardian Stars; certos slots são desbloqueados com base no nível do personagem.
 ④ Atualize os cartões através de <Orange>Level Up </>ou <Orange>Transcendence</>."
-205703,Graça das Constelações,"① Visualize <Orange>stats</> com base no cartão <Orange>level</>.
+205703,Grace of the Constellations,"① Visualize <Orange>stats</> com base no cartão <Orange>level</>.
 ② Exibe a quantidade de <Orange>Stardust</> necessário para crescimento.
 ③ Selecione o <Orange>level</> desejado para atualizar."
-205704,Graça das Constelações,"Alcance o nível máximo para expandir através de <Orange>Transcendence</>.
+205704,Grace of the Constellations,"Alcance o nível máximo para expandir através de <Orange>Transcendence</>.
 ① Visualize o nível <Orange>Max expandido</> em <Orange>Transcendence</>.
 ② Exibe os tipos e quantidades necessários de <Orange>Heart of the Star</>; o grau do coração varia de acordo com o grau do cartão.
 ③ Pague o custo para prosseguir com <Orange>Transcendence</>."
-205705,Graça das Constelações,"① Esta é a lista do <Orange>Nebula Effect</> adquirível por meio de coleta de cartão e atualizações.
+205705,Grace of the Constellations,"① Esta é a lista do <Orange>Nebula Effect</> adquirível por meio de coleta de cartão e atualizações.
 ② Veja a Bênção do <Orange>Constellations Card</> que formam o Efeito Nebulosa.
 ③ Exibe o nível total do cartão <Orange></> para o Efeito Nebulosa selecionado.
 ④ <Orange>Efeito Nebulosa</> é ativado com base no nível total do cartão."
-205706,Graça das Constelações,"<Orange>Fuse</> <Orange>cartões excedentes</> para obter uma nota mais alta.
+205706,Grace of the Constellations,"<Orange>Fuse</> <Orange>cartões excedentes</> para obter uma nota mais alta.
 ① Esta é a lista de excedentes próprios cartão.
 ② Fuse cartões <Orange>5</> do mesmo grau para ter a chance de obter uma nota mais alta.
 ③ Fusão de <Orange>3★ </>ou concessões de cartões superiores <Orange>Pontos de Fusão</>, que podem ser trocados por cartões de 4★–6★."
-205707,Graça das Constelações,"Cartões e materiais de atualização podem ser obtidos através de várias jogadas.
+205707,Grace of the Constellations,"Cartões e materiais de atualização podem ser obtidos através de várias jogadas.
 ◎ <Orange> Arbiter’s Ordeal</> - Ganhe vários cartões e materiais de atualização do <Orange>Ordeal of Constellations.</>.
 ◎ Derrote monstros na <Orange>Forsaken Land</> para obter Stardust.
 ◎ Colete cartas de Graça das constelações e materiais de atualização por meio da Loja e <Orange>Adventurers Alliance</> Goodwill."
@@ -458,30 +458,30 @@ Quando um traje é equipado, seu <Orange>Estatísticas e habilidades de equipame
 ② Você pode verificar os Pontos de Avanço necessários para cada tipo.
 ③ Verifique os pontos necessários <Orange></> e prossiga com a troca <Orange></>."
 205909,Relíquia Sagrada,"A relíquia sagrada pode ser obtida através de vários caminhos, dependendo de seu tipo."
-206001,Crista dos Antigos,<Orange>Crest of the Ancients</> é um sistema de atualização usado para adquirir estatísticas por meio de aumentos de nível de crista e Powerstones.
-206002,Crista dos Antigos,"Adquira mais estatísticas em Crest of the Ancients por meio de atualizações de nível <Orange>.</>
+206001,Crest of the Ancients,<Orange>Crest of the Ancients</> é um sistema de atualização usado para adquirir estatísticas por meio de aumentos de nível de crista e Powerstones.
+206002,Crest of the Ancients,"Adquira mais estatísticas em Crest of the Ancients por meio de atualizações de nível <Orange>.</>
 ① Exibe o nível de crista atual.
 ② O nível de crista aumenta <Orange> aleatoriamente em 1–5 níveis</> na atualização; <Orange>material e custos aumentam</> a cada tentativa.
 ③ <Orange>Redefinir níveis de crista.</> <Orange>Uma parte dos Cristais de Autoridade usados será retornou</> na redefinição."
-206003,Crista dos Antigos,"<Orange>Equipe Powerstones</> em Crests para adquirir estatísticas de bônus.
+206003,Crest of the Ancients,"<Orange>Equipe Powerstones</> em Crests para adquirir estatísticas de bônus.
 ① Esta é a lista <Orange> de Powerstones</> que você possui.
 ② <Orange>Slots disponíveis para equipar </> Powerstones.
 ③ Veja as estatísticas da Powerstone selecionada.
 ④ Equipar/desequipar Powerstones. <Orange>Apenas Powerstones identificadas</> podem ser equipadas."
-206004,Crista dos Antigos,"<Orange>Refinement</> é um método de atualização usado para aumentar as estatísticas básicas de uma Powerstone e imbuir estatísticas aleatórias.
+206004,Crest of the Ancients,"<Orange>Refinement</> é um método de atualização usado para aumentar as estatísticas básicas de uma Powerstone e imbuir estatísticas aleatórias.
 ① Esta é uma <Orange>lista de Powerstones</> você own.
 ② Exibe estatísticas da Powerstone selecionada; estatísticas aleatórias <Orange>unlock nos níveis de refinamento 4, 7 e 10.</>. 
 ③ Selecione uma meta de refinamento e consuma materiais para prosseguir."
-206005,Crista dos Antigos,"Identificar Powerstones através <Orange>Identificação</> para <Orange>revelar suas estatísticas aleatórias</>.
+206005,Crest of the Ancients,"Identificar Powerstones através <Orange>Identificação</> para <Orange>revelar suas estatísticas aleatórias</>.
 ① Esta é a lista de <Orange>Unidentificadas</> Powerstones. 
 ② Exibe estatísticas da Powerstone selecionada; estatísticas aleatórias são reveladas após a identificação.
 ③ Consumir custos para realizar <Orange>Identificação</> e revelar estatísticas aleatórias.
 ④ Realizar identificação <Orange>individualmente</> ou em <Orange>bulk</>."
-206006,Crista dos Antigos,"Adquira Cristais de Autoridade por meio de <Orange>Desmontagem</>.
+206006,Crest of the Ancients,"Adquira Cristais de Autoridade por meio de <Orange>Desmontagem</>.
 ① Este é o <Orange>lista de Powerstones</> que você possui.
 ② Exibe Powerstones selecionados para desmontagem.
 ③ Desmonte Powerstones selecionados para adquirir <Orange>Cristais de Autoridade</>."
-206007,Crista dos Antigos,Obtenha Powerstones na <Orange>Giant's Tower</>.
+206007,Crest of the Ancients,Obtenha Powerstones na <Orange>Giant's Tower</>.
 206101,Alinhamento e Outlaw,<Orange>Alignment</> mede <Orange>good</> e <Orange>evil</> com base nas ações do aventureiro.
 206102,Alinhamento e Outlaw,"① Exibe seu valor de alinhamento atual. <Orange>Ganhe valor de alinhamento derrotando monstros</> e <Orange>Perca-o derrotando outros aventureiros</>.
 ② O nível de alinhamento é categorizado em 5 níveis de bom, neutro e 5 níveis de mal. 
@@ -624,12 +624,12 @@ Selecionar a lista de monstros permite que você verifique as recompensas deixad
 Quando as ondas terminarem, o usuário que implantou o Tesseract Artificial poderá obter recompensas adicionais."
 208205,Artificial Tesseract,"Se <Orange>1 minuto</> passar sem nenhum usuário dentro do alcance ativo do Artificial Tesseract, o Tesseract <Orange> desaparecerá e você não poderá receber recompensas.</>
 Por favor, esteja atento a isso e conquiste-o com seus companheiros."
-208301,Barreira Temporal,A Barreira de Tempo é um local especial que pode ser usado por um determinado período de tempo dentro de um determinado período.
-208302,Barreira Temporal,"Cada tipo de barreira de tempo tem tempos de uso diários ou semanais definidos,
+208301,Temporal Barrier,A Barreira de Tempo é um local especial que pode ser usado por um determinado período de tempo dentro de um determinado período.
+208302,Temporal Barrier,"Cada tipo de barreira de tempo tem tempos de uso diários ou semanais definidos,
 e você pode entrar em uma masmorra <Orange> de dificuldade apropriada</> para cada tipo."
-208303,Barreira Temporal,"Seu tempo de uso começa a diminuir no momento em que você entra na Barreira de Tempo.
+208303,Temporal Barrier,"Seu tempo de uso começa a diminuir no momento em que você entra na Barreira de Tempo.
 Se você consumir todo o seu tempo de uso, <Orange>você deixará automaticamente o mundo e será transferido para a Forsaken Land</>."
-208304,Barreira Temporal,O tempo de uso da Barreira de Tempo pode ser recarregado usando um item de recarga exclusivo.
+208304,Temporal Barrier,O tempo de uso da Barreira de Tempo pode ser recarregado usando um item de recarga exclusivo.
 208401,Ressonância,<Orange>Resonance</> é um sistema de atualização onde as estatísticas são aprimoradas conforme os níveis progridem.
 208402,Ressonância,"① <Orange>Intensidade de ressonância</> representa o nível de atualização de ressonância. <Orange>Contagens de falhas</> se acumulam e atingir o limite <Orange></> impedirá novas tentativas.
 ② Ver <Orange>Efeitos de ressonância</>, <Orange>taxas de sucesso</> e <Orange>custos</> no painel de informações à direita. Aumentar a intensidade da ressonância <Orange></> aprimora ainda mais suas habilidades."
@@ -652,18 +652,18 @@ A ressonância progride de <Orange>Esquerda → Direita</> e, ao chegar ao final
 ◎ Parar uma incursão com sucesso com <Orange>Oportunidade de recompensa</> disponível irá gerar um Fragmento de Sombra <Orange></>.
 ◎ Fragmentos de Sombra podem ser interagidos quando você está nas classificações de contribuição superior <Orange>.</>
 ◎ Interagindo com um Fragmento de Sombra para <Orange> reivindicar recompensas</> consome uma Chance de Recompensa."
-208801,Chefe de Rift,O <Orange>Rift chefe</> é uma masmorra cooperativa onde até <Orange>30</> Aventureiros de diferentes dimensões unem forças para derrotar um monstro chefe <Orange>dentro do tempo limite</>.
-208802,Chefe de Rift,"① Rift chefes têm <Orange>entradas semanais limitadas</>, que <Orange>reset toda semana</>.
+208801,Rift Boss,O <Orange>Rift Boss</> é uma masmorra cooperativa onde até <Orange>30</> Aventureiros de diferentes dimensões unem forças para derrotar um monstro chefe <Orange>dentro do tempo limite</>.
+208802,Rift Boss,"① Rift Bosses têm <Orange>entradas semanais limitadas</>, que <Orange>reset toda semana</>.
 ② É acessível apenas em <Orange>horários específicos todos os dias</>. Uma vez lá dentro, você pode terminar o ataque mesmo que a janela de entrada feche. 
-③ Rift chefe <Orange>níveis de dificuldade</> são desbloqueados um por um com base no seu nível <Orange></>.
+③ Rift Boss <Orange>níveis de dificuldade</> são desbloqueados um por um com base no seu nível <Orange></>.
 ④ Você pode selecionar seu preferido <Orange>dificuldade</> ao entrar na masmorra."
-208803,Chefe de Rift,"Você usa uma entrada semanal ao entrar na masmorra, <Orange>, independentemente de o chefe</> ser derrotado. 
+208803,Rift Boss,"Você usa uma entrada semanal ao entrar na masmorra, <Orange>, independentemente de o chefe</> ser derrotado. 
 ① Use <Orange>Permissões de subjugação de emergência</> para recarregar até <Orange>30 entradas</>."
-208804,Chefe de Rift,"① Derrotar o chefe em cooperação com outros aventureiros <Orange> concede recompensas imediatas</>.
+208804,Rift Boss,"① Derrotar o chefe em cooperação com outros aventureiros <Orange> concede recompensas imediatas</>.
 As recompensas incluem <Orange>Recompensas de participação</> e <Orange>Recompensas de classificação</> com base na contribuição.
 Se o seu inventário estiver cheio, eles serão <Orange>enviados para sua caixa de entrada</>.
 ② As recompensas podem ser reivindicadas até <Orange>3 vezes por semana</>. Se você ficar sem <Orange>Prismas Dimensionais</>, a entrada será <Orange>restricted</> mesmo quando você tiver entradas semanais não utilizadas."
-208901,Ajuste,<Orange>Attunement</> permite que você desbloqueie registros não sintonizados e consuma materiais específicos para ganhar níveis e <Orange>stats</>. Os resultados da atualização são acumulados sem qualquer taxa de falha <Orange>.</>
+208901,Ajuste,<Orange>Attunement</> permite que você desbloqueie Unattuned Records e consuma materiais específicos para ganhar níveis e <Orange>stats</>. Os resultados da atualização são acumulados sem qualquer taxa de falha <Orange>.</>
 208902,Ajuste,Alcançando o nível máximo <Orange> para uma nota</> permite a progressão para o próximo nível via <Orange>Transcendência</>.
 208903,Ajuste,"Subir de nível desbloqueia <Orange>Record Slots</> aleatoriamente, revelando a imagem pedaço por pedaço. Assim que todos os slots forem desbloqueados e o registro <Orange> estiver completo</>, seu conteúdo secreto será revelado."
 209001,Chaveiro,"Evocar um chaveiro no slot principal <Orange></> para ativar automaticamente Especial e Suporte skills.
@@ -693,10 +693,10 @@ Você pode selecionar o desejado <Orange>Level</> para prosseguir com a atualiza
 101004,Skill Nível,"O efeito combinado <Orange></> é ativado com base na soma de seus níveis skill.
 As estatísticas adquiridas são aplicadas ao personagem."
 101005,Skill Nível,Skill Manuais e Tomos de Transcendência podem ser obtidos jogando <Orange>Arbiter’s Ordeal – Ordeal of Skill</>.
-102402,Santuário Etéreo,O <Orange>Ethereal Sanctum</> é um antigo teste encontrado em toda a Forsaken Land e um desafio onde você pode obter tesouros escondidos.
-102403,Santuário Etéreo,"① O <Orange>Clear Status</> do Ethereal Sanctum é exibido.
+102402,Ethereal Sanctum,O <Orange>Ethereal Sanctum</> é um antigo teste encontrado em toda a Forsaken Land e um desafio onde você pode obter tesouros escondidos.
+102403,Ethereal Sanctum,"① O <Orange>Clear Status</> do Ethereal Sanctum é exibido.
 ② O Ethereal Sanctum consiste em <Orange>quatro tipos</> de testes. O método <Orange>Clear</> varia dependendo do tipo de teste."
-102404,Santuário Etéreo,"① Estes são os tipos de teste.
+102404,Ethereal Sanctum,"① Estes são os tipos de teste.
 ② Recompensas e status adicionais com base na <Orange>Taxa de conclusão do desafio</> para cada tipo de teste são exibidos.
 ③ Você pode verificar o <Orange>Lista de teste</> e recompensas.
 ④ Você pode ver o local de teste <Orange></> através do mapa. Locais em Reinos não descobertos não podem ser visualizados."
@@ -706,9 +706,9 @@ As estatísticas adquiridas são aplicadas ao personagem."
 Ao equipar um Phantom Arma, as estatísticas e habilidades de equipamento <Orange></> da Arma Fantasma são aplicadas ao personagem."
 102503,Arma Fantasma,"① Você pode obter <Orange>Efeitos próprios</> com base na quantidade de Armas Fantasmas pertencentes ao grau estrela.
 ② O <Orange>Resumo</> de efeitos próprios e progresso são exibidos."
-102504,Arma Fantasma,"Se você possui uma Arma Fantasma de 3 estrelas ou superior para sua classe, você pode obter estatísticas adicionais através do Arsenal do Imperador <Orange></>.
+102504,Arma Fantasma,"Se você possui uma Arma Fantasma de 3 estrelas ou superior para sua classe, você pode obter estatísticas adicionais através do Emperor's Armory <Orange></>.
 ① Até <Orange>7 Fantasma Armas</> de <Orange>sua classe</> será colocada nos slots do arsenal <Orange>começando com o grau de estrela mais alto</>.
-② Você pode <Orange>obtenha estatísticas</> com base nas classificações de estrelas das Armas Fantasmas colocadas no Arsenal do Imperador."
+② Você pode <Orange>obtenha estatísticas</> com base nas classificações de estrelas das Armas Fantasmas colocadas no Emperor's Armory."
 102505,Arma Fantasma,"Você pode usar <Orange>surplus Phantom Weapons</> para <Orange>Fuse</>-los em um grau de estrela mais alto.
 ① Esta é a lista de armas fantasmas excedentes que você own.
 ② Você pode tentar fundir uma estrela de grau superior usando armas fantasmas <Orange>4</> do mesmo grau."
@@ -738,13 +738,13 @@ Cada um dos 7 cristais tem seus próprios Binding Points, e você pode verificar
 103206,Traje de atualização,"① Você pode verificar informações detalhadas <Orange>tocando e segurando</> um item na lista de trajes.
 ② O nível <Orange> do traje e o status dos pontos de ligação</> são exibido.
 ③ Você pode <Orange> ir imediatamente</> para a tela Level Up para prosseguir com o Leveling Up."
-300001,Veja o Santuário Etéreo novamente,"Você pode deslocar Blocos Móveis usando um Ataque Básico.
+300001,Veja o Ethereal Sanctum novamente,"Você pode deslocar Blocos Móveis usando um Ataque Básico.
 Esses blocos se movem em linha reta na direção do seu ataque até atingirem uma parede."
-300002,Veja o Santuário Etéreo novamente,"Durante os testes, você pode descobrir Dispositivos Suspeitos que produzem vários efeitos.
+300002,Veja o Ethereal Sanctum novamente,"Durante os testes, você pode descobrir Dispositivos Suspeitos que produzem vários efeitos.
 Você pode ativá-los pisando neles você mesmo ou colocando um Bloco Móvel sobre eles."
-300003,Veja o Santuário Etéreo novamente,"No Trial of Glide, anéis brancos pelos quais você pode deslizar aparecerão. 
+300003,Veja o Ethereal Sanctum novamente,"No Trial of Glide, anéis brancos pelos quais você pode deslizar aparecerão. 
 Voando pelos anéis, você pode chegar ao destino final."
-300004,Veja o Santuário Etéreo novamente,"Passe pelos anéis de aceleração
+300004,Veja o Ethereal Sanctum novamente,"Passe pelos anéis de aceleração
  para ganhar um aumento temporário de velocidade."
 209101,Title,"Você pode ganhar <Orange>Titles</> de várias fontes, incluindo <Orange>Trophy</> e <Orange>ranking</> marcos."
 209102,Title,<Orange>Titles</> concede a você seus próprios efeitos.

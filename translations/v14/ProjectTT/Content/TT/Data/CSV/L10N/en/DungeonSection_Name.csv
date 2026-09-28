@@ -849,30 +849,30 @@ Slaying chefes grants massive points!",
 140109509,Infinite Spire,Derrote {StringParam}{jstag:} antes que o tempo acabe.,Fahad
 140109600,Infinite Spire,"Defeat as many monsters as you can before time runs out.
 Slaying chefes grants massive points!",
-150101011,Enhancement Barrier Level {StringParam},"Você está na Barreira de Aprimoramento, nível {StringParam}.",1
-150101021,Enhancement Barrier Level {StringParam},"Você está na Barreira de Aprimoramento, nível {StringParam}.",2
-150101031,Enhancement Barrier Level {StringParam},"Você está na Barreira de Aprimoramento, nível {StringParam}.",3
-150101041,Enhancement Barrier Level {StringParam},"Você está na Barreira de Aprimoramento, nível {StringParam}.",4
-150101051,Enhancement Barrier Level {StringParam},"Você está na Barreira de Aprimoramento, nível {StringParam}.",5
-150101061,Enhancement Barrier Level {StringParam},"Você está na Barreira de Aprimoramento, nível {StringParam}.",6
-150101071,Enhancement Barrier Level {StringParam},"Você está na Barreira de Aprimoramento, nível {StringParam}.",7
-150101081,Enhancement Barrier Level {StringParam},"Você está na Barreira de Aprimoramento, nível {StringParam}.",8
-150102011,Golden Barrier Level {StringParam},"Você está na Barreira Dourada, nível {StringParam}.",1
-150102021,Golden Barrier Level {StringParam},"Você está na Barreira Dourada, nível {StringParam}.",2
-150102031,Golden Barrier Level {StringParam},"Você está na Barreira Dourada, nível {StringParam}.",3
-150102041,Golden Barrier Level {StringParam},"Você está na Barreira Dourada, nível {StringParam}.",4
-150102051,Golden Barrier Level {StringParam},"Você está na Barreira Dourada, nível {StringParam}.",5
-150102061,Golden Barrier Level {StringParam},"Você está na Barreira Dourada, nível {StringParam}.",6
-150102071,Golden Barrier Level {StringParam},"Você está na Barreira Dourada, nível {StringParam}.",7
-150102081,Golden Barrier Level {StringParam},"Você está na Barreira Dourada, nível {StringParam}.",8
-150701011,Barrier of the Unknown Level {StringParam},"Você está na Barrier of the Unknown, nível {StringParam}.",1
-150701021,Barrier of the Unknown Level {StringParam},"Você está na Barrier of the Unknown, nível {StringParam}.",2
-150701031,Barrier of the Unknown Level {StringParam},"Você está na Barrier of the Unknown, nível {StringParam}.",3
-150701041,Barrier of the Unknown Level {StringParam},"Você está na Barrier of the Unknown, nível {StringParam}.",4
-150701051,Barrier of the Unknown Level {StringParam},"Você está na Barrier of the Unknown, nível {StringParam}.",5
-150701061,Barrier of the Unknown Level {StringParam},"Você está na Barrier of the Unknown, nível {StringParam}.",6
-150701071,Barrier of the Unknown Level {StringParam},"Você está na Barrier of the Unknown, nível {StringParam}.",7
-150701081,Barrier of the Unknown Level {StringParam},"Você está na Barrier of the Unknown, nível {StringParam}.",8
+150101011,Enhancement Barrier Level {StringParam},Você está em Enhancement Barrier Level {StringParam}.,1
+150101021,Enhancement Barrier Level {StringParam},Você está em Enhancement Barrier Level {StringParam}.,2
+150101031,Enhancement Barrier Level {StringParam},Você está em Enhancement Barrier Level {StringParam}.,3
+150101041,Enhancement Barrier Level {StringParam},Você está em Enhancement Barrier Level {StringParam}.,4
+150101051,Enhancement Barrier Level {StringParam},Você está em Enhancement Barrier Level {StringParam}.,5
+150101061,Enhancement Barrier Level {StringParam},Você está em Enhancement Barrier Level {StringParam}.,6
+150101071,Enhancement Barrier Level {StringParam},Você está em Enhancement Barrier Level {StringParam}.,7
+150101081,Enhancement Barrier Level {StringParam},Você está em Enhancement Barrier Level {StringParam}.,8
+150102011,Golden Barrier Level {StringParam},Você está em Golden Barrier Level {StringParam}.,1
+150102021,Golden Barrier Level {StringParam},Você está em Golden Barrier Level {StringParam}.,2
+150102031,Golden Barrier Level {StringParam},Você está em Golden Barrier Level {StringParam}.,3
+150102041,Golden Barrier Level {StringParam},Você está em Golden Barrier Level {StringParam}.,4
+150102051,Golden Barrier Level {StringParam},Você está em Golden Barrier Level {StringParam}.,5
+150102061,Golden Barrier Level {StringParam},Você está em Golden Barrier Level {StringParam}.,6
+150102071,Golden Barrier Level {StringParam},Você está em Golden Barrier Level {StringParam}.,7
+150102081,Golden Barrier Level {StringParam},Você está em Golden Barrier Level {StringParam}.,8
+150701011,Barrier of the Unknown Level {StringParam},Você está em Barrier of the Unknown Level {StringParam}.,1
+150701021,Barrier of the Unknown Level {StringParam},Você está em Barrier of the Unknown Level {StringParam}.,2
+150701031,Barrier of the Unknown Level {StringParam},Você está em Barrier of the Unknown Level {StringParam}.,3
+150701041,Barrier of the Unknown Level {StringParam},Você está em Barrier of the Unknown Level {StringParam}.,4
+150701051,Barrier of the Unknown Level {StringParam},Você está em Barrier of the Unknown Level {StringParam}.,5
+150701061,Barrier of the Unknown Level {StringParam},Você está em Barrier of the Unknown Level {StringParam}.,6
+150701071,Barrier of the Unknown Level {StringParam},Você está em Barrier of the Unknown Level {StringParam}.,7
+150701081,Barrier of the Unknown Level {StringParam},Você está em Barrier of the Unknown Level {StringParam}.,8
 160101011,Averus Level {StringParam},Derrote Averus e liberte o espaço-tempo que ele aprisionou.,1
 160101021,Averus Level {StringParam},Derrote Averus e liberte o espaço-tempo que ele aprisionou.,2
 160101031,Averus Level {StringParam},Derrote Averus e liberte o espaço-tempo que ele aprisionou.,3

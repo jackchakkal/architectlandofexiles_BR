@@ -333,7 +333,7 @@ Bind/Lento/Silêncio/Cego/Congelar/Provocar/Mutate/Mind Control"
 723,Chance de Acerto de Atordoamento,Chance de acerto de atordoamento aumentada,Chance de acerto de atordoamento reduzida,Aumenta a chance de acerto de efeitos de atordoamento.
 724,Knock Down Chance de acerto,Aumento da chance de acerto de nocaute,Chance de acerto de nocaute reduzida,Aumenta a chance de acerto de efeitos de derrubada.
 725,Chance de acerto aerotransportado,Aumento da chance de acerto aéreo,Chance de acerto aéreo reduzida,Aumenta a chance de acerto de efeitos aéreos.
-726,Knock Back Hit Chance,Aumento da chance de acerto de empurrão,Chance de acerto de empurrão reduzida,Aumenta a chance de acerto dos efeitos de empurrão.
+726,Knock Back Hit Chance,Aumento da chance de acerto de Knock Back,Chance de acerto de Knock Back reduzida,Aumenta a chance de acerto dos efeitos de Knock Back.
 727,Chance de acerto de choque,Aumento da chance de acerto de choque,Chance de acerto de choque reduzida,Aumenta a chance de acerto de efeitos de choque.
 728,Deslocamento Chance de acerto,Aumento de chance de acerto de deslocamento,Chance de acerto de deslocamento reduzida,Aumenta a chance de acerto de Efeitos de Deslocamento.
 729,Chance de Acerto da Ligação,Aumento da chance de acerto de ligação,Reduzido Chance de acerto de vinculação,Aumenta a chance de acerto de Bind Effects.
@@ -361,7 +361,7 @@ Bind / Lento / Silêncio / Cego / Congelar / Provocar / Mutar / Controle da Ment
 701,Chance de resistência ao atordoamento,Aumento da chance de resistência ao atordoamento,Chance de resistência ao atordoamento reduzida,Aumenta a chance de resistir a ataques de atordoamento.
 702,Knockback Chance de resistência,Aumentada Chance de resistência de derrubada,Chance de resistência de nocaute reduzida,Aumenta a chance de resistir a ataques de derrubada.
 703,Chance de resistência aerotransportada,Aumento da chance de resistência aérea,Resistência Aerotransportada Reduzida,Aumenta a chance de resistir ao ar ataques.
-704,Knock Back Resistance Chance,Aumento da chance de resistência a empurrão,Chance de resistência a empurrão reduzida,Aumenta a chance de resistir a ataques de Knock Back.
+704,Knock Back Resistance Chance,Aumento da chance de resistência a Knock Back,Chance de resistência a Knock Back reduzida,Aumenta a chance de resistir a ataques de Knock Back.
 705,Chance de Resistência ao Choque,Aumento da chance de resistência ao choque,Chance de resistência ao choque reduzida,Aumenta a chance de resistir a ataques de choque.
 706,Resistência ao deslocamento Exibição de chance,Aumento de chance de resistência ao deslocamento,Chance de resistência de deslocamento reduzida,Aumenta a chance de resistir a ataques de deslocamento.
 707,Chance de Resistência de Ligação,Aumento da chance de resistência de ligação,Chance de resistência de vinculação reduzida,Aumenta a chance de resistir a ataques de Bind.

@@ -142,7 +142,7 @@
 1005017,Cristal Negro,Compre itens de Black Crystal Shop {RequiredStackCount} vezes,
 1005018,Vending Machine,Use máquinas de venda automática {RequiredStackCount} vezes,
 1005019,Memorite,Consumir memórias {RequiredStackCount},
-1005020,Insira a Barreira Temporal,Insira a Barreira Temporal {RequiredStackCount} vezes,
+1005020,Insira a Temporal Barrier,Insira a Temporal Barrier {RequiredStackCount} vezes,
 1005021,Abyss Battlefield Tempo total,Use Abyss Battlefield para horas {IntParam},
 1005022,Ocupe o Monólito,Participe de Monolith War {RequiredStackCount} vezes,
 1005023,Chefe de campo,Derrote chefes de campo {RequiredStackCount} vezes,
@@ -176,7 +176,7 @@
 1006017,Cristal Negro,Compre itens de Black Crystal Shop {RequiredStackCount} vezes,
 1006018,Vending Machine,Use máquinas de venda automática {RequiredStackCount} vezes,
 1006019,Memorite,Consumir memórias {RequiredStackCount},
-1006020,Insira a Barreira Temporal,Insira a Barreira Temporal {RequiredStackCount} vezes,
+1006020,Insira a Temporal Barrier,Insira a Temporal Barrier {RequiredStackCount} vezes,
 1006021,Abyss Battlefield Tempo total,Use Abyss Battlefield para horas {IntParam},
 1006022,Ocupe o Monólito,Participe de Monolith War {RequiredStackCount} vezes,
 1006023,Chefe de campo,Derrote chefes de campo {RequiredStackCount} vezes,
@@ -210,7 +210,7 @@
 1007017,Cristal Negro,Compre itens de Black Crystal Shop {RequiredStackCount} vezes,
 1007018,Vending Machine,Use máquinas de venda automática {RequiredStackCount} vezes,
 1007019,Memorite,Consumir memórias {RequiredStackCount},
-1007020,Insira a Barreira Temporal,Insira a Barreira Temporal {RequiredStackCount} vezes,
+1007020,Insira a Temporal Barrier,Insira a Temporal Barrier {RequiredStackCount} vezes,
 1007021,Abyss Battlefield Tempo total,Use Abyss Battlefield para horas {IntParam},
 1007022,Ocupe o Monólito,Participe de Monolith War {RequiredStackCount} vezes,
 1007023,Chefe de campo,Derrote chefes de campo {RequiredStackCount} vezes,
@@ -244,7 +244,7 @@
 1008017,Cristal Negro,Compre itens de Black Crystal Shop {RequiredStackCount} vezes,
 1008018,Vending Machine,Use máquinas de venda automática {RequiredStackCount} vezes,
 1008019,Memorite,Consumir memórias {RequiredStackCount},
-1008020,Insira a Barreira Temporal,Insira a Barreira Temporal {RequiredStackCount} vezes,
+1008020,Insira a Temporal Barrier,Insira a Temporal Barrier {RequiredStackCount} vezes,
 1008021,Abyss Battlefield Tempo total,Use Abyss Battlefield para horas {IntParam},
 1008022,Ocupe o Monólito,Participe de Monolith War {RequiredStackCount} vezes,
 1008023,Chefe de campo,Derrote chefes de campo {RequiredStackCount} vezes,
@@ -275,9 +275,9 @@
 1009014,Prosseguir com o despertar,Tentativa de desbloquear e despertar {RequiredStackCount} vezes,
 1009018,Vending Machine,Use máquinas de venda automática {RequiredStackCount} vezes,
 1009019,Memorite,Consumir memórias {RequiredStackCount},
-1009021,Derrote Monstros na Barreira Temporal,Derrote {RequiredStackCount} Monstros de Barreira Temporal,
+1009021,Derrote Monstros na Temporal Barrier,Derrote {RequiredStackCount} Monstros de Temporal Barrier,
 1009022,Abyss Battlefield Tempo total,Use Abyss Battlefield para horas {IntParam},
-1009023,Reivindicar recompensas do Rift chefe,Reivindique recompensas do Rift chefe {RequiredStackCount} vezes,
+1009023,Reivindicar recompensas do Rift Boss,Reivindique recompensas do Rift Boss {RequiredStackCount} vezes,
 1009024,Participe da Arena,Participe da Arena {RequiredStackCount} vezes,
 1009025,Participe de Shadow Incursion,Participe da Shadow Incursion {RequiredStackCount} vezes,
 1009026,Ocupe o Monólito,Participe de Monolith War {RequiredStackCount} vezes,
@@ -350,11 +350,11 @@
 1000104,Fabricar Accessory Enhancement Stone,Fabricar Accessory Enhancement Stone {RequiredStackCount} vezes,
 1000105,Comissão diária,Complete a comissão diária no Commission House {RequiredStackCount} vezes,
 1000106,Gastar Ouro,Gaste {RequiredStackCount}Gold,
-1000114,Uninvited Guest,Receba recompensas após limpar [{Param}] {IntParam} vezes,Rift anormal: Uninvited Guest
-1000115,Uninvited Guest,Receba recompensas após limpar [{Param}] {IntParam} vezes,Rift anormal: Uninvited Guest
-1000116,Uninvited Guest,Receba recompensas após limpar [{Param}] {IntParam} vezes,Rift anormal: Uninvited Guest
-1000117,Uninvited Guest,Receba recompensas após limpar [{Param}] {IntParam} vezes,Rift anormal: Uninvited Guest
-1000118,Uninvited Guest,Receba recompensas após limpar [{Param}] {IntParam} vezes,Rift anormal: Uninvited Guest
+1000114,Uninvited Guest,Receba recompensas após limpar [{Param}] {IntParam} vezes,Abnormal Rift: Uninvited Guest
+1000115,Uninvited Guest,Receba recompensas após limpar [{Param}] {IntParam} vezes,Abnormal Rift: Uninvited Guest
+1000116,Uninvited Guest,Receba recompensas após limpar [{Param}] {IntParam} vezes,Abnormal Rift: Uninvited Guest
+1000117,Uninvited Guest,Receba recompensas após limpar [{Param}] {IntParam} vezes,Abnormal Rift: Uninvited Guest
+1000118,Uninvited Guest,Receba recompensas após limpar [{Param}] {IntParam} vezes,Abnormal Rift: Uninvited Guest
 1000119,Aburu Vending Machine,Use Aburu Vending Machine {RequiredStackCount} vezes,
 1000120,Aburu Vending Machine,Use Aburu Vending Machine {RequiredStackCount} vezes,
 1000121,Aburu Vending Machine,Use Aburu Vending Machine {RequiredStackCount} vezes,
@@ -419,9 +419,9 @@
 1000314,Incursão de ataque,Limpar a Incursão de Ataque {RequiredStackCount} tempo(s),
 1000315,Incursão de ataque,Limpar a Incursão de Ataque {RequiredStackCount} tempo(s),
 1000316,Incursão de ataque,Limpar a Incursão de Ataque {RequiredStackCount} tempo(s),
-1000317,Ataque a Titan Vending Machine,Usar ataque em Titan Vending Machine {RequiredStackCount} tempo(s),
-1000318,Ataque a Titan Vending Machine,Usar ataque em Titan Vending Machine {RequiredStackCount} tempo(s),
-1000319,Ataque a Titan Vending Machine,Usar ataque em Titan Vending Machine {RequiredStackCount} tempo(s),
+1000317,Attack on Titan Vending Machine,Usar a Attack on Titan Vending Machine {RequiredStackCount} vez(es),
+1000318,Attack on Titan Vending Machine,Usar Attack on Titan Vending Machine {RequiredStackCount} tempo(s),
+1000319,Attack on Titan Vending Machine,Usar Attack on Titan Vending Machine {RequiredStackCount} tempo(s),
 1000320,Beast Giant,Participe do(s) tempo(s) Beast Giant {RequiredStackCount},
 1000321,Beast Giant,Participe do(s) tempo(s) Beast Giant {RequiredStackCount},
 1000322,Beast Giant,Participe do(s) tempo(s) Beast Giant {RequiredStackCount},
@@ -433,11 +433,11 @@
 1000404,Fabricar Accessory Enhancement Stone,Fabricar Accessory Enhancement Stone {RequiredStackCount} vezes,
 1000405,Comissão diária,Complete a comissão diária no Commission House {RequiredStackCount} vezes,
 1000406,Gastar Ouro,Gaste {RequiredStackCount}Gold,
-1000414,Uninvited Guest,Receba recompensas após limpar [{Param}] {IntParam} vezes,Rift anormal: Uninvited Guest
-1000415,Uninvited Guest,Receba recompensas após limpar [{Param}] {IntParam} vezes,Rift anormal: Uninvited Guest
-1000416,Uninvited Guest,Receba recompensas após limpar [{Param}] {IntParam} vezes,Rift anormal: Uninvited Guest
-1000417,Uninvited Guest,Receba recompensas após limpar [{Param}] {IntParam} vezes,Rift anormal: Uninvited Guest
-1000418,Uninvited Guest,Receba recompensas após limpar [{Param}] {IntParam} vezes,Rift anormal: Uninvited Guest
+1000414,Uninvited Guest,Receba recompensas após limpar [{Param}] {IntParam} vezes,Abnormal Rift: Uninvited Guest
+1000415,Uninvited Guest,Receba recompensas após limpar [{Param}] {IntParam} vezes,Abnormal Rift: Uninvited Guest
+1000416,Uninvited Guest,Receba recompensas após limpar [{Param}] {IntParam} vezes,Abnormal Rift: Uninvited Guest
+1000417,Uninvited Guest,Receba recompensas após limpar [{Param}] {IntParam} vezes,Abnormal Rift: Uninvited Guest
+1000418,Uninvited Guest,Receba recompensas após limpar [{Param}] {IntParam} vezes,Abnormal Rift: Uninvited Guest
 1000419,Aburu Vending Machine,Use Aburu Vending Machine {RequiredStackCount} vezes,
 1000420,Aburu Vending Machine,Use Aburu Vending Machine {RequiredStackCount} vezes,
 1000421,Aburu Vending Machine,Use Aburu Vending Machine {RequiredStackCount} vezes,

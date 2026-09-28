@@ -22,10 +22,10 @@
 2100,Tarefa da Adventurers Alliance - {Param},Explorers Guild
 2200,Tarefa da Adventurers Alliance - {Param},Wayfinders Guild
 2300,Monolith War,
-2400,Monolith War - {Param},Vitória Recompensa Privada
-2500,Monolith War - {Param},Derrotar recompensa privada
-2600,Monolith War - {Param},Vitória Recompensa do Clã
-2700,Monolith War - {Param},Derrote a recompensa do clã
+2400,Monolith War - {Param},Recompensa Individual por Vitória
+2500,Monolith War - {Param},Recompensa Individual por Derrota
+2600,Monolith War - {Param},Recompensa de Clã por Vitória
+2700,Monolith War - {Param},Recompensa de Clã por Derrota
 2800,Monolith War - {Param},Venda de Buff
 3000,Invocar traje,
 3100,Fantasia de fusível,
@@ -33,7 +33,7 @@
 3501,Season Pass,
 3601,Season Pass - {Param},Missão
 3700,{Param},Summon Pass
-3701,{Param},[5★ garantido] Summon Pass
+3701,{Param},[5★ Guaranteed] Summon Pass
 3800,{Param} Missão,Passe da loja
 3801,{Param} Missão,Passe da loja
 3900,{Param},Passe da loja II
@@ -53,19 +53,19 @@
 5100,Troféu,
 5200,Pontuação do troféu,
 5300,Artesanato,
-5400,Crista dos Antigos desmontada,
+5400,Crest of the Ancients desmontada,
 5500,Clã {Param},Recompensa semanal
 5600,Clã {Param},Doação
 5700,Clã {Param},Venda Interna
 5800,Forsaken Land - Lv.[Level] [Keyword],
 5900,Giant's Tower - Lv.[Level] [Keyword],
 5950,Abyss Battlefield - Lv.[Level] [Keyword],
-5970,Barreira Temporal - Lv.[Level] [Keyword],
+5970,Temporal Barrier - Lv.[Level] [Keyword],
 6000,[Keyword] - Recompensa de contribuição,
 6100,[Keyword] - Recompensa de morte de monstro,
 6200,- {Param},Recompensa de Contribuição
 6300,- {Param},Recompensa de mortes de monstros
-6500,Angbar Arena - {Param},Privado Recompensa
+6500,Angbar Arena - {Param},Recompensa Individual
 6600,Angbar Arena - {Param},Recompensas do clã
 6650,Angbar Arena - {Param},Recompensa de Participação
 6701,Loja - {Param},Step-Up
@@ -84,18 +84,18 @@
 7000,Loja - Produto ({Param}),Assinatura
 7100,Loja - Produto ({Param}),Relíquia Sagrada
 7200,Loja - Produto ({Param}),Recursos
-7300,Loja - Produto ({Param}),Ofertas quentes
+7300,Loja - Produto ({Param}),Ofertas Imperdíveis
 7400,Loja - Produto ({Param}),Loja de suporte ao aventureiro
 7500,Loja - Produto ({Param}),Diversos
-7600,Loja - Convocar ({Param}),Invocar traje
-7700,Loja - Convocar ({Param}),Invocação de trajes
-7800,Loja - Convocar ({Param}),Convocar arma fantasma
+7600,Loja - Convocar ({Param}),Invocar Traje
+7700,Loja - Convocar ({Param}),Invocação Pick-Up de Traje
+7800,Loja - Convocar ({Param}),Invocar Arma Fantasma
 7801,Loja - Convocar ({Param}),Keyring Summon
 7900,Loja - Missão ({Param}),Presença
 8000,Loja - {Param},Step-Up
 8100,Loja - Missão ({Param}),Realm Achievement
 8200,Loja - Missão ({Param}),Conquista de Nível
-8300,Loja - Missão ({Param}),Passar
+8300,Loja - Missão ({Param}),Passe
 8400,Loja - Missão ({Param}),Passe de 3 Linhas
 8500,Loja - Quilometragem ({Param}),Relíquia Sagrada
 8600,Loja - Quilometragem ({Param}),Upgrade Essentials
@@ -125,13 +125,13 @@
 12250,Evento Rift,
 12300,Trial Gates - [Keyword],
 12400,Trial Gates - {Param},Recompensa de conclusão
-12600,Santuário Etéreo - [Keyword],
-12700,Santuário Etéreo - {Param},Recompensa de conclusão
+12600,Ethereal Sanctum - [Keyword],
+12700,Ethereal Sanctum - {Param},Recompensa de conclusão
 12800,Arbiter’s Ordeal - {Param},Traje
 12900,Arbiter’s Ordeal - {Param},Skill
-13000,Arbiter’s Ordeal - {Param},Graça das constelações
+13000,Arbiter’s Ordeal - {Param},Grace of the Constellations
 13100,Arbiter’s Ordeal - {Param},Ouro
-13200,Baú de tesouro,
+13200,Treasure Chest,
 13300,Vending Machine,
 13301,Aburu Vending Machine,
 13400,Giant’s Vending Machine,
@@ -567,17 +567,17 @@
 31307,Decorações duplicadas obtidas,
 31400,Snow Goblin Comoção - {Param},Recompensas cumulativas semanais
 31500,Snow Goblin Comoção - {Param},Recompensas individuais repetíveis
-31600,Snow Goblin Comoção - {Param},Repetível Recompensas do clã
-31700,Corredor Perpétuo - {Param},Recompensas da temporada Recompensas da temporada
+31600,Snow Goblin Comoção - {Param},Recompensas Repetíveis do Clã
+31700,Corredor Perpétuo - {Param},Recompensas da Temporada
 31800,Corredor Perpétuo - {Param},Recompensas de classificação
 31900,Corredor Perpétuo - {Param},Recompensas de fase
 32000,Tesseract - {Param},Recompensa de instalação exclusiva
 32100,Tesseract - {Param},Recompensas de queda de monstros
 32200,Tesseract - {Param},Recompensa de Contribuição
 32300,Recompensa de conclusão da missão do clã,
-32400,Recompensa de pontuação da missão do clã - {Param},Privado
+32400,Recompensa de pontuação da missão do clã - {Param},Individual
 32500,Recompensa de pontuação da missão do clã - {Param},Clã
-32600,Recompensa de Clan Expedition - {Param},Privado
+32600,Recompensa de Clan Expedition - {Param},Individual
 32700,Recompensa de Clan Expedition - {Param},Clã
 32800,Incursão de Sombra - {Param},Fragmento de Sombra
 32904,Keyring Milestone Summon Rewards,
@@ -590,11 +590,11 @@
 33002,Loja - Missão do Reino {Param},[Realm 3 Clear] New Constellation Master Pack
 33003,Loja - Missão do Reino {Param},[Realm 4 Clear] New Summon Master Pack
 33004,Loja - Missão do Reino {Param},[Realm 5 Clear] New Keyring Collector's Pack
-33005,Loja - Missão de nível {Param},[Lv. 30 Milestone] Novo pacote multifuncional de convocação
-33006,Loja - Missão de nível {Param},[Lv. 40 Milestone] Novo pacote multifuncional de convocação
-33007,Loja - Missão de nível {Param},[Lv. 45 Marco] Novo pacote multifuncional de convocação
-33008,Loja - Missão de nível {Param},[Lv. 50 Milestone] Novo pacote multifuncional de convocação
-33100,Loja - {Param},Pacote de check-in de ingressos de reforço de atualização de verão
+33005,Loja - Missão de nível {Param},[Lv. 30 Milestone] New Summon All-in-One Pack
+33006,Loja - Missão de nível {Param},[Lv. 40 Milestone] New Summon All-in-One Pack
+33007,Loja - Missão de nível {Param},[Lv. 45 Milestone] New Summon All-in-One Pack
+33008,Loja - Missão de nível {Param},[Lv. 50 Milestone] New Summon All-in-One Pack
+33100,Loja - {Param},Summer Upgrade Boost Ticket Check-in Pack
 33103,Loja - {Param},[Global Launch] 4★ Challenge Check-in Board
 33104,Loja - {Param},Keyring Upgrade Aid Check-in Pack
 33105,Loja - {Param},[7-Day Completion] Summon Check-In Pack
@@ -610,22 +610,22 @@
 33600,Abyss Battlefield Recompensas semanais de classificação,
 33700,Abyss Battlefield Recompensas da temporada de classificação,
 33800,Arena - {Param},Recompensas de marco da liga
-33900,Arena - {Param},Recompensas da temporada Recompensas da temporada
+33900,Arena - {Param},Recompensas da Temporada
 34000,Arena - {Param},Recompensa de Vitória
-34100,Arena - {Param},Derrotar recompensas
+34100,Arena - {Param},Recompensas por Derrota
 34200,Arena - {Param},Sorteio de Recompensas
-34300,Arena - {Param},Bônus de MVP Recompensas
+34300,Arena - {Param},Recompensas de Bônus MVP
 34400,Hall of Proof - {Param},Recompensa de participação individual
 34500,Hall of Proof - {Param},Recompensa de participação no clã
 34600,Hall of Proof - {Param},Recompensa de temporada individual
 34700,Hall of Proof - {Param},Recompensa da temporada do clã
-34800,Loja - {Param},Invocar traje
-34900,Loja - {Param},Aumentar a taxa de invocação de fantasia
-35000,Loja - {Param},Convocar arma fantasma
+34800,Loja - {Param},Invocar Traje
+34900,Loja - {Param},Invocação de Traje com Taxa Aumentada
+35000,Loja - {Param},Invocar Arma Fantasma
 35100,Loja - {Param},Keyring Summon
 35200,Loja - {Param},Thunder Mane Step-Up
-35203,Loja - {Param},S2 Thorstein Step-Up de Suprimentos Especiais
-35204,Loja - {Param},Invocação de bônus Step-Up
+35203,Loja - {Param},S2 Step-Up de Suprimentos Especiais de Thorstein
+35204,Loja - {Param},Step-Up de Invocação Bônus
 35205,Loja - {Param},Keyring Upgrade Aid Check-in Pack
 35206,Loja - {Param},[Global Launch] 4★ Challenge Check-in Board
 35207,Loja - {Param},[7-Day Completion] Summon Check-In Pack
@@ -633,7 +633,7 @@
 35300,OOParts - {Param},Investigação
 35400,Replica Seed - [Keyword],
 100100,Despertar - {Param},Desbloquear célula
-100200,Despertar - {Param},Célula de atualização
+100200,Despertar - {Param},Melhoria de Célula
 100300,Monolith War,
 100400,Compre Monolith Buff,
 100500,Graça das constelações - {Param},Aumento de nível
@@ -641,9 +641,9 @@
 100700,Avanço de classe,
 100800,- {Param},Aumento de nível
 100900,- {Param},Transcender
-101000,Crista dos Antigos - {Param},Redefinir nível de crista
-101100,Crista dos Antigos - {Param},Aumento de nível da crista
-101200,Crista dos Antigos - {Param},Refinar Powerstone
+101000,Crest of the Ancients - {Param},Redefinir Nível do Brasão
+101100,Crest of the Ancients - {Param},Subir Nível do Brasão
+101200,Crest of the Ancients - {Param},Refinar Powerstone
 101300,Melhorar equipamento,
 101400,Infundir Equipamento,
 101500,Infundir Equipamento,
@@ -684,20 +684,20 @@
 105000,Loja da Adventurers' Alliance - {Param},Hunters Guild
 105100,Loja da Adventurers' Alliance - {Param},Explorers Guild
 105200,Loja da Adventurers' Alliance - {Param},Wayfinders Guild
-105300,Memórias de Gudua,
+105300,Gudua's Memories,
 105400,Artesanato - [Keyword],
 105500,Skill - {Param},Adquirir
 105600,Skill - {Param},Aumento de nível
 105700,Skill - {Param},Transcender
-105800,Skill - {Param},Desbloquear slot Spellstone
+105800,Skill - {Param},Desbloquear Espaço de Spellstone
 105900,Recarregar Arbiter’s Ordeal,Recarregar Arbiter’s Ordeal
 106000,Rift,
 106050,Evento Rift,
 106100,Giant's Tower - {Param},Floor 1
 106200,Giant's Tower - {Param},Floor 2
 106300,Giant's Tower - {Param},Ativar algoritmo
-106400,Montagem - {Param},Convocar
-106500,Planador - {Param},Convocar
+106400,Montagem - {Param},Invocar
+106500,Planador - {Param},Invocar
 106600,Montagem - {Param},Ascend
 106700,Planador - {Param},Ascend
 106800,Montagem - {Param},Habilidades Potenciais
@@ -705,25 +705,25 @@
 107000,Vending Machine,
 107100,Giant’s Vending Machine,
 107200,Aburu Vending Machine,
-107201,Ataque a Titan Vending Machine,
+107201,Attack on Titan Vending Machine,
 107300,Loja - Produto ({Param}),Comemoração de lançamento
 107400,Loja - Produto ({Param}),Semanal/mensal
 107500,Loja - Produto ({Param}),Atualização
 107600,Loja - Produto ({Param}),Assinatura
 107700,Loja - Produto ({Param}),Relíquia Sagrada
 107800,Loja - Produto ({Param}),Recursos
-107900,Loja - Produto ({Param}),Ofertas quentes
+107900,Loja - Produto ({Param}),Ofertas Imperdíveis
 108000,Loja - Produto ({Param}),Loja de suporte ao aventureiro
 108100,Loja - Produto ({Param}),Diversos
-108200,Loja - Convocar ({Param}),Invocar traje
-108300,Loja - Convocar ({Param}),Invocação de trajes
-108400,Loja - Convocar ({Param}),Convocar arma fantasma
+108200,Loja - Convocar ({Param}),Invocar Traje
+108300,Loja - Convocar ({Param}),Invocação Pick-Up de Traje
+108400,Loja - Convocar ({Param}),Invocar Arma Fantasma
 108450,Loja - Convocar ({Param}),Keyring Summon
 108500,Loja - Missão ({Param}),Presença
 108600,Loja - {Param},Step-Up
 108700,Loja - Missão ({Param}),Realm Achievement
 108800,Loja - Missão ({Param}),Conquista de Nível
-108900,Loja - Missão ({Param}),Passar
+108900,Loja - Missão ({Param}),Passe
 109000,Loja - Missão ({Param}),Passe de 3 Linhas
 109100,Loja - Quilometragem ({Param}),Relíquia Sagrada
 109200,Loja - Quilometragem ({Param}),Upgrade Essentials
@@ -742,17 +742,17 @@
 110500,Adventurers’ Alliance Guild Coin Shop,
 110600,Giant's Tower - {Param},Black Crystal Shop
 110700,Skill Loja,
-110800,Relíquias de uma civilização perdida! Compre,Relíquias da Civilização! Comprar
+110800,Relíquias de uma civilização perdida! Compre,Loja Relíquias da Civilização!
 110810,Abyss Battlefield - {Param},Gold Crystal Shop
 110820,Rift Shop,
 110830,Abyssal Token Shop,
 110850,Loja - Produto ({Param}),Sacred Relic Exchange Shop
-111000,Loja - {Param},Invocar traje
-111001,Loja - {Param},Aumentar a taxa de invocação de fantasia
-111002,Loja - {Param},Convocar arma fantasma
+111000,Loja - {Param},Invocar Traje
+111001,Loja - {Param},Invocação de Traje com Taxa Aumentada
+111002,Loja - {Param},Invocar Arma Fantasma
 111003,Loja - {Param},Keyring Summon
 111100,Clan’s Ancient Coins Shop,Ancient Coin Shop
-111200,Adventurers’ Alliance Guild Coin Shop,Loja de moedas da aliança
+111200,Adventurers’ Alliance Guild Coin Shop,Loja de Alliance Coins
 111300,Giant's Tower - {Param},Black Crystal Shop
 111400,Clã {Param},Doação
 111500,Clã {Param},Hostil
@@ -786,7 +786,7 @@
 113100,- {Param},Transcender
 113200,- {Param},Aumento de nível
 113300,Trial Gates - Missão de conclusão instantânea,
-113400,Santuário Etéreo - Missão Completa Instantaneamente,
+113400,Ethereal Sanctum - Missão Completa Instantaneamente,
 113401,Descubra o tesouro oculto de Naruru!,
 113402,Melhorar OOPArt,
 113500,Ascensão do limite do chaveiro,

@@ -44,7 +44,7 @@
 500605,Explore o Forsaken Land: Dia 3,,,,
 500701,Derrote monstros,,,,
 500702,Parar a incursão,,,,
-500703,Ativar Memórias de Gudua,,,,
+500703,Ativar Gudua's Memories,,,,
 500704,Construir Afinidade com a Guilda dos Artesãos,,,,
 500705,Realize a Comissão Semanal da Adventurers’ Alliance,,,,
 500801,Realize a Comissão da Adventurers’ Alliance,,,,
@@ -91,7 +91,7 @@
 5001601,Realize a Comissão Semanal da Adventurers’ Alliance,,,,
 5001602,Fabricar Weapon Enhancement Stone,,,,
 5001603,Crie recursos de ascensão,,,,
-5001604,Santuário Etéreo,,,,
+5001604,Ethereal Sanctum,,,,
 5001605,Explore os Abandonados Terra: Dia 9,,,,
 5001701,Derrote monstros,,,,
 5001702,Parar a incursão,,,,
@@ -114,7 +114,7 @@
 5002004,Codex Registros,,,,
 5002005,Explore a Forsaken Land: Dia 14,,,,
 5002101,Tempo Quente da Giant's Tower,,,,
-5002102,Santuário Etéreo,,,,
+5002102,Ethereal Sanctum,,,,
 5002103,Black Crystal Shop,,,,
 5002104,Derrote monstros,,,,
 5002105,Rift,,,,
@@ -136,7 +136,7 @@
 5002501,Realize a Comissão Semanal da Adventurers’ Alliance,,,,
 5002502,Tempo Quente da Giant's Tower,,,,
 5002503,Alcance o nível 50,,,,
-5002504,Santuário Etéreo,,,,
+5002504,Ethereal Sanctum,,,,
 5002505,Construir Afinidade com a Blacksmiths Guild,,,,
 5002601,Ocupe o Santuário Vitalizante,,,,
 5002602,Fabricar Weapon Enhancement Stone,,,,
@@ -157,7 +157,7 @@
 5002902,Derrote monstros,,,,
 5002903,Crie acessórios de 3 estrelas,,,,
 5002904,Desmonte equipamentos,,,,
-5002905,Equipamento de artesanato Baú da sorte,,,,
+5002905,Criar Equipment Lucky Chest,,,,
 5003001,Conquista de Nível,,,,
 5003002,Derrote os monstros da Giant's Tower,,,,
 5003003,Ocupe o Santuário Vitalizante,,,,
@@ -182,7 +182,7 @@
 5003402,Derrote monstros,,,,
 5003403,Crie acessórios de 3 estrelas,,,,
 5003404,Desmonte equipamentos,,,,
-5003405,Equipamento de artesanato Baú da sorte,,,,
+5003405,Equipamento de artesanato Lucky Chest,,,,
 5003501,Conquista de Nível,,,,
 5003502,Derrote os monstros da Giant's Tower,,,,
 5003503,Ocupe o Santuário Vitalizante,,,,
@@ -207,7 +207,7 @@
 5003902,Derrote Abyss Battlefield Monstros,,,,
 5003903,Crie acessórios de 3 estrelas,,,,
 5003904,Desmonte equipamentos,,,,
-5003905,Equipamento de artesanato Baú da sorte,,,,
+5003905,Equipamento de artesanato Lucky Chest,,,,
 5004001,Conquista de Nível,,,,
 5004002,Derrote Monstros de Masmorra,,,,
 5004003,Ocupe o Santuário Vitalizante,,,,
@@ -227,7 +227,7 @@
 5004302,Derrote Abyss Battlefield Monstros,,,,
 5004303,Crie acessórios de 3 estrelas,,,,
 5004304,Construir Afinidade com a Explorers Guild,,,,
-5004305,Equipamento de artesanato Baú da sorte,,,,
+5004305,Equipamento de artesanato Lucky Chest,,,,
 5004401,Conclua o Despertar,,,,
 5004402,Fabricar Weapon Enhancement Stone,,,,
 5004403,Desmonte equipamentos,,,,
@@ -252,7 +252,7 @@
 5004802,Derrote Abyss Battlefield Monstros,,,,
 5004803,Crie acessórios de 3 estrelas,,,,
 5004804,Desmonte equipamentos,,,,
-5004805,Equipamento de artesanato Baú da sorte,,,,
+5004805,Equipamento de artesanato Lucky Chest,,,,
 5004901,Conquista de Nível,,,,
 5004902,Derrote Monstros de Masmorra,,,,
 5004903,Ocupe o Santuário Vitalizante,,,,
@@ -263,74 +263,74 @@
 5005003,Desmonte equipamentos,,,,
 5005004,Craft 4★ Equipamento,,,,
 5005005,Derrote chefes de campo,,,,
-30101010,Teste de salto 1-1,Siga os Fragmentos Dimensionais até o destino final.,,,
+30101010,Trial of Leap 1-1,Siga os Fragmentos Dimensionais até o destino final.,,,
 30101020,Trial of Flight 1-1,Atravesse os Anéis de Luz até o destino final.,,,
-30101030,Prova de Sabedoria 1-1,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
-30101040,Prova de Combate 1-1,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
-30101050,Teste de salto 1-2,Siga os Fragmentos Dimensionais até o destino final.,,,
+30101030,Trial of Wisdom 1-1,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
+30101040,Trial of Combat 1-1,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
+30101050,Trial of Leap 1-2,Siga os Fragmentos Dimensionais até o destino final.,,,
 30101060,Trial of Flight 1-2,Atravesse os Anéis de Luz até o destino final.,,,
-30101070,Prova de Sabedoria 1-2,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
-30101080,Prova de Combate 1-2,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
-30101090,Teste de Salto 2-1,Encontre o máximo de Fragmentos Dimensionais possível e chegue ao destino.,,,
+30101070,Trial of Wisdom 1-2,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
+30101080,Trial of Combat 1-2,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
+30101090,Trial of Leap 2-1,Encontre o máximo de Fragmentos Dimensionais possível e chegue ao destino.,,,
 30101100,Trial of Flight 2-1,Atravesse os Anéis de Luz até o destino final.,,,
-30101110,Prova de Sabedoria 2-1,Pise nas placas de pressão para mover os blocos e chegar ao destino.,,,
-30101120,Prova de Combate 2-1,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
+30101110,Trial of Wisdom 2-1,Pise nas placas de pressão para mover os blocos e chegar ao destino.,,,
+30101120,Trial of Combat 2-1,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
 30101130,Trial of Flight 2-2,Atravesse os Anéis de Luz até o destino final.,,,
-30101140,Prova de Sabedoria 2-2,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
-30101150,Prova de Combate 2-2,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
-30202010,Teste de Salto 1-3,Siga os Fragmentos Dimensionais até o destino final.,,,
+30101140,Trial of Wisdom 2-2,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
+30101150,Trial of Combat 2-2,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
+30202010,Trial of Leap 1-3,Siga os Fragmentos Dimensionais até o destino final.,,,
 30202020,Trial of Flight 1-3,Atravesse os Anéis de Luz até o destino final.,,,
-30202030,Prova de Sabedoria 1-3,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
-30202040,Prova de Combate 1-3,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
-30202050,Teste de Salto 1-4,Siga os Fragmentos Dimensionais até o destino final.,,,
+30202030,Trial of Wisdom 1-3,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
+30202040,Trial of Combat 1-3,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
+30202050,Trial of Leap 1-4,Siga os Fragmentos Dimensionais até o destino final.,,,
 30202060,Trial of Flight 1-4,Atravesse os Anéis de Luz até o destino final.,,,
-30202070,Prova de Sabedoria 1-4,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
-30202080,Prova de Combate 1-4,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
-30202090,Teste de Salto 2-2,Siga os Fragmentos Dimensionais até o destino final.,,,
+30202070,Trial of Wisdom 1-4,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
+30202080,Trial of Combat 1-4,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
+30202090,Trial of Leap 2-2,Siga os Fragmentos Dimensionais até o destino final.,,,
 30202100,Trial of Flight 2-3,Atravesse os Anéis de Luz até o destino final.,,,
-30202110,Prova de Sabedoria 2-3,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
-30202120,Prova de Combate 2-3,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
+30202110,Trial of Wisdom 2-3,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
+30202120,Trial of Combat 2-3,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
 30202130,Trial of Flight 2-4,Siga os Fragmentos Dimensionais até o destino final.,,,
-30202140,Prova de Sabedoria 2-4,Atravesse os Anéis de Luz até o destino final.,,,
-30202150,Prova de Combate 2-4,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
-30301010,Teste de Salto 1-5,Encontre o máximo de Fragmentos Dimensionais possível e chegue ao destino.,,,
+30202140,Trial of Wisdom 2-4,Atravesse os Anéis de Luz até o destino final.,,,
+30202150,Trial of Combat 2-4,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
+30301010,Trial of Leap 1-5,Encontre o máximo de Fragmentos Dimensionais possível e chegue ao destino.,,,
 30301020,Trial of Flight 1-5,Atravesse os Anéis de Luz até o destino final.,,,
-30301030,Prova de Sabedoria 1-5,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
-30301040,Prova de Combate 1-5,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
-30301050,Teste de Salto 1-6,Siga os Fragmentos Dimensionais até o destino final.,,,
+30301030,Trial of Wisdom 1-5,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
+30301040,Trial of Combat 1-5,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
+30301050,Trial of Leap 1-6,Siga os Fragmentos Dimensionais até o destino final.,,,
 30301060,Trial of Flight 1-6,Atravesse os Anéis de Luz até o destino final.,,,
-30301070,Prova de Sabedoria 1-6,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
-30301080,Prova de Combate 1-6,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
-30301090,Teste de Salto 2-3,Siga os Fragmentos Dimensionais até o destino final.,,,
+30301070,Trial of Wisdom 1-6,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
+30301080,Trial of Combat 1-6,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
+30301090,Trial of Leap 2-3,Siga os Fragmentos Dimensionais até o destino final.,,,
 30301100,Trial of Flight 2-5,Atravesse os Anéis de Luz até o destino final.,,,
-30301110,Prova de Sabedoria 2-5,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
-30301120,Prova de Combate 2-5,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
+30301110,Trial of Wisdom 2-5,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
+30301120,Trial of Combat 2-5,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
 30301130,Trial of Flight 2-6,Siga os Fragmentos Dimensionais até o destino final.,,,
-30301140,Prova de Sabedoria 2-6,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
-30301150,Prova de Combate 2-6,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
-30401010,Teste de Salto 1-7,Encontre o máximo de Fragmentos Dimensionais possível e chegue ao destino.,,,
+30301140,Trial of Wisdom 2-6,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
+30301150,Trial of Combat 2-6,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
+30401010,Trial of Leap 1-7,Encontre o máximo de Fragmentos Dimensionais possível e chegue ao destino.,,,
 30401020,Trial of Flight 1-7,Atravesse os Anéis de Luz até o destino final.,,,
-30401030,Prova de Sabedoria 1-7,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
-30401040,Prova de Combate 1-7,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
-30401050,Teste de Salto 1-8,Siga os Fragmentos Dimensionais até o destino final.,,,
+30401030,Trial of Wisdom 1-7,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
+30401040,Trial of Combat 1-7,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
+30401050,Trial of Leap 1-8,Siga os Fragmentos Dimensionais até o destino final.,,,
 30401060,Trial of Flight 1-8,Atravesse os Anéis de Luz até o destino final.,,,
-30401070,Prova de Sabedoria 1-8,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
-30401080,Prova de Combate 1-8,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
-30401090,Teste de Salto 2-4,Siga os Fragmentos Dimensionais até o destino final.,,,
+30401070,Trial of Wisdom 1-8,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
+30401080,Trial of Combat 1-8,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
+30401090,Trial of Leap 2-4,Siga os Fragmentos Dimensionais até o destino final.,,,
 30401100,Trial of Flight 2-7,Atravesse os Anéis de Luz até o destino final.,,,
-30401110,Prova de Sabedoria 2-7,Pise nas placas de pressão para mover os blocos e chegar ao destino.,,,
-30401120,Prova de Combate 2-7,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
+30401110,Trial of Wisdom 2-7,Pise nas placas de pressão para mover os blocos e chegar ao destino.,,,
+30401120,Trial of Combat 2-7,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
 30401130,Trial of Flight 2-8,Siga os Fragmentos Dimensionais até o destino final.,,,
-30401140,Prova de Sabedoria 2-8,Atravesse os Anéis de Luz até o destino final.,,,
-30401150,Prova de Combate 2-8,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
-30501010,Teste de Salto 3-1,Encontre o máximo de Fragmentos Dimensionais possível e chegue ao destino.,,,
+30401140,Trial of Wisdom 2-8,Atravesse os Anéis de Luz até o destino final.,,,
+30401150,Trial of Combat 2-8,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
+30501010,Trial of Leap 3-1,Encontre o máximo de Fragmentos Dimensionais possível e chegue ao destino.,,,
 30501020,Trial of Flight 3-1,Atravesse os Anéis de Luz até o destino final.,,,
-30501030,Prova de Sabedoria 3-1,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
-30501040,Prova de Combate 3-1,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
-30501050,Teste de Salto 3-2,Encontre o máximo de Fragmentos Dimensionais possível e chegue ao destino.,,,
+30501030,Trial of Wisdom 3-1,Acione os dispositivos para mover os blocos e chegar ao destino.,,,
+30501040,Trial of Combat 3-1,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
+30501050,Trial of Leap 3-2,Encontre o máximo de Fragmentos Dimensionais possível e chegue ao destino.,,,
 30501060,Trial of Flight 3-2,Atravesse os Anéis de Luz até o destino final.,,,
-30501070,Prova de Sabedoria 3-2,Pise nas placas de pressão para mover os blocos e chegar ao destino.,,,
-30501080,Prova de Combate 3-2,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
+30501070,Trial of Wisdom 3-2,Pise nas placas de pressão para mover os blocos e chegar ao destino.,,,
+30501080,Trial of Combat 3-2,Derrote o Guardian of the Treasure antes que o tempo acabe.,,,
 701010,[Avanço] Conheça a si mesmo,Rada recomendou que o Aventureiro atacasse o Trial Gates. O Aventureiro descobre que o Trial Gates é um teste de Atrahasis.,,,
 701020,[Avanço] Testamento de Poder,O Aventureiro recebe um pedido de Riona para verificar se os rumores sobre como ficar mais forte são verdadeiros.,,,
 701030,[Avanço] Prova de Valor,"O Aventureiro é solicitado por Riona para investigar um artefato que leva ao Labyrinth. No entanto, eles encontram uma situação inesperada no Labyrinth que revisitam.",,,
@@ -11270,15 +11270,15 @@ Preciso ver se os rumores sobre um mercenário que nunca recusa um emprego são 
 4102120271,Lv.{LevelParam} Evitando o excesso de trabalho,"Sou Kanber, o despachante da Wayfinders Guild.
 Estou entrando em contato com você sobre algumas atividades incomuns de monstros.
 Estamos sem sinalizadores vermelhos e temo pela segurança de nossos aventureiros novatos. 
-Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Forsaken Mine Território,72,
+Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Forsaken Mine Territory,72,
 4102120272,Lv.{LevelParam} Evitando o excesso de trabalho,"Sou Kanber, o despachante da Wayfinders Guild.
 Estou entrando em contato com você sobre algumas atividades incomuns de monstros.
 Estamos sem sinalizadores vermelhos e temo pela segurança de nossos aventureiros novatos. 
-Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Forsaken Mine Território,72,
+Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Forsaken Mine Territory,72,
 4102120273,Lv.{LevelParam} Evitando o excesso de trabalho,"Sou Kanber, o despachante da Wayfinders Guild.
 Estou entrando em contato com você sobre algumas atividades incomuns de monstros.
 Estamos sem sinalizadores vermelhos e temo pela segurança de nossos aventureiros novatos. 
-Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Forsaken Mine Território,72,
+Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Forsaken Mine Territory,72,
 4102120371,Lv.{LevelParam} O Preço da Fama,"Sou Evrin da Wayfinders Guild.
 Você se tornou bastante famoso em Babylon.
 Para manter essa reputação, gostaria que você ajudasse nossos aventureiros novatos. Por favor, traga de volta o sangue de monstro do {PlaceParam}. Com um pouco de refinamento, pode ser usado como remédio.",Forsaken Mine Outreaches,72,
@@ -11483,15 +11483,15 @@ Preciso ver se os rumores sobre um mercenário que nunca recusa um emprego são 
 4102130271,Lv.{LevelParam} Evitando o excesso de trabalho,"Sou Kanber, o despachante da Wayfinders Guild.
 Estou entrando em contato com você sobre algumas atividades incomuns de monstros.
 Estamos sem sinalizadores vermelhos e temo pela segurança de nossos aventureiros novatos. 
-Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Antigo Instituto Imperial,73,
+Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Ancient Imperial Institute,73,
 4102130272,Lv.{LevelParam} Evitando o excesso de trabalho,"Sou Kanber, o despachante da Wayfinders Guild.
 Estou entrando em contato com você sobre algumas atividades incomuns de monstros.
 Estamos sem sinalizadores vermelhos e temo pela segurança de nossos aventureiros novatos. 
-Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Antigo Instituto Imperial,73,
+Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Ancient Imperial Institute,73,
 4102130273,Lv.{LevelParam} Evitando o excesso de trabalho,"Sou Kanber, o despachante da Wayfinders Guild.
 Estou entrando em contato com você sobre algumas atividades incomuns de monstros.
 Estamos sem sinalizadores vermelhos e temo pela segurança de nossos aventureiros novatos. 
-Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Antigo Instituto Imperial,73,
+Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Ancient Imperial Institute,73,
 4102130371,Lv.{LevelParam} O Preço da Fama,"Sou Evrin da Wayfinders Guild.
 Você se tornou bastante famoso em Babylon.
 Para manter essa reputação, gostaria que você ajudasse nossos aventureiros novatos. Por favor, traga de volta o sangue de monstro do {PlaceParam}. Com um pouco de refinamento, pode ser usado como remédio.",Ancient Imperial Institute Ruins,73,
@@ -30200,15 +30200,15 @@ Preciso ver se os rumores sobre um mercenário que nunca recusa um emprego são 
 4202120271,Lv.{LevelParam} Evitando o excesso de trabalho,"Sou Kanber, o despachante da Wayfinders Guild.
 Estou entrando em contato com você sobre algumas atividades incomuns de monstros.
 Estamos sem sinalizadores vermelhos e temo pela segurança de nossos aventureiros novatos. 
-Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Forsaken Mine Território,72,
+Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Forsaken Mine Territory,72,
 4202120272,Lv.{LevelParam} Evitando o excesso de trabalho,"Sou Kanber, o despachante da Wayfinders Guild.
 Estou entrando em contato com você sobre algumas atividades incomuns de monstros.
 Estamos sem sinalizadores vermelhos e temo pela segurança de nossos aventureiros novatos. 
-Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Forsaken Mine Território,72,
+Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Forsaken Mine Territory,72,
 4202120273,Lv.{LevelParam} Evitando o excesso de trabalho,"Sou Kanber, o despachante da Wayfinders Guild.
 Estou entrando em contato com você sobre algumas atividades incomuns de monstros.
 Estamos sem sinalizadores vermelhos e temo pela segurança de nossos aventureiros novatos. 
-Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Forsaken Mine Território,72,
+Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Forsaken Mine Territory,72,
 4202120371,Lv.{LevelParam} O Preço da Fama,"Sou Evrin da Wayfinders Guild.
 Você se tornou bastante famoso em Babylon.
 Para manter essa reputação, gostaria que você ajudasse nossos aventureiros novatos. Por favor, traga de volta o sangue de monstro do {PlaceParam}. Com um pouco de refinamento, pode ser usado como remédio.",Forsaken Mine Outreaches,72,
@@ -30413,15 +30413,15 @@ Preciso ver se os rumores sobre um mercenário que nunca recusa um emprego são 
 4202130271,Lv.{LevelParam} Evitando o excesso de trabalho,"Sou Kanber, o despachante da Wayfinders Guild.
 Estou entrando em contato com você sobre algumas atividades incomuns de monstros.
 Estamos sem sinalizadores vermelhos e temo pela segurança de nossos aventureiros novatos. 
-Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Antigo Instituto Imperial,73,
+Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Ancient Imperial Institute,73,
 4202130272,Lv.{LevelParam} Evitando o excesso de trabalho,"Sou Kanber, o despachante da Wayfinders Guild.
 Estou entrando em contato com você sobre algumas atividades incomuns de monstros.
 Estamos sem sinalizadores vermelhos e temo pela segurança de nossos aventureiros novatos. 
-Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Antigo Instituto Imperial,73,
+Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Ancient Imperial Institute,73,
 4202130273,Lv.{LevelParam} Evitando o excesso de trabalho,"Sou Kanber, o despachante da Wayfinders Guild.
 Estou entrando em contato com você sobre algumas atividades incomuns de monstros.
 Estamos sem sinalizadores vermelhos e temo pela segurança de nossos aventureiros novatos. 
-Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Antigo Instituto Imperial,73,
+Seria muito útil se você pudesse se livrar dos monstros em {PlaceParam}.",Ancient Imperial Institute,73,
 4202130371,Lv.{LevelParam} O Preço da Fama,"Sou Evrin da Wayfinders Guild.
 Você se tornou bastante famoso em Babylon.
 Para manter essa reputação, gostaria que você ajudasse nossos aventureiros novatos. Por favor, traga de volta o sangue de monstro do {PlaceParam}. Com um pouco de refinamento, pode ser usado como remédio.",Ancient Imperial Institute Ruins,73,
@@ -38940,7 +38940,7 @@ Slaying chefes grants massive points!",,,,
 101120,Paradeiro de Xeros,"Ao chegar ao destino, o Aventureiro pergunta pelo Solucionador de Incursões, Xeros.",,,O Aventureiro obtém poucas informações úteis das pessoas que ficam no acampamento.
 101140,Dias no Acampamento,O Aventureiro ajuda a resolver problemas ao redor do acampamento enquanto espera pelo informante de Xeros.,,,"O Aventureiro ajuda Keyvan e Yasta no acampamento.
 Quando Tabana voltará, afinal?"
-101150,Reunião Além do Bridge,O Aventureiro segue para a ponte em frente ao acampamento para encontrar Tabana.,,,"O Aventureiro finalmente conhece Xeros, que estava impedindo a Incursão."
+101150,Reencontro Além da Ponte,O Aventureiro segue para a ponte em frente ao acampamento para encontrar Tabana.,,,"O Aventureiro finalmente conhece Xeros, que estava impedindo a Incursão."
 101160,Incursão Artificial,O Aventureiro descobre que Xeros está na mesma situação que eles.,,,Xeros menciona que os mercenários assumiram a liderança na contenção da Incursão e sugere que o Comandante Ingel pode estar no local.
 101170,A Coragem para Superar o Medo,"Enquanto se dirige para Bardad Expedition Garrison, o Aventureiro conhece Baran, um membro da expedição em perigo.",,,O Aventureiro ajuda Baran coletando Prímulas para ele.
 101180,Ela sabe,"Mencionando seu medo de voar, Baran mais uma vez busca a ajuda do Aventureiro.",,,O Aventureiro entrega o relatório e as flores para Expedition Member Olia no lugar de Baran.
@@ -38989,7 +38989,7 @@ No entanto, Etura parece bastante preocupado com seu pedido."
 102070,Eu protejo o ninho,"Monas recomenda conhecer Bahista, o líder do esquadrão da Bardad Expedition.",,,O Aventureiro descobre que animais selvagens próximos ao Cactus Nest estão apresentando sintomas anormais após consumirem Aetherium.
 102080,Frenesi desconhecido,"Eventualmente, as pessoas também começam a desmaiar após consumir Aetherium.",,,O Aventureiro e o Bristly-Hair Karadu tentam descobrir a verdade enquanto curam os aflitos.
 102090,Dor sem fim,"No entanto, apesar dos vários tratamentos, as pessoas não mostram sinais de recuperação.",,,"Enquanto todos estão focados na cura, chegam notícias de uma incursão repentina."
-102100,Pastagem profundamente colorida,O Aventureiro termina a Incursão com os Cabelos Eriçados.,,,"Depois de lidar com a Incursão, o Aventureiro ouve o grito triste de um Rappie. Karadu pede que levem o Rappie para o rancho."
+102100,Pastagem de Cores Intensas,O Aventureiro termina a Incursão com os Cabelos Eriçados.,,,"Depois de lidar com a Incursão, o Aventureiro ouve o grito triste de um Rappie. Karadu pede que levem o Rappie para o rancho."
 102110,Um rancho problemático,O Aventureiro segue para o Rappie Ranch com o Rappie.,,,O Aventureiro ajuda o Rancheiro Barashu com o trabalho interrompido pela Incursão.
 102120,Rappie Operação de resgate,Quase pronto. O Aventureiro traz de volta o Rappie encontrado perto da Tribo Kuduru.,,,O Aventureiro resgata cuidadosamente todos os Rappies enquanto derrota Monstros próximos.
 102130,Como acalmar as crianças,A tribo Kuduru invade o rancho mais uma vez.,,,O Aventureiro impede a Tribo Kuduru ajudando a Tribo Naruru a proteger as terras dadas a eles por Ea.
@@ -38998,19 +38998,19 @@ No entanto, Etura parece bastante preocupado com seu pedido."
 102160,Exterminar a Tribo Kuduru,O Aventureiro decide exterminar a Tribo Kuduru para aliviar as suspeitas de Sharaf.,,,"Enquanto Mitchell procura a Tribo Naruru para coletar informações sobre o fixador da Incursão, o Aventureiro se reúne com Khoon."
 102170,Uma Ward sob a árvore,"Enquanto Khoon também está rastreando Xeros, o Aventureiro pergunta a Tyuri da Hunters Guild para onde Mitchell foi.",,,"O Aventureiro coleta ervas medicinais para Baragur, um Naruru ferido enquanto lutava contra a Tribo Kuduru."
 102180,Sombra Sobre a Incursão,"Enquanto o Aventureiro pergunta a Sharaf sobre o paradeiro de Mitchell, uma Incursão ocorre repentinamente.",,,"O Aventureiro se reúne com Xeros no local da Incursão. Xeros, balançando sua espada em Mitchell, afirma ter causado a Incursão."
-102190,Reunião há muito esperada,O Aventureiro se muda para um lugar diferente para falar com Xeros.,,,"Seguindo a sugestão de Xeros, o Aventureiro opera um dispositivo bizarro e experimenta uma memória estranha."
+102190,Reencontro Tão Esperado,O Aventureiro se muda para um lugar diferente para falar com Xeros.,,,"Seguindo a sugestão de Xeros, o Aventureiro opera um dispositivo bizarro e experimenta uma memória estranha."
 102200,O antigo cliente da cervejaria,Xeros diz ao Aventureiro para encontrá-lo depois de descansar na cervejaria.,,,O Aventureiro chega na cervejaria e encontra Beretta.
 102210,Um frustrante Mestre Naruru,O Aventureiro e Beretta examinam os sintomas anormais dos discípulos de Ishinu.,,,"O Aventureiro segue Beretta para verificar Tristan, Joris e Denny."
 102220,Ervas Medicinais em Locais Perigosos,Beretta pede ao Aventureiro para buscar ervas medicinais para tratar os discípulos.,,,"O Aventureiro segue para trás da cervejaria, abrindo caminho ao derrotar animais selvagens."
 102230,Flores Coloridas Harbor Poison,O Aventureiro coleta ervas medicinais para valer.,,,O Aventureiro retorna à cervejaria após reunir ingredientes suficientes para a cura.
 102240,Crie o antídoto,A Aventureira ajuda Beretta a criar uma cura usando as ervas coletadas e os ingredientes que ela forneceu.,,,O Aventureiro dá a cura aos discípulos de Ishinu. Ishinu fica aliviado ao saber que eles vão acordar em algumas horas.
-102250,Subjugue o Severo Paciente,Ishinu confessa que alguns discípulos apresentam sintomas graves.,,,"Depois de subjugar os discípulos frenéticos, Beretta inicia o tratamento. No processo, os dois aprendem sobre o 'doce Aetherium'."
+102250,Subjugue o Paciente Grave,Ishinu confessa que alguns discípulos apresentam sintomas graves.,,,"Depois de subjugar os discípulos frenéticos, Beretta inicia o tratamento. No processo, os dois aprendem sobre o 'doce Aetherium'."
 102260,A produção de cerveja deve continuar,Beretta quer destruir todos os doces Aetherium para retornar a cervejaria ao normal.,,,Os dois percebem que quem distribui o doce Aetherium é o Paradise Advent Society.
 102270,Outro Aetherium Victim,O Aventureiro segue para o Ancient Tree Shelter com Beretta.,,,"A caminho do abrigo, o Aventureiro e Beretta resgatam mais vítimas do doce Aetherium."
-102280,Paradeiro da Assembleia do Advento do Paraíso,Beretta pede às pessoas do abrigo que reúnam informações sobre Paradise Advent Society.,,,O Aventureiro descobre com os comerciantes do abrigo que os membros Paradise Advent Society estão distribuindo doces Aetherium e têm um local de reunião secreto.
+102280,Paradeiro da Paradise Advent Assembly,Beretta pede às pessoas do abrigo que reúnam informações sobre Paradise Advent Society.,,,O Aventureiro descobre com os comerciantes do abrigo que os membros Paradise Advent Society estão distribuindo doces Aetherium e têm um local de reunião secreto.
 102290,Ataque primeiro para a vitória,Beretta sai para cumprimentar pessoalmente os membros Paradise Advent Society reunindo crentes nas proximidades.,,,"Praticando sua crença de que espancar é o melhor remédio, Beretta e o Aventureiro eliminam os membros Paradise Advent Society. Um dos seguidores deixa escapar a localização do esconderijo."
 102300,Em direção ao esconderijo,"Os dois descobrem o esconderijo Paradise Advent Society, recorrendo até a medidas extremas.",,,"Testemunhando as atrocidades do Paradise Advent Society, o Aventureiro e Beretta eliminam os fanáticos e profetas lá dentro."
-102320,O que estou procurando há tanto tempo,Beretta revela seu plano para sabotar o Paradise Advent Society.,,,O Aventureiro e Beretta vasculham o esconderijo para encontrar a Scripture of the Paradise Advent Society.
+102320,O Que Procurei por Tanto Tempo,Beretta revela seu plano para sabotar o Paradise Advent Society.,,,O Aventureiro e Beretta vasculham o esconderijo para encontrar a Scripture of the Paradise Advent Society.
 102330,Resgatando os sobreviventes,Eles resgatam os sobreviventes no esconderijo e garantem seu retorno seguro.,,,"Voltando ao abrigo, o Aventureiro ouve sobre o paradeiro de Xeros enquanto deixa os sobreviventes."
 102340,Como alcançar a torre,Xeros diz ao Aventureiro que ele perguntou aos Libertadores do Conhecimento sobre o dispositivo não identificado visto em Ancient Ruins.,,,"Hekima, um Liberator of Knowledge, entrega ao Aventureiro um dispositivo de transporte e propõe uma troca."
 102350,Conselhos para iniciantes,"Chegando na torre, o Aventureiro começa a procurar pelo Paradise Advent Society.",,,"O Aventureiro pergunta sobre o Paradise Advent Society, mas apenas recebe avisos para ficar longe..."
@@ -39042,7 +39042,7 @@ No entanto, Etura parece bastante preocupado com seu pedido."
 103260,Verificação de desempenho,O Aventureiro promete se reunir com Xeros no Starfall Plateau.,,,"Chamando o Aventureiro ao “Rappie Training Ground” para verificar sua condição, Beretta o critica por sempre retornar maltratado."
 103270,Rappie Training Ground,"Eles tentam descansar no Rappie Training Ground para verificar se estão totalmente recuperados, mas o Camp Keeper “Sarabi” os impede.",,,Beretta se sente aliviada porque os resultados do teste para ambos O aventureiro e o Rappie são positivos.
 103280,Um lugar sem retorno,Beretta sugere coletar informações sobre o platô dos mercenários no campo de treinamento.,,,"O Aventureiro e Beretta explicam a situação ao Cônsul Frantia “Lorraine”, que encontram por acaso, e recebem uma carta oficial solicitando cooperação."
-103290,Para a Residência Oficial Stormkel,"O Aventureiro procura a Legação Stormkel em Babylon, carregando a carta pessoal de Lorraine.",,,"Você colocou em espera o pedido de Beretta para visitar a Legação Stormkel, mas a atmosfera está tensa. Talvez seja melhor voltar mais tarde."
+103290,Para a Residência Oficial de Stormkel,"O Aventureiro procura a Legação Stormkel em Babylon, carregando a carta pessoal de Lorraine.",,,"Você colocou em espera o pedido de Beretta para visitar a Legação Stormkel, mas a atmosfera está tensa. Talvez seja melhor voltar mais tarde."
 0,,,,,
 0,,,,,
 0,,,,,
@@ -39413,7 +39413,7 @@ Ela pede ajuda para coletar ervas medicinais para os doentes.",,,"Enquanto colet
 105030,Uma mão amiga I,"Com o paradeiro dos caçadores que rumaram para o sul ainda desconhecido, um novato solitário chamado Paran se aproxima para embalar as provisões restantes e liderar o caminho.",,,"A Aventureira encontra Paran no posto avançado vazio, que está tentando ajudar os habitantes da cidade, embora não seja sua responsabilidade. Guiados por este recém-chegado de bom coração, o grupo finalmente conhece Ranon, um caçador veterano estacionado nas proximidades."
 105035,Uma mão amiga II,"Paran é um rosto desconhecido até para Koon. Tímido e dificilmente dando a impressão de um caçador experiente, este recém-chegado parece um pouco deslocado.",,,"Ainda assim, Paran orienta com sucesso o grupo para Ranon. No entanto, o caçador veterano deixa uma coisa clara: para obter qualquer informação sobre o amigo que Koon procura, o grupo deve primeiro provar o seu valor em campo."
 105040,Uma correspondência injusta,"Para pedir qualquer coisa a um caçador, você deve demonstrar seu domínio sobre a arte da caça — mesmo quando você é uma figura lendária reverenciada como Divine.",,,Parece que os caçadores só falam a língua da caça. Nem Koon nem Ranon acham nem um pouco estranho que de repente estejam entrando em uma competição de caça do nada.
-105050,Um novato Hunter em perigo,Ranon e Koon apostam em quem caça melhor – apenas para serem interrompidos por um grito fraco ecoando das profundezas dos campos de caça.,,,"Atraído para a aposta após provocações dos dois caçadores, o Aventureiro compete para rastrear monstros até que a voz frenética de Paran de repente corta o ar. O Aventureiro corre profundamente na área para salvá-la."
+105050,Um Hunter Novato em Perigo,Ranon e Koon apostam em quem caça melhor – apenas para serem interrompidos por um grito fraco ecoando das profundezas dos campos de caça.,,,"Atraído para a aposta após provocações dos dois caçadores, o Aventureiro compete para rastrear monstros até que a voz frenética de Paran de repente corta o ar. O Aventureiro corre profundamente na área para salvá-la."
 105060,O ouro é apenas uma presa furiosa I,"Paran, uma descendente do reino caído, diligentemente reúne suprimentos para apoiar aqueles que compartilham sua situação trágica.",,,"Depois de resgatar Paran do perigo, o Aventureiro se junta a Koon para falar sobre o resultado da aposta de caça. A notícia chega de Beretta enquanto o grupo espera por Ranon, revelando uma nova pista sobre como alcançar as profundezas da Torre."
 105065,O ouro é apenas uma presa furiosa II,"Embora o Aventureiro saia vitorioso na partida contra Ranon, o caçador veterano fala muito sobre a verdadeira essência da caça, pressionando por mais uma aposta.",,,"Parece que o vocabulário de um caçador consiste apenas na palavra “caçar”. Esse cara vasculha carcaças de monstros por horas, mas permanece completamente imperturbável...!"
 105067,O ouro é apenas uma presa furiosa III,"Esta partida de caça está se arrastando por muito tempo e precisa terminar. Afinal, Rada e Beretta deixaram bem claro que esta viagem deveria ser uma fuga pacífica.",,,O dicionário de um caçador definitivamente tem apenas duas palavras: “caça” e “competição”. Talvez os torneios regulares da Hunters Guild sempre tenham sido a prova definitiva de sua natureza teimosa.
@@ -39437,7 +39437,7 @@ Ela pede ajuda para coletar ervas medicinais para os doentes.",,,"Enquanto colet
 105230,Finalidade da chave,"Após o confronto em Lake of Spirits, Chedar informa que um visitante misterioso chegou, perguntando sobre o paradeiro do Aventureiro.",,,"Perto do levistone enterrado sob a Bardad Expedition, o Aventureiro ativa a 'Chave', um artefato recebido anteriormente de Beretta, e confronta o Warden of the Tower. O Diretor explica que o 'Núcleo' foi enviado para fora e deve ser recuperado para proteger a Torre de Xeros."
 105240,O mensageiro mais rápido,"Após a conversa com o Diretor, uma condição inexplicável começa a atormentar o corpo do Aventureiro. No entanto, o colapso da Torre deve ser evitado e não há tempo para adiar.",,,"Para se recuperar desses estranhos sintomas, o Aventureiro fica com Koon para descansar e recuperar forças próximo ao Lake of Spirits. Depois de se despedir do Chedar, o partido sai em busca do falcão mensageiro de Koon para enviar um pedido urgente de ajuda a Babylon."
 105250,Asas bem alimentadas,"O falcão mensageiro de Koon, Thunderwings, obedece ao Archon de Frantia melhor do que o próprio Koon. Para conquistar o pássaro, a festa deve preparar um mimo especial.",,,"Com a refeição especial pronta, o grupo segue para uma colina alta. Assim que a comida é preparada e o falcão está pronto para voar, o grupo enfrenta o agressivo bando de mortos-vivos de dias atrás."
-105260,Desbloqueado Wraiths,"Altares misteriosos são descobertos em várias partes do Elísio, trazendo uma forte sombra de morte por toda a região. Koon sente que isso não é mera coincidência.",,,"Adiando sua missão original de recuperar o Núcleo por um momento, Koon sugere ir para a Floresta da Névoa Vermelha para descobrir a verdade sombria por trás desses altares."
+105260,Wraiths Libertos,"Altares misteriosos são descobertos em várias partes do Elísio, trazendo uma forte sombra de morte por toda a região. Koon sente que isso não é mera coincidência.",,,"Adiando sua missão original de recuperar o Núcleo por um momento, Koon sugere ir para a Floresta da Névoa Vermelha para descobrir a verdade sombria por trás desses altares."
 201010,Solicitação de Orica,"Orica, Mestre da Explorers Guild, pede ao Aventureiro para preparar Ninkar e ir para a Giant's Tower.",,,
 201020,Ingredientes Frescos I,"Orica ajuda o Aventureiro a coletar o primeiro ingrediente, um Coração de Monstro. Guiado por Orica, o Aventureiro explora o andar inferior.",,,
 201025,Ingredientes Frescos II,"Guiado por Orica, o Aventureiro se move para o andar intermediário para coletar o segundo ingrediente. Ruídos estranhos continuam vindo do comunicador...",,,
@@ -39486,8 +39486,8 @@ Ela pede ajuda para coletar ervas medicinais para os doentes.",,,"Enquanto colet
 204560,Determine sua própria finalidade,"O Aventureiro e Nova ajudam Helena, a dona do abrigo, a criar remédios de emergência. Eles também prestam homenagem a Libi.",,,
 210210,Apenas passando,O Aventureiro ouve uma voz estranha do comunicador. Pertence a um artefato antigo sentado ao lado de um homem de aparência muito exausta.,,,
 210220,Esperança Indiferente,Zisen pede ajuda ao Aventureiro. Ele pede que encontrem um disco de gravação no Ethereal Sanctum.,,,
-210230,Eu odeio estar endividado,O aventureiro volta ao Santuário Etéreo mais uma vez a pedido de Weifel.,,,
-210240,Não suporto ficar endividado,"Enquanto Zisen analisa o disco de gravação, o Aventureiro coleta materiais para os reparos de Weifel. Eles também aprendem sobre o criador do Santuário Etéreo...",,,
+210230,Eu odeio estar endividado,O aventureiro volta ao Ethereal Sanctum mais uma vez a pedido de Weifel.,,,
+210240,Não suporto ficar endividado,"Enquanto Zisen analisa o disco de gravação, o Aventureiro coleta materiais para os reparos de Weifel. Eles também aprendem sobre o criador do Ethereal Sanctum...",,,
 210250,Procrastinação Constante,"A pedido de Weifel, o aventureiro resgata Zisen mais uma vez.",,,
 210260,Diga que não posso e farei isso.,"A pedido de Zisen, o aventureiro investiga Ironblood Brigade junto com Weifel.",,,
 210270,Ainda melhor se for proibido,O aventureiro descobre os detalhes sobre os experimentos secretos conduzidos pelo Ironblood Brigade.,,,
@@ -39594,7 +39594,7 @@ Ela pede ajuda para coletar ervas medicinais para os doentes.",,,"Enquanto colet
 302560,Procurando por mais humanos feridos,As vítimas da Incursão foram encontradas em uma área desabitada. O Softbean Adventuring Party quer ajudar os feridos.,,,
 302570,Ataque de incursões Em qualquer lugar,"Em uma pequena caverna escondida nas minas, os feridos estavam escondidos e confiando uns nos outros. Vamos ajudá-los a evacuar com segurança.",,,
 302580,Esgueirando-se pelas costas dos adultos,Nada permanece em segredo para sempre. O que acontecerá com Azid agora que ele foi pego fugindo da área da missão?,,,
-302590,Prova de Sabedoria,"Azid decide usar um truque inteligente, adequado para um candidato a herói. Um verdadeiro herói deve avançar sem hesitação.",,,
+302590,Trial of Wisdom,"Azid decide usar um truque inteligente, adequado para um candidato a herói. Um verdadeiro herói deve avançar sem hesitação.",,,
 302600,Sinto-me satisfeito só de olhar para ele,"Alguns seres simplesmente inspiram amor incondicional. Vamos ouvir Sagkala, que afirma gostar mais de Rappies do que de Adventuring Party.",,,
 302610,Juramento sob o freixo,"O Softbean Adventuring Party prometeu, quando crianças, encontrar Ea juntos. Ao enfrentarem a verdadeira provação, devem reafirmar a sua determinação.",,,
 302620,Ea is Assistindo!,O candidato a herói e os outros decidem oferecer uma oração adequada a Ea. Vamos ajudá-los a encontrar os materiais necessários para o ritual.,,,
@@ -39602,7 +39602,7 @@ Ela pede ajuda para coletar ervas medicinais para os doentes.",,,"Enquanto colet
 302640,O nariz sempre trabalha duro,Uma aura suja do vale adjacente acaba arruinando o ritual. O Grupo de Aventureiros decidiu resolver o problema na sua origem.,,,
 302650,A razão por trás do mau cheiro,"Azid faz uma dedução precisa. Mesmo para um aventureiro humano, sua teoria parece altamente plausível. Vamos derrotar os monstros e provar que ele está certo.",,,
 302660,Pó Aconchegante,"A profundidade dos planos de Ea para os seres vivos desta estrela é difícil de compreender. Assim como disse Sagkala, vamos restaurar o vale ao seu estado original.",,,
-302670,Teste de salto: Perseverança,A prova final é provar que você é um Naruru com grande resistência. Com o que Azid mais luta?,,,
+302670,Prova de Perseverança,A prova final é provar que você é um Naruru com grande resistência. Com o que Azid mais luta?,,,
 302680,Intoxicado apenas pelo cheiro,Ser altamente sensível também significa ser vulnerável. Azid e Sagkala acabam desmaiando na cervejaria...,,,
 302690,Qualquer coisa para medicina,"Um comerciante afirma que corpos saudáveis ​​produzem remédios saudáveis. O desconforto é breve, mas sua carteira estará cheia.",,,
 302700,Voar não é problema,"Acordando de uma ressaca terrível, Azid deseja refazer o teste. Desta vez, ele promete lutar contra os inimigos que normalmente teme.",,,
@@ -39753,7 +39753,7 @@ Ela pede ajuda para coletar ervas medicinais para os doentes.",,,"Enquanto colet
 305410,Uma última vez,"Evitado em Frantia por sua fala arrastada e atitude sombria, Duren encontrou calor no Elísio. Profundamente comovido, o arcanista agora deseja retribuir aos aldeões. O algoritmo de desligamento",,,
 305420,O que as crianças aprendem,"Durante a breve ausência do Aventureiro, uma horda de monstros emboscou a vila. Embora alguns tenham ficado feridos na floresta, aqueles que fugiram para as terras altas ainda não regressaram.",,,
 305430,Coerção e Persuasão,"Com o caos por trás deles, Duren compartilha rumores de um grupo suspeito recentemente pregando sobre 'Tan' e persuadindo freneticamente os moradores.",,,
-305440,Altar dos Corvos Cinzentos,"Os dois descobrem que os Ashen Crows montaram um altar suspeito nos arredores da floresta, perto de onde um aldeão amnésico foi recentemente resgatado.",,,
+305440,Altar dos Ashen Crows,"Os dois descobrem que os Ashen Crows montaram um altar suspeito nos arredores da floresta, perto de onde um aldeão amnésico foi recentemente resgatado.",,,
 305450,Feitiço de Frenesi,"Depois de destruir o altar e desmontar seu circuito mágico, Duren descobre que é um 'feitiço de frenesi' proibido que enlouquece as criaturas vivas.",,,
 305460,Rastreamento dos Dragões,"Warrior Tion veio ao Elísio buscando fazer um nome matando um dragão, mas ainda não encontrou nenhum.",,,
 305470,A Warrior Nunca desiste,"Negando a crença comum de que os dragões estão extintos, Tion encena um espetáculo bizarro baseado em registros antigos – acumulando uma montanha de tesouros e esperando que um dragão apareça.",,,

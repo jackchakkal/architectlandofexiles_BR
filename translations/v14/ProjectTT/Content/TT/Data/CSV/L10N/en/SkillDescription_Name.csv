@@ -199,56 +199,56 @@
 2981,Suppression,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
 2991,Suppression,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
 3001,Suppression,Tem uma chance de {EffectParam2}% de Suprimir para {EffectParam1}s
-3011,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3021,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3031,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3041,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3051,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3061,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3071,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3081,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3091,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3101,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3111,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3121,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3131,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3141,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3151,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3161,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3171,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3181,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3191,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3201,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3211,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3221,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3231,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3241,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3251,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3261,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3271,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3281,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3291,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3301,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3311,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3321,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3331,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3341,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3351,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3361,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3371,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3381,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3391,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3401,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3411,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3421,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3431,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3441,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3451,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3461,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3471,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3481,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3491,Knock Back,tem uma chance de {EffectParam2}% de derrubar
-3501,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+3011,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3021,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3031,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3041,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3051,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3061,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3071,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3081,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3091,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3101,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3111,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3121,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3131,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3141,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3151,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3161,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3171,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3181,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3191,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3201,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3211,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3221,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3231,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3241,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3251,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3261,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3271,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3281,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3291,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3301,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3311,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3321,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3331,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3341,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3351,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3361,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3371,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3381,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3391,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3401,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3411,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3421,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3431,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3441,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3451,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3461,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3471,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3481,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3491,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
+3501,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
 3511,Shock,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
 3521,Shock,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
 3531,Shock,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
@@ -670,9 +670,9 @@ Reduz o dano recebido em {EffectParam2}% por {EffectParam3}s após lançar um sk
 14011,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
 14012,Burn,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
 14014011,Damage Increase,Aumenta o dano de skill em {EffectParam1}%
-14014012,Extra Trajectory,Aumenta os alvos de múltiplas trajetórias em 1.
+14014012,Extra Trajectory,Aumenta os alvos de Multi Trajectory em 1.
 15014011,Damage Increase,Aumenta o dano de skill em {EffectParam1}%
-15014012,Extra Trajectory,Aumenta os alvos de múltiplas trajetórias em 2.
+15014012,Extra Trajectory,Aumenta os alvos de Multi Trajectory em 2.
 15014013,Resonance of the Sword,Aumenta a resistência ao controle de multidão em {EffectParam1}% para {EffectParam2}s
 14111,Fighting Spirit of the Overlord,"Para {EffectParam4} sec
 Aumenta o dano de acerto crítico em {EffectParam1}%
@@ -764,10 +764,10 @@ Aumenta o dano crítico de Skill em {EffectParam4}%
 23512,Shock,Tem uma chance {EffectParam2}% de causar choque para {EffectParam1}s
 23513,Freeze,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
 14023511,Chill,Retarda os inimigos próximos ao pilar de gelo em {EffectParam1}% para {EffectParam2}s
-14023512,Enduring Frost,Aumenta a duração do pilar de gelo em 2s
+14023512,Enduring Frost,Aumenta a duração do Ice Pillar em 2s
 15023511,Blizzard,Retarda os inimigos próximos ao pilar de gelo em {EffectParam1}% para {EffectParam2}s
-15023512,Enduring Blizzard,"Aumenta a duração do pilar de gelo em 4s
-Aumenta a contagem de alvos do pilar de gelo em {EffectParam1}"
+15023512,Enduring Blizzard,"Aumenta a duração do Ice Pillar em 4s
+Aumenta a contagem de alvos do Ice Pillar em {EffectParam1}"
 15023513,Shock,Aumenta a duração do choque em {EffectParam1}s
 23611,Blessing,Reduz o dano recebido em {EffectParam1}% para {EffectParam2}s
 14023611,Enhanced Protection,Aumenta a redução de danos em {EffectParam1}%
@@ -779,7 +779,7 @@ Aumenta a contagem de alvos do pilar de gelo em {EffectParam1}"
 14024012,Endless Frost,Aumenta a duração de Skill em 1s
 15024011,Damage Increase,Aumenta o dano de skill em {EffectParam1}%
 15024012,Endless Frost,Aumenta a duração de Skill em 2s
-15024013,Frost Hell,Reduz o dano recebido de inimigos dentro da área do Inferno Congelado em {EffectParam1}%
+15024013,Frost Hell,Reduz o dano recebido de inimigos dentro da área do Frost Hell em {EffectParam1}%
 24111,Eternal Wisdom,"Para {EffectParam4} sec
 Aumenta o dano de acerto crítico em {EffectParam1}%
 Reduz Skill Dano recebido por {EffectParam2}%
@@ -908,11 +908,11 @@ Aumenta o poder de ataque ignorado em {EffectParam3}"
 34511,HP Recovery,Recupera HP por {EffectParam1}
 34512,Divine Breath,Aumenta o HP máximo do alvo em {EffectParam2} para {EffectParam1} sec
 34513,Divine Blessing,"Ao usar um skill, reduz o dano recebido de Skill em {EffectParam1}% e o dano de acerto crítico recebido de skills em {EffectParam2}% por {EffectParam3} seg"
-14034511,Perfect Breath,Reduz a duração do Crowd Control em {EffectParam1}% para o efeito de respiração Divine.
+14034511,Perfect Breath,Reduz a duração do Crowd Control em {EffectParam1}% para o efeito de Divine Breath.
 14034512,Aura of Protection,"Para o efeito de proteção Divine,
 Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}%
 Aumenta a taxa de resistência a golpes críticos de Skill em {EffectParam2}%"
-15034511,Perfect Breath,Reduz a duração do Crowd Control em {EffectParam1}% para o efeito de respiração Divine.
+15034511,Perfect Breath,Reduz a duração do Crowd Control em {EffectParam1}% para o efeito de Divine Breath.
 15034512,Aura of Protection,"Para o efeito de proteção Divine,
 Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}%
 Aumenta a taxa de resistência a golpes críticos de Skill em {EffectParam2}%"
@@ -923,7 +923,7 @@ Aumenta a taxa de resistência de maximização em {EffectParam3}%"
 14034611,Baptism of Light,Aumenta a resistência ao controle de multidão Taxa em {EffectParam1}%
 15034611,Baptism of Light,"Aumenta a taxa de resistência ao controle de multidão em {EffectParam1}%
 Reduz Dano de acerto crítico recebido em {EffectParam2}%"
-40011,Knock Back,tem uma chance de {EffectParam2}% de derrubar
+40011,Knock Back,Tem {EffectParam2}% de chance de empurrar o alvo
 40111,Stun,Tem {EffectParam2}% de chance de Atordoar {EffectParam1}s
 40211,Knock Down,tem uma chance de {EffectParam2}% de derrubar para {EffectParam1}s
 40311,Preparing for Battle,Aumenta o ataque em {EffectParam1} para {EffectParam2}s
@@ -1027,8 +1027,8 @@ Aumenta a defesa em {EffectParam2}
 Aumenta o poder de ataque de ignorar em {EffectParam3}"
 44511,Blind,tem uma chance de {EffectParam2}% de cegar para {EffectParam1}s
 44512,Poison,Tem uma chance de {EffectParam3}% de causar {EffectParam1}% de poder como dano para {EffectParam2}s
-14044511,Slow,Reduz o movimento Velocidade em {EffectParam1}% em inimigos dentro da Névoa Sombria
-15044511,Slow,Reduz o movimento Velocidade em {EffectParam1}% em inimigos dentro da Névoa Sombria
+14044511,Slow,Reduz o movimento Velocidade em {EffectParam1}% em inimigos dentro da Shadow Mist
+15044511,Slow,Reduz o movimento Velocidade em {EffectParam1}% em inimigos dentro da Shadow Mist
 15044512,Mist Control,Aumenta a resistência ao controle de multidão Taxa em {EffectParam1}%
 44611,Concentrated Malice,"Para {EffectParam4} sec
 Reduz o dano de acerto crítico recebido por {EffectParam1}%
@@ -1075,7 +1075,7 @@ Aumenta Skill Dano em {EffectParam2}%
 2º acerto: tem uma chance de {EffectParam5}% de vincular-se a {EffectParam2}s
 3º acerto: tem uma chance de {EffectParam6}% de silenciar para {EffectParam3}s"
 14052511,Additional Arrow,4º acerto: tem {EffectParam2}% de chance de cegar para {EffectParam1}s
-15052511,Mighty Arrow,"aprimora o efeito da seta de rastreamento
+15052511,Mighty Arrow,"aprimora o efeito da Tracking Arrow
 1º acerto: tem uma chance de {EffectParam9}% de desacelerar em {EffectParam1}% para {EffectParam5}s
 2º acerto: tem um {EffectParam6}% de chance de vincular para {EffectParam2}s
 3º acerto: tem uma chance de {EffectParam7}% de silenciar para {EffectParam3}s
@@ -1085,7 +1085,7 @@ Tem uma chance de {EffectParam5}% de retardar alvos atingidos por Ataque Básico
 Tem uma chance {EffectParam6}% de reduzir a velocidade de ataque dos alvos atingidos pelo ataque básico {EffectParam7} vezes em {EffectParam3}% para {EffectParam4}s"
 52712,Weak Point Attack,Aumenta a taxa de precisão de ataque básico em {EffectParam1}% para {EffectParam2} sec
 14052711,Weakness Analysis,"Aumenta Skill Duração em {EffectParam1}s
- Detecção de fraqueza: Além disso, diminui em {EffectParam2}%"
+ Weakness Detection: Além disso, diminui em {EffectParam2}%"
 15052711,Weakness Covenant,"Aumenta a duração de Skill em {EffectParam1}s
 Adicionalmente retarda em {EffectParam2}%
 Reduz adicionalmente a velocidade de ataque em {EffectParam3}%

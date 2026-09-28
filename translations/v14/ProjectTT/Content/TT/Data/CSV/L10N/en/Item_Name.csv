@@ -28,7 +28,7 @@
 9990,Abyssal Resonator,Material exclusivo de Abyssal Resonance. É consumido nas tentativas e serve como recurso básico do sistema.,,,
 9991,Resonance Amplification Core,Amplifica Resonance para garantir sucesso de 100%. Consumido nas tentativas realizadas com Resonance Amplification ativa.,,,
 9992,Resonance Blocking Core,Bloqueia a energia de Resonance e reinicia o sistema.,,,
-9995,Rift Boss Entry Recharge Item (Test),Item de teste para repor entradas de Rift chefe.,,,
+9995,Rift Boss Entry Recharge Item (Test),Rift Boss Entry Recharge Item (Test),,,
 99901,Successor’s Costume Retry Ticket,Permite repetir uma fusão de Costume do grau de uma falha registrada durante o período elegível.,,,
 99902,Successor’s Phantom Weapon Retry Ticket,Permite repetir uma fusão de Phantom Weapon do grau de uma falha registrada durante o período elegível.,,,
 99903,Successor’s Sacred Relic Restoration Ticket,"Se houver falha elegível em Advancement de Sacred Relic, permite escolher e restaurar uma relíquia usada na tentativa.",,,
@@ -57,12 +57,12 @@
 35,Rada's Reward Box {Param2},Use para obter {Param1}.,Various Rewards,I,
 36,Rada's Reward Box {Param2},Use para obter {Param1}.,Various Rewards,II,
 37,Rada's Reward Box {Param2},Use para obter {Param1}.,Various Rewards,III,
-1000001,Gudua's Memory Fragment ({Param1}),Contém memórias de Gudua. Use para restaurar o aspecto {Param1}.,Destruction,,
-1000002,Gudua's Memory Fragment ({Param1}),Contém memórias de Gudua. Use para restaurar o aspecto {Param1}.,Protection,,
-1000003,Gudua's Memory Fragment ({Param1}),Contém memórias de Gudua. Use para restaurar o aspecto {Param1}.,Fate,,
-1000004,Gudua's Memory Fragment ({Param1}),Contém memórias de Gudua. Use para restaurar o aspecto {Param1}.,Mystery,,
-1000005,Gudua's Memory Fragment ({Param1}),Contém memórias de Gudua. Use para restaurar o aspecto {Param1}.,Instinct,,
-1000006,Gudua's Memory Fragment ({Param1}),Contém memórias de Gudua. Use para restaurar o aspecto {Param1}.,Resistance,,
+1000001,Gudua's Memory Fragment ({Param1}),Contém Gudua's Memories. Use para restaurar o aspecto {Param1}.,Destruction,,
+1000002,Gudua's Memory Fragment ({Param1}),Contém Gudua's Memories. Use para restaurar o aspecto {Param1}.,Protection,,
+1000003,Gudua's Memory Fragment ({Param1}),Contém Gudua's Memories. Use para restaurar o aspecto {Param1}.,Fate,,
+1000004,Gudua's Memory Fragment ({Param1}),Contém Gudua's Memories. Use para restaurar o aspecto {Param1}.,Mystery,,
+1000005,Gudua's Memory Fragment ({Param1}),Contém Gudua's Memories. Use para restaurar o aspecto {Param1}.,Instinct,,
+1000006,Gudua's Memory Fragment ({Param1}),Contém Gudua's Memories. Use para restaurar o aspecto {Param1}.,Resistance,,
 100002,{Param1} Expansion Ticket,Amplia {Param1} em um espaço.,Inventory Slot,,
 100003,{Param1} Recharge Ticket,Repõe as chaves de Arbiter’s Ordeal. Não pode ser usado com as chaves já totalmente recarregadas.,Ordeal Token,,
 100004,Successor's Privilege Recharge Ticket [{IntParam}D],Acrescenta {IntParam} dias de Successor's Privilege.,,,
@@ -859,69 +859,128 @@
 2081001,OOParts Enhancement Stone,Material necessário para {Param1} {Param2}.,OOParts,Enhance,
 2081002,Giant's OOParts Enhancement Stone,Material necessário para {Param1} {Param2}.,OOParts,Enhance,
 2081003,Cursed OOParts Enhancement Stone,Reduz em {IntParam} o nível de aprimoramento de {Param1}.,OOParts,,
-5001001,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Gliding Gear,,
-5001002,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Wind Feather,,
-5001003,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Advanced Gliding Gear,,
-5001004,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Cloud Feather,,
-5001005,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Adventurer's Wings,,
-5001006,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Wings of Succession,,
-5002001,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Wings of Exploration,,
-5002002,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Wings of Freedom,,
-5002003,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Wings of Courage,,
-5002004,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Mystic Wings,,
-5002005,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Challenger's Wings,,
-5003001,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Wind-Rider,,
-5003002,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Cloud-Dancer,,
-5003003,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Ridge-Crosser,,
-5003004,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Sky-Sailor,,
-5003005,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Gale Falcon,,
-5003006,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Flash Falcon,,
-5003007,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Dawn Eagle,,
-5003008,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Moonlight Eagle,,
-5003009,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Guardian of the Abyss,,
-5004001,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Dragon Rise,,
-5004002,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Sandstorm,,
-5004003,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Crimson Dragon Knight,,
-5004004,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Silver Dragoon,,
-5004005,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Void Trace,,
-5004006,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Abyssal Ethereal Spirit,,
-5004007,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Apparition of the White Night,,
-5004008,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Eternal Nomad,,
-5004009,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Abyssal Guardian,,
-5004010,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Ashen Flame,,
-5004011,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Heaven’s Grace,,
-5004012,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Soaring Dream,,
-5004013,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Vortex Weaver,,
-5004014,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Yuri's Glide,,
-5010001,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Appearance Equip Test,,
+5001001,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Gliding Gear,,
+5001002,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Wind Feather,,
+5001003,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Advanced Gliding Gear,,
+5001004,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Cloud Feather,,
+5001005,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Adventurer's Wings,,
+5001006,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Wings of Succession,,
+5002001,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Wings of Exploration,,
+5002002,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Wings of Freedom,,
+5002003,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Wings of Courage,,
+5002004,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Mystic Wings,,
+5002005,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Challenger's Wings,,
+5003001,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Wind-Rider,,
+5003002,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Cloud-Dancer,,
+5003003,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Ridge-Crosser,,
+5003004,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Sky-Sailor,,
+5003005,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Gale Falcon,,
+5003006,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Flash Falcon,,
+5003007,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Dawn Eagle,,
+5003008,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Moonlight Eagle,,
+5003009,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Guardian of the Abyss,,
+5004001,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Dragon Rise,,
+5004002,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Sandstorm,,
+5004003,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Crimson Dragon Knight,,
+5004004,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Silver Dragoon,,
+5004005,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Void Trace,,
+5004006,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Abyssal Ethereal Spirit,,
+5004007,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Apparition of the White Night,,
+5004008,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Eternal Nomad,,
+5004009,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Abyssal Guardian,,
+5004010,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Ashen Flame,,
+5004011,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Heaven’s Grace,,
+5004012,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Soaring Dream,,
+5004013,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Vortex Weaver,,
+5004014,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Yuri's Glide,,
+5010001,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Appearance Equip Test,,
 5051001,Faint Mana-Infused Spring,Material necessário para {Param1} {Param2}.,Explorer's Lesser Glider Chest,Craft,
 5052001,Mana-Infused Spring,Material necessário para {Param1} {Param2}.,Explorer's Intermediate Glider Chest,Craft,
 5053001,Mystic Mana-Infused Spring,Material necessário para {Param1} {Param2}.,Explorer's Greater Glider Chest,Craft,
 5053002,Enhanced Mana-Infused Spring,Material necessário para {Param1} {Param2}.,3★ Glider Chest,Craft,
-5101001,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Rappie,,
-5102001,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Plain Rappie,,
-5102002,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Adorable Rappie,,
-5102003,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Bbyubbyubbyubbi,,
-5103001,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Sandstorm Rappie,,
-5103002,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Blizzard Rappie,,
-5103003,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Fragrant Rappie,,
-5103004,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Wandering Rappie,,
-5103005,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Red Ridinghood Rappie,,
-5104001,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Gale Spirit,,
-5104002,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Moonlight Traveler,,
-5104003,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Twilight Drifter,,
-5104004,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Golden Path Wanderer,,
-5104005,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Unknown Pilgrim,,
-5104006,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Earthquake Hoof,,
-5104007,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Black Monarch,,
-5104008,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Golden Fish,,
-5104009,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Winter Night Herald,,
-5104010,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Rainbow Step,,
-5104011,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Boss Trainee,,
-5104012,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Lingering Dimensional Binder,,
-5104013,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Crescent Night Wanderer,,
-5105001,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Thunder Mane,,
-5105002,{Param1} Registration Certificate,Certificado de registro de {Param1}. Registre para obter {Param1}.,Ellen’s Giant,,
+5101001,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Rappie,,
+5102001,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Plain Rappie,,
+5102002,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Adorable Rappie,,
+5102003,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Bbyubbyubbyubbi,,
+5103001,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Sandstorm Rappie,,
+5103002,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Blizzard Rappie,,
+5103003,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Fragrant Rappie,,
+5103004,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Wandering Rappie,,
+5103005,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Red Ridinghood Rappie,,
+5104001,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Gale Spirit,,
+5104002,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Moonlight Traveler,,
+5104003,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Twilight Drifter,,
+5104004,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Golden Path Wanderer,,
+5104005,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Unknown Pilgrim,,
+5104006,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Earthquake Hoof,,
+5104007,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Black Monarch,,
+5104008,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Golden Fish,,
+5104009,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Winter Night Herald,,
+5104010,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Rainbow Step,,
+5104011,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Boss Trainee,,
+5104012,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Lingering Dimensional Binder,,
+5104013,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Crescent Night Wanderer,,
+5105001,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Thunder Mane,,
+5105002,{Param1} Registration Certificate,"Registration Certificate de {Param1}.
+Registre-se para obter {Param1}.{jstag:}",Ellen’s Giant,,
 5205002,{Param1} {Param2} Resources,Material necessário para {Param1} {Param2}.,Golden Path Wanderer,1★ Ascension,
 5205003,{Param1} {Param2} Resources,Material necessário para {Param1} {Param2}.,Golden Path Wanderer,2★ Ascension,
 5205004,{Param1} {Param2} Resources,Material necessário para {Param1} {Param2}.,Golden Path Wanderer,3★ Ascension,
@@ -1834,34 +1893,34 @@
 6205035,{Param1} {Param2} Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Supreme,Hunter,Token
 6205036,{Param1} {Param2} Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Supreme,Explorer,Token
 6205037,{Param1} {Param2} Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Supreme,Wayfinder,Token
-6205101,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Lesser,Merchant,Ficha de Madeira
-6205102,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Lesser,Blacksmith,Ficha de Madeira
-6205103,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Lesser,Artisan,Ficha de Madeira
-6205104,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Lesser,Appraisor,Ficha de Madeira
-6205105,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Lesser,Hunter,Ficha de Madeira
-6205106,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Lesser,Explorer,Ficha de Madeira
-6205107,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Lesser,Wayfinder,Ficha de Madeira
-6205111,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Intermediate,Merchant,Ficha de Madeira
-6205112,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Intermediate,Blacksmith,Ficha de Madeira
-6205113,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Intermediate,Artisan,Ficha de Madeira
-6205114,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Intermediate,Appraisor,Ficha de Madeira
-6205115,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Intermediate,Hunter,Ficha de Madeira
-6205116,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Intermediate,Explorer,Ficha de Madeira
-6205117,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Intermediate,Wayfinder,Ficha de Madeira
-6205121,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Greater,Merchant,Ficha de Madeira
-6205122,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Greater,Blacksmith,Ficha de Madeira
-6205123,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Greater,Artisan,Ficha de Madeira
-6205124,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Greater,Appraisor,Ficha de Madeira
-6205125,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Greater,Hunter,Ficha de Madeira
-6205126,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Greater,Explorer,Ficha de Madeira
-6205127,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Greater,Wayfinder,Ficha de Madeira
-6205131,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Supreme,Merchant,Ficha de Madeira
-6205132,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Supreme,Blacksmith,Ficha de Madeira
-6205133,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Supreme,Artisan,Ficha de Madeira
-6205134,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Supreme,Appraisor,Ficha de Madeira
-6205135,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Supreme,Hunter,Ficha de Madeira
-6205136,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Supreme,Explorer,Ficha de Madeira
-6205137,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Supreme,Wayfinder,Ficha de Madeira
+6205101,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Lesser,Merchant,Wooden Token
+6205102,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Lesser,Blacksmith,Wooden Token
+6205103,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Lesser,Artisan,Wooden Token
+6205104,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Lesser,Appraisor,Wooden Token
+6205105,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Lesser,Hunter,Wooden Token
+6205106,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Lesser,Explorer,Wooden Token
+6205107,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Lesser,Wayfinder,Wooden Token
+6205111,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Intermediate,Merchant,Wooden Token
+6205112,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Intermediate,Blacksmith,Wooden Token
+6205113,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Intermediate,Artisan,Wooden Token
+6205114,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Intermediate,Appraisor,Wooden Token
+6205115,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Intermediate,Hunter,Wooden Token
+6205116,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Intermediate,Explorer,Wooden Token
+6205117,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Intermediate,Wayfinder,Wooden Token
+6205121,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Greater,Merchant,Wooden Token
+6205122,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Greater,Blacksmith,Wooden Token
+6205123,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Greater,Artisan,Wooden Token
+6205124,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Greater,Appraisor,Wooden Token
+6205125,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Greater,Hunter,Wooden Token
+6205126,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Greater,Explorer,Wooden Token
+6205127,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Greater,Wayfinder,Wooden Token
+6205131,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Supreme,Merchant,Wooden Token
+6205132,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Supreme,Blacksmith,Wooden Token
+6205133,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Supreme,Artisan,Wooden Token
+6205134,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Supreme,Appraisor,Wooden Token
+6205135,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Supreme,Hunter,Wooden Token
+6205136,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Supreme,Explorer,Wooden Token
+6205137,{Param1} {Param2} Wooden Token of Affinity,{Param3} recebido por concluir uma comissão de {Param2} Guild em Commission House. Usado nas pesquisas de Explorers' Guild.,Supreme,Wayfinder,Wooden Token
 6206001,{Param1} {Param2},{Param2} obtido ao superar Ethereal Sanctum. Usado nas pesquisas de Explorers' Guild.,Worn,Key,
 6206002,{Param1} {Param2},{Param2} obtido ao superar Ethereal Sanctum. Usado nas pesquisas de Explorers' Guild.,Common,Key,
 6206003,{Param1} {Param2},{Param2} obtido ao superar Ethereal Sanctum. Usado nas pesquisas de Explorers' Guild.,Mystic,Key,
@@ -2076,9 +2135,9 @@
 7050181,{Param3}★ {Param2} Chest: {Param1},Use para receber aleatoriamente um dos itens {Param2} da lista.,Normal Attack,Shared Spellstone,3~4
 7050182,{Param3}★ {Param2} Chest: {Param1},Use para receber aleatoriamente um dos itens {Param2} da lista.,Dash,Shared Spellstone,3~4
 7050183,{IntParam}★ {Param2} Chest,Use para receber aleatoriamente um dos itens {Param2} da lista.,,Shared Spellstone,
-7050190,{Param1} {Param2} Chest,Use para receber aleatoriamente um {Param3} da lista.,Glimmering,Spellfused,Pedra mágica
-7050191,{Param1} {Param2} Chest,Use para receber aleatoriamente um {Param3} da lista.,Shining,Spellfused,Pedra mágica
-7050192,{Param1} {Param2} Chest,Use para receber aleatoriamente um {Param3} da lista.,Radiant,Spellfused,Pedra mágica
+7050190,{Param1} {Param2} Chest,Use para receber aleatoriamente um {Param3} da lista.,Glimmering,Spellfused,Spellstone
+7050191,{Param1} {Param2} Chest,Use para receber aleatoriamente um {Param3} da lista.,Shining,Spellfused,Spellstone
+7050192,{Param1} {Param2} Chest,Use para receber aleatoriamente um {Param3} da lista.,Radiant,Spellfused,Spellstone
 7050200,{IntParam}★ {Param2} Selection Chest,Use para escolher e receber um {Param2} da lista.,2★ Infusion-Core,Infusion-Core,
 7050201,{IntParam}★ {Param2} Selection Chest,Use para escolher e receber um {Param2} da lista.,3★ Infusion-Core,Infusion-Core,
 7050202,{IntParam}★ {Param2} Selection Chest,Use para escolher e receber um {Param2} da lista.,2★ Infusion-Core of Destruction,Infusion-Core of Destruction,
@@ -2695,26 +2754,26 @@
 7062406,{Param2} Lucky Chest,Use para obter {Param2} da lista.,,Anima Core,
 7062408,{Param1} {Param2} Selection Chest,Use para escolher e receber um {Param2} da lista.,Greater,Tesseract,
 7062501,{Param2} Golden Crystal Chest,Use para obter {Param2} da lista.,,Intermediate,
-7062601,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift chefe, exclusiva para aventureiros com contribuição {Param3}.",Supreme,Rift Boss,1º Lugar
-7062602,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift chefe, exclusiva para aventureiros com contribuição {Param3}.",Greater,Rift Boss,#2 - #3
-7062603,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift chefe, exclusiva para aventureiros com contribuição {Param3}.",Intermediate,Rift Boss,#4 - #10
-7062604,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift chefe, exclusiva para aventureiros com contribuição {Param3}.",Lesser,Rift Boss,#11–20
-7062605,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift chefe, exclusiva para aventureiros com contribuição {Param3}.",Lowest Grade,Rift Boss,#21–30
-7062611,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift chefe, exclusiva para aventureiros com contribuição {Param3}.",Supreme,Rift Boss,1º Lugar
-7062612,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift chefe, exclusiva para aventureiros com contribuição {Param3}.",Greater,Rift Boss,#2 - #3
-7062613,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift chefe, exclusiva para aventureiros com contribuição {Param3}.",Intermediate,Rift Boss,#4 - #10
-7062614,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift chefe, exclusiva para aventureiros com contribuição {Param3}.",Lesser,Rift Boss,#11–20
-7062615,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift chefe, exclusiva para aventureiros com contribuição {Param3}.",Lowest Grade,Rift Boss,#21–30
-7062621,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift chefe, exclusiva para aventureiros com contribuição {Param3}.",Supreme,Rift Boss,1º Lugar
-7062622,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift chefe, exclusiva para aventureiros com contribuição {Param3}.",Greater,Rift Boss,#2 - #3
-7062623,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift chefe, exclusiva para aventureiros com contribuição {Param3}.",Intermediate,Rift Boss,#4 - #10
-7062624,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift chefe, exclusiva para aventureiros com contribuição {Param3}.",Lesser,Rift Boss,#11–20
-7062625,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift chefe, exclusiva para aventureiros com contribuição {Param3}.",Lowest Grade,Rift Boss,#21–30
-7062631,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift chefe, exclusiva para aventureiros com contribuição {Param3}.",Supreme,Rift Boss,1º Lugar
-7062632,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift chefe, exclusiva para aventureiros com contribuição {Param3}.",Greater,Rift Boss,#2 - #3
-7062633,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift chefe, exclusiva para aventureiros com contribuição {Param3}.",Intermediate,Rift Boss,#4 - #10
-7062634,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift chefe, exclusiva para aventureiros com contribuição {Param3}.",Lesser,Rift Boss,#11–20
-7062635,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift chefe, exclusiva para aventureiros com contribuição {Param3}.",Lowest Grade,Rift Boss,#21–30
+7062601,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift Boss, exclusiva para aventureiros com contribuição {Param3}.",Supreme,Rift Boss,1º Lugar
+7062602,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift Boss, exclusiva para aventureiros com contribuição {Param3}.",Greater,Rift Boss,#2 - #3
+7062603,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift Boss, exclusiva para aventureiros com contribuição {Param3}.",Intermediate,Rift Boss,#4 - #10
+7062604,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift Boss, exclusiva para aventureiros com contribuição {Param3}.",Lesser,Rift Boss,#11–20
+7062605,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift Boss, exclusiva para aventureiros com contribuição {Param3}.",Lowest Grade,Rift Boss,#21–30
+7062611,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift Boss, exclusiva para aventureiros com contribuição {Param3}.",Supreme,Rift Boss,1º Lugar
+7062612,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift Boss, exclusiva para aventureiros com contribuição {Param3}.",Greater,Rift Boss,#2 - #3
+7062613,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift Boss, exclusiva para aventureiros com contribuição {Param3}.",Intermediate,Rift Boss,#4 - #10
+7062614,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift Boss, exclusiva para aventureiros com contribuição {Param3}.",Lesser,Rift Boss,#11–20
+7062615,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift Boss, exclusiva para aventureiros com contribuição {Param3}.",Lowest Grade,Rift Boss,#21–30
+7062621,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift Boss, exclusiva para aventureiros com contribuição {Param3}.",Supreme,Rift Boss,1º Lugar
+7062622,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift Boss, exclusiva para aventureiros com contribuição {Param3}.",Greater,Rift Boss,#2 - #3
+7062623,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift Boss, exclusiva para aventureiros com contribuição {Param3}.",Intermediate,Rift Boss,#4 - #10
+7062624,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift Boss, exclusiva para aventureiros com contribuição {Param3}.",Lesser,Rift Boss,#11–20
+7062625,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift Boss, exclusiva para aventureiros com contribuição {Param3}.",Lowest Grade,Rift Boss,#21–30
+7062631,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift Boss, exclusiva para aventureiros com contribuição {Param3}.",Supreme,Rift Boss,1º Lugar
+7062632,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift Boss, exclusiva para aventureiros com contribuição {Param3}.",Greater,Rift Boss,#2 - #3
+7062633,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift Boss, exclusiva para aventureiros com contribuição {Param3}.",Intermediate,Rift Boss,#4 - #10
+7062634,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift Boss, exclusiva para aventureiros com contribuição {Param3}.",Lesser,Rift Boss,#11–20
+7062635,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Rift Boss, exclusiva para aventureiros com contribuição {Param3}.",Lowest Grade,Rift Boss,#21–30
 7062640,{Param2}’s {IntParam}★ {Param3} Chest,Use para receber aleatoriamente um {Param3} da lista.,,Rift Boss,Exclusive Spellstone
 7062651,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Beast Giant, exclusiva para aventureiros com contribuição {Param3}.",Supreme,Heart of the Star,1º Lugar
 7062652,{Param1} {Param2} Lucky Chest: Level {IntParam},"Recompensa por derrotar Beast Giant, exclusiva para aventureiros com contribuição {Param3}.",Greater,Heart of the Star,#2 - #3
@@ -3049,9 +3108,9 @@
 9110013,Dòuhuā Tofu Pudding,Aumenta {Param2} em 5% por dez minutos. Não funciona nos campos de Arena.,,EXP Gain from Defeating Monsters,
 9110020,Maelstrom Horn Delicacy,Por {intParam} minutos: aumenta {Param1} em 50 e {Param2} em 3%; reduz {Param3} em 5%.,Attack Power against Monsters,Critical Hit Chance against monsters,Dano recebido de monstros
 9110021,Golden Crisp Kubaba Drumstick,"Por {intParam} minutos, aumenta {Param1} em 50 e {Param2} em 3%.",Accuracy against Players,Movement Speed,
-9110022,Thinly Sliced Seasonal Dish,"Por {intParam} minutos, aumenta {Param1} em 30, {Param2} em 3% e {Param3} em 5%.",Critical Hit,Shield Increase Rate,Compartilhado Taxa de aumento de cura de HP
+9110022,Thinly Sliced Seasonal Dish,"Por {intParam} minutos, aumenta {Param1} em 30, {Param2} em 3% e {Param3} em 5%.",Critical Hit,Shield Increase Rate,Taxa de Aumento de Cura de HP
 9110023,Baba Liquor Aged Fin Soup,"Por {intParam} minutos, aumenta {Param1} e {Param2} em 3%, e {Param3} em 5%.",Attack Speed,HP Potion Healing Amount,Cura recebida
-9110024,Super Spicy Seasoned Vegetable,Por {intParam} minutos: aumenta {Param1} em 50 e {Param2} em 3%; reduz {Param3} em 5%.,Attack Power against Players,Critical Hit Resistance Rate against Players,Dano crítico causado aos jogadores
+9110024,Super Spicy Seasoned Vegetable,Por {intParam} minutos: aumenta {Param1} em 50 e {Param2} em 3%; reduz {Param3} em 5%.,Attack Power against Players,Critical Hit Resistance Rate against Players,Dano Crítico Recebido de Jogadores
 9110025,Light Picnic Snack,"Por {intParam} minutos, aumenta {Param1} e {Param2} em 5%.",Maximization Chance,Gold obtained from defeating monsters,
 3010001,Anima Element,Material obtido ao desmontar {Param1} de {IntParam}★ ou mais. Usado em {Param2}.,Equipment,Awakening,
 3010002,Anima Essence,Material obtido ao desmontar {Param1} de {IntParam}★ ou mais. Usado em {Param2}.,Equipment,Awakening,
@@ -3082,9 +3141,9 @@
 3101201,Artisan’s Essence : {Param2},Essência rara de monstros poderosos. Usada para fabricar {Param2} de {IntParam}★.,,Weapon,
 3101202,Artisan’s Essence : {Param2},Essência rara de monstros poderosos. Usada para fabricar {Param2} de {IntParam}★.,,Armor,
 3101203,Artisan’s Essence : {Param2},Essência rara de monstros poderosos. Usada para fabricar {Param2} de {IntParam}★.,,Accessory,
-3101211,Advanced Artisan’s Essence: {Param2},Essência rara extraída de {Param3} de {IntParam}★.,Greater,Weapon,Projeto de Arma Menor
-3101212,Advanced Artisan’s Essence: {Param2},Essência rara extraída de {Param3} de {IntParam}★.,Greater,Armor,Projeto de armadura menor
-3101213,Advanced Artisan’s Essence: {Param2},Essência rara extraída de {Param3} de {IntParam}★.,Greater,Accessory,Projeto de acessório menor
+3101211,Advanced Artisan’s Essence: {Param2},Essência rara extraída de {Param3} de {IntParam}★.,Greater,Weapon,Lesser Weapon Blueprint
+3101212,Advanced Artisan’s Essence: {Param2},Essência rara extraída de {Param3} de {IntParam}★.,Greater,Armor,Lesser Armor Blueprint
+3101213,Advanced Artisan’s Essence: {Param2},Essência rara extraída de {Param3} de {IntParam}★.,Greater,Accessory,Lesser Accessory Blueprint
 3103010,{IntParam}-Star {Param1} {Param2} Blueprint,Projeto necessário para fabricar {Param2}.,Lesser,Weapon,
 3103020,{IntParam}-Star {Param1} {Param2} Blueprint,Projeto necessário para fabricar {Param2}.,Intermediate,Weapon,
 3104050,{IntParam}-Star {Param1} {Param2} Blueprint,Projeto necessário para fabricar {Param2}.,Lowest Grade,Weapon,
@@ -3136,18 +3195,18 @@
 3104214,{IntParam}-Star {Param1} {Param2} Blueprint Fragment,Combine fragmentos para fabricar um projeto de {IntParam}★ para {Param1} {Param2}.,Greater,Accessory,
 3104215,{IntParam}-Star {Param1} {Param2} Blueprint Fragment,Combine fragmentos para fabricar um projeto de {IntParam}★ para {Param1} {Param2}.,Supreme,Accessory,
 3105211,{IntParam}-Star {Param1} {Param2} Blueprint Fragment,Combine fragmentos para fabricar um projeto de {IntParam}★ para {Param1} {Param2}.,Lesser,Accessory,
-3104001,Empty Bottle,Material necessário para {Param2} {Param3}.,,Elixir,Artesanato
-3104002,Bermor Root,Material necessário para {Param2} {Param3}.,,HP Elixir II,Artesanato
-3104003,Moon Pumpkin Seed,Material necessário para {Param2} {Param3}.,,Control Resistance Elixir II,Artesanato
-3104004,Golden Thorn Stem,Material necessário para {Param2} {Param3}.,,Hero’s Elixir II,Artesanato
-3104005,Doom Scent Petal,Material necessário para {Param2} {Param3}.,,Slayer's Elixir II,Artesanato
-3104006,{Param1} Tesseract Shard,Material necessário para {Param2} {Param3} de {IntParam}★.,Lesser,Artificial Tesseract,Artesanato
-3104007,{Param1} Tesseract Shard,Material necessário para {Param2} {Param3} de {IntParam}★.,Intermediate,Artificial Tesseract,Artesanato
-3104008,{Param1} Tesseract Shard,Material necessário para {Param2} {Param3} de {IntParam}★.,Greater,Artificial Tesseract,Artesanato
-3106001,Magic-Imbued Stone Tablet,Material necessário para {Param2}{Param3}.,,Explorer’s Spellstone Chest,Artesanato
-3106002,Source of Magic,Material necessário para {Param2}{Param3}.,,Glimmering Spellfused Chest,Artesanato
-3106011,{Param1} Spellstone Fragment,Material necessário para {Param2}{Param3}.,Lesser,Spellstone Chest,Artesanato
-3106012,{Param1} Spellstone Fragment,Material necessário para {Param2}{Param3}.,Intermediate,Spellstone Chest,Artesanato
+3104001,Empty Bottle,Material necessário para {Param2} {Param3}.,,Elixir,Criação
+3104002,Bermor Root,Material necessário para {Param2} {Param3}.,,HP Elixir II,Criação
+3104003,Moon Pumpkin Seed,Material necessário para {Param2} {Param3}.,,Control Resistance Elixir II,Criação
+3104004,Golden Thorn Stem,Material necessário para {Param2} {Param3}.,,Hero’s Elixir II,Criação
+3104005,Doom Scent Petal,Material necessário para {Param2} {Param3}.,,Slayer's Elixir II,Criação
+3104006,{Param1} Tesseract Shard,Material necessário para {Param2} {Param3} de {IntParam}★.,Lesser,Artificial Tesseract,Criação
+3104007,{Param1} Tesseract Shard,Material necessário para {Param2} {Param3} de {IntParam}★.,Intermediate,Artificial Tesseract,Criação
+3104008,{Param1} Tesseract Shard,Material necessário para {Param2} {Param3} de {IntParam}★.,Greater,Artificial Tesseract,Criação
+3106001,Magic-Imbued Stone Tablet,Material necessário para {Param2}{Param3}.,,Explorer’s Spellstone Chest,Criação
+3106002,Source of Magic,Material necessário para {Param2}{Param3}.,,Glimmering Spellfused Chest,Criação
+3106011,{Param1} Spellstone Fragment,Material necessário para {Param2}{Param3}.,Lesser,Spellstone Chest,Criação
+3106012,{Param1} Spellstone Fragment,Material necessário para {Param2}{Param3}.,Intermediate,Spellstone Chest,Criação
 3107001,Dimension Stone Core,"Material de Grand Incursion, usado para fabricar diversos baús de recompensa.",,,
 3107002,Advanced Dimension Stone Core,"Material valioso de Grand Incursion, usado para fabricar diversos baús de recompensa.",,,
 3108001,Cursed Vending Machine Chest,"Material encontrado em Barrier of Time Dungeon, usado para fabricar Vending Machine Chest.",,,
@@ -4248,590 +4307,590 @@
 25050525,{Param1} Arrowhead,{Param3} usado pela classe {Param2}.,Gudua’s,Hunter,Equipamento Secundário
 25050535,{Param1} Arrowhead,{Param3} usado pela classe {Param2}.,of Frost,Hunter,Equipamento Secundário
 25050516,{Param1} Arrowhead,{Param3} usado pela classe {Param2}.,The Absolute’s,Hunter,Equipamento Secundário
-31090011,{Param1} Helm,{Param3} equipado em {Param2}.,Ruined Leather,Head,Armadura robusta
-31090021,{Param1} Helm,{Param3} equipado em {Param2}.,Fallen One’s,Head,Armadura robusta
-31090031,{Param1} Helm,{Param3} equipado em {Param2}.,Worn,Head,Armadura robusta
-31090041,{Param1} Helm,{Param3} equipado em {Param2}.,Outlaw’s,Head,Armadura robusta
-31090051,{Param1} Helm,{Param3} equipado em {Param2}.,Trainee’s,Head,Armadura robusta
-31090061,{Param1} Helm,{Param3} equipado em {Param2}.,Adventurer’s,Head,Armadura robusta
-31090071,{Param1} Helm,{Param3} equipado em {Param2}.,Soldier’s,Head,Armadura robusta
-31090081,{Param1} Helm,{Param3} equipado em {Param2}.,Mercenary’s,Head,Armadura robusta
-31090091,{Param1} Helm,{Param3} equipado em {Param2}.,Ornament,Head,Armadura robusta
-31090101,{Param1} Helm,{Param3} equipado em {Param2}.,Cursed,Head,Armadura robusta
-31090111,{Param1} Helm,{Param3} equipado em {Param2}.,Refined,Head,Armadura robusta
-31090121,{Param1} Helm,{Param3} equipado em {Param2}.,Worn,Head,Armadura robusta
-31090131,{Param1} Helm,{Param3} equipado em {Param2}.,Corroded,Head,Armadura robusta
-31090141,{Param1} Helm,{Param3} equipado em {Param2}.,Apprentice’s,Head,Armadura robusta
-31090151,{Param1} Helm,{Param3} equipado em {Param2}.,Wanderer’s,Head,Armadura robusta
-31090161,{Param1} Helm,{Param3} equipado em {Param2}.,Heretic’s,Head,Armadura robusta
-31090171,{Param1} Helm,{Param3} equipado em {Param2}.,Fighter’s,Head,Armadura robusta
-31090012,{Param1} Helm,{Param3} equipado em {Param2}.,Thief’s,Head,Armadura robusta
-31090022,{Param1} Helm,{Param3} equipado em {Param2}.,Raider’s,Head,Armadura robusta
-31090032,{Param1} Helm,{Param3} equipado em {Param2}.,Monster Hunter’s,Head,Armadura robusta
-31090042,{Param1} Helm,{Param3} equipado em {Param2}.,Butcher’s,Head,Armadura robusta
-31090052,{Param1} Helm,{Param3} equipado em {Param2}.,Battle,Head,Armadura robusta
-31090062,{Param1} Helm,{Param3} equipado em {Param2}.,Follower’s,Head,Armadura robusta
-31090072,{Param1} Helm,{Param3} equipado em {Param2}.,Rebel’s,Head,Armadura robusta
-31090082,{Param1} Helm,{Param3} equipado em {Param2}.,Master’s,Head,Armadura robusta
-31090092,{Param1} Helm,{Param3} equipado em {Param2}.,Enchanted,Head,Armadura robusta
-31090102,{Param1} Helm,{Param3} equipado em {Param2}.,Commander’s,Head,Armadura robusta
-31090112,{Param1} Helm,{Param3} equipado em {Param2}.,Adamant,Head,Armadura robusta
-31090122,{Param1} Helm,{Param3} equipado em {Param2}.,Old,Head,Armadura robusta
-31090132,{Param1} Helm,{Param3} equipado em {Param2}.,Guard’s,Head,Armadura robusta
-31090142,{Param1} Helm,{Param3} equipado em {Param2}.,Delicate,Head,Armadura robusta
-31090152,{Param1} Helm,{Param3} equipado em {Param2}.,Noticeable,Head,Armadura robusta
-31090162,{Param1} Helm,{Param3} equipado em {Param2}.,Reinforced,Head,Armadura robusta
-31090172,{Param1} Helm,{Param3} equipado em {Param2}.,Artificial,Head,Armadura robusta
-31090013,{Param1} Helm,{Param3} equipado em {Param2}.,Hermit’s,Head,Armadura robusta
-31090023,{Param1} Helm,{Param3} equipado em {Param2}.,Prophet’s,Head,Armadura robusta
-31090033,{Param1} Helm,{Param3} equipado em {Param2}.,Authoritative,Head,Armadura robusta
-31090043,{Param1} Helm,{Param3} equipado em {Param2}.,Noble’s,Head,Armadura robusta
-31090053,{Param1} Helm,{Param3} equipado em {Param2}.,Executor’s,Head,Armadura robusta
-31090063,{Param1} Helm,{Param3} equipado em {Param2}.,Judge’s,Head,Armadura robusta
-31090073,{Param1} Helm,{Param3} equipado em {Param2}.,Lord’s,Head,Armadura robusta
-31090083,{Param1} Helm,{Param3} equipado em {Param2}.,Exile’s,Head,Armadura robusta
-31090093,{Param1} Helm,{Param3} equipado em {Param2}.,Dawn,Head,Armadura robusta
-31090103,{Param1} Helm,{Param3} equipado em {Param2}.,Blue Sky,Head,Armadura robusta
-31090113,{Param1} Helm,{Param3} equipado em {Param2}.,Twilight,Head,Armadura robusta
-31090123,{Param1} Helm,{Param3} equipado em {Param2}.,Night,Head,Armadura robusta
-31090133,{Param1} Helm,{Param3} equipado em {Param2}.,Mist,Head,Armadura robusta
-31090143,{Param1} Helm,{Param3} equipado em {Param2}.,Harvest,Head,Armadura robusta
-31090153,{Param1} Helm,{Param3} equipado em {Param2}.,Frost,Head,Armadura robusta
-31090163,{Param1} Helm,{Param3} equipado em {Param2}.,Silent,Head,Armadura robusta
-31090173,{Param1} Helm,{Param3} equipado em {Param2}.,Of Oblivion,Head,Armadura robusta
-31090183,{Param1} Helm,{Param3} equipado em {Param2}.,Knight’s,Head,Armadura robusta
-31090193,{Param1} Helm,{Param3} equipado em {Param2}.,Confident,Head,Armadura robusta
-31090203,{Param1} Helm,{Param3} equipado em {Param2}.,Beast’s,Head,Armadura robusta
-31090213,{Param1} Helm,{Param3} equipado em {Param2}.,of Steel,Head,Armadura robusta
-31090223,{Param1} Helm,{Param3} equipado em {Param2}.,Antique,Head,Armadura robusta
-31090233,{Param1} Helm,{Param3} equipado em {Param2}.,of Ascension,Head,Armadura robusta
-31090243,{Param1} Helm,{Param3} equipado em {Param2}.,of Ominous,Head,Armadura robusta
-31090253,{Param1} Helm,{Param3} equipado em {Param2}.,Old Kingdom’s,Head,Armadura robusta
-31090014,{Param1} Helm,{Param3} equipado em {Param2}.,Slayer’s,Head,Armadura robusta
-31090024,{Param1} Helm,{Param3} equipado em {Param2}.,Beserker’s,Head,Armadura robusta
-31090034,{Param1} Helm,{Param3} equipado em {Param2}.,Destroyer’s,Head,Armadura robusta
-31090044,{Param1} Helm,{Param3} equipado em {Param2}.,Nightmare,Head,Armadura robusta
-31090054,{Param1} Helm,{Param3} equipado em {Param2}.,Tyrant’s,Head,Armadura robusta
-31090064,{Param1} Helm,{Param3} equipado em {Param2}.,High General’s,Head,Armadura robusta
-31090074,{Param1} Helm,{Param3} equipado em {Param2}.,Priest’s,Head,Armadura robusta
-31090084,{Param1} Helm,{Param3} equipado em {Param2}.,Glorious,Head,Armadura robusta
-31090094,{Param1} Helm,{Param3} equipado em {Param2}.,Ruler’s,Head,Armadura robusta
-31090104,{Param1} Helm,{Param3} equipado em {Param2}.,Shadow,Head,Armadura robusta
-31090015,{Param1} Helm,{Param3} equipado em {Param2}.,Ancient,Head,Armadura robusta
-31090025,{Param1} Helm,{Param3} equipado em {Param2}.,Gudua’s,Head,Armadura robusta
-31090035,{Param1} Helm,{Param3} equipado em {Param2}.,of Frost,Head,Armadura robusta
-31090016,{Param1} Helm,{Param3} equipado em {Param2}.,The Absolute’s,Head,Armadura robusta
-32090011,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Ruined Leather,Shoulder,Armadura robusta
-32090021,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Fallen One’s,Shoulder,Armadura robusta
-32090031,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Worn,Shoulder,Armadura robusta
-32090041,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Outlaw’s,Shoulder,Armadura robusta
-32090051,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Trainee’s,Shoulder,Armadura robusta
-32090061,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Adventurer’s,Shoulder,Armadura robusta
-32090071,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Soldier’s,Shoulder,Armadura robusta
-32090081,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Mercenary’s,Shoulder,Armadura robusta
-32090091,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Ornament,Shoulder,Armadura robusta
-32090101,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Cursed,Shoulder,Armadura robusta
-32090111,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Refined,Shoulder,Armadura robusta
-32090121,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Worn,Shoulder,Armadura robusta
-32090131,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Corroded,Shoulder,Armadura robusta
-32090141,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Apprentice’s,Shoulder,Armadura robusta
-32090151,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Wanderer’s,Shoulder,Armadura robusta
-32090161,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Heretic’s,Shoulder,Armadura robusta
-32090171,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Fighter’s,Shoulder,Armadura robusta
-32090012,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Thief’s,Shoulder,Armadura robusta
-32090022,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Raider’s,Shoulder,Armadura robusta
-32090032,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Monster Hunter’s,Shoulder,Armadura robusta
-32090042,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Butcher’s,Shoulder,Armadura robusta
-32090052,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Battle,Shoulder,Armadura robusta
-32090062,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Follower’s,Shoulder,Armadura robusta
-32090072,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Rebel’s,Shoulder,Armadura robusta
-32090082,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Master’s,Shoulder,Armadura robusta
-32090092,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Enchanted,Shoulder,Armadura robusta
-32090102,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Commander’s,Shoulder,Armadura robusta
-32090112,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Adamant,Shoulder,Armadura robusta
-32090122,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Old,Shoulder,Armadura robusta
-32090132,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Guard’s,Shoulder,Armadura robusta
-32090142,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Delicate,Shoulder,Armadura robusta
-32090152,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Noticeable,Shoulder,Armadura robusta
-32090162,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Reinforced,Shoulder,Armadura robusta
-32090172,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Artificial,Shoulder,Armadura robusta
-32090013,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Hermit’s,Shoulder,Armadura robusta
-32090023,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Prophet’s,Shoulder,Armadura robusta
-32090033,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Authoritative,Shoulder,Armadura robusta
-32090043,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Noble’s,Shoulder,Armadura robusta
-32090053,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Executor’s,Shoulder,Armadura robusta
-32090063,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Judge’s,Shoulder,Armadura robusta
-32090073,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Lord’s,Shoulder,Armadura robusta
-32090083,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Exile’s,Shoulder,Armadura robusta
-32090093,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Dawn,Shoulder,Armadura robusta
-32090103,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Blue Sky,Shoulder,Armadura robusta
-32090113,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Twilight,Shoulder,Armadura robusta
-32090123,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Night,Shoulder,Armadura robusta
-32090133,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Mist,Shoulder,Armadura robusta
-32090143,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Harvest,Shoulder,Armadura robusta
-32090153,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Frost,Shoulder,Armadura robusta
-32090163,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Silent,Shoulder,Armadura robusta
-32090173,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Of Oblivion,Shoulder,Armadura robusta
-32090183,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Knight’s,Shoulder,Armadura robusta
-32090193,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Confident,Shoulder,Armadura robusta
-32090203,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Beast’s,Shoulder,Armadura robusta
-32090213,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,of Steel,Shoulder,Armadura robusta
-32090223,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Antique,Shoulder,Armadura robusta
-32090233,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,of Ascension,Shoulder,Armadura robusta
-32090243,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,of Ominous,Shoulder,Armadura robusta
-32090253,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Old Kingdom’s,Shoulder,Armadura robusta
-32090014,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Slayer’s,Shoulder,Armadura robusta
-32090024,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Beserker’s,Shoulder,Armadura robusta
-32090034,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Destroyer’s,Shoulder,Armadura robusta
-32090044,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Nightmare,Shoulder,Armadura robusta
-32090054,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Tyrant’s,Shoulder,Armadura robusta
-32090064,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,High General’s,Shoulder,Armadura robusta
-32090074,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Priest’s,Shoulder,Armadura robusta
-32090084,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Glorious,Shoulder,Armadura robusta
-32090094,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Ruler’s,Shoulder,Armadura robusta
-32090104,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Shadow,Shoulder,Armadura robusta
-32090015,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Ancient,Shoulder,Armadura robusta
-32090025,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Gudua’s,Shoulder,Armadura robusta
-32090035,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,of Frost,Shoulder,Armadura robusta
-32090016,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,The Absolute’s,Shoulder,Armadura robusta
-33090011,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Ruined Leather,Upper Body,Armadura robusta
-33090021,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Fallen One’s,Upper Body,Armadura robusta
-33090031,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Worn,Upper Body,Armadura robusta
-33090041,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Outlaw’s,Upper Body,Armadura robusta
-33090051,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Trainee’s,Upper Body,Armadura robusta
-33090061,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Adventurer’s,Upper Body,Armadura robusta
-33090071,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Soldier’s,Upper Body,Armadura robusta
-33090081,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Mercenary’s,Upper Body,Armadura robusta
-33090091,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Ornament,Upper Body,Armadura robusta
-33090101,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Cursed,Upper Body,Armadura robusta
-33090111,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Refined,Upper Body,Armadura robusta
-33090121,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Worn,Upper Body,Armadura robusta
-33090131,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Corroded,Upper Body,Armadura robusta
-33090141,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Apprentice’s,Upper Body,Armadura robusta
-33090151,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Wanderer’s,Upper Body,Armadura robusta
-33090161,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Heretic’s,Upper Body,Armadura robusta
-33090171,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Fighter’s,Upper Body,Armadura robusta
-33090012,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Thief’s,Upper Body,Armadura robusta
-33090022,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Raider’s,Upper Body,Armadura robusta
-33090032,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Monster Hunter’s,Upper Body,Armadura robusta
-33090042,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Butcher’s,Upper Body,Armadura robusta
-33090052,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Battle,Upper Body,Armadura robusta
-33090062,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Follower’s,Upper Body,Armadura robusta
-33090072,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Rebel’s,Upper Body,Armadura robusta
-33090082,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Master’s,Upper Body,Armadura robusta
-33090092,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Enchanted,Upper Body,Armadura robusta
-33090102,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Commander’s,Upper Body,Armadura robusta
-33090112,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Adamant,Upper Body,Armadura robusta
-33090122,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Old,Upper Body,Armadura robusta
-33090132,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Guard’s,Upper Body,Armadura robusta
-33090142,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Delicate,Upper Body,Armadura robusta
-33090152,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Noticeable,Upper Body,Armadura robusta
-33090162,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Reinforced,Upper Body,Armadura robusta
-33090172,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Artificial,Upper Body,Armadura robusta
-33090013,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Hermit’s,Upper Body,Armadura robusta
-33090023,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Prophet’s,Upper Body,Armadura robusta
-33090033,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Authoritative,Upper Body,Armadura robusta
-33090043,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Noble’s,Upper Body,Armadura robusta
-33090053,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Executor’s,Upper Body,Armadura robusta
-33090063,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Judge’s,Upper Body,Armadura robusta
-33090073,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Lord’s,Upper Body,Armadura robusta
-33090083,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Exile’s,Upper Body,Armadura robusta
-33090093,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Dawn,Upper Body,Armadura robusta
-33090103,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Blue Sky,Upper Body,Armadura robusta
-33090113,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Twilight,Upper Body,Armadura robusta
-33090123,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Night,Upper Body,Armadura robusta
-33090133,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Mist,Upper Body,Armadura robusta
-33090143,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Harvest,Upper Body,Armadura robusta
-33090153,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Frost,Upper Body,Armadura robusta
-33090163,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Silent,Upper Body,Armadura robusta
-33090173,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Of Oblivion,Upper Body,Armadura robusta
-33090183,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Knight’s,Upper Body,Armadura robusta
-33090193,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Confident,Upper Body,Armadura robusta
-33090203,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Beast’s,Upper Body,Armadura robusta
-33090213,{Param1} Chest Armor,{Param3} equipado em {Param2}.,of Steel,Upper Body,Armadura robusta
-33090223,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Antique,Upper Body,Armadura robusta
-33090233,{Param1} Chest Armor,{Param3} equipado em {Param2}.,of Ascension,Upper Body,Armadura robusta
-33090243,{Param1} Chest Armor,{Param3} equipado em {Param2}.,of Ominous,Upper Body,Armadura robusta
-33090253,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Old Kingdom’s,Upper Body,Armadura robusta
-33090014,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Slayer’s,Upper Body,Armadura robusta
-33090024,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Beserker’s,Upper Body,Armadura robusta
-33090034,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Destroyer’s,Upper Body,Armadura robusta
-33090044,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Nightmare,Upper Body,Armadura robusta
-33090054,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Tyrant’s,Upper Body,Armadura robusta
-33090064,{Param1} Chest Armor,{Param3} equipado em {Param2}.,High General’s,Upper Body,Armadura robusta
-33090074,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Priest’s,Upper Body,Armadura robusta
-33090084,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Glorious,Upper Body,Armadura robusta
-33090094,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Ruler’s,Upper Body,Armadura robusta
-33090104,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Shadow,Upper Body,Armadura robusta
-33090015,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Ancient,Upper Body,Armadura robusta
-33090025,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Gudua’s,Upper Body,Armadura robusta
-33090035,{Param1} Chest Armor,{Param3} equipado em {Param2}.,of Frost,Upper Body,Armadura robusta
-33090016,{Param1} Chest Armor,{Param3} equipado em {Param2}.,The Absolute’s,Upper Body,Armadura robusta
-34090011,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Ruined Leather,Lower Body,Armadura robusta
-34090021,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Fallen One’s,Lower Body,Armadura robusta
-34090031,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Worn,Lower Body,Armadura robusta
-34090041,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Outlaw’s,Lower Body,Armadura robusta
-34090051,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Trainee’s,Lower Body,Armadura robusta
-34090061,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Adventurer’s,Lower Body,Armadura robusta
-34090071,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Soldier’s,Lower Body,Armadura robusta
-34090081,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Mercenary’s,Lower Body,Armadura robusta
-34090091,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Ornament,Lower Body,Armadura robusta
-34090101,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Cursed,Lower Body,Armadura robusta
-34090111,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Refined,Lower Body,Armadura robusta
-34090121,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Worn,Lower Body,Armadura robusta
-34090131,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Corroded,Lower Body,Armadura robusta
-34090141,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Apprentice’s,Lower Body,Armadura robusta
-34090151,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Wanderer’s,Lower Body,Armadura robusta
-34090161,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Heretic’s,Lower Body,Armadura robusta
-34090171,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Fighter’s,Lower Body,Armadura robusta
-34090012,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Thief’s,Lower Body,Armadura robusta
-34090022,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Raider’s,Lower Body,Armadura robusta
-34090032,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Monster Hunter’s,Lower Body,Armadura robusta
-34090042,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Butcher’s,Lower Body,Armadura robusta
-34090052,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Battle,Lower Body,Armadura robusta
-34090062,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Follower’s,Lower Body,Armadura robusta
-34090072,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Rebel’s,Lower Body,Armadura robusta
-34090082,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Master’s,Lower Body,Armadura robusta
-34090092,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Enchanted,Lower Body,Armadura robusta
-34090102,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Commander’s,Lower Body,Armadura robusta
-34090112,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Adamant,Lower Body,Armadura robusta
-34090122,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Old,Lower Body,Armadura robusta
-34090132,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Guard’s,Lower Body,Armadura robusta
-34090142,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Delicate,Lower Body,Armadura robusta
-34090152,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Noticeable,Lower Body,Armadura robusta
-34090162,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Reinforced,Lower Body,Armadura robusta
-34090172,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Artificial,Lower Body,Armadura robusta
-34090013,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Hermit’s,Lower Body,Armadura robusta
-34090023,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Prophet’s,Lower Body,Armadura robusta
-34090033,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Authoritative,Lower Body,Armadura robusta
-34090043,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Noble’s,Lower Body,Armadura robusta
-34090053,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Executor’s,Lower Body,Armadura robusta
-34090063,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Judge’s,Lower Body,Armadura robusta
-34090073,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Lord’s,Lower Body,Armadura robusta
-34090083,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Exile’s,Lower Body,Armadura robusta
-34090093,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Dawn,Lower Body,Armadura robusta
-34090103,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Blue Sky,Lower Body,Armadura robusta
-34090113,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Twilight,Lower Body,Armadura robusta
-34090123,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Night,Lower Body,Armadura robusta
-34090133,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Mist,Lower Body,Armadura robusta
-34090143,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Harvest,Lower Body,Armadura robusta
-34090153,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Frost,Lower Body,Armadura robusta
-34090163,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Silent,Lower Body,Armadura robusta
-34090173,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Of Oblivion,Lower Body,Armadura robusta
-34090183,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Knight’s,Lower Body,Armadura robusta
-34090193,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Confident,Lower Body,Armadura robusta
-34090203,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Beast’s,Lower Body,Armadura robusta
-34090213,{Param1} Leg Armor,{Param3} equipado em {Param2}.,of Steel,Lower Body,Armadura robusta
-34090223,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Antique,Lower Body,Armadura robusta
-34090233,{Param1} Leg Armor,{Param3} equipado em {Param2}.,of Ascension,Lower Body,Armadura robusta
-34090243,{Param1} Leg Armor,{Param3} equipado em {Param2}.,of Ominous,Lower Body,Armadura robusta
-34090253,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Old Kingdom’s,Lower Body,Armadura robusta
-34090014,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Slayer’s,Lower Body,Armadura robusta
-34090024,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Beserker’s,Lower Body,Armadura robusta
-34090034,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Destroyer’s,Lower Body,Armadura robusta
-34090044,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Nightmare,Lower Body,Armadura robusta
-34090054,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Tyrant’s,Lower Body,Armadura robusta
-34090064,{Param1} Leg Armor,{Param3} equipado em {Param2}.,High General’s,Lower Body,Armadura robusta
-34090074,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Priest’s,Lower Body,Armadura robusta
-34090084,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Glorious,Lower Body,Armadura robusta
-34090094,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Ruler’s,Lower Body,Armadura robusta
-34090104,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Shadow,Lower Body,Armadura robusta
-34090015,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Ancient,Lower Body,Armadura robusta
-34090025,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Gudua’s,Lower Body,Armadura robusta
-34090035,{Param1} Leg Armor,{Param3} equipado em {Param2}.,of Frost,Lower Body,Armadura robusta
-34090016,{Param1} Leg Armor,{Param3} equipado em {Param2}.,The Absolute’s,Lower Body,Armadura robusta
-35090011,{Param1} Belt,{Param3} equipado em {Param2}.,Ruined Leather,Waist,Armadura robusta
-35090021,{Param1} Belt,{Param3} equipado em {Param2}.,Fallen One’s,Waist,Armadura robusta
-35090031,{Param1} Belt,{Param3} equipado em {Param2}.,Worn,Waist,Armadura robusta
-35090041,{Param1} Belt,{Param3} equipado em {Param2}.,Outlaw’s,Waist,Armadura robusta
-35090051,{Param1} Belt,{Param3} equipado em {Param2}.,Trainee’s,Waist,Armadura robusta
-35090061,{Param1} Belt,{Param3} equipado em {Param2}.,Adventurer’s,Waist,Armadura robusta
-35090071,{Param1} Belt,{Param3} equipado em {Param2}.,Soldier’s,Waist,Armadura robusta
-35090081,{Param1} Belt,{Param3} equipado em {Param2}.,Mercenary’s,Waist,Armadura robusta
-35090091,{Param1} Belt,{Param3} equipado em {Param2}.,Ornament,Waist,Armadura robusta
-35090101,{Param1} Belt,{Param3} equipado em {Param2}.,Cursed,Waist,Armadura robusta
-35090111,{Param1} Belt,{Param3} equipado em {Param2}.,Refined,Waist,Armadura robusta
-35090121,{Param1} Belt,{Param3} equipado em {Param2}.,Worn,Waist,Armadura robusta
-35090131,{Param1} Belt,{Param3} equipado em {Param2}.,Corroded,Waist,Armadura robusta
-35090141,{Param1} Belt,{Param3} equipado em {Param2}.,Apprentice’s,Waist,Armadura robusta
-35090151,{Param1} Belt,{Param3} equipado em {Param2}.,Wanderer’s,Waist,Armadura robusta
-35090161,{Param1} Belt,{Param3} equipado em {Param2}.,Heretic’s,Waist,Armadura robusta
-35090171,{Param1} Belt,{Param3} equipado em {Param2}.,Fighter’s,Waist,Armadura robusta
-35090012,{Param1} Belt,{Param3} equipado em {Param2}.,Thief’s,Waist,Armadura robusta
-35090022,{Param1} Belt,{Param3} equipado em {Param2}.,Raider’s,Waist,Armadura robusta
-35090032,{Param1} Belt,{Param3} equipado em {Param2}.,Monster Hunter’s,Waist,Armadura robusta
-35090042,{Param1} Belt,{Param3} equipado em {Param2}.,Butcher’s,Waist,Armadura robusta
-35090052,{Param1} Belt,{Param3} equipado em {Param2}.,Battle,Waist,Armadura robusta
-35090062,{Param1} Belt,{Param3} equipado em {Param2}.,Follower’s,Waist,Armadura robusta
-35090072,{Param1} Belt,{Param3} equipado em {Param2}.,Rebel’s,Waist,Armadura robusta
-35090082,{Param1} Belt,{Param3} equipado em {Param2}.,Master’s,Waist,Armadura robusta
-35090092,{Param1} Belt,{Param3} equipado em {Param2}.,Enchanted,Waist,Armadura robusta
-35090102,{Param1} Belt,{Param3} equipado em {Param2}.,Commander’s,Waist,Armadura robusta
-35090112,{Param1} Belt,{Param3} equipado em {Param2}.,Adamant,Waist,Armadura robusta
-35090122,{Param1} Belt,{Param3} equipado em {Param2}.,Old,Waist,Armadura robusta
-35090132,{Param1} Belt,{Param3} equipado em {Param2}.,Guard’s,Waist,Armadura robusta
-35090142,{Param1} Belt,{Param3} equipado em {Param2}.,Delicate,Waist,Armadura robusta
-35090152,{Param1} Belt,{Param3} equipado em {Param2}.,Noticeable,Waist,Armadura robusta
-35090162,{Param1} Belt,{Param3} equipado em {Param2}.,Reinforced,Waist,Armadura robusta
-35090172,{Param1} Belt,{Param3} equipado em {Param2}.,Artificial,Waist,Armadura robusta
-35090013,{Param1} Belt,{Param3} equipado em {Param2}.,Hermit’s,Waist,Armadura robusta
-35090023,{Param1} Belt,{Param3} equipado em {Param2}.,Prophet’s,Waist,Armadura robusta
-35090033,{Param1} Belt,{Param3} equipado em {Param2}.,Authoritative,Waist,Armadura robusta
-35090043,{Param1} Belt,{Param3} equipado em {Param2}.,Noble’s,Waist,Armadura robusta
-35090053,{Param1} Belt,{Param3} equipado em {Param2}.,Executor’s,Waist,Armadura robusta
-35090063,{Param1} Belt,{Param3} equipado em {Param2}.,Judge’s,Waist,Armadura robusta
-35090073,{Param1} Belt,{Param3} equipado em {Param2}.,Lord’s,Waist,Armadura robusta
-35090083,{Param1} Belt,{Param3} equipado em {Param2}.,Exile’s,Waist,Armadura robusta
-35090093,{Param1} Belt,{Param3} equipado em {Param2}.,Dawn,Waist,Armadura robusta
-35090103,{Param1} Belt,{Param3} equipado em {Param2}.,Blue Sky,Waist,Armadura robusta
-35090113,{Param1} Belt,{Param3} equipado em {Param2}.,Twilight,Waist,Armadura robusta
-35090123,{Param1} Belt,{Param3} equipado em {Param2}.,Night,Waist,Armadura robusta
-35090133,{Param1} Belt,{Param3} equipado em {Param2}.,Mist,Waist,Armadura robusta
-35090143,{Param1} Belt,{Param3} equipado em {Param2}.,Harvest,Waist,Armadura robusta
-35090153,{Param1} Belt,{Param3} equipado em {Param2}.,Frost,Waist,Armadura robusta
-35090163,{Param1} Belt,{Param3} equipado em {Param2}.,Silent,Waist,Armadura robusta
-35090173,{Param1} Belt,{Param3} equipado em {Param2}.,Of Oblivion,Waist,Armadura robusta
-35090183,{Param1} Belt,{Param3} equipado em {Param2}.,Knight’s,Waist,Armadura robusta
-35090193,{Param1} Belt,{Param3} equipado em {Param2}.,Confident,Waist,Armadura robusta
-35090203,{Param1} Belt,{Param3} equipado em {Param2}.,Beast’s,Waist,Armadura robusta
-35090213,{Param1} Belt,{Param3} equipado em {Param2}.,of Steel,Waist,Armadura robusta
-35090223,{Param1} Belt,{Param3} equipado em {Param2}.,Antique,Waist,Armadura robusta
-35090233,{Param1} Belt,{Param3} equipado em {Param2}.,of Ascension,Waist,Armadura robusta
-35090243,{Param1} Belt,{Param3} equipado em {Param2}.,of Ominous,Waist,Armadura robusta
-35090253,{Param1} Belt,{Param3} equipado em {Param2}.,Old Kingdom’s,Waist,Armadura robusta
-35090014,{Param1} Belt,{Param3} equipado em {Param2}.,Slayer’s,Waist,Armadura robusta
-35090024,{Param1} Belt,{Param3} equipado em {Param2}.,Beserker’s,Waist,Armadura robusta
-35090034,{Param1} Belt,{Param3} equipado em {Param2}.,Destroyer’s,Waist,Armadura robusta
-35090044,{Param1} Belt,{Param3} equipado em {Param2}.,Nightmare,Waist,Armadura robusta
-35090054,{Param1} Belt,{Param3} equipado em {Param2}.,Tyrant’s,Waist,Armadura robusta
-35090064,{Param1} Belt,{Param3} equipado em {Param2}.,High General’s,Waist,Armadura robusta
-35090074,{Param1} Belt,{Param3} equipado em {Param2}.,Priest’s,Waist,Armadura robusta
-35090084,{Param1} Belt,{Param3} equipado em {Param2}.,Glorious,Waist,Armadura robusta
-35090094,{Param1} Belt,{Param3} equipado em {Param2}.,Ruler’s,Waist,Armadura robusta
-35090104,{Param1} Belt,{Param3} equipado em {Param2}.,Shadow,Waist,Armadura robusta
-35090015,{Param1} Belt,{Param3} equipado em {Param2}.,Ancient,Waist,Armadura robusta
-35090025,{Param1} Belt,{Param3} equipado em {Param2}.,Gudua’s,Waist,Armadura robusta
-35090035,{Param1} Belt,{Param3} equipado em {Param2}.,of Frost,Waist,Armadura robusta
-35090016,{Param1} Belt,{Param3} equipado em {Param2}.,The Absolute’s,Waist,Armadura robusta
-36090011,{Param1} Gloves,{Param3} equipado em {Param2}.,Ruined Leather,Hand,Armadura robusta
-36090021,{Param1} Gloves,{Param3} equipado em {Param2}.,Fallen One’s,Hand,Armadura robusta
-36090031,{Param1} Gloves,{Param3} equipado em {Param2}.,Worn,Hand,Armadura robusta
-36090041,{Param1} Gloves,{Param3} equipado em {Param2}.,Outlaw’s,Hand,Armadura robusta
-36090051,{Param1} Gloves,{Param3} equipado em {Param2}.,Trainee’s,Hand,Armadura robusta
-36090061,{Param1} Gloves,{Param3} equipado em {Param2}.,Adventurer’s,Hand,Armadura robusta
-36090071,{Param1} Gloves,{Param3} equipado em {Param2}.,Soldier’s,Hand,Armadura robusta
-36090081,{Param1} Gloves,{Param3} equipado em {Param2}.,Mercenary’s,Hand,Armadura robusta
-36090091,{Param1} Gloves,{Param3} equipado em {Param2}.,Ornament,Hand,Armadura robusta
-36090101,{Param1} Gloves,{Param3} equipado em {Param2}.,Cursed,Hand,Armadura robusta
-36090111,{Param1} Gloves,{Param3} equipado em {Param2}.,Refined,Hand,Armadura robusta
-36090121,{Param1} Gloves,{Param3} equipado em {Param2}.,Worn,Hand,Armadura robusta
-36090131,{Param1} Gloves,{Param3} equipado em {Param2}.,Corroded,Hand,Armadura robusta
-36090141,{Param1} Gloves,{Param3} equipado em {Param2}.,Apprentice’s,Hand,Armadura robusta
-36090151,{Param1} Gloves,{Param3} equipado em {Param2}.,Wanderer’s,Hand,Armadura robusta
-36090161,{Param1} Gloves,{Param3} equipado em {Param2}.,Heretic’s,Hand,Armadura robusta
-36090171,{Param1} Gloves,{Param3} equipado em {Param2}.,Fighter’s,Hand,Armadura robusta
-36090012,{Param1} Gloves,{Param3} equipado em {Param2}.,Thief’s,Hand,Armadura robusta
-36090022,{Param1} Gloves,{Param3} equipado em {Param2}.,Raider’s,Hand,Armadura robusta
-36090032,{Param1} Gloves,{Param3} equipado em {Param2}.,Monster Hunter’s,Hand,Armadura robusta
-36090042,{Param1} Gloves,{Param3} equipado em {Param2}.,Butcher’s,Hand,Armadura robusta
-36090052,{Param1} Gloves,{Param3} equipado em {Param2}.,Battle,Hand,Armadura robusta
-36090062,{Param1} Gloves,{Param3} equipado em {Param2}.,Follower’s,Hand,Armadura robusta
-36090072,{Param1} Gloves,{Param3} equipado em {Param2}.,Rebel’s,Hand,Armadura robusta
-36090082,{Param1} Gloves,{Param3} equipado em {Param2}.,Master’s,Hand,Armadura robusta
-36090092,{Param1} Gloves,{Param3} equipado em {Param2}.,Enchanted,Hand,Armadura robusta
-36090102,{Param1} Gloves,{Param3} equipado em {Param2}.,Commander’s,Hand,Armadura robusta
-36090112,{Param1} Gloves,{Param3} equipado em {Param2}.,Adamant,Hand,Armadura robusta
-36090122,{Param1} Gloves,{Param3} equipado em {Param2}.,Old,Hand,Armadura robusta
-36090132,{Param1} Gloves,{Param3} equipado em {Param2}.,Guard’s,Hand,Armadura robusta
-36090142,{Param1} Gloves,{Param3} equipado em {Param2}.,Delicate,Hand,Armadura robusta
-36090152,{Param1} Gloves,{Param3} equipado em {Param2}.,Noticeable,Hand,Armadura robusta
-36090162,{Param1} Gloves,{Param3} equipado em {Param2}.,Reinforced,Hand,Armadura robusta
-36090172,{Param1} Gloves,{Param3} equipado em {Param2}.,Artificial,Hand,Armadura robusta
-36090013,{Param1} Gloves,{Param3} equipado em {Param2}.,Hermit’s,Hand,Armadura robusta
-36090023,{Param1} Gloves,{Param3} equipado em {Param2}.,Prophet’s,Hand,Armadura robusta
-36090033,{Param1} Gloves,{Param3} equipado em {Param2}.,Authoritative,Hand,Armadura robusta
-36090043,{Param1} Gloves,{Param3} equipado em {Param2}.,Noble’s,Hand,Armadura robusta
-36090053,{Param1} Gloves,{Param3} equipado em {Param2}.,Executor’s,Hand,Armadura robusta
-36090063,{Param1} Gloves,{Param3} equipado em {Param2}.,Judge’s,Hand,Armadura robusta
-36090073,{Param1} Gloves,{Param3} equipado em {Param2}.,Lord’s,Hand,Armadura robusta
-36090083,{Param1} Gloves,{Param3} equipado em {Param2}.,Exile’s,Hand,Armadura robusta
-36090093,{Param1} Gloves,{Param3} equipado em {Param2}.,Dawn,Hand,Armadura robusta
-36090103,{Param1} Gloves,{Param3} equipado em {Param2}.,Blue Sky,Hand,Armadura robusta
-36090113,{Param1} Gloves,{Param3} equipado em {Param2}.,Twilight,Hand,Armadura robusta
-36090123,{Param1} Gloves,{Param3} equipado em {Param2}.,Night,Hand,Armadura robusta
-36090133,{Param1} Gloves,{Param3} equipado em {Param2}.,Mist,Hand,Armadura robusta
-36090143,{Param1} Gloves,{Param3} equipado em {Param2}.,Harvest,Hand,Armadura robusta
-36090153,{Param1} Gloves,{Param3} equipado em {Param2}.,Frost,Hand,Armadura robusta
-36090163,{Param1} Gloves,{Param3} equipado em {Param2}.,Silent,Hand,Armadura robusta
-36090173,{Param1} Gloves,{Param3} equipado em {Param2}.,Of Oblivion,Hand,Armadura robusta
-36090183,{Param1} Gloves,{Param3} equipado em {Param2}.,Knight’s,Hand,Armadura robusta
-36090193,{Param1} Gloves,{Param3} equipado em {Param2}.,Confident,Hand,Armadura robusta
-36090203,{Param1} Gloves,{Param3} equipado em {Param2}.,Beast’s,Hand,Armadura robusta
-36090213,{Param1} Gloves,{Param3} equipado em {Param2}.,of Steel,Hand,Armadura robusta
-36090223,{Param1} Gloves,{Param3} equipado em {Param2}.,Antique,Hand,Armadura robusta
-36090233,{Param1} Gloves,{Param3} equipado em {Param2}.,of Ascension,Hand,Armadura robusta
-36090243,{Param1} Gloves,{Param3} equipado em {Param2}.,of Ominous,Hand,Armadura robusta
-36090253,{Param1} Gloves,{Param3} equipado em {Param2}.,Old Kingdom’s,Hand,Armadura robusta
-36090014,{Param1} Gloves,{Param3} equipado em {Param2}.,Slayer’s,Hand,Armadura robusta
-36090024,{Param1} Gloves,{Param3} equipado em {Param2}.,Beserker’s,Hand,Armadura robusta
-36090034,{Param1} Gloves,{Param3} equipado em {Param2}.,Destroyer’s,Hand,Armadura robusta
-36090044,{Param1} Gloves,{Param3} equipado em {Param2}.,Nightmare,Hand,Armadura robusta
-36090054,{Param1} Gloves,{Param3} equipado em {Param2}.,Tyrant’s,Hand,Armadura robusta
-36090064,{Param1} Gloves,{Param3} equipado em {Param2}.,High General’s,Hand,Armadura robusta
-36090074,{Param1} Gloves,{Param3} equipado em {Param2}.,Priest’s,Hand,Armadura robusta
-36090084,{Param1} Gloves,{Param3} equipado em {Param2}.,Glorious,Hand,Armadura robusta
-36090094,{Param1} Gloves,{Param3} equipado em {Param2}.,Ruler’s,Hand,Armadura robusta
-36090104,{Param1} Gloves,{Param3} equipado em {Param2}.,Shadow,Hand,Armadura robusta
-36090015,{Param1} Gloves,{Param3} equipado em {Param2}.,Ancient,Hand,Armadura robusta
-36090025,{Param1} Gloves,{Param3} equipado em {Param2}.,Gudua’s,Hand,Armadura robusta
-36090035,{Param1} Gloves,{Param3} equipado em {Param2}.,of Frost,Hand,Armadura robusta
-36090016,{Param1} Gloves,{Param3} equipado em {Param2}.,The Absolute’s,Hand,Armadura robusta
-37090011,{Param1} Shoes,{Param3} equipado em {Param2}.,Ruined Leather,Foot,Armadura robusta
-37090021,{Param1} Shoes,{Param3} equipado em {Param2}.,Fallen One’s,Foot,Armadura robusta
-37090031,{Param1} Shoes,{Param3} equipado em {Param2}.,Worn,Foot,Armadura robusta
-37090041,{Param1} Shoes,{Param3} equipado em {Param2}.,Outlaw’s,Foot,Armadura robusta
-37090051,{Param1} Shoes,{Param3} equipado em {Param2}.,Trainee’s,Foot,Armadura robusta
-37090061,{Param1} Shoes,{Param3} equipado em {Param2}.,Adventurer’s,Foot,Armadura robusta
-37090071,{Param1} Shoes,{Param3} equipado em {Param2}.,Soldier’s,Foot,Armadura robusta
-37090081,{Param1} Shoes,{Param3} equipado em {Param2}.,Mercenary’s,Foot,Armadura robusta
-37090091,{Param1} Shoes,{Param3} equipado em {Param2}.,Ornament,Foot,Armadura robusta
-37090101,{Param1} Shoes,{Param3} equipado em {Param2}.,Cursed,Foot,Armadura robusta
-37090111,{Param1} Shoes,{Param3} equipado em {Param2}.,Refined,Foot,Armadura robusta
-37090121,{Param1} Shoes,{Param3} equipado em {Param2}.,Worn,Foot,Armadura robusta
-37090131,{Param1} Shoes,{Param3} equipado em {Param2}.,Corroded,Foot,Armadura robusta
-37090141,{Param1} Shoes,{Param3} equipado em {Param2}.,Apprentice’s,Foot,Armadura robusta
-37090151,{Param1} Shoes,{Param3} equipado em {Param2}.,Wanderer’s,Foot,Armadura robusta
-37090161,{Param1} Shoes,{Param3} equipado em {Param2}.,Heretic’s,Foot,Armadura robusta
-37090171,{Param1} Shoes,{Param3} equipado em {Param2}.,Fighter’s,Foot,Armadura robusta
-37090012,{Param1} Shoes,{Param3} equipado em {Param2}.,Thief’s,Foot,Armadura robusta
-37090022,{Param1} Shoes,{Param3} equipado em {Param2}.,Raider’s,Foot,Armadura robusta
-37090032,{Param1} Shoes,{Param3} equipado em {Param2}.,Monster Hunter’s,Foot,Armadura robusta
-37090042,{Param1} Shoes,{Param3} equipado em {Param2}.,Butcher’s,Foot,Armadura robusta
-37090052,{Param1} Shoes,{Param3} equipado em {Param2}.,Battle,Foot,Armadura robusta
-37090062,{Param1} Shoes,{Param3} equipado em {Param2}.,Follower’s,Foot,Armadura robusta
-37090072,{Param1} Shoes,{Param3} equipado em {Param2}.,Rebel’s,Foot,Armadura robusta
-37090082,{Param1} Shoes,{Param3} equipado em {Param2}.,Master’s,Foot,Armadura robusta
-37090092,{Param1} Shoes,{Param3} equipado em {Param2}.,Enchanted,Foot,Armadura robusta
-37090102,{Param1} Shoes,{Param3} equipado em {Param2}.,Commander’s,Foot,Armadura robusta
-37090112,{Param1} Shoes,{Param3} equipado em {Param2}.,Adamant,Foot,Armadura robusta
-37090122,{Param1} Shoes,{Param3} equipado em {Param2}.,Old,Foot,Armadura robusta
-37090132,{Param1} Shoes,{Param3} equipado em {Param2}.,Guard’s,Foot,Armadura robusta
-37090142,{Param1} Shoes,{Param3} equipado em {Param2}.,Delicate,Foot,Armadura robusta
-37090152,{Param1} Shoes,{Param3} equipado em {Param2}.,Noticeable,Foot,Armadura robusta
-37090162,{Param1} Shoes,{Param3} equipado em {Param2}.,Reinforced,Foot,Armadura robusta
-37090172,{Param1} Shoes,{Param3} equipado em {Param2}.,Artificial,Foot,Armadura robusta
-37090013,{Param1} Shoes,{Param3} equipado em {Param2}.,Hermit’s,Foot,Armadura robusta
-37090023,{Param1} Shoes,{Param3} equipado em {Param2}.,Prophet’s,Foot,Armadura robusta
-37090033,{Param1} Shoes,{Param3} equipado em {Param2}.,Authoritative,Foot,Armadura robusta
-37090043,{Param1} Shoes,{Param3} equipado em {Param2}.,Noble’s,Foot,Armadura robusta
-37090053,{Param1} Shoes,{Param3} equipado em {Param2}.,Executor’s,Foot,Armadura robusta
-37090063,{Param1} Shoes,{Param3} equipado em {Param2}.,Judge’s,Foot,Armadura robusta
-37090073,{Param1} Shoes,{Param3} equipado em {Param2}.,Lord’s,Foot,Armadura robusta
-37090083,{Param1} Shoes,{Param3} equipado em {Param2}.,Exile’s,Foot,Armadura robusta
-37090093,{Param1} Shoes,{Param3} equipado em {Param2}.,Dawn,Foot,Armadura robusta
-37090103,{Param1} Shoes,{Param3} equipado em {Param2}.,Blue Sky,Foot,Armadura robusta
-37090113,{Param1} Shoes,{Param3} equipado em {Param2}.,Twilight,Foot,Armadura robusta
-37090123,{Param1} Shoes,{Param3} equipado em {Param2}.,Night,Foot,Armadura robusta
-37090133,{Param1} Shoes,{Param3} equipado em {Param2}.,Mist,Foot,Armadura robusta
-37090143,{Param1} Shoes,{Param3} equipado em {Param2}.,Harvest,Foot,Armadura robusta
-37090153,{Param1} Shoes,{Param3} equipado em {Param2}.,Frost,Foot,Armadura robusta
-37090163,{Param1} Shoes,{Param3} equipado em {Param2}.,Silent,Foot,Armadura robusta
-37090173,{Param1} Shoes,{Param3} equipado em {Param2}.,Of Oblivion,Foot,Armadura robusta
-37090183,{Param1} Shoes,{Param3} equipado em {Param2}.,Knight’s,Foot,Armadura robusta
-37090193,{Param1} Shoes,{Param3} equipado em {Param2}.,Confident,Foot,Armadura robusta
-37090203,{Param1} Shoes,{Param3} equipado em {Param2}.,Beast’s,Foot,Armadura robusta
-37090213,{Param1} Shoes,{Param3} equipado em {Param2}.,of Steel,Foot,Armadura robusta
-37090223,{Param1} Shoes,{Param3} equipado em {Param2}.,Antique,Foot,Armadura robusta
-37090233,{Param1} Shoes,{Param3} equipado em {Param2}.,of Ascension,Foot,Armadura robusta
-37090243,{Param1} Shoes,{Param3} equipado em {Param2}.,of Ominous,Foot,Armadura robusta
-37090253,{Param1} Shoes,{Param3} equipado em {Param2}.,Old Kingdom’s,Foot,Armadura robusta
-37090014,{Param1} Shoes,{Param3} equipado em {Param2}.,Slayer’s,Foot,Armadura robusta
-37090024,{Param1} Shoes,{Param3} equipado em {Param2}.,Beserker’s,Foot,Armadura robusta
-37090034,{Param1} Shoes,{Param3} equipado em {Param2}.,Destroyer’s,Foot,Armadura robusta
-37090044,{Param1} Shoes,{Param3} equipado em {Param2}.,Nightmare,Foot,Armadura robusta
-37090054,{Param1} Shoes,{Param3} equipado em {Param2}.,Tyrant’s,Foot,Armadura robusta
-37090064,{Param1} Shoes,{Param3} equipado em {Param2}.,High General’s,Foot,Armadura robusta
-37090074,{Param1} Shoes,{Param3} equipado em {Param2}.,Priest’s,Foot,Armadura robusta
-37090084,{Param1} Shoes,{Param3} equipado em {Param2}.,Glorious,Foot,Armadura robusta
-37090094,{Param1} Shoes,{Param3} equipado em {Param2}.,Ruler’s,Foot,Armadura robusta
-37090104,{Param1} Shoes,{Param3} equipado em {Param2}.,Shadow,Foot,Armadura robusta
-37090015,{Param1} Shoes,{Param3} equipado em {Param2}.,Ancient,Foot,Armadura robusta
-37090025,{Param1} Shoes,{Param3} equipado em {Param2}.,Gudua’s,Foot,Armadura robusta
-37090035,{Param1} Shoes,{Param3} equipado em {Param2}.,of Frost,Foot,Armadura robusta
-37090016,{Param1} Shoes,{Param3} equipado em {Param2}.,The Absolute’s,Foot,Armadura robusta
-38090011,{Param1} Cape,{Param3} equipado em {Param2}.,Ruined Leather,Back,Armadura robusta
-38090021,{Param1} Cape,{Param3} equipado em {Param2}.,Fallen One’s,Back,Armadura robusta
-38090031,{Param1} Cape,{Param3} equipado em {Param2}.,Worn,Back,Armadura robusta
-38090041,{Param1} Cape,{Param3} equipado em {Param2}.,Outlaw’s,Back,Armadura robusta
-38090051,{Param1} Cape,{Param3} equipado em {Param2}.,Trainee’s,Back,Armadura robusta
-38090061,{Param1} Cape,{Param3} equipado em {Param2}.,Adventurer’s,Back,Armadura robusta
-38090071,{Param1} Cape,{Param3} equipado em {Param2}.,Soldier’s,Back,Armadura robusta
-38090081,{Param1} Cape,{Param3} equipado em {Param2}.,Mercenary’s,Back,Armadura robusta
-38090091,{Param1} Cape,{Param3} equipado em {Param2}.,Ornament,Back,Armadura robusta
-38090101,{Param1} Cape,{Param3} equipado em {Param2}.,Cursed,Back,Armadura robusta
-38090111,{Param1} Cape,{Param3} equipado em {Param2}.,Refined,Back,Armadura robusta
-38090121,{Param1} Cape,{Param3} equipado em {Param2}.,Worn,Back,Armadura robusta
-38090131,{Param1} Cape,{Param3} equipado em {Param2}.,Corroded,Back,Armadura robusta
-38090141,{Param1} Cape,{Param3} equipado em {Param2}.,Apprentice’s,Back,Armadura robusta
-38090151,{Param1} Cape,{Param3} equipado em {Param2}.,Wanderer’s,Back,Armadura robusta
-38090161,{Param1} Cape,{Param3} equipado em {Param2}.,Heretic’s,Back,Armadura robusta
-38090171,{Param1} Cape,{Param3} equipado em {Param2}.,Fighter’s,Back,Armadura robusta
-38090012,{Param1} Cape,{Param3} equipado em {Param2}.,Thief’s,Back,Armadura robusta
-38090022,{Param1} Cape,{Param3} equipado em {Param2}.,Raider’s,Back,Armadura robusta
-38090032,{Param1} Cape,{Param3} equipado em {Param2}.,Monster Hunter’s,Back,Armadura robusta
-38090042,{Param1} Cape,{Param3} equipado em {Param2}.,Butcher’s,Back,Armadura robusta
-38090052,{Param1} Cape,{Param3} equipado em {Param2}.,Battle,Back,Armadura robusta
-38090062,{Param1} Cape,{Param3} equipado em {Param2}.,Follower’s,Back,Armadura robusta
-38090072,{Param1} Cape,{Param3} equipado em {Param2}.,Rebel’s,Back,Armadura robusta
-38090082,{Param1} Cape,{Param3} equipado em {Param2}.,Master’s,Back,Armadura robusta
-38090092,{Param1} Cape,{Param3} equipado em {Param2}.,Enchanted,Back,Armadura robusta
-38090102,{Param1} Cape,{Param3} equipado em {Param2}.,Commander’s,Back,Armadura robusta
-38090112,{Param1} Cape,{Param3} equipado em {Param2}.,Adamant,Back,Armadura robusta
-38090122,{Param1} Cape,{Param3} equipado em {Param2}.,Old,Back,Armadura robusta
-38090132,{Param1} Cape,{Param3} equipado em {Param2}.,Guard’s,Back,Armadura robusta
-38090142,{Param1} Cape,{Param3} equipado em {Param2}.,Delicate,Back,Armadura robusta
-38090152,{Param1} Cape,{Param3} equipado em {Param2}.,Noticeable,Back,Armadura robusta
-38090162,{Param1} Cape,{Param3} equipado em {Param2}.,Reinforced,Back,Armadura robusta
-38090172,{Param1} Cape,{Param3} equipado em {Param2}.,Artificial,Back,Armadura robusta
-38090013,{Param1} Cape,{Param3} equipado em {Param2}.,Hermit’s,Back,Armadura robusta
-38090023,{Param1} Cape,{Param3} equipado em {Param2}.,Prophet’s,Back,Armadura robusta
-38090033,{Param1} Cape,{Param3} equipado em {Param2}.,Authoritative,Back,Armadura robusta
-38090043,{Param1} Cape,{Param3} equipado em {Param2}.,Noble’s,Back,Armadura robusta
-38090053,{Param1} Cape,{Param3} equipado em {Param2}.,Executor’s,Back,Armadura robusta
-38090063,{Param1} Cape,{Param3} equipado em {Param2}.,Judge’s,Back,Armadura robusta
-38090073,{Param1} Cape,{Param3} equipado em {Param2}.,Lord’s,Back,Armadura robusta
-38090083,{Param1} Cape,{Param3} equipado em {Param2}.,Exile’s,Back,Armadura robusta
-38090093,{Param1} Cape,{Param3} equipado em {Param2}.,Dawn,Back,Armadura robusta
-38090103,{Param1} Cape,{Param3} equipado em {Param2}.,Blue Sky,Back,Armadura robusta
-38090113,{Param1} Cape,{Param3} equipado em {Param2}.,Twilight,Back,Armadura robusta
-38090123,{Param1} Cape,{Param3} equipado em {Param2}.,Night,Back,Armadura robusta
-38090133,{Param1} Cape,{Param3} equipado em {Param2}.,Mist,Back,Armadura robusta
-38090143,{Param1} Cape,{Param3} equipado em {Param2}.,Harvest,Back,Armadura robusta
-38090153,{Param1} Cape,{Param3} equipado em {Param2}.,Frost,Back,Armadura robusta
-38090163,{Param1} Cape,{Param3} equipado em {Param2}.,Silent,Back,Armadura robusta
-38090173,{Param1} Cape,{Param3} equipado em {Param2}.,Of Oblivion,Back,Armadura robusta
-38090183,{Param1} Cape,{Param3} equipado em {Param2}.,Knight’s,Back,Armadura robusta
-38090193,{Param1} Cape,{Param3} equipado em {Param2}.,Confident,Back,Armadura robusta
-38090203,{Param1} Cape,{Param3} equipado em {Param2}.,Beast’s,Back,Armadura robusta
-38090213,{Param1} Cape,{Param3} equipado em {Param2}.,of Steel,Back,Armadura robusta
-38090223,{Param1} Cape,{Param3} equipado em {Param2}.,Antique,Back,Armadura robusta
-38090233,{Param1} Cape,{Param3} equipado em {Param2}.,of Ascension,Back,Armadura robusta
-38090243,{Param1} Cape,{Param3} equipado em {Param2}.,of Ominous,Back,Armadura robusta
-38090253,{Param1} Cape,{Param3} equipado em {Param2}.,Old Kingdom’s,Back,Armadura robusta
-38090014,{Param1} Cape,{Param3} equipado em {Param2}.,Slayer’s,Back,Armadura robusta
-38090024,{Param1} Cape,{Param3} equipado em {Param2}.,Beserker’s,Back,Armadura robusta
-38090034,{Param1} Cape,{Param3} equipado em {Param2}.,Destroyer’s,Back,Armadura robusta
-38090044,{Param1} Cape,{Param3} equipado em {Param2}.,Nightmare,Back,Armadura robusta
-38090054,{Param1} Cape,{Param3} equipado em {Param2}.,Tyrant’s,Back,Armadura robusta
-38090064,{Param1} Cape,{Param3} equipado em {Param2}.,High General’s,Back,Armadura robusta
-38090074,{Param1} Cape,{Param3} equipado em {Param2}.,Priest’s,Back,Armadura robusta
-38090084,{Param1} Cape,{Param3} equipado em {Param2}.,Glorious,Back,Armadura robusta
-38090094,{Param1} Cape,{Param3} equipado em {Param2}.,Ruler’s,Back,Armadura robusta
-38090104,{Param1} Cape,{Param3} equipado em {Param2}.,Shadow,Back,Armadura robusta
-38090015,{Param1} Cape,{Param3} equipado em {Param2}.,Ancient,Back,Armadura robusta
-38090025,{Param1} Cape,{Param3} equipado em {Param2}.,Gudua’s,Back,Armadura robusta
-38090035,{Param1} Cape,{Param3} equipado em {Param2}.,of Frost,Back,Armadura robusta
-38090016,{Param1} Cape,{Param3} equipado em {Param2}.,The Absolute’s,Back,Armadura robusta
+31090011,{Param1} Helm,{Param3} equipado em {Param2}.,Ruined Leather,Head,Sturdy Armor
+31090021,{Param1} Helm,{Param3} equipado em {Param2}.,Fallen One’s,Head,Sturdy Armor
+31090031,{Param1} Helm,{Param3} equipado em {Param2}.,Worn,Head,Sturdy Armor
+31090041,{Param1} Helm,{Param3} equipado em {Param2}.,Outlaw’s,Head,Sturdy Armor
+31090051,{Param1} Helm,{Param3} equipado em {Param2}.,Trainee’s,Head,Sturdy Armor
+31090061,{Param1} Helm,{Param3} equipado em {Param2}.,Adventurer’s,Head,Sturdy Armor
+31090071,{Param1} Helm,{Param3} equipado em {Param2}.,Soldier’s,Head,Sturdy Armor
+31090081,{Param1} Helm,{Param3} equipado em {Param2}.,Mercenary’s,Head,Sturdy Armor
+31090091,{Param1} Helm,{Param3} equipado em {Param2}.,Ornament,Head,Sturdy Armor
+31090101,{Param1} Helm,{Param3} equipado em {Param2}.,Cursed,Head,Sturdy Armor
+31090111,{Param1} Helm,{Param3} equipado em {Param2}.,Refined,Head,Sturdy Armor
+31090121,{Param1} Helm,{Param3} equipado em {Param2}.,Worn,Head,Sturdy Armor
+31090131,{Param1} Helm,{Param3} equipado em {Param2}.,Corroded,Head,Sturdy Armor
+31090141,{Param1} Helm,{Param3} equipado em {Param2}.,Apprentice’s,Head,Sturdy Armor
+31090151,{Param1} Helm,{Param3} equipado em {Param2}.,Wanderer’s,Head,Sturdy Armor
+31090161,{Param1} Helm,{Param3} equipado em {Param2}.,Heretic’s,Head,Sturdy Armor
+31090171,{Param1} Helm,{Param3} equipado em {Param2}.,Fighter’s,Head,Sturdy Armor
+31090012,{Param1} Helm,{Param3} equipado em {Param2}.,Thief’s,Head,Sturdy Armor
+31090022,{Param1} Helm,{Param3} equipado em {Param2}.,Raider’s,Head,Sturdy Armor
+31090032,{Param1} Helm,{Param3} equipado em {Param2}.,Monster Hunter’s,Head,Sturdy Armor
+31090042,{Param1} Helm,{Param3} equipado em {Param2}.,Butcher’s,Head,Sturdy Armor
+31090052,{Param1} Helm,{Param3} equipado em {Param2}.,Battle,Head,Sturdy Armor
+31090062,{Param1} Helm,{Param3} equipado em {Param2}.,Follower’s,Head,Sturdy Armor
+31090072,{Param1} Helm,{Param3} equipado em {Param2}.,Rebel’s,Head,Sturdy Armor
+31090082,{Param1} Helm,{Param3} equipado em {Param2}.,Master’s,Head,Sturdy Armor
+31090092,{Param1} Helm,{Param3} equipado em {Param2}.,Enchanted,Head,Sturdy Armor
+31090102,{Param1} Helm,{Param3} equipado em {Param2}.,Commander’s,Head,Sturdy Armor
+31090112,{Param1} Helm,{Param3} equipado em {Param2}.,Adamant,Head,Sturdy Armor
+31090122,{Param1} Helm,{Param3} equipado em {Param2}.,Old,Head,Sturdy Armor
+31090132,{Param1} Helm,{Param3} equipado em {Param2}.,Guard’s,Head,Sturdy Armor
+31090142,{Param1} Helm,{Param3} equipado em {Param2}.,Delicate,Head,Sturdy Armor
+31090152,{Param1} Helm,{Param3} equipado em {Param2}.,Noticeable,Head,Sturdy Armor
+31090162,{Param1} Helm,{Param3} equipado em {Param2}.,Reinforced,Head,Sturdy Armor
+31090172,{Param1} Helm,{Param3} equipado em {Param2}.,Artificial,Head,Sturdy Armor
+31090013,{Param1} Helm,{Param3} equipado em {Param2}.,Hermit’s,Head,Sturdy Armor
+31090023,{Param1} Helm,{Param3} equipado em {Param2}.,Prophet’s,Head,Sturdy Armor
+31090033,{Param1} Helm,{Param3} equipado em {Param2}.,Authoritative,Head,Sturdy Armor
+31090043,{Param1} Helm,{Param3} equipado em {Param2}.,Noble’s,Head,Sturdy Armor
+31090053,{Param1} Helm,{Param3} equipado em {Param2}.,Executor’s,Head,Sturdy Armor
+31090063,{Param1} Helm,{Param3} equipado em {Param2}.,Judge’s,Head,Sturdy Armor
+31090073,{Param1} Helm,{Param3} equipado em {Param2}.,Lord’s,Head,Sturdy Armor
+31090083,{Param1} Helm,{Param3} equipado em {Param2}.,Exile’s,Head,Sturdy Armor
+31090093,{Param1} Helm,{Param3} equipado em {Param2}.,Dawn,Head,Sturdy Armor
+31090103,{Param1} Helm,{Param3} equipado em {Param2}.,Blue Sky,Head,Sturdy Armor
+31090113,{Param1} Helm,{Param3} equipado em {Param2}.,Twilight,Head,Sturdy Armor
+31090123,{Param1} Helm,{Param3} equipado em {Param2}.,Night,Head,Sturdy Armor
+31090133,{Param1} Helm,{Param3} equipado em {Param2}.,Mist,Head,Sturdy Armor
+31090143,{Param1} Helm,{Param3} equipado em {Param2}.,Harvest,Head,Sturdy Armor
+31090153,{Param1} Helm,{Param3} equipado em {Param2}.,Frost,Head,Sturdy Armor
+31090163,{Param1} Helm,{Param3} equipado em {Param2}.,Silent,Head,Sturdy Armor
+31090173,{Param1} Helm,{Param3} equipado em {Param2}.,Of Oblivion,Head,Sturdy Armor
+31090183,{Param1} Helm,{Param3} equipado em {Param2}.,Knight’s,Head,Sturdy Armor
+31090193,{Param1} Helm,{Param3} equipado em {Param2}.,Confident,Head,Sturdy Armor
+31090203,{Param1} Helm,{Param3} equipado em {Param2}.,Beast’s,Head,Sturdy Armor
+31090213,{Param1} Helm,{Param3} equipado em {Param2}.,of Steel,Head,Sturdy Armor
+31090223,{Param1} Helm,{Param3} equipado em {Param2}.,Antique,Head,Sturdy Armor
+31090233,{Param1} Helm,{Param3} equipado em {Param2}.,of Ascension,Head,Sturdy Armor
+31090243,{Param1} Helm,{Param3} equipado em {Param2}.,of Ominous,Head,Sturdy Armor
+31090253,{Param1} Helm,{Param3} equipado em {Param2}.,Old Kingdom’s,Head,Sturdy Armor
+31090014,{Param1} Helm,{Param3} equipado em {Param2}.,Slayer’s,Head,Sturdy Armor
+31090024,{Param1} Helm,{Param3} equipado em {Param2}.,Beserker’s,Head,Sturdy Armor
+31090034,{Param1} Helm,{Param3} equipado em {Param2}.,Destroyer’s,Head,Sturdy Armor
+31090044,{Param1} Helm,{Param3} equipado em {Param2}.,Nightmare,Head,Sturdy Armor
+31090054,{Param1} Helm,{Param3} equipado em {Param2}.,Tyrant’s,Head,Sturdy Armor
+31090064,{Param1} Helm,{Param3} equipado em {Param2}.,High General’s,Head,Sturdy Armor
+31090074,{Param1} Helm,{Param3} equipado em {Param2}.,Priest’s,Head,Sturdy Armor
+31090084,{Param1} Helm,{Param3} equipado em {Param2}.,Glorious,Head,Sturdy Armor
+31090094,{Param1} Helm,{Param3} equipado em {Param2}.,Ruler’s,Head,Sturdy Armor
+31090104,{Param1} Helm,{Param3} equipado em {Param2}.,Shadow,Head,Sturdy Armor
+31090015,{Param1} Helm,{Param3} equipado em {Param2}.,Ancient,Head,Sturdy Armor
+31090025,{Param1} Helm,{Param3} equipado em {Param2}.,Gudua’s,Head,Sturdy Armor
+31090035,{Param1} Helm,{Param3} equipado em {Param2}.,of Frost,Head,Sturdy Armor
+31090016,{Param1} Helm,{Param3} equipado em {Param2}.,The Absolute’s,Head,Sturdy Armor
+32090011,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Ruined Leather,Shoulder,Sturdy Armor
+32090021,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Fallen One’s,Shoulder,Sturdy Armor
+32090031,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Worn,Shoulder,Sturdy Armor
+32090041,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Outlaw’s,Shoulder,Sturdy Armor
+32090051,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Trainee’s,Shoulder,Sturdy Armor
+32090061,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Adventurer’s,Shoulder,Sturdy Armor
+32090071,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Soldier’s,Shoulder,Sturdy Armor
+32090081,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Mercenary’s,Shoulder,Sturdy Armor
+32090091,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Ornament,Shoulder,Sturdy Armor
+32090101,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Cursed,Shoulder,Sturdy Armor
+32090111,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Refined,Shoulder,Sturdy Armor
+32090121,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Worn,Shoulder,Sturdy Armor
+32090131,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Corroded,Shoulder,Sturdy Armor
+32090141,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Apprentice’s,Shoulder,Sturdy Armor
+32090151,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Wanderer’s,Shoulder,Sturdy Armor
+32090161,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Heretic’s,Shoulder,Sturdy Armor
+32090171,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Fighter’s,Shoulder,Sturdy Armor
+32090012,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Thief’s,Shoulder,Sturdy Armor
+32090022,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Raider’s,Shoulder,Sturdy Armor
+32090032,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Monster Hunter’s,Shoulder,Sturdy Armor
+32090042,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Butcher’s,Shoulder,Sturdy Armor
+32090052,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Battle,Shoulder,Sturdy Armor
+32090062,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Follower’s,Shoulder,Sturdy Armor
+32090072,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Rebel’s,Shoulder,Sturdy Armor
+32090082,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Master’s,Shoulder,Sturdy Armor
+32090092,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Enchanted,Shoulder,Sturdy Armor
+32090102,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Commander’s,Shoulder,Sturdy Armor
+32090112,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Adamant,Shoulder,Sturdy Armor
+32090122,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Old,Shoulder,Sturdy Armor
+32090132,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Guard’s,Shoulder,Sturdy Armor
+32090142,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Delicate,Shoulder,Sturdy Armor
+32090152,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Noticeable,Shoulder,Sturdy Armor
+32090162,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Reinforced,Shoulder,Sturdy Armor
+32090172,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Artificial,Shoulder,Sturdy Armor
+32090013,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Hermit’s,Shoulder,Sturdy Armor
+32090023,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Prophet’s,Shoulder,Sturdy Armor
+32090033,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Authoritative,Shoulder,Sturdy Armor
+32090043,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Noble’s,Shoulder,Sturdy Armor
+32090053,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Executor’s,Shoulder,Sturdy Armor
+32090063,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Judge’s,Shoulder,Sturdy Armor
+32090073,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Lord’s,Shoulder,Sturdy Armor
+32090083,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Exile’s,Shoulder,Sturdy Armor
+32090093,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Dawn,Shoulder,Sturdy Armor
+32090103,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Blue Sky,Shoulder,Sturdy Armor
+32090113,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Twilight,Shoulder,Sturdy Armor
+32090123,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Night,Shoulder,Sturdy Armor
+32090133,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Mist,Shoulder,Sturdy Armor
+32090143,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Harvest,Shoulder,Sturdy Armor
+32090153,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Frost,Shoulder,Sturdy Armor
+32090163,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Silent,Shoulder,Sturdy Armor
+32090173,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Of Oblivion,Shoulder,Sturdy Armor
+32090183,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Knight’s,Shoulder,Sturdy Armor
+32090193,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Confident,Shoulder,Sturdy Armor
+32090203,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Beast’s,Shoulder,Sturdy Armor
+32090213,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,of Steel,Shoulder,Sturdy Armor
+32090223,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Antique,Shoulder,Sturdy Armor
+32090233,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,of Ascension,Shoulder,Sturdy Armor
+32090243,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,of Ominous,Shoulder,Sturdy Armor
+32090253,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Old Kingdom’s,Shoulder,Sturdy Armor
+32090014,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Slayer’s,Shoulder,Sturdy Armor
+32090024,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Beserker’s,Shoulder,Sturdy Armor
+32090034,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Destroyer’s,Shoulder,Sturdy Armor
+32090044,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Nightmare,Shoulder,Sturdy Armor
+32090054,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Tyrant’s,Shoulder,Sturdy Armor
+32090064,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,High General’s,Shoulder,Sturdy Armor
+32090074,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Priest’s,Shoulder,Sturdy Armor
+32090084,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Glorious,Shoulder,Sturdy Armor
+32090094,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Ruler’s,Shoulder,Sturdy Armor
+32090104,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Shadow,Shoulder,Sturdy Armor
+32090015,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Ancient,Shoulder,Sturdy Armor
+32090025,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,Gudua’s,Shoulder,Sturdy Armor
+32090035,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,of Frost,Shoulder,Sturdy Armor
+32090016,{Param1} Shoulder Armor,{Param3} equipado em {Param2}.,The Absolute’s,Shoulder,Sturdy Armor
+33090011,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Ruined Leather,Upper Body,Sturdy Armor
+33090021,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Fallen One’s,Upper Body,Sturdy Armor
+33090031,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Worn,Upper Body,Sturdy Armor
+33090041,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Outlaw’s,Upper Body,Sturdy Armor
+33090051,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Trainee’s,Upper Body,Sturdy Armor
+33090061,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Adventurer’s,Upper Body,Sturdy Armor
+33090071,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Soldier’s,Upper Body,Sturdy Armor
+33090081,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Mercenary’s,Upper Body,Sturdy Armor
+33090091,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Ornament,Upper Body,Sturdy Armor
+33090101,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Cursed,Upper Body,Sturdy Armor
+33090111,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Refined,Upper Body,Sturdy Armor
+33090121,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Worn,Upper Body,Sturdy Armor
+33090131,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Corroded,Upper Body,Sturdy Armor
+33090141,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Apprentice’s,Upper Body,Sturdy Armor
+33090151,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Wanderer’s,Upper Body,Sturdy Armor
+33090161,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Heretic’s,Upper Body,Sturdy Armor
+33090171,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Fighter’s,Upper Body,Sturdy Armor
+33090012,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Thief’s,Upper Body,Sturdy Armor
+33090022,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Raider’s,Upper Body,Sturdy Armor
+33090032,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Monster Hunter’s,Upper Body,Sturdy Armor
+33090042,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Butcher’s,Upper Body,Sturdy Armor
+33090052,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Battle,Upper Body,Sturdy Armor
+33090062,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Follower’s,Upper Body,Sturdy Armor
+33090072,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Rebel’s,Upper Body,Sturdy Armor
+33090082,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Master’s,Upper Body,Sturdy Armor
+33090092,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Enchanted,Upper Body,Sturdy Armor
+33090102,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Commander’s,Upper Body,Sturdy Armor
+33090112,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Adamant,Upper Body,Sturdy Armor
+33090122,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Old,Upper Body,Sturdy Armor
+33090132,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Guard’s,Upper Body,Sturdy Armor
+33090142,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Delicate,Upper Body,Sturdy Armor
+33090152,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Noticeable,Upper Body,Sturdy Armor
+33090162,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Reinforced,Upper Body,Sturdy Armor
+33090172,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Artificial,Upper Body,Sturdy Armor
+33090013,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Hermit’s,Upper Body,Sturdy Armor
+33090023,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Prophet’s,Upper Body,Sturdy Armor
+33090033,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Authoritative,Upper Body,Sturdy Armor
+33090043,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Noble’s,Upper Body,Sturdy Armor
+33090053,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Executor’s,Upper Body,Sturdy Armor
+33090063,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Judge’s,Upper Body,Sturdy Armor
+33090073,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Lord’s,Upper Body,Sturdy Armor
+33090083,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Exile’s,Upper Body,Sturdy Armor
+33090093,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Dawn,Upper Body,Sturdy Armor
+33090103,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Blue Sky,Upper Body,Sturdy Armor
+33090113,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Twilight,Upper Body,Sturdy Armor
+33090123,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Night,Upper Body,Sturdy Armor
+33090133,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Mist,Upper Body,Sturdy Armor
+33090143,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Harvest,Upper Body,Sturdy Armor
+33090153,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Frost,Upper Body,Sturdy Armor
+33090163,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Silent,Upper Body,Sturdy Armor
+33090173,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Of Oblivion,Upper Body,Sturdy Armor
+33090183,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Knight’s,Upper Body,Sturdy Armor
+33090193,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Confident,Upper Body,Sturdy Armor
+33090203,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Beast’s,Upper Body,Sturdy Armor
+33090213,{Param1} Chest Armor,{Param3} equipado em {Param2}.,of Steel,Upper Body,Sturdy Armor
+33090223,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Antique,Upper Body,Sturdy Armor
+33090233,{Param1} Chest Armor,{Param3} equipado em {Param2}.,of Ascension,Upper Body,Sturdy Armor
+33090243,{Param1} Chest Armor,{Param3} equipado em {Param2}.,of Ominous,Upper Body,Sturdy Armor
+33090253,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Old Kingdom’s,Upper Body,Sturdy Armor
+33090014,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Slayer’s,Upper Body,Sturdy Armor
+33090024,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Beserker’s,Upper Body,Sturdy Armor
+33090034,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Destroyer’s,Upper Body,Sturdy Armor
+33090044,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Nightmare,Upper Body,Sturdy Armor
+33090054,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Tyrant’s,Upper Body,Sturdy Armor
+33090064,{Param1} Chest Armor,{Param3} equipado em {Param2}.,High General’s,Upper Body,Sturdy Armor
+33090074,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Priest’s,Upper Body,Sturdy Armor
+33090084,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Glorious,Upper Body,Sturdy Armor
+33090094,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Ruler’s,Upper Body,Sturdy Armor
+33090104,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Shadow,Upper Body,Sturdy Armor
+33090015,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Ancient,Upper Body,Sturdy Armor
+33090025,{Param1} Chest Armor,{Param3} equipado em {Param2}.,Gudua’s,Upper Body,Sturdy Armor
+33090035,{Param1} Chest Armor,{Param3} equipado em {Param2}.,of Frost,Upper Body,Sturdy Armor
+33090016,{Param1} Chest Armor,{Param3} equipado em {Param2}.,The Absolute’s,Upper Body,Sturdy Armor
+34090011,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Ruined Leather,Lower Body,Sturdy Armor
+34090021,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Fallen One’s,Lower Body,Sturdy Armor
+34090031,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Worn,Lower Body,Sturdy Armor
+34090041,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Outlaw’s,Lower Body,Sturdy Armor
+34090051,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Trainee’s,Lower Body,Sturdy Armor
+34090061,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Adventurer’s,Lower Body,Sturdy Armor
+34090071,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Soldier’s,Lower Body,Sturdy Armor
+34090081,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Mercenary’s,Lower Body,Sturdy Armor
+34090091,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Ornament,Lower Body,Sturdy Armor
+34090101,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Cursed,Lower Body,Sturdy Armor
+34090111,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Refined,Lower Body,Sturdy Armor
+34090121,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Worn,Lower Body,Sturdy Armor
+34090131,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Corroded,Lower Body,Sturdy Armor
+34090141,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Apprentice’s,Lower Body,Sturdy Armor
+34090151,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Wanderer’s,Lower Body,Sturdy Armor
+34090161,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Heretic’s,Lower Body,Sturdy Armor
+34090171,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Fighter’s,Lower Body,Sturdy Armor
+34090012,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Thief’s,Lower Body,Sturdy Armor
+34090022,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Raider’s,Lower Body,Sturdy Armor
+34090032,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Monster Hunter’s,Lower Body,Sturdy Armor
+34090042,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Butcher’s,Lower Body,Sturdy Armor
+34090052,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Battle,Lower Body,Sturdy Armor
+34090062,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Follower’s,Lower Body,Sturdy Armor
+34090072,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Rebel’s,Lower Body,Sturdy Armor
+34090082,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Master’s,Lower Body,Sturdy Armor
+34090092,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Enchanted,Lower Body,Sturdy Armor
+34090102,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Commander’s,Lower Body,Sturdy Armor
+34090112,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Adamant,Lower Body,Sturdy Armor
+34090122,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Old,Lower Body,Sturdy Armor
+34090132,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Guard’s,Lower Body,Sturdy Armor
+34090142,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Delicate,Lower Body,Sturdy Armor
+34090152,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Noticeable,Lower Body,Sturdy Armor
+34090162,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Reinforced,Lower Body,Sturdy Armor
+34090172,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Artificial,Lower Body,Sturdy Armor
+34090013,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Hermit’s,Lower Body,Sturdy Armor
+34090023,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Prophet’s,Lower Body,Sturdy Armor
+34090033,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Authoritative,Lower Body,Sturdy Armor
+34090043,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Noble’s,Lower Body,Sturdy Armor
+34090053,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Executor’s,Lower Body,Sturdy Armor
+34090063,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Judge’s,Lower Body,Sturdy Armor
+34090073,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Lord’s,Lower Body,Sturdy Armor
+34090083,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Exile’s,Lower Body,Sturdy Armor
+34090093,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Dawn,Lower Body,Sturdy Armor
+34090103,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Blue Sky,Lower Body,Sturdy Armor
+34090113,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Twilight,Lower Body,Sturdy Armor
+34090123,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Night,Lower Body,Sturdy Armor
+34090133,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Mist,Lower Body,Sturdy Armor
+34090143,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Harvest,Lower Body,Sturdy Armor
+34090153,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Frost,Lower Body,Sturdy Armor
+34090163,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Silent,Lower Body,Sturdy Armor
+34090173,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Of Oblivion,Lower Body,Sturdy Armor
+34090183,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Knight’s,Lower Body,Sturdy Armor
+34090193,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Confident,Lower Body,Sturdy Armor
+34090203,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Beast’s,Lower Body,Sturdy Armor
+34090213,{Param1} Leg Armor,{Param3} equipado em {Param2}.,of Steel,Lower Body,Sturdy Armor
+34090223,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Antique,Lower Body,Sturdy Armor
+34090233,{Param1} Leg Armor,{Param3} equipado em {Param2}.,of Ascension,Lower Body,Sturdy Armor
+34090243,{Param1} Leg Armor,{Param3} equipado em {Param2}.,of Ominous,Lower Body,Sturdy Armor
+34090253,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Old Kingdom’s,Lower Body,Sturdy Armor
+34090014,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Slayer’s,Lower Body,Sturdy Armor
+34090024,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Beserker’s,Lower Body,Sturdy Armor
+34090034,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Destroyer’s,Lower Body,Sturdy Armor
+34090044,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Nightmare,Lower Body,Sturdy Armor
+34090054,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Tyrant’s,Lower Body,Sturdy Armor
+34090064,{Param1} Leg Armor,{Param3} equipado em {Param2}.,High General’s,Lower Body,Sturdy Armor
+34090074,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Priest’s,Lower Body,Sturdy Armor
+34090084,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Glorious,Lower Body,Sturdy Armor
+34090094,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Ruler’s,Lower Body,Sturdy Armor
+34090104,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Shadow,Lower Body,Sturdy Armor
+34090015,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Ancient,Lower Body,Sturdy Armor
+34090025,{Param1} Leg Armor,{Param3} equipado em {Param2}.,Gudua’s,Lower Body,Sturdy Armor
+34090035,{Param1} Leg Armor,{Param3} equipado em {Param2}.,of Frost,Lower Body,Sturdy Armor
+34090016,{Param1} Leg Armor,{Param3} equipado em {Param2}.,The Absolute’s,Lower Body,Sturdy Armor
+35090011,{Param1} Belt,{Param3} equipado em {Param2}.,Ruined Leather,Waist,Sturdy Armor
+35090021,{Param1} Belt,{Param3} equipado em {Param2}.,Fallen One’s,Waist,Sturdy Armor
+35090031,{Param1} Belt,{Param3} equipado em {Param2}.,Worn,Waist,Sturdy Armor
+35090041,{Param1} Belt,{Param3} equipado em {Param2}.,Outlaw’s,Waist,Sturdy Armor
+35090051,{Param1} Belt,{Param3} equipado em {Param2}.,Trainee’s,Waist,Sturdy Armor
+35090061,{Param1} Belt,{Param3} equipado em {Param2}.,Adventurer’s,Waist,Sturdy Armor
+35090071,{Param1} Belt,{Param3} equipado em {Param2}.,Soldier’s,Waist,Sturdy Armor
+35090081,{Param1} Belt,{Param3} equipado em {Param2}.,Mercenary’s,Waist,Sturdy Armor
+35090091,{Param1} Belt,{Param3} equipado em {Param2}.,Ornament,Waist,Sturdy Armor
+35090101,{Param1} Belt,{Param3} equipado em {Param2}.,Cursed,Waist,Sturdy Armor
+35090111,{Param1} Belt,{Param3} equipado em {Param2}.,Refined,Waist,Sturdy Armor
+35090121,{Param1} Belt,{Param3} equipado em {Param2}.,Worn,Waist,Sturdy Armor
+35090131,{Param1} Belt,{Param3} equipado em {Param2}.,Corroded,Waist,Sturdy Armor
+35090141,{Param1} Belt,{Param3} equipado em {Param2}.,Apprentice’s,Waist,Sturdy Armor
+35090151,{Param1} Belt,{Param3} equipado em {Param2}.,Wanderer’s,Waist,Sturdy Armor
+35090161,{Param1} Belt,{Param3} equipado em {Param2}.,Heretic’s,Waist,Sturdy Armor
+35090171,{Param1} Belt,{Param3} equipado em {Param2}.,Fighter’s,Waist,Sturdy Armor
+35090012,{Param1} Belt,{Param3} equipado em {Param2}.,Thief’s,Waist,Sturdy Armor
+35090022,{Param1} Belt,{Param3} equipado em {Param2}.,Raider’s,Waist,Sturdy Armor
+35090032,{Param1} Belt,{Param3} equipado em {Param2}.,Monster Hunter’s,Waist,Sturdy Armor
+35090042,{Param1} Belt,{Param3} equipado em {Param2}.,Butcher’s,Waist,Sturdy Armor
+35090052,{Param1} Belt,{Param3} equipado em {Param2}.,Battle,Waist,Sturdy Armor
+35090062,{Param1} Belt,{Param3} equipado em {Param2}.,Follower’s,Waist,Sturdy Armor
+35090072,{Param1} Belt,{Param3} equipado em {Param2}.,Rebel’s,Waist,Sturdy Armor
+35090082,{Param1} Belt,{Param3} equipado em {Param2}.,Master’s,Waist,Sturdy Armor
+35090092,{Param1} Belt,{Param3} equipado em {Param2}.,Enchanted,Waist,Sturdy Armor
+35090102,{Param1} Belt,{Param3} equipado em {Param2}.,Commander’s,Waist,Sturdy Armor
+35090112,{Param1} Belt,{Param3} equipado em {Param2}.,Adamant,Waist,Sturdy Armor
+35090122,{Param1} Belt,{Param3} equipado em {Param2}.,Old,Waist,Sturdy Armor
+35090132,{Param1} Belt,{Param3} equipado em {Param2}.,Guard’s,Waist,Sturdy Armor
+35090142,{Param1} Belt,{Param3} equipado em {Param2}.,Delicate,Waist,Sturdy Armor
+35090152,{Param1} Belt,{Param3} equipado em {Param2}.,Noticeable,Waist,Sturdy Armor
+35090162,{Param1} Belt,{Param3} equipado em {Param2}.,Reinforced,Waist,Sturdy Armor
+35090172,{Param1} Belt,{Param3} equipado em {Param2}.,Artificial,Waist,Sturdy Armor
+35090013,{Param1} Belt,{Param3} equipado em {Param2}.,Hermit’s,Waist,Sturdy Armor
+35090023,{Param1} Belt,{Param3} equipado em {Param2}.,Prophet’s,Waist,Sturdy Armor
+35090033,{Param1} Belt,{Param3} equipado em {Param2}.,Authoritative,Waist,Sturdy Armor
+35090043,{Param1} Belt,{Param3} equipado em {Param2}.,Noble’s,Waist,Sturdy Armor
+35090053,{Param1} Belt,{Param3} equipado em {Param2}.,Executor’s,Waist,Sturdy Armor
+35090063,{Param1} Belt,{Param3} equipado em {Param2}.,Judge’s,Waist,Sturdy Armor
+35090073,{Param1} Belt,{Param3} equipado em {Param2}.,Lord’s,Waist,Sturdy Armor
+35090083,{Param1} Belt,{Param3} equipado em {Param2}.,Exile’s,Waist,Sturdy Armor
+35090093,{Param1} Belt,{Param3} equipado em {Param2}.,Dawn,Waist,Sturdy Armor
+35090103,{Param1} Belt,{Param3} equipado em {Param2}.,Blue Sky,Waist,Sturdy Armor
+35090113,{Param1} Belt,{Param3} equipado em {Param2}.,Twilight,Waist,Sturdy Armor
+35090123,{Param1} Belt,{Param3} equipado em {Param2}.,Night,Waist,Sturdy Armor
+35090133,{Param1} Belt,{Param3} equipado em {Param2}.,Mist,Waist,Sturdy Armor
+35090143,{Param1} Belt,{Param3} equipado em {Param2}.,Harvest,Waist,Sturdy Armor
+35090153,{Param1} Belt,{Param3} equipado em {Param2}.,Frost,Waist,Sturdy Armor
+35090163,{Param1} Belt,{Param3} equipado em {Param2}.,Silent,Waist,Sturdy Armor
+35090173,{Param1} Belt,{Param3} equipado em {Param2}.,Of Oblivion,Waist,Sturdy Armor
+35090183,{Param1} Belt,{Param3} equipado em {Param2}.,Knight’s,Waist,Sturdy Armor
+35090193,{Param1} Belt,{Param3} equipado em {Param2}.,Confident,Waist,Sturdy Armor
+35090203,{Param1} Belt,{Param3} equipado em {Param2}.,Beast’s,Waist,Sturdy Armor
+35090213,{Param1} Belt,{Param3} equipado em {Param2}.,of Steel,Waist,Sturdy Armor
+35090223,{Param1} Belt,{Param3} equipado em {Param2}.,Antique,Waist,Sturdy Armor
+35090233,{Param1} Belt,{Param3} equipado em {Param2}.,of Ascension,Waist,Sturdy Armor
+35090243,{Param1} Belt,{Param3} equipado em {Param2}.,of Ominous,Waist,Sturdy Armor
+35090253,{Param1} Belt,{Param3} equipado em {Param2}.,Old Kingdom’s,Waist,Sturdy Armor
+35090014,{Param1} Belt,{Param3} equipado em {Param2}.,Slayer’s,Waist,Sturdy Armor
+35090024,{Param1} Belt,{Param3} equipado em {Param2}.,Beserker’s,Waist,Sturdy Armor
+35090034,{Param1} Belt,{Param3} equipado em {Param2}.,Destroyer’s,Waist,Sturdy Armor
+35090044,{Param1} Belt,{Param3} equipado em {Param2}.,Nightmare,Waist,Sturdy Armor
+35090054,{Param1} Belt,{Param3} equipado em {Param2}.,Tyrant’s,Waist,Sturdy Armor
+35090064,{Param1} Belt,{Param3} equipado em {Param2}.,High General’s,Waist,Sturdy Armor
+35090074,{Param1} Belt,{Param3} equipado em {Param2}.,Priest’s,Waist,Sturdy Armor
+35090084,{Param1} Belt,{Param3} equipado em {Param2}.,Glorious,Waist,Sturdy Armor
+35090094,{Param1} Belt,{Param3} equipado em {Param2}.,Ruler’s,Waist,Sturdy Armor
+35090104,{Param1} Belt,{Param3} equipado em {Param2}.,Shadow,Waist,Sturdy Armor
+35090015,{Param1} Belt,{Param3} equipado em {Param2}.,Ancient,Waist,Sturdy Armor
+35090025,{Param1} Belt,{Param3} equipado em {Param2}.,Gudua’s,Waist,Sturdy Armor
+35090035,{Param1} Belt,{Param3} equipado em {Param2}.,of Frost,Waist,Sturdy Armor
+35090016,{Param1} Belt,{Param3} equipado em {Param2}.,The Absolute’s,Waist,Sturdy Armor
+36090011,{Param1} Gloves,{Param3} equipado em {Param2}.,Ruined Leather,Hand,Sturdy Armor
+36090021,{Param1} Gloves,{Param3} equipado em {Param2}.,Fallen One’s,Hand,Sturdy Armor
+36090031,{Param1} Gloves,{Param3} equipado em {Param2}.,Worn,Hand,Sturdy Armor
+36090041,{Param1} Gloves,{Param3} equipado em {Param2}.,Outlaw’s,Hand,Sturdy Armor
+36090051,{Param1} Gloves,{Param3} equipado em {Param2}.,Trainee’s,Hand,Sturdy Armor
+36090061,{Param1} Gloves,{Param3} equipado em {Param2}.,Adventurer’s,Hand,Sturdy Armor
+36090071,{Param1} Gloves,{Param3} equipado em {Param2}.,Soldier’s,Hand,Sturdy Armor
+36090081,{Param1} Gloves,{Param3} equipado em {Param2}.,Mercenary’s,Hand,Sturdy Armor
+36090091,{Param1} Gloves,{Param3} equipado em {Param2}.,Ornament,Hand,Sturdy Armor
+36090101,{Param1} Gloves,{Param3} equipado em {Param2}.,Cursed,Hand,Sturdy Armor
+36090111,{Param1} Gloves,{Param3} equipado em {Param2}.,Refined,Hand,Sturdy Armor
+36090121,{Param1} Gloves,{Param3} equipado em {Param2}.,Worn,Hand,Sturdy Armor
+36090131,{Param1} Gloves,{Param3} equipado em {Param2}.,Corroded,Hand,Sturdy Armor
+36090141,{Param1} Gloves,{Param3} equipado em {Param2}.,Apprentice’s,Hand,Sturdy Armor
+36090151,{Param1} Gloves,{Param3} equipado em {Param2}.,Wanderer’s,Hand,Sturdy Armor
+36090161,{Param1} Gloves,{Param3} equipado em {Param2}.,Heretic’s,Hand,Sturdy Armor
+36090171,{Param1} Gloves,{Param3} equipado em {Param2}.,Fighter’s,Hand,Sturdy Armor
+36090012,{Param1} Gloves,{Param3} equipado em {Param2}.,Thief’s,Hand,Sturdy Armor
+36090022,{Param1} Gloves,{Param3} equipado em {Param2}.,Raider’s,Hand,Sturdy Armor
+36090032,{Param1} Gloves,{Param3} equipado em {Param2}.,Monster Hunter’s,Hand,Sturdy Armor
+36090042,{Param1} Gloves,{Param3} equipado em {Param2}.,Butcher’s,Hand,Sturdy Armor
+36090052,{Param1} Gloves,{Param3} equipado em {Param2}.,Battle,Hand,Sturdy Armor
+36090062,{Param1} Gloves,{Param3} equipado em {Param2}.,Follower’s,Hand,Sturdy Armor
+36090072,{Param1} Gloves,{Param3} equipado em {Param2}.,Rebel’s,Hand,Sturdy Armor
+36090082,{Param1} Gloves,{Param3} equipado em {Param2}.,Master’s,Hand,Sturdy Armor
+36090092,{Param1} Gloves,{Param3} equipado em {Param2}.,Enchanted,Hand,Sturdy Armor
+36090102,{Param1} Gloves,{Param3} equipado em {Param2}.,Commander’s,Hand,Sturdy Armor
+36090112,{Param1} Gloves,{Param3} equipado em {Param2}.,Adamant,Hand,Sturdy Armor
+36090122,{Param1} Gloves,{Param3} equipado em {Param2}.,Old,Hand,Sturdy Armor
+36090132,{Param1} Gloves,{Param3} equipado em {Param2}.,Guard’s,Hand,Sturdy Armor
+36090142,{Param1} Gloves,{Param3} equipado em {Param2}.,Delicate,Hand,Sturdy Armor
+36090152,{Param1} Gloves,{Param3} equipado em {Param2}.,Noticeable,Hand,Sturdy Armor
+36090162,{Param1} Gloves,{Param3} equipado em {Param2}.,Reinforced,Hand,Sturdy Armor
+36090172,{Param1} Gloves,{Param3} equipado em {Param2}.,Artificial,Hand,Sturdy Armor
+36090013,{Param1} Gloves,{Param3} equipado em {Param2}.,Hermit’s,Hand,Sturdy Armor
+36090023,{Param1} Gloves,{Param3} equipado em {Param2}.,Prophet’s,Hand,Sturdy Armor
+36090033,{Param1} Gloves,{Param3} equipado em {Param2}.,Authoritative,Hand,Sturdy Armor
+36090043,{Param1} Gloves,{Param3} equipado em {Param2}.,Noble’s,Hand,Sturdy Armor
+36090053,{Param1} Gloves,{Param3} equipado em {Param2}.,Executor’s,Hand,Sturdy Armor
+36090063,{Param1} Gloves,{Param3} equipado em {Param2}.,Judge’s,Hand,Sturdy Armor
+36090073,{Param1} Gloves,{Param3} equipado em {Param2}.,Lord’s,Hand,Sturdy Armor
+36090083,{Param1} Gloves,{Param3} equipado em {Param2}.,Exile’s,Hand,Sturdy Armor
+36090093,{Param1} Gloves,{Param3} equipado em {Param2}.,Dawn,Hand,Sturdy Armor
+36090103,{Param1} Gloves,{Param3} equipado em {Param2}.,Blue Sky,Hand,Sturdy Armor
+36090113,{Param1} Gloves,{Param3} equipado em {Param2}.,Twilight,Hand,Sturdy Armor
+36090123,{Param1} Gloves,{Param3} equipado em {Param2}.,Night,Hand,Sturdy Armor
+36090133,{Param1} Gloves,{Param3} equipado em {Param2}.,Mist,Hand,Sturdy Armor
+36090143,{Param1} Gloves,{Param3} equipado em {Param2}.,Harvest,Hand,Sturdy Armor
+36090153,{Param1} Gloves,{Param3} equipado em {Param2}.,Frost,Hand,Sturdy Armor
+36090163,{Param1} Gloves,{Param3} equipado em {Param2}.,Silent,Hand,Sturdy Armor
+36090173,{Param1} Gloves,{Param3} equipado em {Param2}.,Of Oblivion,Hand,Sturdy Armor
+36090183,{Param1} Gloves,{Param3} equipado em {Param2}.,Knight’s,Hand,Sturdy Armor
+36090193,{Param1} Gloves,{Param3} equipado em {Param2}.,Confident,Hand,Sturdy Armor
+36090203,{Param1} Gloves,{Param3} equipado em {Param2}.,Beast’s,Hand,Sturdy Armor
+36090213,{Param1} Gloves,{Param3} equipado em {Param2}.,of Steel,Hand,Sturdy Armor
+36090223,{Param1} Gloves,{Param3} equipado em {Param2}.,Antique,Hand,Sturdy Armor
+36090233,{Param1} Gloves,{Param3} equipado em {Param2}.,of Ascension,Hand,Sturdy Armor
+36090243,{Param1} Gloves,{Param3} equipado em {Param2}.,of Ominous,Hand,Sturdy Armor
+36090253,{Param1} Gloves,{Param3} equipado em {Param2}.,Old Kingdom’s,Hand,Sturdy Armor
+36090014,{Param1} Gloves,{Param3} equipado em {Param2}.,Slayer’s,Hand,Sturdy Armor
+36090024,{Param1} Gloves,{Param3} equipado em {Param2}.,Beserker’s,Hand,Sturdy Armor
+36090034,{Param1} Gloves,{Param3} equipado em {Param2}.,Destroyer’s,Hand,Sturdy Armor
+36090044,{Param1} Gloves,{Param3} equipado em {Param2}.,Nightmare,Hand,Sturdy Armor
+36090054,{Param1} Gloves,{Param3} equipado em {Param2}.,Tyrant’s,Hand,Sturdy Armor
+36090064,{Param1} Gloves,{Param3} equipado em {Param2}.,High General’s,Hand,Sturdy Armor
+36090074,{Param1} Gloves,{Param3} equipado em {Param2}.,Priest’s,Hand,Sturdy Armor
+36090084,{Param1} Gloves,{Param3} equipado em {Param2}.,Glorious,Hand,Sturdy Armor
+36090094,{Param1} Gloves,{Param3} equipado em {Param2}.,Ruler’s,Hand,Sturdy Armor
+36090104,{Param1} Gloves,{Param3} equipado em {Param2}.,Shadow,Hand,Sturdy Armor
+36090015,{Param1} Gloves,{Param3} equipado em {Param2}.,Ancient,Hand,Sturdy Armor
+36090025,{Param1} Gloves,{Param3} equipado em {Param2}.,Gudua’s,Hand,Sturdy Armor
+36090035,{Param1} Gloves,{Param3} equipado em {Param2}.,of Frost,Hand,Sturdy Armor
+36090016,{Param1} Gloves,{Param3} equipado em {Param2}.,The Absolute’s,Hand,Sturdy Armor
+37090011,{Param1} Shoes,{Param3} equipado em {Param2}.,Ruined Leather,Foot,Sturdy Armor
+37090021,{Param1} Shoes,{Param3} equipado em {Param2}.,Fallen One’s,Foot,Sturdy Armor
+37090031,{Param1} Shoes,{Param3} equipado em {Param2}.,Worn,Foot,Sturdy Armor
+37090041,{Param1} Shoes,{Param3} equipado em {Param2}.,Outlaw’s,Foot,Sturdy Armor
+37090051,{Param1} Shoes,{Param3} equipado em {Param2}.,Trainee’s,Foot,Sturdy Armor
+37090061,{Param1} Shoes,{Param3} equipado em {Param2}.,Adventurer’s,Foot,Sturdy Armor
+37090071,{Param1} Shoes,{Param3} equipado em {Param2}.,Soldier’s,Foot,Sturdy Armor
+37090081,{Param1} Shoes,{Param3} equipado em {Param2}.,Mercenary’s,Foot,Sturdy Armor
+37090091,{Param1} Shoes,{Param3} equipado em {Param2}.,Ornament,Foot,Sturdy Armor
+37090101,{Param1} Shoes,{Param3} equipado em {Param2}.,Cursed,Foot,Sturdy Armor
+37090111,{Param1} Shoes,{Param3} equipado em {Param2}.,Refined,Foot,Sturdy Armor
+37090121,{Param1} Shoes,{Param3} equipado em {Param2}.,Worn,Foot,Sturdy Armor
+37090131,{Param1} Shoes,{Param3} equipado em {Param2}.,Corroded,Foot,Sturdy Armor
+37090141,{Param1} Shoes,{Param3} equipado em {Param2}.,Apprentice’s,Foot,Sturdy Armor
+37090151,{Param1} Shoes,{Param3} equipado em {Param2}.,Wanderer’s,Foot,Sturdy Armor
+37090161,{Param1} Shoes,{Param3} equipado em {Param2}.,Heretic’s,Foot,Sturdy Armor
+37090171,{Param1} Shoes,{Param3} equipado em {Param2}.,Fighter’s,Foot,Sturdy Armor
+37090012,{Param1} Shoes,{Param3} equipado em {Param2}.,Thief’s,Foot,Sturdy Armor
+37090022,{Param1} Shoes,{Param3} equipado em {Param2}.,Raider’s,Foot,Sturdy Armor
+37090032,{Param1} Shoes,{Param3} equipado em {Param2}.,Monster Hunter’s,Foot,Sturdy Armor
+37090042,{Param1} Shoes,{Param3} equipado em {Param2}.,Butcher’s,Foot,Sturdy Armor
+37090052,{Param1} Shoes,{Param3} equipado em {Param2}.,Battle,Foot,Sturdy Armor
+37090062,{Param1} Shoes,{Param3} equipado em {Param2}.,Follower’s,Foot,Sturdy Armor
+37090072,{Param1} Shoes,{Param3} equipado em {Param2}.,Rebel’s,Foot,Sturdy Armor
+37090082,{Param1} Shoes,{Param3} equipado em {Param2}.,Master’s,Foot,Sturdy Armor
+37090092,{Param1} Shoes,{Param3} equipado em {Param2}.,Enchanted,Foot,Sturdy Armor
+37090102,{Param1} Shoes,{Param3} equipado em {Param2}.,Commander’s,Foot,Sturdy Armor
+37090112,{Param1} Shoes,{Param3} equipado em {Param2}.,Adamant,Foot,Sturdy Armor
+37090122,{Param1} Shoes,{Param3} equipado em {Param2}.,Old,Foot,Sturdy Armor
+37090132,{Param1} Shoes,{Param3} equipado em {Param2}.,Guard’s,Foot,Sturdy Armor
+37090142,{Param1} Shoes,{Param3} equipado em {Param2}.,Delicate,Foot,Sturdy Armor
+37090152,{Param1} Shoes,{Param3} equipado em {Param2}.,Noticeable,Foot,Sturdy Armor
+37090162,{Param1} Shoes,{Param3} equipado em {Param2}.,Reinforced,Foot,Sturdy Armor
+37090172,{Param1} Shoes,{Param3} equipado em {Param2}.,Artificial,Foot,Sturdy Armor
+37090013,{Param1} Shoes,{Param3} equipado em {Param2}.,Hermit’s,Foot,Sturdy Armor
+37090023,{Param1} Shoes,{Param3} equipado em {Param2}.,Prophet’s,Foot,Sturdy Armor
+37090033,{Param1} Shoes,{Param3} equipado em {Param2}.,Authoritative,Foot,Sturdy Armor
+37090043,{Param1} Shoes,{Param3} equipado em {Param2}.,Noble’s,Foot,Sturdy Armor
+37090053,{Param1} Shoes,{Param3} equipado em {Param2}.,Executor’s,Foot,Sturdy Armor
+37090063,{Param1} Shoes,{Param3} equipado em {Param2}.,Judge’s,Foot,Sturdy Armor
+37090073,{Param1} Shoes,{Param3} equipado em {Param2}.,Lord’s,Foot,Sturdy Armor
+37090083,{Param1} Shoes,{Param3} equipado em {Param2}.,Exile’s,Foot,Sturdy Armor
+37090093,{Param1} Shoes,{Param3} equipado em {Param2}.,Dawn,Foot,Sturdy Armor
+37090103,{Param1} Shoes,{Param3} equipado em {Param2}.,Blue Sky,Foot,Sturdy Armor
+37090113,{Param1} Shoes,{Param3} equipado em {Param2}.,Twilight,Foot,Sturdy Armor
+37090123,{Param1} Shoes,{Param3} equipado em {Param2}.,Night,Foot,Sturdy Armor
+37090133,{Param1} Shoes,{Param3} equipado em {Param2}.,Mist,Foot,Sturdy Armor
+37090143,{Param1} Shoes,{Param3} equipado em {Param2}.,Harvest,Foot,Sturdy Armor
+37090153,{Param1} Shoes,{Param3} equipado em {Param2}.,Frost,Foot,Sturdy Armor
+37090163,{Param1} Shoes,{Param3} equipado em {Param2}.,Silent,Foot,Sturdy Armor
+37090173,{Param1} Shoes,{Param3} equipado em {Param2}.,Of Oblivion,Foot,Sturdy Armor
+37090183,{Param1} Shoes,{Param3} equipado em {Param2}.,Knight’s,Foot,Sturdy Armor
+37090193,{Param1} Shoes,{Param3} equipado em {Param2}.,Confident,Foot,Sturdy Armor
+37090203,{Param1} Shoes,{Param3} equipado em {Param2}.,Beast’s,Foot,Sturdy Armor
+37090213,{Param1} Shoes,{Param3} equipado em {Param2}.,of Steel,Foot,Sturdy Armor
+37090223,{Param1} Shoes,{Param3} equipado em {Param2}.,Antique,Foot,Sturdy Armor
+37090233,{Param1} Shoes,{Param3} equipado em {Param2}.,of Ascension,Foot,Sturdy Armor
+37090243,{Param1} Shoes,{Param3} equipado em {Param2}.,of Ominous,Foot,Sturdy Armor
+37090253,{Param1} Shoes,{Param3} equipado em {Param2}.,Old Kingdom’s,Foot,Sturdy Armor
+37090014,{Param1} Shoes,{Param3} equipado em {Param2}.,Slayer’s,Foot,Sturdy Armor
+37090024,{Param1} Shoes,{Param3} equipado em {Param2}.,Beserker’s,Foot,Sturdy Armor
+37090034,{Param1} Shoes,{Param3} equipado em {Param2}.,Destroyer’s,Foot,Sturdy Armor
+37090044,{Param1} Shoes,{Param3} equipado em {Param2}.,Nightmare,Foot,Sturdy Armor
+37090054,{Param1} Shoes,{Param3} equipado em {Param2}.,Tyrant’s,Foot,Sturdy Armor
+37090064,{Param1} Shoes,{Param3} equipado em {Param2}.,High General’s,Foot,Sturdy Armor
+37090074,{Param1} Shoes,{Param3} equipado em {Param2}.,Priest’s,Foot,Sturdy Armor
+37090084,{Param1} Shoes,{Param3} equipado em {Param2}.,Glorious,Foot,Sturdy Armor
+37090094,{Param1} Shoes,{Param3} equipado em {Param2}.,Ruler’s,Foot,Sturdy Armor
+37090104,{Param1} Shoes,{Param3} equipado em {Param2}.,Shadow,Foot,Sturdy Armor
+37090015,{Param1} Shoes,{Param3} equipado em {Param2}.,Ancient,Foot,Sturdy Armor
+37090025,{Param1} Shoes,{Param3} equipado em {Param2}.,Gudua’s,Foot,Sturdy Armor
+37090035,{Param1} Shoes,{Param3} equipado em {Param2}.,of Frost,Foot,Sturdy Armor
+37090016,{Param1} Shoes,{Param3} equipado em {Param2}.,The Absolute’s,Foot,Sturdy Armor
+38090011,{Param1} Cape,{Param3} equipado em {Param2}.,Ruined Leather,Back,Sturdy Armor
+38090021,{Param1} Cape,{Param3} equipado em {Param2}.,Fallen One’s,Back,Sturdy Armor
+38090031,{Param1} Cape,{Param3} equipado em {Param2}.,Worn,Back,Sturdy Armor
+38090041,{Param1} Cape,{Param3} equipado em {Param2}.,Outlaw’s,Back,Sturdy Armor
+38090051,{Param1} Cape,{Param3} equipado em {Param2}.,Trainee’s,Back,Sturdy Armor
+38090061,{Param1} Cape,{Param3} equipado em {Param2}.,Adventurer’s,Back,Sturdy Armor
+38090071,{Param1} Cape,{Param3} equipado em {Param2}.,Soldier’s,Back,Sturdy Armor
+38090081,{Param1} Cape,{Param3} equipado em {Param2}.,Mercenary’s,Back,Sturdy Armor
+38090091,{Param1} Cape,{Param3} equipado em {Param2}.,Ornament,Back,Sturdy Armor
+38090101,{Param1} Cape,{Param3} equipado em {Param2}.,Cursed,Back,Sturdy Armor
+38090111,{Param1} Cape,{Param3} equipado em {Param2}.,Refined,Back,Sturdy Armor
+38090121,{Param1} Cape,{Param3} equipado em {Param2}.,Worn,Back,Sturdy Armor
+38090131,{Param1} Cape,{Param3} equipado em {Param2}.,Corroded,Back,Sturdy Armor
+38090141,{Param1} Cape,{Param3} equipado em {Param2}.,Apprentice’s,Back,Sturdy Armor
+38090151,{Param1} Cape,{Param3} equipado em {Param2}.,Wanderer’s,Back,Sturdy Armor
+38090161,{Param1} Cape,{Param3} equipado em {Param2}.,Heretic’s,Back,Sturdy Armor
+38090171,{Param1} Cape,{Param3} equipado em {Param2}.,Fighter’s,Back,Sturdy Armor
+38090012,{Param1} Cape,{Param3} equipado em {Param2}.,Thief’s,Back,Sturdy Armor
+38090022,{Param1} Cape,{Param3} equipado em {Param2}.,Raider’s,Back,Sturdy Armor
+38090032,{Param1} Cape,{Param3} equipado em {Param2}.,Monster Hunter’s,Back,Sturdy Armor
+38090042,{Param1} Cape,{Param3} equipado em {Param2}.,Butcher’s,Back,Sturdy Armor
+38090052,{Param1} Cape,{Param3} equipado em {Param2}.,Battle,Back,Sturdy Armor
+38090062,{Param1} Cape,{Param3} equipado em {Param2}.,Follower’s,Back,Sturdy Armor
+38090072,{Param1} Cape,{Param3} equipado em {Param2}.,Rebel’s,Back,Sturdy Armor
+38090082,{Param1} Cape,{Param3} equipado em {Param2}.,Master’s,Back,Sturdy Armor
+38090092,{Param1} Cape,{Param3} equipado em {Param2}.,Enchanted,Back,Sturdy Armor
+38090102,{Param1} Cape,{Param3} equipado em {Param2}.,Commander’s,Back,Sturdy Armor
+38090112,{Param1} Cape,{Param3} equipado em {Param2}.,Adamant,Back,Sturdy Armor
+38090122,{Param1} Cape,{Param3} equipado em {Param2}.,Old,Back,Sturdy Armor
+38090132,{Param1} Cape,{Param3} equipado em {Param2}.,Guard’s,Back,Sturdy Armor
+38090142,{Param1} Cape,{Param3} equipado em {Param2}.,Delicate,Back,Sturdy Armor
+38090152,{Param1} Cape,{Param3} equipado em {Param2}.,Noticeable,Back,Sturdy Armor
+38090162,{Param1} Cape,{Param3} equipado em {Param2}.,Reinforced,Back,Sturdy Armor
+38090172,{Param1} Cape,{Param3} equipado em {Param2}.,Artificial,Back,Sturdy Armor
+38090013,{Param1} Cape,{Param3} equipado em {Param2}.,Hermit’s,Back,Sturdy Armor
+38090023,{Param1} Cape,{Param3} equipado em {Param2}.,Prophet’s,Back,Sturdy Armor
+38090033,{Param1} Cape,{Param3} equipado em {Param2}.,Authoritative,Back,Sturdy Armor
+38090043,{Param1} Cape,{Param3} equipado em {Param2}.,Noble’s,Back,Sturdy Armor
+38090053,{Param1} Cape,{Param3} equipado em {Param2}.,Executor’s,Back,Sturdy Armor
+38090063,{Param1} Cape,{Param3} equipado em {Param2}.,Judge’s,Back,Sturdy Armor
+38090073,{Param1} Cape,{Param3} equipado em {Param2}.,Lord’s,Back,Sturdy Armor
+38090083,{Param1} Cape,{Param3} equipado em {Param2}.,Exile’s,Back,Sturdy Armor
+38090093,{Param1} Cape,{Param3} equipado em {Param2}.,Dawn,Back,Sturdy Armor
+38090103,{Param1} Cape,{Param3} equipado em {Param2}.,Blue Sky,Back,Sturdy Armor
+38090113,{Param1} Cape,{Param3} equipado em {Param2}.,Twilight,Back,Sturdy Armor
+38090123,{Param1} Cape,{Param3} equipado em {Param2}.,Night,Back,Sturdy Armor
+38090133,{Param1} Cape,{Param3} equipado em {Param2}.,Mist,Back,Sturdy Armor
+38090143,{Param1} Cape,{Param3} equipado em {Param2}.,Harvest,Back,Sturdy Armor
+38090153,{Param1} Cape,{Param3} equipado em {Param2}.,Frost,Back,Sturdy Armor
+38090163,{Param1} Cape,{Param3} equipado em {Param2}.,Silent,Back,Sturdy Armor
+38090173,{Param1} Cape,{Param3} equipado em {Param2}.,Of Oblivion,Back,Sturdy Armor
+38090183,{Param1} Cape,{Param3} equipado em {Param2}.,Knight’s,Back,Sturdy Armor
+38090193,{Param1} Cape,{Param3} equipado em {Param2}.,Confident,Back,Sturdy Armor
+38090203,{Param1} Cape,{Param3} equipado em {Param2}.,Beast’s,Back,Sturdy Armor
+38090213,{Param1} Cape,{Param3} equipado em {Param2}.,of Steel,Back,Sturdy Armor
+38090223,{Param1} Cape,{Param3} equipado em {Param2}.,Antique,Back,Sturdy Armor
+38090233,{Param1} Cape,{Param3} equipado em {Param2}.,of Ascension,Back,Sturdy Armor
+38090243,{Param1} Cape,{Param3} equipado em {Param2}.,of Ominous,Back,Sturdy Armor
+38090253,{Param1} Cape,{Param3} equipado em {Param2}.,Old Kingdom’s,Back,Sturdy Armor
+38090014,{Param1} Cape,{Param3} equipado em {Param2}.,Slayer’s,Back,Sturdy Armor
+38090024,{Param1} Cape,{Param3} equipado em {Param2}.,Beserker’s,Back,Sturdy Armor
+38090034,{Param1} Cape,{Param3} equipado em {Param2}.,Destroyer’s,Back,Sturdy Armor
+38090044,{Param1} Cape,{Param3} equipado em {Param2}.,Nightmare,Back,Sturdy Armor
+38090054,{Param1} Cape,{Param3} equipado em {Param2}.,Tyrant’s,Back,Sturdy Armor
+38090064,{Param1} Cape,{Param3} equipado em {Param2}.,High General’s,Back,Sturdy Armor
+38090074,{Param1} Cape,{Param3} equipado em {Param2}.,Priest’s,Back,Sturdy Armor
+38090084,{Param1} Cape,{Param3} equipado em {Param2}.,Glorious,Back,Sturdy Armor
+38090094,{Param1} Cape,{Param3} equipado em {Param2}.,Ruler’s,Back,Sturdy Armor
+38090104,{Param1} Cape,{Param3} equipado em {Param2}.,Shadow,Back,Sturdy Armor
+38090015,{Param1} Cape,{Param3} equipado em {Param2}.,Ancient,Back,Sturdy Armor
+38090025,{Param1} Cape,{Param3} equipado em {Param2}.,Gudua’s,Back,Sturdy Armor
+38090035,{Param1} Cape,{Param3} equipado em {Param2}.,of Frost,Back,Sturdy Armor
+38090016,{Param1} Cape,{Param3} equipado em {Param2}.,The Absolute’s,Back,Sturdy Armor
 41090011,{Param1} Necklace,Acessório equipado no pescoço.,Damaged,Neck,Acessório
 41090021,{Param1} Necklace,Acessório equipado no pescoço.,Curved,Neck,Acessório
 41090031,{Param1} Necklace,Acessório equipado no pescoço.,Crude,Neck,Acessório
@@ -5539,13 +5598,13 @@
 9200889,{IntParam}★ {Param2} {Param3} Chest,Use para escolher um {Param2} da lista.,,Grace of the Constellations Card,Select
 9200890,{Param1} {Param2} Selection Chest,Use para escolher um {Param2} Gift Chest da lista.,Mystical,Mount,
 9200891,{Param1} {Param2} Chest,Use para receber recompensas.,Resonance,Materials,
-9200892,{Param1} {Param2} Card Pack,Use para receber aleatoriamente um {Param3} da lista.,2★-3★,Expedition,Graça das Constelações
-9200893,{Param1} {Param2} Card Pack,Use para receber aleatoriamente um {Param3} da lista.,2★-4★,Expedition,Graça das Constelações
-9200894,{Param1} {Param2} Card Pack,Use para receber aleatoriamente um {Param3} da lista.,2★-5★,Expedition,Graça das Constelações
-9200895,{Param1} {Param2} Card Pack,Use para receber aleatoriamente um {Param3} da lista.,3★-5★,Expedition,Graça das Constelações
-9200896,{Param1} {Param2} Card Pack,Use para receber aleatoriamente um {Param3} da lista.,3 Stars,Expedition,Graça das Constelações
-9200897,{Param1} {Param2} Card Pack,Use para receber aleatoriamente um {Param3} da lista.,4 Stars,Expedition,Graça das Constelações
-9200898,{Param1} {Param2} Card Pack,Use para receber aleatoriamente um {Param3} da lista.,5 Stars,Expedition,Graça das Constelações
+9200892,{Param1} {Param2} Card Pack,Use para receber aleatoriamente um {Param3} da lista.,2★-3★,Expedition,Grace of the Constellations
+9200893,{Param1} {Param2} Card Pack,Use para receber aleatoriamente um {Param3} da lista.,2★-4★,Expedition,Grace of the Constellations
+9200894,{Param1} {Param2} Card Pack,Use para receber aleatoriamente um {Param3} da lista.,2★-5★,Expedition,Grace of the Constellations
+9200895,{Param1} {Param2} Card Pack,Use para receber aleatoriamente um {Param3} da lista.,3★-5★,Expedition,Grace of the Constellations
+9200896,{Param1} {Param2} Card Pack,Use para receber aleatoriamente um {Param3} da lista.,3 Stars,Expedition,Grace of the Constellations
+9200897,{Param1} {Param2} Card Pack,Use para receber aleatoriamente um {Param3} da lista.,4 Stars,Expedition,Grace of the Constellations
+9200898,{Param1} {Param2} Card Pack,Use para receber aleatoriamente um {Param3} da lista.,5 Stars,Expedition,Grace of the Constellations
 9200899,{Param1} {Param2} Random Chest,Use para receber aleatoriamente um dos itens {Param2} da lista.,3★-5★,Heart of the Star,
 9200900,{Param1} {Param3} Card Pack {Param2},Use para receber aleatoriamente um {Param3} da lista.,1★-4★,II,Grace of the Constellations
 9200901,{Param1} {Param3} Card Pack {Param2},Use para receber aleatoriamente um {Param3} da lista.,3★-4★,II,Grace of the Constellations

@@ -211,6 +211,54 @@
    "PlaceGroupName",
    "SubName",
    "GroupName"
+  ],
+  "names": [
+   "Ethereal Sanctum",
+   "Temporal Barrier",
+   "Arbiter’s Secret Vault",
+   "Arbiter's Secret Vault",
+   "Arbiter’s Ordeal",
+   "Arbiter's Ordeal",
+   "Ordeal Token",
+   "Clan Perpetual Corridor",
+   "Gold Dungeon",
+   "Rift Boss",
+   "Abnormal Rift",
+   "Trial of Leap",
+   "Trial of Flight",
+   "Trial of Wisdom",
+   "Trial of Combat",
+   "Grace of the Constellations",
+   "Gudua's Memories",
+   "Gudua’s Memories",
+   "Crest of the Ancients",
+   "Aburu's Bounty Festival",
+   "Aburu’s Bounty Festival",
+   "Halo Festival",
+   "Harvest Festival",
+   "Architect x Attack on Titan",
+   "Attack on Titan",
+   "Abyss Fortress",
+   "Guardian Tower of the Abyss",
+   "Sentinel's Resonance",
+   "Ashur's Torch",
+   "Ashur’s Torch",
+   "Giant's Remnants",
+   "Giant’s Remnants",
+   "Monolith War",
+   "Emperor's Armory",
+   "Emperor’s Armory",
+   "Emperor’s Gallery",
+   "Emperor's Gallery",
+   "Angbar Arena",
+   "Ancient Imperial Institute",
+   "Forsaken Mine Territory",
+   "Kubaba’s Crew",
+   "Unknown Being",
+   "The Ashen Crows",
+   "Paradise Advent Assembly",
+   "Fortress Siege",
+   "Sentinel Conquest"
   ]
  },
  "__replace_translated_names__": {
@@ -408,13 +456,44 @@
  "__by_text__": {
   "Achievement_Name.csv": {
    "Description": {
-    "The Vitalizing Sanctum Engraved {RequiredStackCount} Times": "The Vitalizing Sanctum gravado {RequiredStackCount} vezes"
+    "The Vitalizing Sanctum Engraved {RequiredStackCount} Times": "The Vitalizing Sanctum gravado {RequiredStackCount} vezes",
+    "Fail to Advance Tier {ConditionStr2} Relic of Loyalty Advancement for the First Time": "Falhe ao avançar um Relic of Loyalty de Tier {ConditionStr2} pela primeira vez"
    }
   },
   "AcquireAndUseViewGroup_Name.csv": {
    "Desc": {
     "Replica Seed - [Keyword]": "Replica Seed - [Keyword]",
     "Activate Replica Seed": "Ativar Replica Seed"
+   },
+   "Param": {
+    "[5★ Guaranteed] Summon Pass": "[5★ Guaranteed] Summon Pass",
+    "[Lv. 45 Milestone] New Summon All-in-One Pack": "[Lv. 45 Milestone] New Summon All-in-One Pack",
+    "Victory Clan Reward": "Recompensa de Clã por Vitória",
+    "Victory Private Reward": "Recompensa Individual por Vitória",
+    "Defeat Clan Reward": "Recompensa de Clã por Derrota",
+    "Defeat Private Reward": "Recompensa Individual por Derrota",
+    "Defeat Rewards": "Recompensas por Derrota",
+    "Private Reward": "Recompensa Individual",
+    "Private": "Individual",
+    "MVP Bonus Rewards": "Recompensas de Bônus MVP",
+    "Season Rewards": "Recompensas da Temporada",
+    "Repeatable Clan Rewards": "Recompensas Repetíveis do Clã",
+    "Pass": "Passe",
+    "Grace of the constellations": "Grace of the Constellations",
+    "Relics of Civilization! Shop": "Loja Relíquias da Civilização!",
+    "S2 Thorstein's Special Supply Step-Up": "S2 Step-Up de Suprimentos Especiais de Thorstein",
+    "Upgrade Cell": "Melhoria de Célula",
+    "Rate Up Costume Summon": "Invocação de Traje com Taxa Aumentada",
+    "Costume Pick-Up Summon": "Invocação Pick-Up de Traje",
+    "Bonus Summon Step-Up": "Step-Up de Invocação Bônus",
+    "Crest Level Up": "Subir Nível do Brasão",
+    "Reset Crest Level": "Redefinir Nível do Brasão",
+    "Summon Costume": "Invocar Traje",
+    "Summon Phantom Weapon": "Invocar Arma Fantasma",
+    "Summon": "Invocar",
+    "Unlock Spellstone Slot": "Desbloquear Espaço de Spellstone",
+    "Alliance Coin Shop": "Loja de Alliance Coins",
+    "Hot Deals": "Ofertas Imperdíveis"
    }
   },
   "ClientString_Name.csv": {
@@ -457,12 +536,38 @@
    "Desc": {
     "Daily Giant's Tower Hot Time Recharge Ticket <Yellow>[{IntParam}]</>": "Giant's Tower Hot Time Recharge Ticket diário <Yellow>[{IntParam}]</>",
     "Daily Crystal of Authority <Yellow>[{IntParam}]</>": "Crystal of Authority diário <Yellow>[{IntParam}]</>"
+   },
+   "Param": {
+    "Powerstone Inventory": "Inventário de Powerstones",
+    "Marketplace Listing Capacity": "Capacidade de Anúncios no Marketplace",
+    "Enhancement Stone Chest": "Enhancement Stone Chest",
+    "Advanced Summon Costume Chest": "Advanced Summon Costume Chest",
+    "Advanced Summon Phantom Weapon Chest": "Advanced Summon Phantom Weapon Chest",
+    "Mount Speed": "Velocidade de Montaria",
+    "Offline Playtime": "Tempo de Jogo Off-line",
+    "Crest Reset Refund Rate": "Taxa de Reembolso ao Redefinir Brasão",
+    "Reset Crest": "Redefinir Brasão",
+    "Free Death Penalty Recovery": "Recuperação Gratuita de Penalidade de Morte",
+    "Free Death Penalty Recovery Attempts": "Tentativas Gratuitas de Recuperação de Penalidade de Morte"
    }
   },
   "ContentsFunction_Name.csv": {
    "Desc": {
     "Receive [Value] Giant's Tower Hot Time Recharge Ticket(s) daily via Inbox.": "Receba [Value] Giant's Tower Hot Time Recharge Ticket por dia pela caixa de entrada.",
     "Receive [Value] Arbiter's Ordeal Token(s) via Inbox daily.": "Receba [Value] Arbiter's Ordeal Token por dia pela caixa de entrada."
+   },
+   "Param": {
+    "Powerstone Inventory": "Inventário de Powerstones",
+    "Marketplace Listing Capacity": "Capacidade de Anúncios no Marketplace",
+    "Enhancement Stone Chest": "Enhancement Stone Chest",
+    "Advanced Summon Costume Chest": "Advanced Summon Costume Chest",
+    "Advanced Summon Phantom Weapon Chest": "Advanced Summon Phantom Weapon Chest",
+    "Mount Speed": "Velocidade de Montaria",
+    "Offline Playtime": "Tempo de Jogo Off-line",
+    "Crest Reset Refund Rate": "Taxa de Reembolso ao Redefinir Brasão",
+    "Reset Crest": "Redefinir Brasão",
+    "Free Death Penalty Recovery": "Recuperação Gratuita de Penalidade de Morte",
+    "Free Death Penalty Recovery Attempts": "Tentativas Gratuitas de Recuperação de Penalidade de Morte"
    }
   },
   "Dialog_Name.csv": {
@@ -656,7 +761,10 @@
    "Description": {
     "Defeat the Guardian of the Treasure before time runs out.": "Derrote o Guardian of the Treasure antes que o tempo acabe.",
     "{StringParam} Essence extracted via the Replica Seed.\r\nCells are proliferating with seething intensity.": "Essência de {StringParam} extraída pela Replica Seed.\r\nAs células proliferam com intensidade fervente.",
-    "{StringParam} Essence extracted via the Replica Seed.\r\nCells are multiplying at an explosive rate.": "Essência de {StringParam} extraída pela Replica Seed.\r\nAs células se multiplicam em ritmo explosivo."
+    "{StringParam} Essence extracted via the Replica Seed.\r\nCells are multiplying at an explosive rate.": "Essência de {StringParam} extraída pela Replica Seed.\r\nAs células se multiplicam em ritmo explosivo.",
+    "You’re in the Enhancement Barrier Level {StringParam}.": "Você está em Enhancement Barrier Level {StringParam}.",
+    "You’re in the Golden Barrier Level {StringParam}.": "Você está em Golden Barrier Level {StringParam}.",
+    "You’re in the Barrier of the Unknown Level {StringParam}.": "Você está em Barrier of the Unknown Level {StringParam}."
    }
   },
   "Dungeon_Name.csv": {
@@ -677,6 +785,14 @@
     "Aerial Dash - Treasure Chest Challenge": "Aerial Dash - Desafio do Baú do Tesouro",
     "Increases damage against players by <Orange>{EffectParam1}</>%\r\nReduces damage taken from players by <Orange>{EffectParam2}</>%\r\nIncreases Critical Hit Chance against players by <Orange>{EffectParam3}</>%\r\nIncreases Accuracy against players by <Orange>{EffectParam4}</>%\r\nIncreases Movement Speed by <Orange>{EffectParam5}</>%\r\nIncreases damage against boss monsters by <Orange>{EffectParam6}</>%\r\n<Orange>※ Only applies inside Ancient Ruins</>": "Aumenta o dano contra jogadores em <Orange>{EffectParam1}</>%\r\nReduz o dano recebido de jogadores em <Orange>{EffectParam2}</>%\r\nAumenta a chance de acerto crítico contra jogadores em <Orange>{EffectParam3}</>%\r\nAumenta a precisão contra jogadores em <Orange>{EffectParam4}</>%\r\nAumenta a velocidade de movimento em <Orange>{EffectParam5}</>%\r\nAumenta o dano contra chefes em <Orange>{EffectParam6}</>%\r\n<Orange>※ Aplica-se apenas dentro de Ancient Ruins</>",
     "Increases Movement Speed by <Orange>{EffectParam1}</>%\r\n<Orange>※ Only applies inside Ancient Ruins</>": "Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%\r\n<Orange>※ Aplica-se apenas dentro de Ancient Ruins</>"
+   },
+   "SummaryEffectDescription": {
+    "Anima Form I Effect": "Efeito de Anima Form I",
+    "Indomitable Form I Effect": "Efeito de Indomitable Form I",
+    "Anima Form II Effect": "Efeito de Anima Form II",
+    "Indomitable Form II Effect": "Efeito de Indomitable Form II",
+    "Anima Form III Effect": "Efeito de Anima Form III",
+    "Indomitable Form III Effect": "Efeito de Indomitable Form III"
    }
   },
   "EventDrop_Name.csv": {
@@ -695,19 +811,24 @@
     "Use Stardust": "Usar Stardust",
     "Use Halo Bread": "Usar Halo Bread",
     "Use Cup of Black Tea": "Usar Cup of Black Tea",
-    "Increase Colossal Titan Attunement Page Tier": "Aumentar o nível da página de sintonia de Colossal Titan"
+    "Increase Colossal Titan Attunement Page Tier": "Aumentar o nível da página de sintonia de Colossal Titan",
+    "Craft Equipment Lucky Chest": "Criar Equipment Lucky Chest"
    },
    "Desc": {
     "Use Weapon Enhancement Stone Recipe": "Usar Weapon Enhancement Stone Recipe",
     "Use ‘Weapon Enhancement Stone Recipe’": "Usar ‘Weapon Enhancement Stone Recipe’",
     "Use {RequiredStackCount} Anima Essence": "Usar {RequiredStackCount} Anima Essence",
     "Use {RequiredStackCount} Baba Liquor": "Usar {RequiredStackCount} Baba Liquor",
-    "Use {RequiredStackCount} Halo Bread": "Usar {RequiredStackCount} Halo Bread"
+    "Use {RequiredStackCount} Halo Bread": "Usar {RequiredStackCount} Halo Bread",
+    "Discover {RequiredStackCount} Giant’s Remnants": "Descubra {RequiredStackCount} Giant’s Remnants",
+    "Acquire a Tier 13 Relic of Loyalty for the first time": "Adquira um Relic of Loyalty de Tier 13 pela primeira vez",
+    "Craft {RequiredStackCount} Equipment Lucky Chests": "Crie {RequiredStackCount} Equipment Lucky Chests"
    }
   },
   "EventTab_Name.csv": {
    "TabName": {
-    "Naruru's Treasure Hunt Ticket Drops": "Drops de Naruru's Treasure Hunt Ticket"
+    "Naruru's Treasure Hunt Ticket Drops": "Drops de Naruru's Treasure Hunt Ticket",
+    "Summon Coupon Support Missions": "Missões de Suporte de Summon Coupon"
    }
   },
   "FlavorTextPage_Name.csv": {
@@ -728,7 +849,8 @@
     "Checking the Ninkar Recipe from Orica...": "Verificando a Ninkar Recipe de Orica…"
    },
    "Desc": {
-    "Activate Replica Seed": "Ativar Replica Seed"
+    "Activate Replica Seed": "Ativar Replica Seed",
+    "Enter": "Entrar"
    }
   },
   "GadgetType_Name.csv": {
@@ -842,7 +964,12 @@
     "Go to the <Sub>Alabaster Encampment</>": "Vá para <Sub>Alabaster Encampment</>",
     "Go to the <Sub>Whispering Wind Plain</>": "Vá para <Sub>Whispering Wind Plain</>",
     "Go to the <Sub>End of the Forsaken Land</>": "Vá para <Sub>End of the Forsaken Land</>",
-    "Go to the <Sub>Bedrock Falls</>": "Vá para <Sub>Bedrock Falls</>"
+    "Go to the <Sub>Bedrock Falls</>": "Vá para <Sub>Bedrock Falls</>",
+    "Enter the <EpicMain>village</>": "Entre na <EpicMain>vila</>",
+    "Enter the <EpicMain>gorge</> to find Simon": "Entre no <EpicMain>desfiladeiro</> para encontrar Simon",
+    "Enter <Archive>the Hoarfrost Snowfield Entrance</>": "Entre na <Archive>Hoarfrost Snowfield Entrance</>",
+    "Enter <Archive>the gorge</>": "Entre no <Archive>desfiladeiro</>",
+    "Enter<Sub> the ruins</>": "Entre<Sub> nas ruínas</>"
    }
   },
   "Quest_Name.csv": {
@@ -850,7 +977,17 @@
     "Craft Armor Enhancement Stone": "Fabricar Armor Enhancement Stone",
     "Craft Weapon Enhancement Stone": "Fabricar Weapon Enhancement Stone",
     "Craft Accessory Enhancement Stone": "Fabricar Accessory Enhancement Stone",
-    "Frantia Gate Guard": "Frantia Gate Guard"
+    "Frantia Gate Guard": "Frantia Gate Guard",
+    "Reunion Beyond the Bridge": "Reencontro Além da Ponte",
+    "Unbound Wraiths": "Wraiths Libertos",
+    "A Rookie Hunter in Peril": "Um Hunter Novato em Perigo",
+    "Whereabouts of the Paradise Advent Assembly": "Paradeiro da Paradise Advent Assembly",
+    "Subdue the Severe Patient": "Subjugue o Paciente Grave",
+    "To the Stormkel Official Residence": "Para a Residência Oficial de Stormkel",
+    "Deeply Tinted Grassland": "Pastagem de Cores Intensas",
+    "Long-Awaited Reunion": "Reencontro Tão Esperado",
+    "What I've Been Looking For So Long": "O Que Procurei por Tanto Tempo",
+    "Trial of Perseverance": "Prova de Perseverança"
    },
    "DescNotCompleted": {
     "Defeat the Guardian of the Treasure before time runs out.": "Derrote o Guardian of the Treasure antes que o tempo acabe.",
@@ -875,7 +1012,8 @@
    "Desc": {
     "Removes Invisibility from hostile targets within Cradle of Mana's range": "Remove a invisibilidade de alvos hostis dentro do alcance de Cradle of Mana",
     "Increases Cradle of Mana range by 5m\r\nIncreases Crowd Control Resistance Rate by an additional 10% while Shield is active": "Aumenta o alcance de Cradle of Mana em 5 m\r\nAumenta a resistência a controle de grupo em mais 10% enquanto o escudo estiver ativo",
-    "Increases Cradle of Mana range by 5m\r\nIncreases Crowd Control Resistance Rate by an additional 15% while Shield is active": "Aumenta o alcance de Cradle of Mana em 5 m\r\nAumenta a resistência a controle de grupo em mais 15% enquanto o escudo estiver ativo"
+    "Increases Cradle of Mana range by 5m\r\nIncreases Crowd Control Resistance Rate by an additional 15% while Shield is active": "Aumenta o alcance de Cradle of Mana em 5 m\r\nAumenta a resistência a controle de grupo em mais 15% enquanto o escudo estiver ativo",
+    "Has a {EffectParam2}% chance to Knock Back": "Tem {EffectParam2}% de chance de empurrar o alvo"
    }
   },
   "SpeechBalloonBundle_Name.csv": {
@@ -1253,6 +1391,118 @@
     "A place where Halpasiam the Frozen Blade, also known as the guardian of the second realm, resides.\r\nEven after countless challenges from adventurers, Halpasiam still stands firm.": "Um lugar onde reside Halpasiam the Frozen Blade, também conhecida como guardiã do segundo reino.\r\nMesmo após inúmeros desafios de aventureiros, Halpasiam continua firme.",
     "A place where Drugamu the Thunder Mace, the guardian of the third realm, resides.\r\nEven after countless challenges from adventurers, Drugamu  still stands firm.": "Um lugar onde reside Drugamu the Thunder Mace, o guardião do terceiro reino.\r\nMesmo após inúmeros desafios de aventureiros, Drugamu continua firme."
    }
+  },
+  "EventMission_Name.csv": {
+   "PageName": {
+    "Summon Coupon Support Missions": "Missões de Suporte de Summon Coupon"
+   }
+  },
+  "Item_Name.csv": {
+   "Desc": {
+    "Registration Certificate for {Param1}.\r\nObtain {Param1} upon registration.{jstag:}": "Registration Certificate de {Param1}.\r\nRegistre-se para obter {Param1}.{jstag:}"
+   },
+   "Param3": {
+    "HP Healing Increase Rate": "Taxa de Aumento de Cura de HP",
+    "Craft": "Criação",
+    "Spellstone": "Spellstone",
+    "Lesser Accessory Blueprint": "Lesser Accessory Blueprint",
+    "Lesser Armor Blueprint": "Lesser Armor Blueprint",
+    "Lesser Weapon Blueprint": "Lesser Weapon Blueprint",
+    "Sturdy Armor": "Sturdy Armor",
+    "Wooden Token": "Wooden Token",
+    "Critical Damage Taken from Players": "Dano Crítico Recebido de Jogadores"
+   }
+  },
+  "ShopSubTab_Name.csv": {
+   "TabName": {
+    "[Lv. {Param1} Achieved] Summon All-in-One Pack": "[Lv. {Param1} Achieved] Summon All-in-One Pack",
+    "[Lv. {Param1} Achieved: ] New Summon All-in-One Pack": "[Lv. {Param1} Achieved: ] New Summon All-in-One Pack"
+   }
+  },
+  "Alert_Name.csv": {
+   "Param": {
+    "Giant Bat": "Morcego Gigante"
+   }
+  },
+  "BadgeNotification_Name.csv": {
+   "Param": {
+    "Active Skill": "Skill Ativo",
+    "Passive Skill": "Skill Passivo",
+    "Awakening Cell Unlocked": "Célula de Despertar Desbloqueada",
+    "Equipped Keyring": "Keyring Equipado",
+    "Event Roulette": "Roleta de Evento",
+    "Milestone Package": "Pacote de Marco",
+    "Monolith War Entry Application": "Inscrição para Monolith War",
+    "Mount": "Montaria",
+    "Skillbook Shop": "Loja de Skillbooks",
+    "Summon Shop": "Loja de Invocação",
+    "Guidebook": "Manual",
+    "Glider Summon": "Invocação de Planador"
+   }
+  },
+  "BadgeTask_Name.csv": {
+   "Param": {
+    "Active Skill": "Skill Ativo",
+    "Passive Skill": "Skill Passivo",
+    "Architect Challenge": "Desafio Architect",
+    "Crest": "Brasão",
+    "Equipped Card": "Carta Equipada",
+    "Free at NPC Merchant": "Grátis no Vendedor NPC",
+    "High Pass": "High Pass",
+    "Mount": "Montaria",
+    "New Mission Event Count": "Contagem do Novo Evento de Missão",
+    "Owned": "Possuído",
+    "Pass": "Passe",
+    "Ranking Mission Event": "Evento de Missão de Ranking",
+    "New Quest": "Nova Missão",
+    "Daily": "Diário"
+   }
+  },
+  "Social_Name.csv": {
+   "Param": {
+    "Harvest Festival Firecracker": "Foguete do Harvest Festival",
+    "Harvest Festival Large Firecracker": "Foguete Grande do Harvest Festival",
+    "Crack knuckles": "Estalar os Dedos",
+    "Show off": "Exibir-se",
+    "Ponder": "Refletir",
+    "Greet": "Cumprimentar",
+    "Listen": "Ouvir",
+    "Praise": "Elogiar",
+    "Forgive": "Perdoar",
+    "Cheers": "Saúde",
+    "Calm down": "Acalmar",
+    "Shrug": "Dar de Ombros",
+    "Pledge Your Heart": "Jurar de Coração",
+    "Throat slash": "Corte na Garganta"
+   }
+  },
+  "MapIconCategory_Name.csv": {
+   "Name": {
+    "World Boss": "Chefe Mundial",
+    "Field Boss": "Chefe de Campo",
+    "Share Location": "Compartilhar Localização",
+    "Map Pins": "Marcadores do Mapa",
+    "Monolith": "Monolith",
+    "Game Play Event": "Evento de Jogo",
+    "Hunting Grounds": "Campos de Caça"
+   }
+  },
+  "ShopMissionReward_Name.csv": {
+   "Param": {
+    "Craft Armor Enhancement Stone": "Fabricar Armor Enhancement Stone",
+    "Craft Weapon Enhancement Stone": "Fabricar Weapon Enhancement Stone",
+    "Craft Accessory Enhancement Stone": "Fabricar Accessory Enhancement Stone",
+    "Frantia Gate Guard": "Frantia Gate Guard",
+    "Reunion Beyond the Bridge": "Reencontro Além da Ponte",
+    "Unbound Wraiths": "Wraiths Libertos",
+    "A Rookie Hunter in Peril": "Um Hunter Novato em Perigo",
+    "Whereabouts of the Paradise Advent Assembly": "Paradeiro da Paradise Advent Assembly",
+    "Subdue the Severe Patient": "Subjugue o Paciente Grave",
+    "To the Stormkel Official Residence": "Para a Residência Oficial de Stormkel",
+    "Deeply Tinted Grassland": "Pastagem de Cores Intensas",
+    "Long-Awaited Reunion": "Reencontro Tão Esperado",
+    "What I've Been Looking For So Long": "O Que Procurei por Tanto Tempo"
+   }
   }
  },
  "__literal_brackets__": [
@@ -1267,6 +1517,15 @@
  "Achievement_Name.csv": {
   "2017001": {
    "Description": "The Vitalizing Sanctum gravado {RequiredStackCount} vezes"
+  },
+  "1041001": {
+   "Description": "Descubra Giant's Remnants {RequiredStackCount} vezes"
+  },
+  "4086001": {
+   "Description": "Falhe ao avançar um Relic of Loyalty de Tier {ConditionStr2} pela primeira vez"
+  },
+  "4058001": {
+   "Description": "Falhe ao avançar um Relic of Subjugation de Tier {IntParam} pela primeira vez"
   }
  },
  "AcquireAndUseViewGroup_Name.csv": {
@@ -1302,7 +1561,21 @@
   "CHARACTERGIFT_CANCEL_MSG": "Presente de personagem cancelado. O Character Gift Ticket será enviado por e-mail.",
   "CHAT_OPTION_ON": "Ligado",
   "PASS_UPGRADE_BTN_TEXT": "Melhorar Season Pass",
-  "PASS_BUY_NORMAL_OPEN_DESC": "As recompensas Premium do Season Pass já podem ser resgatadas."
+  "PASS_BUY_NORMAL_OPEN_DESC": "As recompensas Premium do Season Pass já podem ser resgatadas.",
+  "COMMON_ACQUIRE_ALL": "Receber Todos",
+  "MAIL_UI_BTN_GETALL": "Receber Todos",
+  "SHOP_PASS_LINE_LEVELUP_MISSION": "Receber Todos",
+  "ACHIEVEMENT_REWARD_GET_ALL": "Receber Todos",
+  "COMMON_ENTER": "Entrar",
+  "COMMON_MISSION_CLEAR_TITEL": "Concluir Missão Agora",
+  "MODULEDUNGEON_POINT_CHARGING": "Ordeal Token (Recarregado)",
+  "MODULEDUNGEON_POINT_COST": "Gastar Ordeal Token",
+  "ITEM_TYPE_ITEMEXTEND": "Inventory Expansion Ticket",
+  "ITEM_TYPE_STORAGEEXTEND": "Stash Slot Expansion Ticket",
+  "SERVERTRANSFER_CLAN_BTN2": "Comprar Server Transfer Ticket",
+  "BLESSING_CARD_TYPE": "Carta de Grace of the Constellations",
+  "WORLDMAP_ADVENTUREMODE_GUIDE_DESC": "Mostra <Yellow>Treasure Chests</> e <Yellow>Giant's Remnants</> no Mapa Mundial.",
+  "BATTLEFIELD_SENTINEL_CONTROL_BUFF_EMPTY": "Nenhum detentor de Sentinel's Resonance."
  },
  "ContentsFunctionGroup_Name.csv": {
   "204": {
@@ -1318,6 +1591,9 @@
   },
   "11401": {
    "Desc": "Receba [Value] Arbiter's Ordeal Token por dia pela caixa de entrada."
+  },
+  "10804": {
+   "Param": "Enhancement Stone Selection Chest"
   }
  },
  "Dialog_Name.csv": {
@@ -1469,6 +1745,27 @@
   },
   "71200": {
    "EffectDescription": "Aumenta a velocidade de movimento em <Orange>{EffectParam1}</>%\n<Orange>※ Aplica-se apenas dentro de Ancient Ruins</>"
+  },
+  "25571": {
+   "EffectDescription": "Item desativado"
+  },
+  "140401": {
+   "SummaryEffectDescription": "Efeito de Anima Form I"
+  },
+  "140501": {
+   "SummaryEffectDescription": "Efeito de Anima Form II"
+  },
+  "140601": {
+   "SummaryEffectDescription": "Efeito de Anima Form III"
+  },
+  "140701": {
+   "SummaryEffectDescription": "Efeito de Indomitable Form I"
+  },
+  "62000": {
+   "EffectDescription": "Keyring Test Skill 1 - Precisão"
+  },
+  "63000": {
+   "EffectDescription": "Keyring Test Skill 2 - Evasão"
   }
  },
  "EventDrop_Name.csv": {
@@ -1515,11 +1812,41 @@
   },
   "107444": {
    "Name": "Aumentar o nível da página de sintonia de Colossal Titan"
+  },
+  "107414": {
+   "Name": "Desbloquear Attunement de Attack on Titan",
+   "Desc": "Desbloquear Attunement de Attack on Titan"
+  },
+  "107415": {
+   "Desc": "Usar a Attack on Titan Vending Machine {RequiredStackCount} vez(es)"
+  },
+  "107424": {
+   "Name": "Subir o nível do Attunement de Attack on Titan",
+   "Desc": "Subir o nível do Attunement de Attack on Titan {RequiredStackCount} vez(es)"
+  },
+  "1016103": {
+   "Desc": "Descubra {RequiredStackCount} Giant’s Remnants"
+  },
+  "105900": {
+   "Desc": "Lesser Attunement Chest: use o de {RequiredStackCount} personagens"
+  },
+  "105906": {
+   "Desc": "Lesser Attunement Chest: obtenha o de personagem {RequiredStackCount} vezes"
+  },
+  "106614": {
+   "Name": "Use o 200-Day Anniversary Celebration Roulette Ticket"
+  },
+  "107310": {
+   "Name": "Criar Equipment Lucky Chest",
+   "Desc": "Criar Equipment Lucky Chest {RequiredStackCount} vez(es)"
   }
  },
  "EventTab_Name.csv": {
   "6017": {
    "TabName": "Drops de Naruru's Treasure Hunt Ticket"
+  },
+  "5056": {
+   "TabName": "Colaboração Attack on Titan"
   }
  },
  "FlavorTextPage_Name.csv": {
@@ -1557,6 +1884,12 @@
   },
   "2088": {
    "TextInteraction": "Verificando a Ninkar Recipe de Orica…"
+  },
+  "111": {
+   "TextInteraction": "Coletando Giant's Remnants..."
+  },
+  "10611": {
+   "TextInteraction": "Giant's Remnants…"
   }
  },
  "GadgetType_Name.csv": {
@@ -1580,6 +1913,9 @@
   "1000104": {
    "Name": "Fabricar Accessory Enhancement Stone",
    "Description": "Fabricar Accessory Enhancement Stone {RequiredStackCount} vezes"
+  },
+  "1000317": {
+   "Description": "Usar a Attack on Titan Vending Machine {RequiredStackCount} vez(es)"
   }
  },
  "QuestTask_Name.csv": {
@@ -1849,6 +2185,27 @@
   },
   "305610010": {
    "TaskName": "Vá para <Sub>Bedrock Falls</>"
+  },
+  "50030601": {
+   "TaskName": "Concluir Arbiter's Ordeal 1 vez e receber as recompensas"
+  },
+  "201060100": {
+   "TaskName": "Vá até a <Archive>árvore</> perto de Giant’s Remnants"
+  },
+  "500160301": {
+   "TaskName": "Tente criar 1 2★ Source of Evolution"
+  },
+  "500290501": {
+   "TaskName": "Crie 1 Equipment Lucky Chest"
+  },
+  "30501010010": {
+   "TaskName": "Enfrente o Trial of Leap 3-1"
+  },
+  "30501050010": {
+   "TaskName": "Enfrente o Trial of Leap 3-2"
+  },
+  "30501080010": {
+   "TaskName": "Enfrente o Trial of Combat 3-2"
   }
  },
  "Quest_Name.csv": {
@@ -1861,7 +2218,10 @@
   "511030": {
    "DescNotCompleted": "O Aventureiro ganha uma Weapon Enhancement Stone Recipe como recompensa por divulgar a Blacksmiths Guild a pedido de Thorstein."
   },
-  "103150": "Frantia Gate Guard"
+  "103150": "Frantia Gate Guard",
+  "5002905": {
+   "Name": "Criar Equipment Lucky Chest"
+  }
  },
  "ResultCodeString_Name.csv": {
   "2195": "Já existe uma Replica Seed ativa.",
@@ -2197,10 +2557,328 @@
   "Licor Baba Forte": "Strong Baba Liquor",
   "Bênção do Gigante": "Giant's Blessing",
   "bênção de Giant": "Giant's Blessing",
-  "Bênção de Giant": "Giant's Blessing"
+  "Bênção de Giant": "Giant's Blessing",
+  "Santuário Etéreo": "Ethereal Sanctum",
+  "Santuário etéreo": "Ethereal Sanctum",
+  "Santuário do Éter": "Ethereal Sanctum",
+  "Barreira Temporal": "Temporal Barrier",
+  "Cofre Secreto do Árbitro": {
+   "en": [
+    "Arbiter’s Secret Vault",
+    "Arbiter's Secret Vault"
+   ]
+  },
+  "Ordália do Árbitro": {
+   "en": [
+    "Arbiter’s Ordeal",
+    "Arbiter's Ordeal"
+   ]
+  },
+  "Token de Provação": "Ordeal Token",
+  "Ficha de Provação": "Ordeal Token",
+  "Corredor Perpétuo do Clã": "Clan Perpetual Corridor",
+  "Masmorra de Ouro": "Gold Dungeon",
+  "Chefe de Rift": "Rift Boss",
+  "Chefe da Fenda": "Rift Boss",
+  "Chefes de Rift": "Rift Bosses",
+  "Chefes da Fenda": "Rift Bosses",
+  "Rift anormal": "Abnormal Rift",
+  "Fenda Anormal": "Abnormal Rift",
+  "Teste de Salto": "Trial of Leap",
+  "Prova de Salto": "Trial of Leap",
+  "Provação do Salto": "Trial of Leap",
+  "Prova de Sabedoria": "Trial of Wisdom",
+  "Teste de Sabedoria": "Trial of Wisdom",
+  "Prova de Combate": "Trial of Combat",
+  "Teste de Combate": "Trial of Combat",
+  "Graça das Constelações": "Grace of the Constellations",
+  "Memórias de Gudua": {
+   "en": [
+    "Gudua's Memories",
+    "Gudua’s Memories"
+   ]
+  },
+  "Crista dos Antigos": "Crest of the Ancients",
+  "Brasão dos Ancestrais": "Crest of the Ancients",
+  "Brasão dos Antigos": "Crest of the Ancients",
+  "Crista dos Ancestrais": "Crest of the Ancients",
+  "Festival de Recompensas de Aburu": {
+   "en": [
+    "Aburu's Bounty Festival",
+    "Aburu’s Bounty Festival"
+   ]
+  },
+  "Festival Halo": "Halo Festival",
+  "Festival da Colheita": "Harvest Festival",
+  "Arquiteto x Ataque a Titan": "Architect x Attack on Titan",
+  "Ataque a Titan": "Attack on Titan",
+  "Ataque dos Titãs": "Attack on Titan",
+  "Fortaleza do Abismo": "Abyss Fortress",
+  "Torre Guardiã do Abismo": "Guardian Tower of the Abyss",
+  "Ressonância do Sentinela": "Sentinel's Resonance",
+  "Ressonância da Sentinela": "Sentinel's Resonance",
+  "Tocha de Ashur": {
+   "en": [
+    "Ashur's Torch",
+    "Ashur’s Torch"
+   ]
+  },
+  "Giant's Remanescentes": {
+   "en": [
+    "Giant's Remnants",
+    "Giant’s Remnants"
+   ]
+  },
+  "Remanescentes do Gigante": {
+   "en": [
+    "Giant's Remnants",
+    "Giant’s Remnants"
+   ]
+  },
+  "Guerra do Monolith": "Monolith War",
+  "Guerra do Monólito": "Monolith War",
+  "Guerra dos Monólitos": "Monolith War",
+  "Arsenal do Imperador": {
+   "en": [
+    "Emperor's Armory",
+    "Emperor’s Armory"
+   ]
+  },
+  "Galeria do Imperador": {
+   "en": [
+    "Emperor’s Gallery",
+    "Emperor's Gallery"
+   ]
+  },
+  "Arena de Angbar": "Angbar Arena",
+  "Arena Angbar": "Angbar Arena",
+  "Antigo Instituto Imperial": "Ancient Imperial Institute",
+  "Instituto Imperial Antigo": "Ancient Imperial Institute",
+  "Forsaken Mine Território": "Forsaken Mine Territory",
+  "Território da Forsaken Mine": "Forsaken Mine Territory",
+  "Kubaba Tripulação": "Kubaba’s Crew",
+  "Tripulação de Kubaba": "Kubaba’s Crew",
+  "Ser Desconhecido": "Unknown Being",
+  "Os Corvos Cinzentos": "The Ashen Crows",
+  "Corvos Cinzentos": "Ashen Crows",
+  "Rift chefe": "Rift Boss",
+  "Rift chefes": {
+   "en": [
+    "Rift Bosses",
+    "Rift Boss"
+   ]
+  },
+  "chefe do Rift": "Rift Boss",
+  "chefe de Rift": "Rift Boss",
+  "Chefe Rift": "Rift Boss",
+  "Remanescentes de Giant": {
+   "en": [
+    "Giant's Remnants",
+    "Giant’s Remnants"
+   ]
+  },
+  "restos de Giant": {
+   "en": [
+    "Giant's Remnants",
+    "Giant’s Remnants"
+   ]
+  },
+  "Resquícios de Gigante": {
+   "en": [
+    "Giant's Remnants",
+    "Giant’s Remnants"
+   ]
+  },
+  "remanescentes de Gigante": {
+   "en": [
+    "Giant's Remnants",
+    "Giant’s Remnants"
+   ]
+  },
+  "Ataque em Titan": "Attack on Titan",
+  "ataque ao Titan": "Attack on Titan",
+  "Fortaleza do Abyss": "Abyss Fortress",
+  "Fortalezas do Abyss": "Abyss Fortresses",
+  "Bounty Festival de Aburu": {
+   "en": [
+    "Aburu's Bounty Festival",
+    "Aburu’s Bounty Festival"
+   ]
+  },
+  "Símbolo de Provação": "Ordeal Token",
+  "Festival de Halo": "Halo Festival",
+  "provação do árbitro": {
+   "en": [
+    "Arbiter's Ordeal",
+    "Arbiter’s Ordeal"
+   ]
+  },
+  "ressonância do Sentinel": "Sentinel's Resonance",
+  "Baú do Tesouro": {
+   "en": [
+    "Treasure Chest"
+   ]
+  },
+  "Baú de Tesouro": {
+   "en": [
+    "Treasure Chest"
+   ]
+  },
+  "Baús de Tesouro": {
+   "en": [
+    "Treasure Chests",
+    "Treasure Chest"
+   ]
+  },
+  "Baús do Tesouro": {
+   "en": [
+    "Treasure Chests",
+    "Treasure Chest"
+   ]
+  },
+  "Baú da Sorte": "Lucky Chest",
+  "Baús da Sorte": {
+   "en": [
+    "Lucky Chests",
+    "Lucky Chest"
+   ]
+  },
+  "Relíquia de Subjugação": "Relic of Subjugation",
+  "Relíquia da Subjugação": "Relic of Subjugation",
+  "Relíquias de Subjugação": {
+   "en": [
+    "Relics of Subjugation",
+    "Relic of Subjugation"
+   ]
+  },
+  "Relíquia de Lealdade": "Relic of Loyalty",
+  "Relíquia da Lealdade": "Relic of Loyalty",
+  "Relíquias de Lealdade": {
+   "en": [
+    "Relics of Loyalty",
+    "Relic of Loyalty"
+   ]
+  },
+  "Relíquia do Infinito": "Relic of Infinity",
+  "Relíquias do Infinito": {
+   "en": [
+    "Relics of Infinity",
+    "Relic of Infinity"
+   ]
+  },
+  "Relíquia do Abismo": "Relic of Abyss",
+  "Relíquias do Abismo": {
+   "en": [
+    "Relics of Abyss",
+    "Relic of Abyss"
+   ]
+  },
+  "Moeda de Aniversário de 300 Dias": {
+   "en": [
+    "300-Day Anniversary Coin"
+   ]
+  },
+  "Moedas de Aniversário de 300 Dias": {
+   "en": [
+    "300-Day Anniversary Coins",
+    "300-Day Anniversary Coin"
+   ]
+  },
+  "Moeda de Aniversário de 200 Dias": {
+   "en": [
+    "200-Day Anniversary Coin"
+   ]
+  },
+  "Moedas de Aniversário de 200 Dias": {
+   "en": [
+    "200-Day Anniversary Coins",
+    "200-Day Anniversary Coin"
+   ]
+  },
+  "Workshop de moedas de aniversário de 200 dias": "200-Day Anniversary Coin Workshop",
+  "Workshop de Moeda de Aniversário de 300 Dias": "300-Day Anniversary Coin Workshop",
+  "Moedas de Comemoração de Aniversário de 200 Dias": {
+   "en": [
+    "200-Day Anniversary Celebration Coins"
+   ]
+  },
+  "moedas de comemoração do aniversário de 300 dias": {
+   "en": [
+    "300-Day Anniversary Celebration Coins"
+   ]
+  },
+  "Baú de sintonização menor": "Lesser Attunement Chest",
+  "cupom de convocação": "Summon Coupon",
+  "Cupom de Convocação": "Summon Coupon",
+  "ticket de transferência de servidor de conta": "Account Server Transfer Ticket",
+  "ticket de transferência do servidor do clã": "Clan Server Transfer Ticket",
+  "ticket de transferência de servidor": "Server Transfer Ticket",
+  "ticket de transferência do servidor": "Server Transfer Ticket",
+  "Prova da Sabedoria": "Trial of Wisdom",
+  "Prova do Salto": "Trial of Leap",
+  "teste do salto": "Trial of Leap",
+  "Julgamento de Combate": "Trial of Combat",
+  "Elixir de Ataque": "Elixir of Attack",
+  "Elixir de defesa": "Elixir of Defense",
+  "Elixir de Precisão": "Elixir of Accuracy",
+  "Elixir de Evasão": "Elixir of Evasion",
+  "Elixir de HP": "Elixir of HP",
+  "Elixir da Agressividade": "Elixir of Onslaught",
+  "Elixir da Aceleração Onslaught": "Elixir of Onslaught",
+  "Elixir do Herói": {
+   "en": [
+    "Elixir of Hero",
+    "Hero’s Elixir",
+    "Hero's Elixir"
+   ]
+  },
+  "Elixir de Erosão": "Elixir of Erosion",
+  "Elixir do crescimento do abismo": "Abyss Elixir of Growth",
+  "Bolo de Festival de 200 Dias": "200-Day Festival Cake",
+  "Vinho envelhecido de 200 dias": "200-Day Aged Wine",
+  "múltiplas trajetórias": "Multi Trajectory",
+  "Inferno Congelado": "Frost Hell",
+  "respiração Divine": "Divine Breath",
+  "Névoa Sombria": "Shadow Mist",
+  "Geração de escudo": "Shield Generation",
+  "Escudo Geração": "Shield Generation",
+  "Os Ashen Crows": "The Ashen Crows",
+  "Ticket de Expansão": "Expansion Ticket",
+  "registros não sintonizados": "Unattuned Records",
+  "Baú de Tesouro Especial": "Special Treasure Chest",
+  "Baú de Tesouro Selado": "Sealed Treasure Chest",
+  "Bilhete de roleta": "Roulette Ticket",
+  "bilhete de roleta": "Roulette Ticket",
+  "Sentinela Conquista": "Sentinel Conquest",
+  "Pacote de check-in de ingressos de reforço de atualização de verão": "Summer Upgrade Boost Ticket Check-in Pack",
+  "Baú da sorte do servidor": "Server Lucky Chest",
+  "Evento de Moeda de Aniversário de 300 Dias": "300-Day Anniversary Coin Event",
+  "Resquícios do Gigante": {
+   "en": [
+    "Giant's Remnants",
+    "Giant’s Remnants"
+   ]
+  },
+  "Abyss Battlefield Bilhete de recarga": "Abyss Battlefield Recharge Ticket",
+  "Barreira de Aprimoramento": "Enhancement Barrier",
+  "Barreira Dourada": "Golden Barrier",
+  "Cerco à Fortaleza": "Fortress Siege",
+  "Conquista da Sentinela": "Sentinel Conquest"
  },
  "Gadget_Name.csv": {
-  "10430137": "Usar Experimental Potion"
+  "10430137": "Usar Experimental Potion",
+  "105": {
+   "Name": "Codex Giant’s Remnants"
+  },
+  "104": {
+   "Name": "Codex Treasure Chest"
+  },
+  "4030101": {
+   "Name": "Tesouro de Arbiter's Ordeal"
+  },
+  "4040101": {
+   "Name": "Saída de Arbiter's Ordeal"
+  }
  },
  "Mail_Name.csv": {
   "305": {
@@ -2209,6 +2887,19 @@
   "1045": {
    "Title": "[Giant's Blessing]: Giant's Tower Hot Time Recharge Ticket",
    "Content": "Giant's Blessing: Giant's Tower Hot Time Recharge Ticket entregue diariamente."
+  },
+  "1012": {
+   "Content": "A recompensa de [DungeonName] Ethereal Sanctum chegou. Confira os itens anexados."
+  },
+  "212": {
+   "Title": "As Attack on Titan Special Coins foram convertidas em Ouro.",
+   "Content": "As Attack on Titan Special Coins foram convertidas em Ouro. Cada moeda foi convertida em 1.000 de ouro."
+  },
+  "207": {
+   "Title": "Halo Festival encerrado"
+  },
+  "111": {
+   "Title": "Recompensa de Rift Boss"
   }
  },
  "MiniDialog_Name.csv": {
@@ -2239,6 +2930,12 @@
  "ShopTab_Name.csv": {
   "400102": {
    "Desc": "Obter um traje 4★ tem grande chance de conceder [Veil of Reflections]."
+  },
+  "110032": {
+   "TabName": "Colaboração Attack on Titan"
+  },
+  "119001": {
+   "TabName": "Attack on Titan Special Coin"
   }
  },
  "Subscribe_Name.csv": {
@@ -2253,5 +2950,443 @@
   "503020104": {
    "Desc": "Um lugar onde reside Drugamu the Thunder Mace, o guardião do terceiro reino.\nMesmo após inúmeros desafios de aventureiros, Drugamu continua firme."
   }
+ },
+ "__restore_columns__": {
+  "Costume_Name.csv": [
+   "Param"
+  ],
+  "CostumeGroup_Name.csv": [
+   "Param"
+  ],
+  "SeasonCollectionMain_Name.csv": [
+   "Param"
+  ],
+  "Quest_Name.csv": [
+   "PlaceParam"
+  ],
+  "PassMission_Name.csv": [
+   "Param"
+  ],
+  "Crest_Name.csv": [
+   "Param"
+  ],
+  "TreasureBoxGroup_Name.csv": [
+   "Name"
+  ],
+  "FactionLevelShortcut_Name.csv": [
+   "Param"
+  ]
+ },
+ "__sync_by_text__": [
+  {
+   "target": [
+    "ShopMissionReward_Name.csv",
+    "Param"
+   ],
+   "from": [
+    "Quest_Name.csv",
+    "Name"
+   ]
+  }
+ ],
+ "GuideGrowthMethod_Name.csv": {
+  "100101": {
+   "GrowthMethodName": "Subir de Nível",
+   "GrowthMethodDesc": "O <Orange>Nível do Personagem</> é a base do seu crescimento e aumenta conforme você avança pelos diversos conteúdos.\nGanhe EXP concluindo <Orange>Missões</>, <Orange>Missões do Arquivo</> e <Orange>caçando monstros</>.\nCada nível ganho aumenta os atributos básicos do personagem."
+  },
+  "100201": {
+   "GrowthMethodName": "Efeitos do Avanço de Classe",
+   "GrowthMethodDesc": "O <Orange>Avanço</> libera o verdadeiro potencial da sua classe.\nAo avançar, os <Orange>atributos</> do personagem aumentam e você ganha acesso a novas <Orange>skills</>.\nÉ preciso cumprir os <Orange>requisitos de nível</> e concluir as <Orange>Missões de Avanço</> específicas."
+  },
+  "100202": {
+   "GrowthMethodName": "Postura",
+   "GrowthMethodDesc": "No 2º Avanço de Classe, você desbloqueia as <Orange>Especializações</> e as <Orange>Posturas de Batalha</>, ampliando bastante suas opções táticas em combate."
+  },
+  "100301": {
+   "GrowthMethodName": "Melhoria de Células",
+   "GrowthMethodDesc": "O <Orange>Despertar</> é um sistema de progressão em que você desbloqueia e desenvolve <Orange>Células</> carregadas com vários atributos.\nDesbloquear essas Células concede atributos progressivamente.\nQuando todas as Células de uma página estiverem desbloqueadas, você pode prosseguir com o <Orange>Despertar</>."
+  },
+  "100302": {
+   "GrowthMethodName": "Efeito do Despertar",
+   "GrowthMethodDesc": "Quando o grau das Células muda por meio do Despertar, atributos de bônus são aplicados.\nO <Orange>Efeito Geral do Despertar</> também é ativado com base na soma dos graus de todas as Células daquela página.\nO Despertar é composto por várias páginas."
+  },
+  "100401": {
+   "GrowthMethodName": "Melhoria de Ressonância",
+   "GrowthMethodDesc": "A <Orange>Ressonância</> é um sistema de progressão que concede bônus de atributos cada vez maiores conforme você avança pelos estágios.\nÀ medida que a <Orange>Intensidade da Ressonância</> aumenta, seus efeitos principais são amplificados.\nAo longo do caminho, <Orange>Vestígios</>, <Orange>Fragmentos</> e <Orange>Formas</> são ativados, concedendo atributos de bônus."
+  },
+  "100601": {
+   "GrowthMethodName": "Subir de Nível",
+   "GrowthMethodDesc": "O <Orange>Ajuste</> permite desbloquear e desenvolver Registros para aumentar os atributos do personagem.\nUse materiais especializados para <Orange>subir o nível</> deles;\na cada nível ganho, um <Orange>Espaço de Registro</> é desbloqueado, concedendo atributos adicionais."
+  },
+  "100602": {
+   "GrowthMethodName": "Transcender",
+   "GrowthMethodDesc": "Ao atingir o nível máximo de cada grau, você pode avançar para o grau seguinte por meio da <Orange>Transcendência</>.\nDesbloquear Espaços de Registro no grau seguinte concede atributos ainda maiores."
+  },
+  "200101": {
+   "GrowthMethodName": "Configuração e Aprimoramento de Equipamento",
+   "GrowthMethodDesc": "As <Orange>Armas</> são compostas por <Orange>Arma Principal</>, <Orange>Equipamento Secundário I</> e <Orange>Equipamento Secundário II</>,\ne equipá-las aumenta diretamente a capacidade de combate do personagem.\nCada peça pode evoluir por meio do <Orange>Aprimoramento</>:\nquanto maiores o <Orange>Grau</> e o <Orange>Tier</>, maiores os atributos obtidos."
+  },
+  "200102": {
+   "GrowthMethodName": "Infundir",
+   "GrowthMethodDesc": "A <Orange>Infusão</> permite imbuir o equipamento com atributos adicionais para aumentar seu poder.\nOs tipos de espaço disponíveis variam conforme a peça,\nmas os atributos obtidos dependem do tipo e do grau dos <Orange>Núcleos de Infusão</> usados.\nVocê também pode usar a <Orange>Infusão Automática</> selecionando os atributos desejados."
+  },
+  "200201": {
+   "GrowthMethodName": "Configuração e Aprimoramento de Equipamento",
+   "GrowthMethodDesc": "A <Orange>Armadura</> é composta por <Orange>Elmo</>, <Orange>Ombreiras</>, <Orange>Peitoral</>, <Orange>Grevas</>, <Orange>Cinto</>, <Orange>Luvas</>, <Orange>Botas</> e <Orange>Capa</>, \nfeitos para aumentar a sobrevivência e a capacidade de combate do personagem.\nCada peça pode evoluir por meio do <Orange>Aprimoramento</>:\nquanto maiores o <Orange>Grau</> e o <Orange>Tier</>, maiores os atributos obtidos."
+  },
+  "200202": {
+   "GrowthMethodName": "Infundir",
+   "GrowthMethodDesc": "A <Orange>Infusão</> permite imbuir o equipamento com atributos adicionais para aumentar seu poder.\nOs tipos de espaço disponíveis variam conforme a peça,\nmas os atributos obtidos dependem do tipo e do grau dos <Orange>Núcleos de Infusão</> usados.\nVocê também pode usar a <Orange>Infusão Automática</> selecionando os atributos desejados."
+  },
+  "200301": {
+   "GrowthMethodName": "Configuração e Aprimoramento de Equipamento",
+   "GrowthMethodDesc": "Os <Orange>Acessórios</> são compostos por <Orange>Colares</>, <Orange>Brincos</>, <Orange>Anéis</> e <Orange>Braceletes</>,\ne oferecem uma grande variedade de atributos de bônus.\nCada acessório pode evoluir por meio do <Orange>Aprimoramento</>:\nquanto maiores o <Orange>Grau</> e o <Orange>Tier</>, maiores os atributos obtidos."
+  },
+  "200302": {
+   "GrowthMethodName": "Infundir",
+   "GrowthMethodDesc": "A <Orange>Infusão</> permite imbuir o equipamento com atributos adicionais para aumentar seu poder.\nOs tipos de espaço disponíveis variam conforme a peça,\nmas os atributos obtidos dependem do tipo e do grau dos <Orange>Núcleos de Infusão</> usados.\nVocê também pode usar a <Orange>Infusão Automática</> selecionando os atributos desejados."
+  },
+  "200401": {
+   "GrowthMethodName": "Atributos Equipados e Progressão",
+   "GrowthMethodDesc": "As <Orange>Relíquias Sagradas</> são elementos de crescimento equipáveis que concedem atributos especiais.\nCada Relíquia Sagrada é equipada conforme seu tipo,\ne seus atributos se aplicam diretamente ao personagem.\nVocê também pode elevar o Tier delas por meio do <Orange>Avanço</>:\nquanto maior o Tier, mais poderosas elas ficam, liberando atributos adicionais em Tiers específicos."
+  },
+  "300101": {
+   "GrowthMethodName": "Restaurar Memória",
+   "GrowthMethodDesc": "<Orange>Gudua's Memories</> é um recurso exclusivo em que você usa <Orange>Fragmentos de Memória</> para restaurar memórias perdidas e ganhar atributos.\nQuanto maior o nível de restauração do <Orange>Fator</>, maiores os bônus de atributos,\ne o tipo de Fragmento de Memória necessário varia conforme o Fator."
+  },
+  "300201": {
+   "GrowthMethodName": "Progressão das Cartas",
+   "GrowthMethodDesc": "<Orange>Grace of the Constellations</> é um recurso voltado a colecionar e equipar cartas imbuídas com o poder das estrelas.\nEquipar uma carta como <Orange>Estrela Guardiã</> aplica seus atributos ao personagem,\ne você pode <Orange>subir o nível</> e <Orange>transcender</> essas cartas para torná-las ainda mais poderosas."
+  },
+  "300202": {
+   "GrowthMethodName": "Efeito de Nebulosa",
+   "GrowthMethodDesc": "Conforme você coleciona e desenvolve suas cartas, <Orange>Efeitos de Nebulosa</> exclusivos são ativados e concedem atributos de bônus. \nAs cartas excedentes podem ser usadas na <Orange>Fusão</>."
+  },
+  "300301": {
+   "GrowthMethodName": "Brasões e Powerstones",
+   "GrowthMethodDesc": "<Orange>Crest of the Ancients</> é um sistema de melhoria que aumenta seus atributos ao fortalecer seus Brasões e <Orange>Powerstones</>.\n<Orange>Suba o nível</> dos Brasões para ganhar mais atributos\ne equipe Powerstones para aplicar bônus adicionais."
+  },
+  "300302": {
+   "GrowthMethodName": "Melhoria de Powerstones",
+   "GrowthMethodDesc": "As Powerstones podem ser bastante melhoradas por meio do <Orange>Refinamento</> e da <Orange>Avaliação</>.\n<Orange>Desmonte</> as Powerstones que não precisar para usá-las como valiosos materiais de crescimento."
+  },
+  "300401": {
+   "GrowthMethodName": "Ascensão e Habilidades Potenciais",
+   "GrowthMethodDesc": "As Montarias permitem aumentar os atributos do personagem por meio da <Orange>Ascensão</> e das <Orange>Habilidades Potenciais</>.\n<Orange>Ascenda</> suas montarias para ganhar atributos,\ne o <Orange>Efeito Geral de Ascensão</> é ativado com base no total acumulado de Ascensões.\nVocê também pode conceder <Orange>Habilidades Potenciais</> às montarias ascendidas,\nque são aplicadas como <Orange>Atributos Possuídos</>."
+  },
+  "300402": {
+   "GrowthMethodName": "Atributos Equipados",
+   "GrowthMethodDesc": "Cada montaria possui seus próprios <Orange>Atributos Equipados</>.\nEsses atributos permanecem ativos enquanto a montaria estiver equipada, permitindo escolher estrategicamente a montaria ideal para cada situação."
+  },
+  "300501": {
+   "GrowthMethodName": "Ascensão e Habilidades Potenciais",
+   "GrowthMethodDesc": "Os Planadores permitem aumentar os atributos do personagem por meio da <Orange>Ascensão</> e das <Orange>Habilidades Potenciais</>.\n<Orange>Ascenda</> seus planadores para ganhar atributos,\ne o <Orange>Efeito Geral de Ascensão</> é ativado com base no total acumulado de Ascensões.\nVocê também pode conceder <Orange>Habilidades Potenciais</> aos Planadores ascendidos,\nque são aplicadas como <Orange>Atributos Possuídos</>."
+  },
+  "300502": {
+   "GrowthMethodName": "Atributos Equipados",
+   "GrowthMethodDesc": "Cada Planador possui seus próprios <Orange>Atributos Equipados</>.\nEsses atributos permanecem ativos enquanto o planador estiver equipado,\npermitindo escolher estrategicamente o planador ideal para cada situação."
+  },
+  "300503": {
+   "GrowthMethodName": "Skill de Descida",
+   "GrowthMethodDesc": "Equipar um Planador de <Orange>4 estrelas</> ou mais libera o acesso à <Orange>Skill de Descida</>.\nCada Planador tem uma Skill de Descida diferente,\ndando vantagem tática de acordo com o <Orange>ambiente de combate</>.\nAs Skills de Descida podem ser usadas durante o voo, mas não de altitudes muito elevadas."
+  },
+  "300601": {
+   "GrowthMethodName": "Efeitos de Pesquisa",
+   "GrowthMethodDesc": "Consulte o <Orange>Status de Pesquisa</> atual de cada guilda e <Orange>filtre</> a lista de pesquisas por critérios específicos.\nPor meio das <Orange>pesquisas</> disponíveis em cada guilda, você pode ver os <Orange>efeitos</> e as <Orange>recompensas</> que podem ser obtidos."
+  },
+  "300701": {
+   "GrowthMethodName": "Efeitos Equipados e Possuídos",
+   "GrowthMethodDesc": "Os <Orange>Trajes</> oferecem aparências e atributos únicos para fortalecer ainda mais o personagem.\nEquipar um traje aplica seus <Orange>Atributos e Skills Equipados</>,\nenquanto certos <Orange>Atributos Possuídos</> permanecem ativos mesmo sem o traje equipado."
+  },
+  "300702": {
+   "GrowthMethodName": "Fundir",
+   "GrowthMethodDesc": "Trajes duplicados podem ser usados como materiais de <Orange>Fusão</>,\ncom chance de obter um traje da classificação de estrelas seguinte, variando conforme o grau."
+  },
+  "300703": {
+   "GrowthMethodName": "Emperor's Gallery",
+   "GrowthMethodDesc": "Para trajes de 3 estrelas ou mais, você pode desbloquear atributos extras por meio da <Orange>Emperor's Gallery</>\nou simplesmente usar os trajes restantes na <Orange>Fusão</>."
+  },
+  "300801": {
+   "GrowthMethodName": "Efeitos Equipados e Possuídos",
+   "GrowthMethodDesc": "As <Orange>Armas Fantasmas</> oferecem aparências e atributos únicos para fortalecer ainda mais o personagem.\nEquipar uma arma fantasma aplica seus <Orange>Atributos e Skills Equipados</>,\ne você também obtém <Orange>Efeitos Possuídos</> conforme a quantidade de armas possuídas por classificação de estrelas."
+  },
+  "300802": {
+   "GrowthMethodName": "Fundir",
+   "GrowthMethodDesc": "Armas Fantasmas duplicadas podem ser usadas como materiais de <Orange>Fusão</>,\ncom chance de obter uma Arma Fantasma do grau de estrelas seguinte, variando conforme o grau."
+  },
+  "300803": {
+   "GrowthMethodName": "Emperor's Armory",
+   "GrowthMethodDesc": "Para Armas Fantasmas da sua classe de 3 estrelas ou mais, você pode desbloquear atributos extras por meio da <Orange>Emperor's Armory</>."
+  },
+  "300901": {
+   "GrowthMethodName": "Atualização de Skill Ativo",
+   "GrowthMethodDesc": "Atualize suas skills ativas <Orange>subindo o nível</> delas e por meio da <Orange>transcendência</>.\nAtualizar suas Skills aumenta o desempenho geral delas,\ne o <Orange>Efeito de Nível Total de Skill</> é aplicado com base na <Orange>soma dos níveis das suas skills</>."
+  },
+  "300902": {
+   "GrowthMethodName": "Desbloqueio de Skill Passiva",
+   "GrowthMethodDesc": "As <Orange>skills passivas</> fornecem <Orange>bônus contínuos</> às habilidades do personagem.\nO Avanço de Classe amplia a variedade de skills passivas disponíveis,\ne você pode desbloqueá-las usando <Orange>Elixires</>."
+  },
+  "100701": {
+   "GrowthMethodName": "Efeitos de Keyring",
+   "GrowthMethodDesc": "Treine ou ascenda seus Keyrings para melhorar seus <Orange>Efeitos de Keyring</>, aumentando seus atributos e skills.\nEquipe-os para usar esses atributos e skills em combate. Invocar um Keyring ativa os efeitos do Keyring invocado em campo.\nObter ou ascender um Keyring ativa automaticamente os efeitos de Vínculo e do Anel de Harmonia. "
+  },
+  "100702": {
+   "GrowthMethodName": "Fusão de Keyring",
+   "GrowthMethodDesc": "A <Orange>Fusão de Keyring</> consome 4 Keyrings do mesmo grau base para obter um Keyring de grau superior.\nMesmo que a fusão falhe, você recebe um Keyring do mesmo grau. Use a função <Orange>Fundir Tudo</> para consumir rapidamente Keyrings de grau inferior."
+  },
+  "100703": {
+   "GrowthMethodName": "Treinamento de Keyring",
+   "GrowthMethodDesc": "O <Orange>Treinamento de Keyring</> é um sistema de progressão garantida que eleva o tier do seu Keyring passo a passo.\nUsando Keyrings do mesmo rank como material, você avança para o tier seguinte com 100% de sucesso, desde que cumpra os requisitos.\nTreinar além do T3 aumenta o Rank de Estrelas e redefine o tier para T1."
+  },
+  "100704": {
+   "GrowthMethodName": "Ascensão de Limite de Keyring",
+   "GrowthMethodDesc": "Consuma <Orange>Keyrings duplicados</> para tentar a Ascensão.\nAscenda o limite dos seus Keyrings para melhorar suas skills Especiais e de Suporte.\nA ascensão de limite está ligada ao sistema de <Orange>Vínculo</> e concede Atributos de Vínculo."
+  },
+  "100705": {
+   "GrowthMethodName": "Vínculo",
+   "GrowthMethodDesc": "Sistema de progressão em que você coleciona Keyrings e os melhora por meio da Ascensão para ganhar atributos.\nObtenha e <Orange>Ascenda</> seus <Orange>Keyrings</> para ativar <Orange>Vínculos</>.\nVínculos ativados concedem permanentemente <Orange>atributos de conta</>."
+  },
+  "100706": {
+   "GrowthMethodName": "Anel de Harmonia",
+   "GrowthMethodDesc": "Sistema de progressão que concede atributos ao melhorar combinações de Keyrings organizadas por tema.\nRegistre <Orange>Keyrings</> no <Orange>Anel de Harmonia</> para aumentar atributos permanentes.\nColecione ou treine os Keyrings registrados para elevar o grau combinado e ganhar atributos de bônus."
+  },
+  "100802": {
+   "GrowthMethodName": "Não Adquirido",
+   "GrowthMethodDesc": "Ganhe <Orange>títulos</> concluindo Troféus específicos ou alcançando <Orange>ranks</>.\nEles também podem ser obtidos por <Orange>itens</> ou como <Orange>recompensas</>.\nVocê só pode <Orange>equipar</> um dos <Orange>títulos</> que possui por vez."
+  },
+  "100803": {
+   "GrowthMethodName": "Atributos",
+   "GrowthMethodDesc": "Cada <Orange>título</> tem seus <Orange>Atributos Possuídos</>.\nOs <Orange>Atributos</> são aplicados ao personagem assim que você adquire um <Orange>título</>\ne são <Orange>perdidos</> se o <Orange>título</> for removido."
+  },
+  "301001": {
+   "GrowthMethodName": "Não Adquirido",
+   "GrowthMethodDesc": "As <Orange>Decorações</> podem ser obtidas em vários conteúdos.\nSe você receber um item que já possui, ganhará <Orange>outra recompensa no lugar</>.\nVocê só pode <Orange>equipar</> uma <Orange>Decoração</> que possui por vez."
+  },
+  "301002": {
+   "GrowthMethodName": "Atributos",
+   "GrowthMethodDesc": "Colecionar <Orange>Decorações</> para aumentar sua <Orange>quantidade possuída</> concede <Orange>Efeitos Possuídos</> conforme o grau de estrelas."
+  }
+ },
+ "GuideGrowth_Name.csv": {
+  "1001": {
+   "Name": "Nível do Personagem",
+   "ReviveComment": "Suba de nível com <Orange>Missões</> e <Orange>Caça</> e tente a próxima batalha de novo.",
+   "ContentsShortButtonText": "Atalho"
+  },
+  "1002": {
+   "Name": "Avanço de Classe",
+   "ReviveComment": "Com o Avanço, você pode ir além dos limites atuais.",
+   "ContentsShortButtonText": "Atalho"
+  },
+  "1003": {
+   "Name": "Despertar",
+   "ReviveComment": "A cada despertar, seus poderes adormecidos se manifestam.",
+   "ContentsShortButtonText": "Atalho"
+  },
+  "1004": {
+   "Name": "Ressonância",
+   "ReviveComment": "Quanto maior a Intensidade da Ressonância, maior sua resistência em batalha.",
+   "ContentsShortButtonText": "Atalho"
+  },
+  "1006": {
+   "Name": "Ajuste",
+   "ReviveComment": "Ajustar ainda mais os Registros revela poderes ocultos.",
+   "ContentsShortButtonText": "Atalho"
+  },
+  "2001": {
+   "Name": "Arma",
+   "ReviveComment": "A cada <Orange>Aprimoramento de Arma</>, seu próximo golpe fica mais pesado.",
+   "ContentsShortButtonText": "Atalho"
+  },
+  "2002": {
+   "Name": "Armadura",
+   "ReviveComment": "Ganhe força para sobreviver por mais tempo com o <Orange>Aprimoramento de Armadura</>.",
+   "ContentsShortButtonText": "Atalho"
+  },
+  "2003": {
+   "Name": "Acessório",
+   "ReviveComment": "Aumente seus atributos com o <Orange>Aprimoramento de Acessório</>.",
+   "ContentsShortButtonText": "Atalho"
+  },
+  "2004": {
+   "Name": "Relíquia Sagrada",
+   "ReviveComment": "Elevar o tier da Relíquia Sagrada muda o rumo da batalha.",
+   "ContentsShortButtonText": "Atalho"
+  },
+  "3001": {
+   "Name": "Gudua's Memories",
+   "ReviveComment": "Quanto mais memórias você restaurar, mais claro fica o poder da Essência.",
+   "ContentsShortButtonText": "Atalho"
+  },
+  "3002": {
+   "Name": "Grace of the Constellations",
+   "ReviveComment": "Quanto mais Grace of the Constellations você obtiver, mais o poder das estrelas protegerá você.",
+   "ContentsShortButtonText": "Atalho"
+  },
+  "3003": {
+   "Name": "Crest of the Ancients",
+   "ReviveComment": "Refinar seus Brasões e Powerstones concede um poder ainda maior.",
+   "ContentsShortButtonText": "Atalho"
+  },
+  "3004": {
+   "Name": "Montaria",
+   "ReviveComment": "A ascensão e as habilidades potenciais da montaria fazem grande diferença no poder de combate.",
+   "ContentsShortButtonText": "Atalho"
+  },
+  "3005": {
+   "Name": "Planador",
+   "ReviveComment": "Melhorar seu Planador permite dominar um campo de batalha mais amplo.",
+   "ContentsShortButtonText": "Atalho"
+  },
+  "3006": {
+   "Name": "Adventurers Alliance - Pesquisa",
+   "ReviveComment": "Realizar Pesquisas de Guilda preenche pouco a pouco as lacunas do seu poder.",
+   "ContentsShortButtonText": "Atalho"
+  },
+  "3007": {
+   "Name": "Traje",
+   "ReviveComment": "Os trajes não só mudam sua aparência: também têm o poder de virar o jogo na batalha.",
+   "ContentsShortButtonText": "Atalho"
+  },
+  "3008": {
+   "Name": "Arma Fantasma",
+   "ReviveComment": "Equipar uma Arma Fantasma libera um poder que vai além das armas.",
+   "ContentsShortButtonText": "Atalho"
+  },
+  "3009": {
+   "Name": "Skill",
+   "ReviveComment": "Desenvolver ainda mais suas skills muda o resultado dos momentos decisivos.",
+   "ContentsShortButtonText": "Atalho"
+  },
+  "1007": {
+   "Name": "Keyring",
+   "ReviveComment": "Progredir seus <Orange>Keyrings</> concede vantagens maiores em combate.",
+   "ContentsShortButtonText": "Atalho"
+  },
+  "1008": {
+   "Name": "Título",
+   "ReviveComment": "Obtenha e equipe <Orange>títulos</> para mostrar a personalidade do seu personagem.\nGanhe vantagem em batalha com <Orange>títulos</> incríveis.",
+   "ContentsShortButtonText": "Atalho"
+  },
+  "3010": {
+   "Name": "Decorações",
+   "ReviveComment": "Adquirir uma <Orange>Decoração</> concede vários Efeitos Possuídos.",
+   "ContentsShortButtonText": "Atalho"
+  }
+ },
+ "Icon_Name.csv": {
+  "ModularDungeonPoint": {
+   "Desc": "Uma chave usada para entrar em Arbiter’s Ordeal."
+  }
+ },
+ "DungeonModularType_Name.csv": {
+  "13010101": {
+   "Name": "Atualização de Traje",
+   "Description": "Obtenha Fios de Traje para subir de nível e os materiais necessários para a Transcendência.",
+   "Story": "O portão se abrirá para os determinados; com o Ordeal Token, todos os desejos estão ao alcance.\nMovidos por uma fome desesperada pelas relíquias da torre, os aventureiros buscaram o Ordeal of Binding, tentando tecer o poder antigo em suas vestes para forjar uma presença soberana."
+  },
+  "13010201": {
+   "Name": "Atualização de Skill",
+   "Description": "Obtenha Manuscritos de Treinamento para subir o nível das skills e os materiais necessários para a Transcendência.",
+   "Story": "O portão se abrirá para os determinados; com o Ordeal Token, todos os desejos estão ao alcance.\nMovidos por uma fome desesperada pelas relíquias da torre, os aventureiros buscaram o Ordeal of Skill, tentando superar seus limites mortais."
+  },
+  "13010301": {
+   "Name": "Atualização de Grace of the Constellations",
+   "Description": "Obtenha Stardust para subir o nível das Cartas das Constelações e os materiais necessários para a Transcendência.",
+   "Story": "O portão se abrirá para os determinados; com o Ordeal Token, todos os desejos estão ao alcance.\nMovidos por uma fome desesperada pelas relíquias da torre, os aventureiros buscaram o Ordeal of Constellations, tentando unir o próprio poder das estrelas ao seu."
+  },
+  "13010401": {
+   "Name": "Ouro",
+   "Description": "Obtenha Ouro, o recurso essencial para explorar a Forsaken Land.",
+   "Story": "O portão se abrirá para os determinados; com o Ordeal Token, todos os desejos estão ao alcance.\nTal era a fome por ouro que ela manifestou o Ordeal of Gold, uma provação jamais contada nas lendas."
+  }
+ },
+ "Option_Name.csv": {
+  "40017": {
+   "Name": "Chave de Arbiter’s Secret Vault"
+  }
+ },
+ "EventBanner_Name.csv": {
+  "5056": {
+   "Name": "Colaboração Attack on Titan",
+   "Desc": "De além-mar, os Titãs chegaram a Architect!\nMergulhe no conteúdo da colaboração Attack on Titan \ne ganhe recompensas especiais!"
+  }
+ },
+ "EventHighPassMission_Name.csv": {
+  "202": {
+   "Name": "Concluir Ethereal Sanctum Trial of Combat",
+   "Desc": "Concluir Ethereal Sanctum Trial of Combat 1-1"
+  },
+  "332": {
+   "Name": "Usar Abyss Battlefield Recharge Ticket",
+   "Desc": "Usar Abyss Battlefield Recharge Ticket {RequiredStackCount} vezes"
+  }
+ },
+ "CollectionMain_Name.csv": {
+  "109006": {
+   "Name": "Seed of Enhanced Protection"
+  },
+  "710002": {
+   "Name": "Silver Treasure Chest"
+  },
+  "710003": {
+   "Name": "Golden Treasure Chest"
+  },
+  "710004": {
+   "Name": "Sealed Treasure Chest"
+  },
+  "712001": {
+   "Name": "Worn Treasure Chest {Param}"
+  },
+  "712003": {
+   "Name": "Old Treasure Chest {Param}"
+  },
+  "712005": {
+   "Name": "Common Treasure Chest {Param}"
+  },
+  "712007": {
+   "Name": "Hidden Treasure Chest {Param}"
+  },
+  "712009": {
+   "Name": "Welcome Treasure Chest {Param}"
+  },
+  "712011": {
+   "Name": "Nameless Treasure Chest {Param}"
+  },
+  "712013": {
+   "Name": "Shining Treasure Chest {Param}"
+  },
+  "712020": {
+   "Name": "Mysterious Treasure Chest {Param}"
+  },
+  "712022": {
+   "Name": "Cold Treasure Chest {Param}"
+  }
+ },
+ "EventAttendance_Name.csv": {
+  "20101": {
+   "PageDesc": "Faça login todos os dias por 14 dias para ganhar um 3-star Infusion-Core Selection Chest."
+  }
+ },
+ "Item_Name.csv": {
+  "9995": {
+   "Desc": "Rift Boss Entry Recharge Item (Test)"
+  }
+ },
+ "ShopMissionReward_Name.csv": {},
+ "__scan_ignore__": {
+  "Dialog_Name.csv:330219010040": "'Treasure Hunter' aqui é descrição de Amelie, não o traje",
+  "OperationType_Name.csv:580": "lista de efeitos de controle (Knock Back = empurrão), texto descritivo",
+  "OperationType_Name.csv:722": "idem",
+  "OperationType_Name.csv:700": "idem",
+  "OperationType_Name.csv:617": "idem",
+  "SkillDescription_Name.csv:3011": "'Knock Back' usado como verbo",
+  "Item_Name.csv:9110002": "descrição fala de 'Baba' fermentada, não do item Baba Liquor",
+  "FlavorTextPage_Name.csv:10006341": "texto literário; 'Sentinel of the Deep Woods' aparece como descrição",
+  "EventBanner_Name.csv:5053": "nome do evento reescrito por ID",
+  "EventBanner_Name.csv:5059": "idem",
+  "EventDrop_Name.csv:1013": "idem",
+  "SkillDescription_Name.csv:3021": "'Knock Back' usado como verbo",
+  "GuideGrowth_Name.csv:1008": "'Title' aqui é a aba Título do menu Crescimento, não um nome"
  }
 }

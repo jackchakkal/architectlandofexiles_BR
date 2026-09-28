@@ -21,8 +21,8 @@ SeasonalEvent_GlobalBoss,Beast Giant Entrada disponível,Colaboração
 EventGetReward,{Param} Recompensa exigível,Eventos
 EventShopFreePurchase,{Param} produtos gratuitos disponíveis para compra,Eventos
 Event_DiceFreeCount,{Param} Free Rolls,Dados de Evento
-Event_RouletteFreeCount,{Param} Free Rolls,Evento Roleta
-Event_RouletteUseCoupon,{Param} Cupom disponível,Evento Roleta
+Event_RouletteFreeCount,{Param} Free Rolls,Roleta de Evento
+Event_RouletteUseCoupon,{Param} Cupom disponível,Roleta de Evento
 Faction_FriendshipGetReward,{Param} Recompensa disponível,Afinidade da Adventurers' Alliance
 Faction_GuideBookGetReward,{Param} Recompensa disponível,Tarefa da Adventurers' Alliance
 Faction_MissionGetReward,{Param} Recompensa disponível,Conquistas da Adventurers' Alliance
@@ -32,12 +32,12 @@ Faction_ShopFreeReward,{Param} produtos gratuitos disponíveis para compra,Adven
 Faction_PossibleGiveTribute,{Param} Disponível,Doação de medalha exclusiva da Adventurers Alliance
 InterServer,Abyss Battlefield Notificação de novo grupo correspondente,
 ViewUI_Battlefield_Progress,Monolith War Em andamento,
-ViewUI_Battlefield_EntryStart,{Param} Disponível,Monolith War Inscrição de entrada
+ViewUI_Battlefield_EntryStart,{Param} Disponível,Inscrição para Monolith War
 ClassRank_Possible,{Param} Disponível,Promoção de personagem
-Skill_PossibleAcquisitionActive,{Param} disponível para aprender,Ativo Skill
-Skill_PossibleLevelUpActive,Aumento de nível disponível: {Param},Ativo Skill
-Skill_PossibleExceedActive,{Param} Transcendência disponível,Ativo Skill
-Skill_PossibleAcquisitionPassive,{Param} disponível para aprender,Skill passivo
+Skill_PossibleAcquisitionActive,{Param} disponível para aprender,Skill Ativo
+Skill_PossibleLevelUpActive,Aumento de nível disponível: {Param},Skill Ativo
+Skill_PossibleExceedActive,{Param} Transcendência disponível,Skill Ativo
+Skill_PossibleAcquisitionPassive,{Param} disponível para aprender,Skill Passivo
 Costume_PossibleLevelUp,Aumento de nível disponível: {Param},Traje Equipado
 Costume_PossibleExceed,{Param} Transcendência disponível,Traje Equipado
 ViewUI_Costume_TimeoutDecide,{Param} Tempo de confirmação expirado,Traje
@@ -45,12 +45,12 @@ Costume_PossibleLimitBreak,{Param} Ascensão disponível,Traje Equipado
 ViewUI_WeaponCostume_TimeoutDecide,{Param} Tempo de confirmação expirado,Arma Fantasma
 WeaponCostume_PossibleLimitBreak,{Param} Ascensão disponível,Arma Fantasma Equipada
 ViewUI_DecorationAcquisitionNew,Nova decoração adquirida,
-GroundVehicle_PossibleSummon,{Param} Convocação disponível,Montagem
-GroundVehicle_PossibleLimitBreak,Equipado {Param} Ascensão Disponível,Montagem
-AirVehicle_PossibleSummon,{Param} Convocação disponível,Convocação de Planador
+GroundVehicle_PossibleSummon,{Param} Convocação disponível,Montaria
+GroundVehicle_PossibleLimitBreak,Equipado {Param} Ascensão Disponível,Montaria
+AirVehicle_PossibleSummon,{Param} Convocação disponível,Invocação de Planador
 AirVehicle_PossibleLimitBreak,Equipado {Param} Ascensão Disponível,Planador
-Keiring_PossibleLevelUp,{Param} Treinamento disponível,Chaveiro Equipado
-Keiring_PossibleExceed,{Param} Ascensão disponível,Chaveiro Equipado
+Keiring_PossibleLevelUp,{Param} Treinamento disponível,Keyring Equipado
+Keiring_PossibleExceed,{Param} Ascensão disponível,Keyring Equipado
 CharacterTitle_PossibleActive,Novo Title disponível,
 ViewUI_CharacterTitle_NewTitle,Novo Title adquirido,
 OOParts_NormalFreeCount,Exploração gratuita de OOPparts disponível,
@@ -60,8 +60,8 @@ StarStone_PossiblePointUse,Pontos de avanço da Sacred Relic disponíveis,
 ViewUI_Auction_SellComplete,Marketplace Venda concluída,
 ViewUI_Auction_TimeoutSell,Marketplace Listagem expirada,
 Shop_FreePurchase,{Param} produtos gratuitos disponíveis para compra,Loja
-Shop_MissionGetReward,{Param} Recompensa exigível,Pacote Milestone
-Shop_NpcShopFreePurchase_800,{Param} produtos gratuitos disponíveis para compra,Loja de livros de habilidades
+Shop_MissionGetReward,{Param} Recompensa exigível,Pacote de Marco
+Shop_NpcShopFreePurchase_800,{Param} produtos gratuitos disponíveis para compra,Loja de Skillbooks
 Shop_NpcShopFreePurchase_500,{Param} produtos gratuitos disponíveis para compra,Ancient Coin Shop
 Shop_NpcShopFreePurchase_600,{Param} produtos gratuitos disponíveis para compra,Adventurers’ Alliance Guild Coin Shop
 Shop_NpcShopFreePurchase_700,{Param} produtos gratuitos disponíveis para compra,Black Crystal Shop
@@ -70,23 +70,23 @@ Shop_NpcShopFreePurchase_910,{Param} produtos gratuitos disponíveis para compra
 Shop_NpcShopFreePurchase_930,{Param} produtos gratuitos disponíveis para compra,Arena Shop
 ViewUI_ShopSubscribeRemainTime1,Privilégio do sucessor expirando em breve,
 ViewUI_ShopSubscribeRemainTime2,Giant's Blessing Privilégio Expirando Em breve,
-GachaShop_FreePurchase,{Param} produtos gratuitos disponíveis para compra,Evocar Loja
-Awakening_Possible,{Param} Disponível,Despertar Célula Desbloqueada
+GachaShop_FreePurchase,{Param} produtos gratuitos disponíveis para compra,Loja de Invocação
+Awakening_Possible,{Param} Disponível,Célula de Despertar Desbloqueada
 Awakening_LimitBreak_Possible,Página pronta para despertar,
-Gudua,{Param} Disponível,Restaurar Memórias de Gudua
+Gudua,{Param} Disponível,Restaurar Gudua's Memories
 Blessing_PossibleEquip,{Param} Disponível,Equipar Estrela Guardiã
 Blessing_PossibleLevelUp,Aumento de nível disponível: {Param},Estrela Guardiã Equipada
-CrestLevelUp,Aumento de nível disponível: {Param},Crista dos Antigos
+CrestLevelUp,Aumento de nível disponível: {Param},Crest of the Ancients
 Akasha_PossibleAcquisition,Notifique sintonizações desbloqueáveis,
 Akasha_PossibleLevelUp,Notificar sintonizações disponíveis para subir de nível,
 Akasha_PossibleExceed,Notificar sintonizações disponíveis para transcendência,
 TrialGate_PointGetReward,{Param} Recompensa exigível,Trial Gates
-TreasureBox_PointGetReward,{Param} Recompensa exigível,Santuário Etéreo
+TreasureBox_PointGetReward,{Param} Recompensa exigível,Ethereal Sanctum
 Guide,{Param} Recompensa exigível,Guia de aventura
 Record_GetReward,{Param} Recompensa exigível,Codex
 Pass_Mission,{Param} Recompensa exigível,Season Pass
 Pass_Level,{Param} Recompensa exigível,Nível da temporada
-GlobalBoss,Entrada do Rift chefe disponível,
+GlobalBoss,Entrada do Rift Boss disponível,
 ViewUI_DungeonFrontierStartSeason,Infinite Spire Começa a nova temporada,
 ViewUI_DungeonFrontierEnter,Tickets do Corredor Perpétuo recarregados,
 DungeonFrontier_GetRewardSeason,{Param} Recompensa exigível,Infinite Spire
@@ -96,7 +96,7 @@ ViewUI_ClanFrontierEnableOpen,{Param} disponível para desbloqueio,Hall of Proof
 ViewUI_ClanFrontier_CanEnter,{Param} Entrada Disponível,Hall of Proof
 ViewUI_CommisionQuest_RefreshDaily,Commission House {Param} Atualizado,Comissão diária
 ViewUI_CommisionQuest_RefreshWeekly,Commission House {Param} Atualizado,Comissão Semanal
-GuideBook,{Param} Recompensa exigível,Guia
+GuideBook,{Param} Recompensa exigível,Manual
 Achievement_GetReward,{Param} Recompensa exigível,Troféu
 Achievement_GetPointReward,{Param} Recompensa exigível,Pontuação do troféu
 ViewUI_Clan_JoinComplete,Clã entrou em,

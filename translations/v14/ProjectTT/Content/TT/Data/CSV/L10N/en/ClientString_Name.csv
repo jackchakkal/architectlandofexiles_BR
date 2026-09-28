@@ -39,7 +39,7 @@ ACHIEVEMENT_POINT_REWARD_GUIDE_PERCENT,Em andamento (‎[Percent])
 ACHIEVEMENT_PROGRESS,Progresso do troféu
 ACHIEVEMENT_PROGRESSING,Em andamento
 ACHIEVEMENT_REWARD_GET,Receber troféu
-ACHIEVEMENT_REWARD_GET_ALL,Receber todos os troféus
+ACHIEVEMENT_REWARD_GET_ALL,Receber Todos
 ACHIEVEMENT_TOTAL_POINT,Pontuação do troféu
 ACQUIRE_ASSET_ERROR,A informação não é fornecida para uma recompensa composta por recursos.
 ACQUIRE_INFO_NOTDATA,Nenhuma informação de aquisição ou uso disponível.
@@ -78,16 +78,16 @@ ACTION_TYPE_TELEPORTSTATION_DESC1,Clique aqui para ir para a Âncora Warp
 ACTION_TYPE_TELEPORTSTATION_DESC2,Movendo-se para ativar a âncora de dobra
 ACTION_TYPE_TELEPORTSTATION_NAME_LONG,Movendo para o Warp Anchor
 ACTION_TYPE_TELEPORTSTATION_NAME_SHORT,Descobriu uma nova âncora Warp!
-ACTION_TYPE_TREASUREBOX,<ActionTreasureBox>[Baú do Tesouro]</>
-ACTION_TYPE_TREASUREBOX_DESC1,Clique aqui para ir ao Baú do Tesouro
-ACTION_TYPE_TREASUREBOX_DESC2,Movendo-se para abrir o baú do tesouro
-ACTION_TYPE_TREASUREBOX_NAME_LONG,Movendo para o Baú do Tesouro
-ACTION_TYPE_TREASUREBOX_NAME_SHORT,Descobriu um novo baú do tesouro!
-ACTION_TYPE_TREASUREBOXMISSION,<ActionTreasureBoxMission>[Santuário Etéreo]</>
-ACTION_TYPE_TREASUREBOXMISSION_DESC1,Clique aqui para ir para o Santuário Etéreo
-ACTION_TYPE_TREASUREBOXMISSION_DESC2,Vá para [Name] Santuário Etéreo
-ACTION_TYPE_TREASUREBOXMISSION_NAME_LONG,Movendo para o Santuário Etéreo
-ACTION_TYPE_TREASUREBOXMISSION_NAME_SHORT,Descobriu um Santuário Etéreo disponível!
+ACTION_TYPE_TREASUREBOX,<ActionTreasureBox>[Treasure Chest]</>
+ACTION_TYPE_TREASUREBOX_DESC1,Clique aqui para ir ao Treasure Chest
+ACTION_TYPE_TREASUREBOX_DESC2,Movendo-se para abrir o Treasure Chest
+ACTION_TYPE_TREASUREBOX_NAME_LONG,Movendo para o Treasure Chest
+ACTION_TYPE_TREASUREBOX_NAME_SHORT,Descobriu um novo Treasure Chest!
+ACTION_TYPE_TREASUREBOXMISSION,<ActionTreasureBoxMission>[Ethereal Sanctum]</>
+ACTION_TYPE_TREASUREBOXMISSION_DESC1,Clique aqui para ir para o Ethereal Sanctum
+ACTION_TYPE_TREASUREBOXMISSION_DESC2,Vá para [Name] Ethereal Sanctum
+ACTION_TYPE_TREASUREBOXMISSION_NAME_LONG,Movendo para o Ethereal Sanctum
+ACTION_TYPE_TREASUREBOXMISSION_NAME_SHORT,Descobriu um Ethereal Sanctum disponível!
 ACTION_TYPE_TRIALGATE,<ActionTrialGate>[Trial Gate]</>
 ACTION_TYPE_TRIALGATE_DESC1,Clique aqui para ir para o Trial Gate
 ACTION_TYPE_TRIALGATE_DESC2,Vá para [Name] Trial Gate
@@ -117,12 +117,12 @@ ALGORITHM_INVASION_NAME,Incursão do Governante [InvasionName]
 ALGORITHM_INVASION_SIGN_NOTIFY_MSG,O presságio de incursão do governante de [InvasionName] foi detectado em [AreaName].
 ALGORITHM_INVASION_START_NOTIFY_MSG,[InvasionName] A incursão do governante começou em [AreaName]. Incursão Sombria de
 ALGORITHM_INVASION_TITLE,Incursão da Régua
-ALGORITHM_MASTERKEY_NOTI,"Devido ao algoritmo de restauração da tocha de Ashur, a tocha de Ashur retornou ao seu local original."
+ALGORITHM_MASTERKEY_NOTI,"Devido ao algoritmo de restauração da Ashur’s Torch, a Ashur’s Torch retornou ao seu local original."
 ALGORITHM_MESSAGENOTI_CLANSTELGOLD,Requisição obrigatória em [Time]: O algoritmo Gold será encerrado.
 ALGORITHM_MESSAGENOTI_CLANSTELTOKEN,Requisição obrigatória em [Time]: O algoritmo de moeda da Giant's Tower terminará.
 ALGORITHM_MESSAGENOTI_GADGETSPAWN,O algoritmo do tesouro de Atrahasis terminará em [Time].
 ALGORITHM_MESSAGENOTI_INVASION,O algoritmo de ativação de incursão será ativado em [Time].
-ALGORITHM_MESSAGENOTI_KEYRESET,O algoritmo da tocha de Ashur será ativado em [Time].
+ALGORITHM_MESSAGENOTI_KEYRESET,O algoritmo da Ashur’s Torch será ativado em [Time].
 ALGORITHM_MESSAGENOTI_KICKOUT,será ativado em [Time].
 ALGORITHM_MESSAGENOTI_MONSTERSPAWN,O algoritmo de criação de mini golem terminará em [Time].
 ALGORITHM_MESSAGENOTI_NPCSPAWN,O algoritmo de remoção de impurezas terminará em [Time].
@@ -767,7 +767,7 @@ BLESSING_CARD_LEVELUP_RESULT_TITLE,Cartão nivelado
 BLESSING_CARD_MAX_LEVEL,Nível máximo
 BLESSING_CARD_NO_LIST,Nenhum item a ser exibido.
 BLESSING_CARD_SLOT_NO_CARD,Nenhuma placa selecionada no slot de fusão.
-BLESSING_CARD_TYPE,Graça do Cartão de constelações
+BLESSING_CARD_TYPE,Carta de Grace of the Constellations
 BLESSING_CARD_UNEQUIP,Desequipar
 BLESSING_CHANGE_SLOT_MSG,Substituir a carta designada como Estrela Guardiã?
 BLESSING_CHOICE_MATERIAL_TITLE,material selecionado
@@ -799,7 +799,7 @@ BLESSING_MAX_GRROWTH_MSG,Esta carta está em seu nível máximo.
 BLESSING_MAX_LEVEL_MSG,Nível máximo alcançado.
 BLESSING_MIN_LEVEL_MSG,Nível mínimo alcançado.
 BLESSING_SLOT_NO_LIST,Nenhum efeito de estrela guardiã para exibição.
-BLESSING_TITLE,Graça das Constelações
+BLESSING_TITLE,Grace of the Constellations
 BLESSINGCARD_COMBINE_NOT_RESET,Nenhum cartão cadastrado.
 BLESSINGCARD_COMBINE_NOTEQUAL_MSG,A mesma quantidade deve ser registrada em todos os slots.
 BLESSINGCARD_COMBINE_RARE_CONFIRM_MSG,"Uma carta Rara é registrada. Você deseja continuar a fusão 
@@ -868,15 +868,15 @@ BROADCAST_STARSTONEACQUISITION_MSG,[Name] adquirido <StarStoneColor>[ItemName]</
 BROADCAST_STARSTONEUPGRADE_MSG,[Name] atualizou <StarStoneColor>[ItemName]</>{jstag:} para <StarStoneColor>[Value1]Tier</>.
 BROADCAST_TOWEROFTITAN_ADDSPAWN,"O Algoritmo do Governante foi ativado, convocando monstros adicionais em áreas específicas."
 BROADCAST_TOWEROFTITAN_DUTYASSET,O Algoritmo de Régua foi ativado. Parte do drop [AssetName] será dado ao Clã Governante.
-BROADCAST_TOWEROFTITAN_EVENT01,"O Algoritmo da Régua foi ativado, reaparecendo o Baú do Tesouro de Atrahasis."
+BROADCAST_TOWEROFTITAN_EVENT01,"O Algoritmo da Régua foi ativado, reaparecendo o Treasure Chest de Atrahasis."
 BROADCAST_TOWEROFTITAN_EVENT02,"O algoritmo da régua foi ativado, reaparecendo Mini Golems."
 BROADCAST_TOWEROFTITAN_GOLEMBUFF01,"O Algoritmo da Régua foi ativado, aumentando a DEF e o HP do Golem Guardião."
 BROADCAST_TOWEROFTITAN_GOLEMBUFF02,"O Algoritmo da Régua foi ativado, aumentando a chance de recompensas quando o Golem Guardião desaparecer."
 BROADCAST_TOWEROFTITAN_GOLEMEND,"O chefe reapareceu, removendo o Golem Guardião."
 BROADCAST_TOWEROFTITAN_GOLEMKILL,O Golem Guardião foi removido.
-BROADCAST_TOWEROFTITAN_KEY,[Name] adquiriu a tocha de Ashur. O traje
-BROADCAST_TOWEROFTITAN_KEY_EMPTY,A tocha de Ashur foi devolvida à sua posição original.
-BROADCAST_TOWEROFTITAN_KEYRESET,A tocha de Ashur foi ativada. A tocha foi retornada à sua posição original.
+BROADCAST_TOWEROFTITAN_KEY,[Name] adquiriu a Ashur’s Torch. O traje
+BROADCAST_TOWEROFTITAN_KEY_EMPTY,A Ashur’s Torch foi devolvida à sua posição original.
+BROADCAST_TOWEROFTITAN_KEYRESET,A Ashur’s Torch foi ativada. A tocha foi retornada à sua posição original.
 BROADCAST_TOWEROFTITAN_OVERFLOWEVENT,"O Algoritmo de Governante foi ativado, aumentando a frequência de Incursão."
 BROADCAST_TOWEROFTITAN_RULER,[Name] tornou-se o governante de [TowerOfTitanName].
 BROADCAST_TOWEROFTITAN_RULERBUFF,"O Algoritmo de Governante foi ativado, concedendo [EffectName] aos Membros do Clã Governante.{jstag:}"
@@ -1397,10 +1397,10 @@ CLAN_BOSS_RAID_2F,Andar 2
 CLAN_BOSS_RAID_3F,Andar 3
 CLAN_BOSS_RAID_4F,Andar 4
 CLAN_BOSS_RAID_FAIL_DESC,Falha ao derrotar o chefe da Angbar Arena dentro do prazo.
-CLAN_BOSS_RAID_FAIL_TITLE,Falha ao limpar a Arena Angbar
+CLAN_BOSS_RAID_FAIL_TITLE,Falha ao limpar a Angbar Arena
 CLAN_BOSS_RAID_ITEM_BUY_CONFIRM_LIST_HINT_TEXT,Você não possui um convite Angbar.
 CLAN_BOSS_RAID_ITEM_BUY_CONFIRM_POPUP_MSG,"[Name]Comprar este item?
-(Limite semanal da Arena Angbar: [Count]/[MaxCount])"
+(Limite semanal da Angbar Arena: [Count]/[MaxCount])"
 CLAN_BOSS_RAID_ITEM_BUY_CONFIRM_POPUP_MSG_SUB,Valor no Tesouro do Clã: [Count]
 CLAN_BOSS_RAID_ITEM_BUY_CONFIRM_POPUP_TITLE,Compre convite Angbar
 CLAN_BOSS_RAID_MAIN_DESC,"A antiga e nobre Casa de Angbargidea já se divertiu nos espetáculos brutais de combate entre humanos e monstros.
@@ -1727,7 +1727,7 @@ CLAN_RAID_CLAN_REWARD_HINT_TEXT,Nenhum destino a ser exibido.
 CLAN_RAID_CREATE_CLAN_UNIT,Criar Esquadrão do Clã
 CLAN_RAID_CREATE_CLAN_UNIT_DESC,"Você precisa fazer parte de um Esquadrão de Clã para usar este convite.
 Criar um agora?"
-CLAN_RAID_EXIT_CONFIRM_POPUP_MESSAGE,Sair da Arena Angbar?
+CLAN_RAID_EXIT_CONFIRM_POPUP_MESSAGE,Sair da Angbar Arena?
 CLAN_RAID_EXIT_CONFIRM_POPUP_TITLE,Sair da Angbar Arena
 CLAN_RAID_IN_PROGRESS,Angbar Arena em andamento
 CLAN_RAID_ITEM_USAGE_NOTIFICATION,Um portal foi criado para entrar na Angbar Arena.
@@ -2074,7 +2074,7 @@ COMMON_ACCEPT,Aceitar
 COMMON_ACCOUNT_LINK,Vincular conta
 COMMON_ACHIEVEMENT,Troféu
 COMMON_ACHIEVERECORD_PERCENT,[Value]%
-COMMON_ACQUIRE_ALL,Receba todos os
+COMMON_ACQUIRE_ALL,Receber Todos
 COMMON_ACQUIRE_INFO,obtido de
 COMMON_ACQUIRED_REWARD,Minhas recompensas
 COMMON_ACTIVATE,Ativar
@@ -2338,7 +2338,7 @@ COMMON_DUNGEON_CANNOT_ENTER_ASSET_SHORTAGE,[AssetName] insuficiente para entrar.
 COMMON_DUNGEON_CANNOT_ENTER_CHANCE_SHORTAGE,Você usou todos os [ContentsChanceName]. Não é possível entrar.{jstag:}
 COMMON_DUNGEON_CANNOT_CHARGE,Não há mais recargas disponíveis.
 COMMON_ENOUGH_COUNT,[MyCount]/[Count]
-COMMON_ENTER,Digite
+COMMON_ENTER,Entrar
 COMMON_ENTER_CANCEL,Cancelar entrada
 COMMON_ENTER_COST,Custo de entrada
 COMMON_ENTRY_CLAN_LIST,Lista de Clãs Participantes
@@ -2382,7 +2382,7 @@ COMMON_GRADEALL,Todos
 COMMON_GROWTH_BTN,Atualização
 COMMON_GROWTH_TIP,"Se você tiver materiais suficientes para Transcendência,
 atualizar além do nível de Transcendência irá consumi-los."
-COMMON_GUDUA,Memórias de Gudua
+COMMON_GUDUA,Gudua's Memories
 COMMON_GUIDE,Guia
 COMMON_GUIDEBOOK,Manual
 COMMON_HELP,Ajuda
@@ -2458,7 +2458,7 @@ COMMON_MINIMUM_SALES_AMOUNT,Custo mínimo de vendas
 COMMON_MINUS_COUNT,-[Count]
 COMMON_MISSION,Missão
 COMMON_MISSION_CLEAR_REWARD_TITEL,Missão concluída
-COMMON_MISSION_CLEAR_TITEL,Complete a missão imediatamente
+COMMON_MISSION_CLEAR_TITEL,Concluir Missão Agora
 COMMON_MMSS,[m] min(s) [s] seg(s)
 COMMON_MONDAY,Segunda-feira
 COMMON_MONDAY_SHORT,Seg
@@ -2961,14 +2961,14 @@ COSTUME_SLOTEFFECT_MENU_WEAPON,Arsenal
 COSTUME_SLOTEFFECT_NONE,Sem efeito
 COSTUME_SLOTEFFECT_POPUP_ARMOR_TIP,As fantasias adquiridas serão registradas na Galeria <Yellow> na ordem da classificação de estrelas mais alta</>.
 COSTUME_SLOTEFFECT_POPUP_WEAPON_TIP,A Arma Fantasma adquirida será registrada no Arsenal <Yellow> na ordem do maior Star Rank</>.
-COSTUME_SLOTEFFECT_RESULT_NOTI_ARMOR_DESC,Adquiriu um novo traje. Efeito Galeria do Imperador ativado.
-COSTUME_SLOTEFFECT_RESULT_NOTI_WEAPON_DESC,Arma Fantasma adquirida. Efeito Arsenal do Imperador ativado.
-COSTUME_SLOTEFFECT_RESULT_TITLE,Adquiriu a nova Galeria do Imperador
-COSTUME_SLOTEFFECT_RESULT_TITLE_WEAPON,Adquiriu o novo Arsenal do Imperador
-COSTUME_SLOTEFFECT_TITLE,Efeito Galeria do Imperador
-COSTUME_SLOTEFFECT_TITLE_ALL,Efeito Galeria do Imperador
-COSTUME_SLOTEFFECT_TITLE_ALL_WEAPON,Efeito Arsenal do Imperador
-COSTUME_SLOTEFFECT_TITLE_WEAPON,Efeito Arsenal do Imperador
+COSTUME_SLOTEFFECT_RESULT_NOTI_ARMOR_DESC,Adquiriu um novo traje. Efeito Emperor’s Gallery ativado.
+COSTUME_SLOTEFFECT_RESULT_NOTI_WEAPON_DESC,Arma Fantasma adquirida. Efeito Emperor’s Armory ativado.
+COSTUME_SLOTEFFECT_RESULT_TITLE,Adquiriu a nova Emperor’s Gallery
+COSTUME_SLOTEFFECT_RESULT_TITLE_WEAPON,Adquiriu o novo Emperor’s Armory
+COSTUME_SLOTEFFECT_TITLE,Efeito Emperor's Gallery
+COSTUME_SLOTEFFECT_TITLE_ALL,Efeito Emperor's Gallery
+COSTUME_SLOTEFFECT_TITLE_ALL_WEAPON,Efeito Emperor’s Armory
+COSTUME_SLOTEFFECT_TITLE_WEAPON,Efeito Emperor’s Armory
 COSTUME_SLOTEFFECT_WEAPON_LIST_TIP,"Se você adquirir uma Arma Fantasma <Yellow>3★+ da minha classe</>, você ganha o Efeito de Arsenal do mesmo Grau Estelar. Aquisições duplicadas não contam."
 COSTUME_TYPE_ARMOR,Traje
 COSTUME_TYPE_WEAPON,Arma Fantasma
@@ -3272,7 +3272,7 @@ CREST_SUBTITLEMENU_LEVELUP,Crista
 CREST_SUBTITLEMENU_LIST,Lista de cristas
 CREST_TAB_NAME_CREST_LEVELUP,Nível da crista
 CREST_TAB_NAME_EQUIP,Equipar Powerstone
-CREST_TITLE,Crista dos Antigos
+CREST_TITLE,Crest of the Ancients
 CREST_TYPE_DESTINY,Pedra de Energia do Destino
 CREST_TYPE_DESTROY,Pedra de Energia da Destruição
 CREST_TYPE_INSTINCT,Pedra de Energia do Instinto
@@ -3658,7 +3658,7 @@ EVENT_ROULETTE_ACCUM_COUNT,alcançado [Count]
 EVENT_ROULETTE_ACCUM_NOTYET_MSG,Participação total insuficiente.
 EVENT_ROULETTE_ACCUM_REWARD,Recompensas de marcos
 EVENT_ROULETTE_ACCUM_REWARD_LIST,Lista de recompensas de marcos
-EVENT_ROULETTE_COUPON,Bilhete de roleta
+EVENT_ROULETTE_COUPON,Roulette Ticket
 EVENT_ROULETTE_FREE,Grátis
 EVENT_ROULETTE_GETCOUPON_MOVE,Como obter ingressos
 EVENT_ROULETTE_LEFT_FREE,As tentativas gratuitas devem ser esgotadas primeiro.
@@ -4026,11 +4026,11 @@ GSTARBOARD_ADVENTUREMODE_DESC1,Naru A solicitação
 GSTARBOARD_ADVENTUREMODE_DESC2,Atenda ao pedido de Naru e ganhe um selo.
 GSTARBOARD_ADVENTUREMODECONTENTS_1,Trial Gates
 GSTARBOARD_ADVENTUREMODECONTENTS_2,Trial of Flight
-GSTARBOARD_ADVENTUREMODECONTENTS_3,Teste de salto
+GSTARBOARD_ADVENTUREMODECONTENTS_3,Trial of Leap
 GSTARBOARD_BTEAM_CONTENTSSCORE,[Value] <GStarBoard>/ [MaxValue]</>
 GUDUA_ALREADY_MAXLEVEL,Nível máximo alcançado.
 GUDUA_ALREADY_MINLEVEL,Não é possível selecionar um nível inferior ao seu nível atual.
-GUDUA_GROWTH_TITLE,Restaurar Memórias de Gudua
+GUDUA_GROWTH_TITLE,Restaurar Gudua's Memories
 GUDUA_LEVEL,Lv.[Level]
 GUDUA_LEVELUP_BTN,Restaurar memória
 GUDUA_MAXLEVEL_ERROR,Não é possível restaurar mais memórias porque você atingiu o nível máximo.
@@ -4177,12 +4177,12 @@ INVENTORY_CATEGORY_CRAFTMATERIAL_NEW,Materiais de criação
 INVENTORY_CATEGORY_ETC,Diversos
 INVENTORY_CATEGORY_GROWTHMATERIAL,Materiais de aprimoramento
 INVENTORY_CATEGORY_GROWTHMATERIAL_NEW,Materiais de aprimoramento
-INVENTORY_CATEGORY_LOYALTYSTARSTONE,Relíquia da Lealdade
-INVENTORY_CATEGORY_OBEDIENCESTARSTONE,Relíquia da Subjugação
-INVENTORY_CATEGORY_CONTROLSTARSTONE,Relíquia do Infinito
-INVENTORY_CATEGORY_SILENCESTARSTONE,Relíquia do Abismo
-INVENTORY_CATEGORY_TACTICSTARSTONE,Relíquia da Arena Sagrada
-INVENTORY_CATEGORY_STRIFESTARSTONE,Relíquia do Conflito
+INVENTORY_CATEGORY_LOYALTYSTARSTONE,Relic of Loyalty
+INVENTORY_CATEGORY_OBEDIENCESTARSTONE,Relic of Subjugation
+INVENTORY_CATEGORY_CONTROLSTARSTONE,Relic of Infinity
+INVENTORY_CATEGORY_SILENCESTARSTONE,Relic of Abyss
+INVENTORY_CATEGORY_TACTICSTARSTONE,Sacred Arena Relic
+INVENTORY_CATEGORY_STRIFESTARSTONE,Sacred Relic of Strife
 INVENTORY_CATEGORY_HONORSTARSTONE,Relíquia da Honra
 INVENTORY_CATEGORY_REDEMPTIONSTARSTONE,Relíquia da Salvação
 INVENTORY_CATEGORY_STARSTONE,Relíquia Sagrada
@@ -4204,7 +4204,7 @@ INVENTORY_EXTRACT_SUBTITLE_DELETE,Destruir
 INVENTORY_EXTRACT_SUBTITLE_EXTRACT,Desmontar
 INVENTORY_EXTRACT_TITLE,Gerenciar item
 INVENTORY_FULL_AIRVEHICLE,Você atingiu o limite dos planejadores.
-INVENTORY_FULL_BLESSINGCARD,Você atingiu o limite de Graça das Constelações.
+INVENTORY_FULL_BLESSINGCARD,Você atingiu o limite de Grace of the Constellations.
 INVENTORY_FULL_CLANCOFFER,O tesouro do clã está cheio.
 INVENTORY_FULL_COSTUME,Você atingiu o limite de trajetória.
 INVENTORY_FULL_CRESTSTONE,Você atingiu o limite de Powerstones.
@@ -4314,7 +4314,7 @@ ITEM_EQUIPMENT_TYPE_GREATSWORD,Espada larga
 ITEM_EQUIPMENT_TYPE_HEARTSTONE,Heartstone
 ITEM_EQUIPMENT_TYPE_HELMET,Capacete
 ITEM_EQUIPMENT_TYPE_INFINITYSTONE,Pedra do Infinito
-ITEM_EQUIPMENT_TYPE_KNIFE,Manopla do Escudo
+ITEM_EQUIPMENT_TYPE_KNIFE,Shield Gauntlet
 ITEM_EQUIPMENT_TYPE_LEG,Polainas
 ITEM_EQUIPMENT_TYPE_MAGICBOOK,Pedra do Portão
 ITEM_EQUIPMENT_TYPE_MASK,Máscara
@@ -4390,11 +4390,11 @@ ITEM_TYPE_BATTLEITEM,Consumíveis de Combate
 ITEM_TYPE_CLAN_RAID,Angbar Arena
 ITEM_TYPE_CLAN_REPLICASEED,Replica Seed
 ITEM_TYPE_CLANREVIVECAMP,Consumíveis do Clã
-ITEM_TYPE_CONTROL_STAR_STONE,Relíquia do Infinito
+ITEM_TYPE_CONTROL_STAR_STONE,Relic of Infinity
 ITEM_TYPE_COSTUME,Traje
 ITEM_TYPE_COSTUME_EXCEED,Materiais de transcendência
 ITEM_TYPE_COSTUME_LEVELUP,Materiais para aumento de nível do traje
-ITEM_TYPE_CRAFTEXPAND,Certificado de fabricação
+ITEM_TYPE_CRAFTEXPAND,Crafting Certificate
 ITEM_TYPE_CRAFTRECIPE,Receita
 ITEM_TYPE_CRESTENCHANTMATERIAL,Materiais de atualização da Powerstone
 ITEM_TYPE_CRESTRESET,Bilhete de reset de crista
@@ -4407,28 +4407,28 @@ ITEM_TYPE_ENCAHNT_MATERIAL_WEAPON,Materiais de Aprimoramento de Arma
 ITEM_TYPE_EQUIPMENT,Equipamento
 ITEM_TYPE_EQUIPMENT_CRAFT_RECIPE,Receita
 ITEM_TYPE_ETC,Diversos. Itens
-ITEM_TYPE_GUDUA,Memórias de Gudua
+ITEM_TYPE_GUDUA,Gudua's Memories
 ITEM_TYPE_HP_POTION,Poção de HP
 ITEM_TYPE_HONOR_STAR_STONE,Relíquia Sagrada da Honra
 ITEM_TYPE_ITEMBOX,Caixa de item
-ITEM_TYPE_ITEMEXTEND,Ticket de Expansão de Estoque
-ITEM_TYPE_STORAGEEXTEND,Bilhete de Expansão do Stash Slot
-ITEM_TYPE_LOYALTY_STAR_STONE,Relíquia da Lealdade
+ITEM_TYPE_ITEMEXTEND,Inventory Expansion Ticket
+ITEM_TYPE_STORAGEEXTEND,Stash Slot Expansion Ticket
+ITEM_TYPE_LOYALTY_STAR_STONE,Relic of Loyalty
 ITEM_TYPE_MEMORITE,Memorite
 ITEM_TYPE_MP_POTION,Poção de MP
-ITEM_TYPE_OBEDIENCE_STAR_STONE,Relíquia da Subjugação
+ITEM_TYPE_OBEDIENCE_STAR_STONE,Relic of Subjugation
 ITEM_TYPE_OPTION_MATERIAL,Equipamento Powercore
 ITEM_TYPE_QUESTETC,Itens da missão
 ITEM_TYPE_REDEMPTION_STAR_STONE,Relíquia Sagrada da Salvação
 ITEM_TYPE_RETURN,Teleporte Pedra Mágica
 ITEM_TYPE_RETURNSCROLL,Teleport Scroll
-ITEM_TYPE_SILENCE_STAR_STONE,Relíquia do Abismo
-ITEM_TYPE_STRIFE_STAR_STONE,Relíquia Sagrada da Conflito
+ITEM_TYPE_SILENCE_STAR_STONE,Relic of Abyss
+ITEM_TYPE_STRIFE_STAR_STONE,Sacred Relic of Strife
 ITEM_TYPE_SKILLBOOK,Skill Itens
 ITEM_TYPE_SKILLGEM,Pedra mágica
 ITEM_TYPE_SOCIALACTIONACTIVATE,Ações Sociais
 ITEM_TYPE_SUBSCRIBERECHARGE,Privilégios
-ITEM_TYPE_TACTIC_STAR_STONE,Relíquia da Arena Sagrada
+ITEM_TYPE_TACTIC_STAR_STONE,Sacred Arena Relic
 ITEM_TYPE_TESSERACTSHARD,Tesseract
 ITEM_TYPE_TOWEROFTITANENTER,Passar
 ITEM_TYPE_VEHICLE_EXCEED,Materiais de transcendência da montaria
@@ -4436,7 +4436,7 @@ ITEM_TYPE_VEHICLE_LEVELUP,Montar Materiais de Level-Up
 ITEM_TYPE_TOWEROFTITANPAIDTIME,Recarregar Ticket
 ITEM_TYPE_TOWEROFTITANUNDERGROUNDPAIDTIME,Recarregar Pedra
 ITEM_UNUSABLE,Não é possível usar o item.
-ITEM_TYPE_SERVERTRANSFER,Bilhete de transferência
+ITEM_TYPE_SERVERTRANSFER,Server Transfer Ticket
 ITEM_TYPE_CHARACTERTITLE,Title Item de aquisição
 ITEM_UPGRADE_BIGSUCCESS_RATE_TEXT,Grande Sucesso
 ITEM_UPGRADE_BIGSUCCESS_TOOLTIP_DESC,O item será concedido como recompensa de Grande Sucesso.
@@ -4566,7 +4566,7 @@ MAIL_TITLE,Caixa de entrada
 MAIL_TODAY_SEND_TITLE,Tokens de e-mail restantes
 MAIL_UI_BLOCK_BTN,Gerenciar lista de bloqueios
 MAIL_UI_BTN_ALLDELETE,Excluir tudo
-MAIL_UI_BTN_GETALL,Receba todos os
+MAIL_UI_BTN_GETALL,Receber Todos
 MAIL_UI_BTN_WRITE,Componha
 MAIL_UI_LABEL_USERMAIL,Pessoal
 MAIL_UI_NORESULT,Nenhum email.
@@ -4610,8 +4610,8 @@ MODULARDUNGEON_START_HINTTEXT,Derrote monstros na masmorra para ganhar Tesouros 
 MODULEDUNGEON_DUNGEON_FAILTITLE,Desafio falhado
 MODULEDUNGEON_LEVEL_CHOICE,Escolha a Dificuldade
 MODULEDUNGEON_NOT_ENTER_SYSTEM_MSG,Não há tokens de provação suficientes para entrar.
-MODULEDUNGEON_POINT,Token de Provação
-MODULEDUNGEON_POINT_CHARGING,Token de Provação (recarregado)
+MODULEDUNGEON_POINT,Ordeal Token
+MODULEDUNGEON_POINT_CHARGING,Ordeal Token (Recarregado)
 MODULEDUNGEON_POINT_CHARGING_COUNT,Limite de recarga diária ([Value1]/[Value2])
 MODULEDUNGEON_POINT_CHARGING_ITEM_MAX_MSG,Limite de recarga de token básico atingido.
 MODULEDUNGEON_POINT_CHARGING_ITEM_MSG,[Count] Tokens de provação recarregados.
@@ -4619,7 +4619,7 @@ MODULEDUNGEON_POINT_CHARGING_MAX_MSG,Limite de recarga atingido.
 MODULEDUNGEON_POINT_CHARGING_MSG,"Recarrega <Yellow>[Value]</> Tokens de provação.
 O custo aumenta a cada recarga."
 MODULEDUNGEON_POINT_CHARGING_SYSTEM_MSG,Tokens de Provação recarregados.
-MODULEDUNGEON_POINT_COST,Gastar Ficha de Provação
+MODULEDUNGEON_POINT_COST,Gastar Ordeal Token
 MODULEDUNGEON_POINT_TITLE,Arbiter’s Ordeal
 MODULEDUNGEON_REWARD_1,Básico
 MODULEDUNGEON_REWARD_2,Usar x2
@@ -4640,7 +4640,7 @@ MODULEDUNTEON_LEVEL_LIMIT_SYSTEM_MSG,Não é possível entrar devido a nível in
 MODULEDUNGEON_COMBATPOWERVALUE_LIMIT_SYSTEM_MSG,Poder de combate insuficiente para entrar.
 MODULEDUNTEON_MAIN_DESC,Escolha uma Provação e conclua-a para ganhar materiais de atualização específicos.
 MODULEDUNTEON_MODULEPOINT_LACK_SYSTEM_MSG,Tokens de Provação insuficientes.
-MODULEDUNTEON_POINT_CHARGING_GUIDE_MSG,"[Regras de recarga de token de provação] 
+MODULEDUNTEON_POINT_CHARGING_GUIDE_MSG,"[Regras de recarga de Ordeal Token] 
  - Os tokens básicos são recarregados automaticamente em intervalos definidos: <Yellow>one</> token por recarga, até tokens <yellow>600</> total.
 - Você pode usar diamantes para recarregar tokens adicionais. O custo de recarga aumenta a cada compra.
 - Você só pode recarregar com diamantes até <Yellow>quatro vezes</> diariamente, e os tokens pagos podem acumular <Yellow>até 1.200</>.
@@ -4649,7 +4649,7 @@ MODULEDUNTEON_POINT_CHARGING_GUIDE_TITLE,"[Tokens de provação]
 Tokens básicos <Yellow>[Value1]</> (Máx. 600) Tokens pagos <Yellow>[Value2]</> (Máx. 1.200)"
 MODULEDUNTEON_POINT_CHARGING_NEXT_TIME,Próxima recarga
 MODULEDUNTEON_POINT_CHARGING_NEXT_TIME_MAX,(Limite de recarga)
-MODULEDUNTEON_SWEEP_TITLE,Derrotar monstros de token de provação
+MODULEDUNTEON_SWEEP_TITLE,Derrotar monstros de Ordeal Token
 MODULEDUNGEON_POINTCHARGING_ITEM_DESC,Use [ItemName] para recarregar Tokens de Provação.{jstag:}
 MODULEDUNGEON_POINTCHARGING_ITEM,Item de recarga
 MODULEDUNGEON_POINTCHARGING_DIA,Diamante de recarga
@@ -5125,7 +5125,7 @@ PK_GRADE_RANGE_VALUE,[MinValue] ~ [MaxValue]
 PK_IGNORE_EFFECT_REMOVAL_WARNING_GADGET_CONTROLLED,O efeito de Shield of Peace será perdido ao interagir com [Name].
 PK_IGNORE_EFFECT_REMOVAL_WARNING_GADGET_OPERATION_MESSAGE,O efeito de Shield of Peace será perdido ao interagir com este objetivo. Continuar mesmo assim?
 PK_IGNORE_EFFECT_REMOVAL_WARNING_GADGET_OPERATION_TITLE,Alerta de Expiração de Buff
-PK_IGNORE_EFFECT_REMOVAL_WARNING_TOWER_OF_TITAN_EFFECT_MESSAGE,"A tocha de Ashur será redefinida se você usar este item.
+PK_IGNORE_EFFECT_REMOVAL_WARNING_TOWER_OF_TITAN_EFFECT_MESSAGE,"A Ashur’s Torch será redefinida se você usar este item.
 Continuar mesmo assim?"
 PK_IGNORE_EFFECT_REMOVAL_WARNING_TOWER_OF_TITAN_EFFECT_TITLE,Aviso de reset de buff
 PK_IGNORE_ITEM_USAGE_NOTIFICATION,O efeito do item Shield of Peace foi aplicado; você não será atacado por outros jogadores durante [Time].
@@ -5317,7 +5317,7 @@ RECORD_FIELDBOSS,Chefe
 RECORD_FIELDBOSS_LOCATION,Local de Spawn
 RECORD_FORMAT_COUNT,[Count]/[MaxCount]
 RECORD_FORMAT_TOTAL_POINT,[Point]/[MaxPoint]
-RECORD_GIANTPIECE,Giant's Remanescentes
+RECORD_GIANTPIECE,Giant's Remnants
 RECORD_GIANTPIECE_DESC,"Ele funciona de forma semelhante aos Discos de Registro usados ​​uma vez pelo Império Antigo.
 Os aventureiros podem localizá-los facilmente. Quando ativados, eles deixam uma mensagem gravada antes de desaparecerem. 
 Alguns espécimes bem preservados ainda contêm mensagens registradas em tempos antigos."
@@ -5326,8 +5326,8 @@ RECORD_GIANTPIECE_DISCOVEREDNOT_DESC,Remanescente de Giant não descoberto.
 RECORD_GIANTPIECE_NONE_SELECTION_DESC,Selecionando Arquivos.
 RECORD_GIANTPIECE_TITLE,Mensagem dos Tempos Antigos
 RECORD_KEYREWARD_TITLE,Recompensa principal
-RECORD_MASTER_KEY,Tocha de Ashur
-RECORD_MASTER_KEY_DESC,Você pode ganhar buffs poderosos ao adquirir a Tocha de Ashur na Giant's Tower.
+RECORD_MASTER_KEY,Ashur's Torch
+RECORD_MASTER_KEY_DESC,Você pode ganhar buffs poderosos ao adquirir a Ashur’s Torch na Giant's Tower.
 RECORD_NEXTREWARD_TITLE,Próxima recompensa
 RECORD_NORMAL_MONSTER_DESC,Você deve derrotar os monstros que vivem dentro da Giant's Tower.
 RECORD_NORMAL_MONSTER_KILL,Derrote Monstros Comuns.
@@ -5350,22 +5350,22 @@ RECORD_TRANSMITDEVICE_OLD_DESC,"Presume-se que tenha sido criado pelos Antigos, 
 Ele é dividido em âncoras de urdidura grandes, pequenas e monólitas. Os usuários são aconselhados a ter cuidado porque alguns foram abandonados em áreas perigosas.
 As âncoras de deformação perto de monólitos são especialmente subdesenvolvidas devido à explosão de éter. Está indisponível durante o Monolith War devido às altas emissões de Éter."
 RECORD_TRANSMITDEVICE_BATTLEFIELD_DESC,"Presumivelmente criado pelos Antigos, este dispositivo de teletransporte está disponível apenas para Clãs que reivindicaram uma fortaleza."
-RECORD_TREASUREBOX,Baú de tesouro
+RECORD_TREASUREBOX,Treasure Chest
 RECORD_TREASUREBOX_DESC,"Baús de tesouro espalhados pela Forsaken Land sejam remanescentes do Império Antigo. 
 A Guilda dos Aventureiros ocasionalmente encomenda investigações sobre eles."
-RECORD_TREASUREBOX_TITLE,Baú de tesouro
-RECORD_TREASUREBOXEPIC,Santuário Etéreo
+RECORD_TREASUREBOX_TITLE,Treasure Chest
+RECORD_TREASUREBOXEPIC,Ethereal Sanctum
 RECORD_TREASUREBOXEPIC_DESC,"Uma relíquia que se acredita ter sido criada pelos nobres do Império Antigo.
 Espalhada pela Forsaken Land, diz-se que concede tesouros raros para aqueles que superam suas provações."
 RECORD_TREASUREBOXSPECIAL_DESC,"Um baú de tesouro especial que você pode encontrar ao explorar a Forsaken Land, que se acredita ser remanescente do Império Antigo. 
 A Guilda dos Aventureiros ocasionalmente encomenda investigações sobre eles."
-RECORD_TREASUREBOXSPECIAL_TITLE,Baú de Tesouro Especial
+RECORD_TREASUREBOXSPECIAL_TITLE,Special Treasure Chest
 RECORD_TYPE_FIELDBOSS,Chefe
-RECORD_TYPE_GIANTPIECE,Giant's Remanescentes
+RECORD_TYPE_GIANTPIECE,Giant's Remnants
 RECORD_TYPE_TELEPORTSTATION,Âncoras de Warp
-RECORD_TYPE_TREASUREBOX,Baú de tesouro
-RECORD_TYPE_TREASUREBOXEPIC,Santuário Etéreo
-RECORD_TYPE_TREASUREBOXSPECIAL,Baú de Tesouro Especial
+RECORD_TYPE_TREASUREBOX,Treasure Chest
+RECORD_TYPE_TREASUREBOXEPIC,Ethereal Sanctum
+RECORD_TYPE_TREASUREBOXSPECIAL,Special Treasure Chest
 RECORD_TYPE_TRIALGATE,Trial Gates
 RECORD_TYPE_VIEWPOINT,Observatório
 RECORD_VIEWPOINTPOPUP_DESC,"É usado para monitorar ameaças em toda a Forsaken Land e transmitir informações sobre elas. 
@@ -5494,14 +5494,14 @@ SEAONALEVENT_VENDINGMACHINE_REWARDLABEL,Recompensa principal
 SEAONALEVENT_VENDINGMACHINE_TITLE,Aburu Vending Machine
 SEASONALEVENT_BTN_IMAGEGUIDE,Ver guia
 SEASONALEVENT_END,Terminado
-SEASONALEVENT_NAME_ABURUFESTIVAL,Festival de Recompensas de Aburu
+SEASONALEVENT_NAME_ABURUFESTIVAL,Aburu's Bounty Festival
 SEASONALEVENT_OPEN_ALREADY_END,[SeasonalEventMenuName] terminou.{jstag:}
 SEASONALEVENT_OPEN_NOT_YET,[SeasonalEventName] ainda não está aberto.{jstag:}
 SEASONALEVENT_MISSION_EVENT_TITLE,Missão Naruru
 SEASONALEVENT_MISSION_EVENT_TITLE_LIGHT,Missão Halo
-SEASONALEVENT_NAME_ATTACKTITAN,Arquiteto x Ataque a Titan
+SEASONALEVENT_NAME_ATTACKTITAN,Architect x Attack on Titan
 SEASONALEVENT_NAME_ATTACKTITAN_MISSION,Colaboração Missões Especiais
-SEASONALEVENT_NAME_ATTACKTITAN_VENDINGMACHINE,Ataque a Titan Vending Machine
+SEASONALEVENT_NAME_ATTACKTITAN_VENDINGMACHINE,Attack on Titan Vending Machine
 SEASONALEVENT_NAME_ATTACKTITAN_VENDINGMACHINE_DESC,"Use Attack on Titan Vending Machine Ingressos na máquina
  para ter a chance de ganhar Attack on exclusivo Recompensas Titan!"
 SECTERINVASION_BOSS_GRADETITLE,Chefe da Grande Incursão
@@ -5686,7 +5686,7 @@ SHOP_PASS_LINE_GRADE_NAME_NORMAL,Combate padrão
 SHOP_PASS_LINE_GRADE_NAME_PREMIUM,Premium
 SHOP_PASS_LINE_LEVELUP_ALL_RECEIVE,Ver missões
 SHOP_PASS_LINE_LEVELUP_BUY,Nível de compra acima
-SHOP_PASS_LINE_LEVELUP_MISSION,Receba todos os
+SHOP_PASS_LINE_LEVELUP_MISSION,Receber Todos
 SHOP_PASS_LINE_LEVELUP_TIP,As missões são concluídas automaticamente ao atender às condições.
 SHOP_PASS_POPUP_TITLE_MISSION,Missão
 SHOP_PASS_POPUP_REPEAT_MSG1,"Todas as recompensas para [ShopName] foram reivindicadas e 
@@ -6006,7 +6006,7 @@ STARSTONE_POINT_REWARD_TITLE,Troca de relíquias Concluída
 STAT_ACQUIRE_CONTENTS_ACTOR,Nível do personagem
 STAT_ACQUIRE_CONTENTS_AIRVEHICLE,Planejador
 STAT_ACQUIRE_CONTENTS_AWAKENING,Despertar
-STAT_ACQUIRE_CONTENTS_BLESSINGCARD,Graça das Constelações
+STAT_ACQUIRE_CONTENTS_BLESSINGCARD,Grace of the Constellations
 STAT_ACQUIRE_CONTENTS_CLANRESEARCH,Pesquisa do item
 STAT_ACQUIRE_CONTENTS_CLASSRANK,Avanço
 STAT_ACQUIRE_CONTENTS_COLLECTION,Pesquisa
@@ -6017,7 +6017,7 @@ STAT_ACQUIRE_CONTENTS_EFFECT,Efeito
 STAT_ACQUIRE_CONTENTS_EQUIPMENT,Equipamento
 STAT_ACQUIRE_CONTENTS_EXTRA,Aquisição adicional
 STAT_ACQUIRE_CONTENTS_GROUNDVEHICLE,Montaria
-STAT_ACQUIRE_CONTENTS_GUDUA,Memórias de Gudua
+STAT_ACQUIRE_CONTENTS_GUDUA,Gudua's Memories
 STAT_ACQUIRE_CONTENTS_PASS,Passe premium
 STAT_ACQUIRE_CONTENTS_SKILL,Skill
 STAT_ACQUIRE_CONTENTS_CHARACTERTITLE,Title
@@ -6165,7 +6165,7 @@ TITLE_STYLE_NAME_TAG_NPC,[Title]
 TITLE_TREASUREBOX_DESC,"Uma relíquia que se diz ter sido criada pelos nobres de um antigo império.
 Ela pode ser encontrada em toda a Forsaken Land, 
 e diz-se que aqueles que passam em seus testes obtêm tesouros raros."
-TITLE_TREASUREBOX_NAME,Santuário Etéreo
+TITLE_TREASUREBOX_NAME,Ethereal Sanctum
 TOWER_OF_TITAN_EXIT_GUIDE,Você consumiu todo o Hot Time.
 TOWEROFTITAN_ABOVE_FIRST_FLOOR_DESC,Um bilhete de entrada é consumido na entrada. Atender aos requisitos de um domínio de nível superior também concede acesso a domínios de nível inferior.
 TOWEROFTITAN_ALGOLITHM_TIP,Derrote o Guardian Golem para acabar com isso.
@@ -6256,14 +6256,14 @@ TOWEROFTITAN_HOTTIME_ERROR_TIMEOVER,Não há tempo restante.
 TOWEROFTITAN_HOTTIME_EXTRA,Tempo Adicional
 TOWEROFTITAN_HOTTIME_NOITEM_MSG,Itens insuficientes: [ItemName]
 TOWEROFTITAN_HOTTIME_TIP,As taxas de EXP e Drop aumentam durante o Hot Time
-TOWEROFTITAN_KEY_EMPTY,Não há proprietário da Tocha de Ashur.
-TOWEROFTITAN_KEYONER_CHANGE,O dono da Tocha de Ashur mudou.
-TOWEROFTITAN_KEYONER_COMBATSTATUS_NOTI,A Tocha de Ashur retornou ao seu lugar original devido a um longo período sem combate.
-TOWEROFTITAN_KEYONER_NONE,A tocha de Ashur retornou ao seu lugar original.
+TOWEROFTITAN_KEY_EMPTY,Não há proprietário da Ashur's Torch.
+TOWEROFTITAN_KEYONER_CHANGE,O dono da Ashur's Torch mudou.
+TOWEROFTITAN_KEYONER_COMBATSTATUS_NOTI,A Ashur's Torch retornou ao seu lugar original devido a um longo período sem combate.
+TOWEROFTITAN_KEYONER_NONE,A Ashur's Torch retornou ao seu lugar original.
 TOWEROFTITAN_LOBBY_EXIT_MESSAGE,Ir para a Forsaken Land?
-TOWEROFTITAN_MASTERKEY,Tocha de Ashur
+TOWEROFTITAN_MASTERKEY,Ashur's Torch
 TOWEROFTITAN_MASTERKEY_EMPTY,Nenhum alvo
-TOWEROFTITAN_MASTERKEY_LABEL,Tocha de Ashur
+TOWEROFTITAN_MASTERKEY_LABEL,Ashur's Torch
 TOWEROFTITAN_MASTERKEY_WORLDMAP_EMPTY_DESC,A tocha não foi reclamada.
 TOWEROFTITAN_MASTERKEY_WORLDMAP_EMPTY,Disponível para captura
 TOWEROFTITAN_MASTERKEY_WORLDMAP_OCCUPATIONSTATUS,Status da tocha
@@ -6331,16 +6331,16 @@ O tempo adicional de recarga com itens não será redefinido."
 TOWEROFTITANWORLD_NOTENTER,Pode ser usado em Forsaken Land ou no Lobby da Giant's Tower.
 TOWN_QUICK_NOT_AREA_MSG,Não pode ser ativado nesta região.
 TOWN_QUICK_POPUP_TITLE,Atalho
-TREASUREBOX_ALREADY_COMPLETE,Não é possível mover para um Santuário Etéreo limpo.
+TREASUREBOX_ALREADY_COMPLETE,Não é possível mover para um Ethereal Sanctum limpo.
 TREASUREBOX_CHALLENGE_EMPTYQUESTTASK,Sair do Ethereal Sanctum
-TREASUREBOX_CHALLENGE_EXITCHECKTEXT_NOREWARD,"Atualmente desafiando o Julgamento do Santuário Etéreo.
+TREASUREBOX_CHALLENGE_EXITCHECKTEXT_NOREWARD,"Atualmente desafiando o Julgamento do Ethereal Sanctum.
 Sair mesmo assim?
 <Green>As recompensas não adquiridas serão enviadas para sua caixa de entrada.</>"
-TREASUREBOX_CHALLENGE_EXITCHECKTEXT_PLAYING,"Atualmente desafiando o Julgamento do Santuário Etéreo.
+TREASUREBOX_CHALLENGE_EXITCHECKTEXT_PLAYING,"Atualmente desafiando o Julgamento do Ethereal Sanctum.
 Sair mesmo assim?"
-TREASUREBOX_DUNGEON_FAILTEXT,Falha ao limpar o Santuário Etéreo.
+TREASUREBOX_DUNGEON_FAILTEXT,Falha ao limpar o Ethereal Sanctum.
 TREASUREBOX_DUNGEON_FAILTITLE,Desafio falhado
-TREASUREBOX_DUNGEON_NOT_DISCORVERY_MOVE,Santuário Etéreo ainda não foi descoberto. Ative as Warp Anchors para revelar sua localização. Viajar agora?
+TREASUREBOX_DUNGEON_NOT_DISCORVERY_MOVE,Ethereal Sanctum ainda não foi descoberto. Ative as Warp Anchors para revelar sua localização. Viajar agora?
 TREASUREBOX_MSG_UNDISCOVERY_MOVE,Não é possível viajar porque ainda não foi descoberto.
 TREASUREBOX_SUB_LIST_NOTHING,Não descoberto
 TREASUREBOXCHALLENGE_CHECKPOINT_RESTART_MSG1,Há um ponto de verificação inativado.
@@ -6348,17 +6348,17 @@ TREASUREBOXCHALLENGE_CHECKPOINT_RESTART_MSG2,Pisou em uma placa de pressão já 
 TREASUREBOXCHALLENGE_CHECKPOINT_RESTART_MSG3,Pisou em uma placa de pressão fora de serviço.
 TREASUREBOXCHALLENGE_CHECKPOINT_RESTART_TIME,Retornando ao ponto inicial em [ss]s.
 TREASUREBOXCHALLENGE_FAIL,Desafio falhado
-TREASUREBOXCHALLENGE_FAIL_DESC,Falha ao passar na Prova do Santuário Etéreo.
-TREASUREBOXCHALLENGE_FAIL_DESC_TIMEOVER,Falha ao passar na Prova do Santuário Etéreo dentro do limite de tempo.
+TREASUREBOXCHALLENGE_FAIL_DESC,Falha ao passar na Prova do Ethereal Sanctum.
+TREASUREBOXCHALLENGE_FAIL_DESC_TIMEOVER,Falha ao passar na Prova do Ethereal Sanctum dentro do limite de tempo.
 TREASUREBOXCHALLENGE_MISSION_RESTRICTSKILL_DESC4,Skill de investida
 TREASUREBOXCHALLENGE_MISSION_SCORE_DESC1,Anel de Luz
 TREASUREBOXCHALLENGE_MISSION_SCORE_DESC2,Fragmento Dimensional
 TREASUREBOXCHALLENGE_MISSION_SCORE_DESC3,Redefinir dispositivo
 TREASUREBOXCHALLENGE_MISSION_SCORE_DESC4,Portal Warp
 TREASUREBOXCHALLENGE_OFFTHECOURSE_MSG,Desviado do caminho e transferido para o Checkpoint mais próximo.
-TREASUREBOXCHALLENGE_START_TITLE,Teste do Santuário Etéreo
+TREASUREBOXCHALLENGE_START_TITLE,Teste do Ethereal Sanctum
 TREASUREBOXCHALLENGE_SUCCESS,Desafio bem-sucedido!
-TREASUREBOXCHALLENGE_TITLE,Santuário Etéreo
+TREASUREBOXCHALLENGE_TITLE,Ethereal Sanctum
 TREASUREBOXCHALLENGE_MISSION_REWARD_TITLE,Reivindicar Ethereal Sanctum Clear Reward
 TRIALGATE_ALREADY_COMPLETE,Não é possível mover para um Trial Gate limpo.
 TRIALGATE_CONTRIBUTION_RESULTPOPUP_POPUPDESC,As recompensas adquiridas pelos membros do grupo são exibidas na lista.
@@ -6370,7 +6370,7 @@ TRIALGATE_DIFFICULTY_UP_DESC,A dificuldade e as recompensas do Trial Gates serã
 TRIALGATE_DIFFICULTY_UP_TITLE,Subir nível do Trial Gate
 TRIALGATE_DONT_MOVE_PREV_DIFFICULTY,Não é possível ir para um Trial Gate de uma dificuldade anterior.
 TRIALGATE_DUNGEON_BLOCKERSPAWN,A entrada para o Trial Gate será selada em [Value1] segundos.
-TRIALGATE_DUNGEON_CLEARTEXT,Abra o Baú do Tesouro de Atrahasis para obter uma recompensa.
+TRIALGATE_DUNGEON_CLEARTEXT,Abra o Treasure Chest de Atrahasis para obter uma recompensa.
 TRIALGATE_DUNGEON_CLEARTITLE,Desafio bem-sucedido
 TRIALGATE_DUNGEON_CONTRIBUTION_TIPTEXT,"A contribuição é arredondada para a segunda casa decimal.
 A soma das probabilidades arredondadas pode não ser igual a 100%."
@@ -6805,10 +6805,10 @@ WORLDMAP_BOOKMARK_TITLE,Favoritos
 WORLDMAP_ADVENTUREMODE,Modo de Exploração
 WORLDMAP_BATTLEFIELDINFO,Monolith War Informações
 WORLDMAP_ADVENTUREMODE_GUIDE_TITLE,Modo de Exploração
-WORLDMAP_ADVENTUREMODE_GUIDE_DESC,mostra <Yellow> Baús de Tesouro</> e <Yellow>Resquícios de Gigante</> no Mapa Mundial.
+WORLDMAP_ADVENTUREMODE_GUIDE_DESC,Mostra <Yellow>Treasure Chests</> e <Yellow>Giant's Remnants</> no Mapa Mundial.
 WORLDMAP_BATTLEFIELDMONOLITHINFO,Monolith War Informações
 WORLDMAP_BATTLEFIELD_MONOLITH_STATE_BATTLEEND,<MonolithBattleEnd>Batalha concluída</>
-WORLDMAP_BATTLEFIELD_MONOLITH_STATE_BATTLEREADY,<MonolithBattleReady>Preparando-se para a batalha</>
+WORLDMAP_BATTLEFIELD_MONOLITH_STATE_BATTLEREADY,<MonolithBattleReady>Preparing for Battle</>
 WORLDMAP_BATTLEFIELD_MONOLITH_STATE_BATTLESTART,<MonolithBattleStart>Batalha em andamento</>
 WORLDMAP_BATTLEFIELD_MONOLITH_NOT_JOINED,Você não está participando de um Monolith War.
 WORLDMAP_CAN_NOT_MAKE_PATH,Nenhum caminho para chegar a esse local.
@@ -7070,7 +7070,7 @@ EVENT_ALRDY_END_MSG,Este evento já terminou.
 INTERSERVER_ENTER_WAITING,[WorldName] aguardando entrada…
 ITEM_EQUIPMENT_TYPE_COLLAR,Insígnia
 ITEM_EQUIPMENT_TYPE_TALISMAN,do Talim Talismã
-ITEM_EQUIPMENT_TYPE_STIGMA,Marca Sagrada
+ITEM_EQUIPMENT_TYPE_STIGMA,Sacred Mark
 ITEM_EQUIPMENT_TYPE_DAGGER,Dagger
 ITEM_EQUIPMENT_TYPE_ARROWHEAD,Ponta de flecha
 ABURUPASS_CONTENT_TITLE,Passe do Festival
@@ -7263,7 +7263,7 @@ SERVERTRANSFER_CONFRIM_DESC2,Insira o nome do servidor <Yellow> que você está 
 SERVERTRANSFER_CONFRIM_HINTTEXT,Insira o nome do servidor para o qual deseja transferir corretamente.
 SERVERTRANSFER_CONFRIM_ERROR,Insira o nome do servidor para o qual deseja transferir corretamente.
 SERVERTRANSFER_CLANGUIDE_PURCHASE_ERROR,Já adquirido.
-SERVERTRANSFER_CLANGUIDE_ITEMUSE_ERROR,Você não possui um ticket de transferência de servidor.
+SERVERTRANSFER_CLANGUIDE_ITEMUSE_ERROR,Você não possui um Server Transfer Ticket.
 SERVERTRANSFER_CLANGUIDE_OVER_MSG,A transferência garantida do servidor do clã foi encerrada.
 SERVERTRANSFER_ACCOUNT_CHANGE,Alterar conta
 SERVERTRANSFER_ACCOUNT_SELECT,Selecione a conta
@@ -7282,7 +7282,7 @@ SERVERTRANSFER_CLAN_GUIDEDESC2,"<Yellow>Clan Server Transfer Aviso</>
  2. Você se juntará automaticamente ao Clã selecionado ao transferir de volta para o Servidor do Clã original dentro do período de transferência garantido."
 SERVERTRANSFER_CLAN_LEFTTIMELABEL,Duração restante da transferência garantida
 SERVERTRANSFER_CLAN_BTN1,Servidor de transferência
-SERVERTRANSFER_CLAN_BTN2,Ticket de transferência do servidor de compra
+SERVERTRANSFER_CLAN_BTN2,Comprar Server Transfer Ticket
 CLANUNIT_INVITE_ALL,Convidar todos os membros do clã
 CLAN_OWNERABLE_SENTINEL_OWNERSHIP_RESET_ONE_PER_CLAN,O Abyss Sentinel de propriedade anterior será reiniciado porque você só pode possuir 1 por clã.
 BATTLEFIELD_SENTINEL_ALARM_STATUS_BATTLEREADY,Preparar para corrida de sentinela
@@ -7319,24 +7319,24 @@ BATTLEFIELD_SENTINEL_NO_OWNED_NPC_MY_CLAN,Seu clã não possui nenhum Sentinela
 TOWER_OF_TITAN_BASEMENT_SEASON_TOTAL_REWARD,Recompensa total do Abyss Battlefield
 TOWER_OF_TITAN_BASEMENT_BATTLEFIELD_BASE_REWARD,Recompensa total de conquista de fortaleza
 TOWER_OF_TITAN_BASEMENT_BATTLEFIELD_SENTINEL_REWARD,Recompensa total do Sentinel Scramble
-BATTLEFIELD_UNDERGROUND,Conquista da Fortaleza do Abismo
-BATTLEFIELD_UNDERGROUND_PROGRESS_BATTLE_READY_STATE,Preparando-se para a Conquista da Fortaleza do Abismo
+BATTLEFIELD_UNDERGROUND,Conquista da Abyss Fortress
+BATTLEFIELD_UNDERGROUND_PROGRESS_BATTLE_READY_STATE,Preparando-se para a Conquista da Abyss Fortress
 BATTLEFIELD_UNDERGROUND_PROGRESS_BATTLE_START_STATE,Abyss Fortress Conquest em andamento
-BATTLEFIELD_UNDERGROUND_PROGRESS_BATTLE_END_STATE,Conquista da Fortaleza do Abyss concluída
+BATTLEFIELD_UNDERGROUND_PROGRESS_BATTLE_END_STATE,Conquista da Abyss Fortress concluída
 BATTLEFIELD_UNDERGROUND_PROGRESS_BATTLE_READY_LEFT_TIME,[Time] até o início da conquista
 BATTLEFIELD_UNDERGROUND_PROGRESS_BATTLE_START_LEFT_TIME,[Time] até o final da conquista
 BATTLEFIELD_UNDERGROUND_PROGRESS_BATTLE_END_LEFT_TIME,Ocupação redefinida em [Time]
 BATTLEFIELD_UNDERGROUND_BATTLE_READY_STATE_TIME,Tempo de preparação
 BATTLEFIELD_UNDERGROUND_BATTLE_READY_START_TIME,Hora de início
 BATTLEFIELD_INFO,Info do campo
-BATTLEFIELD_UNDERGROUND_TOTAL_REWARD_VALUE,Recompensa total da conquista da Fortaleza do Abismo
+BATTLEFIELD_UNDERGROUND_TOTAL_REWARD_VALUE,Recompensa total da conquista da Abyss Fortress
 BATTLEFIELD_UNDERGROUND_OCCUPATION_CLAN_EMPTY,(sem clã ocupante)
 BATTLEFIELD_UNDERGROUND_MY_LEGION,Sua Legião
-BATTLEFIELD_UNDERGROUND_INFO_NAME_1,Fortaleza do Abismo
+BATTLEFIELD_UNDERGROUND_INFO_NAME_1,Abyss Fortress
 BATTLEFIELD_UNDERGROUND_INFO_NAME_2,Fortaleza Guard Torre
 BATTLEFIELD_UNDERGROUND_INFO_NAME_3,Local de reviver (defesa)
 BATTLEFIELD_UNDERGROUND_INFO_NAME_4,Aldeia Neutra
-BATTLEFIELD_UNDERGROUND_INFO_DESC_1,O Clã Vitorioso na Conquista da Fortaleza do Abismo pode capturar esta fortaleza.
+BATTLEFIELD_UNDERGROUND_INFO_DESC_1,O Clã Vitorioso na Conquista da Abyss Fortress pode capturar esta fortaleza.
 BATTLEFIELD_UNDERGROUND_INFO_DESC_2,Um objeto que você deve capturar para vencer a Conquista da Fortaleza.
 BATTLEFIELD_UNDERGROUND_INFO_DESC_3,Personagens que morreram dentro da fortaleza durante a captura da Torre do Guardião podem reviver em um local específico.
 BATTLEFIELD_UNDERGROUND_INFO_DESC_4,Esta é a vila onde os personagens que não conseguiram conquistar a Torre do Guardião entram e reaparecem.
@@ -7354,13 +7354,13 @@ BATTLEFIELD_UNDERGROUND_RULE_DESC_3_1,"No início da batalha, <Yellow>todos os p
 BATTLEFIELD_UNDERGROUND_RULE_DESC_3_2,"Durante a batalha, <Yellow>todos os clãs não aliados serão considerados hostis.</>"
 BATTLEFIELD_UNDERGROUND_INFO_TAB,Info do campo
 BATTLEFIELD_UNDERGROUND_RULE_TAB,Regras do campo de batalha
-BATTLEFIELD_UNDERGROUND_PANEL_TITLE,Status da Conquista da Fortaleza do Abyss
+BATTLEFIELD_UNDERGROUND_PANEL_TITLE,Status da Conquista da Abyss Fortress
 BATTLEFIELD_UNDERGROUND_LEFT_TIME_START,[Time] até o início da conquista
 BATTLEFIELD_UNDERGROUND_LEFT_TIME_END,[Time] até o final da conquista
-BATTLEFIELD_UNDERGROUND_END,Conquista da Fortaleza do Abyss concluída
+BATTLEFIELD_UNDERGROUND_END,Conquista da Abyss Fortress concluída
 BATTLEFIELD_UNDERGROUND_ALARM_STATUS_BATTLEREADY,Preparar para conquista da fortaleza
 BATTLEFIELD_UNDERGROUND_ALARM_STATUS_BATTLESTART,Iniciar conquista da fortaleza
-BATTLEFIELD_DIALOG_BATTLEFIELD_UNDERGROUND_STATIC,"Durante a Conquista da Fortaleza do Abismo, todos os personagens não aliados serão considerados <Red>hostil</>.
+BATTLEFIELD_DIALOG_BATTLEFIELD_UNDERGROUND_STATIC,"Durante a Conquista da Abyss Fortress, todos os personagens não aliados serão considerados <Red>hostil</>.
 As mortes e mortes durante a batalha não afetam os pontos do campo de batalha."
 BATTLEFIELD_UNDERGROUND_NEXT_REWARD_CHANGE_LEFT_TIME,(<Yellow>[Time]</> restante até a renovação)
 BATTLEFIELD_UNDERGROUND_REWARD_FIX_LEFT_TIME,(<Yellow>[Time]</> restante até a confirmação)
@@ -7435,7 +7435,7 @@ ELITEDUNGEON_EXITPOPUP_DESC,"O personagem se moverá para as Terras Abandonadas.
 Você quer sair?"
 COMMON_DUNGEONENTER_ENTERCOST_NONE_MSG,Não é possível entrar devido a recursos insuficientes.
 COMMON_DUNGEONENTER_WORLDERROR_MSG,Você não pode entrar aqui. Vá para as terras abandonadas.
-ELITEDUNGEON_TITLE,Barreira Temporal
+ELITEDUNGEON_TITLE,Temporal Barrier
 ELITEDUNGEON_DUNGEONENTER_RESETTIME_DESC,Tempo base de recarga
 ELITEDUNGEON_DUNGEONENTER_MONSTER_DESC,Monstros
 ELITEDUNGEON_DUNGEONENTER_MAINREWARD_DESC,Recompensa principal
@@ -7460,7 +7460,7 @@ CLAN_NAME_CHANGE_FAIL_EMPTY,Não é possível alterar porque nenhum nome de clã
 CHARACTER_NAME_CHANGE_FAIL_EMPTY,Não é possível alterar porque nenhum nome foi inserido.
 CHARACTER_CREATE_FAIL_NAME_EMPTY,Digite o nome do personagem.
 COMMON_REWARD_INFO,Info de recompensa
-ELITEDUNGEON_TIMEADDPOPUP_TITLE,Tempo de barreira temporal de recarga
+ELITEDUNGEON_TIMEADDPOPUP_TITLE,Tempo de Temporal Barrier de recarga
 ELITEDUNGEON_TIMEADDPOPUP_DESC,"<Yellow>10 minutos</> serão adicionados 
 <Yellow>[EliteDungeonType]</> usando [AssetName].{jstag:}"
 ELITEDUNGEON_TIMEADDPOPUP_COUNTMAX_ERROR_MSG,Limite de recarga atingido.
@@ -7512,7 +7512,7 @@ RESONANCE_BIG_NODE_GRADE_UP_TITLE,Ressonância do formulário de grau [Resonance
 RESONANCE_BIG_NODE_GRADE_UP_DESC,O formulário [ResonanceName] ressoou para o grau [ResonanceGrade] e se tornou mais forte.
 RESONANCE_BIG_NODE_GRADE_UP_OPERATION,Atributos de ressonância da forma
 RESONANCE_TOOLTIP_GRADE_TITLE,Estatísticas por Grau
-TOWERUNDERGROUND_LEGIONTOWN_DONT_MOVE,Disponível ao ocupar uma Fortaleza do Abyss.
+TOWERUNDERGROUND_LEGIONTOWN_DONT_MOVE,Disponível ao ocupar uma Abyss Fortress.
 BATTLEFIELD_SENTINEL_STATE,Status
 BATTLEFIELD_SENTINEL_STATE_ATTACK_ABLE,Pode ser reivindicado após a derrota
 BATTLEFIELD_SENTINEL_STATE_ATTACK_UNAVAILABLE,Não pode atacar ou reivindicar
@@ -7550,8 +7550,8 @@ QUEST_AUTOMOVE_HUNT_MSG,"O progresso da missão foi pausado por um tempo prolong
 QUEST_WORLDSEASON_LOCK_MSG,"Não é possível prosseguir porque a temporada terminou.
 Disponível no início da próxima temporada."
 BATTLEFIELD_DIALOG_BATTLEFIELD_UNDERGROUND_READY,Abyss Fortress Conquest começará em breve.
-BATTLEFIELD_DIALOG_BATTLEFIELD_UNDERGROUND_START_LEFT_TIME,<Yellow>[Time]</> restante até a Conquista da Fortaleza do Abismo.
-BATTLEFIELD_DIALOG_BATTLEFIELD_UNDERGROUND_START,A Conquista da Fortaleza do Abyss começou.
+BATTLEFIELD_DIALOG_BATTLEFIELD_UNDERGROUND_START_LEFT_TIME,<Yellow>[Time]</> restante até a Conquista da Abyss Fortress.
+BATTLEFIELD_DIALOG_BATTLEFIELD_UNDERGROUND_START,A Conquista da Abyss Fortress começou.
 BATTLEFIELD_DIALOG_BATTLEFIELD_UNDERGROUND_ALLY_CLAN_CONQUEST_SUCCESS,Seu clã ocupou <Yellow>[Name]</>
 BATTLEFIELD_DIALOG_BATTLEFIELD_UNDERGROUND_ALLIANCE_CLAN_CONQUEST_SUCCESS,O clã aliado <AllianceClan>[ClanName]</> ocupou <Yellow>[Name]</>.
 BATTLEFIELD_DIALOG_BATTLEFIELD_UNDERGROUND_ENEMY_CLAN_CONQUEST_SUCCESS,O clã hostil <EnemyMutualClan>[ClanName]</> ocupou <Yellow>[Name]</>.
@@ -7755,7 +7755,7 @@ CLAN_PROFILE_REMOVE_ALLIANCE,Dissolver Aliança do Clã
 CLAN_PROFILE_ADD_ENEMY,Registrar clã hostil
 CLAN_PROFILE_REMOVE_ENEMY,Remover clã hostil
 TITLE_CLAN_PROFILE,Informações do clã
-BATTLEFIELD_UNDERGROUND_CLAN_DIAMOND_REWARD_DESC,Recompensas diferenciais de diamantes de clã por Fortaleza do Abyss
+BATTLEFIELD_UNDERGROUND_CLAN_DIAMOND_REWARD_DESC,Recompensas diferenciais de diamantes de clã por Abyss Fortress
 BATTLEFIELD_SENTINEL_CLAN_DIAMOND_REWARD_DESC,Recompensas diferenciais de diamantes de clã por Sentinela do abismo
 BATTLEFIELD_UNDERGROUND_REWARD_NAME_1,Recompensa pessoal na vitória
 BATTLEFIELD_UNDERGROUND_REWARD_NAME_2,Recompensa do clã após a vitória
@@ -7768,7 +7768,7 @@ Você pode prosseguir com a tentativa de fusão selecionada apenas uma vez por T
 Se houver registros de falhas no Fusion para notas de 3 estrelas, 4 estrelas ou 5 estrelas, você poderá tentar novamente o Fusion..
 Se não houver registros de falhas no Fusion, será impossível tentar novamente."
 COMMON_RETRY,Tentar novamente
-ITEMRESTORE_COMBINE_TITLE_BLESSINGCARD,Graça das Constelações
+ITEMRESTORE_COMBINE_TITLE_BLESSINGCARD,Grace of the Constellations
 ITEMRESTORE_COMBINE_TITLE_COSTUMEARMOR,Fantasia de fusível
 ITEMRESTORE_COMBINE_TITLE_COSTUMEWEAPON,Fusível Arma Fantasma
 RESTOREITEM_POPUP_RESTORE_HIGH_ENCHANT_COUNT,"Existe um item com um nível de aprimoramento mais alto entre os alvos de restauração.
@@ -7914,17 +7914,17 @@ AKASHA_APPLY_EFFECT_TITLE,Efeitos de sintonização
 AKASHA_MAXLV_TEXT,Máximo
 AKASHA_LEVELUP_MATERIAL_SELECT_NOTHING,Nenhum material de subida de nível selecionado.
 AKASHA_NEED_ITEM_DESC,Desbloquear item necessário
-GLOBALBOSS_TITLE,Chefe de Rift
+GLOBALBOSS_TITLE,Rift Boss
 GLOBALBOSS_SEASONAL_TITLE,Beast Giant
 GLOBALBOSS_PLAYABLE_TIME,Tempo de Entrada
 GLOBALBOSS_PLAYABLE_TIME_VALUE,[StartTime] - [EndTime]
 GLOBALBOSS_PLAYABLE,Até a entrada: [Time]
 GLOBALBOSS_PLAYABLE_END,Até o final da entrada: [Time]
-GLOBALBOSS_ENTERTIME_TIP,"O Rift chefe está disponível para entrada a cada [EnterTimeStart] para [Duration].
+GLOBALBOSS_ENTERTIME_TIP,"O Rift Boss está disponível para entrada a cada [EnterTimeStart] para [Duration].
 Se já estiver dentro, você pode permanecer até o limite de tempo da masmorra, mesmo depois que a janela de entrada expirar."
 GLOBALBOSS_SEASONAL_ENTERTIME_TIP,"O Beast Giant está disponível para entrada a cada [EnterTimeStart] para [Duration].
 Se já estiver dentro, você pode permanecer até o limite de tempo da masmorra, mesmo depois que a janela de entrada expirar."
-GLOBALBOSS_TIP,"Rift chefes estão disponíveis em horários específicos e aplicam-se limites de entrada semanais.
+GLOBALBOSS_TIP,"Rift Bosses estão disponíveis em horários específicos e aplicam-se limites de entrada semanais.
 Mesmo com tentativas de entrada restantes, você não pode entrar sem um Prisma Dimensional."
 GLOBALBOSS_ENTRY_CHANCE_ADD_MSG,Entradas Semanais recarregadas por [Count].
 GLOBALBOSS_ENTRY_CHANCE_TIP_GUIDE_MAIN,"[Entrada semanal]
@@ -7944,12 +7944,12 @@ GLOBALBOSS_SEASONAL_ENTRY_CHANCE_TIP_GUIDE_DESC,"[Regras de recarga de entrada s
 - Você pode usar itens para acumular <Yellow>até entradas [Value2]</>.
 - As entradas serão consumidas na ordem de <Yellow>Entradas Básicas</> e <Yellow>Entradas recarregadas</>."
 GLOBALBOSS_CHANCEADDPOPUP_WEEKLY_LIMITCOUNT,Contagem de recarga de entrada semanal ([Value1]/[Value2])
-GLOBALBOSS_RANKINGREWARD_TITLE,Ranking do chefe de Rift
+GLOBALBOSS_RANKINGREWARD_TITLE,Ranking do Rift Boss
 GLOBALBOSS_SEASONAL_RANKINGREWARD_TITLE,Beast Giant Recompensas de Classificação
 GLOBALBOSS_RANKINGREWARD_TIP,As recompensas são concedidas aleatoriamente com base na sua classificação de contribuição ao derrotar um chefe.
 GLOBALBOSS_MATCHING_DUNGEONNAMEWAITING,Buscando partida: [DungeonName]…
-GLOBALBOSS_DUNGEON_EXIT,Sair do Rift chefe
-GLOBALBOSS_WARNING_EXIT_SELF,"A batalha do Rift chefe ainda está em andamento. Se você sair agora, uma penalidade de reentrada será aplicada e a entrada deduzida não será restaurada.
+GLOBALBOSS_DUNGEON_EXIT,Sair do Rift Boss
+GLOBALBOSS_WARNING_EXIT_SELF,"A batalha do Rift Boss ainda está em andamento. Se você sair agora, uma penalidade de reentrada será aplicada e a entrada deduzida não será restaurada.
 Sair mesmo assim?"
 GLOBALBOSS_SEASONAL_DUNGEON_EXIT,Sair Beast Giant
 GLOBALBOSS_SEASONAL_WARNING_EXIT_SELF,"A batalha Beast Giant ainda está em andamento. Se você sair agora, uma penalidade de reentrada será aplicada e a entrada deduzida não será restaurada.
@@ -7968,7 +7968,7 @@ Solicitar matchmaking?"
 GLOBALBOSS_CLANUNITOUT_TITLE,Sair do Esquadrão do Clã
 GLOBALBOSS_CLANUNITOUT_MESSAGE,"Solicitar matchmaking removerá você automaticamente do seu Esquadrão do Clã.
 Solicitar matchmaking?"
-GLOBALBOSS_DUNGEON_REWARDCHANCE_SHORTAGE,Recompensas do Rift chefe indisponíveis
+GLOBALBOSS_DUNGEON_REWARDCHANCE_SHORTAGE,Recompensas do Rift Boss indisponíveis
 GLOBALBOSS_WARNING_REWARDCHANCE_SHORTAGE,"[ContentsChanceName] insuficiente para reivindicar recompensas.
 Entrar mesmo assim? {jstag:}"
 COMMON_VEHICLE_TRANSFORM,Transformação
@@ -8327,7 +8327,7 @@ KEIRING_AWAKENING_NEXT_AUTO_AWAKENING,"Ascende automaticamente os chaveiros.
 Continuar?"
 KEIRING_AWAKENING_MATERIAL_NOT_ENOUGH,Chaveiros insuficientes para Ascensão.
 VENDINGMACHINEPREMIUM_TITLE,Giant’s Vending Machine
-VENDINGMACHINEATTACK_TITLE,Ataque a Titan Vending Machine
+VENDINGMACHINEATTACK_TITLE,Attack on Titan Vending Machine
 KEIRING_COMPARISON_SELECT_DESC,Selecione um chaveiro para comparar.
 KEIRING_SELECT_TITLE,Selecione o chaveiro
 INVENTORY_EXTRACT_CLAN_CONSUMABLE_CANNOT_SELECT,Não é possível desmontar consumíveis do clã.
@@ -8351,8 +8351,8 @@ RESONANCE_ALERT_AMPLIFY_DESC,"A amplificação de ressonância está atualmente 
 Prosseguir com a ressonância?  
 <Red>※ A amplificação permanece ativa até ser desativada manualmente.</>"
 BATTLEFIELD_UNDERGROUND_GRADE_POINT_PROTECTION_AREA,As pontuações de classificação do campo de batalha não mudam nesta área.
-BATTLEFIELD_SENTINEL_CONTROL_BUFF_INFO,Ressonância do Sentinela Info
-BATTLEFIELD_SENTINEL_CONTROL_BUFF_EMPTY,Sem detentor de ressonância do Sentinel.
+BATTLEFIELD_SENTINEL_CONTROL_BUFF_INFO,Sentinel's Resonance Info
+BATTLEFIELD_SENTINEL_CONTROL_BUFF_EMPTY,Nenhum detentor de Sentinel's Resonance.
 BROADCAST_KEIRINGACQUISITION_MSG,[Name] adquiriu o chaveiro <Grade[Value1]> [KeiringName]</>{jstag:}.
 KEIRING_LOOKEQUIP,Companheiro de Aparência
 KEIRING_LOOKUNEQUIP,Dispensar Aparência Companion

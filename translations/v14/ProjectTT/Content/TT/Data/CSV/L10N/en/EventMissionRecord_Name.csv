@@ -7,7 +7,7 @@
 20302,Alcance o nível. {RequiredStackCount},Alcance o nível. {RequiredStackCount}
 20303,Lute em tempos Monolith War {RequiredStackCount},Lute em tempos Monolith War {RequiredStackCount}
 20304,Limpar Trial Gates {RequiredStackCount} Vezes,Limpar Trial Gates {RequiredStackCount} Vezes
-20305,Limpe o Santuário Etéreo {RequiredStackCount} Vezes,Limpe o Santuário Etéreo {RequiredStackCount} Vezes
+20305,Limpe o Ethereal Sanctum {RequiredStackCount} Vezes,Limpe o Ethereal Sanctum {RequiredStackCount} Vezes
 20306,Concluído {RequiredStackCount} Comissões semanais,Concluído {RequiredStackCount} Comissões semanais
 20307,Ganhe recompensas de contribuição de incursão {RequiredStackCount} vezes,Ganhe recompensas de contribuição de incursão {RequiredStackCount} vezes
 20308,Colete {RequiredStackCount} brilhos,Colete {RequiredStackCount} brilhos
@@ -66,7 +66,7 @@
 3018,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 3019,Lute na batalha Monolith War,Lute em tempos Monolith War {RequiredStackCount}
 3020,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
-3021,Conclua o Santuário Etéreo,Limpe o Santuário Etéreo {RequiredStackCount} Vezes
+3021,Conclua o Ethereal Sanctum,Limpe o Ethereal Sanctum {RequiredStackCount} Vezes
 3022,Completar comissões semanais,Concluído {RequiredStackCount} Comissões semanais
 3023,Ganhe recompensas de contribuição de incursão,Ganhe recompensas de contribuição de incursão {RequiredStackCount} vezes
 3024,Colete brilhos,Colete {RequiredStackCount} brilhos
@@ -122,7 +122,7 @@
 3074,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 3075,Lute na batalha Monolith War,Lute em tempos Monolith War {RequiredStackCount}
 3076,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
-3077,Conclua o Santuário Etéreo,Limpe o Santuário Etéreo {RequiredStackCount} Vezes
+3077,Conclua o Ethereal Sanctum,Limpe o Ethereal Sanctum {RequiredStackCount} Vezes
 3078,Completar comissões semanais,Concluído {RequiredStackCount} Comissões semanais
 3079,Ganhe recompensas de contribuição de incursão,Ganhe recompensas de contribuição de incursão {RequiredStackCount} vezes
 3080,Colete brilhos,Colete {RequiredStackCount} brilhos
@@ -178,7 +178,7 @@
 3130,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 3131,Lute na batalha Monolith War,Lute em tempos Monolith War {RequiredStackCount}
 3132,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
-3133,Conclua o Santuário Etéreo,Limpe o Santuário Etéreo {RequiredStackCount} Vezes
+3133,Conclua o Ethereal Sanctum,Limpe o Ethereal Sanctum {RequiredStackCount} Vezes
 3134,Completar comissões semanais,Concluído {RequiredStackCount} Comissões semanais
 3135,Ganhe recompensas de contribuição de incursão,Ganhe recompensas de contribuição de incursão {RequiredStackCount} vezes
 3136,Colete brilhos,Colete {RequiredStackCount} brilhos
@@ -234,7 +234,7 @@
 4018,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 4019,Lute na batalha Monolith War,Lute em tempos Monolith War {RequiredStackCount}
 4020,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
-4021,Conclua o Santuário Etéreo,Limpe o Santuário Etéreo {RequiredStackCount} Vezes
+4021,Conclua o Ethereal Sanctum,Limpe o Ethereal Sanctum {RequiredStackCount} Vezes
 4022,Completar comissões semanais,Concluído {RequiredStackCount} Comissões semanais
 4023,Ganhe recompensas de contribuição de incursão,Ganhe recompensas de contribuição de incursão {RequiredStackCount} vezes
 4024,Colete brilhos,Colete {RequiredStackCount} brilhos
@@ -266,7 +266,7 @@
 4074,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 4075,Lute na batalha Monolith War,Lute em tempos Monolith War {RequiredStackCount}
 4076,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
-4077,Conclua o Santuário Etéreo,Limpe o Santuário Etéreo {RequiredStackCount} Vezes
+4077,Conclua o Ethereal Sanctum,Limpe o Ethereal Sanctum {RequiredStackCount} Vezes
 4078,Completar comissões semanais,Concluído {RequiredStackCount} Comissões semanais
 4079,Ganhe recompensas de contribuição de incursão,Ganhe recompensas de contribuição de incursão {RequiredStackCount} vezes
 4080,Colete brilhos,Colete {RequiredStackCount} brilhos
@@ -298,7 +298,7 @@
 4130,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 4131,Lute na batalha Monolith War,Lute em tempos Monolith War {RequiredStackCount}
 4132,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
-4133,Conclua o Santuário Etéreo,Limpe o Santuário Etéreo {RequiredStackCount} Vezes
+4133,Conclua o Ethereal Sanctum,Limpe o Ethereal Sanctum {RequiredStackCount} Vezes
 4134,Completar comissões semanais,Concluído {RequiredStackCount} Comissões semanais
 4135,Ganhe recompensas de contribuição de incursão,Ganhe recompensas de contribuição de incursão {RequiredStackCount} vezes
 4136,Colete brilhos,Colete {RequiredStackCount} brilhos
@@ -390,20 +390,20 @@
 {RequiredStackCount} Moedas antigas"
 1016101,Conquiste Santuários Etéreos,Receba troféus {RequiredStackCount} no total de Ethereal Sanctums
 1016102,Conquiste Trial Gates,Receba troféus {RequiredStackCount} no total de Trial Gates
-1016103,Registro de Giant,Descubra os restos de {RequiredStackCount} Giant
-1016104,Tesouro Antigo,Descubra os baús de tesouro de {RequiredStackCount}
+1016103,Registro de Giant,Descubra {RequiredStackCount} Giant’s Remnants
+1016104,Tesouro Antigo,Descubra os Treasure Chests de {RequiredStackCount}
 1016201,Conquiste Santuários Etéreos,Receba troféus {RequiredStackCount} no total de Ethereal Sanctums
 1016202,Conquiste Trial Gates,Receba troféus {RequiredStackCount} no total de Trial Gates
-1016203,Registro de Giant,Descubra os restos de {RequiredStackCount} Giant
-1016204,Tesouro Antigo,Descubra os baús de tesouro de {RequiredStackCount}
+1016203,Registro de Giant,Descubra {RequiredStackCount} Giant’s Remnants
+1016204,Tesouro Antigo,Descubra os Treasure Chests de {RequiredStackCount}
 1016301,Conquiste Santuários Etéreos,Receba troféus {RequiredStackCount} no total de Ethereal Sanctums
 1016302,Conquiste Trial Gates,Receba troféus {RequiredStackCount} no total de Trial Gates
-1016303,Registro de Giant,Descubra os restos de {RequiredStackCount} Giant
-1016304,Tesouro Antigo,Descubra os baús de tesouro de {RequiredStackCount}
+1016303,Registro de Giant,Descubra {RequiredStackCount} Giant’s Remnants
+1016304,Tesouro Antigo,Descubra os Treasure Chests de {RequiredStackCount}
 1016401,Conquiste Santuários Etéreos,Receba troféus {RequiredStackCount} no total de Ethereal Sanctums
 1016402,Conquiste Trial Gates,Receba troféus {RequiredStackCount} no total de Trial Gates
-1016403,Registro de Giant,Descubra os restos de {RequiredStackCount} Giant
-1016404,Tesouro Antigo,Descubra os baús de tesouro de {RequiredStackCount}
+1016403,Registro de Giant,Descubra {RequiredStackCount} Giant’s Remnants
+1016404,Tesouro Antigo,Descubra os Treasure Chests de {RequiredStackCount}
 1017101,Conquista de Nível,Alcance o nível. {RequiredStackCount}
 1017102,Descubra a Incursão,Participe de Incursões {RequiredStackCount} Vezes
 1017103,Novo Skills,Comprar itens na Skillbook Shop {RequiredStackCount} vezes
@@ -440,7 +440,7 @@
 6014,Traje para subir de nível,Traje para subir de nível {RequiredStackCount} Vezes
 6015,Lute na batalha Monolith War,Lute em tempos Monolith War {RequiredStackCount}
 6016,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
-6017,Conclua o Santuário Etéreo,Limpe o Santuário Etéreo {RequiredStackCount} Vezes
+6017,Conclua o Ethereal Sanctum,Limpe o Ethereal Sanctum {RequiredStackCount} Vezes
 6018,Completar comissões semanais,Concluído {RequiredStackCount} Comissões semanais
 6019,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 6020,Tentativa de aprimoramento de equipamento,Tentativa de aprimoramento de equipamento {RequiredStackCount} vezes
@@ -476,7 +476,7 @@
 7014,Traje para subir de nível,Traje para subir de nível {RequiredStackCount} Vezes
 7015,Lute na batalha Monolith War,Lute em tempos Monolith War {RequiredStackCount}
 7016,Concluir Trial Gate,Limpar Trial Gates {RequiredStackCount} Vezes
-7017,Conclua o Santuário Etéreo,Limpe o Santuário Etéreo {RequiredStackCount} Vezes
+7017,Conclua o Ethereal Sanctum,Limpe o Ethereal Sanctum {RequiredStackCount} Vezes
 7018,Completar comissões semanais,Concluído {RequiredStackCount} Comissões semanais
 7019,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 7020,Tentativa de aprimoramento de equipamento,Tentativa de aprimoramento de equipamento {RequiredStackCount} vezes
@@ -695,9 +695,9 @@
 102902,Doe para o seu clã,Doe para o seu clã {RequiredStackCount} vezes
 102903,Doe para o seu clã,Doe para o seu clã {RequiredStackCount} vezes
 102904,Doe para o seu clã,Doe para o seu clã {RequiredStackCount} vezes
-102905,Lute na Arena Angbar,Lute na Angbar Arena {RequiredStackCount} vezes
-102906,Lute na Arena Angbar,Lute na Angbar Arena {RequiredStackCount} vezes
-102907,Lute na Arena Angbar,Lute na Angbar Arena {RequiredStackCount} vezes
+102905,Lute na Angbar Arena,Lute na Angbar Arena {RequiredStackCount} vezes
+102906,Lute na Angbar Arena,Lute na Angbar Arena {RequiredStackCount} vezes
+102907,Lute na Angbar Arena,Lute na Angbar Arena {RequiredStackCount} vezes
 103000,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
 103001,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
 103002,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
@@ -859,7 +859,7 @@
 103634,Reproduzir comissões semanais,Reproduzir comissões semanais {RequiredStackCount} vezes
 103640,Use tokens Giant’s Vending Machine,Use máquinas de venda automática de Giant {RequiredStackCount} vezes
 103641,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
-103642,Lute na Arena Angbar,Lute na Angbar Arena {RequiredStackCount} vezes
+103642,Lute na Angbar Arena,Lute na Angbar Arena {RequiredStackCount} vezes
 103643,Tentativa de desbloqueio,tentativa de desbloqueio {RequiredStackCount} vezes
 103644,Núcleos de infusão artesanal,Núcleos de infusão artesanal {RequiredStackCount} vezes
 103645,Derrote Monstros Chefes de Campo,Derrote Monstros Chefes de Campo {RequiredStackCount} vezes
@@ -944,7 +944,7 @@
 104253,Itens de artesanato,Itens de artesanato {RequiredStackCount} vezes
 104254,Junte-se ao Tesseract Batalha,Participe de Tesseract {RequiredStackCount} vezes
 104260,Derrote monstros da Forsaken Land,Derrote {RequiredStackCount} monstros de Forsaken Lands
-104261,Lute na Arena Angbar,Lute na Angbar Arena {RequiredStackCount} vezes
+104261,Lute na Angbar Arena,Lute na Angbar Arena {RequiredStackCount} vezes
 104262,Derrote chefes de campo,Derrote chefes de campo {RequiredStackCount} vezes
 104263,Participe da Grande Incursão,Participe de Grandes Incursões {RequiredStackCount} vezes
 104264,Junte-se ao Tesseract Batalha,Participe de Tesseract {RequiredStackCount} vezes
@@ -967,7 +967,7 @@
 104407,Limpar Rifts,Limpar Rift {RequiredStackCount} Vezes
 104408,Participe da Grande Incursão,Participe de Grandes Incursões {RequiredStackCount} vezes
 104409,Participe da Grande Incursão,Participe de Grandes Incursões {RequiredStackCount} vezes
-104410,Lute na Arena Angbar,Lute na Angbar Arena {RequiredStackCount} vezes
+104410,Lute na Angbar Arena,Lute na Angbar Arena {RequiredStackCount} vezes
 104420,Participe de Monolith War,Participe de Monolith War {RequiredStackCount} vezes
 104500,Tentativa de ressonância,Tentativa de ressonância {RequiredStackCount} vezes
 104501,Tentativa de ressonância,Tentativa de ressonância {RequiredStackCount} vezes
@@ -1012,7 +1012,7 @@
 104812,Complete comissões diárias,Concluído {RequiredStackCount} Comissões diárias
 104813,Equipar Spellstones,Equipar Spellstones {RequiredStackCount} vezes
 104814,Consumir Memorites,Consumir memórias {RequiredStackCount}
-104820,Derrote Monstros na Barreira Temporal,Derrote Monstros {RequiredStackCount} (Barreira Temporal)
+104820,Derrote Monstros na Temporal Barrier,Derrote Monstros {RequiredStackCount} (Temporal Barrier)
 104821,Participe da Grande Incursão,Participe de Grandes Incursões {RequiredStackCount} vezes
 104822,Completar comissões semanais,Concluído {RequiredStackCount} Comissões semanais
 104823,Participe do Artificial Tesseract,Participe de Tesseract {RequiredStackCount} vezes
@@ -1026,7 +1026,7 @@
 104841,Participe da Grande Incursão,Participe de Grandes Incursões {RequiredStackCount} vezes
 104842,Limpar Rifts,Limpar Rift {RequiredStackCount} Vezes
 104843,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
-104844,Lute na Arena Angbar,Lute na Angbar Arena {RequiredStackCount} vezes
+104844,Lute na Angbar Arena,Lute na Angbar Arena {RequiredStackCount} vezes
 104900,Derrote Chefes Mundiais,Derrote Chefes Mundiais {RequiredStackCount} vezes
 104901,Derrote Chefes Mundiais,Derrote Chefes Mundiais {RequiredStackCount} vezes
 104902,Derrote Chefes Mundiais,Derrote Chefes Mundiais {RequiredStackCount} vezes
@@ -1140,13 +1140,13 @@
 200135,Derrote Abyss Battlefield Monstros,Derrotar {RequiredStackCount} Abyss Battlefield Monstros
 200136,Derrote Abyss Battlefield Monstros,Derrotar {RequiredStackCount} Abyss Battlefield Monstros
 200137,Derrote Abyss Battlefield Monstros,Derrotar {RequiredStackCount} Abyss Battlefield Monstros
-200141,Derrote Monstros na Barreira Temporal,Derrote Monstros {RequiredStackCount} (Barreira Temporal)
-200142,Derrote Monstros na Barreira Temporal,Derrote Monstros {RequiredStackCount} (Barreira Temporal)
-200143,Derrote Monstros na Barreira Temporal,Derrote Monstros {RequiredStackCount} (Barreira Temporal)
-200144,Derrote Monstros na Barreira Temporal,Derrote Monstros {RequiredStackCount} (Barreira Temporal)
-200145,Derrote Monstros na Barreira Temporal,Derrote Monstros {RequiredStackCount} (Barreira Temporal)
-200146,Derrote Monstros na Barreira Temporal,Derrote Monstros {RequiredStackCount} (Barreira Temporal)
-200147,Derrote Monstros na Barreira Temporal,Derrote Monstros {RequiredStackCount} (Barreira Temporal)
+200141,Derrote Monstros na Temporal Barrier,Derrote Monstros {RequiredStackCount} (Temporal Barrier)
+200142,Derrote Monstros na Temporal Barrier,Derrote Monstros {RequiredStackCount} (Temporal Barrier)
+200143,Derrote Monstros na Temporal Barrier,Derrote Monstros {RequiredStackCount} (Temporal Barrier)
+200144,Derrote Monstros na Temporal Barrier,Derrote Monstros {RequiredStackCount} (Temporal Barrier)
+200145,Derrote Monstros na Temporal Barrier,Derrote Monstros {RequiredStackCount} (Temporal Barrier)
+200146,Derrote Monstros na Temporal Barrier,Derrote Monstros {RequiredStackCount} (Temporal Barrier)
+200147,Derrote Monstros na Temporal Barrier,Derrote Monstros {RequiredStackCount} (Temporal Barrier)
 200151,Primeira Repulsão da Grande Incursão,Primeira Repulsão da Grande Incursão Level 2
 200152,Primeira Repulsão da Grande Incursão,Primeira Repulsão da Grande Incursão Level 3
 200153,Primeira Repulsão da Grande Incursão,Primeira Repulsão da Grande Incursão Level 4
@@ -1174,12 +1174,12 @@
 200226,Primeiro a atingir o nível de aprimoramento de acessório,Primeiro a alcançar +{RequiredStackCount} em acessório de 3 estrelas ou superior
 200227,Primeiro a atingir o nível de aprimoramento de acessório,Primeiro a alcançar +{RequiredStackCount} em acessório de 3 estrelas ou superior
 200228,Primeiro a atingir o nível de aprimoramento de acessório,Primeiro a alcançar +{RequiredStackCount} em acessório de 3 estrelas ou superior
-200229,Adquira uma Relíquia de Subjugação pela primeira vez,Adquira uma Relíquia de Subjugação de Nível 8 pela primeira vez
-200230,Adquira uma Relíquia de Subjugação pela primeira vez,Adquira uma Relíquia de Subjugação de Nível 9 pela primeira vez
-200231,Adquira uma Relíquia de Subjugação pela primeira vez,Adquira uma Relíquia de Subjugação Nível 10 pela primeira vez
-200232,Adquira uma Relíquia da Lealdade pela primeira vez,Adquira uma Relíquia de Lealdade Nível 8 pela primeira vez
-200233,Adquira uma Relíquia da Lealdade pela primeira vez,Adquira uma Relíquia de Lealdade Nível 9 pela primeira vez
-200234,Adquira uma Relíquia da Lealdade pela primeira vez,Adquira uma Relíquia de Lealdade Nível 10 pela primeira vez
+200229,Adquira uma Relic of Subjugation pela primeira vez,Adquira uma Relic of Subjugation de Nível 8 pela primeira vez
+200230,Adquira uma Relic of Subjugation pela primeira vez,Adquira uma Relic of Subjugation de Nível 9 pela primeira vez
+200231,Adquira uma Relic of Subjugation pela primeira vez,Adquira uma Relic of Subjugation Nível 10 pela primeira vez
+200232,Adquira uma Relic of Loyalty pela primeira vez,Adquira uma Relic of Loyalty Nível 8 pela primeira vez
+200233,Adquira uma Relic of Loyalty pela primeira vez,Adquira uma Relic of Loyalty Nível 9 pela primeira vez
+200234,Adquira uma Relic of Loyalty pela primeira vez,Adquira uma Relic of Loyalty Nível 10 pela primeira vez
 200241,Primeiro a atingir o nível de clã,Primeiro a atingir o nível de clã {RequiredStackCount}
 200242,Primeiro a atingir o nível de clã,Primeiro a atingir o nível de clã {RequiredStackCount}
 200243,Primeiro a atingir o nível de clã,Primeiro a atingir o nível de clã {RequiredStackCount}
@@ -1225,13 +1225,13 @@
 105806,Derrote chefes de campo,Derrote chefes de campo {RequiredStackCount} vezes
 105807,Derrote chefes de campo,Derrote chefes de campo {RequiredStackCount} vezes
 105808,Derrote chefes de campo,Derrote chefes de campo {RequiredStackCount} vezes
-105900,Baú de sintonização menor: uso do personagem,Baú de sintonização menor: Use {RequiredStackCount}
+105900,Lesser Attunement Chest: uso do personagem,Lesser Attunement Chest: use o de {RequiredStackCount} personagens
 105901,página de desbloqueio,Desbloquear qualquer página {RequiredStackCount} vezes
 105902,Alcance o nível de sintonização total,Alcance o nível de sintonização total {RequiredStackCount}
 105903,Alcance o nível de sintonização total,Alcance o nível de sintonização total {RequiredStackCount}
 105904,Alcance o nível de sintonização total,Alcance o nível de sintonização total {RequiredStackCount}
 105905,Alcance o nível de sintonização total,Alcance o nível de sintonização total {RequiredStackCount}
-105906,Baú de sintonização menor: obtenha o personagem,Baú de sintonização menor: obtenha {RequiredStackCount} do personagem vezes
+105906,Lesser Attunement Chest: obtenha o personagem,Lesser Attunement Chest: obtenha o de personagem {RequiredStackCount} vezes
 106000,Doação do Clã,Doe para o seu clã {RequiredStackCount} vezes
 106001,Doação do Clã,Doe para o seu clã {RequiredStackCount} vezes
 106002,Doação do Clã,Doe para o seu clã {RequiredStackCount} vezes
@@ -1284,19 +1284,19 @@
 106601,Derrote o Monstro Chefe de Campo,Derrote chefes de campo {RequiredStackCount} vezes
 106602,Complete as comissões diárias Commission House,Concluído {RequiredStackCount} Comissões diárias
 106603,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
-106604,Use moedas de comemoração de aniversário de 200 dias,Use {RequiredStackCount} Moedas de comemoração de aniversário de 200 dias
+106604,Use 200-Day Anniversary Celebration Coins,Use {RequiredStackCount} 200-Day Anniversary Celebration Coins
 106606,Derrote o Monstro Chefe de Campo,Derrote chefes de campo {RequiredStackCount} vezes
 106607,Complete as comissões diárias Commission House,Concluído {RequiredStackCount} Comissões diárias
 106608,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
-106609,Use moedas de comemoração de aniversário de 200 dias,Use {RequiredStackCount} Moedas de comemoração de aniversário de 200 dias
+106609,Use 200-Day Anniversary Celebration Coins,Use {RequiredStackCount} 200-Day Anniversary Celebration Coins
 106611,Derrote o Monstro Chefe de Campo,Derrote chefes de campo {RequiredStackCount} vezes
 106612,Parar a incursão,Parar a incursão {RequiredStackCount} vezes
 106613,Participe da Grande Incursão,Participe de Grandes Incursões {RequiredStackCount} vezes
-106614,Use o bilhete de roleta para comemoração de aniversário de 200 dias,Use {RequiredStackCount} Bilhetes de Roleta para comemoração de aniversário de 200 dias
+106614,Use o 200-Day Anniversary Celebration Roulette Ticket,Use {RequiredStackCount} Bilhetes de Roleta para comemoração de aniversário de 200 dias
 106616,Derrote o Monstro Chefe de Campo,Derrote chefes de campo {RequiredStackCount} vezes
 106617,Parar a incursão,Parar a incursão {RequiredStackCount} vezes
 106618,Participe da Grande Incursão,Participe de Grandes Incursões {RequiredStackCount} vezes
-106619,Use o bilhete de roleta para comemoração de aniversário de 200 dias,Use {RequiredStackCount} Bilhetes de Roleta para comemoração de aniversário de 200 dias
+106619,Use o Roulette Ticket para comemoração de aniversário de 200 dias,Use {RequiredStackCount} Bilhetes de Roleta para comemoração de aniversário de 200 dias
 106700,Use Selos da Fenda,Use {RequiredStackCount} Selos da Rift
 106800,Primeiro a alcançar a posição de Governante Supremo no Campo de Batalha,Primeiro a alcançar a posição de Governante Supremo no Campo de Batalha
 106801,Primeira Ativação de Buff de Servidor,Ativar Buff de Servidor pela primeira vez
@@ -1307,13 +1307,13 @@
 106806,Obtenha Tesouro Abissal,Obtenha o Tesouro Abissal {RequiredStackCount} vezes
 106807,Obtenha Tesouro Abissal,Obtenha o Tesouro Abissal {RequiredStackCount} vezes
 106808,Obtenha Tesouro Abissal,Obtenha o Tesouro Abissal {RequiredStackCount} vezes
-106900,Participe de Raids de Rift chefe,Participe de Rift chefe Raids {RequiredStackCount} vezes
-106901,Participe de Raids de Rift chefe,Participe de Rift chefe Raids {RequiredStackCount} vezes
-106902,Participe de Raids de Rift chefe,Participe de Rift chefe Raids {RequiredStackCount} vezes
-106903,Participe de Raids de Rift chefe,Participe de Rift chefe Raids {RequiredStackCount} vezes
-106904,Reivindicar recompensas do Rift chefe,Reivindique recompensas do Rift chefe {RequiredStackCount} vezes
-106905,Reivindicar recompensas do Rift chefe,Reivindique recompensas do Rift chefe {RequiredStackCount} vezes
-106906,Reivindicar recompensas do Rift chefe,Reivindique recompensas do Rift chefe {RequiredStackCount} vezes
+106900,Participe de Raids de Rift Boss,Participe de Rift Boss Raids {RequiredStackCount} vezes
+106901,Participe de Raids de Rift Boss,Participe de Rift Boss Raids {RequiredStackCount} vezes
+106902,Participe de Raids de Rift Boss,Participe de Rift Boss Raids {RequiredStackCount} vezes
+106903,Participe de Raids de Rift Boss,Participe de Rift Boss Raids {RequiredStackCount} vezes
+106904,Reivindicar recompensas do Rift Boss,Reivindique recompensas do Rift Boss {RequiredStackCount} vezes
+106905,Reivindicar recompensas do Rift Boss,Reivindique recompensas do Rift Boss {RequiredStackCount} vezes
+106906,Reivindicar recompensas do Rift Boss,Reivindique recompensas do Rift Boss {RequiredStackCount} vezes
 107000,Derrote chefes de campo,Derrote chefes de campo {RequiredStackCount} vezes
 107001,Derrote chefes de campo,Derrote chefes de campo {RequiredStackCount} vezes
 107002,Derrote chefes de campo,Derrote chefes de campo {RequiredStackCount} vezes
@@ -1350,7 +1350,7 @@
 107216,Participe de Shadow Incursion,Participe da Shadow Incursion {RequiredStackCount} vezes
 107217,Participe de Tesseract,Participe de Tesseract {RequiredStackCount} vezes
 107218,Use Abyss Battlefield,Use Abyss Battlefield por 2 horas
-107219,Participe de Raids de Rift chefe,Participe de Rift chefe Raids {RequiredStackCount} vezes
+107219,Participe de Raids de Rift Boss,Participe de Rift Boss Raids {RequiredStackCount} vezes
 107301,Usar Istarium,Use {RequiredStackCount} Istarium
 107302,Usar Istarium,Use {RequiredStackCount} Istarium
 107303,Crie equipamento de 1 estrela,Crie equipamento de 1 estrela {RequiredStackCount} vezes
@@ -1360,23 +1360,23 @@
 107307,Crie equipamento de 3 estrelas,Crie equipamento de 3 estrelas {RequiredStackCount} vezes
 107308,Crie equipamento de 3 estrelas,Crie equipamento de 3 estrelas {RequiredStackCount} vezes
 107309,Craft 4★ Equipamento,Craft 4★ Equipamento {RequiredStackCount} tempo(s)
-107310,Equipamento de artesanato Baú da sorte,Equipamento de artesanato Baú da sorte {RequiredStackCount} tempo(s)
+107310,Criar Equipment Lucky Chest,Criar Equipment Lucky Chest {RequiredStackCount} vez(es)
 107412,Limpar a Incursão de Ataque,Limpar a Incursão de Ataque {RequiredStackCount} tempo(s)
 107413,Reivindicar recompensa Beast Giant,Reivindicar recompensa Beast Giant {RequiredStackCount} tempo(s)
-107414,Desbloquear Ataque em Titan Attunement,Desbloquear Ataque em Titan Attunement
-107415,Use Attack on Titan Vending Machine,Usar ataque em Titan Vending Machine {RequiredStackCount} tempo(s)
+107414,Desbloquear Attunement de Attack on Titan,Desbloquear Attunement de Attack on Titan
+107415,Use Attack on Titan Vending Machine,Usar a Attack on Titan Vending Machine {RequiredStackCount} vez(es)
 107422,Limpar a Incursão de Ataque,Limpar a Incursão de Ataque {RequiredStackCount} tempo(s)
 107423,Reivindicar recompensa Beast Giant,Reivindicar recompensa Beast Giant {RequiredStackCount} tempo(s)
-107424,Ataque de aumento de nível na sintonização Titan,Ataque para subir de nível em Titan Attunement {RequiredStackCount} tempo(s)
-107425,Use Attack on Titan Vending Machine,Usar ataque em Titan Vending Machine {RequiredStackCount} tempo(s)
+107424,Subir o nível do Attunement de Attack on Titan,Subir o nível do Attunement de Attack on Titan {RequiredStackCount} vez(es)
+107425,Use Attack on Titan Vending Machine,Usar Attack on Titan Vending Machine {RequiredStackCount} tempo(s)
 107432,Limpar a Incursão de Ataque,Limpar a Incursão de Ataque {RequiredStackCount} tempo(s)
 107433,Reivindicar recompensa Beast Giant,Reivindicar recompensa Beast Giant {RequiredStackCount} tempo(s)
 107434,Aumentar o nível da página de sintonia do regimento Scount,Alcance o nível {RequiredStackCount} em Página de sintonização do Survey Corps
-107435,Use Attack on Titan Vending Machine,Usar ataque em Titan Vending Machine {RequiredStackCount} tempo(s)
+107435,Use Attack on Titan Vending Machine,Usar Attack on Titan Vending Machine {RequiredStackCount} tempo(s)
 107442,Participe do Beast Giant,Participe do(s) tempo(s) Beast Giant {RequiredStackCount}
 107443,Reivindicar recompensa Beast Giant,Reivindicar recompensa Beast Giant {RequiredStackCount} tempo(s)
 107444,Aumentar o nível da página de sintonia de Colossal Titan,Alcance o nível {RequiredStackCount} na página de sintonização Colossal Titan
-107445,Use Attack on Titan Vending Machine,Usar ataque em Titan Vending Machine {RequiredStackCount} tempo(s)
+107445,Use Attack on Titan Vending Machine,Usar Attack on Titan Vending Machine {RequiredStackCount} tempo(s)
 210000,Conquista de Nível,Alcance o nível {RequiredStackCount}
 210001,Conquista de Nível,Alcance o nível {RequiredStackCount}
 210002,Conquista de Nível,Alcance o nível {RequiredStackCount}
@@ -1421,7 +1421,7 @@
 9031102,Use Meia Batata,Use {RequiredStackCount} Meia Batata
 9031103,Usar Cup of Black Tea,Use {RequiredStackCount} Xícaras de chá preto
 9031104,Derrote Monstros,Derrote Monstros {RequiredStackCount}
-9031105,Use Attack on Titan Vending Machine,Usar ataque em Titan Vending Machine {RequiredStackCount} tempo(s)
+9031105,Use Attack on Titan Vending Machine,Usar Attack on Titan Vending Machine {RequiredStackCount} tempo(s)
 9031106,Equipamento de artesanato,Equipamento de artesanato {RequiredStackCount} vezes
 9031107,Use Combat Consumable,Use {RequiredStackCount} Consumíveis de combate
 9031108,Participe de Tesseract,Participe de Tesseract {RequiredStackCount} vezes
@@ -1430,11 +1430,11 @@
 9031201,Use pão bruto,Use {RequiredStackCount} Pão cru
 9031202,Use Meia Batata,Use {RequiredStackCount} Meia Batata
 9031203,Usar Cup of Black Tea,Use {RequiredStackCount} Xícaras de chá preto
-9031204,Derrote Monstros na Barreira Temporal,Derrote Monstros {RequiredStackCount} (Barreira Temporal)
+9031204,Derrote Monstros na Temporal Barrier,Derrote Monstros {RequiredStackCount} (Temporal Barrier)
 9031205,Use máquinas de venda automática,Use máquinas de venda automática {RequiredStackCount} vezes
 9031206,Núcleos de infusão artesanal,Craft {RequiredStackCount} Núcleos de Infusão
 9031207,Usar Stardust,Use {RequiredStackCount} Stardust
-9031208,Lute na Arena Angbar,Lute na Angbar Arena {RequiredStackCount} vezes
+9031208,Lute na Angbar Arena,Lute na Angbar Arena {RequiredStackCount} vezes
 9031209,Fantasia de fusível,Fantasia de fusível {RequiredStackCount} vezes
 9031210,Participe da Incursão de Ataque,Participe da incursão de ataque {RequiredStackCount} tempo(s)
 9031301,Use pão bruto,Use {RequiredStackCount} Pão cru
@@ -1442,7 +1442,7 @@
 9031303,Usar Cup of Black Tea,Use {RequiredStackCount} Xícaras de chá preto
 9031304,Derrote Monstros,Derrote Monstros {RequiredStackCount}
 9031305,Use tokens Giant’s Vending Machine,Use tempo(s) Giant’s Vending Machine {RequiredStackCount}
-9031306,Equipamento de artesanato Baú da sorte,Craft {RequiredStackCount} Equipamento Baús da Sorte
+9031306,Criar Equipment Lucky Chest,Crie {RequiredStackCount} Equipment Lucky Chests
 9031307,Usar Minérios de Aetherium,Use {RequiredStackCount} Minérios de Aetherium
 9031308,Participe em Rift,Participe de Rift {RequiredStackCount} vez(es)
 9031309,Fusível Arma Fantasma,Fusível Arma Fantasma {RequiredStackCount} vezes
@@ -1450,8 +1450,8 @@
 9031401,Use pão bruto,Use {RequiredStackCount} Pão cru
 9031402,Use Meia Batata,Use {RequiredStackCount} Meia Batata
 9031403,Usar Cup of Black Tea,Use {RequiredStackCount} Xícaras de chá preto
-9031404,Derrote Monstros na Barreira Temporal,Derrote Monstros {RequiredStackCount} (Barreira Temporal)
-9031405,Use Attack on Titan Vending Machine,Usar ataque em Titan Vending Machine {RequiredStackCount} tempo(s)
+9031404,Derrote Monstros na Temporal Barrier,Derrote Monstros {RequiredStackCount} (Temporal Barrier)
+9031405,Use Attack on Titan Vending Machine,Usar Attack on Titan Vending Machine {RequiredStackCount} tempo(s)
 9031406,Planador artesanal,Craft {RequiredStackCount} Planadores
 9031407,Use Memorites,Use memórias {RequiredStackCount}
 9031408,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
@@ -1508,8 +1508,8 @@
 1084005,Missão do clã concluída,Complete as missões do clã {RequiredStackCount} vezes
 1084006,Junte-se a uma Clan Expedition,Junte-se a uma Clan Expedition {RequiredStackCount} vezes
 1084007,Junte-se a uma Clan Expedition,Junte-se a uma Clan Expedition {RequiredStackCount} vezes
-1084008,Lute na Arena Angbar,Lute na Angbar Arena {RequiredStackCount} vezes
-1084009,Lute na Arena Angbar,Lute na Angbar Arena {RequiredStackCount} vezes
+1084008,Lute na Angbar Arena,Lute na Angbar Arena {RequiredStackCount} vezes
+1084009,Lute na Angbar Arena,Lute na Angbar Arena {RequiredStackCount} vezes
 1085001,Equipamento de artesanato,Equipamento de artesanato {RequiredStackCount} vezes
 1085002,Equipamento de artesanato,Equipamento de artesanato {RequiredStackCount} vezes
 1085003,Obter Equipamento,Adquira Equipamento {RequiredStackCount}
@@ -1559,7 +1559,7 @@
 1088304,Participe de Shadow Incursion,Participe da Shadow Incursion {RequiredStackCount} vezes
 1088305,Use tokens Giant’s Vending Machine,Use Giant’s Vending Machine {RequiredStackCount} vezes
 1088401,Derrote chefes de campo,Derrote chefes de campo {RequiredStackCount} vezes
-1088402,Reivindicar recompensas do Rift chefe,Reivindique recompensas do Rift chefe {RequiredStackCount} vezes
+1088402,Reivindicar recompensas do Rift Boss,Reivindique recompensas do Rift Boss {RequiredStackCount} vezes
 1088403,Limpar Arbiter’s Ordeal,Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
 1088404,Participe da Grande Incursão,Participe da Grande Incursão {RequiredStackCount} vezes
 1088405,Use tokens Giant’s Vending Machine,Use Giant’s Vending Machine {RequiredStackCount} vezes
@@ -1652,8 +1652,8 @@
 109641,Derrote Monstros,Derrote Monstros {RequiredStackCount}
 109642,Participe da Shadow Incursions,Participe da Shadow Incursion {RequiredStackCount} vezes
 109643,Participe de Tesseract,Participe de Tesseract {RequiredStackCount} vezes
-109644,Derrote Monstros na Barreira Temporal,Derrote Monstros {RequiredStackCount} (Barreira Temporal)
-109645,Participe de Raids de Rift chefe,Participe de Rift chefe Raids {RequiredStackCount} vezes
+109644,Derrote Monstros na Temporal Barrier,Derrote Monstros {RequiredStackCount} (Temporal Barrier)
+109645,Participe de Raids de Rift Boss,Participe de Rift Boss Raids {RequiredStackCount} vezes
 2003001,Derrote Monstros Chefes de Campo,Derrote chefes de campo {RequiredStackCount} vezes
 2003002,Derrote Monstros Chefes de Campo,Derrote chefes de campo {RequiredStackCount} vezes
 2003003,Derrote Monstros Chefes de Campo,Derrote chefes de campo {RequiredStackCount} vezes
@@ -1689,15 +1689,15 @@
 2003307,Derrote Abyss Battlefield Monstros,Derrotar {RequiredStackCount} Abyss Battlefield Monstros
 2003308,Derrote Abyss Battlefield Monstros,Derrotar {RequiredStackCount} Abyss Battlefield Monstros
 2003309,Derrote Abyss Battlefield Monstros,Derrotar {RequiredStackCount} Abyss Battlefield Monstros
-2003401,Derrote Monstros na Barreira Temporal,Derrote Monstros {RequiredStackCount} (Barreira Temporal)
-2003402,Derrote Monstros na Barreira Temporal,Derrote Monstros {RequiredStackCount} (Barreira Temporal)
-2003403,Derrote Monstros na Barreira Temporal,Derrote Monstros {RequiredStackCount} (Barreira Temporal)
-2003404,Derrote Monstros na Barreira Temporal,Derrote Monstros {RequiredStackCount} (Barreira Temporal)
-2003405,Derrote Monstros na Barreira Temporal,Derrote Monstros {RequiredStackCount} (Barreira Temporal)
-2003406,Derrote Monstros na Barreira Temporal,Derrote Monstros {RequiredStackCount} (Barreira Temporal)
-2003407,Derrote Monstros na Barreira Temporal,Derrote Monstros {RequiredStackCount} (Barreira Temporal)
-2003408,Derrote Monstros na Barreira Temporal,Derrote Monstros {RequiredStackCount} (Barreira Temporal)
-2003409,Derrote Monstros na Barreira Temporal,Derrote Monstros {RequiredStackCount} (Barreira Temporal)
+2003401,Derrote Monstros na Temporal Barrier,Derrote Monstros {RequiredStackCount} (Temporal Barrier)
+2003402,Derrote Monstros na Temporal Barrier,Derrote Monstros {RequiredStackCount} (Temporal Barrier)
+2003403,Derrote Monstros na Temporal Barrier,Derrote Monstros {RequiredStackCount} (Temporal Barrier)
+2003404,Derrote Monstros na Temporal Barrier,Derrote Monstros {RequiredStackCount} (Temporal Barrier)
+2003405,Derrote Monstros na Temporal Barrier,Derrote Monstros {RequiredStackCount} (Temporal Barrier)
+2003406,Derrote Monstros na Temporal Barrier,Derrote Monstros {RequiredStackCount} (Temporal Barrier)
+2003407,Derrote Monstros na Temporal Barrier,Derrote Monstros {RequiredStackCount} (Temporal Barrier)
+2003408,Derrote Monstros na Temporal Barrier,Derrote Monstros {RequiredStackCount} (Temporal Barrier)
+2003409,Derrote Monstros na Temporal Barrier,Derrote Monstros {RequiredStackCount} (Temporal Barrier)
 2003501,Primeira Repulsão da Grande Incursão,Primeira Repulsão da Grande Incursão Level 2
 2003502,Primeira Repulsão da Grande Incursão,Primeira Repulsão da Grande Incursão Level 3
 2003503,Primeira Repulsão da Grande Incursão,Primeira Repulsão da Grande Incursão Level 4
@@ -1752,38 +1752,38 @@
 2004107,Primeiro a atingir o nível de aprimoramento de acessório,Primeiro a alcançar +{RequiredStackCount} em acessório de 3 estrelas ou superior
 2004108,Primeiro a atingir o nível de aprimoramento de acessório,Primeiro a alcançar +{RequiredStackCount} em acessório de 3 estrelas ou superior
 2004109,Primeiro a atingir o nível de aprimoramento de acessório,Primeiro a alcançar +{RequiredStackCount} em acessório de 3 estrelas ou superior
-2004110,Adquira uma Relíquia de Subjugação pela primeira vez,Adquira uma Relíquia de Subjugação de Nível 8 pela primeira vez
-2004111,Adquira uma Relíquia de Subjugação pela primeira vez,Adquira uma Relíquia de Subjugação de Nível 9 pela primeira vez
-2004112,Adquira uma Relíquia de Subjugação pela primeira vez,Adquira uma Relíquia de Subjugação Nível 10 pela primeira vez
-2004113,Adquira uma Relíquia de Subjugação pela primeira vez,Adquira uma Relíquia de Subjugação Nível 11 pela primeira vez
-2004114,Adquira uma Relíquia de Subjugação pela primeira vez,Adquira uma Relíquia de Subjugação de Nível 12 pela primeira vez
-2004115,Adquira uma Relíquia de Subjugação pela primeira vez,Adquira uma Relíquia de Subjugação Nível 13 pela primeira vez
-2004116,Adquira uma Relíquia de Subjugação pela primeira vez,Adquira uma Relíquia de Subjugação de nível 14 pela primeira vez
-2004117,Adquira uma Relíquia de Subjugação pela primeira vez,Adquira uma Relíquia de Subjugação de nível 15 pela primeira vez
-2004118,Adquira uma Relíquia da Lealdade pela primeira vez,Adquira uma Relíquia de Lealdade Nível 8 pela primeira vez
-2004119,Adquira uma Relíquia da Lealdade pela primeira vez,Adquira uma Relíquia de Lealdade Nível 9 pela primeira vez
-2004120,Adquira uma Relíquia da Lealdade pela primeira vez,Adquira uma Relíquia de Lealdade Nível 10 pela primeira vez
-2004121,Adquira uma Relíquia da Lealdade pela primeira vez,Adquira uma Relíquia da Lealdade Nível 11 pela primeira vez
-2004122,Adquira uma Relíquia da Lealdade pela primeira vez,Adquira uma Relíquia de Lealdade de Nível 12 pela primeira vez
-2004123,Adquira uma Relíquia da Lealdade pela primeira vez,Adquira uma Relíquia Nível 13 de Lealdade pela primeira vez
-2004124,Adquira uma Relíquia da Lealdade pela primeira vez,Adquira uma Relíquia de Lealdade Nível 14 pela primeira vez
-2004125,Adquira uma Relíquia da Lealdade pela primeira vez,Adquira uma Relíquia de Lealdade Nível 15 pela primeira vez
-2004126,Adquira uma Relíquia do Infinito pela primeira vez,Adquira uma Relíquia do Infinito Nível 8 pela primeira vez
-2004127,Adquira uma Relíquia do Infinito pela primeira vez,Adquira uma Relíquia do Infinito de Nível 9 pela primeira vez
-2004128,Adquira uma Relíquia do Infinito pela primeira vez,Adquira uma Relíquia do Infinito Nível 10 pela primeira vez
-2004129,Adquira uma Relíquia do Infinito pela primeira vez,Adquira uma Relíquia do Infinito Nível 11 pela primeira vez
-2004130,Adquira uma Relíquia do Infinito pela primeira vez,Adquira uma Relíquia do Infinito de Nível 12 pela primeira vez
-2004131,Adquira uma Relíquia do Infinito pela primeira vez,Adquira uma Relíquia do Infinito Nível 13 pela primeira vez
-2004132,Adquira uma Relíquia do Infinito pela primeira vez,Adquira uma Relíquia do Infinito Nível 14 pela primeira vez
-2004133,Adquira uma Relíquia do Infinito pela primeira vez,Adquira uma Relíquia do Infinito de nível 15 pela primeira vez
-2004134,Adquira uma Relíquia do Abismo pela primeira vez,Adquira uma Relíquia do Abismo de nível 8 pela primeira vez
-2004135,Adquira uma Relíquia do Abismo pela primeira vez,Adquira uma Relíquia do Abismo de nível 9 pela primeira vez
-2004136,Adquira uma Relíquia do Abismo pela primeira vez,Adquira uma Relíquia do Abismo Nível 10 pela primeira vez
-2004137,Adquira uma Relíquia do Abismo pela primeira vez,Adquira uma Relíquia do Abismo Nível 11 pela primeira vez
-2004138,Adquira uma Relíquia do Abismo pela primeira vez,Adquira uma Relíquia do Abismo Nível 12 pela primeira vez
-2004139,Adquira uma Relíquia do Abismo pela primeira vez,Adquira uma Relíquia do Abismo Nível 13 pela primeira vez
-2004140,Adquira uma Relíquia do Abismo pela primeira vez,Adquira uma Relíquia do Abismo de nível 14 pela primeira vez
-2004141,Adquira uma Relíquia do Abismo pela primeira vez,Adquira uma Relíquia do Abismo de nível 15 pela primeira vez
+2004110,Adquira uma Relic of Subjugation pela primeira vez,Adquira uma Relic of Subjugation de Nível 8 pela primeira vez
+2004111,Adquira uma Relic of Subjugation pela primeira vez,Adquira uma Relic of Subjugation de Nível 9 pela primeira vez
+2004112,Adquira uma Relic of Subjugation pela primeira vez,Adquira uma Relic of Subjugation Nível 10 pela primeira vez
+2004113,Adquira uma Relic of Subjugation pela primeira vez,Adquira uma Relic of Subjugation Nível 11 pela primeira vez
+2004114,Adquira uma Relic of Subjugation pela primeira vez,Adquira uma Relic of Subjugation de Nível 12 pela primeira vez
+2004115,Adquira uma Relic of Subjugation pela primeira vez,Adquira uma Relic of Subjugation Nível 13 pela primeira vez
+2004116,Adquira uma Relic of Subjugation pela primeira vez,Adquira uma Relic of Subjugation de nível 14 pela primeira vez
+2004117,Adquira uma Relic of Subjugation pela primeira vez,Adquira uma Relic of Subjugation de nível 15 pela primeira vez
+2004118,Adquira uma Relic of Loyalty pela primeira vez,Adquira uma Relic of Loyalty Nível 8 pela primeira vez
+2004119,Adquira uma Relic of Loyalty pela primeira vez,Adquira uma Relic of Loyalty Nível 9 pela primeira vez
+2004120,Adquira uma Relic of Loyalty pela primeira vez,Adquira uma Relic of Loyalty Nível 10 pela primeira vez
+2004121,Adquira uma Relic of Loyalty pela primeira vez,Adquira uma Relic of Loyalty Nível 11 pela primeira vez
+2004122,Adquira uma Relic of Loyalty pela primeira vez,Adquira uma Relic of Loyalty de Nível 12 pela primeira vez
+2004123,Adquira uma Relic of Loyalty pela primeira vez,Adquira um Relic of Loyalty de Tier 13 pela primeira vez
+2004124,Adquira uma Relic of Loyalty pela primeira vez,Adquira uma Relic of Loyalty Nível 14 pela primeira vez
+2004125,Adquira uma Relic of Loyalty pela primeira vez,Adquira uma Relic of Loyalty Nível 15 pela primeira vez
+2004126,Adquira uma Relic of Infinity pela primeira vez,Adquira uma Relic of Infinity Nível 8 pela primeira vez
+2004127,Adquira uma Relic of Infinity pela primeira vez,Adquira uma Relic of Infinity de Nível 9 pela primeira vez
+2004128,Adquira uma Relic of Infinity pela primeira vez,Adquira uma Relic of Infinity Nível 10 pela primeira vez
+2004129,Adquira uma Relic of Infinity pela primeira vez,Adquira uma Relic of Infinity Nível 11 pela primeira vez
+2004130,Adquira uma Relic of Infinity pela primeira vez,Adquira uma Relic of Infinity de Nível 12 pela primeira vez
+2004131,Adquira uma Relic of Infinity pela primeira vez,Adquira uma Relic of Infinity Nível 13 pela primeira vez
+2004132,Adquira uma Relic of Infinity pela primeira vez,Adquira uma Relic of Infinity Nível 14 pela primeira vez
+2004133,Adquira uma Relic of Infinity pela primeira vez,Adquira uma Relic of Infinity de nível 15 pela primeira vez
+2004134,Adquira uma Relic of Abyss pela primeira vez,Adquira uma Relic of Abyss de nível 8 pela primeira vez
+2004135,Adquira uma Relic of Abyss pela primeira vez,Adquira uma Relic of Abyss de nível 9 pela primeira vez
+2004136,Adquira uma Relic of Abyss pela primeira vez,Adquira uma Relic of Abyss Nível 10 pela primeira vez
+2004137,Adquira uma Relic of Abyss pela primeira vez,Adquira uma Relic of Abyss Nível 11 pela primeira vez
+2004138,Adquira uma Relic of Abyss pela primeira vez,Adquira uma Relic of Abyss Nível 12 pela primeira vez
+2004139,Adquira uma Relic of Abyss pela primeira vez,Adquira uma Relic of Abyss Nível 13 pela primeira vez
+2004140,Adquira uma Relic of Abyss pela primeira vez,Adquira uma Relic of Abyss de nível 14 pela primeira vez
+2004141,Adquira uma Relic of Abyss pela primeira vez,Adquira uma Relic of Abyss de nível 15 pela primeira vez
 2004142,Adquira Arena Relic pela primeira vez,Adquira uma Relíquia de Arena Nível 8 pela primeira vez
 2004143,Adquira Arena Relic pela primeira vez,Adquira uma Relíquia de Arena Nível 9 pela primeira vez
 2004144,Adquira Arena Relic pela primeira vez,Adquira uma Relíquia de Arena Nível 10 pela primeira vez
@@ -1928,7 +1928,7 @@
 1103011,Alcance Graça das constelações Lv. {RequiredStackCount},alcance a graça total das constelações Lv. {RequiredStackCount}
 1103012,Prossiga com o desbloqueio e Despertar,tentativa de desbloqueio e despertar {RequiredStackCount} vez(es)
 1103013,Alcance o nível {RequiredStackCount},Alcance o nível {RequiredStackCount}
-1103014,Alcance a Crista dos Antigos Lv. {RequiredStackCount},Alcance a Crista dos Antigos Lv. {RequiredStackCount}
+1103014,Alcance a Crest of the Ancients Lv. {RequiredStackCount},Alcance a Crest of the Ancients Lv. {RequiredStackCount}
 1103015,Refinar Powerstone,Refinar Powerstone {RequiredStackCount} tempo(s)
 1103016,Tentativa de infusão,Use Infusion Core {RequiredStackCount} tempo(s)
 1104001,Use Selos da Fenda,Use {RequiredStackCount} Selos da Rift

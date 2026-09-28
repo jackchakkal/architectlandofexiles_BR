@@ -173,10 +173,12 @@ Passe `--en-dir` com o inglês ORIGINAL (a árvore extraída pode já conter a t
 `tools/scan_name_mentions.py` compara cada célula com o inglês original e lista (a) células cujo valor inteiro é um nome de Skill/item/masmorra mas foi traduzido e (b) frases em que o nome apareceu no inglês e não aparece no PT-BR:
 
 ```powershell
-python tools/scan_name_mentions.py --source ..\work\download-pak0-original --translation translations/v14 --out ..\work\name-mentions.json
+python tools/scan_name_mentions.py --source ..\work\download-pak0-original --translation translations/v14 --overrides changes/v13-to-v14/overrides.json --out ..\work\name-mentions.json
 ```
 
 O caso (a) é corrigido automaticamente pelas regras `__restore_exact_names__`/`__replace_translated_names__` do `overrides.json`; o caso (b) vira reescritas em `__by_text__` (chave = frase em inglês) ou por ID+coluna.
+
+As fontes de nomes são as `sources` + `names` de `__restore_exact_names__` (todas as categorias do GLOSSARIO). O script varre **todas as colunas de todas as tabelas**, casa linhas por posição nas tabelas com ID repetido, ignora decisões explícitas (`__by_text__`) e falsos positivos revisados (`__scan_ignore__`), e sai com código 1 enquanto houver pendência. Uma versão só é considerada conferida com saída 0 (na v14: 4.893 nomes conhecidos, 0 pendências).
 
 ## Validação antes de publicar
 

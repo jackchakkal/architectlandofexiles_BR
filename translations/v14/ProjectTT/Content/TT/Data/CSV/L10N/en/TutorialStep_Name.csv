@@ -29,22 +29,22 @@ ou clique duas vezes no alvo para <Orange>atacar</>."
 10901,Combate automático,As missões avançam automaticamente quando selecionadas.
 10902,Combate automático,As missões avançam automaticamente quando selecionadas.
 21301,,
-21302,Teste de salto: escalada,Subir permite que você alcance lugares altos que não pode ser acessado saltando.
+21302,Trial of Leap: escalada,Subir permite que você alcance lugares altos que não pode ser acessado saltando.
 21303,,
-21304,Teste de salto: deslizamento,"Em certas seções do Trial of Leap,
+21304,Trial of Leap: deslizamento,"Em certas seções do Trial of Leap,
 você pode facilmente ultrapassar obstáculos complexos planando."
-21401,Tesouros em Santuários Etéreos,"Baús de tesouro aparecerão correspondentes ao número de tarefas concluídas, 
- e a abertura de todos os baús de tesouro concluirão o teste."
-21501,Teste de salto: usando blocos,"Ande nos blocos ascendentes
+21401,Tesouros em Santuários Etéreos,"Treasure Chests aparecerão correspondentes ao número de tarefas concluídas, 
+ e a abertura de todos os Treasure Chests concluirão o teste."
+21501,Trial of Leap: usando blocos,"Ande nos blocos ascendentes
  para encontrar o caminho para a saída."
 21601,Placas de pressão,"Pisar e ativar todas as placas de pressão <Orange></> irá
 abrir o caminho para o próximo estágio."
 21701,Placas de pressão,"Pisar e ativar todas as placas de pressão <Orange></> irá
 abrir o caminho para o próximo estágio."
-21801,Teste de Sabedoria: Blocos Móveis,Você pode empurrar blocos móveis com seu ataque básico <Orange></>.
-21802,Teste de Sabedoria: Redefinir Dispositivo,Use o dispositivo <Orange>Reset</> para redefinir a posição dos blocos móveis.
-21901,Teste de Sabedoria: Blocos Móveis,Você pode empurrar blocos móveis com seu ataque básico <Orange></>.
-21902,Teste de Sabedoria: Redefinir Dispositivo,Use o dispositivo <Orange>Reset</> para redefinir a posição dos blocos móveis.
+21801,Trial of Wisdom: Blocos Móveis,Você pode empurrar blocos móveis com seu ataque básico <Orange></>.
+21802,Trial of Wisdom: Redefinir Dispositivo,Use o dispositivo <Orange>Reset</> para redefinir a posição dos blocos móveis.
+21901,Trial of Wisdom: Blocos Móveis,Você pode empurrar blocos móveis com seu ataque básico <Orange></>.
+21902,Trial of Wisdom: Redefinir Dispositivo,Use o dispositivo <Orange>Reset</> para redefinir a posição dos blocos móveis.
 30101,,
 30102,Deslizar,"Depois de pular, pressione <img id=""SpaceKey"" width=""80"" height=""40""/> no ar para planar."
 30103,Deslizar,"Depois de pular, toque no botão <img id=""MJumpkey"" width=""40"" height=""40""/> no ar para planar."
@@ -61,8 +61,8 @@ abrir o caminho para o próximo estágio."
 30502,,
 30503,,
 30601,,
-30602,Baús de tesouro e brilhos,Interaja com <Orange> Baús de Tesouro/Sparkles</> para obter recompensas.
-30603,Baús de tesouro e brilhos,Interaja com <Orange> Baús de Tesouro/Sparkles</> para obter recompensas.
+30602,Treasure Chests e brilhos,Interaja com <Orange> Treasure Chests/Sparkles</> para obter recompensas.
+30603,Treasure Chests e brilhos,Interaja com <Orange> Treasure Chests/Sparkles</> para obter recompensas.
 30701,,
 30702,Arrancada da montaria,"Enquanto monta uma montaria, pressione o botão <img id=""Shiftkey"" width=""80"" height=""40""/> para <Orange>acelerar</>."
 30703,Arrancada da montaria,"Enquanto monta uma montaria, pressione o botão <img id=""MDashkey"" width=""40"" height=""40""/> para <Orange>acelerar</>."
@@ -337,10 +337,10 @@ Pressione o botão para acessar o menu."
 203902,Âncoras de Warp,
 204001,Observatório,
 204002,Observatório,
-204101,Baú de tesouro,
-204102,Baú de tesouro,
-204201,Giant's Remanescentes,
-204202,Giant's Remanescentes,
+204101,Treasure Chest,
+204102,Treasure Chest,
+204201,Giant's Remnants,
+204202,Giant's Remnants,
 204301,Brilho,
 204302,Brilho,
 204601,Incursão,
@@ -376,13 +376,13 @@ Pressione o botão para acessar o menu."
 208101,Abyss Battlefield,
 208201,Artificial Tesseract,
 208202,Artificial Tesseract,
-208301,Barreira Temporal,
+208301,Temporal Barrier,
 208401,Ressonância,
 208501,Predefinição,
 208601,Agendador de IA,
 208701,Shadow Incursion,
 208702,Shadow Incursion,
-208801,Chefe de Rift,
+208801,Rift Boss,
 208901,Ajuste,
 209001,Chaveiro,
 999101,,

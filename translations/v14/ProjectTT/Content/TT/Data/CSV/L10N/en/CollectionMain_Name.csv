@@ -1136,7 +1136,7 @@
 100503,Coração de Agitação Foco,
 100504,Coração do foco oscilante,
 100505,Coração de Foco Estável,
-100506,Coração do Foco Aprimorado,
+100506,Coração do Enhanced Focus,
 100507,Coração de Penetração Fraca {Param},I
 100508,Coração de Penetração Fraca {Param},II
 100509,Coração de Agitação Penetração,
@@ -1356,7 +1356,7 @@
 102003,Sigilo de Proteção do Despertar,
 102004,Sigilo de proteção oscilante,
 102005,Sigilo de Proteção Estável,
-102006,Sigilo de Proteção Aprimorada,
+102006,Sigilo de Enhanced Protection,
 102007,Sigilo do Silêncio Fraco {Param},I
 102008,Sigilo do Silêncio Fraco {Param},II
 102009,Sigilo do Silêncio Agitador,
@@ -1561,7 +1561,7 @@
 103503,Juramento de Foco Agitante,
 103504,Juramento de foco oscilante,
 103505,Juramento de Foco Estável,
-103506,Juramento de Foco Aprimorado,
+103506,Juramento de Enhanced Focus,
 103507,Juramento de precisão fraca {Param},I
 103508,Juramento de precisão fraca {Param},II
 103509,Juramento de Precisão Agitante,
@@ -1831,7 +1831,7 @@
 105503,Aspecto de proteção de agitação,
 105504,Aspecto de proteção oscilante,
 105505,Aspecto de proteção estável,
-105506,Aspecto de proteção aprimorada,
+105506,Aspecto de Enhanced Protection,
 105507,Aspecto de brilho fraco {Param},I
 105508,Aspecto de brilho fraco {Param},II
 105509,Aspecto de brilho de agitação,
@@ -2073,7 +2073,7 @@
 107503,Selo de Foco de Agitação,
 107504,Selo do Foco Oscilante,
 107505,Selo de Foco Estável,
-107506,Selo de foco aprimorado,
+107506,Selo de Enhanced Focus,
 107507,Selo de penetração fraca {Param},I
 107508,Selo de penetração fraca {Param},II
 107509,Selo de Penetração de Agitação,
@@ -2271,7 +2271,7 @@
 109003,Semente de Proteção Agitante,
 109004,Semente de proteção oscilante,
 109005,Semente de Proteção Estável,
-109006,Semente do Aprimorado Proteção,
+109006,Seed of Enhanced Protection,
 109007,Semente de Fraco Silêncio {Param},I
 109008,Semente de Fraco Silêncio {Param},II
 109009,Semente de silêncio agitado {Param},I
@@ -8888,9 +8888,9 @@
 702064,Peetrating Weakness {Param},IV
 702065,Peetrating Weakness {Param},V
 710001,Antigo Treasure Chest {Param},I
-710002,Baú do Tesouro de Prata,
-710003,Baú do Tesouro Dourado,
-710004,Baú do Tesouro Selado,
+710002,Silver Treasure Chest,
+710003,Golden Treasure Chest,
+710004,Sealed Treasure Chest,
 710005,Baú desconhecido descoberto {Param},I
 710006,Baú desconhecido descoberto {Param},II
 710007,Tesouro Místico {Param},I
@@ -8913,29 +8913,29 @@
 711016,Visão radiante {Param},II
 711017,Zênite Radiante {Param},I
 711018,Zênite Radiante {Param},II
-712001,Baú de Tesouro Usado {Param},I
-712002,Baú de Tesouro Usado {Param},II
-712003,Antigo baú de tesouro {Param},I
-712004,Antigo baú de tesouro {Param},II
-712005,Baú do Tesouro Comum {Param},I
-712006,Baú do Tesouro Comum {Param},II
-712007,Baú do tesouro oculto {Param},I
-712008,Baú do tesouro oculto {Param},II
-712009,Bem-vindo Baú do Tesouro {Param},I
-712010,Bem-vindo Baú do Tesouro {Param},II
-712011,Baú de Tesouro Sem Nome {Param},I
-712012,Baú de Tesouro Sem Nome {Param},II
-712013,Baú de Tesouro Brilhante {Param},I
-712014,Baú de Tesouro Brilhante {Param},II
+712001,Worn Treasure Chest {Param},I
+712002,Treasure Chest Usado {Param},II
+712003,Old Treasure Chest {Param},I
+712004,Antigo Treasure Chest {Param},II
+712005,Common Treasure Chest {Param},I
+712006,Treasure Chest Comum {Param},II
+712007,Hidden Treasure Chest {Param},I
+712008,Treasure Chest oculto {Param},II
+712009,Welcome Treasure Chest {Param},I
+712010,Bem-vindo Treasure Chest {Param},II
+712011,Nameless Treasure Chest {Param},I
+712012,Treasure Chest Sem Nome {Param},II
+712013,Shining Treasure Chest {Param},I
+712014,Treasure Chest Brilhante {Param},II
 712015,Rare Treasure Chest {Param},I
 712016,Rare Treasure Chest {Param},II
 712017,Precious Treasure Chest {Param},I
 712018,Precious Treasure Chest {Param},II
 712019,Antigo Treasure Chest {Param},II
-712020,Baú de tesouro misterioso {Param},I
-712021,Baú de tesouro misterioso {Param},II
-712022,Baú de Tesouro Frio {Param},I
-712023,Baú de Tesouro Frio {Param},II
+712020,Mysterious Treasure Chest {Param},I
+712021,Treasure Chest misterioso {Param},II
+712022,Cold Treasure Chest {Param},I
+712023,Treasure Chest Frio {Param},II
 712024,Máscara Selada,
 712025,Máscara desconhecida,
 712026,Moedas de Ouro e Prata,
@@ -9205,7 +9205,7 @@
 731015,Sigilo do Conquistador,
 731016,Master’s Awakening,
 731017,Crista do Grande Mestre,
-731018,Essência do Artisan,
+731018,Artisan’s Essence,
 731019,Emblema do herói,
 731020,Ornamento do Imortal,
 731021,Marca do Guardião da Luz,

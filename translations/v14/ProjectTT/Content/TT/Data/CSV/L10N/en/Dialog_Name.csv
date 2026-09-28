@@ -2893,7 +2893,7 @@ E Riona ousando pechinchar comigo!",,
 701040020060,Weifel,"Você é um humano com quem é realmente fácil conversar.
 Certo, você já ouviu falar da Angbar Arena por acaso?",,
 701040021010,Weifel,Ah... Então você realmente esteve lá?,,
-701040021020,[player],(Você conta a ele sobre suas façanhas na Arena Angbar.),,
+701040021020,[player],(Você conta a ele sobre suas façanhas na Angbar Arena.),,
 701040021030,Weifel,"Tch, tanto faz. Você é muito mais impressionante do que eu pensava.
 Então suponho que não preciso explicar isso para você.",,
 701040021040,Weifel,"Aqui, pegue isso e encontre Zisen no Thunderfall Ridges!
@@ -2926,7 +2926,7 @@ Você os verá no caminho para Thunderfall Ridges!",,
 I-Eu sou Zisen.",,
 701040040020,Zisen,"Gostaria de me apresentar adequadamente, mas a situação não é boa.",,
 701040040040,Zisen,"Você recebeu o Aether Collector de Weifel, certo?",,
-701040040060,Zisen,Daidalkur escapou da Arena Angbar.,,
+701040040060,Zisen,Daidalkur escapou da Angbar Arena.,,
 701040040070,[player],"(Você olha para Zisen sem acreditar, como se dissesse: “Do que diabos você está falando?”)",,
 701040040080,Zisen,E-eu tive exatamente a mesma reação que você até que vi por mim mesmo.,,
 701040040090,Zisen,"A-Como você sabe, os Libertadores são em sua maioria estudiosos como eu...",,
@@ -6524,7 +6524,7 @@ Isso significa que podemos falar abertamente?",,
 110535010010,[player],(Koon e Naraf podem conversar um pouco.),,
 110535010020,[player],"(Naraf disse que os Corvos Cinzentos revelaram suas verdadeiras cores… 
 Ele se refere àqueles que conhecemos na floresta profunda?)",,
-110535010030,[player],"(Também havia Corvos Cinzentos na Vila dos Caçadores. 
+110535010030,[player],"(Também havia Ashen Crows na Vila dos Caçadores. 
 Eu pensei que eles eram apenas pessoas comuns agarradas à velha glória…)",,
 110535010040,[player],"(Se os Corvos Cinzentos estão por trás dos Mortos-vivos…
 isso significa que os filhos de Tahn estão matando os seus próprios.)",,
@@ -6544,7 +6544,7 @@ Eles são apenas pessoas comuns.",,
 110535020090,Khoon,"Mesmo com a magia nesses potes e tudo mais, 
 eles não deveriam ter o poder de ressuscitar os mortos-vivos.",,
 110535020100,Naraf,"Existem aqueles que praticam ritos proibidos.
-Eles são a principal multidão dos Corvos Cinzentos.",,
+Eles são a principal multidão dos Ashen Crows.",,
 110535020110,Naraf,"Se os eliminarmos, pelo menos ninguém desaparecerá.",,
 110535020120,Khoon,"Acima de tudo, precisamos manter os aldeões seguros.
 Iremos caçá-los imediatamente.",,
@@ -6677,7 +6677,7 @@ Agora, por que você não me conta mais sobre essa magia?",,
 Responda-me. Não perca mais tempo.",,
 110536050040,Sol,Naraf? Ela foi verificar a área. Como você a conheceu?,,
 110536050050,Sol,"Não acredito.
-Você está me dizendo que aquela criança salvou o líder dos Corvos Cinzentos…?",,
+Você está me dizendo que aquela criança salvou o líder dos Ashen Crows…?",,
 110536050060,Sol,"O mesmo demônio que levou nosso clã ao exílio? 
 Alguém que nem merece ser chamado de descendente de Tahn?",,
 110536050080,Sol,"…Tudo bem. Então você precisa de um antídoto.
@@ -9340,9 +9340,9 @@ Uma pedra vermelha, uma pedra amarela—",,
 330265020070,Azid,Hein?!,,
 330265020080,Enju,É real! Realmente é!,,
 330265020090,Enju,"Essa é uma descoberta digna de um herói!
-Será este o inteligente Teste de Sabedoria?",,
+Será este o inteligente Trial of Wisdom?",,
 330265020100,Azid,"Acho que você está certo, Enju.
-Já que a Prova da Sabedoria vem logo após a Prova da Coragem!",,
+Já que a Trial of Wisdom vem logo após a Prova da Coragem!",,
 330265020110,Azid,"Ah, ah! Ah, Sagkala nos disse para levar isso a sério.",,
 330265020120,Azid,"De qualquer forma! Não podemos ignorar nada, mesmo que seja um pouco estranho.
 Nunca sabemos quando Ea pode estar nos observando.",,
@@ -9354,11 +9354,11 @@ Corri até aqui porque estava preocupado. Estou tão exausto!",,
 Estávamos tão ocupados que nem percebemos que você tinha ido embora.",,
 330266010030,Sagkala,Uma grande descoberta? O que vocês encontraram?,,
 330266010040,[player],<Yellow>(Azid e Enju explicaram com entusiasmo o minério próximo à cachoeira.)</>,,
-330266010050,Sagkala,Então... você está dizendo que essa é a Prova da Sabedoria?,,
+330266010050,Sagkala,Então... você está dizendo que essa é a Trial of Wisdom?,,
 330266010060,Azid,"Acabar neste vale também foi a vontade de Deus Ea.
 Ele está nos guiando.",,
 330266010070,Enju,"Azid vai ser um herói, herói!",,
-330266010080,Sagkala,"Humano, você acha que esta é a Prova da Sabedoria também?",,
+330266010080,Sagkala,"Humano, você acha que esta é a Trial of Wisdom também?",,
 330266010100,Sagkala,"Tudo bem, se vocês três concordarem, estou de acordo.
 Prometemos fazer tudo juntos, lembra?",,
 330266010110,Sagkala,"Sim, porque somos o Softbean Adventure Squad!",,
@@ -11354,11 +11354,11 @@ O ferreiro mais jovem e talentoso de toda a base.",,
 330406010030,Yunu,"Você já ouviu falar do <Blue>Ethereal Sanctum</>?
 Já esteve lá?",,
 330406010050,Yunu,"Heh, tive a sensação de que nos daríamos bem.
-Então preciso que você rastreie o Santuário Etéreo para mim.",,
+Então preciso que você rastreie o Ethereal Sanctum para mim.",,
 330406010060,Yunu,Tenho planos de fazer algo absolutamente incrível.,,
-330406015010,[player],Este deve ser o Santuário Etéreo de que Yunu estava falando. Melhor voltar e contar a ele.,,
+330406015010,[player],Este deve ser o Ethereal Sanctum de que Yunu estava falando. Melhor voltar e contar a ele.,,
 330406020010,Yunu,"Ah, já voltou? Onde fica a localização?",,
-330406020020,[player],<Yellow>(Eu dei a ele a localização do Santuário Etéreo.)</>,,
+330406020020,[player],<Yellow>(Eu dei a ele a localização do Ethereal Sanctum.)</>,,
 330406020030,Yunu,"Você não tem ideia de quanto tempo esperei por esse dia.
 Opa, ainda não há tempo para comemorar.",,
 330406020050,Yunu,"Preciso da sua ajuda com um pouco de agitação.
@@ -13387,7 +13387,7 @@ Fiquei com tanto medo porque eles apertaram meus ombros e ficaram gritando comig
 Um boato sobre ver pessoas mortas ou cadáveres correndo por aí!",,
 330543010120,Duren,"É por isso que estou tendo dificuldade em sair deste lugar.
 T-Deve haver algo que eu possa fazer!",,
-330543010140,Duren,"Então pensarei em um plano em relação aos Corvos Cinzentos…
+330543010140,Duren,"Então pensarei em um plano em relação aos Ashen Crows…
 I-Pode estar relacionado com os cadáveres…",,
 330544010010,Duren,Ouvi dizer que um aventureiro viu os Corvos Cinzentos montando um altar na floresta.,,
 330544010020,Duren,"Então, quando ele teve que passar por ele novamente alguns dias depois…
@@ -16813,7 +16813,7 @@ a dura realidade é que existem muitos problemas que nós dois não podemos reso
 210220010250,Zisen,"...Então, eu ousaria pedir sua ajuda?
 Não é nada muito difícil, eu prometo.",,
 210220010260,Weifel,"Ugh, isso vai levar o dia todo.
-Ei, candidato ""escolhido"". Vá para o Santuário Etéreo para nós.",,
+Ei, candidato ""escolhido"". Vá para o Ethereal Sanctum para nós.",,
 210220010270,Weifel,Esse é o local que marcamos.,,
 210220010280,Weifel,"Vá e traga-nos um ""Record Disc"". 
 Não há garantia de que você terá permissão para entrar.",Record Disc,"Uma relíquia encontrada em toda a Forsaken Land.
@@ -16825,7 +16825,7 @@ Tive muitas esperanças no momento em que você recebeu entrada, mas...",,
 Todos aqueles anos árduos que passei esperando...",Record Disc,"O Record Disc que recuperei a pedido de Zisen.
 Na superfície, você não vê nada de especial nele."
 210220020050,Zisen,"P-Por favor, agradeceria se você pudesse descrever como era por dentro.",,
-210220020060,[player],<Yellow>(Você relata sua experiência dentro do Santuário Etéreo.)</>,,
+210220020060,[player],<Yellow>(Você relata sua experiência dentro do Ethereal Sanctum.)</>,,
 210220020070,Zisen,<Yellow>Do escopo de participantes permitidos até os aspectos experimentais conhecidos como testes...!</>,,
 210220020080,Zisen,"<Yellow>Ah, é tudo tão incrivelmente lindo e perfeito!</>",,
 210220020090,[player],"<Yellow>(Quando você se pergunta por que Zisen está tão entusiasmado, Weifel interrompe.)</>",,
@@ -16845,7 +16845,7 @@ Este é realmente um grande problema, não é?",,
 210230010010,Weifel,"...Candidato ""escolhido"".
 Parece que o Professor vai ficar desmaiado por um tempo.",,
 210230010020,Weifel,Preciso que você me faça outro favor enquanto isso.,,
-210230010040,Weifel,"Volte para o Santuário Etéreo mais uma vez.
+210230010040,Weifel,"Volte para o Ethereal Sanctum mais uma vez.
 Desta vez, hmm... Aquele perto do Rappie Training Ground deveria servir!",,
 210230010050,Weifel,"Você encontrará outro Record Disc dentro.
 Não se esqueça de trazê-lo para nós, candidato ""Escolhido""!",,
@@ -16853,7 +16853,7 @@ Não se esqueça de trazê-lo para nós, candidato ""Escolhido""!",,
 Ah, por favor, esqueça minha exibição vergonhosa de antes.",,
 210230020020,Zisen,Estou completamente calmo agora.,,
 210230020040,Zisen,Preciso saber que tipo de provação você enfrentou desta vez.,,
-210230020050,[player],<Yellow>(Você explica sua jornada no Santuário Etéreo e entrega a ele o Record Disc.)</>,,
+210230020050,[player],<Yellow>(Você explica sua jornada no Ethereal Sanctum e entrega a ele o Record Disc.)</>,,
 210230020060,Zisen,Que romântico.,,
 210230020070,Zisen,"Pensando bem, os humanos sempre procuraram subir mais alto.
 ...Como se tivessem tanta certeza de que nunca cairiam.",,
@@ -16863,7 +16863,7 @@ O mesmo vale para os planadores...",,
 210230020100,Zisen,"Hmm... Já que você é um candidato ""Escolhido"", talvez você ache tudo bastante trivial.",,
 210230020120,Zisen,"Ah, é apenas um termo que nós, Libertadores, usamos. Não há necessidade de se importar com isso.",,
 210230020130,[player],"<Yellow>(A julgar pela expressão dele, ele não tem intenção de contar a você.)</>",,
-210230020140,Zisen,"De qualquer forma, garantimos dados mais que suficientes sobre o Santuário Etéreo, 
+210230020140,Zisen,"De qualquer forma, garantimos dados mais que suficientes sobre o Ethereal Sanctum, 
 , então permita-me compartilhar uma fração desse conhecimento com você.",,
 210240010010,Zisen,"Analisar o Record Disc vai levar algum tempo. Enquanto isso, tenho mais alguns favores a pedir—",,
 210240010020,Weifel,"Suponho que é hora de intervir! 
@@ -16910,11 +16910,11 @@ Eu admiro <Orange>“Zaigarka,”</> o pai da Magitech.",,
 210240040110,Zisen,"Para compartilhar seus talentos brilhantes com o mundo,
 eles criaram <Blue>Magitech</>.",,
 210240040120,Zisen,<Yellow>...É também por isso que me tornei um Liberator of Knowledge.</>,,
-210240040130,[player],"<Yellow>(Você pergunta se a família Zaigarka criou o Santuário Etéreo,
+210240040130,[player],"<Yellow>(Você pergunta se a família Zaigarka criou o Ethereal Sanctum,
 e Zisen balança a cabeça.)</>",,
 210240050010,Zisen,...Candidato “escolhido”…,,
-210240050020,Zisen,Você não reconheceu e recuperou o Record Disc do Santuário Etéreo?,,
-210240050030,Zisen,"A maioria não consegue nem passar nos testes do Santuário Etéreo.
+210240050020,Zisen,Você não reconheceu e recuperou o Record Disc do Ethereal Sanctum?,,
+210240050030,Zisen,"A maioria não consegue nem passar nos testes do Ethereal Sanctum.
 E ainda há o Record Disc.",,
 210240050040,Zisen,"Sem sequer perguntar o que era,
 você instintivamente o localizou.",,
@@ -20225,7 +20225,7 @@ Há mais alguma coisa que você acha que deveria ser incluída?",,
 Nos encontramos de novo! O que traz você aqui?",,
 151601040020,Zariya,"Não se sinta pressionado. Não tenha pressa e escolha o que você precisa.
 Temos muito tempo!",,
-151601050010,,"Depois de pensar um pouco, você decidiu comprar um Elixir de Ataque.",,
+151601050010,,"Depois de pensar um pouco, você decidiu comprar um Elixir of Attack.",,
 151601060010,Evrin ,"Bem, então vamos ver o que você trouxe de volta.",,
 151601060020,Evrin ,"<Yellow>Então, você escolheu itens úteis para emergências e combate... 
 A sábio escolha.</>",,
@@ -21148,7 +21148,7 @@ Eu também transmitirei esta notícia à Aliança dos Aventureiros.",,
 170112140240,Evrin ,"Então, por favor, passe pelo <Blue>Corredor Infinito</> sempre que tiver tempo.
 Porque você parece perfeitamente adequado para esse tipo de trabalho.",,
 170121010010,Claude,"<Yellow>Reúna-se, reúna-se!</>
-<Yellow>Festival de Recompensas de Aburu! Os ingressos já estão com desconto!</>",,
+<Yellow>Aburu's Bounty Festival! Os ingressos já estão com desconto!</>",,
 170121010020,Claude,"Meu, meu, um novo cliente!
 Bem-vinda! Você chegou na hora perfeita. Temos um grande entretenimento esperando por você.",,
 170121010030,Claude,"Eu sou Claude de <Orange>a Star of the West</> Comerciantes,
@@ -21172,7 +21172,7 @@ O leve cheiro de tinta fresca ainda permanece no pergaminho de alta qualidade.
 É do tamanho certo para ser afixado em um quadro de avisos da cidade."
 170121010140,Claude,"É um folheto promocional do festival. Basta afixá-los em quadros de avisos.
 Um em frente à Mansão Frantia e outro em frente à Mansão Stormkel!",Come and enjoy Aburu's Bounty Festival!,"Uma grande celebração de harmonia, trazida a você por dois povos.
-O Bounty Festival de Aburu finalmente levanta suas cortinas!
+O Aburu's Bounty Festival finalmente levanta suas cortinas!
 A tribo Naruru e os comerciantes da Star of the West convidam cordialmente a todos.
 
 Saboreie uma magnífica variedade de iguarias em Aburu Village.
@@ -21190,7 +21190,7 @@ Visite o festival de recompensas e teste seu sorte!
 170121010150,Claude,"Eu cuidarei dos outros pontos, então vamos nos encontrar aqui quando terminar.",,
 170121020010,Frantia Manor Guard,"Parada. Você não pode postar um aviso sem autorização prévia.
 Deixe-me verificar primeiro.",,
-170121020020,Frantia Manor Guard,"Ah... entendo, é para o Bounty Festival de Aburu.
+170121020020,Frantia Manor Guard,"Ah... entendo, é para o Aburu's Bounty Festival.
 Isso já foi aprovado, então você pode ir em frente e publicá-lo.",,
 170121020030,Frantia Manor Guard,"A propósito... você está com os organizadores do evento?
 Tenho uma pergunta.",,

@@ -1,65 +1,65 @@
 ﻿Id,Name,Desc,ActionParam,Param
 101001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Dança
-102001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Cumprimente
+102001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Cumprimentar
 103001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Charme
 104001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Alegria
 105001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Animado
-106001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Perdoe
+106001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Perdoar
 107001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Diálogo
 108001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Stretch
-109001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Ouça
+109001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Ouvir
 110001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Curioso
 111001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Intrigado
-112001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Reflita sobre
+112001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Refletir
 113001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Surpreso
-114001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Encolher os ombros
+114001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Dar de Ombros
 115001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Sinal
-116001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Acalme-se
+116001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Acalmar
 117001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Tired
 118001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Concordo
-119001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Felicidades
-120001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Elogie
+119001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Saúde
+120001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Elogiar
 121001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Haha
 122001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Risadinha
 123001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Guffaw
 124001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Risadinha
 125001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Snicker
-126001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Mostre
-127001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Socos quebrados
+126001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Exibir-se
+127001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Estalar os Dedos
 128001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Provoke
 129001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Saudação
 131001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Rendição
-149001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Corte na garganta
-150001,{Param} Movimento,Este é o movimento {Param}.,/Firecracker,Festival da Colheita Foguete
-151001,{Param} Movimento,Este é o movimento {Param}.,/Large Firecracker,Festival da Colheita Grande Foguete
-152001,Prometa seu coração,Este é o movimento {Param}.,/Heart,Prometa seu coração
+149001,{Param} Movimento,Este é o movimento {Param}.,/{Param},Corte na Garganta
+150001,{Param} Movimento,Este é o movimento {Param}.,/Firecracker,Foguete do Harvest Festival
+151001,{Param} Movimento,Este é o movimento {Param}.,/Large Firecracker,Foguete Grande do Harvest Festival
+152001,Prometa seu coração,Este é o movimento {Param}.,/Heart,Jurar de Coração
 201001,{Param} Pose,Esta é a postura {Param}.,,Dança
-202001,{Param} Pose,Esta é a postura {Param}.,,Cumprimente
+202001,{Param} Pose,Esta é a postura {Param}.,,Cumprimentar
 203001,{Param} Pose,Esta é a postura {Param}.,,Charme
 204001,{Param} Pose,Esta é a postura {Param}.,,Alegria
 205001,{Param} Pose,Esta é a postura {Param}.,,Animado
-206001,{Param} Pose,Esta é a postura {Param}.,,Perdoe
+206001,{Param} Pose,Esta é a postura {Param}.,,Perdoar
 207001,{Param} Pose,Esta é a postura {Param}.,,Diálogo
 208001,{Param} Pose,Esta é a postura {Param}.,,Stretch
-209001,{Param} Pose,Esta é a postura {Param}.,,Ouça
+209001,{Param} Pose,Esta é a postura {Param}.,,Ouvir
 210001,{Param} Pose,Esta é a postura {Param}.,,Curioso
 211001,{Param} Pose,Esta é a postura {Param}.,,Intrigado
-212001,{Param} Pose,Esta é a postura {Param}.,,Reflita sobre
+212001,{Param} Pose,Esta é a postura {Param}.,,Refletir
 213001,{Param} Pose,Esta é a postura {Param}.,,Surpreso
-214001,{Param} Pose,Esta é a postura {Param}.,,Encolher os ombros
+214001,{Param} Pose,Esta é a postura {Param}.,,Dar de Ombros
 215001,{Param} Pose,Esta é a postura {Param}.,,Sinal
-216001,{Param} Pose,Esta é a postura {Param}.,,Acalme-se
+216001,{Param} Pose,Esta é a postura {Param}.,,Acalmar
 217001,{Param} Pose,Esta é a postura {Param}.,,Tired
 218001,{Param} Pose,Esta é a postura {Param}.,,Concordo
-219001,{Param} Pose,Esta é a postura {Param}.,,Felicidades
-220001,{Param} Pose,Esta é a postura {Param}.,,Elogie
+219001,{Param} Pose,Esta é a postura {Param}.,,Saúde
+220001,{Param} Pose,Esta é a postura {Param}.,,Elogiar
 221001,{Param} Pose,Esta é a postura {Param}.,,Haha
 222001,{Param} Pose,Esta é a postura {Param}.,,Risadinha
 223001,{Param} Pose,Esta é a postura {Param}.,,Guffaw
 224001,{Param} Pose,Esta é a postura {Param}.,,Risadinha
 225001,{Param} Pose,Esta é a postura {Param}.,,Snicker
-226001,{Param} Pose,Esta é a postura {Param}.,,Mostre
-227001,{Param} Pose,Esta é a postura {Param}.,,Socos quebrados
+226001,{Param} Pose,Esta é a postura {Param}.,,Exibir-se
+227001,{Param} Pose,Esta é a postura {Param}.,,Estalar os Dedos
 228001,{Param} Pose,Esta é a postura {Param}.,,Provoke
 229001,{Param} Pose,Esta é a postura {Param}.,,Saudação
-250001,Prometa seu coração,Esta é a postura {Param}.,,Prometa seu coração
+250001,Prometa seu coração,Esta é a postura {Param}.,,Jurar de Coração

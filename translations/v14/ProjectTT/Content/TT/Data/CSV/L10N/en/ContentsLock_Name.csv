@@ -109,16 +109,16 @@
 1130,Codex,Codex Conteúdo bloqueado,,
 1140,Marketplace,Compre vários itens no Marketplace.,,
 1141,Marketplace,Venda vários itens no Marketplace.,,
-1150,Memórias de Gudua,Colete os fragmentos de Gudua para aumentar suas estatísticas.,,
+1150,Gudua's Memories,Colete os fragmentos de Gudua para aumentar suas estatísticas.,,
 1160,Evocar Loja,Convocação de Conteúdo da Loja Bloqueado,,
 1170,Caixa de entrada,Recebe correio e mensagens.,,
 1180,Modo de economia de energia,Pode reduzir o consumo de energia.,,
-1190,Graça das Constelações,Ganhe habilidades únicas através das Guardian Stars.,,
-1191,Graça das Constelações,Atribua a Estrela Guardiã {Param}.,,2
-1192,Graça das Constelações,Atribua a Estrela Guardiã {Param}.,,3
-1193,Graça das Constelações,Atribua a Estrela Guardiã {Param}.,,4
+1190,Grace of the Constellations,Ganhe habilidades únicas através das Guardian Stars.,,
+1191,Grace of the Constellations,Atribua a Estrela Guardiã {Param}.,,2
+1192,Grace of the Constellations,Atribua a Estrela Guardiã {Param}.,,3
+1193,Grace of the Constellations,Atribua a Estrela Guardiã {Param}.,,4
 1200,Giant's Tower,Explore a Giant's Tower.,,
-1201,Crista dos Antigos,Melhore essas cristas explorando a Giant's Tower.,,
+1201,Crest of the Ancients,Melhore essas cristas explorando a Giant's Tower.,,
 1220,Notificação,Receba notificações importantes.,,
 1230,Detectar,Detectar inimigos próximos.,,
 1250,Bate-papo,Converse com outros jogadores.,,
@@ -126,7 +126,7 @@
 1270,Arbiter’s Ordeal,Conquiste as Provações para ganhar as recompensas de sua escolha.,,
 1271,Ordeal of Binding,Uma masmorra para reunir recursos para atualizar {Param}.,,Traje
 1272,Ordeal of Skill,Uma masmorra para reunir recursos para atualizar {Param}.,,Skill
-1273,Ordeal of Constellations,Uma masmorra para reunir recursos para atualizar {Param}.,,Graça das Constelações
+1273,Ordeal of Constellations,Uma masmorra para reunir recursos para atualizar {Param}.,,Grace of the Constellations
 1274,Ordeal of Gold,"Obtenha Ouro, a moeda essencial para se aventurar pelas Forsaken Lands.",,
 1280,Classificação,Competir por classificações com outros jogadores.,,
 1290,Registro de batalha,Revise seus resultados de combate contra outros aventureiros.,,
@@ -274,31 +274,31 @@
 410003,Grave of Dead Roots,Um novo Rift está aberto.,,
 420001,Infinite Spire,{Name} já está aberto.,,
 420011,Hall of Proof,{Name} já está aberto.,,
-430001,Barreira Temporal,{Name} já está aberto.,,
+430001,Temporal Barrier,{Name} já está aberto.,,
 430011,Barrier of Enhancement,{Name} já está aberto.,,
 430012,Barrier of Gold,{Name} já está aberto.,,
 430013,Barreira de Evento,{Name} já está aberto.,,
-450001,Santuário Etéreo,{Name} de {Param} agora está aberto.,,Scything Barrens
-450005,Santuário Etéreo,{Name} de {Param} agora está aberto.,,Giant's Garden
-450006,Santuário Etéreo,{Name} de {Param} agora está aberto.,,Pulsing Ridge
-450007,Santuário Etéreo,{Name} de {Param} agora está aberto.,,Starfall Plateau
-450011,Santuário Etéreo,{Name} de {Param} agora está aberto.,,Twisted Elysium
-450002,Santuário Etéreo,{Name} de {Param} agora está aberto.,,Giant's Garden
-450003,Santuário Etéreo,{Name} de {Param} agora está aberto.,,Pulsing Ridge
-450004,Santuário Etéreo,{Name} de {Param} agora está aberto.,,Starfall Plateau
-450101,Santuário Etéreo,{Name} de {Param} agora está aberto.,,Scything Barrens
-450102,Santuário Etéreo,{Name} de {Param} agora está aberto.,,Giant's Garden
-450103,Santuário Etéreo,{Name} de {Param} agora está aberto.,,Pulsing Ridge
-450104,Santuário Etéreo,{Name} de {Param} agora está aberto.,,Starfall Plateau
+450001,Ethereal Sanctum,{Name} de {Param} agora está aberto.,,Scything Barrens
+450005,Ethereal Sanctum,{Name} de {Param} agora está aberto.,,Giant's Garden
+450006,Ethereal Sanctum,{Name} de {Param} agora está aberto.,,Pulsing Ridge
+450007,Ethereal Sanctum,{Name} de {Param} agora está aberto.,,Starfall Plateau
+450011,Ethereal Sanctum,{Name} de {Param} agora está aberto.,,Twisted Elysium
+450002,Ethereal Sanctum,{Name} de {Param} agora está aberto.,,Giant's Garden
+450003,Ethereal Sanctum,{Name} de {Param} agora está aberto.,,Pulsing Ridge
+450004,Ethereal Sanctum,{Name} de {Param} agora está aberto.,,Starfall Plateau
+450101,Ethereal Sanctum,{Name} de {Param} agora está aberto.,,Scything Barrens
+450102,Ethereal Sanctum,{Name} de {Param} agora está aberto.,,Giant's Garden
+450103,Ethereal Sanctum,{Name} de {Param} agora está aberto.,,Pulsing Ridge
+450104,Ethereal Sanctum,{Name} de {Param} agora está aberto.,,Starfall Plateau
 450012,,,,Twisted Elysium
 450013,,,,Twisted Elysium
 450008,Trial Gates,{Name} de {Param} agora está aberto.,,Giant's Garden
 450009,Trial Gates,{Name} de {Param} agora está aberto.,,Pulsing Ridge
 450010,Trial Gates,{Name} de {Param} agora está aberto.,,Starfall Plateau
-450105,Santuário Etéreo,{Name} de {Param} agora está aberto.,,Starfall Plateau
-450106,Santuário Etéreo,{Name} de {Param} agora está aberto.,,Starfall Plateau
+450105,Ethereal Sanctum,{Name} de {Param} agora está aberto.,,Starfall Plateau
+450106,Ethereal Sanctum,{Name} de {Param} agora está aberto.,,Starfall Plateau
 500000,,,,
-460001,Chefe de Rift,{Name} já está aberto.,,
+460001,Rift Boss,{Name} já está aberto.,,
 500001,Pacote de participação de montaria de grau 4,Um novo item de atendimento foi adicionado à Loja.,,
 60002,,,,
 60003,,,,

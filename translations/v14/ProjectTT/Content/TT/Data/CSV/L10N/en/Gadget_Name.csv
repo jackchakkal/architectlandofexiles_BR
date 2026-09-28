@@ -11,8 +11,8 @@
 101,Codex Observatório
 102,Codex Transmissor
 103,Codex Trial Gate
-104,Codex Baú do tesouro
-105,Codex Remanescentes de Giant
+104,Codex Treasure Chest
+105,Codex Giant’s Remnants
 111,Teste de direção de câmera de gadget 1
 112,Teste de direção de câmera de gadget 2
 113,Teste de direção de câmera de gadget 3
@@ -89,8 +89,8 @@
 30000,Teste de Cartão Buff
 40000,Fragmento de Paradoxo de nível 1
 1000001,
-1000103,Tesouro do Santuário Etéreo
-1000104,Saída do Santuário Etéreo
+1000103,Tesouro do Ethereal Sanctum
+1000104,Saída do Ethereal Sanctum
 1000105,
 1000106,
 1000107,
@@ -110,12 +110,12 @@
 1010011,Âncora de urdidura menor
 1010012,Âncora de urdidura menor
 1010013,Âncora de urdidura menor
-1010101,Entrance do Santuário Etéreo
-1010102,Baú de tesouro
-1010103,Baú de Tesouro Especial
-1010105,Entrance do Santuário Etéreo
-1010106,Baú de tesouro
-1010107,Baú de Tesouro Especial
+1010101,Entrance do Ethereal Sanctum
+1010102,Treasure Chest
+1010103,Special Treasure Chest
+1010105,Entrance do Ethereal Sanctum
+1010106,Treasure Chest
+1010107,Special Treasure Chest
 1010201,Observatório Scything Barrens
 1010202,Observatório Scything Barrens
 1010111,Estranha Ruína Antiga
@@ -142,10 +142,10 @@
 1010132,
 1010133,
 1010134,Dispositivo Suspeito
-1010401,Giant's Remanescentes
-1010402,Giant's Remanescentes
-1010403,Giant's Remanescentes
-1010404,Giant's Remanescentes
+1010401,Giant's Remnants
+1010402,Giant's Remnants
+1010403,Giant's Remnants
+1010404,Giant's Remnants
 1010601,Vending Machine
 1010602,Giant’s Vending Machine
 1010603,Vending Machine
@@ -164,19 +164,19 @@
 1020012,Âncora de urdidura menor
 1020013,Âncora de urdidura menor
 1020014,Âncora de urdidura menor
-1020101,Entrance do Santuário Etéreo
-1020102,Baú de tesouro
-1020103,Baú de Tesouro Especial
-1020105,Entrance do Santuário Etéreo
-1020106,Baú de tesouro
-1020107,Baú de Tesouro Especial
-1080101,Baú de tesouro
+1020101,Entrance do Ethereal Sanctum
+1020102,Treasure Chest
+1020103,Special Treasure Chest
+1020105,Entrance do Ethereal Sanctum
+1020106,Treasure Chest
+1020107,Special Treasure Chest
+1080101,Treasure Chest
 1020201,Observatório de jardim de Giant
 1020202,Observatório de jardim de Giant
-1020401,Giant's Remanescentes
-1020402,Giant's Remanescentes
-1020403,Giant's Remanescentes
-1020404,Giant's Remanescentes
+1020401,Giant's Remnants
+1020402,Giant's Remnants
+1020403,Giant's Remnants
+1020404,Giant's Remnants
 1020111,Estranha Ruína Antiga
 1020112,
 1020113,
@@ -319,18 +319,18 @@
 1030010,Âncora de urdidura menor
 1030011,Âncora de urdidura menor
 1030012,Âncora de urdidura menor
-1030101,Entrance do Santuário Etéreo
-1030102,Baú de tesouro
-1030103,Baú de Tesouro Especial
-1030105,Entrance do Santuário Etéreo
-1030106,Baú de tesouro
-1030107,Baú de Tesouro Especial
+1030101,Entrance do Ethereal Sanctum
+1030102,Treasure Chest
+1030103,Special Treasure Chest
+1030105,Entrance do Ethereal Sanctum
+1030106,Treasure Chest
+1030107,Special Treasure Chest
 1030201,Pulsing Ridge Observatório
 1030202,Pulsing Ridge Observatório
-1030401,Giant's Remanescentes
-1030402,Giant's Remanescentes
-1030403,Giant's Remanescentes
-1030404,Giant's Remanescentes
+1030401,Giant's Remnants
+1030402,Giant's Remnants
+1030403,Giant's Remnants
+1030404,Giant's Remnants
 1030111,Estranha Ruína Antiga
 1030112,
 1030113,
@@ -369,17 +369,17 @@
 1040012,Âncora de urdidura menor
 1040013,Âncora de urdidura menor
 1040014,Âncora de urdidura menor
-1040101,Entrance do Santuário Etéreo
-1040102,Baú de tesouro
-1040103,Baú de Tesouro Especial
-1040105,Entrance do Santuário Etéreo
-1040106,Baú de tesouro
+1040101,Entrance do Ethereal Sanctum
+1040102,Treasure Chest
+1040103,Special Treasure Chest
+1040105,Entrance do Ethereal Sanctum
+1040106,Treasure Chest
 1040201,Starfall Plateau Observatório
 1040202,Starfall Plateau Observatório
-1040401,Giant's Remanescentes
-1040402,Giant's Remanescentes
-1040403,Giant's Remanescentes
-1040404,Giant's Remanescentes
+1040401,Giant's Remnants
+1040402,Giant's Remnants
+1040403,Giant's Remnants
+1040404,Giant's Remnants
 1040111,Estranha Ruína Antiga
 1040112,
 1040113,
@@ -415,18 +415,18 @@
 1050009,Âncora de urdidura menor
 1050010,Âncora de urdidura menor
 1050011,Âncora de urdidura menor
-1050101,Entrance do Santuário Etéreo
-1050102,Baú de tesouro
-1050103,Baú de Tesouro Especial
-1050105,Entrance do Santuário Etéreo
-1050106,Baú de tesouro
-1050107,Baú de Tesouro Especial
+1050101,Entrance do Ethereal Sanctum
+1050102,Treasure Chest
+1050103,Special Treasure Chest
+1050105,Entrance do Ethereal Sanctum
+1050106,Treasure Chest
+1050107,Special Treasure Chest
 1050201,Twisted Elysium Observatório
 1050202,Twisted Elysium Observatório
-1050401,Giant's Remanescentes
-1050402,Giant's Remanescentes
-1050403,Giant's Remanescentes
-1050404,Giant's Remanescentes
+1050401,Giant's Remnants
+1050402,Giant's Remnants
+1050403,Giant's Remnants
+1050404,Giant's Remnants
 1050111,Estranha Ruína Antiga
 1050112,
 1050113,
@@ -521,31 +521,31 @@
 4010502,Twisted Elysium Trial Gate
 4020101,???
 4020201,Halo Rift
-4030101,Tesouro da Provação do Árbitro
-4030102,Tesouro da Provação do Árbitro
-4030103,Tesouro da Provação do Árbitro
-4030104,Tesouro da Provação do Árbitro
-4030105,Tesouro da Provação do Árbitro
-4030106,Tesouro da Provação do Árbitro
-4030201,Tesouro da Provação do Árbitro
-4030202,Tesouro da Provação do Árbitro
-4030203,Tesouro da Provação do Árbitro
-4030204,Tesouro da Provação do Árbitro
-4030205,Tesouro da Provação do Árbitro
-4030206,Tesouro da Provação do Árbitro
-4030301,Tesouro da Provação do Árbitro
-4030302,Tesouro da Provação do Árbitro
-4030303,Tesouro da Provação do Árbitro
-4030304,Tesouro da Provação do Árbitro
-4030305,Tesouro da Provação do Árbitro
-4030306,Tesouro da Provação do Árbitro
-4030401,Tesouro da Provação do Árbitro
-4030402,Tesouro da Provação do Árbitro
-4030403,Tesouro da Provação do Árbitro
-4030404,Tesouro da Provação do Árbitro
-4030405,Tesouro da Provação do Árbitro
-4030406,Tesouro da Provação do Árbitro
-4040101,Saída de Provação do Árbitro
+4030101,Tesouro de Arbiter's Ordeal
+4030102,Tesouro da Arbiter's Ordeal
+4030103,Tesouro da Arbiter's Ordeal
+4030104,Tesouro da Arbiter's Ordeal
+4030105,Tesouro da Arbiter's Ordeal
+4030106,Tesouro da Arbiter's Ordeal
+4030201,Tesouro da Arbiter's Ordeal
+4030202,Tesouro da Arbiter's Ordeal
+4030203,Tesouro da Arbiter's Ordeal
+4030204,Tesouro da Arbiter's Ordeal
+4030205,Tesouro da Arbiter's Ordeal
+4030206,Tesouro da Arbiter's Ordeal
+4030301,Tesouro da Arbiter's Ordeal
+4030302,Tesouro da Arbiter's Ordeal
+4030303,Tesouro da Arbiter's Ordeal
+4030304,Tesouro da Arbiter's Ordeal
+4030305,Tesouro da Arbiter's Ordeal
+4030306,Tesouro da Arbiter's Ordeal
+4030401,Tesouro da Arbiter's Ordeal
+4030402,Tesouro da Arbiter's Ordeal
+4030403,Tesouro da Arbiter's Ordeal
+4030404,Tesouro da Arbiter's Ordeal
+4030405,Tesouro da Arbiter's Ordeal
+4030406,Tesouro da Arbiter's Ordeal
+4040101,Saída de Arbiter's Ordeal
 4050001,
 4050002,
 4050011,Movement Speed Increase
@@ -606,7 +606,7 @@
 4080013,Aura de Precisão Selada
 4080014,Aura de Destruição Selada
 4080015,Aura de Proteção Selada
-4500001,Baú de tesouro
+4500001,Treasure Chest
 4500002,Saída do Rift
 4500003,
 4500101,
@@ -963,7 +963,7 @@
 10232213,
 10232214,Abaixe a armadilha para peixes
 10232215,Recuperar Armadilha de Peixe
-10232216,Baú de tesouro
+10232216,Treasure Chest
 10232217,Comuna
 10232218,Hay
 10232219,Hay
@@ -972,7 +972,7 @@
 10232222,Sharaf
 10232223,Saque da tribo Kuduru
 10232224,Colete flores
-10232225,Moeda de ouro
+10232225,Gold Coin
 10232226,Planta Venenosa
 10232227,Barril de Vinho
 10232228,Pedaço de papel
@@ -1613,29 +1613,29 @@
 10170234,Colete
 10170235,
 10170236,
-2010001,Tocha de Ashur
-2010101,Baú do Tesouro Antigo
+2010001,Ashur's Torch
+2010101,Treasure Chest Antigo
 2010201,Observatório da Giant's Tower
-2010401,Giant's Remanescentes
-2010402,Giant's Remanescentes
+2010401,Giant's Remnants
+2010402,Giant's Remnants
 2010011,Baú de suprimentos
-2020001,Tocha de Ashur
-2020101,Baú do Tesouro Antigo
+2020001,Ashur's Torch
+2020101,Treasure Chest Antigo
 2020201,Observatório da Giant's Tower
-2020401,Giant's Remanescentes
-2020402,Giant's Remanescentes
+2020401,Giant's Remnants
+2020402,Giant's Remnants
 2020011,Baú de suprimentos
-2030001,Tocha de Ashur
-2030101,Baú do Tesouro Antigo
+2030001,Ashur's Torch
+2030101,Treasure Chest Antigo
 2030201,Observatório da Giant's Tower
-2030401,Giant's Remanescentes
-2030402,Giant's Remanescentes
+2030401,Giant's Remnants
+2030402,Giant's Remnants
 2030011,Baú de suprimentos
-2040001,Tocha de Ashur
-2040101,Baú do Tesouro Antigo
+2040001,Ashur's Torch
+2040101,Treasure Chest Antigo
 2040201,Observatório da Giant's Tower
-2040401,Giant's Remanescentes
-2040402,Giant's Remanescentes
+2040401,Giant's Remnants
+2040402,Giant's Remnants
 2040011,Baú de suprimentos
 9010101,Angbar Arena Dimensional Gate
 9010102,Angbar Arena Dimensional Gate
