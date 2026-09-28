@@ -1,8 +1,8 @@
 # Histórico de versões
 
-Cada pasta `translations/vN-.../` preserva um snapshot completo e imutável. As mudanças entre snapshots ficam em `changes/`.
+Cada tag de Release preserva o código e o pacote publicados naquela data. O snapshot atual em `translations/v14/` inclui as revisões da v14.1; as alterações ficam documentadas em `changes/`.
 
-## v14
+## v14.1
 
 - Regra editorial consolidada (2026-09-27, tabela completa no `GLOSSARIO-E-REGRAS.md`): **todo nome próprio fica em inglês, em qualquer lugar** — Skills (casam com os `Skillbook [{Param1}]`), itens, trajes, montarias, chaveiros, títulos, cartas, produtos da loja, masmorras e Trial Gates, regiões, NPCs/chefes, nomes de quem fala nos diálogos, a Adventurers Alliance e suas facções (Merchant, Blacksmith, Artisan, Appraiser, Hunter, Explorer, Wayfinder), vendedores e balcões da cidade. `On` → "Ligado" (era "Em"). Regras no `GLOSSARIO-E-REGRAS.md`.
 - 18.337 células alteradas sobre a v13 (`changes/v13-to-v14/`): 7.800+ células-nome restauradas ao original (Skills, itens, trajes, montarias, chaveiros, títulos, cartas, produtos da loja, facções, vendedores, Trial Gates, regiões/pontos do mapa, chefes…), ~5.400 trocas de termos fixos em frases (Adventurers Alliance, Forsaken Land, Trial Gate, Bardad Expedition, Paradise Advent Society, guildas, acampamentos e postos…), 142 rótulos de falante retraduzidos (descritivos em PT: Vovô, Aventureira Misteriosa; apelidos em EN: Shrewd Merchant), ~270 frases de itens/lugares reescritas à mão ("Compre uma Rejuvenation Potion", "Derrote o Guardian of the Treasure", "Ativar Replica Seed"…). Corrigidas de passagem tags vazias `<Orange></>` herdadas da v12 em tutoriais e diálogos.
@@ -10,6 +10,11 @@ Cada pasta `translations/vN-.../` preserva um snapshot completo e imutável. As 
 - Menu Crescimento (`GuideGrowth_Name`, `GuideGrowthMethod_Name`) e categorias do Arbiter's Ordeal (`DungeonModularType_Name`) reescritos em português natural ("Atualização de Skill Ativo", "Atualizar suas Skills aumenta o desempenho geral delas…", "Os Planadores permitem…"). Botão "Receive All" → "Receber Todos"; "Enter" (botão) → "Entrar"; "Complete Mission Immediately" → "Concluir Missão Agora".
 - Ferramentas: `__restore_exact_names__.names` (lista explícita), restauração de nome inteiro em qualquer coluna para nomes de 2+ palavras, nomes sem placeholder, troca sem distinção de maiúsculas, `__restore_columns__` para colunas de composição, `__sync_by_text__`, `__scan_ignore__`; linhas casadas por posição em tabelas com ID repetido (`Quest_Name` tem 343). `tools/scan_name_mentions.py` agora verifica todas as colunas de todas as tabelas e termina com 0 pendências na v14 (critério obrigatório, ver GLOSSARIO).
 - `tools/apply_overrides.py`: overrides por ID+coluna, regras `__restore_exact_names__`, `__replace_translated_names__` (só nomes de 2+ palavras não descritivos) e `__term_map__` (variantes PT → termo EN, com `max_len` para termos de 1 palavra), substituição por texto em células já traduzidas. Novo `tools/scan_name_mentions.py`.
+
+## v14 (Release inicial)
+
+- Primeira versão publicada da v14 em 2026-09-27, com nomes de Skills, itens e masmorras em inglês nas menções identificadas (5.970 células ajustadas em relação à v13). O código e o manifesto originais podem ser consultados na [tag v14](https://github.com/jackchakkal/architectlandofexiles_BR/tree/v14).
+- A v14.1 amplia a regra a todos os nomes próprios identificados e preserva o ZIP inicial da v14 para comparação.
 
 ## v13
 

@@ -1,5 +1,5 @@
 {
-  "version": "v14",
+  "version": "v14.1",
   "translation_snapshot": "translations/v14",
   "changes": "changes/v13-to-v14/changes.json",
   "built_with": "tools/build_pak.py (equivalente a repak_cli 0.2.3 pack --version V11)",
@@ -14,13 +14,13 @@
   },
   "files": {
     "player_download": {
-      "filename": "Architect-PTBR-v14.zip",
-      "sha256": "ab8486d4c3197269906b4b2ff62b7fb1cc030df910803138b17971804f075175"
+      "filename": "Architect-PTBR-v14.1.zip",
+      "sha256": "aa02caa79792f5b724be49b7bd2b594d860c7ab4a8d1001a7b5a6b68e4181797"
     },
     "pak": {
       "filename": "pakchunk9999-Windows_21474835_P.pak",
-      "bytes": 12428232,
-      "sha256": "581b020749c1d011578aaa380cb60ab762d8abd194fa703bba922a6d5214ac83"
+      "bytes": 12375437,
+      "sha256": "5378a3d70568c9cc910f2ae54f61708ffba9b71aa6d797948a2db7585a9faa1f"
     }
   },
   "validation": {
@@ -34,7 +34,7 @@
     "bad_tower_mentions": 0,
     "pak_entries_match_snapshot": "227/227",
     "completeness_zhCN": "../work/completeness-v13-zhCN.json",
-    "name_mentions": "../work/name-mentions-v14.json (5 falsos positivos restantes)"
+    "name_mentions": "../work/name-mentions-v14.json (0 células-nome traduzidas, 0 frases com nome perdido)"
   },
-  "summary": "Nomes de Skills, itens e masmorras em inglês em qualquer menção (5.970 células sobre a v13). Ver CHANGELOG."
+  "summary": "Revisão final da tradução: nomes próprios consistentes em inglês, On → Ligado e menu Crescimento reescrito. 18.337 células alteradas em relação à v13; v14.1 preserva o pacote v14 publicado."
 }

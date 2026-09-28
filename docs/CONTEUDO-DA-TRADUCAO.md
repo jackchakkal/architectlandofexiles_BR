@@ -1,6 +1,6 @@
 # O que contém a tradução
 
-Gerado a partir do snapshot `translations/v14/` comparado com as tabelas originais em inglês. "Células traduzidas" = células de texto cujo conteúdo difere do original; as demais são vazias no original, idênticas de propósito (nomes próprios, placeholders) ou ainda não traduzidas.
+Gerado a partir do snapshot `translations/v14/` na revisão v14.1, comparado com as tabelas originais em inglês. "Células traduzidas" = células de texto cujo conteúdo difere do original; as demais são vazias no original, idênticas de propósito (nomes próprios, placeholders) ou ainda não traduzidas.
 
 **Total: 227 tabelas, 128.598 registros, 127.488 células traduzidas.**
 
