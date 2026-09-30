@@ -1,0 +1,131 @@
+﻿Id,GrowthMethodName,GrowthMethodDesc
+100101,Subir de Nível,"O <Orange>Nível do Personagem</> é a base do seu crescimento e aumenta conforme você avança pelos diversos conteúdos.
+Ganhe EXP concluindo <Orange>Missões</>, <Orange>Missões do Arquivo</> e <Orange>caçando monstros</>.
+Cada nível ganho aumenta os atributos básicos do personagem."
+100201,Efeitos do Avanço de Classe,"O <Orange>Avanço</> libera o verdadeiro potencial da sua classe.
+Ao avançar, os <Orange>atributos</> do personagem aumentam e você ganha acesso a novas <Orange>skills</>.
+É preciso cumprir os <Orange>requisitos de nível</> e concluir as <Orange>Missões de Avanço</> específicas."
+100202,Postura,"No 2º Avanço de Classe, você desbloqueia as <Orange>Especializações</> e as <Orange>Posturas de Batalha</>, ampliando bastante suas opções táticas em combate."
+100301,Melhoria de Células,"O <Orange>Despertar</> é um sistema de progressão em que você desbloqueia e desenvolve <Orange>Células</> carregadas com vários atributos.
+Desbloquear essas Células concede atributos progressivamente.
+Quando todas as Células de uma página estiverem desbloqueadas, você pode prosseguir com o <Orange>Despertar</>."
+100302,Efeito do Despertar,"Quando o grau das Células muda por meio do Despertar, atributos de bônus são aplicados.
+O <Orange>Efeito Geral do Despertar</> também é ativado com base na soma dos graus de todas as Células daquela página.
+O Despertar é composto por várias páginas."
+100401,Melhoria de Ressonância,"A <Orange>Ressonância</> é um sistema de progressão que concede bônus de atributos cada vez maiores conforme você avança pelos estágios.
+À medida que a <Orange>Intensidade da Ressonância</> aumenta, seus efeitos principais são amplificados.
+Ao longo do caminho, <Orange>Vestígios</>, <Orange>Fragmentos</> e <Orange>Formas</> são ativados, concedendo atributos de bônus."
+100601,Subir de Nível,"O <Orange>Ajuste</> permite desbloquear e desenvolver Registros para aumentar os atributos do personagem.
+Use materiais especializados para <Orange>subir o nível</> deles;
+a cada nível ganho, um <Orange>Espaço de Registro</> é desbloqueado, concedendo atributos adicionais."
+100602,Transcender,"Ao atingir o nível máximo de cada grau, você pode avançar para o grau seguinte por meio da <Orange>Transcendência</>.
+Desbloquear Espaços de Registro no grau seguinte concede atributos ainda maiores."
+200101,Configuração e Aprimoramento de Equipamento,"As <Orange>Armas</> são compostas por <Orange>Arma Principal</>, <Orange>Equipamento Secundário I</> e <Orange>Equipamento Secundário II</>,
+e equipá-las aumenta diretamente a capacidade de combate do personagem.
+Cada peça pode evoluir por meio do <Orange>Aprimoramento</>:
+quanto maiores o <Orange>Grau</> e o <Orange>Tier</>, maiores os atributos obtidos."
+200102,Infundir,"A <Orange>Infusão</> permite imbuir o equipamento com atributos adicionais para aumentar seu poder.
+Os tipos de espaço disponíveis variam conforme a peça,
+mas os atributos obtidos dependem do tipo e do grau dos <Orange>Núcleos de Infusão</> usados.
+Você também pode usar a <Orange>Infusão Automática</> selecionando os atributos desejados."
+200201,Configuração e Aprimoramento de Equipamento,"A <Orange>Armadura</> é composta por <Orange>Elmo</>, <Orange>Ombreiras</>, <Orange>Peitoral</>, <Orange>Grevas</>, <Orange>Cinto</>, <Orange>Luvas</>, <Orange>Botas</> e <Orange>Capa</>, 
+feitos para aumentar a sobrevivência e a capacidade de combate do personagem.
+Cada peça pode evoluir por meio do <Orange>Aprimoramento</>:
+quanto maiores o <Orange>Grau</> e o <Orange>Tier</>, maiores os atributos obtidos."
+200202,Infundir,"A <Orange>Infusão</> permite imbuir o equipamento com atributos adicionais para aumentar seu poder.
+Os tipos de espaço disponíveis variam conforme a peça,
+mas os atributos obtidos dependem do tipo e do grau dos <Orange>Núcleos de Infusão</> usados.
+Você também pode usar a <Orange>Infusão Automática</> selecionando os atributos desejados."
+200301,Configuração e Aprimoramento de Equipamento,"Os <Orange>Acessórios</> são compostos por <Orange>Colares</>, <Orange>Brincos</>, <Orange>Anéis</> e <Orange>Braceletes</>,
+e oferecem uma grande variedade de atributos de bônus.
+Cada acessório pode evoluir por meio do <Orange>Aprimoramento</>:
+quanto maiores o <Orange>Grau</> e o <Orange>Tier</>, maiores os atributos obtidos."
+200302,Infundir,"A <Orange>Infusão</> permite imbuir o equipamento com atributos adicionais para aumentar seu poder.
+Os tipos de espaço disponíveis variam conforme a peça,
+mas os atributos obtidos dependem do tipo e do grau dos <Orange>Núcleos de Infusão</> usados.
+Você também pode usar a <Orange>Infusão Automática</> selecionando os atributos desejados."
+200401,Atributos Equipados e Progressão,"As <Orange>Relíquias Sagradas</> são elementos de crescimento equipáveis que concedem atributos especiais.
+Cada Relíquia Sagrada é equipada conforme seu tipo,
+e seus atributos se aplicam diretamente ao personagem.
+Você também pode elevar o Tier delas por meio do <Orange>Avanço</>:
+quanto maior o Tier, mais poderosas elas ficam, liberando atributos adicionais em Tiers específicos."
+300101,Restaurar Memória,"<Orange>Gudua's Memories</> é um recurso exclusivo em que você usa <Orange>Fragmentos de Memória</> para restaurar memórias perdidas e ganhar atributos.
+Quanto maior o nível de restauração do <Orange>Fator</>, maiores os bônus de atributos,
+e o tipo de Fragmento de Memória necessário varia conforme o Fator."
+300201,Progressão das Cartas,"<Orange>Grace of the Constellations</> é um recurso voltado a colecionar e equipar cartas imbuídas com o poder das estrelas.
+Equipar uma carta como <Orange>Estrela Guardiã</> aplica seus atributos ao personagem,
+e você pode <Orange>subir o nível</> e <Orange>transcender</> essas cartas para torná-las ainda mais poderosas."
+300202,Efeito de Nebulosa,"Conforme você coleciona e desenvolve suas cartas, <Orange>Efeitos de Nebulosa</> exclusivos são ativados e concedem atributos de bônus. 
+As cartas excedentes podem ser usadas na <Orange>Fusão</>."
+300301,Brasões e Powerstones,"<Orange>Crest of the Ancients</> é um sistema de melhoria que aumenta seus atributos ao fortalecer seus Brasões e <Orange>Powerstones</>.
+<Orange>Suba o nível</> dos Brasões para ganhar mais atributos
+e equipe Powerstones para aplicar bônus adicionais."
+300302,Melhoria de Powerstones,"As Powerstones podem ser bastante melhoradas por meio do <Orange>Refinamento</> e da <Orange>Avaliação</>.
+<Orange>Desmonte</> as Powerstones que não precisar para usá-las como valiosos materiais de crescimento."
+300401,Ascensão e Habilidades Potenciais,"As Montarias permitem aumentar os atributos do personagem por meio da <Orange>Ascensão</> e das <Orange>Habilidades Potenciais</>.
+<Orange>Ascenda</> suas montarias para ganhar atributos,
+e o <Orange>Efeito Geral de Ascensão</> é ativado com base no total acumulado de Ascensões.
+Você também pode conceder <Orange>Habilidades Potenciais</> às montarias ascendidas,
+que são aplicadas como <Orange>Atributos Possuídos</>."
+300402,Atributos Equipados,"Cada montaria possui seus próprios <Orange>Atributos Equipados</>.
+Esses atributos permanecem ativos enquanto a montaria estiver equipada, permitindo escolher estrategicamente a montaria ideal para cada situação."
+300501,Ascensão e Habilidades Potenciais,"Os Planadores permitem aumentar os atributos do personagem por meio da <Orange>Ascensão</> e das <Orange>Habilidades Potenciais</>.
+<Orange>Ascenda</> seus planadores para ganhar atributos,
+e o <Orange>Efeito Geral de Ascensão</> é ativado com base no total acumulado de Ascensões.
+Você também pode conceder <Orange>Habilidades Potenciais</> aos Planadores ascendidos,
+que são aplicadas como <Orange>Atributos Possuídos</>."
+300502,Atributos Equipados,"Cada Planador possui seus próprios <Orange>Atributos Equipados</>.
+Esses atributos permanecem ativos enquanto o planador estiver equipado,
+permitindo escolher estrategicamente o planador ideal para cada situação."
+300503,Skill de Descida,"Equipar um Planador de <Orange>4 estrelas</> ou mais libera o acesso à <Orange>Skill de Descida</>.
+Cada Planador tem uma Skill de Descida diferente,
+dando vantagem tática de acordo com o <Orange>ambiente de combate</>.
+As Skills de Descida podem ser usadas durante o voo, mas não de altitudes muito elevadas."
+300601,Efeitos de Pesquisa,"Consulte o <Orange>Status de Pesquisa</> atual de cada guilda e <Orange>filtre</> a lista de pesquisas por critérios específicos.
+Por meio das <Orange>pesquisas</> disponíveis em cada guilda, você pode ver os <Orange>efeitos</> e as <Orange>recompensas</> que podem ser obtidos."
+300701,Efeitos Equipados e Possuídos,"Os <Orange>Trajes</> oferecem aparências e atributos únicos para fortalecer ainda mais o personagem.
+Equipar um traje aplica seus <Orange>Atributos e Skills Equipados</>,
+enquanto certos <Orange>Atributos Possuídos</> permanecem ativos mesmo sem o traje equipado."
+300702,Fundir,"Trajes duplicados podem ser usados como materiais de <Orange>Fusão</>,
+com chance de obter um traje da classificação de estrelas seguinte, variando conforme o grau."
+300703,Emperor's Gallery,"Para trajes de 3 estrelas ou mais, você pode desbloquear atributos extras por meio da <Orange>Emperor's Gallery</>
+ou simplesmente usar os trajes restantes na <Orange>Fusão</>."
+300801,Efeitos Equipados e Possuídos,"As <Orange>Armas Fantasmas</> oferecem aparências e atributos únicos para fortalecer ainda mais o personagem.
+Equipar uma arma fantasma aplica seus <Orange>Atributos e Skills Equipados</>,
+e você também obtém <Orange>Efeitos Possuídos</> conforme a quantidade de armas possuídas por classificação de estrelas."
+300802,Fundir,"Armas Fantasmas duplicadas podem ser usadas como materiais de <Orange>Fusão</>,
+com chance de obter uma Arma Fantasma do grau de estrelas seguinte, variando conforme o grau."
+300803,Emperor's Armory,"Para Armas Fantasmas da sua classe de 3 estrelas ou mais, você pode desbloquear atributos extras por meio da <Orange>Emperor's Armory</>."
+300901,Atualização de Skill Ativo,"Atualize suas skills ativas <Orange>subindo o nível</> delas e por meio da <Orange>transcendência</>.
+Atualizar suas Skills aumenta o desempenho geral delas,
+e o <Orange>Efeito de Nível Total de Skill</> é aplicado com base na <Orange>soma dos níveis das suas skills</>."
+300902,Desbloqueio de Skill Passiva,"As <Orange>skills passivas</> fornecem <Orange>bônus contínuos</> às habilidades do personagem.
+O Avanço de Classe amplia a variedade de skills passivas disponíveis,
+e você pode desbloqueá-las usando <Orange>Elixires</>."
+100701,Efeitos de Keyring,"Treine ou ascenda seus Keyrings para melhorar seus <Orange>Efeitos de Keyring</>, aumentando seus atributos e skills.
+Equipe-os para usar esses atributos e skills em combate. Invocar um Keyring ativa os efeitos do Keyring invocado em campo.
+Obter ou ascender um Keyring ativa automaticamente os efeitos de Vínculo e do Anel de Harmonia. "
+100702,Fusão de Keyring,"A <Orange>Fusão de Keyring</> consome 4 Keyrings do mesmo grau base para obter um Keyring de grau superior.
+Mesmo que a fusão falhe, você recebe um Keyring do mesmo grau. Use a função <Orange>Fundir Tudo</> para consumir rapidamente Keyrings de grau inferior."
+100703,Treinamento de Keyring,"O <Orange>Treinamento de Keyring</> é um sistema de progressão garantida que eleva o tier do seu Keyring passo a passo.
+Usando Keyrings do mesmo rank como material, você avança para o tier seguinte com 100% de sucesso, desde que cumpra os requisitos.
+Treinar além do T3 aumenta o Rank de Estrelas e redefine o tier para T1."
+100704,Ascensão de Limite de Keyring,"Consuma <Orange>Keyrings duplicados</> para tentar a Ascensão.
+Ascenda o limite dos seus Keyrings para melhorar suas skills Especiais e de Suporte.
+A ascensão de limite está ligada ao sistema de <Orange>Vínculo</> e concede Atributos de Vínculo."
+100705,Vínculo,"Sistema de progressão em que você coleciona Keyrings e os melhora por meio da Ascensão para ganhar atributos.
+Obtenha e <Orange>Ascenda</> seus <Orange>Keyrings</> para ativar <Orange>Vínculos</>.
+Vínculos ativados concedem permanentemente <Orange>atributos de conta</>."
+100706,Anel de Harmonia,"Sistema de progressão que concede atributos ao melhorar combinações de Keyrings organizadas por tema.
+Registre <Orange>Keyrings</> no <Orange>Anel de Harmonia</> para aumentar atributos permanentes.
+Colecione ou treine os Keyrings registrados para elevar o grau combinado e ganhar atributos de bônus."
+100802,Não Adquirido,"Ganhe <Orange>títulos</> concluindo Troféus específicos ou alcançando <Orange>ranks</>.
+Eles também podem ser obtidos por <Orange>itens</> ou como <Orange>recompensas</>.
+Você só pode <Orange>equipar</> um dos <Orange>títulos</> que possui por vez."
+100803,Atributos,"Cada <Orange>título</> tem seus <Orange>Atributos Possuídos</>.
+Os <Orange>Atributos</> são aplicados ao personagem assim que você adquire um <Orange>título</>
+e são <Orange>perdidos</> se o <Orange>título</> for removido."
+301001,Não Adquirido,"As <Orange>Decorações</> podem ser obtidas em vários conteúdos.
+Se você receber um item que já possui, ganhará <Orange>outra recompensa no lugar</>.
+Você só pode <Orange>equipar</> uma <Orange>Decoração</> que possui por vez."
+301002,Atributos,Colecionar <Orange>Decorações</> para aumentar sua <Orange>quantidade possuída</> concede <Orange>Efeitos Possuídos</> conforme o grau de estrelas.

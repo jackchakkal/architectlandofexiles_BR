@@ -1,0 +1,39 @@
+﻿Id,Name,Description,GuideString1,GuideParam1,GuideString2,GuideParam2,GuideString3,GuideParam3,ContentsShortButtonText
+EliteDungeon_ContentsCategory1,Temporal Barrier,Derrote monstros na terra presos no ciclo eterno e reivindique suas recompensas.,,,,,,,Atalho
+Frontier_ContentsCategory1,Infinite Spire,Prove seu valor no corredor sem fim onde os monstros vagam.,FRONTIER_SEASON_NUMBER,"[{""state"":""Ready"",""string"":""GUIDECONTENTS_GUIDEPARAM_FRONTIERSTATE_READY""}, {""state"":""Start"",""string"":""GUIDECONTENTS_GUIDEPARAM_FRONTIERSTATE_START""}, {""state"":""Finish"",""string"":""GUIDECONTENTS_GUIDEPARAM_FRONTIERSTATE_FINISH""}]",,,,,Atalho
+QuestCommission_ContentsCategory1,Commission House,Complete missões de guildas afiliadas à Adventurers Alliance e ganhe diversas recompensas e afinidades.,Comissões Diárias Restantes,"{""gameContents"":""QuestCommissionDaily"",""string"":""GUIDECONTENTS_GUIDEPARAM_QUESTCOMMISSIONCOUNT""}",Comissões semanais restantes,"{""gameContents"": ""QuestCommissionWeekly"", 
+""string"" : ""GUIDECONTENTS_GUIDEPARAM_QUESTCOMMISSIONCOUNT""}",,,Atalho
+Invasion_ContentsCategory1,Incursão,Ganhe várias recompensas ao interromper as incursões que colocam a Forsaken Land em perigo.,Incursão da Tempestade,"{""type"":""Harmony""}",Incursão do Trovão,"{""type"" : ""Protect""}",Incursão de Chama,"{""type"" : ""Balance""}",Verifique o mapa do mundo
+SpecialInvasion_ContentsCategory1,Shadow Incursion,Interrompa a rara Incursão Sombria para garantir várias recompensas.,Oportunidades de reivindicação de recompensa da Shadow Incursion,"{""gameContents"":""SpecialInvasionReward"",""string"":""[Value]/2""}",,,,,Verifique o mapa do mundo
+SectorInvasion_ContentsCategory1,Grande Incursão,Ganhe várias recompensas suprimindo a Grande Incursão que ocorre em horários designados todos os dias.,Tempo da Grande Incursão,1001,Recompensa de Contribuição,"{""titleString"" : ""GUIDE_GUIDECONTENTS_SECTORINVASION_DETAILREWARD_TITLE"",
+""rewardInfo1"" : ""SecInv.ContReward.Success.Rank1to3.5SectorPart1"", ""gradeName1"" : ""GUIDE_GUIDECONTENTS_SECTORINVASION_DETAILREWARD_REWARDINFO1"",
+""rewardInfo2"" : ""SecInv.ContReward.Success.Rank4to10.5SectorPart1"", ""gradeName2"" : ""GUIDE_GUIDECONTENTS_SECTORINVASION_DETAILREWARD_REWARDINFO2"",
+""rewardInfo3"" : ""SecInv.ContReward.Success.RankOther.5SectorPart1"", ""gradeName3"" : ""GUIDE_GUIDECONTENTS_SECTORINVASION_DETAILREWARD_REWARDINFO3""}",,,Verifique o mapa do mundo
+VendingMachine_ContentsCategory1,Vending Machine,Encontrado em aldeias de todos os reinos. Use tokens Vending Machine para obter recompensas.,Propriedade Vending Machine Token,"{""assetType"":""VendingMachineCoin"",""string"":""[Value]/100""}",,,,,Atalho
+VendingMachinePremium_ContentsCategory1,Giant’s Vending Machine,Encontrado apenas em Babylon. Use um token especial para obter recompensas.,Token do fornecedor de propriedade de Giant,"{""assetType"":""VendingMachinePremiumCoin"",""string"" : ""[Value]/100""}",,,,,Atalho
+ModuleDungeon_ContentsCategory1,Arbiter’s Ordeal,Obtenha vários itens que ajudam no seu crescimento no cofre secreto da Tribo Ragar.,Chave de provação de propriedade,"{""gameContents"":""ModularDungeonPoint"",""string"":""[Value]/60""}",,,,,Atalho
+GlobalBoss_ContentsCategory2,Rift Boss,Subjugue o Rift Boss em momentos específicos para obter itens básicos e recompensas de contribuição.,De propriedade Prismas dimensionais,"{""gameContents"":""GlobalBossRewardTicket"",""DetailInfoId"":""1"",""string"":""[Value]/3""}",Tentativas de entrada semanal,"{""gameContents"":""GlobalBossEntryTicket"",""DetailInfoId"":""1"",""string"":""[Value]/10""}",,,Atalho
+TrialGateParty_ContentsCategory2,Rift,Ganhe diversas recompensas conquistando Rifts com seus aliados.,Selo de fenda de propriedade,"{""assetType"":""TrialGatePartyRewardKey"",""string"":""[Value]/600""}",,,,,Atalho
+TesseractShard_ContentsCategory2,Artificial Tesseract,Derrote monstros invocados por Tesseract na Forsaken Land para obter recompensas.,De propriedade Artificial Tesseract,"{""itemInfoId"":""8200111, 8200112, 8200113, 8200114, 8200121, 8200122, 8200123, 8200124"",""string"":""GUIDECONTENTS_GUIDEPARAM_COMMONCOUNT""}",,,,,Verificar inventário
+ClanRaid_ContentsCategory2,Angbar Arena,Use o Convite Angbar para unir forças com os Membros do Clã para derrotar o Chefe da Arena.,,,,,,,Atalho
+ClanTrialGate_ContentsCategory2,Clan Expedition,Entre na masmorra com os membros do clã e vença as provações para ganhar recompensas.,,,,,,,Atalho
+ClanFrontier_ContentsCategory2,Hall of Proof,Reúna os membros do seu clã para derrotar os chefes que chegam e provar sua unidade definitiva.,,,,,,,Atalho
+ReplicaSeed_ContentsCategory2,Replica Seed,Subjugue chefes replicados por tecnologia antiga e traga glória ao seu clã.,,,,,,,Atalho
+HuntingGround_ContentsCategory3,The Vitalizing Sanctum,Receba vários buffs através da gravação no Vitalizing Sanctum dentro dos campos de caça.,,,,,,,Verifique o mapa do mundo
+BattlefieldMonolith_ContentsCategory3,Monolith War,Capture os Monólitos em Ancient Ruins de cada reino para provar a supremacia do seu clã.,Hora de início,BattlefieldMonolithStart,,,,,Atalho
+BattlefieldSentinel_ContentsCategory3,Sentinel Conquest,Mate os Sentinelas estacionados em Abyss Battlefield para expandir a influência do seu clã.,Hora de início,BattlefieldSentinelStart,,,,,Vá para Abyss Battlefield
+BattlefieldUnderground_ContentsCategory3,Fortress Siege,Capture a Torre Guardiã da Fortaleza dentro de Abyss Battlefield para provar o domínio do seu clã.,Hora de início,BattlefieldUndergroundStart,,,,,Vá para Abyss Battlefield
+ClanSentinelControlBuff_ContentsCategory3,Sentinel's Resonance,Ressoe com o Sentinela do Abismo dentro do Abyss Battlefield para receber vários buffs poderosos.,,,,,,,Vá para Abyss Battlefield
+InterServerEventBoss_ContentsCategory3,Akarakatum,do Slaughter Mate Akarakatum no Abyss Battlefield para reivindicar o Tesouro Abissal.,,,,,,,Vá para Abyss Battlefield
+BattlefieldClash_ContentsCategory3,Arena,Recupere a glória dos campos de batalha de Frantia e aproveite suas honrosas recompensas.,Programação,"[{""state"":""Ready"",""string"":""GUIDECONTENTS_GUIDEPARAM_BATTLEFIELDCLASH_READY""}, {""state"":""Start"",""string"":""GUIDECONTENTS_GUIDEPARAM_BATTLEFIELDCLASH_START""}, {""state"":""Finish"",""string"":""CLASH_OFFSEASON""}]",Matchmaking Horas,"[{""string"":""CLASH_TIMETABLE""}]",,,Atalho
+TrialGateSingle_ContentsCategory4,Trial Gates,"Passe nas provações de Atrahasis, o Grande Sábio do Antigo Império, para obter recompensas especiais.",concluídas Tarefas Trial Gates,"{""DungeonType"":""TrialGateSingle"",
+""string"":""[Value]/[MaxValue]""}",,,,,Atalho
+TreasureBoxEpic_ContentsCategory4,Ethereal Sanctum,Conquiste as provações do Tesouro da Casa de Ouro do Império Antigo para descobrir tesouros escondidos.,Tarefas concluídas do Ethereal Sanctum,"{""DungeonType"":""TreasureBox"",
+""string"":""[Value]/[MaxValue]""}",,,,,Atalho
+AdventureRecord_ContentsCategory4,Codex,Verifique os vários registros de suas aventuras enquanto explora a Forsaken Land e o Giant's Tower.,,,,,,,Atalho
+Archive_ContentsCategory4,Arquivo,Descubra novos lados de seus companheiros através de um novo história.,Missões disponíveis,"{""QuestType"":""Archive"",
+""string"":""GUIDECONTENTS_GUIDEPARAM_COMMONCOUNT""}",,,,,Atalho
+QuestSub_ContentsCategory4,Sub Quest,Ouça as histórias de várias pessoas que você encontra na Forsaken Land e ajude-as a resolver seus problemas.,Missões disponíveis,"{""QuestType"":""Sub"",
+""string"":""GUIDECONTENTS_GUIDEPARAM_COMMONCOUNT""}",,,,,Verifique a missão
+QuestFaction_ContentsCategory4,Adventures’ Alliance Quest,Saiba mais sobre os clãs de a Adventurers Alliance e ouça seus conselhos úteis.,Missões disponíveis,"{""QuestType"":""Faction"",
+""string"":""GUIDECONTENTS_GUIDEPARAM_COMMONCOUNT""}",,,,,Atalho

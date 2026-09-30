@@ -1,0 +1,665 @@
+﻿Id,Name,Desc,Param
+190110000,Undergarment,,
+190110001,Denizen of the Abandoned Land,,
+190110002,{Param}‘s Exile,,Enkia
+190110003,{Param}‘s Exile,,Krea
+190110004,{Param}‘s Exile,,Stormkel
+190110005,{Param}‘s Exile,,Frantia
+190110006,{Param}‘s Exile,,Asientet
+190110007,{Param}‘s Traveler,,Enkia
+190120008,{Param}‘s Pioneer,,Enkia
+190120009,{Param}‘s Pioneer,,Krea
+190110010,{Param}‘s Traveler,,Krea
+190120011,{Param}‘s Pioneer,,Stormkel
+190120012,{Param}‘s Pioneer,,Frantia
+190110013,{Param}‘s Traveler,,Stormkel
+190120014,{Param}‘s Pioneer,,Asientet
+190120015,{Param}‘s Adventurer,,Enkia
+190110016,{Param}‘s Traveler,,Frantia
+190120017,{Param}‘s Adventurer,,Krea
+190130018,{Param}‘s Adventurer,,Frantia
+190110019,{Param}‘s Traveler,,Asientet
+190120020,{Param}‘s Adventurer,,Stormkel
+190130021,{Param}‘s Adventurer,,Asientet
+190130022,{Param}‘s Expedition,,Barrens
+190130023,{Param}‘s Expedition,,Plains
+190130024,{Param}‘s Expedition,,Ridges
+190130025,{Param}‘s Expedition,,Snowfields
+190210001,Elsetia’s Succession Outfit,,
+190210002,{Param}‘s Warrior,,Honor
+190210003,{Param}‘s Warrior,,Indomitable
+190210004,{Param}‘s Scouting Party,,Labyrinth
+190210005,{Param}‘s Explorer,,Asientet
+190210006,{Param}‘s Monster Hunter,,Asientet
+190210007,{Param}‘s Fixer,,Krea
+190210008,{Param}‘s Wanderer,,Krea
+190210009,{Param}‘s Fixer,,Stormkel
+190210010,{Param}‘s Monster Hunter,,Frantia
+190210011,{Param}‘s Fixer,,Enkia
+190220012,{Param}‘s Wanderer,,Enkia
+190220013,{Param}‘s Scouting Party,,Ruins
+190220014,{Param}‘s Scouting Party,,Rift
+190220015,{Param}‘s Warrior,,Valor
+190220016,{Param}‘s Wanderer,,Asientet
+190220017,{Param}‘s Explorer,,Krea
+190220018,{Param}‘s Wanderer,,Stormkel
+190220019,{Param}‘s Wanderer,,Frantia
+190230020,{Param}‘s Explorer,,Enkia
+190230021,{Param}‘s Warrior,,Victory
+190230022,{Param}‘s Fixer,,Asientet
+190230023,{Param}‘s Monster Hunter,,Krea
+190230024,{Param}‘s Monster Hunter,,Stormkel
+190230025,{Param}‘s Explorer,,Frantia
+190230026,{Param}‘s Monster Hunter,,Enkia
+190310001,{Param} Officer,,Lesser
+190310002,{Param} Mercenary,,Lesser
+190310003,{Param} Mercenary,,Intermediate
+190310004,{Param} Swordsman,,Lesser
+190310005,{Param} Swordsman,,Intermediate
+190310006,Treasure Hunter,,
+190310007,Ruin Restorer,,
+190310008,{Param} Infantry,,Lesser
+190310009,{Param} Infantry,,Intermediate
+190310010,{Param} Scout,,Lesser
+190310011,{Param} Scout,,Intermediate
+190310012,{Param} Priest,,Lesser
+190310013,{Param} Special Agent,,Lesser
+190310014,{Param} Special Agent,,Intermediate
+190310015,{Param} Executor,,Lesser
+190310016,{Param} Tracker,,Lesser
+190320017,{Param} Officer,,Intermediate
+190320018,{Param} Mercenary,,Greater
+190320019,{Param} Mercenary,,Supreme
+190320020,{Param} Swordsman,,Greater
+190320021,Ruin Collector,,
+190320022,Archaeologist,,
+190320023,{Param} Executor,,Intermediate
+190320024,{Param} Officer,,Greater
+190320025,{Param} Tracker,,Intermediate
+190320026,{Param} Scout,,Greater
+190320027,{Param} Priest,,Intermediate
+190320028,{Param} Priest,,Greater
+190320029,{Param} Special Agent,,Greater
+190320030,{Param}‘s Wizard,,Earth
+190330031,{Param} Special Agent,,Prime
+190330032,{Param} Priest,,Senior
+190330033,{Param} Swordsman,,Apex
+190330034,{Param} Executor,,Greater
+190330035,{Param} Infantry,,Greater
+190330036,{Param} Tracker,,Greater
+190330037,{Param}‘s Wizard,,Fire
+190330038,{Param}‘s Wizard,,Water
+190350039,{Param} Infantry,,Elite
+190350040,{Param} Officer,,Command
+190350041,{Param} Scout,,Elite
+190350042,{Param} Executor,,Senior
+190350043,{Param} Tracker,,Prestigious
+190350044,{Param}‘s Wizard,,Wind
+190410001,Indomitable High General,,
+190410002,Avenger of Darkness,,
+190410003,Blade of the Nine Kingdoms,,
+190410004,Royal Guard,,
+190410005,Blue Wolf,,
+190410006,Inquisitor,,
+190410007,Noble’s Heir,,
+190410008,Follower of the Ancient,,
+190410009,Conqueror’s Majesty,,
+190410010,Liberator of the New Mankind,,
+190410011,Seeker of Aether,,
+190410012,Magic Corps Instructor,,
+190410013,Mage of Salvation,,
+190410014,Queen’s Servant,,
+190420015,Sage of the Sand Tower,,
+190420016,Loyalist of the Fallen Kingdom,,
+190420017,Silent Chaser,,
+190420018,Overlord of Transcendence,,
+190420019,Crimson Fiend,,
+190420020,Council of the Balance,,
+190420021,Fighter of the East,,
+190420022,Priest of Darkness,,
+190420023,Frantia’s Star,,
+190420024,Enkia’s Divinity,,
+190420025,Truth-Seeker,,
+190420026,Noble of the Gray City,,
+190430027,Guardian of the Northern Wall,,
+190430028,Violent Sovereign of War,,
+190430029,Magic Corps Commander,,
+190430030,Noble’s Scion,,
+190430031,Illusionist,,
+190430032,Archmage’s Kingsguard,,
+190430033,Immaculate Vestal,,
+190430034,Exalted Arbiter,,
+190450035,The North Star,,
+190450036,Solitary Ascetic,,
+190450037,Arcanist,,
+190450038,Ruler of the Golden Tide,,
+190450039,Herald of the Constellations,,
+190450040,Ruthless Arbiter,,
+190450041,Eternal Festival,,
+190450042,The Grand Ball of the Winter Night,,
+190450043,Magic Corps Regimental Commander,,
+190450045,Order of the Blue Star,,
+190450046,Imperial Guard of the Sun,,
+190450050,Chancellor of the Fellowship,,
+190450051,Banquet of White Snow,,
+190450053,Battle Academy Cadet,,
+190450054,Arcane Archivist,,
+190450055,Scout Regiment Uniform (Basic),,
+190450056,Scout Regiment Uniform (Cloak),,
+190450057,Azure Royal Guard,,
+190450058,Alabaster Ethereal of Wishes,,
+190450059,Future-Weaver Regalia,,
+190450060,Herald of Radiant Triumph,,
+190450061,Reckless Infiltrator,,
+190450062,Veil of Reflections,,
+190450064,Moonlight Stroll,,
+190450065,Maid,,
+190450066,Tidal Chaser,,
+190450067,Song of Azure Sails,,
+190450068,1st Anniversary Costume,,
+190510001,Executor of Radiant Light,,
+190510002,Ruler of the Spirits,,
+190510003,Crimson Reaper,,
+190510004,Apostle of Death,,
+190510005,Dragon Knight of the Tempest,,
+190510006,Destroyer of Chaos,,
+190510007,Abyssal Noble,,
+190510008,Invincible God of War,,
+190520009,Celestial Dragon Knight,,
+190520010,Chaser of Spacetime,,
+190520011,Grand Duke of Steel,,
+190520012,Apostle of Disaster,,
+190520013,Ironblood Executor,,
+190520014,Successor of Authority,,
+190520015,Legion Commander of the Lunar Zenith,,
+190530016,Wayfinder of Spirits,,
+190530017,Reaper of the Eternal Vigil,,
+190530018,Grand Duke of Scarlet,,
+190530019,Supernova,,
+190530020,Dimensional Chaser,,
+190550021,Warmonger,,
+190550022,Legion Commander of Transcendence,,
+190550023,Noble of Chaos,,
+190550024,Vicar of Stars,,
+190550025,Cardinal of Night,,
+190550026,Oracle of Paradise,,
+190550029,Titan Bodysuit,,
+190550030,Guardian Knight of Storm,,
+190550031,Radiant Wayfinder,,
+190550032,Guardian Knight of Blazing Fire,,
+190550033,Noble Wayfinder,,
+190630001,Lord of the Four Seasons,,
+190630002,Divine Majesty of Radiance,,
+190630003,Divine Majesty of Moonlight,,
+190630004,Divine Majesty of the Constellations,,
+190630005,Prophet of Doom,,
+210110999,,,
+220110999,,,
+230110999,,,
+240110999,,,
+250110999,,,
+210110001,{Param} Greatsword,,of the Boundless Wanderer
+210110002,{Param} Greatsword,,of the Forgotten Adventurer
+210110003,{Param} Greatsword,,of the Arrogant Artisan
+210110004,{Param} Greatsword,,of Unyielding Will
+210120005,{Param} Greatsword,,of Cunning Deception
+210120006,{Param} Greatsword,,of Balanced Harmony
+210120007,{Param} Greatsword,,Harvesting Misfortune
+210120008,{Param} Greatsword,,of Scattered Dominance
+210130009,{Param} Greatsword,,Stained by Treachery
+210130010,{Param} Greatsword,,Invoking Sin
+210130011,{Param} Greatsword,,Shining Frost
+220110001,{Param} Staff,,of the Boundless Wanderer
+220110002,{Param} Staff,,of the Forgotten Adventurer
+220110003,{Param} Staff,,of the Arrogant Artisan
+220110004,{Param} Staff,,of Unyielding Will
+220120005,{Param} Staff,,of Cunning Deception
+220120006,{Param} Staff,,of Balanced Harmony
+220120007,{Param} Staff,,Harvesting Misfortune
+220120008,{Param} Staff,,of Scattered Dominance
+220130009,{Param} Staff,,Stained by Treachery
+220130010,{Param} Staff,,Invoking Sin
+220130011,{Param} Staff,,Shining Frost
+230110001,{Param} Orb,,of the Boundless Wanderer
+230110002,{Param} Orb,,of the Forgotten Adventurer
+230110003,{Param} Orb,,of the Arrogant Artisan
+230110004,{Param} Orb,,of Unyielding Will
+230120005,{Param} Orb,,of Cunning Deception
+230120006,{Param} Orb,,of Balanced Harmony
+230120007,{Param} Orb,,Harvesting Misfortune
+230120008,{Param} Orb,,of Scattered Dominance
+230130009,{Param} Orb,,Stained by Treachery
+230130010,{Param} Orb,,Invoking Sin
+230130011,{Param} Orb,,Shining Frost
+240110001,{Param} Dagger,,of the Boundless Wanderer
+240110002,{Param} Dagger,,of the Forgotten Adventurer
+240110003,{Param} Dagger,,of the Arrogant Artisan
+240110004,{Param} Dagger,,of Unyielding Will
+240120005,{Param} Dagger,,of Cunning Deception
+240120006,{Param} Dagger,,of Balanced Harmony
+240120007,{Param} Dagger,,Harvesting Misfortune
+240120008,{Param} Dagger,,of Scattered Dominance
+240130009,{Param} Dagger,,Stained by Treachery
+240130010,{Param} Dagger,,Invoking Sin
+240130011,{Param} Dagger,,Shining Frost
+250110001,{Param} Bow,,of the Boundless Wanderer
+250110002,{Param} Bow,,of the Forgotten Adventurer
+250110003,{Param} Bow,,of the Arrogant Artisan
+250110004,{Param} Bow,,of Unyielding Will
+250120005,{Param} Bow,,of Cunning Deception
+250120006,{Param} Bow,,of Balanced Harmony
+250120007,{Param} Bow,,Harvesting Misfortune
+250120008,{Param} Bow,,of Scattered Dominance
+250130009,{Param} Bow,,Stained by Treachery
+250130010,{Param} Bow,,Invoking Sin
+250130011,{Param} Bow,,Shining Frost
+210210001,{Param} Greatsword,,Whispering Dark
+210210002,{Param} Greatsword,,of the Challenger
+210210003,{Param} Greatsword,,Tempered by War
+210210004,{Param} Greatsword,,of Combat Instincts
+210220005,{Param} Greatsword,,of Tarnished Resolve
+210220006,{Param} Greatsword,,of Encroaching Pain
+210220007,{Param} Greatsword,,of Bond
+210220008,{Param} Greatsword,,of Dark Obsession
+210230009,{Param} Greatsword,,of Surging Torrent
+210230010,{Param} Greatsword,,Blood-stained
+220210001,{Param} Staff,,Whispering Dark
+220210002,{Param} Staff,,of the Challenger
+220210003,{Param} Staff,,Tempered by War
+220210004,{Param} Staff,,of Combat Instincts
+220220005,{Param} Staff,,of Tarnished Resolve
+220220006,{Param} Staff,,of Encroaching Pain
+220220007,{Param} Staff,,of Bond
+220220008,{Param} Staff,,of Dark Obsession
+220230009,{Param} Staff,,of Surging Torrent
+220230010,{Param} Staff,,Blood-stained
+230210001,{Param} Orb,,Whispering Dark
+230210002,{Param} Orb,,of the Challenger
+230210003,{Param} Orb,,Tempered by War
+230210004,{Param} Orb,,of Combat Instincts
+230220005,{Param} Orb,,of Tarnished Resolve
+230220006,{Param} Orb,,of Encroaching Pain
+230220007,{Param} Orb,,of Bond
+230220008,{Param} Orb,,of Dark Obsession
+230230009,{Param} Orb,,of Surging Torrent
+230230010,{Param} Orb,,Blood-stained
+240210001,{Param} Dagger,,Whispering Dark
+240210002,{Param} Dagger,,of the Challenger
+240210003,{Param} Dagger,,Tempered by War
+240210004,{Param} Dagger,,of Combat Instincts
+240220005,{Param} Dagger,,of Tarnished Resolve
+240220006,{Param} Dagger,,of Encroaching Pain
+240220007,{Param} Dagger,,of Bond
+240220008,{Param} Dagger,,of Dark Obsession
+240230009,{Param} Dagger,,of Surging Torrent
+240230010,{Param} Dagger,,Blood-stained
+250210001,{Param} Bow,,Whispering Dark
+250210002,{Param} Bow,,of the Challenger
+250210003,{Param} Bow,,Tempered by War
+250210004,{Param} Bow,,of Combat Instincts
+250220005,{Param} Bow,,of Tarnished Resolve
+250220006,{Param} Bow,,of Encroaching Pain
+250220007,{Param} Bow,,of Bond
+250220008,{Param} Bow,,of Dark Obsession
+250230009,{Param} Bow,,of Surging Torrent
+250230010,{Param} Bow,,Blood-stained
+210310001,{Param} Greatsword,,of Cold Revenge
+210310002,{Param} Greatsword,,Life-Devouring
+210310003,{Param} Greatsword,,Midnight Shadow
+210310004,{Param} Greatsword,,Of the Guardian
+210320005,{Param} Greatsword,,Of the Nameless Dead
+210320006,{Param} Greatsword,,Weaving Illusions
+210320007,{Param} Greatsword,,Voiceless Ghost
+210320008,{Param} Greatsword,,Of the Distorted Rage
+210330009,{Param} Greatsword,,Of the Innocent Penitent
+210330010,{Param} Greatsword,,Of the Howling Monster
+210350011,{Param} Greatsword,,Of Wild Ferocity
+210350012,{Param} Greatsword,,Of the Dancing Wraith
+220310001,{Param} Staff,,of Cold Revenge
+220310002,{Param} Staff,,Life-Devouring
+220310003,{Param} Staff,,Midnight Shadow
+220310004,{Param} Staff,,Of the Guardian
+220320005,{Param} Staff,,Of the Nameless Dead
+220320006,{Param} Staff,,Weaving Illusions
+220320007,{Param} Staff,,Voiceless Ghost
+220320008,{Param} Staff,,Of the Distorted Rage
+220330009,{Param} Staff,,Of the Innocent Penitent
+220330010,{Param} Staff,,Of the Howling Monster
+220350011,{Param} Staff,,Of Wild Ferocity
+220350012,{Param} Staff,,Of the Dancing Wraith
+230310001,{Param} Orb,,of Cold Revenge
+230310002,{Param} Orb,,Life-Devouring
+230310003,{Param} Orb,,Midnight Shadow
+230310004,{Param} Orb,,Of the Guardian
+230320005,{Param} Orb,,Of the Nameless Dead
+230320006,{Param} Orb,,Weaving Illusions
+230320007,{Param} Orb,,Voiceless Ghost
+230320008,{Param} Orb,,Of the Distorted Rage
+230330009,{Param} Orb,,Of the Innocent Penitent
+230330010,{Param} Orb,,Of the Howling Monster
+230350011,{Param} Orb,,Of Wild Ferocity
+230350012,{Param} Orb,,Of the Dancing Wraith
+240310001,{Param} Dagger,,of Cold Revenge
+240310002,{Param} Dagger,,Life-Devouring
+240310003,{Param} Dagger,,Midnight Shadow
+240310004,{Param} Dagger,,Of the Guardian
+240320005,{Param} Dagger,,Of the Nameless Dead
+240320006,{Param} Dagger,,Weaving Illusions
+240320007,{Param} Dagger,,Voiceless Ghost
+240320008,{Param} Dagger,,Of the Distorted Rage
+240330009,{Param} Dagger,,Of the Innocent Penitent
+240330010,{Param} Dagger,,Of the Howling Monster
+240350011,{Param} Dagger,,Of Wild Ferocity
+240350012,{Param} Dagger,,Of the Dancing Wraith
+250310001,{Param} Bow,,of Cold Revenge
+250310002,{Param} Bow,,Life-Devouring
+250310003,{Param} Bow,,Midnight Shadow
+250310004,{Param} Bow,,Of the Guardian
+250320005,{Param} Bow,,Of the Nameless Dead
+250320006,{Param} Bow,,Weaving Illusions
+250320007,{Param} Bow,,Voiceless Ghost
+250320008,{Param} Bow,,Of the Distorted Rage
+250330009,{Param} Bow,,Of the Innocent Penitent
+250330010,{Param} Bow,,Of the Howling Monster
+250350011,{Param} Bow,,Of Wild Ferocity
+250350012,{Param} Bow,,Of the Dancing Wraith
+210410001,{Param} Greatsword,,Of the Cruel Ending
+210410002,{Param} Greatsword,,Of the Hushed Quiver
+210410003,{Param} Greatsword,,Soul-Searing
+210410004,{Param} Greatsword,,Of the Eternal Vengeance
+210420005,{Param} Greatsword,,Of the Wailing Abyss
+210420006,{Param} Greatsword,,Of the Twisted Saint
+210420007,{Param} Greatsword,,Of the Soundless Executioner
+210420008,{Param} Greatsword,,Of the Ruthless Judgment
+210430009,{Param} Greatsword,,Of the Engraved Fear
+210430010,{Param} Greatsword,,Of the Rupturing Heart
+210430011,{Param} Greatsword,,Of the Shattered Mind
+210430012,{Param} Greatsword,,Of the Resonating Madness
+210450013,{Param} Greatsword,,Of the Destined Doom
+210450014,{Param} Greatsword,,Of the Secluded Spirit Sovereign
+210450015,{Param} Greatsword,,Forgotten Glory
+210450016,{Param} Greatsword,,Swallowed Verdure
+210450017,{Param} Greatsword,,Attack
+220410001,{Param} Staff,,Of the Cruel Ending
+220410002,{Param} Staff,,Of the Hushed Quiver
+220410003,{Param} Staff,,Soul-Searing
+220410004,{Param} Staff,,Of the Eternal Vengeance
+220420005,{Param} Staff,,Of the Wailing Abyss
+220420006,{Param} Staff,,Of the Twisted Saint
+220420007,{Param} Staff,,Of the Soundless Executioner
+220420008,{Param} Staff,,Of the Ruthless Judgment
+220430009,{Param} Staff,,Of the Engraved Fear
+220430010,{Param} Staff,,Of the Rupturing Heart
+220430011,{Param} Staff,,Of the Shattered Mind
+220430012,{Param} Staff,,Of the Resonating Madness
+220450013,{Param} Staff,,Of the Destined Doom
+220450014,{Param} Staff,,Of the Secluded Spirit Sovereign
+220450015,{Param} Staff,,Forgotten Glory
+220450016,{Param} Staff,,Swallowed Verdure
+220450017,{Param} Staff,,Attack
+230410001,{Param} Orb,,Of the Cruel Ending
+230410002,{Param} Orb,,Of the Hushed Quiver
+230410003,{Param} Orb,,Soul-Searing
+230410004,{Param} Orb,,Of the Eternal Vengeance
+230420005,{Param} Orb,,Of the Wailing Abyss
+230420006,{Param} Orb,,Of the Twisted Saint
+230420007,{Param} Orb,,Of the Soundless Executioner
+230420008,{Param} Orb,,Of the Ruthless Judgment
+230430009,{Param} Orb,,Of the Engraved Fear
+230430010,{Param} Orb,,Of the Rupturing Heart
+230430011,{Param} Orb,,Of the Shattered Mind
+230430012,{Param} Orb,,Of the Resonating Madness
+230450013,{Param} Orb,,Of the Destined Doom
+230450014,{Param} Orb,,Of the Secluded Spirit Sovereign
+230450015,{Param} Orb,,Forgotten Glory
+230450016,{Param} Orb,,Swallowed Verdure
+230450017,{Param} Orb,,Attack
+240410001,{Param} Dagger,,Of the Cruel Ending
+240410002,{Param} Dagger,,Of the Hushed Quiver
+240410003,{Param} Dagger,,Soul-Searing
+240410004,{Param} Dagger,,Of the Eternal Vengeance
+240420005,{Param} Dagger,,Of the Wailing Abyss
+240420006,{Param} Dagger,,Of the Twisted Saint
+240420007,{Param} Dagger,,Of the Soundless Executioner
+240420008,{Param} Dagger,,Of the Ruthless Judgment
+240430009,{Param} Dagger,,Of the Engraved Fear
+240430010,{Param} Dagger,,Of the Rupturing Heart
+240430011,{Param} Dagger,,Of the Shattered Mind
+240430012,{Param} Dagger,,Of the Resonating Madness
+240450013,{Param} Dagger,,Of the Destined Doom
+240450014,{Param} Dagger,,Of the Secluded Spirit Sovereign
+240450015,{Param} Dagger,,Forgotten Glory
+240450016,{Param} Dagger,,Swallowed Verdure
+240450017,{Param} Dagger,,Attack
+250410001,{Param} Bow,,Of the Cruel Ending
+250410002,{Param} Bow,,Of the Hushed Quiver
+250410003,{Param} Bow,,Soul-Searing
+250410004,{Param} Bow,,Of the Eternal Vengeance
+250420005,{Param} Bow,,Of the Wailing Abyss
+250420006,{Param} Bow,,Of the Twisted Saint
+250420007,{Param} Bow,,Of the Soundless Executioner
+250420008,{Param} Bow,,Of the Ruthless Judgment
+250430009,{Param} Bow,,Of the Engraved Fear
+250430010,{Param} Bow,,Of the Rupturing Heart
+250430011,{Param} Bow,,Of the Shattered Mind
+250430012,{Param} Bow,,Of the Resonating Madness
+250450013,{Param} Bow,,Of the Destined Doom
+250450014,{Param} Bow,,Of the Secluded Spirit Sovereign
+250450015,{Param} Bow,,Forgotten Glory
+250450016,{Param} Bow,,Swallowed Verdure
+250450017,{Param} Bow,,Attack
+210510001,Greatsword of the Returned Hero,,
+210510002,Conqueror of the Rift,,
+210510003,Stormbringer,,
+210510004,Berserker’s Demise,,
+210520005,The Last Justiciar,,
+210520006,Chronicle of Radiant Triumph,,
+210530007,The Steel Overlord,,
+210530008,Liberator of Fate,,
+210550009,Eternal Ruler,,
+210550010,The War-Ender,,
+210550011,Night-Walking Wanderer,,
+210550012,Punishment of Tempest,,
+210550013,{Param} Greatsword,,Golden Ring’s
+210550014,{Param} Greatsword,,Celestial Ring's
+220510001,Staff of Blessed Authority,,
+220510002,Staff of Divine Seal,,
+220510003,Thunder Rod,,
+220510004,Miraculous Resonance,,
+220520005,Covenant of Radiance,,
+220520006,Hymn of Salvation,,
+220530007,Lantern of Radiant Glory,,
+220530008,Authority of the Fallen Noble,,
+220550009,Reaper of the Underworld,,
+220550010,Hilt of the Forgotten Prophet,,
+220550011,Bound Consciousness,,
+220550012,Frozen Tuner,,
+220550013,{Param} Staff,,Golden Ring’s
+220550014,{Param} Staff,,Celestial Ring's
+230510001,Void Fragment,,
+230510002,Box of Distorted Time,,
+230510003,Illusion of the Blind,,
+230510004,Abyssal Watcher,,
+230520005,Advent of the Celestial,,
+230520006,Descent of the Ancient One,,
+230530007,Lantern of Nightmares,,
+230530008,Dream of Paradise,,
+230550009,Nexus of Dimensions,,
+230550010,Flawless Perfection,,
+230550011,Light of the Embodier,,
+230550012,Flail of Blasphemy,,
+230550013,{Param} Orb,,Golden Ring’s
+230550014,{Param} Orb,,Celestial Ring's
+240510001,Eternal Thirst for Blood,,
+240510002,Rainbow of the Underworld,,
+240510003,Time-Severing Blade,,
+240510004,Eternal Stigma,,
+240520005,Doom-Crier,,
+240520006,Eternal Challenger,,
+240530007,Beacon of Hell,,
+240530008,Reaper’s Invitation,,
+240550009,Returnee of the Four Seasons,,
+240550010,Fangs of the Vile Dragon,,
+240550011,Dagger of Blindness,,
+240550012,The Cold-Eyed Penitent,,
+240550013,{Param} Dagger,,Golden Ring’s
+240550014,{Param} Dagger,,Celestial Ring's
+250510001,Thunder Spike,,
+250510002,Meteor Fall,,
+250510003,Bow of the Heavens,,
+250510004,The Annihilator,,
+250520005,Dragon Slayer,,
+250520006,Mark of the Netherworld,,
+250530007,Threshold of Existence,,
+250530008,Celestial Arc,,
+250550009,Chaotic Orbit,,
+250550010,Reincarnation of the Beast King,,
+250550011,Devourer of Sins,,
+250550012,Piercing Whispers,,
+250550013,{Param} Bow,,Golden Ring’s
+250550014,{Param} Bow,,Celestial Ring's
+210630001,Nameless Holy Blade,,
+210630002,World Destroyer,,
+210630003,{Param} Greatsword,,Star-Infused
+220630001,The Deicide,,
+220630002,Celestial Legacy,,
+220630003,{Param} Staff,,Star-Infused
+230630001,Heart of the Archfiend,,
+230630002,Legacy of the Golden Dragon,,
+230630003,{Param} Orb,,Star-Infused
+240630001,Shackles of Immortality,,
+240630002,Hands of the Absolute,,
+240630003,{Param} Dagger,,Star-Infused
+250630001,Prelude to the Apocalypse,,
+250630002,Infinite Boundary,,
+250630003,{Param} Bow,,Star-Infused
+190100001,,,
+190100002,,,
+190100003,,,
+190100004,,,
+190100005,,,
+190100006,,,
+190100007,,,
+190100008,,,
+190100009,,,
+190100010,,,
+190100011,,,
+190100012,,,
+190100013,,,
+190100014,,,
+190100015,,,
+190100016,,,
+190100017,,,
+190100018,,,
+190100019,,,
+190100020,,,
+190100021,,,
+190100022,,,
+190100023,,,
+190100024,,,
+190100025,,,
+190100026,,,
+190100027,,,
+190100028,,,
+190100029,,,
+190100030,,,
+190100031,,,
+190100032,,,
+190100033,,,
+190100034,,,
+190100035,,,
+190100036,,,
+190100037,,,
+190100038,,,
+190100039,,,
+190100040,,,
+190100041,,,
+190100042,,,
+190100043,,,
+190100044,,,
+190100045,,,
+190100046,,,
+190100047,,,
+190100048,,,
+190100049,,,
+190100050,,,
+410110001,Eyepatch of Insight,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410110002,Eyepatch of Silence,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410110003,Monk's Eyepatch,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410110004,Glasses of Knowledge,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410110005,Apprentice's Glasses,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410110006,Gilded Glasses,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410110007,Feral Ears,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410110008,Blue Star Mask,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410110009,Mask of Serenity,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410110010,Mask of Tranquility,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410210001,Glasses of Wisdom,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410210002,Mentor's Glasses,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410210003,Monocle of Enlightenment,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410210004,Skyrunner Goggles,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410210005,Twilight Goggles,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410210006,Nouveau Riche Sunglasses,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410210007,Sunglasses of Avarice,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410210008,Engineer's Mask,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410210009,Firekeeper's Goggles,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410210010,Mouthy Meow,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410310001,Batwing Headpiece,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410310002,Sweet & Sour Headpiece,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410310003,Popcorn Headpiece,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410310004,Cat's Eye,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410310005,Sleepy Cat Eyepatch,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410310006,Heart Sunglasses,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410310007,Alien Sunglasses,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410310008,Doomsday Gas Mask,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410310009,Tyrant's Crown of Thorns,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410310010,Bubblegum,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410410001,Destroyer's Guard,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410410002,Enchanting Ears,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410410003,Saintly Ears,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410410004,Pink Meow Headset,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410410005,Neon Meow Headset,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410410006,Romantic Eyes,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410410007,Lovely Eyes,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410410008,Rose Eyes,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410410009,Angelic Halo,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",
+410410010,Treasurekeeper's Golden Horns,"Altera a aparência do personagem quando equipado.
+※ As estatísticas são concedidas com base no número de decorações possuídas por classificação por estrela. Equipá-los não proporciona efeitos adicionais.",

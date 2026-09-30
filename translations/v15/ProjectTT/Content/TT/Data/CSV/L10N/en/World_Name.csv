@@ -1,0 +1,148 @@
+﻿Id,Name,Param
+1,Title,
+2,Select Character,
+101,Test Map 00,
+102,Test Map_Quest,
+103,TestOpenWorldMap_Teleport,
+104,TestOpenWorldMap_Teleport_SmallVersion,
+105,TestOpenWorldMap_Main Road_Pathfinding,
+106,Effect Test Map,
+107,Monster Test Map,
+108,Treasure Chest Challenge Test Map,
+109,Footstep Sound Test Map,
+110,Sound Test Map,
+111,Test Map 01,
+112,Auto-Battle Test Map,
+113,Boss Monster Test Map,
+114,Environment Monster Test Map,
+115,Auto-Battle Logic Test Map,
+116,Combat Test Map at Disconnected Navigation,
+117,Combat Test Map at Disconnected Navigation (Check Collision),
+121,Test Map 02,
+131,Test Map 03,
+141,Test Map 04,
+151,Test Map 05,
+161,Test Map 06,
+171,Test Map 07,
+181,Test Map 08,
+191,Test Map 09,
+201,Movement Test Map,
+202,Landscape Test Map,
+203,NPC Special Movement Test Map,
+1000,Abandoned Land,
+2000,Forsaken Land: Otherworld,
+3000,Forsaken Land - Replica Seed,
+119,Replica Seed Test,
+10011,Labyrinth,
+10022,Giant's Tower 1F - Quest World,
+10031,Giant's Tower Control Room,
+10033,Giant's Tower Incubation Chamber,
+10051,Abyss Battlefield,
+1100,Test Quest Field,
+1111,Test Single Dungeon,
+1112,Test Party Dungeon,
+9999,Monolith War Test Field,
+1151,Arbiter’s Ordeal,
+1152,Arbiter’s Ordeal,
+1153,Arbiter’s Ordeal,
+1154,Arbiter’s Ordeal,
+201011,Ancient Ruins,
+201021,Deepwood Citadel,
+201031,Forgotten Ruins,
+201041,Abyssal Pit,
+201051,Glacial Skyhold,
+201061,Risen Ruins,
+201071,Unclaimed Woods,
+201081,Azure Threads,
+202011,Desolate Citadel,
+202012,Desolate Citadel,
+202021,Rock Chasm Fortress,
+202031,Ashen Crow Island,
+203011,Trial Gates,
+203021,Trial Gates,
+213011,???,
+213021,???,
+213111,Golden Trial Gates,
+204011,Desolate Citadel,
+204012,Desolate Citadel,
+204013,Desolate Citadel,
+204014,Desolate Citadel,
+301001,Blue Demon Ruins,
+301002,Blue Demon Ruins,
+301003,Blue Demon Ruins,
+301004,Blue Demon Ruins,
+302001,Abyss Hunter's Swamp,
+302002,Abyss Hunter's Swamp,
+302003,Abyss Hunter's Swamp,
+302004,Abyss Hunter's Swamp,
+303001,Grave of Dead Roots,
+303002,Grave of Dead Roots,
+303003,Grave of Dead Roots,
+303004,Grave of Dead Roots,
+304001,Party Dungeon 4,
+301101,Blue Demon Ruins,
+301102,Blue Demon Ruins,
+301103,Blue Demon Ruins,
+301104,Blue Demon Ruins,
+302101,Abyss Hunter's Swamp,
+302102,Abyss Hunter's Swamp,
+302103,Abyss Hunter's Swamp,
+302104,Abyss Hunter's Swamp,
+303101,Grave of Dead Roots,
+303102,Grave of Dead Roots,
+303103,Grave of Dead Roots,
+303104,Grave of Dead Roots,
+311001,Blue Demon's Ruins (Event),
+311002,Blue Demon's Ruins (Event),
+311003,Blue Demon's Ruins (Event),
+401001,Infinite Spire,
+402001,Hall of Proof,
+501001,Courtyard of the Binder,
+501101,Citadel of the Giant Beast,
+3001,Giant's Tower {Param},Floor 1
+3002,Giant's Tower {Param},Floor 2
+3003,Giant's Tower {Param},Floor 3
+3004,Giant's Tower {Param},Floor 4
+3005,Giant's Tower {Param},5th Floor
+3501,Giant's Tower {Param},World Guardian
+4001,Giant's Tower {Param} Lobby,Floor 1
+4002,Giant's Tower {Param} Lobby,Floor 2
+4003,Giant's Tower {Param} Lobby,Floor 3
+4004,Giant's Tower {Param} Lobby,Floor 4
+3333,Giant's Tower Test,
+10000,Test Field,
+81101,Angbar Arena {Param},I
+81102,Angbar Arena {Param},II
+81103,Angbar Arena {Param},III
+81104,Angbar Arena {Param},Ⅳ
+5002,Abyss Battlefield 1F,
+5003,Abyss Battlefield 2F,
+600101,Barrier of Enhancement {Param},Level 1
+600102,Barrier of Enhancement {Param},Level 2
+600103,Barrier of Enhancement {Param},Level 3
+600104,Barrier of Enhancement {Param},Level 4
+600105,Barrier of Enhancement {Param},Level 5
+600106,Barrier of Enhancement {Param},Level 6
+600107,Barrier of Enhancement {Param},Level 7  
+600108,Barrier of Enhancement {Param},Level 8
+600201,Barrier of Gold {Param},Level 1
+600202,Barrier of Gold {Param},Level 2
+600203,Barrier of Gold {Param},Level 3
+600204,Barrier of Gold {Param},Level 4
+600205,Barrier of Gold {Param},Level 5
+600206,Barrier of Gold {Param},Level 6
+600207,Barrier of Gold {Param},Level 7  
+600208,Barrier of Gold {Param},Level 8
+700101,Barrier of the Unknown {Param},Level 1
+700102,Barrier of the Unknown {Param},Level 2
+700103,Barrier of the Unknown {Param},Level 3
+700104,Barrier of the Unknown {Param},Level 4
+700105,Barrier of the Unknown {Param},Level 5
+700106,Barrier of the Unknown {Param},Level 6
+700107,Barrier of the Unknown {Param},Level 7  
+700108,Barrier of the Unknown {Param},Level 8
+800001,Title,
+7001,Skywing Canyon,
+6001,{Param} Ancient Ruins,Giant's Garden
+6002,{Param} Ancient Ruins,Pulsing Ridge
+6003,{Param} Ancient Ruins,Starfall Plateau

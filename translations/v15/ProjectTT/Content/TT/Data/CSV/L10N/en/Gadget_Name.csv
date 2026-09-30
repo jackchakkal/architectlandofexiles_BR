@@ -1,0 +1,1699 @@
+﻿Id,Name
+1,
+2,
+3,
+4,
+5,
+6,Dispositivo de console de movimento
+7,Dispositivo de console de rotação
+8,
+9,
+101,Codex Observatório
+102,Codex Transmissor
+103,Codex Trial Gate
+104,Codex Treasure Chest
+105,Codex Giant’s Remnants
+111,Teste de direção de câmera de gadget 1
+112,Teste de direção de câmera de gadget 2
+113,Teste de direção de câmera de gadget 3
+1010,Ruin Golem quebrado
+1020,Erva com Especial Aura
+1030,Traço de Lefi
+1040,Fruta Baobá
+1050,Dispositivo bizarro
+1060,Dispositivo bizarro
+1070,Naru Dispositivo Secreto da Tribo
+10001,
+10011,
+10012,
+10013,
+10014,
+10111,
+10112,
+10113,
+10114,
+10121,
+10122,
+10123,
+10124,
+10131,
+10132,
+10133,
+10134,
+10091,Fragmento desconhecido
+10092,Fragmento desconhecido
+10093,Fragmento desconhecido
+10191,Fragmento desconhecido
+10192,Fragmento desconhecido
+10193,Fragmento desconhecido
+10291,Fragmento desconhecido
+10292,Fragmento desconhecido
+10293,Fragmento desconhecido
+10391,Fragmento desconhecido
+10392,Fragmento desconhecido
+10393,Fragmento desconhecido
+11091,Fragmento desconhecido
+11092,Fragmento desconhecido
+11093,Fragmento desconhecido
+11191,Fragmento desconhecido
+11192,Fragmento desconhecido
+11193,Fragmento desconhecido
+11291,Fragmento desconhecido
+11292,Fragmento desconhecido
+11293,Fragmento desconhecido
+11391,Fragmento desconhecido
+11392,Fragmento desconhecido
+11393,Fragmento desconhecido
+12091,Fragmento de Sombra
+12191,Fragmento de Sombra
+12291,Fragmento de Sombra
+12391,Fragmento de Sombra
+10015,Giant's Remnant - Dialogue
+10016,Remanescente de Giant - Texto de fundo da dica de ferramenta
+10017,Remanescente de Giant - Texto de fundo em tela cheia
+10018,
+10019,
+10024,Direção de câmera de nível
+10025,Teste de direção de câmera de gadget_Stand
+10026,Teste de direção de câmera de gadget_Sit
+10103,SKM Gadget
+10104,STM Gadget
+10101,Teste de Gadget Buff
+20000,Teste de Teleporte
+21041,Teste de Teleporte
+21042,Teste de Teleporte
+21043,Teste de Teleporte
+21044,Teste de Teleporte
+21045,Teste de Teleporte
+21046,Teste de Teleporte
+30000,Teste de Cartão Buff
+40000,Fragmento de Paradoxo de nível 1
+1000001,
+1000103,Tesouro do Ethereal Sanctum
+1000104,Saída do Ethereal Sanctum
+1000105,
+1000106,
+1000107,
+1000109,
+1000110,
+1000111,Updraft
+1010001,Maior Warp Anchor
+1010002,Maior Warp Anchor
+1010003,Maior Warp Anchor
+1010004,Âncora de urdidura menor
+1010005,Âncora de urdidura menor
+1010006,Âncora de urdidura menor
+1010007,Âncora de urdidura menor
+1010008,Âncora de urdidura menor
+1010009,Âncora de urdidura menor
+1010010,Âncora de urdidura menor
+1010011,Âncora de urdidura menor
+1010012,Âncora de urdidura menor
+1010013,Âncora de urdidura menor
+1010101,Entrance do Ethereal Sanctum
+1010102,Treasure Chest
+1010103,Special Treasure Chest
+1010105,Entrance do Ethereal Sanctum
+1010106,Treasure Chest
+1010107,Special Treasure Chest
+1010201,Observatório Scything Barrens
+1010202,Observatório Scything Barrens
+1010111,Estranha Ruína Antiga
+1010112,
+1010113,
+1010114,
+1010115,
+1010116,
+1010117,
+1010118,Portal Warp
+1010119,Fragmento Dimensional
+1010120,Dispositivo de console de movimento
+1010121,Dispositivo de console de rotação
+1010122,Redefinir dispositivo
+1010123,
+1010124,
+1010125,Dispositivo de console de rotação
+1010126,
+1010127,Airflow Device
+1010128,
+1010129,Fragmento Dimensional
+1010130,
+1010131,
+1010132,
+1010133,
+1010134,Dispositivo Suspeito
+1010401,Giant's Remnants
+1010402,Giant's Remnants
+1010403,Giant's Remnants
+1010404,Giant's Remnants
+1010601,Vending Machine
+1010602,Giant’s Vending Machine
+1010603,Vending Machine
+1010604,Aburu Vending Machine
+1020001,Maior Warp Anchor
+1020002,Maior Warp Anchor
+1020003,Maior Warp Anchor
+1020004,Urdidura Âncora Monólito
+1020005,Âncora de urdidura menor
+1020006,Âncora de urdidura menor
+1020007,Âncora de urdidura menor
+1020008,Âncora de urdidura menor
+1020009,Âncora de urdidura menor
+1020010,Âncora de urdidura menor
+1020011,Âncora de urdidura menor
+1020012,Âncora de urdidura menor
+1020013,Âncora de urdidura menor
+1020014,Âncora de urdidura menor
+1020101,Entrance do Ethereal Sanctum
+1020102,Treasure Chest
+1020103,Special Treasure Chest
+1020105,Entrance do Ethereal Sanctum
+1020106,Treasure Chest
+1020107,Special Treasure Chest
+1080101,Treasure Chest
+1020201,Observatório de jardim de Giant
+1020202,Observatório de jardim de Giant
+1020401,Giant's Remnants
+1020402,Giant's Remnants
+1020403,Giant's Remnants
+1020404,Giant's Remnants
+1020111,Estranha Ruína Antiga
+1020112,
+1020113,
+1020114,
+1020115,
+1020116,
+1020117,
+1020118,Portal Warp
+1020119,Fragmento Dimensional
+1020120,Dispositivo de console de movimento
+1020121,Dispositivo de console de rotação
+1020122,Redefinir dispositivo
+1020123,
+1020124,
+1020125,Dispositivo de console de rotação
+1020126,
+1020127,Airflow Device
+1020128,
+1020129,Fragmento Dimensional
+1020130,
+1020131,
+1020132,
+1020133,
+1020134,Dispositivo Suspeito
+3000101,The Vitalizing Sanctum
+3000102,The Vitalizing Sanctum
+3000103,The Vitalizing Sanctum
+3000104,The Vitalizing Sanctum
+3000105,The Vitalizing Sanctum
+3000106,The Vitalizing Sanctum
+3000107,The Vitalizing Sanctum
+3000108,The Vitalizing Sanctum
+3000109,The Vitalizing Sanctum
+3000110,The Vitalizing Sanctum
+3000111,The Vitalizing Sanctum
+3000112,The Vitalizing Sanctum
+3000113,The Vitalizing Sanctum
+3000114,The Vitalizing Sanctum
+3000115,The Vitalizing Sanctum
+3000116,The Vitalizing Sanctum
+3000117,The Vitalizing Sanctum
+3000118,The Vitalizing Sanctum
+3000119,The Vitalizing Sanctum
+3000120,The Vitalizing Sanctum
+3000201,The Vitalizing Sanctum
+3000202,The Vitalizing Sanctum
+3000203,The Vitalizing Sanctum
+3000204,The Vitalizing Sanctum
+3000205,The Vitalizing Sanctum
+3000206,The Vitalizing Sanctum
+3000207,The Vitalizing Sanctum
+3000208,The Vitalizing Sanctum
+3000209,The Vitalizing Sanctum
+3000210,The Vitalizing Sanctum
+3000211,The Vitalizing Sanctum
+3000212,The Vitalizing Sanctum
+3000213,The Vitalizing Sanctum
+3000214,The Vitalizing Sanctum
+3000215,The Vitalizing Sanctum
+3000216,The Vitalizing Sanctum
+3000217,The Vitalizing Sanctum
+3000301,The Vitalizing Sanctum
+3000302,The Vitalizing Sanctum
+3000303,The Vitalizing Sanctum
+3000304,The Vitalizing Sanctum
+3000305,The Vitalizing Sanctum
+3000306,The Vitalizing Sanctum
+3000307,The Vitalizing Sanctum
+3000308,The Vitalizing Sanctum
+3000309,The Vitalizing Sanctum
+3000310,The Vitalizing Sanctum
+3000311,The Vitalizing Sanctum
+3000312,The Vitalizing Sanctum
+3000313,The Vitalizing Sanctum
+3000314,The Vitalizing Sanctum
+3000315,The Vitalizing Sanctum
+3000316,The Vitalizing Sanctum
+3000317,The Vitalizing Sanctum
+3000318,The Vitalizing Sanctum
+3000401,The Vitalizing Sanctum
+3000402,The Vitalizing Sanctum
+3000403,The Vitalizing Sanctum
+3000404,The Vitalizing Sanctum
+3000405,The Vitalizing Sanctum
+3000406,The Vitalizing Sanctum
+3000407,The Vitalizing Sanctum
+3000408,The Vitalizing Sanctum
+3000409,The Vitalizing Sanctum
+3000410,The Vitalizing Sanctum
+3000411,The Vitalizing Sanctum
+3000412,The Vitalizing Sanctum
+3000413,The Vitalizing Sanctum
+3000414,The Vitalizing Sanctum
+3000415,The Vitalizing Sanctum
+3000416,The Vitalizing Sanctum
+3000417,The Vitalizing Sanctum
+3000418,The Vitalizing Sanctum
+3000501,The Vitalizing Sanctum
+3000502,The Vitalizing Sanctum
+3000503,The Vitalizing Sanctum
+3000504,The Vitalizing Sanctum
+3000505,The Vitalizing Sanctum
+3000506,The Vitalizing Sanctum
+3000507,The Vitalizing Sanctum
+3000508,The Vitalizing Sanctum
+3000509,The Vitalizing Sanctum
+3000510,The Vitalizing Sanctum
+3000511,The Vitalizing Sanctum
+3000512,The Vitalizing Sanctum
+3000513,The Vitalizing Sanctum
+3000514,The Vitalizing Sanctum
+3000515,The Vitalizing Sanctum
+3000516,The Vitalizing Sanctum
+3000517,The Vitalizing Sanctum
+3000518,The Vitalizing Sanctum
+3000519,The Vitalizing Sanctum
+3000520,The Vitalizing Sanctum
+3000521,The Vitalizing Sanctum
+3000522,The Vitalizing Sanctum
+3000523,The Vitalizing Sanctum
+3000524,The Vitalizing Sanctum
+3000525,The Vitalizing Sanctum
+3010211,Monólito de jardim de Giant
+3010212,Pulsing Ridge Monólito
+3010213,Starfall Plateau Monólito
+3010202,Árvore da Linha Ley
+3010203,Airflow Device
+3010204,Dispositivo de Propulsão
+3010205,Portal Warp
+3010206,Portal Warp
+1030001,Maior Warp Anchor
+1030002,Maior Warp Anchor
+1030003,Maior Warp Anchor
+1030004,Âncora de urdidura menor
+1030005,Âncora de urdidura menor
+1030006,Urdidura Âncora Monólito
+1030007,Âncora de urdidura menor
+1030008,Âncora de urdidura menor
+1030009,Âncora de urdidura menor
+1030010,Âncora de urdidura menor
+1030011,Âncora de urdidura menor
+1030012,Âncora de urdidura menor
+1030101,Entrance do Ethereal Sanctum
+1030102,Treasure Chest
+1030103,Special Treasure Chest
+1030105,Entrance do Ethereal Sanctum
+1030106,Treasure Chest
+1030107,Special Treasure Chest
+1030201,Pulsing Ridge Observatório
+1030202,Pulsing Ridge Observatório
+1030401,Giant's Remnants
+1030402,Giant's Remnants
+1030403,Giant's Remnants
+1030404,Giant's Remnants
+1030111,Estranha Ruína Antiga
+1030112,
+1030113,
+1030114,
+1030115,
+1030116,
+1030117,
+1030118,Portal Warp
+1030119,Fragmento Dimensional
+1030120,Dispositivo de console de movimento
+1030121,Dispositivo de console de rotação
+1030122,Redefinir dispositivo
+1030123,
+1030124,
+1030125,Dispositivo de console de rotação
+1030126,
+1030127,Airflow Device
+1030128,
+1030129,Fragmento Dimensional
+1030130,
+1030131,
+1030132,
+1030133,
+1030134,Dispositivo Suspeito
+1040001,Maior Warp Anchor
+1040002,Maior Warp Anchor
+1040003,Maior Warp Anchor
+1040004,Âncora de urdidura menor
+1040005,Âncora de urdidura menor
+1040006,Âncora de urdidura menor
+1040007,Âncora de urdidura menor
+1040008,Âncora de urdidura menor
+1040009,Urdidura Âncora Monólito
+1040010,Âncora de urdidura menor
+1040011,Âncora de urdidura menor
+1040012,Âncora de urdidura menor
+1040013,Âncora de urdidura menor
+1040014,Âncora de urdidura menor
+1040101,Entrance do Ethereal Sanctum
+1040102,Treasure Chest
+1040103,Special Treasure Chest
+1040105,Entrance do Ethereal Sanctum
+1040106,Treasure Chest
+1040201,Starfall Plateau Observatório
+1040202,Starfall Plateau Observatório
+1040401,Giant's Remnants
+1040402,Giant's Remnants
+1040403,Giant's Remnants
+1040404,Giant's Remnants
+1040111,Estranha Ruína Antiga
+1040112,
+1040113,
+1040114,
+1040115,
+1040116,
+1040117,
+1040118,Portal Warp
+1040119,Fragmento Dimensional
+1040120,Dispositivo de console de movimento
+1040121,Dispositivo de console de rotação
+1040122,Redefinir dispositivo
+1040123,
+1040124,
+1040125,Dispositivo de console de rotação
+1040126,
+1040127,Airflow Device
+1040128,
+1040129,Fragmento Dimensional
+1040130,
+1040131,
+1040132,
+1040133,
+1040134,Dispositivo Suspeito
+1050001,Maior Warp Anchor
+1050002,Maior Warp Anchor
+1050003,Maior Warp Anchor
+1050004,Âncora de urdidura menor
+1050005,Âncora de urdidura menor
+1050006,Âncora de urdidura menor
+1050007,Âncora de urdidura menor
+1050008,Âncora de urdidura menor
+1050009,Âncora de urdidura menor
+1050010,Âncora de urdidura menor
+1050011,Âncora de urdidura menor
+1050101,Entrance do Ethereal Sanctum
+1050102,Treasure Chest
+1050103,Special Treasure Chest
+1050105,Entrance do Ethereal Sanctum
+1050106,Treasure Chest
+1050107,Special Treasure Chest
+1050201,Twisted Elysium Observatório
+1050202,Twisted Elysium Observatório
+1050401,Giant's Remnants
+1050402,Giant's Remnants
+1050403,Giant's Remnants
+1050404,Giant's Remnants
+1050111,Estranha Ruína Antiga
+1050112,
+1050113,
+1050114,
+1050115,
+1050116,
+1050117,
+1050118,Portal Warp
+1050119,Fragmento Dimensional
+1050120,Dispositivo de console de movimento
+1050121,Dispositivo de console de rotação
+1050122,Redefinir dispositivo
+1050123,
+1050124,
+1050125,Dispositivo de console de rotação
+1050126,
+1050127,Airflow Device
+1050128,
+1050129,Fragmento Dimensional
+1050130,
+1050131,
+1050132,
+1050133,
+1050134,Dispositivo Suspeito
+4000001,Tesouro de Atrahasis
+4000002,Saída
+4000003,
+4000004,
+4000011,Bênção do arquiteto
+4000012,Bênção do arquiteto
+4000013,Bênção do arquiteto
+4000014,Bênção do arquiteto
+4000015,Bênção do arquiteto
+4000021,Bênção do arquiteto
+4000022,Bênção do arquiteto
+4000023,Bênção do arquiteto
+4000024,Bênção do arquiteto
+4001011,Bênção do arquiteto
+4001012,Bênção do arquiteto
+4001013,Bênção do arquiteto
+4001014,Bênção do arquiteto
+4001015,Bênção do arquiteto
+4001021,Bênção do arquiteto
+4001022,Bênção do arquiteto
+4001023,Bênção do arquiteto
+4001024,Bênção do arquiteto
+4000101,Dispositivo de Acionamento de Armadilha
+4000121,
+4000130,
+4000131,
+4000132,
+4000133,
+4000134,
+4000201,
+4000202,
+4000203,
+4000204,
+4000205,Aventureiro encalhado
+4000206,HP Recovery Orb
+4000207,Baú Suspeito
+4000208,
+4000209,
+4000211,Movement Speed Increase
+4000212,Damage Increase
+4000213,Attack Speed Increase
+4000214,Alvos de Ataque Básico Aumentam
+4000215,Redução do tempo de espera Skill
+4000216,Critical Hit Chance Increase
+4000230,
+4000231,
+4000232,
+4000233,
+4000234,
+4000250,
+4000251,
+4000252,Bênção do arquiteto
+4000253,Bênção do arquiteto
+4000301,
+4000302,
+4000303,
+4000304,
+4010101,Scything Barrens Trial Gate
+4010102,
+4010103,
+4010201,Trial Gate de jardim de Giant
+4010210,Dispositivo Antigo Suspeito
+4010211,
+4010212,Airflow Device
+4010301,Pulsing Ridge Trial Gate
+4010401,Starfall Plateau Trial Gate
+4010501,Twisted Elysium Trial Gate
+4010502,Twisted Elysium Trial Gate
+4020101,???
+4020201,Halo Rift
+4030101,Tesouro de Arbiter's Ordeal
+4030102,Tesouro da Arbiter's Ordeal
+4030103,Tesouro da Arbiter's Ordeal
+4030104,Tesouro da Arbiter's Ordeal
+4030105,Tesouro da Arbiter's Ordeal
+4030106,Tesouro da Arbiter's Ordeal
+4030201,Tesouro da Arbiter's Ordeal
+4030202,Tesouro da Arbiter's Ordeal
+4030203,Tesouro da Arbiter's Ordeal
+4030204,Tesouro da Arbiter's Ordeal
+4030205,Tesouro da Arbiter's Ordeal
+4030206,Tesouro da Arbiter's Ordeal
+4030301,Tesouro da Arbiter's Ordeal
+4030302,Tesouro da Arbiter's Ordeal
+4030303,Tesouro da Arbiter's Ordeal
+4030304,Tesouro da Arbiter's Ordeal
+4030305,Tesouro da Arbiter's Ordeal
+4030306,Tesouro da Arbiter's Ordeal
+4030401,Tesouro da Arbiter's Ordeal
+4030402,Tesouro da Arbiter's Ordeal
+4030403,Tesouro da Arbiter's Ordeal
+4030404,Tesouro da Arbiter's Ordeal
+4030405,Tesouro da Arbiter's Ordeal
+4030406,Tesouro da Arbiter's Ordeal
+4040101,Saída de Arbiter's Ordeal
+4050001,
+4050002,
+4050011,Movement Speed Increase
+4050012,Attack Speed Increase
+4050013,Redução do tempo de espera Skill
+4050014,Damage Increase
+4060001,Âncora de urdidura menor
+4060002,Âncora de urdidura menor
+4060003,Âncora de urdidura menor
+4060004,Âncora de urdidura menor
+4060005,Âncora de urdidura menor
+4060006,Âncora de urdidura menor
+4060007,Âncora de urdidura menor
+4060008,Âncora de urdidura menor
+4060009,Âncora de urdidura menor
+4060010,Âncora de urdidura menor
+4060011,Âncora de urdidura menor
+4060012,Âncora de urdidura menor
+4060013,Âncora de urdidura menor
+4060014,Âncora de urdidura menor
+4060015,Âncora de urdidura menor
+4060016,Âncora de urdidura menor
+4060017,Âncora de urdidura menor
+4060018,Âncora de urdidura menor
+4060019,Âncora de urdidura menor
+4060020,Âncora de urdidura menor
+4060021,Âncora de urdidura menor
+4060022,Âncora de urdidura menor
+4060023,Âncora de urdidura menor
+4060024,Âncora de urdidura menor
+4060025,Âncora de urdidura menor
+4060026,Âncora de urdidura menor
+4060029,Âncora de urdidura menor
+4060030,Âncora de urdidura menor
+4060027,Âncora de urdidura menor
+4060028,Âncora de urdidura menor
+4060031,Âncora de urdidura menor
+4060032,Âncora de urdidura menor
+4070001,Âncora de urdidura menor
+4070002,Âncora de urdidura menor
+4070003,Âncora de urdidura menor
+4070004,Âncora de urdidura menor
+4070005,Âncora de urdidura menor
+4070006,Âncora de urdidura menor
+4070007,Âncora de urdidura menor
+4070008,Âncora de urdidura menor
+4070009,Âncora de urdidura menor
+4070010,Âncora de urdidura menor
+4070011,Âncora de urdidura menor
+4070012,Âncora de urdidura menor
+4070013,Âncora de urdidura menor
+4070014,Âncora de urdidura menor
+4070015,Âncora de urdidura menor
+4070016,Âncora de urdidura menor
+4080001,Esfera Selada
+4080011,Aura de Agilidade Selada
+4080012,Movement Speed Increase
+4080013,Aura de Precisão Selada
+4080014,Aura de Destruição Selada
+4080015,Aura de Proteção Selada
+4500001,Treasure Chest
+4500002,Saída do Rift
+4500003,
+4500101,
+4500102,
+4500201,
+4500301,
+4503001,Lareira da Eternidade
+5000001,Fragmento de Gelo Brilhante
+6000000,Âncoras de Warp
+6000001,
+6010101,Energia Éter
+6010105,
+6010106,
+6010107,
+6010111,Maior Warp Anchor
+6010112,Maior Warp Anchor
+6010113,Maior Warp Anchor
+6010121,Âncora de urdidura menor
+6010001,Torre Guardiã da Ira
+6010002,Torre Guardiã da Batalha
+6010003,Torre Guardiã do Tremor
+6011011,Âncoras de Dobra da Fortaleza
+6011012,Âncoras de Dobra da Fortaleza
+6011013,Âncoras de Dobra da Fortaleza
+6011014,Âncoras de Dobra da Fortaleza
+6011015,Âncoras de Dobra da Fortaleza
+6011016,Âncoras de Dobra da Fortaleza
+6011017,Âncoras de Dobra da Fortaleza
+6011018,Âncoras de Dobra da Fortaleza
+6011019,Âncoras de Dobra da Fortaleza
+6011111,Âncoras de Dobra da Fortaleza
+6011112,Âncoras de Dobra da Fortaleza
+6011113,Âncoras de Dobra da Fortaleza
+6010201,Abyssal Treasure
+6010202,Abyssal Treasure
+6010203,Abyssal Treasure
+6010204,Abyssal Treasure
+6010205,Abyssal Treasure
+6010206,Abyssal Treasure
+6010207,Abyssal Treasure
+6000002,
+6020101,Energia Éter
+6020105,
+6020106,
+6020107,
+6020111,Maior Warp Anchor
+6020112,Maior Warp Anchor
+6020113,Maior Warp Anchor
+6020121,Âncora de urdidura menor
+6020001,Torre Guardiã do Desafio
+6020002,Torre Guardiã da Dizimação
+6020003,Torre Guardiã do Delírio
+6021011,Âncoras de Dobra da Fortaleza
+6021012,Âncoras de Dobra da Fortaleza
+6021013,Âncoras de Dobra da Fortaleza
+6021014,Âncoras de Dobra da Fortaleza
+6021015,Âncoras de Dobra da Fortaleza
+6021016,Âncoras de Dobra da Fortaleza
+6021017,Âncoras de Dobra da Fortaleza
+6021018,Âncoras de Dobra da Fortaleza
+6021019,Âncoras de Dobra da Fortaleza
+6021111,Âncoras de Dobra da Fortaleza
+6021112,Âncoras de Dobra da Fortaleza
+6021113,Âncoras de Dobra da Fortaleza
+6010301,Abyssal Treasure
+6010302,Abyssal Treasure
+6010303,Abyssal Treasure
+6010304,Abyssal Treasure
+6010305,Abyssal Treasure
+6010306,Abyssal Treasure
+6010307,Abyssal Treasure
+10111001,Âncora de urdidura menor
+10111002,
+10111003,
+10111004,
+10111005,
+10111006,Escudo descartado
+10111008,
+10111009,
+10111010,
+10111011,
+10111012,
+10111013,
+10111014,
+10111015,
+10111016,
+10111017,
+10111018,
+10111202,Tesseract Fragmento
+10111203,Observatório arruinado
+10111204,
+10111205,Record Disc
+10111206,Formal Report
+10111207,Madeira
+10111208,Solo
+10111209,Gancho de cabelo em madrepérola
+10111210,Evening Primrose
+10111211,Flor Estrela do Mar
+10111212,Instalação da Placa de Sinalização
+10111213,Purple Snakegourd
+10111214,Manchas de Sangue
+10111215,Resíduo Estranho
+10111216,
+10111217,Cacto
+10111218,Residentes deixados para trás
+10111219,Pacote de bagagem
+10111220,Tabana
+10111221,Nazia
+10111222,Cura
+10111223,Examinar
+10111224,Investigar depósito de suprimentos temporário
+10111225,Examinar
+10111226,Pacote de bagagem
+10111227,Abaixe a pedra
+10111228,Examinar Cadáver
+10111229,Acalme-se
+10111230,Pessoa Recolhida
+10111231,Examinar Porta
+10111232,Arvoredo
+10111233,Pilar de Pedra
+10111234,
+10111235,
+10111236,
+10111237,Pesquisar por criança
+10111238,Record Disc
+10111239,Árvore caída
+10111240,Trilha Trace
+10111241,Manchas de Sangue
+10111242,
+10111243,Traço de Grama Espalhada
+10111244,Destroços de Carruagem
+10111245,
+10111246,Solo
+10111247,Lançar
+10111248,Moeda
+10111249,Cadáver não identificado
+10111250,Destroços de Carruagem
+10111251,
+10111252,
+10111253,
+10210101,
+10210102,Material Premium
+10210103,Traço de Tributo
+10210104,Traço de Tributo
+10210105,Traço de Tributo
+10210106,
+10210107,
+10210108,Etherium
+10210109,Demônio recolhido
+10210110,Cura
+10210111,Cura
+10210112,
+10210113,
+10210114,
+10210115,
+10210116,
+10210117,
+10210118,
+10210119,Roupas da tribo Kuduru
+10210120,
+10210121,
+10210122,
+10210123,Ervas Medicinais
+10210124,
+10210125,
+10210126,
+10210127,
+10210128,
+10210129,Ervas Medicinais
+10210130,Ervas Medicinais
+10210131,Ervas Medicinais
+10210132,Mix
+10210133,
+10210134,
+10210135,Algo brilhante
+10210136,
+10210137,
+10210138,
+10210139,
+10210140,
+10210141,Phase Shift Device
+10210142,Nota no chão
+10210143,
+10210144,Monólito
+10210145,
+10210146,
+10210147,Phase Shift Device
+10310101,Água limpa
+10310102,Borrifar água
+10310103,Examinar
+10310104,Ervas Medicinais
+10310105,Investigação do local
+10310106,Pesquisar
+10310107,Armadilha oculta
+10310108,Resgatar
+10310109,
+10310110,Observar
+10310111,Abaixe
+10310112,
+10310114,Comunicar
+10310115,Colmeia
+10310116,Acalme-se
+10310117,Configurar armadilha
+10310118,
+10310119,Configurar barraca
+10310120,
+10310121,Implantação de Beacon
+10310122,
+10310123,Confirmar operação
+10310124,Primeiros Socorros
+10310125,Baú de suprimentos
+10310126,
+10310127,Anexar Detonador
+10310128,
+10310129,Entregar informações
+10310130,Caixa de madeira
+10310131,Escuta
+10310132,
+10310133,
+10310134,Rack de Arma
+10310135,
+10310136,
+10310137,Depósito de suprimentos
+10310138,
+10310139,
+10310140,Barricada de madeira
+10310141,
+10310142,
+10310143,
+10310144,
+10310145,
+10410101,Machado Perdido
+10410102,Trilha de aparência suspeita
+10410103,Trilha de aparência suspeita
+10410104,Um lugar para colocar armas
+10410105,Trilha de aparência suspeita
+10410106,Um lugar para colocar armas
+10410107,Rastreamento de pegada
+10410108,Investigar Dentro do Quartel
+10410109,Investigar Astrid Cidadela
+10410110,Investigar Astrid Cidadela
+10410111,Baú de Arma
+10410112,Baú de artefato
+10410113,Injured Adventurer
+10410114,Ervas Medicinais
+10410115,Ervas Medicinais
+10410116,Someone’s Journal
+10410117,Ervas Medicinais
+10410118,Antídoto
+10410119,Lembranças das pessoas
+10410120,Pendure a lembrança
+10410121,Herb
+10410122,Lugar Banquete
+10410123,Letra e anel
+10410124,Pessoa Ferida
+10410125,Quebrado Tesseract
+10410126,Tesseract Fragmento
+10410127,Paradise Advent Robe
+10410128,Paradise Advent Society Livro de Doutrina
+10410129,Pedaço de papel
+10410130,Suprimentos de socorro para artesanato
+10410131,Papel amassado
+10410132,Coloque a ficha
+10410133,
+10410134,Armamento
+10410135,Rastreamento de pegada
+10510101,Phase Shift Device
+10510102,
+10510103,Abaixe o feno
+10510104,Suprimentos
+10510105,Suprimentos
+10510106,Aviso de Recompensa
+10510107,Enviar saque
+10510108,Verifique o quadro de avisos
+10510109,Hay
+10510110,Abaixe o feno
+10510111,Instale uma placa de sinalização
+10510112,Fábula da Turbulência
+10510113,Garra do Dragão
+10510114,
+10510116,
+10510117,Pesquisar
+10510118,Pesquisar
+10510119,Pesquisar
+10510120,
+10510121,
+10510122,
+10510123,Exploration Journal
+10510124,Tall Tree
+10510125,Emaranhamento de Éter
+10510126,Ruins of the Tower
+10510127,Chave
+10510128,
+10510129,Água limpa
+10510130,Fogueira
+10510131,Alimentação
+10510132,
+10510133,Armazenamento de alimentos
+10510134,Bem
+10510135,Rocha
+10510136,
+10510137,Jar
+10510138,Documento oficial
+10510139,
+10510140,
+10510141,
+10510142,
+10510143,Chifre do Amanhecer
+10510144,
+10510145,Chifre do Amanhecer
+10510146,Phase Shift Device
+10510147,
+10510148,
+10510149,
+10510150,
+10510151,Pesquisar
+10510152,Pesquisar
+10510153,Pesquisar
+10510154,Investigar
+10510155,
+10510156,Investigar
+10510157,
+10510158,
+10510159,
+10510160,
+10510161,
+10510162,Verifique o quadro de avisos
+10510163,Emaranhamento de Éter
+10130301,Mahisa's Bowl
+10131901,Bolo de Morango
+10132201,Evening Primrose
+10130101,Madeira
+10130102,
+10130103,Faça uma Esfregação
+10130104,Faça uma Esfregação
+10130105,Snakegourd
+10130106,Restos de relíquia
+10130107,Restos de relíquia
+10130108,Solo
+10130109,Verificação de status
+10130110,Solo
+10232201,Baba colhido
+10232202,Lavando Baba
+10232203,Barril de carvalho
+10232204,Forno
+10232205,Sardine Pie
+10232206,Camarão frito com algas marinhas
+10232207,Abaixe a cesta
+10232208,Giant Cacto
+10232209,Raiz de cacto seca
+10232210,Raiz de Cacto Intacta
+10232211,Pedra Preciosa Brilhante
+10232212,Pesquisar por isca
+10232213,
+10232214,Abaixe a armadilha para peixes
+10232215,Recuperar Armadilha de Peixe
+10232216,Treasure Chest
+10232217,Comuna
+10232218,Hay
+10232219,Hay
+10232220,Abaixe
+10232221,Seiva de árvore
+10232222,Sharaf
+10232223,Saque da tribo Kuduru
+10232224,Colete flores
+10232225,Gold Coin
+10232226,Planta Venenosa
+10232227,Barril de Vinho
+10232228,Pedaço de papel
+10232229,
+10232230,Elogie
+10232231,Pesquisar por isca
+10232232,Halo
+10232233,Sardinha Incrível
+10232234,Alga Marinha Fantástica
+10232235,Baú de armazenamento de equipamentos
+10232236,Praying Ritual
+10232237,
+10232238,
+10232239,
+10232240,
+10232241,
+10232242,
+10232243,Unusually Shaped Dagger
+10232244,Éter
+10232245,
+10232250,Éter
+10232251,
+10232252,Éter
+10232253,
+10330101,Grite um slogan
+10330102,Instalação da Placa de Sinalização
+10330103,
+10330104,Instalação da Placa de Sinalização
+10330105,
+10330106,Pesquisar por membro
+10330107,Instalação da Placa de Sinalização
+10330108,
+10330109,Lenha
+10330110,
+10330111,Telescópio
+10330112,
+10330113,Basket Display Stand
+10330114,Expositor de Frutas
+10330115,Colheita bem cultivada
+10330116,Oferta Degustação
+10330117,Oferta Degustação
+10330118,Oferta Degustação
+10330119,Lancheira
+10330120,Caixa de suprimentos
+10330121,Abaixe
+10330122,
+10330123,Olhe ao redor
+10330124,Olhe ao redor
+10330125,Ramo
+10330126,
+10330127,
+10330128,
+10330129,Bloco de Pedra
+10330130,Caixa de madeira
+10330131,Caixa de madeira
+10330132,
+10330133,
+10330134,
+10330135,
+10330136,Interpretar Mapa
+10330137,
+10330138,
+10330139,
+10330140,Implantação de Beacon
+10330141,
+10330142,Flores Silvestres
+10330143,
+10330144,Diga adeus
+10330145,
+10330146,
+10330147,Recuperar Barricada
+10330148,
+10330149,
+10330150,Colmeia
+10330151,
+10330152,Secret Letter
+10330153,Tranquilizar
+10330154,Implantação de Beacon
+10330155,Enviar sinal
+10330156,Waymarker
+10330157,
+10330158,
+10330159,
+10330160,
+10330161,
+10430101,Verifique a arma de cerco
+10430102,Verifique o abrigo
+10430103,Pegue lenha
+10430104,Reparar Bridge
+10430105,Pegue lenha
+10430106,Faça uma estátua
+10430107,Dança
+10430108,Examinar ao redor do gêiser
+10430109,Examinar ao redor do gêiser
+10430110,Encher com Água
+10430111,Encher com Água
+10430112,Encher com Água
+10430113,Beber Bebida fornecida por Ninda
+10430114,Colete Ervas
+10430115,Investigar bagagem próxima
+10430116,Investigar bagagem
+10430117,Investigar bagagem
+10430118,Verifique o baú de suprimentos
+10430119,Exame de cadáver
+10430120,Etherium Candy
+10430121,Etherium Candy
+10430122,Pegue Suprimentos
+10430123,Pegue Suprimentos
+10430124,Colete galhos e folhas
+10430125,Reparar tenda
+10430126,Dança na Frente da Árvore
+10430127,Dança na frente das escadas
+10430128,Dança na Frente da Tenda
+10430129,Colete galhos
+10430130,Use Objeto
+10430131,Colete Ervas
+10430132,Investigar local suspeito
+10430133,Investigar local suspeito
+10430134,Implantar pombo-correio
+10430135,Instale a amostra
+10430136,Deixe o boneco de neve
+10430137,Usar Experimental Potion
+10430138,Colete Ervas
+10430139,
+10530101,Ervas Medicinais
+10530102,
+10530103,
+10530104,
+10530105,
+10530106,
+10530107,
+10530108,
+10530109,
+10530110,
+10530111,
+10530112,
+10530113,
+10530114,
+10530115,
+10530116,
+10530117,
+10530118,
+10530119,
+10530120,
+10530121,
+10530122,
+10530123,Primeiro Tesouro
+10530124,Segundo Tesouro
+10530125,Terceiro Tesouro
+10530126,
+10530127,
+10530128,
+10530129,
+10530130,
+10530131,
+10530132,Catnip
+10530133,
+10530134,
+10530135,
+10530136,
+10530137,
+10530138,
+10530139,Catnip
+10530140,Catnip
+10530141,
+10530142,
+10530143,
+10530144,
+10530145,
+10530146,
+10530147,
+10530148,
+10530149,Dispositivo de medição esférico
+10530150,Pegue
+10530151,Abaixe
+10530152,
+10530153,
+10530154,
+10530155,Colete
+10530156,
+10530157,
+10530158,
+10530159,
+10530160,
+10530161,
+10530162,
+10530163,
+10131101,Pedaço de papel
+10131102,Planta Venenosa
+10131103,Instalação da Placa de Sinalização
+10131104,
+10131105,Instalação da Placa de Sinalização
+10131106,
+10131107,Plantar mudas
+10131108,
+10131109,Plantar mudas
+10131110,
+10131111,Investigar Carruagem
+10131112,
+10131113,Pacote de bagagem
+10131114,Manchas de Sangue
+10131115,Bloodied Letter
+10131116,Pacote de bagagem
+10131117,Exame de cadáver
+10131118,Oasis Water
+10131119,Oasis Water
+10131120,Waterside
+10131121,Fenda da Rocha
+10131122,Bloco de Pedra
+10131123,Artefato de artesanato
+10131124,Caixa de madeira
+10131125,Frasco de artefato
+10131126,Conforto
+10131127,Investigar arredores
+10131128,Investigar arredores
+10131129,Área Sombreada
+10131130,Rocha
+10131131,Rocha
+10131132,Cliff Edge
+10131133,Instalação da Placa de Sinalização
+10131134,
+10131135,Pessoa Recolhida
+10131136,Pessoa Recolhida
+10131137,Snakegourd
+10131138,Borrifa veneno
+10131139,Borrifa veneno
+10131140,Pacote de bagagem
+10131141,Cura
+10131142,
+10131143,
+10131144,
+10131145,Cliff Edge
+10131146,
+10131147,
+10231101,
+10231102,Material de Reforço
+10231103,Cola Natural
+10231104,Medicinal Liquor
+10231105,
+10231106,Instalação do Local da Mina
+10231107,Manchas de Sangue
+10231108,
+10231109,
+10231110,Pó Paralisante
+10231111,Lugar para enterrar o pó
+10231112,Estátua
+10231113,
+10231114,
+10231115,Minério
+10231116,Minério
+10231117,Minério
+10231118,
+10231119,Baba
+10231120,Fermentando Licor
+10231121,Raiz da árvore
+10231122,
+10231123,
+10231124,
+10231125,Erva Medicinal
+10231126,
+10231127,
+10331101,
+10331102,
+10331103,Fim de Bridge
+10331104,
+10331105,
+10331106,Giant Estalagmite
+10331107,Pilha de Madeira
+10331108,Ao redor da torre de vigia
+10331109,Pilha de Sujeira
+10331110,Pilha de Sujeira
+10331111,Pilha de Sujeira
+10331112,Instale a ferramenta mágica
+10331113,
+10331114,Baú
+10331115,Entregar flor
+10331116,Relíquia
+10331117,Relíquia
+10331118,Marcação
+10331119,Marcação
+10331120,
+10331121,Relíquia
+10331122,Entregar documento oficial
+10331123,Instale a ferramenta mágica
+10331124,
+10431101,Colete grama
+10431102,Poça
+10431103,
+10431104,Flor Estrela do Mar
+10431105,Flor Estrela do Mar
+10431106,Mineral
+10431107,Mineral
+10431108,Água do mar
+10431109,Mineral
+10431110,Mineral
+10431111,
+10431112,
+10431113,
+10431114,Visual Recording Device
+10431115,
+10531101,
+10150301,Pegadas suspeitas
+10150302,Capturar
+10150303,Pedra de “alta qualidade”
+10150304,Estátua
+10150305,Presente Trabalho
+10150306,Rappie
+10150307,Aço Frio
+10150308,Madeira
+10150309,Stall
+10150310,Piso bagunçado
+10150311,
+10150312,Pegue Peixe
+10150313,
+10150401,Nota
+10150402,Herb
+10150403,Herb
+10150404,Lanche
+10150407,
+10150405,Acalmar
+10150406,
+10250101,Assistir
+10150501,Convite para torneio
+10150502,Aviso
+10150503,Token de Romance
+10150504,Aviso
+10150505,
+10150506,Exibir saque
+10150601,Minério Brilhante
+10150602,Minério Brilhante
+10150701,Reflita sobre
+10150702,Reflita sobre
+10150703,Expositor
+10150801,Delivery Receipt
+10150802,Entrega de aparência pesada
+10150803,Entrega de aparência leve
+10150804,Log de entrada
+10150805,Última Entrega
+10150806,Detecção de objetos
+10150807,Detecção de objetos
+10150808,Objeto não identificado
+10150809,Detecção de objetos
+10150810,Detecção de objetos
+10150811,
+10150812,Última Entrega
+10150813,
+10150814,
+10150815,
+10150816,
+10150817,
+10150818,
+10150901,Aguarde
+10150902,Observar os arredores
+10150903,Sinal
+10150904,Fragmento de fator
+10150905,Fragmento de fator de Karugura
+10150906,
+10150907,
+10150908,Fragmento de fator
+10250501,Rastreamento da Tribo Naruru
+10250509,
+10250502,
+10250503,Fator Tagar
+10250508,Fator Tagar
+10250504,Acalmar
+10250505,Replica Seed
+10250506,Assistir
+10250507,Replica Seed
+10160100,
+10160101,Flor caída
+10160102,Secret Letter
+10160103,Secret Letter
+10160104,Secret Letter
+10160105,Secret Letter
+10160106,Secret Letter
+10160107,Flor
+10160108,Pensamento
+10160109,Pedaço de papel
+10160110,Ler a receita
+10160111,Cerveja Ninkar
+10160112,Flor roxa
+10160113,Cerveja Ninkar
+10160114,Núcleo do Guardião
+10160115,Substância Brilhante
+10160116,Baú gasto
+10160117,Documento oficial
+10160118,Colher água
+10160119,Licor de cerveja
+10160120,
+10160121,
+10160122,Licor Fabricado
+10160123,Receber carta
+10160124,Descartar carta
+10160125,Verifique
+10160126,Old Wine Barrel
+10160127,Éter
+10160128,
+10160129,
+10160130,Espacial As moedas de fantasia especial Rift
+10160131,Taima Liquor
+10160132,Piso Brilhante
+10160133,Parede Coberta de Videiras
+10160138,
+10160139,
+10160140,
+10160141,
+10160142,Cliff Edge
+10160143,
+10160144,Gift Pouch
+10160145,
+10160146,
+10160147,Rack de secagem de couro
+10160148,Diary
+10160149,Conforto
+10160150,Receber nota
+10160151,Receber memória
+10160152,Resíduo Estranho
+10160153,Ervas Medicinais
+10160154,
+10160155,Éter
+10160156,Fragmento de Ruína
+10160157,Cadáver não identificado
+10160158,Formal Report
+10160159,Formal Report
+10160160,Marcação misteriosa
+10160161,Ironblood Brigade Cadáver
+10160162,Roupas esfarrapadas
+10160163,Implementos Rituais
+10160164,Pele Manchada de Sangue
+10160165,
+10160166,
+10160167,Ponto de comunicação
+10160168,
+10160170,Visual Recording Device
+10160171,O que Simon deixou para trás
+10160172,Investigar
+10160173,Pacote de bagagem
+10160174,Dispositivo de gravação de formulário quebrado
+10160175,Lugar Suspeito
+10160176,Realizar Ritual
+10160177,Resta
+10160178,Luz de velas
+10160179,Ferramenta de tortura
+10160180,Pilar desmoronado
+10160181,Ervas Medicinais
+10160182,Faça Remédio
+10160183,Lamentar
+10160184,Investigar
+10160185,Investigar
+10160186,Pacote de bagagem
+10160187,Luz de velas
+10160201,
+10160202,Meus próprios rastros
+10160203,Cicatriz irregular
+10160204,Entregar para Hekima
+10160205,
+10160206,Dispositivo desconhecido
+10160207,Objeto descartado
+10160208,Outro objeto
+10160209,Remanescente de Labyrinth
+10160210,Bizarre Rock
+10160211,Registro de Expedition Member
+10160212,Registro de Expedition Member
+10160213,Pertences problemáticos
+10160214,Pertences problemáticos
+10160215,Presente
+10160216,Olhe ao redor
+10160217,Abaixe
+10160218,Livro
+10160219,Pesquisar grama selvagem
+10160220,Pesquisar campo de neve
+10160221,Poço de pesquisa
+10160222,Pesquisar detritos quebrados
+10160223,Infundir Poder na Placa de Pedra
+10160239,Lugar tranquilo
+10160240,Ao redor do pilar
+10160241,
+10160242,Ao redor da estátua
+10160243,
+10160244,Onde a Luz se Reúne
+10160245,
+10160246,Visual Recording Device
+10160247,Organizar Pensamentos
+10160248,Flor roxa
+10160249,Visual Recording Device
+10160250,
+10160251,Flor roxa
+10160252,Pena misteriosa
+10160253,Adaga Cintilante
+10160254,Visual Recording Device
+10160261,Recuperar
+10160262,Reflita sobre
+10160263,Abaixe
+10160264,Acalme-se
+10160265,Mediar
+10160266,Reflita sobre
+10160267,Verifique
+10160268,Reflita sobre
+10160269,
+10160270,
+10160271,Injetar
+10160272,
+10160273,Tomo Antigo
+10160274,Área Sombreada
+10160275,Fenda da Rocha
+10160276,Examinar
+10160277,Itens restantes
+10160278,Estátua de Pedra
+10160279,High Priest Pódio
+10160280,Warp Conduit
+10160281,Warp Conduit
+10160282,Éter
+10160283,
+10160284,Éter
+10160285,
+10160286,Aether Infusion
+10160287,Sob a árvore
+10160288,Pulseira
+10160289,Enviar de volta
+10160290,Abaixo da rocha
+10160291,
+10270101,Peixe
+10270102,Tocar Instrumento
+10270103,Tocar Instrumento
+10270104,Carrinho de Lenha
+10270105,
+10270106,Pilha de Lenha
+10270107,Recife de coral
+10270108,
+10270109,
+10270110,
+10270111,
+10270112,
+10270113,
+10270114,Armadilha para Peixe
+10270115,Isca ruim
+10270116,Lugar para colocar o feno
+10270117,
+10270118,Ornamento Decorativo
+10270119,Cacto
+10270120,Couro bem seco
+10270131,
+10270121,Pilha de Palha
+10270132,
+10270122,Seixo de cinco cores
+10270123,Madeira
+10270124,
+10270125,Placa de sinalização
+10270130,
+10270126,Pétala colorida
+10270127,Aparar e colocar madeira
+10270133,Preparar corante
+10270128,Golpe
+10270129,Carga da tribo Kuduru
+10270134,
+10270135,
+10270136,Verifique a árvore
+10170101,
+10170102,Anexar Cartaz
+10270201,Escrever Resposta
+10270202,Reflita sobre
+10270203,Receber item
+10270204,Flor
+10270210,Flor
+10270211,Flor
+10270205,Abaixe a flor
+10270212,
+10270206,Reflita sobre
+10270207,Papel descartado
+10270209,
+10270213,Cumprimente
+10270208,
+10470101,Ornamento do Festival
+10470102,
+10470105,
+10470106,
+10470119,
+10470107,
+10470120,
+10470108,
+10470109,Bagagem
+10470110,
+10470111,Ribbon
+10470112,
+10470113,Bulbo em forma de chifre
+10470114,
+10470115,Decorar
+10470116,
+10470118,
+10470121,Trial Gates
+10470122,
+10270301,Objeto de aparência suspeita
+10270302,
+10270303,Éter
+10270304,
+10270314,Éter
+10270305,Pedra Sagrada
+10270306,
+10270307,Phase Shift Device
+10270308,
+10270309,Deslocador de fase quebrado
+10270310,
+10270311,Manchas de Sangue
+10270312,
+10270313,Instale Phase Shift Device
+10170201,Objeto
+10170231,
+10170202,Ativar objeto
+10170203,Observar
+10170204,
+10170205,
+10170206,
+10170207,Pesquisar
+10170208,
+10170209,Verifique
+10170210,Pesquisar
+10170211,
+10170230,
+10170212,
+10170213,Investigar
+10170214,Investigar
+10170215,Investigar
+10170216,Investigar
+10170217,Ativar
+10170218,
+10170219,
+10170220,
+10170221,Colete
+10170222,
+10170223,Colete
+10170224,
+10170228,
+10170229,
+10170225,Verifique
+10170226,
+10170232,Colete
+10170233,
+10170234,Colete
+10170235,
+10170236,
+2010001,Ashur's Torch
+2010101,Treasure Chest Antigo
+2010201,Observatório da Giant's Tower
+2010401,Giant's Remnants
+2010402,Giant's Remnants
+2010011,Baú de suprimentos
+2020001,Ashur's Torch
+2020101,Treasure Chest Antigo
+2020201,Observatório da Giant's Tower
+2020401,Giant's Remnants
+2020402,Giant's Remnants
+2020011,Baú de suprimentos
+2030001,Ashur's Torch
+2030101,Treasure Chest Antigo
+2030201,Observatório da Giant's Tower
+2030401,Giant's Remnants
+2030402,Giant's Remnants
+2030011,Baú de suprimentos
+2040001,Ashur's Torch
+2040101,Treasure Chest Antigo
+2040201,Observatório da Giant's Tower
+2040401,Giant's Remnants
+2040402,Giant's Remnants
+2040011,Baú de suprimentos
+9010101,Angbar Arena Dimensional Gate
+9010102,Angbar Arena Dimensional Gate
+9010103,Angbar Arena Dimensional Gate
+9010104,Angbar Arena Dimensional Gate
+9010105,Angbar Arena Dimensional Gate
+9010106,Angbar Arena Dimensional Gate
+9010107,Angbar Arena Dimensional Gate
+9010108,Angbar Arena Dimensional Gate
+9010109,Angbar Arena Dimensional Gate
+9010110,Angbar Arena Dimensional Gate
+9010111,Angbar Arena Dimensional Gate
+9010112,Angbar Arena Dimensional Gate
+9030101,1-Star Tesseract
+9030102,2 estrelas Tesseract
+9030103,3-Star Tesseract
+9030104,4-Star Tesseract
+9030211,Tesseract menor de Scything Barrens
+9030212,Tesseract Menor do Jardim de Giant
+9030213,Tesseract Menor de Pulsing Ridge
+9030214,Tesseract menor de Starfall Plateau
+9030221,Maior Tesseract de Scything Barrens
+9030222,Tesseract maior de Giant's Garden
+9030223,Tesseract maior de Pulsing Ridge
+9030224,Maior Tesseract de Starfall Plateau
+9040300,
+9040320,
+9040310,
+9020100,Fator do chefe
+9020101,Fator do chefe
+9020102,Fator do chefe
+9020103,Fator do chefe
+9020104,Fator do chefe
+9020105,Fator do chefe
+9020106,Fator do chefe
+9020107,Fator do chefe
+9020108,Fator do chefe
+9020109,Fator do chefe
+9020110,Fator do chefe
+9020111,Fator do chefe
+9020112,Fator do chefe
+9020113,Fator do chefe
+9020114,Fator do chefe
+9020115,Fator do chefe
+9020116,Fator do chefe
+9020117,Fator do chefe
+9020200,
+9020300,
+3040001,
+3040002,
+3040101,Orbe de recuperação
+3040201,Agility Orb
+3040202,Swift Orb
+3050011,Olho do Buscador
+3050012,Windpath
+3050013,Aether Tether
+3050014,Ruptura
+3050015,Campo de Força
+3050101,Monólito de jardim de Giant
+3050201,Pulsing Ridge Monólito
+3050301,Starfall Plateau Monólito

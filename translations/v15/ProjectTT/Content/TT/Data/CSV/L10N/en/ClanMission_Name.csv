@@ -1,0 +1,195 @@
+﻿Id,Name,Description
+100101,Martelar deve continuar {TaskIndex},Tentativa de criar {RequiredStackCount} vezes
+100102,Martelar deve continuar {TaskIndex},Tentativa de criar {RequiredStackCount} vezes
+100103,Martelar deve continuar {TaskIndex},Tentativa de criar {RequiredStackCount} vezes
+100104,Martelar deve continuar {TaskIndex},Tentativa de criar {RequiredStackCount} vezes
+100105,Martelar deve continuar {TaskIndex},Tentativa de criar {RequiredStackCount} vezes
+100106,Martelar deve continuar {TaskIndex},Tentativa de criar {RequiredStackCount} vezes
+100107,Martelar deve continuar {TaskIndex},Tentativa de criar {RequiredStackCount} vezes
+100108,Martelar deve continuar {TaskIndex},Tentativa de criar {RequiredStackCount} vezes
+100109,Martelar deve continuar {TaskIndex},Tentativa de criar {RequiredStackCount} vezes
+100110,Martelar deve continuar {TaskIndex},Tentativa de criar {RequiredStackCount} vezes
+100201,O Som do Ouro {TaskIndex},Adquira {RequiredStackCount} Ouro
+100202,O Som do Ouro {TaskIndex},Adquira {RequiredStackCount} Ouro
+100203,O Som do Ouro {TaskIndex},Adquira {RequiredStackCount} Ouro
+100204,O Som do Ouro {TaskIndex},Adquira {RequiredStackCount} Ouro
+100205,O Som do Ouro {TaskIndex},Adquira {RequiredStackCount} Ouro
+100206,O Som do Ouro {TaskIndex},Adquira {RequiredStackCount} Ouro
+100207,O Som do Ouro {TaskIndex},Adquira {RequiredStackCount} Ouro
+100208,O Som do Ouro {TaskIndex},Adquira {RequiredStackCount} Ouro
+100209,O Som do Ouro {TaskIndex},Adquira {RequiredStackCount} Ouro
+100210,O Som do Ouro {TaskIndex},Adquira {RequiredStackCount} Ouro
+100301,Ouro deve ser gasto {TaskIndex},Gaste {RequiredStackCount} Ouro
+100302,Ouro deve ser gasto {TaskIndex},Gaste {RequiredStackCount} Ouro
+100303,Ouro deve ser gasto {TaskIndex},Gaste {RequiredStackCount} Ouro
+100304,Ouro deve ser gasto {TaskIndex},Gaste {RequiredStackCount} Ouro
+100305,Ouro deve ser gasto {TaskIndex},Gaste {RequiredStackCount} Ouro
+100306,Ouro deve ser gasto {TaskIndex},Gaste {RequiredStackCount} Ouro
+100307,Ouro deve ser gasto {TaskIndex},Gaste {RequiredStackCount} Ouro
+100308,Ouro deve ser gasto {TaskIndex},Gaste {RequiredStackCount} Ouro
+100309,Ouro deve ser gasto {TaskIndex},Gaste {RequiredStackCount} Ouro
+100310,Ouro deve ser gasto {TaskIndex},Gaste {RequiredStackCount} Ouro
+100401,Não esqueça suas memórias {TaskIndex},Use memórias {RequiredStackCount}
+100402,Não esqueça suas memórias {TaskIndex},Use memórias {RequiredStackCount}
+100403,Não esqueça suas memórias {TaskIndex},Use memórias {RequiredStackCount}
+100404,Não esqueça suas memórias {TaskIndex},Use memórias {RequiredStackCount}
+100405,Não esqueça suas memórias {TaskIndex},Use memórias {RequiredStackCount}
+100406,Não esqueça suas memórias {TaskIndex},Use memórias {RequiredStackCount}
+100407,Não esqueça suas memórias {TaskIndex},Use memórias {RequiredStackCount}
+100408,Não esqueça suas memórias {TaskIndex},Use memórias {RequiredStackCount}
+100409,Não esqueça suas memórias {TaskIndex},Use memórias {RequiredStackCount}
+100410,Não esqueça suas memórias {TaskIndex},Use memórias {RequiredStackCount}
+100501,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
+100502,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
+100503,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
+100504,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
+100505,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
+100506,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
+100507,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
+100508,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
+100509,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
+100510,Forsaken Land Scavenger {TaskIndex},Derrote monstros {RequiredStackCount} na Forsaken Land
+100601,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Temporal Barrier
+100602,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Temporal Barrier
+100603,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Temporal Barrier
+100604,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Temporal Barrier
+100605,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Temporal Barrier
+100606,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Temporal Barrier
+100607,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Temporal Barrier
+100608,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Temporal Barrier
+100609,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Temporal Barrier
+100610,Protetor de barreira {TaskIndex},Derrote {RequiredStackCount} Monstros de Temporal Barrier
+100701,Guardião da Torre {TaskIndex},Derrote Monstros {RequiredStackCount} na Giant's Tower
+100702,Guardião da Torre {TaskIndex},Derrote Monstros {RequiredStackCount} na Giant's Tower
+100703,Guardião da Torre {TaskIndex},Derrote Monstros {RequiredStackCount} na Giant's Tower
+100704,Guardião da Torre {TaskIndex},Derrote Monstros {RequiredStackCount} na Giant's Tower
+100705,Guardião da Torre {TaskIndex},Derrote Monstros {RequiredStackCount} na Giant's Tower
+100706,Guardião da Torre {TaskIndex},Derrote Monstros {RequiredStackCount} na Giant's Tower
+100707,Guardião da Torre {TaskIndex},Derrote Monstros {RequiredStackCount} na Giant's Tower
+100708,Guardião da Torre {TaskIndex},Derrote Monstros {RequiredStackCount} na Giant's Tower
+100709,Guardião da Torre {TaskIndex},Derrote Monstros {RequiredStackCount} na Giant's Tower
+100710,Guardião da Torre {TaskIndex},Derrote Monstros {RequiredStackCount} na Giant's Tower
+100801,Continue girando em direção ao Jackpot! {TaskIndex},Use máquinas de venda automática {RequiredStackCount} vezes
+100802,Continue girando em direção ao Jackpot! {TaskIndex},Use máquinas de venda automática {RequiredStackCount} vezes
+100803,Continue girando em direção ao Jackpot! {TaskIndex},Use máquinas de venda automática {RequiredStackCount} vezes
+100804,Continue girando em direção ao Jackpot! {TaskIndex},Use máquinas de venda automática {RequiredStackCount} vezes
+100805,Continue girando em direção ao Jackpot! {TaskIndex},Use máquinas de venda automática {RequiredStackCount} vezes
+100806,Continue girando em direção ao Jackpot! {TaskIndex},Use máquinas de venda automática {RequiredStackCount} vezes
+100807,Continue girando em direção ao Jackpot! {TaskIndex},Use máquinas de venda automática {RequiredStackCount} vezes
+100808,Continue girando em direção ao Jackpot! {TaskIndex},Use máquinas de venda automática {RequiredStackCount} vezes
+100809,Continue girando em direção ao Jackpot! {TaskIndex},Use máquinas de venda automática {RequiredStackCount} vezes
+100810,Continue girando em direção ao Jackpot! {TaskIndex},Use máquinas de venda automática {RequiredStackCount} vezes
+100901,Tesouro escondido? Protetores dos descobridores! {TaskIndex},Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
+100902,Tesouro escondido? Protetores dos descobridores! {TaskIndex},Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
+100903,Tesouro escondido? Protetores dos descobridores! {TaskIndex},Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
+100904,Tesouro escondido? Protetores dos descobridores! {TaskIndex},Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
+100905,Tesouro escondido? Protetores dos descobridores! {TaskIndex},Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
+100906,Tesouro escondido? Protetores dos descobridores! {TaskIndex},Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
+100907,Tesouro escondido? Protetores dos descobridores! {TaskIndex},Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
+100908,Tesouro escondido? Protetores dos descobridores! {TaskIndex},Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
+100909,Tesouro escondido? Protetores dos descobridores! {TaskIndex},Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
+100910,Tesouro escondido? Protetores dos descobridores! {TaskIndex},Limpar Arbiter’s Ordeal {RequiredStackCount} vezes
+101001,O definitivo Hunter {TaskIndex},Derrote chefes de campo {RequiredStackCount} vezes
+101002,O definitivo Hunter {TaskIndex},Derrote chefes de campo {RequiredStackCount} vezes
+101003,O definitivo Hunter {TaskIndex},Derrote chefes de campo {RequiredStackCount} vezes
+101004,O definitivo Hunter {TaskIndex},Derrote chefes de campo {RequiredStackCount} vezes
+101005,O definitivo Hunter {TaskIndex},Derrote chefes de campo {RequiredStackCount} vezes
+101006,O definitivo Hunter {TaskIndex},Derrote chefes de campo {RequiredStackCount} vezes
+101007,O definitivo Hunter {TaskIndex},Derrote chefes de campo {RequiredStackCount} vezes
+101008,O definitivo Hunter {TaskIndex},Derrote chefes de campo {RequiredStackCount} vezes
+101009,O definitivo Hunter {TaskIndex},Derrote chefes de campo {RequiredStackCount} vezes
+101010,O definitivo Hunter {TaskIndex},Derrote chefes de campo {RequiredStackCount} vezes
+101101,Tenho certeza que você pode pagar por isso {TaskIndex},Doe para o Clã {RequiredStackCount} vezes
+101102,Tenho certeza que você pode pagar por isso {TaskIndex},Doe para o Clã {RequiredStackCount} vezes
+101103,Tenho certeza que você pode pagar por isso {TaskIndex},Doe para o Clã {RequiredStackCount} vezes
+101104,Tenho certeza que você pode pagar por isso {TaskIndex},Doe para o Clã {RequiredStackCount} vezes
+101105,Tenho certeza que você pode pagar por isso {TaskIndex},Doe para o Clã {RequiredStackCount} vezes
+101106,Tenho certeza que você pode pagar por isso {TaskIndex},Doe para o Clã {RequiredStackCount} vezes
+101107,Tenho certeza que você pode pagar por isso {TaskIndex},Doe para o Clã {RequiredStackCount} vezes
+101108,Tenho certeza que você pode pagar por isso {TaskIndex},Doe para o Clã {RequiredStackCount} vezes
+101109,Tenho certeza que você pode pagar por isso {TaskIndex},Doe para o Clã {RequiredStackCount} vezes
+101110,Tenho certeza que você pode pagar por isso {TaskIndex},Doe para o Clã {RequiredStackCount} vezes
+101201,Rift Restoration Project {TaskIndex},Limpar Rift {RequiredStackCount} Vezes
+101202,Rift Restoration Project {TaskIndex},Limpar Rift {RequiredStackCount} Vezes
+101203,Rift Restoration Project {TaskIndex},Limpar Rift {RequiredStackCount} Vezes
+101204,Rift Restoration Project {TaskIndex},Limpar Rift {RequiredStackCount} Vezes
+101205,Rift Restoration Project {TaskIndex},Limpar Rift {RequiredStackCount} Vezes
+101206,Rift Restoration Project {TaskIndex},Limpar Rift {RequiredStackCount} Vezes
+101207,Rift Restoration Project {TaskIndex},Limpar Rift {RequiredStackCount} Vezes
+101208,Rift Restoration Project {TaskIndex},Limpar Rift {RequiredStackCount} Vezes
+101209,Rift Restoration Project {TaskIndex},Limpar Rift {RequiredStackCount} Vezes
+101210,Rift Restoration Project {TaskIndex},Limpar Rift {RequiredStackCount} Vezes
+101301,Artificial Tesseract? Apenas quebre! {TaskIndex},Limpar artificial Tesseract {RequiredStackCount} Vezes
+101302,Artificial Tesseract? Apenas quebre! {TaskIndex},Limpar artificial Tesseract {RequiredStackCount} Vezes
+101303,Artificial Tesseract? Apenas quebre! {TaskIndex},Limpar artificial Tesseract {RequiredStackCount} Vezes
+101304,Artificial Tesseract? Apenas quebre! {TaskIndex},Limpar artificial Tesseract {RequiredStackCount} Vezes
+101305,Artificial Tesseract? Apenas quebre! {TaskIndex},Limpar artificial Tesseract {RequiredStackCount} Vezes
+101306,Artificial Tesseract? Apenas quebre! {TaskIndex},Limpar artificial Tesseract {RequiredStackCount} Vezes
+101307,Artificial Tesseract? Apenas quebre! {TaskIndex},Limpar artificial Tesseract {RequiredStackCount} Vezes
+101308,Artificial Tesseract? Apenas quebre! {TaskIndex},Limpar artificial Tesseract {RequiredStackCount} Vezes
+101309,Artificial Tesseract? Apenas quebre! {TaskIndex},Limpar artificial Tesseract {RequiredStackCount} Vezes
+101310,Artificial Tesseract? Apenas quebre! {TaskIndex},Limpar artificial Tesseract {RequiredStackCount} Vezes
+101401,Você tem mais um em você! {TaskIndex},Melhorar equipamento {RequiredStackCount} Vezes
+101402,Você tem mais um em você! {TaskIndex},Melhorar equipamento {RequiredStackCount} Vezes
+101403,Você tem mais um em você! {TaskIndex},Melhorar equipamento {RequiredStackCount} Vezes
+101404,Você tem mais um em você! {TaskIndex},Melhorar equipamento {RequiredStackCount} Vezes
+101405,Você tem mais um em você! {TaskIndex},Melhorar equipamento {RequiredStackCount} Vezes
+101406,Você tem mais um em você! {TaskIndex},Melhorar equipamento {RequiredStackCount} Vezes
+101407,Você tem mais um em você! {TaskIndex},Melhorar equipamento {RequiredStackCount} Vezes
+101408,Você tem mais um em você! {TaskIndex},Melhorar equipamento {RequiredStackCount} Vezes
+101409,Você tem mais um em você! {TaskIndex},Melhorar equipamento {RequiredStackCount} Vezes
+101410,Você tem mais um em você! {TaskIndex},Melhorar equipamento {RequiredStackCount} Vezes
+101501,Você não precisa de roupas novas? {TaskIndex},Fusível Trajes {RequiredStackCount} vezes
+101502,Você não precisa de roupas novas? {TaskIndex},Fusível Trajes {RequiredStackCount} vezes
+101503,Você não precisa de roupas novas? {TaskIndex},Fusível Trajes {RequiredStackCount} vezes
+101504,Você não precisa de roupas novas? {TaskIndex},Fusível Trajes {RequiredStackCount} vezes
+101505,Você não precisa de roupas novas? {TaskIndex},Fusível Trajes {RequiredStackCount} vezes
+101506,Você não precisa de roupas novas? {TaskIndex},Fusível Trajes {RequiredStackCount} vezes
+101507,Você não precisa de roupas novas? {TaskIndex},Fusível Trajes {RequiredStackCount} vezes
+101508,Você não precisa de roupas novas? {TaskIndex},Fusível Trajes {RequiredStackCount} vezes
+101509,Você não precisa de roupas novas? {TaskIndex},Fusível Trajes {RequiredStackCount} vezes
+101510,Você não precisa de roupas novas? {TaskIndex},Fusível Trajes {RequiredStackCount} vezes
+101601,Acho que é hora de mudar {TaskIndex},Fusível Arma Fantasma {RequiredStackCount} vezes
+101602,Acho que é hora de mudar {TaskIndex},Fusível Arma Fantasma {RequiredStackCount} vezes
+101603,Acho que é hora de mudar {TaskIndex},Fusível Arma Fantasma {RequiredStackCount} vezes
+101604,Acho que é hora de mudar {TaskIndex},Fusível Arma Fantasma {RequiredStackCount} vezes
+101605,Acho que é hora de mudar {TaskIndex},Fusível Arma Fantasma {RequiredStackCount} vezes
+101606,Acho que é hora de mudar {TaskIndex},Fusível Arma Fantasma {RequiredStackCount} vezes
+101607,Acho que é hora de mudar {TaskIndex},Fusível Arma Fantasma {RequiredStackCount} vezes
+101608,Acho que é hora de mudar {TaskIndex},Fusível Arma Fantasma {RequiredStackCount} vezes
+101609,Acho que é hora de mudar {TaskIndex},Fusível Arma Fantasma {RequiredStackCount} vezes
+101610,Acho que é hora de mudar {TaskIndex},Fusível Arma Fantasma {RequiredStackCount} vezes
+101701,As incursões não têm nada contra mim {TaskIndex},Limpar todos os tipos de incursões {RequiredStackCount} vezes
+101702,As incursões não têm nada contra mim {TaskIndex},Limpar todos os tipos de incursões {RequiredStackCount} vezes
+101703,As incursões não têm nada contra mim {TaskIndex},Limpar todos os tipos de incursões {RequiredStackCount} vezes
+101704,As incursões não têm nada contra mim {TaskIndex},Limpar todos os tipos de incursões {RequiredStackCount} vezes
+101705,As incursões não têm nada contra mim {TaskIndex},Limpar todos os tipos de incursões {RequiredStackCount} vezes
+101706,As incursões não têm nada contra mim {TaskIndex},Limpar todos os tipos de incursões {RequiredStackCount} vezes
+101707,As incursões não têm nada contra mim {TaskIndex},Limpar todos os tipos de incursões {RequiredStackCount} vezes
+101708,As incursões não têm nada contra mim {TaskIndex},Limpar todos os tipos de incursões {RequiredStackCount} vezes
+101709,As incursões não têm nada contra mim {TaskIndex},Limpar todos os tipos de incursões {RequiredStackCount} vezes
+101710,As incursões não têm nada contra mim {TaskIndex},Limpar todos os tipos de incursões {RequiredStackCount} vezes
+101801,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Angbar Arena
+101802,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Angbar Arena
+101803,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Angbar Arena
+101804,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Angbar Arena
+101805,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Angbar Arena
+101806,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Angbar Arena
+101807,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Angbar Arena
+101808,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Angbar Arena
+101809,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Angbar Arena
+101810,No calor escaldante {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Angbar Arena
+101901,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
+101902,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
+101903,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
+101904,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
+101905,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
+101906,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
+101907,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
+101908,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
+101909,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
+101910,Vamos definir juntos {TaskIndex},Ter um total de jogadores {RequiredStackCount} limpando a Clan Expedition
+102001,Siga-me!,Faça com que jogadores {RequiredStackCount} alcancem o Rank 1 na contribuição do chefe da Grande Incursão
+102101,Primeiro Passo para o Ambiente Verde,Possuir {RequiredStackCount} Monólitos
+102201,Guardian of the Abyss,Possuir {RequiredStackCount} Abyss Battlefield Guardiões
+102301,Glória a todos vocês!,Possuir {RequiredStackCount} Abyss Battlefield Fortalezas

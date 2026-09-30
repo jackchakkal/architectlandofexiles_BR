@@ -1,0 +1,21 @@
+﻿Type,Message,Name
+24001,Adquiriu o item [ItemName].,Meu item adquirido
+24002,[CharacterName] adquiriu o item [ItemName].,Item do membro do grupo adquirido
+24003,adquiridos [ExpCount] EXP.,EXP adquirido
+24004,adquiridos [AssetCount] [AssetName].{jstag:},Recursos adquiridos
+24005,[CharacterName] adquiriu [Name][Type].,Item de alto nível adquirido
+24006,[CharacterName] conectou-se.,Membro do Clã Conectado
+24007,O personagem morreu.,Meu personagem morreu
+24008,[CharacterName] morreu.,Personagem do membro do grupo morreu
+24009,O item [ItemName] foi vendido.,Marketplace Venda concluída
+24010,"[CharacterName], que está na lista de inimigos, efetuou logon.",Inimigos conectados
+24011,[CharacterName] atacou você.,PK Notificação de ataque
+24012,Você foi morto por [CharacterName].,Você foi morto por PK
+24013,Você derrotou [CharacterName].,Você derrotou um jogador via PK
+24014,[CharacterName] foi morto por [ClanCharacterName].,Membro do clã morto por PK
+24015,[ClanCharacterName] derrotou [CharacterName].,Membro do clã derrotou um jogador via PK
+24016,[CharacterName] curou você.,Notificar quando curado por outro jogador
+24017,[Param1] aparecerá em breve.,Notificação de geração de chefe
+24018,[Param1] [Param2]{jstag:} aparecerá em breve. O chefe de,Notificação de geração de chefe
+24019,Overlord of the Abyss aparecerá em breve.,Notificação de geração de chefe
+24020,Lord of the Abyss aparecerá em breve.,Notificação de geração de chefe

@@ -1,0 +1,2013 @@
+{
+ "changed": [
+  {
+   "table": "BadgeNotification_Name.csv",
+   "id": "ViewUI_BattlefieldTournamentBetResult",
+   "column": "Message",
+   "en": "Round {Param} Cheer Availability & Results",
+   "old": "Rodada {Param} Resultados de apostas revelados",
+   "new": "Torcida da rodada {Param}: abertura e resultados"
+  },
+  {
+   "table": "BadgeNotification_Name.csv",
+   "id": "AirVehicle_PossibleSummon",
+   "column": "Param",
+   "en": "Glider",
+   "old": "Invocação de Planador",
+   "new": "Planador"
+  },
+  {
+   "table": "BadgeTask_Name.csv",
+   "id": "10157",
+   "column": "Name",
+   "en": "Notification when Round Cheer is available",
+   "old": "Notificação quando a rodada de apostas abre",
+   "new": "Aviso de abertura da torcida da rodada"
+  },
+  {
+   "table": "BadgeTask_Name.csv",
+   "id": "10158",
+   "column": "Name",
+   "en": "Notification when Round Cheer results are out",
+   "old": "Notificação quando os resultados das apostas da rodada saem",
+   "new": "Aviso dos resultados da torcida da rodada"
+  },
+  {
+   "table": "CharacterTitle_Name.csv",
+   "id": "6001",
+   "column": "Description",
+   "en": "Monolith Clan Tournament Champion",
+   "old": "Monolith Clan Tournament Champion",
+   "new": "Campeão do Monolith Clan Tournament"
+  },
+  {
+   "table": "CharacterTitle_Name.csv",
+   "id": "6002",
+   "column": "Description",
+   "en": "Monolith Clan Tournament - 2nd Place",
+   "old": "Monolith Clan Tournament - 2nd Place",
+   "new": "2º lugar no Monolith Clan Tournament"
+  },
+  {
+   "table": "CharacterTitle_Name.csv",
+   "id": "6003",
+   "column": "Description",
+   "en": "Monolith Clan Tournament - 3rd Place",
+   "old": "Monolith Clan Tournament - 3rd Place",
+   "new": "3º lugar no Monolith Clan Tournament"
+  },
+  {
+   "table": "CharacterTitle_Name.csv",
+   "id": "6004",
+   "column": "Description",
+   "en": "Monolith Clan Tournament - 4th Place",
+   "old": "Monolith Clan Tournament - 4th Place",
+   "new": "4º lugar no Monolith Clan Tournament"
+  },
+  {
+   "table": "ClientString_Name.csv",
+   "id": "BATTLEFIELD_TOURNAMENT_MENU_ROUND_BETTING",
+   "column": "Value",
+   "en": "Tournament Cheer",
+   "old": "Apostas em torneios",
+   "new": "Torcida do torneio"
+  },
+  {
+   "table": "ClientString_Name.csv",
+   "id": "BATTLEFIELD_TOURNAMENT_PREDICT_BET_TITLE",
+   "column": "Value",
+   "en": "Tournament [Round] Cheer",
+   "old": "Torneio [Round] Apostas",
+   "new": "Torcida do torneio [Round]"
+  },
+  {
+   "table": "ClientString_Name.csv",
+   "id": "BATTLEFIELD_TOURNAMENT_PREDICT_BET_LEFT_TIME",
+   "column": "Value",
+   "en": "Cheer Closes in: [Time]",
+   "old": "Apostas encerradas em: [Time]",
+   "new": "Torcida encerra em: [Time]"
+  },
+  {
+   "table": "ClientString_Name.csv",
+   "id": "BATTLEFIELD_TOURNAMENT_PREDICT_BET_END",
+   "column": "Value",
+   "en": "Cheer Closed",
+   "old": "Apostas encerradas",
+   "new": "Torcida encerrada"
+  },
+  {
+   "table": "ClientString_Name.csv",
+   "id": "BATTLEFIELD_TOURNAMENT_PREDICT_BET__ROUND_ALL_CLANS_SELECT_REQUIRED",
+   "column": "Value",
+   "en": "Predict the outcomes of all listed matches to participate in Tournament Cheer.",
+   "old": "Preveja os resultados de todas as partidas listadas para participar de apostas.",
+   "new": "Preveja o resultado de todas as partidas listadas para participar da torcida do torneio."
+  },
+  {
+   "table": "ClientString_Name.csv",
+   "id": "BATTLEFIELD_TOURNAMENT_PREDICT_BET_RESULT_NOT_YET_AVAILABLE",
+   "column": "Value",
+   "en": "Cheer results are unavailable because this round's match was not played.",
+   "old": "Os resultados das apostas não estão disponíveis porque a partida desta rodada não foi disputada.",
+   "new": "O resultado da torcida não está disponível porque a partida desta rodada não foi disputada."
+  },
+  {
+   "table": "ClientString_Name.csv",
+   "id": "BATTLEFIELD_TOURNAMENT_BETTING_RULE_DESC_1",
+   "column": "Value",
+   "en": "Pay an entry fee to cheer for the clan you predict will win in every match of the qualifier rounds.\r\n(All entry fees are added to the grand prize pool, along with additional system bonus prizes.)",
+   "old": "Esta é uma aposta que prevê o clã vencedor em todas as partidas das rodadas de qualificação, e você participa pagando uma taxa de inscrição.\r\n(A taxa de inscrição total é acumulada no grande prêmio, com um prêmio de bônus adicional adicionado pelo sistema.)",
+   "new": "Pague a taxa de inscrição para torcer pelo clã que, na sua previsão, vencerá cada partida das rodadas de qualificação.\r\n(Todas as taxas de inscrição entram no prêmio total, junto com prêmios extras do sistema.)"
+  },
+  {
+   "table": "ClientString_Name.csv",
+   "id": "BATTLEFIELD_TOURNAMENT_BETTING_RULE_DESC_2",
+   "column": "Value",
+   "en": "You can cheer until the match for the corresponding round begins, and you can cancel anytime within the participation period to get your entry fee refunded.",
+   "old": "As apostas estão disponíveis até o início da partida dessa rodada e você pode cancelar a qualquer momento durante o período elegível para obter o reembolso da sua taxa de inscrição.",
+   "new": "Você pode participar da torcida até o início da partida da rodada. Durante o período de participação, pode cancelar a escolha e receber a taxa de inscrição de volta."
+  },
+  {
+   "table": "ClientString_Name.csv",
+   "id": "BATTLEFIELD_TOURNAMENT_BETTING_RULE_DESC_7",
+   "column": "Value",
+   "en": "When a rollover occurs, existing participants can predict again for free. If no new selection is made, your cheer will automatically default to the clan with the highest vote percentage.",
+   "old": "Quando ocorre uma sobreposição, os participantes existentes podem prever novamente gratuitamente. Se nenhuma nova seleção for feita, sua aposta será automaticamente padronizada para o clã com a maior porcentagem de votos.",
+   "new": "Se houver uma nova rodada de escolha, quem já participou pode fazer outra previsão sem pagar. Se não escolher novamente, sua torcida irá para o clã com a maior porcentagem de votos."
+  },
+  {
+   "table": "ClientString_Name.csv",
+   "id": "BATTLEFIELD_TOURNAMENT_BET_REWARD",
+   "column": "Value",
+   "en": "Tournament Prediction Cheer Rewards",
+   "old": "Prêmios de apostas em torneios",
+   "new": "Recompensas da torcida do torneio"
+  },
+  {
+   "table": "ClientString_Name.csv",
+   "id": "BATTLEFIELD_TOURNAMENT_BET_RULE",
+   "column": "Value",
+   "en": "Cheer Rules",
+   "old": "Regras de apostas",
+   "new": "Regras da torcida"
+  },
+  {
+   "table": "ClientString_Name.csv",
+   "id": "BATTLEFIELD_TOURNAMENT_BETTING_ENTRY",
+   "column": "Value",
+   "en": "Participate in Cheer",
+   "old": "Coloque a aposta",
+   "new": "Participar da torcida"
+  },
+  {
+   "table": "ClientString_Name.csv",
+   "id": "BATTLEFIELD_TOURNAMENT_BETTING_CANCEL",
+   "column": "Value",
+   "en": "Cancel Cheer",
+   "old": "Cancelar aposta",
+   "new": "Cancelar torcida"
+  },
+  {
+   "table": "ClientString_Name.csv",
+   "id": "BATTLEFIELD_TOURNAMENT_BETTING_COST",
+   "column": "Value",
+   "en": "Cheer Cost",
+   "old": "Custo da aposta",
+   "new": "Custo da torcida"
+  },
+  {
+   "table": "ClientString_Name.csv",
+   "id": "BATTLEFIELD_TOURNAMENT_PREDICT_BET_BEFORE_BRACKET_CONFIRMATION",
+   "column": "Value",
+   "en": "Before Cheer Starts",
+   "old": "Antes do início das apostas",
+   "new": "Antes do início da torcida"
+  },
+  {
+   "table": "CollectionMain_Name.csv",
+   "id": "310262",
+   "column": "Name",
+   "en": "Resonating Destiny of Prophecy {Param}",
+   "old": "Resonating Destiny of Prophecy {Param}",
+   "new": "Destino da Profecia Ressonante {Param}"
+  },
+  {
+   "table": "CollectionMain_Name.csv",
+   "id": "732072",
+   "column": "Name",
+   "en": "Explorer’s Collection",
+   "old": "Explorer’s Collection",
+   "new": "Coleção do Explorer"
+  },
+  {
+   "table": "CollectionMain_Name.csv",
+   "id": "732073",
+   "column": "Name",
+   "en": "Explorer’s Cherished Item",
+   "old": "Explorer’s Cherished Item",
+   "new": "Item estimado do Explorer"
+  },
+  {
+   "table": "CollectionMain_Name.csv",
+   "id": "732074",
+   "column": "Name",
+   "en": "Explorer’s Treasure",
+   "old": "Explorer’s Treasure",
+   "new": "Tesouro do Explorer"
+  },
+  {
+   "table": "CollectionMain_Name.csv",
+   "id": "732075",
+   "column": "Name",
+   "en": "Explorer’s Spoils",
+   "old": "Explorer’s Spoils",
+   "new": "Espólios do Explorer"
+  },
+  {
+   "table": "CollectionMain_Name.csv",
+   "id": "732076",
+   "column": "Name",
+   "en": "Explorer’s Legacy",
+   "old": "Explorer’s Legacy",
+   "new": "Legado do Explorer"
+  },
+  {
+   "table": "DialogSubtitle_Name.csv",
+   "id": "10102010",
+   "column": "Speaker",
+   "en": "Mysterious Adventurer",
+   "old": "Aventureira Misteriosa",
+   "new": "Mysterious Adventurer",
+   "rule": "restore_exact_name"
+  },
+  {
+   "table": "DialogSubtitle_Name.csv",
+   "id": "10102020",
+   "column": "Speaker",
+   "en": "Mysterious Adventurer",
+   "old": "Aventureira Misteriosa",
+   "new": "Mysterious Adventurer",
+   "rule": "restore_exact_name"
+  },
+  {
+   "table": "DialogSubtitle_Name.csv",
+   "id": "10102030",
+   "column": "Speaker",
+   "en": "Mysterious Adventurer",
+   "old": "Aventureira Misteriosa",
+   "new": "Mysterious Adventurer",
+   "rule": "restore_exact_name"
+  },
+  {
+   "table": "DialogSubtitle_Name.csv",
+   "id": "10102010",
+   "column": "Speaker",
+   "en": "Mysterious Adventurer",
+   "old": "Mysterious Adventurer",
+   "new": "Aventureira Misteriosa",
+   "rule": "by_text"
+  },
+  {
+   "table": "DialogSubtitle_Name.csv",
+   "id": "10102020",
+   "column": "Speaker",
+   "en": "Mysterious Adventurer",
+   "old": "Mysterious Adventurer",
+   "new": "Aventureira Misteriosa",
+   "rule": "by_text"
+  },
+  {
+   "table": "DialogSubtitle_Name.csv",
+   "id": "10102030",
+   "column": "Speaker",
+   "en": "Mysterious Adventurer",
+   "old": "Mysterious Adventurer",
+   "new": "Aventureira Misteriosa",
+   "rule": "by_text"
+  },
+  {
+   "table": "Dialog_Name.csv",
+   "id": "110101010010",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Aventureira Misteriosa",
+   "new": "Mysterious Adventurer",
+   "rule": "restore_exact_name"
+  },
+  {
+   "table": "Dialog_Name.csv",
+   "id": "110101010030",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Aventureira Misteriosa",
+   "new": "Mysterious Adventurer",
+   "rule": "restore_exact_name"
+  },
+  {
+   "table": "Dialog_Name.csv",
+   "id": "110101010040",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Aventureira Misteriosa",
+   "new": "Mysterious Adventurer",
+   "rule": "restore_exact_name"
+  },
+  {
+   "table": "Dialog_Name.csv",
+   "id": "110101010050",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Aventureira Misteriosa",
+   "new": "Mysterious Adventurer",
+   "rule": "restore_exact_name"
+  },
+  {
+   "table": "Dialog_Name.csv",
+   "id": "110101010060",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Aventureira Misteriosa",
+   "new": "Mysterious Adventurer",
+   "rule": "restore_exact_name"
+  },
+  {
+   "table": "Dialog_Name.csv",
+   "id": "110101010070",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Aventureira Misteriosa",
+   "new": "Mysterious Adventurer",
+   "rule": "restore_exact_name"
+  },
+  {
+   "table": "Dialog_Name.csv",
+   "id": "110101010080",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Aventureira Misteriosa",
+   "new": "Mysterious Adventurer",
+   "rule": "restore_exact_name"
+  },
+  {
+   "table": "Dialog_Name.csv",
+   "id": "110101010090",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Aventureira Misteriosa",
+   "new": "Mysterious Adventurer",
+   "rule": "restore_exact_name"
+  },
+  {
+   "table": "Dialog_Name.csv",
+   "id": "110101010110",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Aventureira Misteriosa",
+   "new": "Mysterious Adventurer",
+   "rule": "restore_exact_name"
+  },
+  {
+   "table": "Dialog_Name.csv",
+   "id": "110101010160",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Aventureira Misteriosa",
+   "new": "Mysterious Adventurer",
+   "rule": "restore_exact_name"
+  },
+  {
+   "table": "Dialog_Name.csv",
+   "id": "110101010010",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Mysterious Adventurer",
+   "new": "Aventureira Misteriosa",
+   "rule": "by_text"
+  },
+  {
+   "table": "Dialog_Name.csv",
+   "id": "110101010030",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Mysterious Adventurer",
+   "new": "Aventureira Misteriosa",
+   "rule": "by_text"
+  },
+  {
+   "table": "Dialog_Name.csv",
+   "id": "110101010040",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Mysterious Adventurer",
+   "new": "Aventureira Misteriosa",
+   "rule": "by_text"
+  },
+  {
+   "table": "Dialog_Name.csv",
+   "id": "110101010050",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Mysterious Adventurer",
+   "new": "Aventureira Misteriosa",
+   "rule": "by_text"
+  },
+  {
+   "table": "Dialog_Name.csv",
+   "id": "110101010060",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Mysterious Adventurer",
+   "new": "Aventureira Misteriosa",
+   "rule": "by_text"
+  },
+  {
+   "table": "Dialog_Name.csv",
+   "id": "110101010070",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Mysterious Adventurer",
+   "new": "Aventureira Misteriosa",
+   "rule": "by_text"
+  },
+  {
+   "table": "Dialog_Name.csv",
+   "id": "110101010080",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Mysterious Adventurer",
+   "new": "Aventureira Misteriosa",
+   "rule": "by_text"
+  },
+  {
+   "table": "Dialog_Name.csv",
+   "id": "110101010090",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Mysterious Adventurer",
+   "new": "Aventureira Misteriosa",
+   "rule": "by_text"
+  },
+  {
+   "table": "Dialog_Name.csv",
+   "id": "110101010110",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Mysterious Adventurer",
+   "new": "Aventureira Misteriosa",
+   "rule": "by_text"
+  },
+  {
+   "table": "Dialog_Name.csv",
+   "id": "110101010160",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Mysterious Adventurer",
+   "new": "Aventureira Misteriosa",
+   "rule": "by_text"
+  },
+  {
+   "table": "Effect_Name.csv",
+   "id": "59998",
+   "column": "Name",
+   "en": "Aerial Dash - Treasure Chest Challenge",
+   "old": "Aerial Dash - Desafio do Baú do Tesouro",
+   "new": "Aerial Dash - Desafio do Treasure Chest",
+   "rule": "term_map"
+  },
+  {
+   "table": "Effect_Name.csv",
+   "id": "59998",
+   "column": "EffectDescription",
+   "en": "Aerial Dash - Treasure Chest Challenge",
+   "old": "Aerial Dash - Desafio do Baú do Tesouro",
+   "new": "Aerial Dash - Desafio do Treasure Chest",
+   "rule": "term_map"
+  },
+  {
+   "table": "Effect_Name.csv",
+   "id": "59998",
+   "column": "Name",
+   "en": "Aerial Dash - Treasure Chest Challenge",
+   "old": "Aerial Dash - Desafio do Treasure Chest",
+   "new": "Aerial Dash - Desafio do Baú do Tesouro",
+   "rule": "by_text"
+  },
+  {
+   "table": "Effect_Name.csv",
+   "id": "59998",
+   "column": "EffectDescription",
+   "en": "Aerial Dash - Treasure Chest Challenge",
+   "old": "Aerial Dash - Desafio do Treasure Chest",
+   "new": "Aerial Dash - Desafio do Baú do Tesouro",
+   "rule": "by_text"
+  },
+  {
+   "table": "EventAttendance_Name.csv",
+   "id": "20340",
+   "column": "PageName",
+   "en": "Arena Season 1 Check-in Event",
+   "old": "Arena Season 1 Check-in Event",
+   "new": "Check-in da 1ª temporada da Arena"
+  },
+  {
+   "table": "EventAttendance_Name.csv",
+   "id": "20340",
+   "column": "PageDesc",
+   "en": "Check in daily to claim your exclusive rewards.",
+   "old": "Check in daily to claim your exclusive rewards.",
+   "new": "Faça check-in todos os dias para receber recompensas exclusivas."
+  },
+  {
+   "table": "EventBanner_Name.csv",
+   "id": "5031",
+   "column": "Desc",
+   "en": "Incursion anomaly has caused irregularities in spawn frequency and item drops.\r\n\r\n; Additional Grand Incursion (Every day at 18:00 UTC+9)\r\n: Number of simultaneous Incursions increased:\r\n; Exchangeable Remains can be obtained from Incursions\r\n; Double Unknown Fragments event activated.\r\n\r\nYou can exchange Incursion Remains for rewards in the exchange event.",
+   "old": "A anomalia de incursão causou irregularidades na frequência de aparecimento e no item gotas.\r\n\r\n; Grande Incursão Adicional (Todos os dias às 18h)\r\n: Número de Incursões simultâneas aumentado:\r\n; Restos Trocáveis ​​podem ser obtidos em Incursions\r\n; Evento Double Unknown Fragments ativado.\r\n\r\nVocê pode trocar Incursion Remains por recompensas no evento de troca.",
+   "new": "Uma anomalia de Incursão alterou a frequência de aparecimento dos monstros e a obtenção de itens.\r\n\r\n; Grande Incursão adicional (todos os dias às 18h, UTC+9)\r\n: Mais Incursões simultâneas:\r\n; Obtenha restos que podem ser trocados nas Incursões\r\n; Evento Double Unknown Fragments ativado.\r\n\r\nTroque os restos da Incursão por recompensas no evento de troca."
+  },
+  {
+   "table": "EventBanner_Name.csv",
+   "id": "5065",
+   "column": "Desc",
+   "en": "Due to an anomaly caused by the Incursion, irregularities have occurred in spawn frequency and item drops.\r\n\r\n : Additional Grand Incursion (Every day at 18:00 UTC+9)\r\n : Increased number of simultaneous Incursions\r\n : Obtain exchangeable remnants from Incursions\r\n\r\nIncursion Remnants can be exchanged for rewards through the exchange event.",
+   "old": "Due to an anomaly caused by the Incursion, irregularities have occurred in spawn frequency and item drops.\r\n\r\n : Additional Grand Incursion (Every day at 18:00 UTC+9)\r\n : Increased number of simultaneous Incursions\r\n : Obtain exchangeable remnants from Incursions\r\n\r\nIncursion Remnants can be exchanged for rewards through the exchange event.",
+   "new": "Uma anomalia causada pela Incursão alterou a frequência de aparecimento dos monstros e a obtenção de itens.\r\n\r\n : Grande Incursão adicional (todos os dias às 18h, UTC+9)\r\n : Mais Incursões simultâneas\r\n : Obtenha restos que podem ser trocados nas Incursões\r\n\r\nTroque os restos da Incursão por recompensas no evento de troca."
+  },
+  {
+   "table": "EventDice_Name.csv",
+   "id": "1006",
+   "column": "ToolTipString",
+   "en": "Collect up to 20 <Yellow>[Name]</> for the event every day from the Forsaken Land and the Giant’s Tower.\r\nIf you roll a <Yellow>[6], you get a Bonus Roll</>!",
+   "old": "Colete até 20 <Yellow>[Name]</> para o evento todos os dias na Forsaken Land e na Giant's Tower.\r\nSe você rolar um <Yellow>[6], você ganha um Rolo de Bônus</>!",
+   "new": "Colete até 20 <Yellow>[Name]</> por dia na Forsaken Land e na Giant's Tower.\r\nSe tirar <Yellow>[6], você ganha uma jogada extra</>!"
+  },
+  {
+   "table": "EventDrop_Name.csv",
+   "id": "1017",
+   "column": "PageName",
+   "en": "Naruru Dice Drop",
+   "old": "Naruru Dice Drop",
+   "new": "Obtendo Naruru Dice"
+  },
+  {
+   "table": "EventDrop_Name.csv",
+   "id": "1017",
+   "column": "PageDesc",
+   "en": "Defeat monsters in the Forsaken Land and the Giant's Tower!\r\nDefeat them for a chance to get \"Naruru Dice.\"",
+   "old": "Defeat monsters in the Forsaken Land and the Giant's Tower!\r\nDefeat them for a chance to get \"Naruru Dice.\"",
+   "new": "Derrote monstros na Forsaken Land e na Giant's Tower!\r\nVocê poderá obter Naruru Dice como recompensa."
+  },
+  {
+   "table": "EventMissionRecord_Name.csv",
+   "id": "1107001",
+   "column": "Name",
+   "en": "Participate in Replica Seed",
+   "old": "Participate in Replica Seed",
+   "new": "Participe da Replica Seed",
+   "rule": "by_text"
+  },
+  {
+   "table": "EventMissionRecord_Name.csv",
+   "id": "1108007",
+   "column": "Name",
+   "en": "Defeat Incursion/Grand Incursion Monsters",
+   "old": "Defeat Incursion/Grand Incursion Monsters",
+   "new": "Derrote monstros de Incursão ou Grande Incursão",
+   "rule": "by_text"
+  },
+  {
+   "table": "EventMissionRecord_Name.csv",
+   "id": "1108008",
+   "column": "Name",
+   "en": "Defeat Incursion/Grand Incursion Monsters",
+   "old": "Defeat Incursion/Grand Incursion Monsters",
+   "new": "Derrote monstros de Incursão ou Grande Incursão",
+   "rule": "by_text"
+  },
+  {
+   "table": "EventMissionRecord_Name.csv",
+   "id": "1107001",
+   "column": "Desc",
+   "en": "Participate in Replica Seed {RequiredStackCount} time(s)",
+   "old": "Participate in Replica Seed {RequiredStackCount} time(s)",
+   "new": "Participe da Replica Seed {RequiredStackCount} vez(es)",
+   "rule": "by_text"
+  },
+  {
+   "table": "EventMission_Name.csv",
+   "id": "11070",
+   "column": "PageName",
+   "en": "Replica Seed Mission Event",
+   "old": "Replica Seed Mission Event",
+   "new": "Missões da Replica Seed"
+  },
+  {
+   "table": "EventMission_Name.csv",
+   "id": "11070",
+   "column": "PageDesc",
+   "en": "Participate in Replica Seed and grab your rewards!",
+   "old": "Participate in Replica Seed and grab your rewards!",
+   "new": "Participe da Replica Seed e resgate suas recompensas!"
+  },
+  {
+   "table": "EventMission_Name.csv",
+   "id": "11110",
+   "column": "PageName",
+   "en": "Arena Mission Event",
+   "old": "Arena Mission Event",
+   "new": "Missões da Arena"
+  },
+  {
+   "table": "EventTab_Name.csv",
+   "id": "137",
+   "column": "TabName",
+   "en": "Arena Season 1 Check-in Event",
+   "old": "Arena Season 1 Check-in Event",
+   "new": "Check-in da 1ª temporada da Arena"
+  },
+  {
+   "table": "EventTab_Name.csv",
+   "id": "1107",
+   "column": "TabName",
+   "en": "Replica Seed Mission Event",
+   "old": "Replica Seed Mission Event",
+   "new": "Missões da Replica Seed"
+  },
+  {
+   "table": "EventTab_Name.csv",
+   "id": "1111",
+   "column": "TabName",
+   "en": "Arena Mission Event",
+   "old": "Arena Mission Event",
+   "new": "Missões da Arena"
+  },
+  {
+   "table": "EventTab_Name.csv",
+   "id": "6018",
+   "column": "TabName",
+   "en": "Naruru Dice Drop",
+   "old": "Naruru Dice Drop",
+   "new": "Obtendo Naruru Dice"
+  },
+  {
+   "table": "GuideGrowth_Name.csv",
+   "id": "1008",
+   "column": "Name",
+   "en": "Title",
+   "old": "Título",
+   "new": "Title",
+   "rule": "restore_exact_name"
+  },
+  {
+   "table": "Item_Name.csv",
+   "id": "8021001",
+   "column": "Desc",
+   "en": "This is a box awarded when you achieve {Param1} Points or more in the Clan Tournament's Round Prediction.",
+   "old": "This is a box awarded when you achieve {Param1} Points or more in the Clan Tournament's Round Prediction.",
+   "new": "Caixa concedida ao alcançar {Param1} pontos ou mais na previsão de rodadas do torneio de clãs."
+  },
+  {
+   "table": "Item_Name.csv",
+   "id": "9000065",
+   "column": "Desc",
+   "en": "{Param1} dice.\r\nKill monsters to obtain it,\r\nthen use it in the “Naruru Dice Festival” event.",
+   "old": "{Param1} dice.\r\nKill monsters to obtain it,\r\nthen use it in the “Naruru Dice Festival” event.",
+   "new": "{Param1} dado(s).\r\nDerrote monstros para obtê-los\r\ne use-os no evento Naruru Dice Festival."
+  },
+  {
+   "table": "Item_Name.csv",
+   "id": "9000066",
+   "column": "Desc",
+   "en": "Fragments that fell from the Grand Incursion gates.\r\nYou can exchange the for rewards at the Incursion’s Remnants Exchange Event.",
+   "old": "Fragmentos dos portais de Grand Incursion. Troque por recompensas no evento Incursion’s Remnants Exchange.",
+   "new": "Fragmentos caídos dos portais da Grande Incursão.\r\nTroque-os por recompensas no evento de troca de restos da Incursão."
+  },
+  {
+   "table": "Item_Name.csv",
+   "id": "9000067",
+   "column": "Desc",
+   "en": "Tesseract of Silence {Param1}.\r\nCan be exchanged for rewards through the Incursion Remnant Exchange Event.",
+   "old": "Tesseract of Silence {Param1}. Pode ser trocado por recompensas no evento Incursion Remnant Exchange.",
+   "new": "Tesseract of Silence {Param1}.\r\nPode ser trocado por recompensas no evento de troca de restos da Incursão."
+  },
+  {
+   "table": "Mail_Name.csv",
+   "id": "1057",
+   "column": "Title",
+   "en": "Tournament Cheer #[Rank] Reward",
+   "old": "Apostas em torneio #[Rank] Recompensa",
+   "new": "Recompensa da torcida do torneio: #[Rank]"
+  },
+  {
+   "table": "Mail_Name.csv",
+   "id": "1057",
+   "column": "Content",
+   "en": "Your reward for reaching #[Rank] in [TournamentName] Cheer Results has been sent to your mailbox.\r\nTotal Reward: [TotalReward]\r\n#[Rank] Distribution Rate: [Rate]%\r\n#[Rank] Achievers: [Count]\r\n※ If a rank has no qualifying players, its reward share will be equally redistributed among the remaining active ranks. Final distribution ratios may vary from the base rate.",
+   "old": "Sua recompensa por colocar #[Rank] nas apostas [TournamentName] foi enviada para seu e-mail.\r\nRecompensa total: [TotalReward]\r\n#[Rank] Taxa de distribuição: [Rate]%\r\n#[Rank] Conquistadores: [Count]\r\n※ Se uma classificação não tiver jogadores qualificados, sua parcela de recompensa será redistribuída igualmente entre as classificações ativas restantes. Os índices de distribuição finais podem variar da taxa básica.",
+   "new": "Sua recompensa pelo #[Rank] lugar nos resultados da torcida de [TournamentName] foi enviada pelo correio.\r\nRecompensa total: [TotalReward]\r\nTaxa de distribuição do #[Rank] lugar: [Rate]%\r\nParticipantes no #[Rank] lugar: [Count]\r\n※ Se não houver jogadores classificados em uma posição, a parte correspondente do prêmio será dividida igualmente entre as demais posições válidas. A distribuição final pode diferir da taxa inicial."
+  },
+  {
+   "table": "Mail_Name.csv",
+   "id": "1059",
+   "column": "Content",
+   "en": "Your prediction for the [TournamentName] Champion Clan was incorrect. Your reward has been sent via Mail.\r\nYour Prediction: [PickClanName]\r\nChampion Clan: [WinnerClanName]",
+   "old": "Você previu corretamente o clã [TournamentName] Champion! Sua recompensa foi enviada por correio.\r\nSua previsão: [PickClanName]\r\nClã campeão: [WinnerClanName]",
+   "new": "Sua previsão do clã campeão de [TournamentName] estava incorreta. Sua recompensa foi enviada pelo correio.\r\nSua previsão: [PickClanName]\r\nClã campeão: [WinnerClanName]"
+  },
+  {
+   "table": "MiniDialog_Name.csv",
+   "id": "1101010350010",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Aventureira Misteriosa",
+   "new": "Mysterious Adventurer",
+   "rule": "restore_exact_name"
+  },
+  {
+   "table": "MiniDialog_Name.csv",
+   "id": "1101010350020",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Aventureira Misteriosa",
+   "new": "Mysterious Adventurer",
+   "rule": "restore_exact_name"
+  },
+  {
+   "table": "MiniDialog_Name.csv",
+   "id": "1101010350030",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Aventureira Misteriosa",
+   "new": "Mysterious Adventurer",
+   "rule": "restore_exact_name"
+  },
+  {
+   "table": "MiniDialog_Name.csv",
+   "id": "1101010350040",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Aventureira Misteriosa",
+   "new": "Mysterious Adventurer",
+   "rule": "restore_exact_name"
+  },
+  {
+   "table": "MiniDialog_Name.csv",
+   "id": "1101360040010",
+   "column": "Name",
+   "en": "A Gravelly-Voiced Merchant",
+   "old": "Um mercador de voz grave",
+   "new": "Um Merchant de voz grave",
+   "rule": "term_map"
+  },
+  {
+   "table": "MiniDialog_Name.csv",
+   "id": "1204220060010",
+   "column": "Name",
+   "en": "Merchant's Shout",
+   "old": "Grito do mercador",
+   "new": "Grito do Merchant",
+   "rule": "term_map"
+  },
+  {
+   "table": "MiniDialog_Name.csv",
+   "id": "1101010350010",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Mysterious Adventurer",
+   "new": "Aventureira Misteriosa",
+   "rule": "by_text"
+  },
+  {
+   "table": "MiniDialog_Name.csv",
+   "id": "1101010350020",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Mysterious Adventurer",
+   "new": "Aventureira Misteriosa",
+   "rule": "by_text"
+  },
+  {
+   "table": "MiniDialog_Name.csv",
+   "id": "1101010350030",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Mysterious Adventurer",
+   "new": "Aventureira Misteriosa",
+   "rule": "by_text"
+  },
+  {
+   "table": "MiniDialog_Name.csv",
+   "id": "1101010350040",
+   "column": "Name",
+   "en": "Mysterious Adventurer",
+   "old": "Mysterious Adventurer",
+   "new": "Aventureira Misteriosa",
+   "rule": "by_text"
+  },
+  {
+   "table": "MiniDialog_Name.csv",
+   "id": "1101360040010",
+   "column": "Name",
+   "en": "A Gravelly-Voiced Merchant",
+   "old": "Um Merchant de voz grave",
+   "new": "Um mercador de voz grave",
+   "rule": "by_text"
+  },
+  {
+   "table": "MiniDialog_Name.csv",
+   "id": "1204220060010",
+   "column": "Name",
+   "en": "Merchant's Shout",
+   "old": "Grito do Merchant",
+   "new": "Grito do mercador",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestFactionGroup_Name.csv",
+   "id": "15",
+   "column": "Desc",
+   "en": "Explorers Guild Overview",
+   "old": "Explorers Guild Overview",
+   "new": "Visão geral da Explorers Guild"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515010010",
+   "column": "TaskName",
+   "en": "Speak with Orica",
+   "old": "Speak with Orica",
+   "new": "Fale com Orica",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515010020",
+   "column": "TaskName",
+   "en": "Speak with Orica",
+   "old": "Speak with Orica",
+   "new": "Fale com Orica",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515010030",
+   "column": "TaskName",
+   "en": "Wait for Orica to finish the call",
+   "old": "Wait for Orica to finish the call",
+   "new": "Espere Orica terminar a ligação",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515010040",
+   "column": "TaskName",
+   "en": "Speak with Orica",
+   "old": "Speak with Orica",
+   "new": "Fale com Orica",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515010050",
+   "column": "TaskName",
+   "en": "Go to the Magobi Encampment",
+   "old": "Go to the Magobi Encampment",
+   "new": "Vá para Magobi Encampment",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515010060",
+   "column": "TaskName",
+   "en": "Observe Surroundings",
+   "old": "Observe Surroundings",
+   "new": "Observe os arredores",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515010070",
+   "column": "TaskName",
+   "en": "Observe Surroundings",
+   "old": "Observe Surroundings",
+   "new": "Observe os arredores",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515010080",
+   "column": "TaskName",
+   "en": "Speak with Zeyhan",
+   "old": "Speak with Zeyhan",
+   "new": "Fale com Zeyhan",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515010090",
+   "column": "TaskName",
+   "en": "Speak with Zeyhan",
+   "old": "Speak with Zeyhan",
+   "new": "Fale com Zeyhan",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515010100",
+   "column": "TaskName",
+   "en": "Pass through the Valley of Beasts",
+   "old": "Pass through the Valley of Beasts",
+   "new": "Atravesse Valley of Beasts",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515010120",
+   "column": "TaskName",
+   "en": "Go to the Gorge of Perdition",
+   "old": "Go to the Gorge of Perdition",
+   "new": "Vá para Gorge of Perdition",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515010130",
+   "column": "TaskName",
+   "en": "Go to the Gorge of Perdition",
+   "old": "Go to the Gorge of Perdition",
+   "new": "Vá para Gorge of Perdition",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515010140",
+   "column": "TaskName",
+   "en": "Go towards the voice",
+   "old": "Go towards the voice",
+   "new": "Siga na direção da voz",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515010150",
+   "column": "TaskName",
+   "en": "Observe quietly",
+   "old": "Observe quietly",
+   "new": "Observe em silêncio",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515020010",
+   "column": "TaskName",
+   "en": "Speak with Bailiegh",
+   "old": "Speak with Bailiegh",
+   "new": "Fale com Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515020020",
+   "column": "TaskName",
+   "en": "Speak with Bailiegh",
+   "old": "Speak with Bailiegh",
+   "new": "Fale com Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515020030",
+   "column": "TaskName",
+   "en": "Sign the document on an impulse",
+   "old": "Sign the document on an impulse",
+   "new": "Assine o documento sem pensar muito",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515020040",
+   "column": "TaskName",
+   "en": "Speak with Bailiegh",
+   "old": "Speak with Bailiegh",
+   "new": "Fale com Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515020050",
+   "column": "TaskName",
+   "en": "Go with Bailiegh",
+   "old": "Go with Bailiegh",
+   "new": "Acompanhe Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515020060",
+   "column": "TaskName",
+   "en": "Speak with Bailiegh",
+   "old": "Speak with Bailiegh",
+   "new": "Fale com Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515020070",
+   "column": "TaskName",
+   "en": "Speak with Bailiegh",
+   "old": "Speak with Bailiegh",
+   "new": "Fale com Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515020080",
+   "column": "TaskName",
+   "en": "Go to the area where essences can be found",
+   "old": "Go to the area where essences can be found",
+   "new": "Vá até onde há essências",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515020090",
+   "column": "TaskName",
+   "en": "Defeat incoming monsters",
+   "old": "Defeat incoming monsters",
+   "new": "Derrote os monstros que se aproximam",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515020100",
+   "column": "TaskName",
+   "en": "Collect essence fragments",
+   "old": "Collect essence fragments",
+   "new": "Colete fragmentos de essência",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515020101",
+   "column": "TaskName",
+   "en": "Collect essence fragments",
+   "old": "Collect essence fragments",
+   "new": "Colete fragmentos de essência",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515020110",
+   "column": "TaskName",
+   "en": "Go to the area where essences can be found",
+   "old": "Go to the area where essences can be found",
+   "new": "Vá até onde há essências",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515020120",
+   "column": "TaskName",
+   "en": "Climb the ruins",
+   "old": "Climb the ruins",
+   "new": "Suba pelas ruínas",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515020130",
+   "column": "TaskName",
+   "en": "Collect essence fragments",
+   "old": "Collect essence fragments",
+   "new": "Colete fragmentos de essência",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515020140",
+   "column": "TaskName",
+   "en": "Collect essence fragments",
+   "old": "Collect essence fragments",
+   "new": "Colete fragmentos de essência",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515020150",
+   "column": "TaskName",
+   "en": "Return to Bailiegh",
+   "old": "Return to Bailiegh",
+   "new": "Volte até Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515020160",
+   "column": "TaskName",
+   "en": "Return to Bailiegh",
+   "old": "Return to Bailiegh",
+   "new": "Volte até Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515020170",
+   "column": "TaskName",
+   "en": "Return to Bailiegh",
+   "old": "Return to Bailiegh",
+   "new": "Volte até Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515030010",
+   "column": "TaskName",
+   "en": "Go to the frightened guild member",
+   "old": "Go to the frightened guild member",
+   "new": "Vá até o membro assustado da guilda",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515030020",
+   "column": "TaskName",
+   "en": "Speak with the frightened guild member",
+   "old": "Speak with the frightened guild member",
+   "new": "Fale com o membro assustado da guilda",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515030030",
+   "column": "TaskName",
+   "en": "Move in the direction Nicolas indicated",
+   "old": "Move in the direction Nicolas indicated",
+   "new": "Siga na direção indicada por Nicolas",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515030040",
+   "column": "TaskName",
+   "en": "Defeat the interfering monsters",
+   "old": "Defeat the interfering monsters",
+   "new": "Derrote os monstros que atrapalham a busca",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515030050",
+   "column": "TaskName",
+   "en": "Go to the area where essences can be found",
+   "old": "Go to the area where essences can be found",
+   "new": "Vá até onde há essências",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515030060",
+   "column": "TaskName",
+   "en": "Collect Factor",
+   "old": "Collect Factor",
+   "new": "Colete o fator",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515030070",
+   "column": "TaskName",
+   "en": "Go to Bailiegh",
+   "old": "Go to Bailiegh",
+   "new": "Vá até Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515030080",
+   "column": "TaskName",
+   "en": "Speak with Bailiegh",
+   "old": "Speak with Bailiegh",
+   "new": "Fale com Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515030090",
+   "column": "TaskName",
+   "en": "Go to the place Bailiegh mentioned",
+   "old": "Go to the place Bailiegh mentioned",
+   "new": "Vá ao local indicado por Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515030100",
+   "column": "TaskName",
+   "en": "Manipulate Replica Seed",
+   "old": "Manipulate Replica Seed",
+   "new": "Ative a Replica Seed",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515030110",
+   "column": "TaskName",
+   "en": "Manipulate the Replica Seed again",
+   "old": "Manipulate the Replica Seed again",
+   "new": "Ative a Replica Seed novamente",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515030120",
+   "column": "TaskName",
+   "en": "Speak with Bailiegh",
+   "old": "Speak with Bailiegh",
+   "new": "Fale com Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515030130",
+   "column": "TaskName",
+   "en": "Speak with Bailiegh",
+   "old": "Speak with Bailiegh",
+   "new": "Fale com Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515030140",
+   "column": "TaskName",
+   "en": "Go to the Great Arbor Domain",
+   "old": "Go to the Great Arbor Domain",
+   "new": "Vá para Great Arbor Domain",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515040010",
+   "column": "TaskName",
+   "en": "Speak with Bailiegh",
+   "old": "Speak with Bailiegh",
+   "new": "Fale com Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515040020",
+   "column": "TaskName",
+   "en": "Speak with Bailiegh",
+   "old": "Speak with Bailiegh",
+   "new": "Fale com Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515040030",
+   "column": "TaskName",
+   "en": "Go to the Kuduru Territory",
+   "old": "Go to the Kuduru Territory",
+   "new": "Vá para Kuduru Territory",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515040040",
+   "column": "TaskName",
+   "en": "Go to the Kuduru Territory",
+   "old": "Go to the Kuduru Territory",
+   "new": "Vá para Kuduru Territory",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515040050",
+   "column": "TaskName",
+   "en": "Go to Nicolas",
+   "old": "Go to Nicolas",
+   "new": "Vá até Nicolas",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515040060",
+   "column": "TaskName",
+   "en": "Speak with Nicolas",
+   "old": "Speak with Nicolas",
+   "new": "Fale com Nicolas",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515040070",
+   "column": "TaskName",
+   "en": "Descend to the ground",
+   "old": "Descend to the ground",
+   "new": "Desça até o chão",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515040080",
+   "column": "TaskName",
+   "en": "Follow the traces of the Naruru",
+   "old": "Follow the traces of the Naruru",
+   "new": "Siga os rastros do Naruru",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515040090",
+   "column": "TaskName",
+   "en": "Follow the traces of the Naruru",
+   "old": "Follow the traces of the Naruru",
+   "new": "Siga os rastros do Naruru",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515040100",
+   "column": "TaskName",
+   "en": "Go towards the voice",
+   "old": "Go towards the voice",
+   "new": "Siga na direção da voz",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515040110",
+   "column": "TaskName",
+   "en": "Comfort the sobbing Naruru",
+   "old": "Comfort the sobbing Naruru",
+   "new": "Conforte o Naruru que está chorando",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515040120",
+   "column": "TaskName",
+   "en": "Speak with the sobbing Naruru",
+   "old": "Speak with the sobbing Naruru",
+   "new": "Fale com o Naruru que está chorando",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515040130",
+   "column": "TaskName",
+   "en": "Speak with the sobbing Naruru",
+   "old": "Speak with the sobbing Naruru",
+   "new": "Fale com o Naruru que está chorando",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515040140",
+   "column": "TaskName",
+   "en": "Move near the water",
+   "old": "Move near the water",
+   "new": "Aproxime-se da água",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515040150",
+   "column": "TaskName",
+   "en": "Collect Tagar essences",
+   "old": "Collect Tagar essences",
+   "new": "Colete essências de Tagar",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515040160",
+   "column": "TaskName",
+   "en": "Move near the water",
+   "old": "Move near the water",
+   "new": "Aproxime-se da água",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515040170",
+   "column": "TaskName",
+   "en": "Defeat the monsters interfering with collection",
+   "old": "Defeat the monsters interfering with collection",
+   "new": "Derrote os monstros que atrapalham a coleta",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515040180",
+   "column": "TaskName",
+   "en": "Go to the area where essences can be found",
+   "old": "Go to the area where essences can be found",
+   "new": "Vá até onde há essências",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515040190",
+   "column": "TaskName",
+   "en": "Collect Tagar essences",
+   "old": "Collect Tagar essences",
+   "new": "Colete essências de Tagar",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515040200",
+   "column": "TaskName",
+   "en": "Collect Tagar essences",
+   "old": "Collect Tagar essences",
+   "new": "Colete essências de Tagar",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515050010",
+   "column": "TaskName",
+   "en": "Go to Bailiegh",
+   "old": "Go to Bailiegh",
+   "new": "Vá até Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515050020",
+   "column": "TaskName",
+   "en": "Appearance of Nicolas and the Naruru",
+   "old": "Appearance of Nicolas and the Naruru",
+   "new": "Nicolas e o Naruru aparecem",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515050030",
+   "column": "TaskName",
+   "en": "Go to Bailiegh",
+   "old": "Go to Bailiegh",
+   "new": "Vá até Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515050040",
+   "column": "TaskName",
+   "en": "Speak with Bailiegh",
+   "old": "Speak with Bailiegh",
+   "new": "Fale com Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515050050",
+   "column": "TaskName",
+   "en": "Hand over the Replica Seed",
+   "old": "Hand over the Replica Seed",
+   "new": "Entregue a Replica Seed",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515050070",
+   "column": "TaskName",
+   "en": "Speak with Bailiegh",
+   "old": "Speak with Bailiegh",
+   "new": "Fale com Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515050080",
+   "column": "TaskName",
+   "en": "Go to the area with essences",
+   "old": "Go to the area with essences",
+   "new": "Vá até a área das essências",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515050090",
+   "column": "TaskName",
+   "en": "Go to the area with essences",
+   "old": "Go to the area with essences",
+   "new": "Vá até a área das essências",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515050100",
+   "column": "TaskName",
+   "en": "Speak with Bailiegh",
+   "old": "Speak with Bailiegh",
+   "new": "Fale com Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515050110",
+   "column": "TaskName",
+   "en": "Speak with Bailiegh",
+   "old": "Speak with Bailiegh",
+   "new": "Fale com Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515050120",
+   "column": "TaskName",
+   "en": "Go to the Tagar essence",
+   "old": "Go to the Tagar essence",
+   "new": "Vá até a essência de Tagar",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515050130",
+   "column": "TaskName",
+   "en": "Use the Replica Seed",
+   "old": "Use the Replica Seed",
+   "new": "Use a Replica Seed",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515050140",
+   "column": "TaskName",
+   "en": "Defeat the Tagar replica",
+   "old": "Defeat the Tagar replica",
+   "new": "Derrote a réplica de Tagar",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515050150",
+   "column": "TaskName",
+   "en": "Speak with Bailiegh",
+   "old": "Speak with Bailiegh",
+   "new": "Fale com Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515050160",
+   "column": "TaskName",
+   "en": "Speak with Bailiegh",
+   "old": "Speak with Bailiegh",
+   "new": "Fale com Bailiegh",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515050170",
+   "column": "TaskName",
+   "en": "Reach Babylon",
+   "old": "Reach Babylon",
+   "new": "Chegue a Babylon",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515050180",
+   "column": "TaskName",
+   "en": "Go to the Explorers’ Guild",
+   "old": "Go to the Explorers’ Guild",
+   "new": "Vá para Explorers Guild",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515050190",
+   "column": "TaskName",
+   "en": "Speak with Orica",
+   "old": "Speak with Orica",
+   "new": "Fale com Orica",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestTask_Name.csv",
+   "id": "515050200",
+   "column": "TaskName",
+   "en": "Speak with Orica",
+   "old": "Speak with Orica",
+   "new": "Fale com Orica",
+   "rule": "by_text"
+  },
+  {
+   "table": "QuestWorldSeason_Name.csv",
+   "id": "Dungeon/InterServer/InterServer01/InterServer",
+   "column": "SeasonLockMessage",
+   "en": "Cannot enter because the Abyssal Battlefield season has ended.\r\nYou can enter when the next season begins.",
+   "old": "A temporada do Abyss Battleground terminou e você não pode entrar.\r\nVocê pode entrar quando a próxima temporada começar.",
+   "new": "A temporada de Abyssal Battlefield terminou.\r\nVocê poderá entrar quando a próxima temporada começar."
+  },
+  {
+   "table": "Quest_Name.csv",
+   "id": "515010",
+   "column": "Name",
+   "en": "An Easy Mark",
+   "old": "An Easy Mark",
+   "new": "Uma presa fácil"
+  },
+  {
+   "table": "Quest_Name.csv",
+   "id": "515010",
+   "column": "DescNotCompleted",
+   "en": "The Adventurer visits the Explorers’ Guild at Orica’s request.\r\nThey agree to help in exchange for information regarding the mercenary group.",
+   "old": "The Adventurer visits the Explorers’ Guild at Orica’s request.\r\nThey agree to help in exchange for information regarding the mercenary group.",
+   "new": "A pedido de Orica, o aventureiro visita a Explorers Guild.\r\nEle concorda em ajudar em troca de informações sobre o grupo de mercenários."
+  },
+  {
+   "table": "Quest_Name.csv",
+   "id": "515020",
+   "column": "Name",
+   "en": "Do As You're Told",
+   "old": "Do As You're Told",
+   "new": "Faça o que mandam"
+  },
+  {
+   "table": "Quest_Name.csv",
+   "id": "515020",
+   "column": "DescNotCompleted",
+   "en": "The Adventurer meets Bailiegh, the Vice Master of the Explorers’ Guild, and assists with the Replica Seed research.",
+   "old": "The Adventurer meets Bailiegh, the Vice Master of the Explorers’ Guild, and assists with the Replica Seed research.",
+   "new": "O aventureiro conhece Bailiegh, vice-mestre da Explorers Guild, e o ajuda na pesquisa da Replica Seed."
+  },
+  {
+   "table": "Quest_Name.csv",
+   "id": "515030",
+   "column": "Name",
+   "en": "Between the Real and the Fake",
+   "old": "Between the Real and the Fake",
+   "new": "Entre o real e o falso"
+  },
+  {
+   "table": "Quest_Name.csv",
+   "id": "515030",
+   "column": "DescNotCompleted",
+   "en": "Nicolas risks danger to impress Bailiegh.\r\nThe Adventurer helps him collect Karugura essences.",
+   "old": "Nicolas risks danger to impress Bailiegh.\r\nThe Adventurer helps him collect Karugura essences.",
+   "new": "Nicolas se arrisca para impressionar Bailiegh.\r\nO aventureiro o ajuda a coletar essências de Karugura."
+  },
+  {
+   "table": "Quest_Name.csv",
+   "id": "515040",
+   "column": "Name",
+   "en": "Let's Just Take it Easy",
+   "old": "Let's Just Take it Easy",
+   "new": "Vamos com calma"
+  },
+  {
+   "table": "Quest_Name.csv",
+   "id": "515040",
+   "column": "DescNotCompleted",
+   "en": "The Adventurer and Bailiegh travel to the Great Arbor Domain to collect Tagar essences.",
+   "old": "The Adventurer and Bailiegh travel to the Great Arbor Domain to collect Tagar essences.",
+   "new": "O aventureiro e Bailiegh seguem para Great Arbor Domain em busca de essências de Tagar."
+  },
+  {
+   "table": "Quest_Name.csv",
+   "id": "515050",
+   "column": "Name",
+   "en": "Mirror Therapy",
+   "old": "Mirror Therapy",
+   "new": "Terapia do espelho"
+  },
+  {
+   "table": "Quest_Name.csv",
+   "id": "515050",
+   "column": "DescNotCompleted",
+   "en": "Despite the commotion caused by Nicolas, the Adventurer succeeds in manifesting Tagar using the Replica Seed.",
+   "old": "Despite the commotion caused by Nicolas, the Adventurer succeeds in manifesting Tagar using the Replica Seed.",
+   "new": "Apesar da confusão causada por Nicolas, o aventureiro consegue manifestar Tagar com a Replica Seed."
+  },
+  {
+   "table": "ResultCodeString_Name.csv",
+   "id": "30405",
+   "column": "Value",
+   "en": "You have already participated in this Tournament's Cheer.",
+   "old": "Você já fez uma aposta neste torneio.",
+   "new": "Você já participou da torcida deste torneio."
+  },
+  {
+   "table": "ResultCodeString_Name.csv",
+   "id": "30406",
+   "column": "Value",
+   "en": "You have not participated in the Monolith War Tournament Cheer.",
+   "old": "Você não fez uma aposta no Torneio Monolith War.",
+   "new": "Você não participou da torcida do torneio Monolith War."
+  },
+  {
+   "table": "ResultCodeString_Name.csv",
+   "id": "30407",
+   "column": "Value",
+   "en": "The Cheer Results fee for the Monolith War Tournament has not been set.",
+   "old": "O custo das apostas para o Torneio Monolith War não foi definido.",
+   "new": "O custo da torcida do torneio Monolith War ainda não foi definido."
+  },
+  {
+   "table": "ShopAccumSetting_Name.csv",
+   "id": "112002",
+   "column": "Name",
+   "en": "Daily Shop",
+   "old": "Daily Shop",
+   "new": "Loja diária"
+  },
+  {
+   "table": "ShopTab_Name.csv",
+   "id": "112002",
+   "column": "TabName",
+   "en": "Daily Shop",
+   "old": "Daily Shop",
+   "new": "Loja diária"
+  }
+ ],
+ "errors": [],
+ "unused": [
+  "BadgeNotification_Name.csv.Param: Glider Summon",
+  "ContentsFunctionGroup_Name.csv.Param: Marketplace Listing Capacity",
+  "ContentsFunctionGroup_Name.csv.Param: Enhancement Stone Chest",
+  "ContentsFunctionGroup_Name.csv.Param: Advanced Summon Costume Chest",
+  "ContentsFunctionGroup_Name.csv.Param: Advanced Summon Phantom Weapon Chest",
+  "ContentsFunctionGroup_Name.csv.Param: Free Death Penalty Recovery Attempts",
+  "ContentsFunction_Name.csv.Param: Crest Reset Refund Rate",
+  "ContentsFunction_Name.csv.Param: Reset Crest",
+  "ContentsFunction_Name.csv.Param: Free Death Penalty Recovery",
+  "DialogSubtitle_Name.csv.Speaker: Troubled Resident",
+  "DialogSubtitle_Name.csv.Speaker: Unfamiliar Voice",
+  "DialogSubtitle_Name.csv.Speaker: Snickering Voice",
+  "DialogSubtitle_Name.csv.Speaker: Fierce Voice",
+  "DialogSubtitle_Name.csv.Speaker: Dispatched Hunter (Male)",
+  "DialogSubtitle_Name.csv.Speaker: Familiar Voice",
+  "DialogSubtitle_Name.csv.Speaker: Cheerful Defense Force Member",
+  "DialogSubtitle_Name.csv.Speaker: Cave Owl A (Female Villager)",
+  "DialogSubtitle_Name.csv.Speaker: Cave Owl B (Male Villager)",
+  "DialogSubtitle_Name.csv.Speaker: Granny Kuren",
+  "DialogSubtitle_Name.csv.Speaker: Kidnapped Resident",
+  "DialogSubtitle_Name.csv.Speaker: Frightened Man",
+  "DialogSubtitle_Name.csv.Speaker: Gruff Voice",
+  "DialogSubtitle_Name.csv.Speaker: Energetic Defense Force Member",
+  "DialogSubtitle_Name.csv.Speaker: Timid Voice",
+  "DialogSubtitle_Name.csv.Speaker: Opportunistic Resident",
+  "DialogSubtitle_Name.csv.Speaker: Shadow Wolves Leader",
+  "DialogSubtitle_Name.csv.Speaker: Lively Voice",
+  "DialogSubtitle_Name.csv.Speaker: Bound Paradise Follower",
+  "DialogSubtitle_Name.csv.Speaker: Solider on Guard Duty",
+  "DialogSubtitle_Name.csv.Speaker: Bored voice",
+  "DialogSubtitle_Name.csv.Speaker: Urgent Shout",
+  "DialogSubtitle_Name.csv.Speaker: Naruru by the Boat",
+  "DialogSubtitle_Name.csv.Speaker: Shrewd Merchant",
+  "DialogSubtitle_Name.csv.Speaker: Nostalgic Voice",
+  "DialogSubtitle_Name.csv.Speaker: Naruru Who Wants to Hide",
+  "DialogSubtitle_Name.csv.Speaker: Another Voice",
+  "DialogSubtitle_Name.csv.Speaker: Panicked Scout’s Shout",
+  "DialogSubtitle_Name.csv.Speaker: Resident with a Calm Impression",
+  "DialogSubtitle_Name.csv.Speaker: Grumbling Resident",
+  "DialogSubtitle_Name.csv.Speaker: Reminiscing Old Man",
+  "DialogSubtitle_Name.csv.Speaker: Zisen's Voice",
+  "DialogSubtitle_Name.csv.Speaker: Babylon Resident",
+  "DialogSubtitle_Name.csv.Speaker: Person in Charge",
+  "DialogSubtitle_Name.csv.Speaker: Wheezing Voice",
+  "DialogSubtitle_Name.csv.Speaker: Firm Voice",
+  "DialogSubtitle_Name.csv.Speaker: Urgent Voice",
+  "DialogSubtitle_Name.csv.Speaker: A Furious Person",
+  "DialogSubtitle_Name.csv.Speaker: Encampment Sentry's Shout",
+  "DialogSubtitle_Name.csv.Speaker: Man on the Ground (Naraf)",
+  "DialogSubtitle_Name.csv.Speaker: Narurus who want to become Sturdy-Beard",
+  "DialogSubtitle_Name.csv.Speaker: Passionate Woman",
+  "DialogSubtitle_Name.csv.Speaker: Secretive Voice",
+  "DialogSubtitle_Name.csv.Speaker: A cheerful voice",
+  "DialogSubtitle_Name.csv.Speaker: Quick-footed Pioneer Corps Member",
+  "DialogSubtitle_Name.csv.Speaker: Playful Voice",
+  "DialogSubtitle_Name.csv.Speaker: Shrill Voice",
+  "DialogSubtitle_Name.csv.Speaker: Surprised Villager",
+  "DialogSubtitle_Name.csv.Speaker: Suspicious Voice",
+  "DialogSubtitle_Name.csv.Speaker: Former Deserter",
+  "DialogSubtitle_Name.csv.Speaker: Troubled Voice",
+  "DialogSubtitle_Name.csv.Speaker: Art-Destroyer Cat",
+  "DialogSubtitle_Name.csv.Speaker: Presumed Superior",
+  "DialogSubtitle_Name.csv.Speaker: Busy-looking Naruru",
+  "DialogSubtitle_Name.csv.Speaker: Mysterious Figure",
+  "DialogSubtitle_Name.csv.Speaker: Gate Captain of Stormkel",
+  "DialogSubtitle_Name.csv.Speaker: Welcoming Voice",
+  "DialogSubtitle_Name.csv.Speaker: Joyful Voice",
+  "DialogSubtitle_Name.csv.Speaker: Faint Voice",
+  "DialogSubtitle_Name.csv.Speaker: Troubled Naruru",
+  "DialogSubtitle_Name.csv.Speaker: Mountain Club Members",
+  "DialogSubtitle_Name.csv.Speaker: Elegant-looking Man",
+  "DialogSubtitle_Name.csv.Speaker: Flustered Person",
+  "DialogSubtitle_Name.csv.Speaker: Sharp-eyed Person",
+  "DialogSubtitle_Name.csv.Speaker: Kiguru Tribe",
+  "DialogSubtitle_Name.csv.Speaker: Man Who Appears to be the Captain",
+  "DialogSubtitle_Name.csv.Speaker: Serious-Looking Priest",
+  "DialogSubtitle_Name.csv.Speaker: Serious Naruru",
+  "DialogSubtitle_Name.csv.Speaker: A Soldier's Voice",
+  "DialogSubtitle_Name.csv.Speaker: Kuduru Tribe",
+  "DialogSubtitle_Name.csv.Speaker: Shout from Afar",
+  "DialogSubtitle_Name.csv.Speaker: Injured Knight",
+  "DialogSubtitle_Name.csv.Speaker: Terrified Whimpering",
+  "DialogSubtitle_Name.csv.Speaker: Trainer Naruru",
+  "DialogSubtitle_Name.csv.Speaker: Follower of Astrid",
+  "DialogSubtitle_Name.csv.Speaker: Flustered Voice",
+  "DialogSubtitle_Name.csv.Speaker: Confident Voice",
+  "DialogSubtitle_Name.csv.Speaker: Cautious Voice",
+  "DialogSubtitle_Name.csv.Speaker: Impatient Rebel",
+  "DialogSubtitle_Name.csv.Speaker: Yearning Cultist",
+  "DialogSubtitle_Name.csv.Speaker: Placeholder text",
+  "DialogSubtitle_Name.csv.Speaker: Animal Whimpering",
+  "DialogSubtitle_Name.csv.Speaker: Suspicious Noise",
+  "DialogSubtitle_Name.csv.Speaker: Naruru’s Shout",
+  "DialogSubtitle_Name.csv.Speaker: Gasping Addict",
+  "DialogSubtitle_Name.csv.Speaker: Scribbled Note",
+  "DialogSubtitle_Name.csv.Speaker: Grumbling ancient object",
+  "DialogSubtitle_Name.csv.Speaker: Shouts from Outside",
+  "DialogSubtitle_Name.csv.Speaker: A Distant Explosion",
+  "DialogSubtitle_Name.csv.Speaker: Shouting",
+  "DialogSubtitle_Name.csv.Speaker: Flustered Girl",
+  "DialogSubtitle_Name.csv.Speaker: Sharp Voice",
+  "DialogSubtitle_Name.csv.Speaker: A Quiet Noise",
+  "DialogSubtitle_Name.csv.Speaker: Apprentices",
+  "DialogSubtitle_Name.csv.Speaker: Hidden Naruru",
+  "DialogSubtitle_Name.csv.Speaker: Defense Force Member's Shout",
+  "DialogSubtitle_Name.csv.Speaker: Suspicious Presence",
+  "DialogSubtitle_Name.csv.Speaker: A fierce-looking man",
+  "DialogSubtitle_Name.csv.Speaker: Large-Bodied Hunter",
+  "DialogSubtitle_Name.csv.Speaker: Exhausted Adventurer",
+  "DialogSubtitle_Name.csv.Speaker: The Sound of Someone Crying",
+  "DialogSubtitle_Name.csv.Speaker: Trembling Voice",
+  "DialogSubtitle_Name.csv.Speaker: A Gravelly-Voiced Merchant",
+  "DialogSubtitle_Name.csv.Speaker: Confident Naruru's Voice",
+  "DialogSubtitle_Name.csv.Speaker: Sobbing Naruru",
+  "DialogSubtitle_Name.csv.Speaker: Collapsed Person",
+  "DialogSubtitle_Name.csv.Speaker: Angry Voice",
+  "DialogSubtitle_Name.csv.Speaker: Boisterous Voice",
+  "DialogSubtitle_Name.csv.Speaker: Grumbling Voice",
+  "DialogSubtitle_Name.csv.Speaker: Ironblood Brigade Strike Captain",
+  "DialogSubtitle_Name.csv.Speaker: Young Soldier",
+  "DialogSubtitle_Name.csv.Speaker: A Scared Man’s Cry",
+  "DialogSubtitle_Name.csv.Speaker: Annoyed Voice",
+  "DialogSubtitle_Name.csv.Speaker: Someone Crying Out (Narat)",
+  "DialogSubtitle_Name.csv.Speaker: Stranger (Sol)",
+  "DialogSubtitle_Name.csv.Speaker: Voice in Agony",
+  "DialogSubtitle_Name.csv.Speaker: Terrified Member",
+  "DialogSubtitle_Name.csv.Speaker: A Girl's Shout",
+  "DialogSubtitle_Name.csv.Speaker: Sneaky Rebel",
+  "DialogSubtitle_Name.csv.Speaker: Merchant's Shout",
+  "DialogSubtitle_Name.csv.Speaker: Naruru's Low Voice",
+  "DialogSubtitle_Name.csv.Speaker: Frightened Wolf",
+  "DialogSubtitle_Name.csv.Speaker: A Brazen Voice",
+  "DialogSubtitle_Name.csv.Speaker: A Terrified Voice",
+  "DialogSubtitle_Name.csv.Speaker: A Sweet, Honeyed Voice",
+  "DialogSubtitle_Name.csv.Speaker: A Courier’s Cry",
+  "DialogSubtitle_Name.csv.Speaker: Sullen voice",
+  "Dialog_Name.csv.Name: Mysterious Mage",
+  "Dialog_Name.csv.Name: Shadow Wolves Leader",
+  "Dialog_Name.csv.Name: Grandpa",
+  "Dialog_Name.csv.Name: The Man from Memory",
+  "Dialog_Name.csv.Name: Sorcerer of the Baekryeong Clan",
+  "Dialog_Name.csv.Name: The Dawn-Bringer",
+  "Dialog_Name.csv.Name: Man",
+  "Dialog_Name.csv.Name: Hakan’s Comrade",
+  "Dialog_Name.csv.Name: Surprised Villager",
+  "Dialog_Name.csv.Name: Suspicious Voice",
+  "Dialog_Name.csv.Name: Former Deserter",
+  "Dialog_Name.csv.Name: Troubled Voice",
+  "Dialog_Name.csv.Name: Art-Destroyer Cat",
+  "Dialog_Name.csv.Name: The Ruler’s Aide",
+  "Dialog_Name.csv.Name: Emperor",
+  "Dialog_Name.csv.Name: Young Chahim’s Voice",
+  "Dialog_Name.csv.Name: The Girl from Memory",
+  "Dialog_Name.csv.Name: A Soldier's Voice",
+  "Dialog_Name.csv.Name: Kuduru Tribe",
+  "Dialog_Name.csv.Name: Shout from Afar",
+  "Dialog_Name.csv.Name: Injured Knight",
+  "Dialog_Name.csv.Name: Terrified Whimpering",
+  "Dialog_Name.csv.Name: Trainer Naruru",
+  "Dialog_Name.csv.Name: Follower of Astrid",
+  "Dialog_Name.csv.Name: Flustered Voice",
+  "Dialog_Name.csv.Name: Confident Voice",
+  "Dialog_Name.csv.Name: Cautious Voice",
+  "Dialog_Name.csv.Name: Impatient Rebel",
+  "Dialog_Name.csv.Name: Yearning Cultist",
+  "Dialog_Name.csv.Name: The Ruler",
+  "Dialog_Name.csv.Name: Young Quaista’s Voice",
+  "Dialog_Name.csv.Name: The Sound of Someone Crying",
+  "Dialog_Name.csv.Name: Trembling Voice",
+  "Dialog_Name.csv.Name: A Gravelly-Voiced Merchant",
+  "Dialog_Name.csv.Name: Confident Naruru's Voice",
+  "Dialog_Name.csv.Name: Sobbing Naruru",
+  "Dialog_Name.csv.Name: Collapsed Person",
+  "Dialog_Name.csv.Name: Angry Voice",
+  "Dialog_Name.csv.Name: Boisterous Voice",
+  "Dialog_Name.csv.Name: Grumbling Voice",
+  "Dialog_Name.csv.Name: Ironblood Brigade Strike Captain",
+  "Dialog_Name.csv.Name: Young Soldier",
+  "Dialog_Name.csv.Name: A Scared Man’s Cry",
+  "Dialog_Name.csv.Name: Annoyed Voice",
+  "Dialog_Name.csv.Name: Someone Crying Out (Narat)",
+  "Dialog_Name.csv.Name: Stranger (Sol)",
+  "Dialog_Name.csv.Name: Voice in Agony",
+  "Dialog_Name.csv.Name: Terrified Member",
+  "Dialog_Name.csv.Name: A Girl's Shout",
+  "Dialog_Name.csv.Name: Sneaky Rebel",
+  "Dialog_Name.csv.Name: Merchant's Shout",
+  "Dialog_Name.csv.Name: Naruru's Low Voice",
+  "Dialog_Name.csv.Name: Frightened Wolf",
+  "Dialog_Name.csv.Name: A Brazen Voice",
+  "Dialog_Name.csv.Name: A Terrified Voice",
+  "Dialog_Name.csv.Name: A Sweet, Honeyed Voice",
+  "Dialog_Name.csv.Name: A Courier’s Cry",
+  "Dialog_Name.csv.Name: Sullen voice",
+  "Effect_Name.csv.SummaryEffectDescription: Indomitable Form III Effect",
+  "MiniDialog_Name.csv.Name: Dispatched Hunter (Male)",
+  "MiniDialog_Name.csv.Name: Cheerful Defense Force Member",
+  "MiniDialog_Name.csv.Name: Cave Owl B (Male Villager)",
+  "MiniDialog_Name.csv.Name: Mysterious Voice",
+  "MiniDialog_Name.csv.Name: Granny Kuren",
+  "MiniDialog_Name.csv.Name: Kidnapped Resident",
+  "MiniDialog_Name.csv.Name: Frightened Man",
+  "MiniDialog_Name.csv.Name: Energetic Defense Force Member",
+  "MiniDialog_Name.csv.Name: Opportunistic Resident",
+  "MiniDialog_Name.csv.Name: Grandpa",
+  "MiniDialog_Name.csv.Name: Lively Voice",
+  "MiniDialog_Name.csv.Name: Bound Paradise Follower",
+  "MiniDialog_Name.csv.Name: Solider on Guard Duty",
+  "MiniDialog_Name.csv.Name: The Man from Memory",
+  "MiniDialog_Name.csv.Name: Sorcerer of the Baekryeong Clan",
+  "MiniDialog_Name.csv.Name: Urgent Shout",
+  "MiniDialog_Name.csv.Name: Naruru by the Boat",
+  "MiniDialog_Name.csv.Name: Shrewd Merchant",
+  "MiniDialog_Name.csv.Name: The Dawn-Bringer",
+  "MiniDialog_Name.csv.Name: Naruru Who Wants to Hide",
+  "MiniDialog_Name.csv.Name: Another Voice",
+  "MiniDialog_Name.csv.Name: Resident with a Calm Impression",
+  "MiniDialog_Name.csv.Name: Grumbling Resident",
+  "MiniDialog_Name.csv.Name: Reminiscing Old Man",
+  "MiniDialog_Name.csv.Name: Zisen's Voice",
+  "MiniDialog_Name.csv.Name: Babylon Resident",
+  "MiniDialog_Name.csv.Name: Man",
+  "MiniDialog_Name.csv.Name: Hakan’s Comrade",
+  "MiniDialog_Name.csv.Name: Person in Charge",
+  "MiniDialog_Name.csv.Name: Firm Voice",
+  "MiniDialog_Name.csv.Name: A Furious Person",
+  "MiniDialog_Name.csv.Name: Man on the Ground (Naraf)",
+  "MiniDialog_Name.csv.Name: Narurus who want to become Sturdy-Beard",
+  "MiniDialog_Name.csv.Name: Passionate Woman",
+  "MiniDialog_Name.csv.Name: A cheerful voice",
+  "MiniDialog_Name.csv.Name: Quick-footed Pioneer Corps Member",
+  "MiniDialog_Name.csv.Name: The Ruler’s Aide",
+  "MiniDialog_Name.csv.Name: Emperor",
+  "MiniDialog_Name.csv.Name: Young Chahim’s Voice",
+  "MiniDialog_Name.csv.Name: The Girl from Memory",
+  "MiniDialog_Name.csv.Name: Presumed Superior",
+  "MiniDialog_Name.csv.Name: Busy-looking Naruru",
+  "MiniDialog_Name.csv.Name: Mysterious Figure",
+  "MiniDialog_Name.csv.Name: Gate Captain of Stormkel",
+  "MiniDialog_Name.csv.Name: Welcoming Voice",
+  "MiniDialog_Name.csv.Name: Joyful Voice",
+  "MiniDialog_Name.csv.Name: Troubled Naruru",
+  "MiniDialog_Name.csv.Name: Mountain Club Members",
+  "MiniDialog_Name.csv.Name: Elegant-looking Man",
+  "MiniDialog_Name.csv.Name: Flustered Person",
+  "MiniDialog_Name.csv.Name: Sharp-eyed Person",
+  "MiniDialog_Name.csv.Name: Man Who Appears to be the Captain",
+  "MiniDialog_Name.csv.Name: Serious-Looking Priest",
+  "MiniDialog_Name.csv.Name: Serious Naruru",
+  "MiniDialog_Name.csv.Name: The Ruler",
+  "MiniDialog_Name.csv.Name: Young Quaista’s Voice",
+  "MiniDialog_Name.csv.Name: Placeholder text",
+  "MiniDialog_Name.csv.Name: Animal Whimpering",
+  "MiniDialog_Name.csv.Name: Suspicious Noise",
+  "MiniDialog_Name.csv.Name: Naruru’s Shout",
+  "MiniDialog_Name.csv.Name: Gasping Addict",
+  "MiniDialog_Name.csv.Name: Scribbled Note",
+  "MiniDialog_Name.csv.Name: Grumbling ancient object",
+  "MiniDialog_Name.csv.Name: Shouts from Outside",
+  "MiniDialog_Name.csv.Name: A Distant Explosion",
+  "MiniDialog_Name.csv.Name: Shouting",
+  "MiniDialog_Name.csv.Name: Flustered Girl",
+  "MiniDialog_Name.csv.Name: Sharp Voice",
+  "MiniDialog_Name.csv.Name: A Quiet Noise",
+  "MiniDialog_Name.csv.Name: Apprentices",
+  "MiniDialog_Name.csv.Name: Hidden Naruru",
+  "MiniDialog_Name.csv.Name: Defense Force Member's Shout",
+  "MiniDialog_Name.csv.Name: Suspicious Presence",
+  "MiniDialog_Name.csv.Name: A fierce-looking man",
+  "MiniDialog_Name.csv.Name: Large-Bodied Hunter",
+  "MiniDialog_Name.csv.Name: Exhausted Adventurer",
+  "ShopMissionReward_Name.csv.Param: Craft Armor Enhancement Stone",
+  "ShopMissionReward_Name.csv.Param: Craft Weapon Enhancement Stone",
+  "ShopMissionReward_Name.csv.Param: Craft Accessory Enhancement Stone",
+  "ShopMissionReward_Name.csv.Param: Frantia Gate Guard"
+ ],
+ "warnings": [
+  "DialogSubtitle_Name.csv: round-trip difere só em bytes (quebra final/aspas); conteúdo idêntico",
+  "Dialog_Name.csv: round-trip difere só em bytes (quebra final/aspas); conteúdo idêntico",
+  "Effect_Name.csv: round-trip difere só em bytes (quebra final/aspas); conteúdo idêntico",
+  "GuideGrowth_Name.csv: round-trip difere só em bytes (quebra final/aspas); conteúdo idêntico",
+  "MiniDialog_Name.csv: round-trip difere só em bytes (quebra final/aspas); conteúdo idêntico"
+ ]
+}

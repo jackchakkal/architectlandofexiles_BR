@@ -287,3 +287,9 @@ Para uma pessoa mantenedora continuar em outro computador, ela deve obter a chav
 ## Publicar nova versão no GitHub
 
 O repositório público é `https://github.com/jackchakkal/architectlandofexiles_BR`, branch `main`. Para publicar: atualize a nova pasta `translations/vN-...`, mantenha as pastas anteriores, gere `changes/vAnterior-to-vN/changes.json`, inclua o manifesto e changelog, verifique que `work/.architect-aes-key`, `.pak`, `.uasset`, `.uexp`, `.ubulk`, arquivos extraídos e outros segredos estão ignorados, e só então faça commit/push. A autenticação Git deve ocorrer pelo Git Credential Manager com a conta autorizada; nunca embuta token no remote ou em comandos/documentos.
+
+### Atualização do jogo de 30/09/2026 (v15)
+
+A instalação nova forneceu outro conjunto de 227 tabelas `L10N/en`. Antes de aplicar correções editoriais, use `tools/merge_updated_tables.py` com `--old-source`, `--new-source`, `--old-translation`, `--out` e `--report`. A ferramenta associa IDs repetidos pela **ordem de ocorrência**, preserva traduções revisadas quando o original permanece igual e só reaproveita traduções exatas sem ambiguidade em linhas novas. Parâmetros que compõem nomes de itens são protegidos **na linha correspondente**, não em toda a tabela. Revise manualmente as células novas e todos os textos-fonte alterados apontados no relatório.
+
+Para a v15, as decisões editoriais estão em `changes/v14-to-v15/prepare_overrides.py` e no `overrides.json` gerado por ele; o snapshot publicado está em `translations/v15/`. O PAK foi extraído após o empacotamento e seus 227 CSVs foram comparados byte a byte ao snapshot. O manifesto em `releases/v15/manifest.json` registra os hashes do PAK e do ZIP, além do SHA-256 do PAK original usado como fonte.

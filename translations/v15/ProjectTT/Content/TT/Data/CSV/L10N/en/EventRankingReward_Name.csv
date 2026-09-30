@@ -1,0 +1,40 @@
+﻿Id,Desc
+1,Classificação {RequiredValue}
+2,Classificação {RequiredValue}
+3,Classificação {RequiredValue}
+4,entre os 10 primeiros
+5,entre os 50 melhores
+6,entre os 100 melhores
+7,Principais 10%
+8,Principais 20%
+9,Principais 50%
+10,Principais 75%
+11,Principais 100%
+30001,Classificação {RequiredValue}
+30002,entre os 3 primeiros
+30003,entre os 10 primeiros
+30004,entre os 50 melhores
+30005,entre os 100 melhores
+30006,Dentro dos 500 melhores
+30007,Principais 100%
+31001,Classificação {RequiredValue}
+31002,Principais 2–3
+31003,Principais 4–10
+31004,Principais 11–50
+31005,#51–100
+31006,#101–500
+31007,Fora dos 500 melhores
+32001,Classificação {RequiredValue}
+32002,Principais 2–3
+32003,Principais 4–10
+32004,Principais 11–50
+32005,#51–100
+32006,#101–500
+32007,Fora dos 500 melhores
+33001,1º Lugar
+33002,Principais 2–3
+33003,Principais 4–10
+33004,Principais 11–50
+33005,#51–100
+33006,#101–500
+33007,Fora dos 500 melhores

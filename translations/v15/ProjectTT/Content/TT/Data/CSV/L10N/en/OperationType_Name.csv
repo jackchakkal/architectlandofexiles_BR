@@ -1,0 +1,434 @@
+﻿OperationType,Name,BuffName,DeBuffName,Desc
+0,,,,
+2001,,,,
+2003,,,,
+2002,,,,
+202,Damage Immunity,Damage Immunity,Damage Immunity,
+201,Damage Immunity,Damage Immunity,Damage Immunity,
+215,Damage Immunity,Damage Immunity,Damage Immunity,
+203,,,,
+204,,,,
+205,Imortal,Imortal,Imortal,
+802,Imortal,Imortal,Imortal,
+211,Invisível,Invisível,Invisível,
+2004,Dano,Dano,Dano,
+2005,Dano fixo,Dano fixo,Dano fixo,
+2007,Dano baseado no HP máximo,Dano baseado no HP máximo,Dano baseado no HP máximo,
+2009,Dano baseado no HP atual,Dano baseado no HP atual,Dano baseado no HP atual,
+2010,HP Recovery,HP Recovery,Reduz HP,
+2013,MP Recovery,MP Recovery,Reduz MP,
+2011,HP Recovery,HP Recovery,Reduz HP,
+2014,MP Recovery,MP Recovery,Reduz MP,
+2012,HP Recovery,HP Recovery,Reduz HP,
+2015,HP Recovery,HP Recovery,Reduz HP,
+207,100% Chance de acerto crítico,Critical Hit Chance Increase,Critical Hit Chance Increase,
+208,100% Chance de acerto crítico,Aumenta a chance de acerto crítico de ataque básico,Aumenta a chance de acerto crítico de ataque básico,
+2031,Remover efeito,Remover Debuff,Remover Buff,
+2033,Desequipar Equipamento,Desequipar Equipamento,Desequipar Equipamento,
+2017,Shield,Shield,Shield,
+2018,Shield,Shield,Shield,
+471,Shield,Shield,Shield,
+470,Shield,Shield,Shield,
+101,Stun,Stun,Stun,
+102,Knock Down,Knock Down,Knock Down,
+103,Airborne,Airborne,Airborne,
+105,Knockback,Knockback,Knockback,
+106,Shock,Shock,Shock,
+104,Deslocamento,Deslocamento,Deslocamento,
+107,Bind,Bind,Bind,
+108,Slow,Slow,Slow,
+109,Silence,Silence,Silence,
+110,Blind,Blind,Blind,
+111,Freeze,Freeze,Freeze,
+112,Provoke,Provoke,Provoke,
+113,Mutation,Mutation,Mutation,
+114,Mind Control,Mind Control,Mind Control,
+117,Fear,Fear,Fear,
+115,Não é possível usar a poção de HP.,Não é possível usar a poção de HP.,Não é possível usar a poção de HP.,
+118,Consumables Unavailable,Consumables Unavailable,Consumables Unavailable,
+116,Não é possível usar Dash,Não é possível usar Dash,Não é possível usar Dash,
+233,Supressão (não categorizada como controle de multidão),Suppression,Suppression,
+234,Grappling (não categorizado como controle de multidão),,,
+235,Grappled (não categorizado como controle de multidão),,,
+216,Burn,Burn,Burn,
+217,Freeze,Freeze,Freeze,
+218,Poison,Poison,Poison,
+219,Bleed,Bleed,Bleed,
+240,Oblivion,Oblivion,Oblivion,
+241,Invasão,Invasão,Invasão,
+242,Vazio,Vazio,Vazio,
+301,Poder de ataque,Attack Power Increase,Reduces Attack Power,"O poder de ataque aumenta o dano causado ao alvo.
+O dano também é ajustado conforme a diferença entre seu poder de ataque e a defesa do alvo."
+303,Poder de ataque contra monstros,Aumento do poder de ataque contra monstros,Aumento do poder de ataque contra monstros,Poder de ataque adicional contra monstros.
+304,Poder de ataque contra jogadores,Aumento do poder de ataque contra jogadores,Aumento do poder de ataque contra jogadores,Poder de ataque adicional contra jogadores.
+316,Ignorar defesa,Aumento de defesa ignorada,Redução de defesa ignorada,Ignora parte da defesa do alvo.
+306,Ataque básico,Aumento do poder de ataque básico,Redução do ataque básico,Ataque adicional em ataques básicos.
+319,Ignorar defesa contra ataque básico,Aumento de defesa ignorada contra ataque básico,Redução de defesa ignorada contra ataque básico,Ignora parte da defesa contra ataques básicos.
+309,Ataque de Skill,Aumento do poder de ataque de Skill,Redução do ataque de Skill,Ataque adicional ao usar um Skill.
+322,Ignorar defesa contra Skill,Aumento de defesa ignorada contra Skill,Redução de defesa ignorada contra Skill,Ignora parte da defesa contra Skills.
+323,Penetração,Penetration Increase,Redução de penetração,Aumenta a penetração.
+312,Defesa,Increases Defense,Reduces Defense,Aumenta a defesa.
+314,Defesa de Monstro,Aumenta a defesa contra monstros,Aumenta a defesa contra monstros,Defesa adicional quando atingido por monstros.
+315,Defesa do Jogador,Aumenta a defesa contra jogadores,Aumenta a defesa contra jogadores,Defesa adicional quando atingido por jogadores.
+305,Ignorar ataque,Aumento de ataque ignorado,Redução de ataque ignorado,Ignora o ataque do alvo ao ser atingido.
+317,Defesa de Ataque Básico,Aumenta a defesa de ataque básico,Reduz a Defesa de Ataque Básico,Defesa Adicional quando atingido por Ataques Básicos.
+308,Ignorar ataque básico,aumenta Ignorar Ataque Básico.,Reduzir Ignorar Ataque Básico,Ignora o Ataque Básico do alvo quando atingido.
+320,Skill Defense,Aumentar Skill Defesa,Reduzir a defesa Skill,Defesa adicional quando atingido por ataques skill.
+311,Ignorar ataque Skill,Ignorar Skill Aumento de ataque,Reduz Ignorar Skill Ataque,Ignora o ataque Skill do alvo quando atingido.
+324,Bloco,Aumenta o bloqueio,Reduz o Bloqueio,"Reduz o dano quando hit.
+A redução de dano é ajustada com base na diferença entre o seu Bloqueio e a Penetração do alvo."
+325,Vida máxima,Aumento da vida máxima,Redução da vida máxima,Aumenta a vida máxima.
+326,Aumento de vida máxima,Aumento da vida máxima,Redução da vida máxima,Aumenta a vida máxima.
+327,Regeneração de vida,Aumento de regeneração de vida,Redução da regeneração de vida,Aumenta a regeneração de vida.
+328,Aumento de regeneração de vida,Aumento de regeneração de vida,Redução da regeneração de vida,Aumenta a regeneração de vida em uma porcentagem fixa.
+418,Recuperação de vida por poção,Aumento de recuperação de vida por poção,Redução da recuperação de vida por poção,Aumenta a vida recuperada por poções.
+419,Taxa de aumento de cura da poção de HP,Aumenta a cura da poção de HP,Reduzir a cura de poções de HP,Aumenta o HP recuperado de poções em uma porcentagem definida.
+810,Poções de HP máximo,Aumentar o HP máximo de poções,Reduzir poções de HP máximo,Número máximo de Poções de HP que você pode carregar.
+329,Mana máximo,Aumento da mana máxima,Redução da mana máxima,Aumenta a mana máxima.
+330,Aumento de mana máxima,Aumento da mana máxima,Redução da mana máxima,Aumenta a mana máxima.
+331,Regeneração de mana,Aumento de regeneração de mana,Redução da regeneração de mana,Aumenta a regeneração de mana.
+332,Aumento de regeneração de mana,Aumento de regeneração de mana,Redução da regeneração de mana,Aumenta a regeneração de mana em uma porcentagem fixa.
+421,Aumentar a recuperação de poções de MP,Aumentar a recuperação de poções de MP,Reduzir a recuperação de poções de MP,Aumenta o MP recuperado de poções.
+422,Recuperação de poção de MP Aumento da taxa de recuperação de MP,Aumentar a recuperação de poções de MP,Reduzir a recuperação de poções de MP,Aumenta o MP recuperado de poções em uma porcentagem definida.
+423,Ajuste do custo de mana,MP Cost Reduction,Aumento do custo de mana,"Reduz ou aumenta o custo de mana ao usar Skills.
+A redução de custo é limitada a 50%."
+435,Precisão,Accuracy Increase,Redução da precisão,Aumenta a precisão.
+439,Precisão contra monstros,Aumento da precisão contra monstros,Redução da precisão contra monstros,Precisão adicional contra monstros de todas as categorias.
+438,Precisão contra jogadores,Aumento da precisão contra jogadores,Redução de lucro contra jogadores,Precisão adicional contra jogadores.
+436,Precisão de ataque básico,Aumento da precisão de ataque básico,Redução da precisão de ataque básico,Precisão adicional em ataques básicos.
+437,Precisão de Skill,Aumento da precisão de Skill,Redução da precisão de Skill,Aumenta a precisão de Skills.
+440,Aumentar a precisão contra alvos lentos,Aumentar a precisão contra alvos lentos,Reduzir a precisão contra alvos lentos,Aumenta a precisão ao atacar alvos lentos.
+443,Aumentar a precisão de ataque normal contra alvos lentos,Aumentar a precisão de ataque normal contra alvos lentos,Reduza a precisão normal do ataque contra alvos lentos,Aumenta a precisão de ataque normal ao atacar alvos lentos.
+446,Aumentar Skill Precisão de ataque contra alvos lentos,Aumentar Skill Precisão de ataque contra alvos lentos,Reduza a precisão do ataque Skill contra alvos lentos,Aumenta Skill Precisão ao atacar alvos lentos.
+425,Taxa de precisão,Accuracy Rate Increase,Reduzir a taxa de precisão,"Adiciona chance de ataques acertarem.
+Adicionado à Taxa de Precisão calculada a partir das estatísticas de Precisão e Evasão."
+429,Aumentar a taxa de precisão contra monstros,Monster Accuracy Increase,Reduz a taxa de precisão dos monstros,Adiciona taxa de precisão contra todas as classes de monstros.
+428,Aumenta a taxa de precisão do jogador,Player Accuracy Increase,Reduzir a taxa de precisão contra jogadores,Adiciona taxa de precisão contra jogadores.
+430,Aumento de precisão contra monstros chefes,Boss Monster Accuracy Increase,Precisão reduzida contra chefes,Aumenta a taxa de precisão contra monstros chefes.
+426,Taxa de isolamento de ataque básico,Aumento da taxa de lucro de ataque básico,Redução da taxa de precisão de ataque básico,Aumenta a taxa de precisão dos ataques básicos.
+427,Aumento da taxa de lucro de Skill,Aumento da taxa de lucro de Skill,Redução da taxa de precisão de Skill,Aumenta a taxa de precisão de Skill.
+456,Evasão,Increases Evasion,Redução da evasão,Aumenta a evasão.
+460,Evasão de Monstro,Increases monster’s Evasion,Reduz a Evasão contra Monstros,Evasão adicional quando atingido por todos os tipos de monstros.
+459,Evasão do Jogador,Increases player’s Evasion,Reduza a Evasão contra Jogadores,Evasão adicional quando atingido por jogadores.
+457,Evasão de ataque normal,Aumentar a evasão de ataque normal,Reduza a Evasão de Ataque Normal,Evasão adicional quando atingido por ataques normais.
+458,Skill Evasão,Aumentar Skill Evasão,Reduzir a evasão Skill,Evasão adicional quando atingido por skills.
+447,Taxa de evasão,Increases Evasion Chance,Reduce Evasion Rate,"Adiciona a chance de escapar de ataques.
+Adicionado à Taxa de Evasão calculada a partir das estatísticas de Precisão e Evasão."
+451,Aumenta a taxa de evasão contra monstros,Aumenta a taxa de evasão contra monstros,Reduz a Taxa de Evasão contra Monstros,Adiciona Taxa de Evasão ao ser atingido por todos os tipos de monstros.
+450,Aumenta a taxa de evasão contra jogadores,Aumenta a taxa de evasão contra jogadores,Reduz a Taxa de Evasão contra Jogadores,Adiciona Taxa de Evasão quando atingido por jogadores.
+448,Aumenta a taxa de evasão de ataque básico,Aumenta a taxa de evasão de ataque básico,Reduza a taxa de evasão de ataque normal,Adiciona Taxa de Evasão quando atingido por Ataques Normais.
+449,Aumenta Skill Taxa de evasão,Aumenta Skill Taxa de evasão,Reduzir a taxa de evasão Skill,Adiciona taxa de evasão quando atingido por skills.
+348,Acerto crítico,Aumento do acerto crítico,Redução do acerto crítico,Aumenta o acerto crítico.
+349,Golpe Crítico contra Monstros,Aumenta o acerto crítico contra monstros,Aumenta o acerto crítico contra monstros,Acerto Crítico Adicional contra todos os tipos de monstros.
+350,Golpe Crítico contra Jogadores,Aumenta o acerto crítico contra jogadores,Aumenta o acerto crítico contra jogadores,Acerto crítico adicional contra jogadores.
+351,Acerto crítico de ataque básico,Aumento do acerto crítico de ataque básico,Redução do acerto crítico de ataque básico,Aumenta o acerto crítico dos ataques básicos.
+352,Acerto crítico de Skill,Aumento do acerto crítico de Skill,Redução do acerto crítico de Skill,Aumenta o acerto crítico das Skills.
+338,Chance de acerto crítico,Critical Hit Chance Increase,Reduz a Chance de Acerto Crítico,"Adiciona chance de acerto crítico.
+Adicionado à chance de acerto crítico calculada a partir das estatísticas de acerto crítico e resistência a acerto crítico."
+340,Aumenta a chance de acerto crítico contra monstros,Monster Critical Hit Chance Increase,Reduz a Chance de Acerto Crítico contra Monstros,Adiciona chance de acerto crítico contra todos os tipos de monstros.
+339,Aumenta a chance de acerto crítico contra jogadores,Player Critical Hit Chance Increase,Reduz a Chance de Acerto Crítico contra Jogadores,Adiciona chance de acerto crítico contra jogadores.
+341,Aumenta a chance de acerto crítico contra monstros chefes,Boss Monster Critical Hit Chance Increase,Redução da chance de acerto crítico do monstro chefe,Aumenta a chance de acerto crítico contra monstros chefes.
+342,Aumento da chance de acerto crítico de ataque básico,Aumento da chance de acerto crítico de ataque básico,Redução da chance de acerto crítico de ataque básico,Aumenta a chance de um certo crítico de ataques básicos.
+344,Aumentar a chance de acerto crítico de ataque normal contra monstros,Aumentar a chance de acerto crítico de ataque normal contra monstros,Reduz a chance de acerto crítico de ataque normal contra monstros,Adiciona chance de acerto crítico em ataques normais contra todos os tipos de monstros.
+343,Aumentar a chance de acerto crítico de ataque normal contra jogadores,Aumentar a chance de acerto crítico de ataque normal contra jogadores,Reduza a chance de acerto crítico de ataque normal contra jogadores,Adiciona chance de acerto crítico em ataques normais contra jogadores.
+345,Aumenta Skill Chance de acerto crítico,Aumenta Skill Chance de acerto crítico,Reduza a chance de acerto crítico Skill,Adiciona chance de acerto crítico no ataque lançado skill.
+347,Aumenta Skill Chance de acerto crítico contra monstros,Aumenta Skill Chance de acerto crítico contra monstros,Reduza a chance de acerto crítico Skill contra monstros,Adiciona chance de acerto crítico no ataque skill lançado contra todos os tipos de monstros.
+346,Aumenta Skill Chance de acerto crítico contra jogadores,Aumenta Skill Chance de acerto crítico contra jogadores,Reduza a chance de acerto crítico Skill contra jogadores,Adiciona chance de acerto crítico no ataque skill lançado contra jogadores.
+476,Chance de maximização,Maximization Chance Increase,Reduza a chance de maximização,Aumenta a chance de ataques de dano máximo acertarem.
+363,Resistência a acertos críticos,Aumento de resistência a acertos críticos,Redução da resistência a acertos críticos,Aumenta a resistência a certos acertos críticos.
+364,Resistência de Acerto Crítico de Monstro,Aumenta a resistência a acerto crítico contra monstros,Aumenta a resistência a acerto crítico contra monstros,Resistência adicional a golpes críticos quando atingido por todos os tipos de monstros.
+365,Resistência ao acerto crítico do jogador,Aumenta a resistência de acerto crítico contra jogadores,Aumenta a resistência de acerto crítico contra jogadores,Resistência adicional a golpes críticos quando atingido por jogadores.
+366,Resistência a acertos críticos de ataques básicos,Aumento de resistência a certos ataques críticos,Redução da resistência a acertos críticos de ataques básicos,Aumenta a resistência a certos ataques críticos ao ser atingido por ataques básicos.
+367,Skill Resistência a golpes críticos,Aumenta Skill Resistência a acerto crítico,Reduza a resistência a golpes críticos Skill,Resistência adicional a golpes críticos quando atingido por skills.
+353,Taxa de resistência a golpes críticos,Increase Critical Hit Resistance Rate ,Reduz a resistência a golpes críticos,"Aumenta a chance de resistir a acertos críticos.
+Adicionado à taxa de resistência a acertos críticos calculada a partir das estatísticas de acertos críticos e de resistência a acertos críticos."
+355,Aumenta a taxa de resistência a acerto crítico contra monstros,Aumenta a taxa de resistência a acerto crítico contra monstros,Reduz a Taxa de Resistência a Acerto Crítico contra Monstros,Adiciona Taxa de Resistência a Acertos Críticos quando atingido por todos os tipos de monstros.
+354,Aumenta a taxa de resistência a acerto crítico contra jogadores,Aumenta a taxa de resistência a acerto crítico contra jogadores,Reduz a taxa de resistência a acertos críticos contra jogadores,Adiciona Taxa de Resistência a Acertos Críticos quando atingido por jogadores.
+356,Aumenta a taxa de resistência a acertos críticos contra monstros chefes,Aumento da taxa de resistência ao acerto crítico do monstro chefe,Redução da taxa de resistência ao acerto crítico do monstro chefe,Aumenta a taxa de resistência a acertos críticos contra monstros chefes.
+357,Taxa de resistência a acertos críticos de ataques básicos,Aumento da taxa de resistência aos acertos críticos de ataques básicos,Redução da taxa de resistência a acertos críticos de ataques básicos,Aumenta a resistência a certos ataques críticos de ataques básicos.
+359,Taxa de resistência a acertos críticos de ataques básicos contra monstros,Aumento da taxa de resistência aos acertos críticos contra monstros,Redução da taxa de resistência a acertos críticos contra monstros,Aumenta a resistência a certos ataques críticos de ataques básicos de monstros.
+358,Taxa de resistência a acertos críticos de ataques básicos contra jogadores,Aumento da taxa de resistência a acertos críticos contra jogadores,Redução da taxa de resistência a acertos críticos contra jogadores,Aumenta a resistência a certos ataques críticos de ataques básicos de jogadores.
+360,Aumenta Skill Taxa de resistência a acerto crítico,Aumenta Skill Taxa de resistência a acerto crítico,Reduza a taxa de resistência a golpes críticos Skill,Adiciona Taxa de Resistência a Acertos Críticos quando atingido pelo ataque skills.
+362,Aumenta Skill Taxa de resistência a acertos críticos contra monstros,Aumenta Skill Taxa de resistência a acertos críticos contra monstros,Reduza a taxa de resistência ao acerto crítico Skill contra monstros,Adiciona Taxa de Resistência a Acerto Crítico quando atingido pelo ataque skills de todos os tipos de monstros.
+361,Aumentar Skill Taxa de resistência a acertos críticos contra jogadores,Aumentar Skill Taxa de resistência a acertos críticos contra jogadores,Reduza a taxa de resistência a acertos críticos Skill contra jogadores,Adiciona Taxa de Resistência a Acertos Críticos quando atingido pelo ataque skills dos jogadores.
+477,Taxa de resistência de maximização,Aumentar a taxa de resistência à maximização,Reduzir a taxa de resistência à maximização,Aumenta a chance de resistir a ataques de dano máximo.
+333,Aumento da velocidade de ataque,Attack Speed Increase,Redução da velocidade de ataque,Aumenta a velocidade de ataque.
+334,Taxa de aumento de velocidade de lançamento Skill,Increase Skill Cast Speed,Reduza a velocidade de lançamento Skill,"Aumenta a velocidade de lançamento no lançamento de skill.
+Limitado a um máximo de 100%."
+335,Taxa de ajuste de velocidade de movimento,Movement Speed Increase,Slow,"Aumenta a velocidade de movimento do jogador.
+Limitado a um máximo de 200%."
+336,Montar Taxa de aumento de velocidade de movimento,Movement Speed Increase,Slow,"Aumenta a velocidade de movimento enquanto montado.
+Limitado a um máximo de 100%."
+416,Redução do tempo de espera Skill,Redução do tempo de espera Skill,Aumenta Skill Cooldown,
+415,Ajuste do tempo de recarga de Skill,Redução do tempo de recarga de Skill,Aumento do tempo de recarga de Skill,Reduz ou aumenta o tempo de recarga de Skills.
+473,Reduz o cooldown do Dash,Reduz o cooldown do Dash,Aumenta o tempo de recarga do Dash,
+472,Taxa de ajuste de resfriamento do Dash,Reduz o cooldown do Dash,Aumenta o tempo de recarga do Dash,"Aumenta ou reduz o tempo de recarga do Dash em uma porcentagem definida.
+A redução do tempo de resfriamento é limitada a um máximo de 50%."
+491,Reduz a Descida Skill Tempo de Recarga,Reduz a Descida Skill Tempo de Recarga,Aumenta a descida Skill Cooldown,
+492,Descer Skill Cooldown Change Rate,Reduz a Descida Skill Tempo de Recarga,Aumenta a descida Skill Cooldown,"Aumenta ou reduz o tempo de espera da Descida skill em uma determinada porcentagem.
+Reduz o tempo de espera em até 50%."
+493,Reduzir o Tempo de Recarga da Chance de Postura,Reduzir o Tempo de Recarga da Chance de Postura,Aumenta o resfriamento da mudança de postura,
+494,Mudança de postura Taxa de ajuste de resfriamento,Reduzir o Tempo de Recarga da Chance de Postura,Aumenta o resfriamento da mudança de postura,"Aumenta ou reduz o tempo de espera para mudança de postura em uma porcentagem definida.
+A redução do tempo de espera é limitada a um máximo de 50%."
+500,Taxa de aumento de dano,Damage Increase,Reduz o dano,"Aumenta o dano causado ao alvo.
+Ajustado com base na lacuna relativa ao dano do alvo. Solte."
+507,Taxa de aumento de danos contra jogadores,Player Damage Increase,Reduz o dano contra jogadores,Aumenta o dano contra jogadores.
+511,Taxa de aumento de dano contra monstros,Monster Damage Increase,Dano reduzido de monstros,Aumenta o dano causado a monstros de todos os níveis.
+508,Taxa de aumento de dano vs. monstros comuns,Aumento de dano a monstros comuns,Dano reduzido de monstros comuns,Aumenta o dano causado a monstros de nível Comum.
+509,Taxa de aumento de dano contra monstros de elite,Aumento de dano a monstros de elite,Dano reduzido de monstros de elite,Aumenta o dano causado a monstros de nível Elite.
+510,Taxa de aumento de dano contra monstros chefes,Increased Damage to Boss Monsters,Dano reduzido de monstros chefes,Aumenta o dano causado a monstros de nível chefe.
+529,Taxa de aumento de dano contra monstros,Monster Damage Increase,Dano reduzido de monstros,
+531,Taxa de aumento de danos vs. alvos de controle de multidão,Increased Damage to Crowd Controlled Targets,Dano reduzido de alvos de controle de multidão,"Aumenta o dano causado a qualquer alvo sob efeitos de Crowd Control.
+ - Atordoar/Derrubar/Aerotransportado/Derrubar back/Shock/Displacement/
+ Bind/Slow/Silence/Blind/Freeze/Taunt/Mutate/Mind Control"
+535,Taxa de aumento de dano vs. alvos atordoados,Aumento de dano a alvos atordoados,Dano reduzido de alvos atordoados,Aumenta o dano causado a alvos atordoados.
+536,Taxa de aumento de dano vs. alvos derrubados,Aumento de dano a alvos derrubados,Dano reduzido de alvos derrubados,Aumenta o dano causado aos alvos derrubados.
+537,Taxa de aumento de dano vs. alvos aéreos,Aumento de dano a alvos aéreos,Dano reduzido de alvos aéreos,Aumenta o dano causado a alvos aéreos.
+538,Taxa de aumento de dano vs. alvos vinculados,Aumento de dano a alvos presos,Dano reduzido de alvos presos,Aumenta o dano causado aos alvos vinculados.
+532,Taxa de aumento de dano vs. alvos lentos,Aumento de dano a alvos lentos,Dano reduzido de alvos lentos,Aumenta o dano causado a alvos desacelerados.
+533,Taxa de aumento de dano vs. alvos silenciados,Aumento de dano a alvos silenciados,Dano reduzido de alvos silenciados,Aumenta o dano causado aos alvos silenciados.
+534,Taxa de aumento de dano vs. alvos cegos,Aumento de dano a alvos cegos,Dano reduzido de alvos cegos,Aumenta o dano causado aos alvos cegos.
+539,Taxa de aumento de dano vs. alvos provocados,Aumento de dano a alvos provocados,Dano reduzido de alvos provocados,Aumenta o dano causado aos alvos provocados.
+524,Taxa de aumento de dano vs. alvos afetados,Increased Damage to Afflicted Targets,Dano reduzido de alvos afetados,"Aumenta o dano causado a qualquer alvo sob efeitos de Affliction.
+ - Queimadura/Congelamento/Envenenamento/Sangramento"
+525,Taxa de aumento de dano vs. alvos queimados,Aumento de dano a alvos queimados,Dano reduzido de alvos queimados,Aumenta o dano causado aos alvos queimados.
+526,Taxa de aumento de dano vs. alvos congelados,Aumento de dano a alvos congelados,Dano reduzido de alvos congelados,Aumenta o dano causado aos alvos Congelados.
+527,Taxa de aumento de dano vs. alvos envenenados,Aumento de dano a alvos envenenados,Dano reduzido de alvos envenenados,Aumenta o dano causado a alvos envenenados.
+528,Taxa de aumento de dano vs. alvos de sangramento,Aumento de dano a alvos sangrando,Dano reduzido de alvos sangrando,Aumenta o dano causado a alvos Sangrando.
+541,Taxa de aumento de dano Skill de alvo único,Aumento do dano Skill de alvo único,Dano de alvo único reduzido Skill,Aumenta o dano do alvo único Skills.
+542,Multi-alvo Skill Taxa de aumento de danos,Aumento do dano Skill multi-alvo,Multi-alvo reduzido Skill Dano,Aumenta o dano do Multi-Target Skills.
+543,Taxa de Aumento de Dano de Postura de Ataque,Aumenta o dano da postura de ataque.,Reduz o dano da postura de ataque.,Aumenta o dano durante a posição de ataque.
+544,Taxa de aumento de dano especializado,Aumenta o dano especializado,Reduz dano especializado,Aumenta o dano enquanto estiver em Especialização.
+522,Taxa de aumento de danos vs. estruturas,Aumento de dano a estruturas,Dano reduzido de estruturas,Aumenta o dano causado às Estruturas.
+523,Taxa de aumento de dano vs. alvos protegidos,Increased Damage to Shielded Targets,Dano reduzido de alvos protegidos,Aumenta o dano causado aos alvos com Escudo.
+540,Taxa de aumento de dano vs. alvos afetados,Damage Increase,Reduz o dano,
+530,Taxa de aumento de dano vs. alvos de nível inferior,Damage Increase,Reduz o dano,
+545,Taxa de aumento de dano contra alvos de erosão,Aumenta o dano contra alvos de erosão,Reduz o dano contra alvos de erosão,"Aumenta o dano contra qualquer alvo de erosão. 
+ - Esquecimento/Invasão/Vazio"
+546,Taxa de aumento de dano contra alvos afetados pelo esquecimento,Aumenta o dano contra alvos de esquecimento,Reduz o dano contra alvos de esquecimento,Aumenta o dano causado aos alvos afetados pelo Oblivion.
+547,Taxa de aumento de dano contra alvos afetados pela invasão,Aumenta o dano contra alvos de invasão,Reduz o dano contra alvos de invasão,Aumenta o dano causado aos alvos afetados pela Invasão.
+548,Taxa de aumento de dano contra alvos afetados pelo Void,Aumenta o dano contra Alvos vazios,Reduz o dano contra alvos vazios,Aumenta o dano causado aos alvos afetados pelo Void.
+504,Taxa de aumento de dano de ataque básico,Aumenta o dano de ataques básicos,Dano de ataque básico reduzido,"Aumenta o dano do ataque básico causado ao alvo.
+ O dano é aumentado ou diminuído ainda mais com base em a diferença da Taxa de Diminuição do Dano de Ataque Básico Recebido do alvo."
+512,Taxa de aumento de dano de ataque básico vs. jogadores,Aumento do dano de ataque básico aos jogadores,Dano de ataque básico reduzido de jogadores,Aumenta o dano causado ao usar ataques básicos nos jogadores.
+516,Taxa de aumento de dano de ataque básico contra monstros,Aumento do dano de ataque básico a monstros,Dano de ataque básico reduzido de monstros,Aumenta o dano causado ao usar Ataques Básicos em monstros de todos os níveis.
+515,Taxa de aumento de dano de ataque básico contra monstros chefes,Aumento do dano de ataque básico a monstros chefes,Dano de ataque básico reduzido de monstros chefes,Aumenta o dano causado ao usar ataques básicos em monstros do nível chefe.
+503,Skill Taxa de aumento de danos,Increases Skill Damage,reduzido Skill Dano,"Aumenta o dano do ataque skill causado ao alvo.
+O dano é aumentado ou diminuído ainda mais com base na diferença com a Taxa de Diminuição do Dano Recebido Skill do alvo."
+506,Mergulhando Skill Taxa de aumento de danos,Aumento do dano de mergulho Skill,Dano de mergulho reduzido de Skill,Aumenta o dano causado ao mergulhar Skills no alvo.
+517,Skill Taxa de aumento de danos versus jogadores,Skill aumentado Dano a jogadores,Dano Skill reduzido de jogadores,Aumenta o dano causado ao usar Skills nos jogadores.
+521,Skill Taxa de aumento de dano contra monstros,Aumento de Skill Dano a monstros,Dano Skill reduzido de monstros,Aumenta o dano causado ao usar o ataque skills em monstros de todos os níveis.
+520,Skill Taxa de aumento de dano contra monstros chefes,Aumento de Skill Dano a monstros chefes,Dano Skill reduzido de monstros chefes,Aumenta o dano causado ao usar o ataque skills em monstros do nível chefe.
+485,Aumenta o Dano Verdadeiro do Ataque Básico,Aumenta o Dano Verdadeiro do Ataque Básico,Reduz o Dano Verdadeiro do Ataque Básico,Causa dano adicional de Ataque Básico igual ao Dano Verdadeiro.
+486,Aumenta o Dano Verdadeiro do Ataque Básico contra jogadores,Aumenta o Dano Verdadeiro do Ataque Básico contra jogadores,Reduz o Dano Verdadeiro do Ataque Básico contra jogadores.,Causa dano adicional de Ataque Básico contra jogadores igual ao Dano Verdadeiro.
+487,Aumenta o Dano Verdadeiro do Ataque Básico contra monstros,Aumenta o Dano Verdadeiro do Ataque Básico contra monstros,Reduz o Dano Verdadeiro do Ataque Básico contra monstros,Causa dano adicional de Ataque Básico contra monstros de qualquer nível igual ao Dano Verdadeiro.
+550,Taxa de redução de danos sofridos,Reduces Damage Taken,Aumenta o dano recebido,"Reduz o dano recebido pelo alvo.
+O dano é aumentado ou diminuído ainda mais com base na diferença com a Taxa de Aumento de Dano do atacante."
+556,Taxa de redução de danos sofridos vs. jogadores,Reduces Damage Taken from players,Aumento do dano recebido dos jogadores,Reduz o dano recebido quando atacado por jogadores.
+560,Taxa de redução de dano recebido de monstros,Reduces Damage Taken from monsters,Aumento do dano recebido de monstros,Reduz o dano recebido quando atacado por monstros de todos os níveis.
+557,Taxa de redução de dano recebido de monstros comuns,Dano reduzido recebido de monstros comuns,Aumento do dano recebido de monstros comuns,Reduz o dano recebido quando atacado por monstros de nível Comum.
+558,Taxa de redução de dano recebido de monstros de elite,Dano reduzido recebido de monstros de elite,Aumento do dano recebido de monstros de elite,Reduz o dano recebido quando atacado por monstros de nível Elite.
+559,Taxa de redução de dano recebido de monstros chefes,Dano reduzido recebido de monstros chefes,Dano aumentado de monstros chefes,Reduz o dano recebido quando atacado por monstros de nível chefe.
+578,Taxa de redução de dano recebido de monstros,Reduces Damage Taken from monsters,Aumento do dano recebido de monstros,
+580,Taxa de redução de danos sofridos enquanto sob controle de multidão,Dano sofrido reduzido enquanto sob controle de multidão,Aumento de dano sofrido enquanto sob controle de multidão,"Reduz o dano recebido quando atacado enquanto estiver sob qualquer efeito de Crowd Control.
+ - Atordoar/Derrubar/Aerotransportado/Repelir/Choque/Deslocamento/
+Bind/Lento/Silêncio/Cego/Congelar/Provocar/Mutate/Mind Control"
+584,Taxa de redução de dano sofrido enquanto atordoado,Dano sofrido reduzido enquanto atordoado,Aumento de dano sofrido enquanto atordoado,Reduz o dano recebido ao ser atacado enquanto estiver atordoado.
+585,Taxa de redução de dano recebido enquanto derrubado,Dano recebido reduzido enquanto estiver nocauteado,Aumento do dano sofrido ao ser derrubado,Reduz o dano recebido ao ser atacado enquanto está derrubado.
+586,Taxa de redução de danos sofridos enquanto estiver no ar,Dano reduzido sofrido enquanto estiver no ar,Aumento de dano recebido enquanto Aerotransportado,Reduz o dano recebido quando atacado enquanto estiver no ar.
+587,Taxa de redução de dano recebido enquanto vinculado,Dano recebido reduzido enquanto preso,Aumento do dano sofrido enquanto estiver preso,Reduz o dano recebido quando atacado enquanto está preso.
+581,Taxa de redução de dano recebido enquanto estiver lento,Dano recebido reduzido enquanto estiver lento,Aumento do dano sofrido enquanto estiver lento,Reduz o dano recebido ao ser atacado enquanto está desacelerado.
+582,Taxa de redução de dano sofrido enquanto silenciado,Dano recebido reduzido enquanto estiver silenciado,Aumento do dano sofrido enquanto estiver silenciado,Reduz o dano recebido quando atacado enquanto silenciado.
+583,Taxa de redução de dano sofrido enquanto cego,Dano recebido reduzido enquanto estiver cego,Aumento do dano sofrido enquanto estiver cego,Reduz o dano recebido quando atacado enquanto está cego.
+588,Taxa de redução de dano recebido enquanto provocado,Dano sofrido reduzido enquanto provocado,Aumento de dano sofrido enquanto provocado,Reduz o dano recebido quando atacado enquanto provocado.
+573,Taxa de redução de dano recebido de alvos afetados,Dano reduzido recebido de alvos afetados,Dano aumentado de alvos afetados,"Reduz o dano recebido quando atacado por qualquer alvo sob efeitos de Aflição.
+ - Queimadura/Congelamento/Veneno/Sangramento"
+574,Taxa de redução de danos sofridos por alvos queimados,Dano reduzido recebido de alvos queimados,Aumento do dano recebido de alvos queimados,Reduz o dano recebido quando atacado por alvos queimados.
+575,Taxa de redução de danos sofridos por alvos congelados,Dano recebido reduzido de alvos congelados,Aumento do dano recebido de alvos congelados,Reduz o dano recebido quando atacado por alvos congelados.
+576,Taxa de redução de dano recebido de alvos envenenados,Dano reduzido recebido de alvos envenenados,Aumento de dano recebido de alvos envenenados,Reduz o dano recebido quando atacado por alvos envenenados.
+577,Taxa de redução de danos sofridos por alvos de sangramento,Dano recebido reduzido de Alvos Sangrando,Dano aumentado de alvos sangrando,Reduz o dano recebido quando atacado por alvos Sangrando.
+590,Taxa de redução de danos sofridos de alvo único Skills,Dano reduzido sofrido de alvo único Skills,Aumento de dano recebido de alvo único Skills,Reduz o dano recebido ao ser atingido por um alvo único Skill.
+591,Taxa de redução de danos sofridos do multi-alvo Skills.,Dano reduzido recebido de alvos múltiplos Skills,Aumento do dano recebido de vários alvos Skills,Reduz o dano recebido ao ser atingido por um Multi-Target Skill.
+592,Postura de ataque Taxa de redução de dano recebido,Reduz o dano recebido enquanto estiver na posição de ataque.,Aumenta o dano recebido enquanto estiver na posição de ataque,Reduz o dano recebido ao ser atingido na posição de ataque.
+593,Taxa de redução de dano especializado recebido,Reduz o dano recebido enquanto estiver na posição especializada.,Aumenta o dano recebido enquanto estiver na posição especializada,Reduz o dano recebido ao ser atingido enquanto estiver em Especialização.
+571,Taxa de aumento de danos causados ​​por estruturas,Dano reduzido sofrido de estruturas,Aumento de dano recebido de estruturas,Reduz o dano recebido quando atacado por Estruturas.
+572,Taxa de redução de dano recebido de alvos protegidos,Dano reduzido sofrido de alvos protegidos,Aumento de dano recebido de alvos protegidos,Reduz o dano recebido quando atacado enquanto está protegido.
+589,Taxa de aumento de dano recebido dos alvos afetados,Reduces Damage Taken,Aumenta o dano recebido,
+579,Taxa de redução de dano recebido de alvos de nível inferior,Reduces Damage Taken,Aumenta o dano recebido,
+474,Reflexão de Danos,Reflexão de Danos,Reflexão de Danos,Reflete uma parte do dano sofrido.
+475,Redução e reflexão de danos,Redução e reflexão de danos,,
+594,Taxa de redução de dano recebido de alvos afetados pela erosão,Reduz o dano recebido de alvos de erosão,Aumenta o dano recebido de alvos de erosão,"Reduz o dano recebido quando atacado por qualquer alvo afetado pela Invasão.
+ - Esquecimento/Invasão/Vazio"
+595,Taxa de redução de dano recebido de alvos afetados pelo esquecimento,Reduz o dano recebido de alvos de esquecimento,Aumenta o dano recebido de alvos de esquecimento,Reduz o dano recebido quando atacado por alvos afetados pelo Oblivion.
+596,Taxa de redução de dano recebido de alvos de invasão,Reduz o dano recebido de alvos de invasão,Aumenta o dano recebido de alvos de invasão,Reduz o dano recebido quando atacado por alvos afetados pela Invasão.
+597,Taxa de redução de dano recebido de alvos afetados por Void,Reduz o dano recebido de alvos vazios,Aumenta o dano recebido de alvos vazios,Reduz o dano recebido quando atacado por alvos afetados por Void.
+553,Redução de dano recebido de ataques básicos,Reduces Basic Attack Damage Taken,Aumento do dano de ataque básico recebido dos jogadores,"Reduz o dano do Ataque Básico recebido do alvo.
+O dano é aumentado ou diminuído ainda mais com base na diferença da Taxa de Aumento do Dano do Ataque Básico do atacante."
+561,Taxa de redução de dano de ataque básico recebido dos jogadores,Dano de ataque básico reduzido recebido dos jogadores,Aumento do dano de ataque básico recebido dos jogadores,Reduz o dano recebido ao ser atingido por Ataques Básicos dos Jogadores.
+565,Redução do Dano de Ataque Básico Sofrido de Monstros,Dano de ataque básico reduzido recebido de monstros,Aumento do dano de ataque básico recebido de monstros,Reduz o dano recebido ao ser atingido por ataques básicos de monstros de todos os níveis.
+552,Skill Taxa de redução de danos sofridos,Reduces Skill Damage Taken,Aumento do dano recebido Skill,"Reduz o dano de ataque skill recebido do alvo.
+O dano é aumentado ou diminuído ainda mais com base na diferença da taxa de aumento de dano Skill do atacante."
+555,Mergulho Skill Taxa de redução de danos sofridos,Mergulho reduzido Skill Dano recebido,Aumento do mergulho Skill Dano recebido,Reduz o dano recebido do mergulho Skills.
+566,Skill Taxa de redução de danos sofridos pelos jogadores,Reduzido Skill Dano recebido de jogadores,Aumento de Skill Dano recebido de jogadores,Reduz o dano recebido ao ser atingido pelo Ataque Skills dos Jogadores.
+570,Skill Taxa de redução de dano recebido de monstros,Reduzido Skill Dano recebido de monstros,aumentado Skill Dano recebido de monstros,Reduz o dano recebido ao ser atingido pelo ataque skills de monstros de todos os níveis.
+488,Reduz o Dano Verdadeiro do Ataque Básico,Aumenta o Dano Verdadeiro do Ataque Básico,Reduz o Dano Verdadeiro do Ataque Básico,Reduz o dano do Ataque Básico recebido em uma quantidade igual ao Dano Verdadeiro.
+489,Reduz o Dano Verdadeiro do Ataque Básico contra jogadores.,Aumenta o Dano Verdadeiro do Ataque Básico contra jogadores,Reduz o Dano Verdadeiro do Ataque Básico contra jogadores.,Reduz o dano do Ataque Básico recebido dos jogadores em uma quantidade igual ao Dano Verdadeiro.
+490,Reduz o Dano Verdadeiro do Ataque Básico contra monstros,Aumenta o Dano Verdadeiro do Ataque Básico contra monstros,Reduz o Dano Verdadeiro do Ataque Básico contra monstros,Reduz o dano do Ataque Básico recebido de monstros de qualquer nível em uma quantidade igual ao Dano Verdadeiro.
+368,Taxa de aumento de dano crítico,Critical Damage Increase,Dano crítico reduzido,"Aumenta o dano ao causar um golpe crítico no alvo.
+O dano é aumentado ou diminuído ainda mais com base na diferença da taxa de redução de dano crítico sofrido do alvo."
+369,Taxa de aumento de dano crítico vs. jogadores,Player Critical Damage Increase,Dano crítico reduzido de jogadores,Aumenta o dano crítico causado aos jogadores.
+370,Taxa de aumento de dano crítico contra monstros,Monster Critical Damage Increase,Dano crítico reduzido de monstros,Aumento do dano crítico causado a monstros de todos os níveis.
+371,Aumento de dano crítico contra monstros chefes,Boss Monster Critical Damage Increase,Redução de Dano Crítico do Monstro Chefe,Aumenta o dano crítico contra monstros chefes.
+379,Taxa de aumento de dano crítico vs. alvos atordoados,Crítico aumentado Dano a alvos atordoados,Dano crítico reduzido a alvos atordoados,Aumenta o dano crítico causado a alvos atordoados.
+380,Taxa de aumento de dano crítico vs. alvos derrubados,Dano crítico aumentado a alvos derrubados,Dano crítico reduzido em alvos derrubados,Aumenta o dano crítico causado a alvos derrubados.
+381,Taxa de aumento de dano crítico vs. alvos aéreos,Aumento de dano crítico a alvos aéreos,Dano crítico reduzido em alvos aéreos,Aumenta o dano crítico causado a alvos aéreos.
+382,Taxa de aumento de dano crítico vs. alvos vinculados,Aumento de dano crítico a alvos presos,Dano crítico reduzido em alvos presos,Aumenta o dano crítico causado aos alvos vinculados.
+383,Taxa de aumento de dano crítico vs. alvos lentos,Dano crítico aumentado a alvos lentos,Dano crítico reduzido a alvos lentos,Aumenta o dano crítico causado a alvos desacelerados.
+384,Taxa de aumento de dano crítico vs. alvos silenciados,Dano crítico aumentado a alvos silenciados,Reduzido Dano crítico a alvos silenciados,Aumenta o dano crítico causado a alvos silenciados.
+385,Taxa de aumento de dano crítico vs. alvos cegos,Aumento de dano crítico a alvos cegos,Dano crítico reduzido em alvos cegos,Aumenta o dano crítico causado a alvos cegos.
+386,Taxa de aumento de dano crítico vs. alvos provocados,Aumento de dano crítico a alvos provocados,Dano crítico reduzido de alvos provocados,Aumenta o dano crítico causado aos alvos provocados.
+387,Taxa de aumento de dano crítico vs. alvos queimados,Aumento de dano crítico a alvos queimados,Dano crítico reduzido de alvos queimados,Aumenta o dano crítico causado a alvos queimados.
+388,Taxa de aumento de dano crítico vs. alvos congelados,Aumento de dano crítico Dano crítico a alvos congelados,Dano crítico reduzido de alvos congelados,Aumenta o dano crítico causado a alvos Congelados.
+389,Taxa de aumento de dano crítico vs. alvos envenenados,Dano crítico aumentado a alvos envenenados,Dano crítico reduzido de alvos envenenados,Aumenta o dano crítico causado a alvos envenenados.
+390,Taxa de aumento de dano crítico vs. alvos de sangramento,Aumento da chance de sangramento em alvos Dano crítico,Dano crítico reduzido de alvos sangrando,Aumenta o dano crítico causado a alvos com sangramento.
+372,Aumento de dano crítico de ataque básico,Aumento do poder de ataque básico,Redução do dano crítico de ataque básico,Aumenta o dano crítico causado por ataques básicos.
+373,Aumento de dano crítico de ataque básico contra jogadores,Aumento de dano crítico de ataque básico contra jogadores,Redução de dano crítico de ataque básico contra jogadores,Aumenta o dano crítico de ataques básicos contra jogadores.
+374,Aumento de dano crítico de ataque básico contra monstros,Aumento de dano crítico de ataque básico contra monstros,Redução de dano crítico de ataque básico contra monstros,Aumenta o dano crítico de ataques básicos contra monstros.
+375,Aumento de dano crítico de Skill,Aumento do dano crítico de Skill,Redução do dano crítico de Skill,Aumenta o dano crítico causado por Skills.
+376,Aumento de dano crítico de Skill contra jogadores,Aumento do dano crítico de Skill contra jogadores,Redução do dano crítico de Skill contra jogadores,Aumenta o dano crítico de Skills contra jogadores.
+377,Aumento de dano crítico de Skill contra monstros,Aumento do dano crítico de Skill contra monstros,Redução do dano crítico de Skill contra monstros,Aumenta o dano crítico de Skills contra monstros.
+391,Taxa de redução de danos críticos sofridos,Dano crítico reduzido sofrido,Aumento de dano crítico recebido,"Reduz o dano crítico recebido do alvo.
+O dano é aumentado ou diminuído ainda mais com base na diferença da taxa de aumento de dano crítico do atacante."
+392,Taxa de redução de dano crítico sofrido pelos jogadores,Reduzido Dano crítico sofrido por jogadores,Aumento do dano crítico recebido de jogadores,Reduz o dano recebido pelo jogador em acertos críticos.
+393,Taxa de redução de dano crítico sofrido contra monstros,Dano crítico reduzido recebido de monstros,Aumento do dano crítico recebido de monstros,Reduz o dano recebido de acertos críticos causados ​​por monstros de todos os níveis.
+394,Reduz o dano crítico recebido contra monstros chefes,Redução de Dano Crítico sofrido do Monstro Chefe,Aumento do Dano Crítico sofrido do Monstro Chefe,Reduz o dano crítico recebido de monstros chefes.
+402,Taxa de redução de dano crítico sofrido enquanto atordoado,Dano crítico sofrido reduzido enquanto atordoado,Aumento do dano crítico sofrido ao atordoado,Reduz o dano recebido de acertos críticos enquanto estiver atordoado.
+403,Taxa de redução de dano crítico sofrido enquanto derrubado,Dano crítico sofrido reduzido enquanto derrubado,Aumento do dano crítico sofrido ao ser derrubado,Reduz o dano recebido de acertos críticos enquanto está derrubado.
+404,Taxa de redução de dano crítico sofrido enquanto estiver no ar,Dano crítico sofrido reduzido enquanto no ar,Aumento do dano crítico recebido enquanto estiver no ar,Reduz o dano recebido de acertos críticos enquanto estiver no ar.
+405,Taxa de redução de dano crítico sofrido enquanto vinculado,Dano crítico sofrido reduzido enquanto preso,Aumento do dano crítico recebido enquanto preso,Reduz o dano recebido de acertos críticos enquanto está preso.
+406,Taxa de redução de dano crítico recebido enquanto estiver lento,Dano crítico sofrido reduzido enquanto desacelerado,Aumento do dano crítico sofrido ao desacelerar,Reduz o dano recebido de acertos críticos enquanto estiver lento.
+407,Taxa de redução de dano crítico sofrido enquanto silenciado,Dano crítico sofrido reduzido enquanto silenciado,Aumento do dano crítico sofrido ao silenciar,Reduz o dano recebido de acertos críticos enquanto estiver silenciado.
+408,Taxa de redução de dano crítico sofrido enquanto cego,Dano crítico sofrido reduzido enquanto cego,Aumento do dano crítico recebido enquanto cego,Reduz o dano recebido de acertos críticos enquanto está Blined.
+409,Taxa de redução de dano crítico sofrido enquanto provocado,Dano crítico sofrido reduzido enquanto provocado,Aumento do dano crítico Dano sofrido enquanto provocado,Reduz o dano recebido de acertos críticos enquanto provocado.
+410,Taxa de redução de dano crítico causado por alvos queimados,Dano crítico reduzido recebido de alvos queimados,Aumento de dano crítico recebido de alvos queimados,Reduz o dano recebido de acertos críticos enquanto queimado.
+411,Redução de dano crítico causado por alvos congelados,Dano crítico reduzido recebido de alvos congelados,Aumentado Dano crítico causado por alvos congelados,Reduz o dano recebido de acertos críticos enquanto está Congelado.
+412,Taxa de redução de dano crítico recebido de alvos envenenados,Dano crítico reduzido recebido de alvos envenenados,Dano crítico causado por alvos envenenados aumentado,Reduz o dano recebido de acertos críticos enquanto estiver Envenenado.
+413,Taxa de redução de danos críticos causados ​​por alvos de sangramento,Dano crítico reduzido sofrido de alvos sangrando,Aumento de dano crítico recebido de alvos sangrando,Reduz o dano recebido de acertos críticos durante o sangramento.
+395,Taxa de redução de dano crítico recebido de ataques básicos,Dano crítico reduzido sofrido de ataques básicos,Aumento de dano crítico recebido de ataque básico,"Reduz o dano recebido quando atingido por um ataque básico crítico do alvo.
+O dano é aumentado ou diminuído ainda mais com base na diferença entre sua Taxa de Aumento de Dano Crítico de Ataque Básico e a do oponente."
+396,Taxa de redução de dano crítico de ataque básico recebido dos jogadores,Dano crítico de ataque básico reduzido causado aos jogadores,Aumento do dano crítico de ataque básico recebido dos jogadores,Reduz o dano recebido ao ser atingido por ataques básicos críticos dos jogadores.
+397,Taxa de redução de dano crítico de ataque básico recebido de monstros,Dano crítico de ataque básico reduzido causado por monstros,Aumento do dano crítico de ataque básico recebido de monstros,Reduz o dano recebido ao ser atingido por ataques básicos críticos de monstros de todos os níveis.
+398,Skill Taxa de redução de danos críticos sofridos,reduzido Skill Dano crítico sofrido,Aumento do dano crítico Skill sofrido,"Reduz o dano recebido quando atingido por um ataque crítico Skill do alvo.
+O dano é aumentado ou diminuído ainda mais com base na diferença entre sua Taxa de Aumento de Dano Crítico Skill e a do oponente."
+399,Skill Taxa de redução de danos críticos sofridos pelos jogadores,reduzido Skill Dano crítico sofrido de jogadores,Aumento do dano crítico Skill recebido dos jogadores,Reduz o dano recebido ao ser atingido por um ataque crítico Skill dos jogadores.
+400,Skill Taxa de redução de dano crítico recebido de monstros,reduzido Skill Dano crítico sofrido de monstro,Aumento do dano crítico Skill recebido do monstro,Reduz o dano recebido ao ser atingido por um ataque crítico Skill de monstros de todos os níveis.
+807,Compartilhado Taxa de aumento de cura de HP,Healing Amount Increase,Cura de HP reduzida,Aumenta a quantidade de HP recuperado ao curar skills usado em você ou em um aliado.
+808,Taxa de aumento de cura de HP recebida,Aumento da cura de HP recebida,Reduz a cura de HP recebida,Aumenta o efeito de cura da cura skills usada em você.
+469,Taxa de Aumento do Escudo,Aumento do escudo,Escudo reduzido,Aumenta a quantidade de barreira aplicada a você ou a um alvo.
+468,Valor do escudo recebido Taxa de aumento,Aumento da quantidade de escudo recebido,Quantidade de escudo recebida reduzida,Aumenta a quantidade de escudo aplicada a você.
+424,Taxa de aumento de recuperação de HP ao reviver,Aumento da recuperação de HP ao reviver,Recuperação de HP reduzida ao reviver,Aumenta a recuperação de HP ao reviver
+722,Chance de acerto do controle de multidão,Aumento de chance de acerto de Crowd Control,Chance de acerto reduzida do controle de multidão,"Aumenta a chance de acerto de efeitos de Crowd Control ao atacar o alvo.
+ - Atordoar/Derrubar/Aerotransportado/Repelir/Choque/Deslocamento/
+Bind/Lento/Silêncio/Cego/Congelar/Provocar/Mutate/Mind Control"
+723,Chance de Acerto de Atordoamento,Chance de acerto de atordoamento aumentada,Chance de acerto de atordoamento reduzida,Aumenta a chance de acerto de efeitos de atordoamento.
+724,Knock Down Chance de acerto,Aumento da chance de acerto de nocaute,Chance de acerto de nocaute reduzida,Aumenta a chance de acerto de efeitos de derrubada.
+725,Chance de acerto aerotransportado,Aumento da chance de acerto aéreo,Chance de acerto aéreo reduzida,Aumenta a chance de acerto de efeitos aéreos.
+726,Knock Back Hit Chance,Aumento da chance de acerto de Knock Back,Chance de acerto de Knock Back reduzida,Aumenta a chance de acerto dos efeitos de Knock Back.
+727,Chance de acerto de choque,Aumento da chance de acerto de choque,Chance de acerto de choque reduzida,Aumenta a chance de acerto de efeitos de choque.
+728,Deslocamento Chance de acerto,Aumento de chance de acerto de deslocamento,Chance de acerto de deslocamento reduzida,Aumenta a chance de acerto de Efeitos de Deslocamento.
+729,Chance de Acerto da Ligação,Aumento da chance de acerto de ligação,Reduzido Chance de acerto de vinculação,Aumenta a chance de acerto de Bind Effects.
+730,Chance de acerto lento,Chance de acerto lento aumentada,Dano lento reduzido Chance,Aumenta a chance de acerto de efeitos lentos.
+731,Chance de acerto do silêncio,Aumento da chance de acerto de silêncio,Chance de acerto de silêncio reduzida,Aumenta a chance de acerto dos Efeitos de Silêncio.
+732,Chance de acerto cego,Aumento da chance de acerto cego,Chance de acerto cego reduzida,Aumenta a chance de acerto de Efeitos Cegos.
+733,Chance de acerto de congelamento,Aumento da chance de acerto de congelamento,Chance de acerto de congelamento reduzida,Aumenta a chance de acerto dos Efeitos de Congelamento.
+734,Taunt Chance de acerto,Aumento da chance de acerto de provocação,Chance de acerto de provocação reduzida,Aumenta a chance de acerto dos efeitos de provocação.
+735,Chance de acerto de mutação,Aumento da chance de acerto de mutação,Chance de acerto de mutação reduzida,Aumenta a chance de acerto de efeitos de mutação.
+736,Mind Control Chance de acerto,Chance de acerto de Mind Control aumentada,Chance de acerto de Mind Control reduzida,Aumenta a chance de acerto de efeitos de Mind Control.
+739,Chance de acerto do efeito de aflição,Aumento da chance de acerto do efeito de aflição,Chance de acerto do efeito de aflição reduzida,"Aumenta a taxa de acerto de todos os efeitos de aflição.
+- Queimadura/Congelamento/Veneno/Sangramento"
+740,Chance de acerto de queima,Aumento da chance de acerto de queimadura,Chance de acerto de queimadura reduzida,Aumentou a chance de acerto dos efeitos de queimadura.
+741,Chance de acerto de congelamento,Aumento da chance de acerto de congelamento,Reduzida Chance de acerto de congelamento,Aumenta a chance de acerto dos efeitos Frostbite.
+742,Chance de acerto de veneno,Aumento da chance de acerto de veneno,Chance de acerto de veneno reduzida,Aumenta a chance de acerto de efeitos de veneno.
+743,Chance de acerto de sangramento,Aumento da chance de acerto de sangramento,Chance de acerto de sangramento reduzida,Aumenta a chance de acerto de efeitos de sangramento.
+748,Chance de acerto da erosão,aumenta a chance de acerto de erosão,Reduz a Chance de Acerto de Erosão,"Aumenta a chance de acerto de toda erosão efeitos.
+ - Esquecimento/Invasão/Vazio"
+749,Oblivion Hit Chance,Aumenta a chance de acerto do esquecimento,Reduz a Chance de Acerto do Esquecimento,Aumenta a chance de acerto do esquecimento.
+750,Chance de acerto de invasão,aumenta a chance de acerto de invasão,Reduz a Chance de Acerto de Invasão,Aumenta a chance de acerto de Invasão.
+751,Chance de acerto nulo,Aumenta a Chance de Acerto de Vazio,Reduz a chance de acerto de vazio,Aumenta a chance de acerto de Void.
+700,Resistência ao controle de multidão,Crowd Control Resistance Increase,Reduz a resistência ao Crowd Control,"Aumenta a chance de resistência ao controle de multidão quando atingido. 
+ - Atordoar / Derrubar / Aerotransportado / Empurrar para trás / Choque / Deslocamento / 
+Bind / Lento / Silêncio / Cego / Congelar / Provocar / Mutar / Controle da Mente"
+701,Chance de resistência ao atordoamento,Aumento da chance de resistência ao atordoamento,Chance de resistência ao atordoamento reduzida,Aumenta a chance de resistir a ataques de atordoamento.
+702,Knockback Chance de resistência,Aumentada Chance de resistência de derrubada,Chance de resistência de nocaute reduzida,Aumenta a chance de resistir a ataques de derrubada.
+703,Chance de resistência aerotransportada,Aumento da chance de resistência aérea,Resistência Aerotransportada Reduzida,Aumenta a chance de resistir ao ar ataques.
+704,Knock Back Resistance Chance,Aumento da chance de resistência a Knock Back,Chance de resistência a Knock Back reduzida,Aumenta a chance de resistir a ataques de Knock Back.
+705,Chance de Resistência ao Choque,Aumento da chance de resistência ao choque,Chance de resistência ao choque reduzida,Aumenta a chance de resistir a ataques de choque.
+706,Resistência ao deslocamento Exibição de chance,Aumento de chance de resistência ao deslocamento,Chance de resistência de deslocamento reduzida,Aumenta a chance de resistir a ataques de deslocamento.
+707,Chance de Resistência de Ligação,Aumento da chance de resistência de ligação,Chance de resistência de vinculação reduzida,Aumenta a chance de resistir a ataques de Bind.
+708,Chance de resistência lenta,Chance de resistência lenta aumentada,Chance de resistência à lentidão reduzida,Aumenta a chance de resistir a ataques lentos.
+709,Chance de resistência ao silêncio,Aumento da chance de resistência ao silêncio,Chance de resistência ao silêncio reduzida,Aumenta a chance de resistir a ataques de Silêncio.
+710,Chance de resistência cega,Aumento da chance de resistência ao cego,Chance de resistência cega reduzida,Aumenta a chance de resistir a ataques cegos.
+711,Chance de resistência de congelamento,Aumento da chance de resistência ao congelamento,Chance de resistência de congelamento reduzida,Aumenta a chance de resistir a ataques de Congelamento.
+712,Taunt Resistance Chance,Aumento da chance de resistência à provocação,Chance de resistência à provocação reduzida,Aumenta a chance de resistir a ataques de provocação.
+713,Chance de resistência de mutação,Aumento da chance de resistência à mutação,Chance de resistência à mutação reduzida,Aumenta a chance de resistir a ataques de mutação.
+714,Chance de resistência ao Mind Control,Chance de resistência de Mind Control aumentada,Chance de resistência de Mind Control reduzida,Aumenta a chance de resistir a ataques de Mind Control.
+717,Chance de resistência ao efeito de aflição,Aumento da chance de resistência ao efeito de aflição,reduz a taxa de resistência ao efeito de aflição,"Aumenta a chance de resistir a ataques de Affliction.
+- Queimadura/Congelamento/Envenenamento/Sangramento"
+718,Chance de resistência à queima,Aumento da chance de resistência a queimadura,Chance de resistência a queimadura reduzida,Aumenta a chance de resistir a ataques Burn.
+719,Chance de resistência a congelamento,Aumento da chance de resistência ao congelamento,Chance de resistência a congelamento reduzida,Aumenta a chance de resistir a ataques de congelamento.
+720,Chance de resistência a veneno,Aumento da chance de resistência a veneno,Chance de resistência a veneno reduzida,Aumenta a chance de resistir a ataques venenosos.
+721,Chance de resistência a sangramento,Aumentada Chance de resistência a sangramento,Chance de resistência de sangramento reduzida,Aumenta a chance de resistir a ataques de sangramento.
+744,Taxa de resistência à erosão,aumenta a taxa de resistência à erosão,Reduz a Taxa de Resistência à Erosão,"Aumenta a taxa de resistência contra todos os ataques de erosão. 
+ - Esquecimento/Invasão/Vazio"
+745,Oblivion Resistance Rate,Aumenta a taxa de resistência ao esquecimento,Reduz a Taxa de Resistência ao Esquecimento,Aumenta a taxa de resistência contra ataques de esquecimento.
+746,Taxa de resistência à invasão,aumenta a taxa de resistência à invasão,Reduz a Taxa de Resistência à Invasão,Aumenta a taxa de resistência contra ataques de invasão.
+747,Taxa de resistência ao vazio,Aumenta a Taxa de Resistência ao Vazio,Reduz a taxa de resistência ao vazio,Aumenta a taxa de resistência contra ataques de Void.
+617,Aumenta a duração do controle de multidão,Aumenta a duração do controle de multidão,Duração reduzida do controle de multidão,"Aumenta a duração dos efeitos de Crowd Control aplicados ao alvo.
+ - Atordoar/Derrubar/Aerotransportado/Empurrar para Trás/Choque/Deslocamento/Prender/Lento/Silêncio/Cego/Congelar/Provocar/Mutate/Mind Control"
+618,Duração de atordoamento aumentada,Duração de atordoamento aumentada,Duração de atordoamento reduzida,Aumenta a duração do efeito de atordoamento aplicado ao alvo.
+619,Aumento da duração do acerto de empurrão,Aumento da duração do acerto de empurrão,Duração de nocaute reduzida,Aumenta a duração do efeito Knock Down aplicado ao alvo.
+620,Aumento da Duração Aerotransportada,Aumento da Duração Aerotransportada,Redução da Duração Aerotransportada,Aumenta a duração do Airborne aplicado ao alvo.
+622,Aumento da duração do choque,Aumento da duração do choque,Redução da duração do choque,Aumenta a duração do choque aplicado ao alvo.
+624,Aumento da Duração da Ligação,Aumento da Duração da Ligação,Redução da Duração da Ligação,Aumenta a duração do Bind aplicado ao destino.
+625,Slow Duration Increase,Slow Duration Increase,Redução de duração de lentidão,Aumenta a duração da lentidão aplicada ao alvo.
+626,Aumento da duração do silêncio,Aumento da duração do silêncio,Redução da duração do silêncio,Aumenta a duração do Silêncio aplicado ao alvo.
+628,Aumento da duração da escuridão,Aumento da duração da escuridão,Redução da duração da escuridão,Aumenta a duração da Escuridão aplicada ao alvo.
+629,Aumentar a duração do congelamento,Aumentar a duração do congelamento,Congelar Redução de duração,Aumenta a duração do Congelamento aplicado ao alvo.
+630,Provoca Aumento da Duração,Provoca Aumento da Duração,Provoca Redução da Duração,Aumenta a duração do efeito Provocar aplicado ao alvo.
+600,Duração reduzida do controle de multidão,Duração reduzida do controle de multidão,Aumenta a duração do controle de multidão,"Reduz a duração do Crowd Control aplicado a si mesmo.
+ - Stun/Knockdown/Airborne/Shock/Bind/Slow/Silence/Darkness/Freeze/Taunt/Polymorph/Mind Control
+Aplicado até 70%."
+601,Duração de atordoamento reduzida,Duração de atordoamento reduzida,Duração de atordoamento aumentada,"Reduz a duração do atordoamento aplicado a si mesmo.
+Aplicado em até 70%."
+602,Duração de nocaute reduzida,Duração de nocaute reduzida,Aumento da duração do acerto de empurrão,"Reduz a duração do Knockdown aplicado a si mesmo.
+Aplicado em até 70%."
+603,Redução da Duração Aerotransportada,Redução da Duração Aerotransportada,Aumento da Duração Aerotransportada,"Reduz a duração do Airborne aplicado a si mesmo.
+Aplicado em até 70%."
+605,Redução da duração do choque,Redução da duração do choque,Aumento da duração do choque,"Reduz a duração do choque aplicado a si mesmo.
+Aplicado em até 70%."
+607,Redução da Duração da Ligação,Redução da Duração da Ligação,Aumento da Duração da Ligação,"Reduz a duração do Bind aplicado a si mesmo.
+Aplicado em até 70%."
+608,Redução de duração de lentidão,Redução de duração de lentidão,Slow Duration Increase,"Reduz a duração da lentidão aplicada a si mesmo.
+Aplicado em até 70%."
+609,Redução da duração do silêncio,Redução da duração do silêncio,Aumento da duração do silêncio,"Reduz a duração do Silêncio aplicado a si mesmo.
+Aplicado em até 70%."
+611,Redução da duração da escuridão,Redução da duração da escuridão,Aumento da duração da escuridão,"Reduz a duração da escuridão aplicada a si mesmo.
+Aplicado em até 70%."
+612,Congelar Redução de duração,Congelar Redução de duração,Aumentar a duração do congelamento,"Reduz a duração do Congelamento aplicado a si mesmo.
+Aplicado em até 70%."
+613,Provoca Redução da Duração,Provoca Redução da Duração,Provoca Aumento da Duração,"Reduz a duração da provocação aplicada a si mesmo.
+Aplicado em até 70%."
+465,Taxa de Aumento Aggro,Aumento Aggro,Redução Aggro,"Ao atacar um Monstro, aumenta a hostilidade do alvo em relação a você."
+466,Taxa de Redução Aggro,Redução Aggro,Redução Aggro,"Ao atacar um Monstro, reduz a hostilidade do alvo em relação a você."
+615,Taxa de aumento da duração do buff,Buff Duration Increase,Redução da duração do buff,Aumenta a duração dos Buffs aplicados a si mesmo ou ao alvo.
+616,Taxa de redução da duração do debuff,Redução da duração do debuff,Aumento da duração do debuff,"Reduz a duração das Debuffs aplicadas a si mesmo.
+Não se aplica a efeitos de Crowd Control.
+Aplicado até 70%."
+480,Energia máxima,Aumento máximo de energia,Redução máxima de energia,"A energia do jogador usada para sustentar movimentos especiais como Planar, Escalar e Nadar."
+804,Taxa de aumento de ganho de EXP,Aumenta o ganho de EXP,EXP Redução de ganho,Aumenta a EXP obtida ao derrotar um monstro.
+805,Taxa de aumento de ganho de ouro,Aumenta o ganho de ouro,Reduz Ouro Ganho,Aumenta o ouro ganho ao derrotar um monstro.
+800,Aumento da taxa de queda de itens,Aumento da taxa de queda de itens,Redução da taxa de queda de itens,Aumenta a taxa de queda de itens ao derrotar um monstro.
+801,Taxa de aumento da taxa de queda de itens,Aumento da taxa de queda de itens,Redução da taxa de queda de itens,Aumenta a taxa de queda de itens ao derrotar um monstro.
+811,Taxa de aumento de ganho do Cristal Negro,Aumenta o ganho de Cristal Negro,Reduz o ganho de cristal preto,Aumenta o ganho de Cristal Negro ao derrotar monstros.
+812,Cristal Dourado Ganho Taxa de Aumento,Aumenta o ganho de Cristal Dourado,Reduz Ganho de Cristal Dourado,Aumenta o ganho de Cristal Dourado ao derrotar monstros.
+631,,,,

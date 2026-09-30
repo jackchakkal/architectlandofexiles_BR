@@ -1,6 +1,14 @@
 # Histórico de versões
 
-Cada tag de Release preserva o código e o pacote publicados naquela data. O snapshot atual em `translations/v14/` inclui as revisões da v14.1; as alterações ficam documentadas em `changes/`.
+Cada tag de Release preserva o código e o pacote publicados naquela data. O snapshot atual está em `translations/v15/`; as alterações ficam documentadas em `changes/`.
+
+## v15 — atualização do jogo de 30/09/2026
+
+- Atualizadas as 227 tabelas de texto a partir da instalação original recém-atualizada: 584 registros adicionados, 5 removidos e 27 textos existentes alterados. O total passou a 129.177 registros e 128.038 células traduzidas.
+- Traduzidas as novas missões da Explorers Guild e da pesquisa da Replica Seed, com objetivos específicos para Orica, Bailiegh, Nicolas, Karugura e Tagar. Nomes próprios permanecem como no jogo; os nomes de missão, instruções e descrições estão em português.
+- Incorporados eventos e recompensas da Arena, do Naruru Dice Festival e das Incursões, além de novas coleções, descrições de itens e instruções da loja. Produtos da loja e nomes de itens seguem em inglês conforme o glossário.
+- A nomenclatura atual do torneio passou de “apostas” para **“torcida”** nos textos que o jogo alterou. Corrigida a mensagem de correio que dizia incorretamente que uma previsão errada estava certa.
+- Revisada a mesclagem de tabelas com IDs repetidos e dos parâmetros de nome de item; nenhum texto antigo foi associado a outra linha. Auditoria final: nenhuma tabela, ID, tradução obrigatória ou marcador ausente; nenhuma menção a nome próprio perdido.
 
 ## v14.1
 

@@ -1,0 +1,57 @@
+﻿AssetType,Name,Param,Desc
+0,Ouro,,Recurso utilizado para negociação de itens.
+1,Diamante,,Um recurso raro usado em lojas e no Marketplace.
+2,Diamante,,Um recurso raro usado em lojas e no Marketplace.
+3,Diamante,,Um recurso raro usado em lojas e no Marketplace.
+5,Valor PK,,"Pontos obtidos ao derrotar monstros.
+Pode diminuir se você matar outros jogadores."
+22,Antigas,,"Um recurso de contribuição recebido por contribuir para o Clã.
+Pode ser usado na Loja de Moedas Antigas."
+32,Clan’s Ancient Coins,,"Um recurso compartilhado acumulado no Clã.
+Membros autorizados podem usá-lo para comprar itens do Clã na Loja de Moedas Antigas do Clã."
+47,Adventurers Alliance Coin,,"Obtido completando comissões Commission House ou subjugando Incursões.
+Trocável por recompensas do Adventurers Alliance Coin Merchant."
+52,Rift Ficha de Raide,,"Recursos que podem ser adquiridos no Rift.
+Usable na Rift Coin Shop."
+41,Cristal Negro,,"Pode ser obtido derrotando monstros na Giant's Tower.
+Pode ser trocado por grandes recompensas na Giant's Tower Black Crystal Shop.
+※ Sujeito a limite de aquisição."
+51,Cristal Dourado,,Obtido ao derrotar monstros em Abyss Battlefield.
+54,Insígnia Abissal,,Pode ser obtido acumulando méritos através do combate no Abyss Battlefield.
+55,Arena Badge,,"Um símbolo de honra obtido ao participar da Arena.
+※ Sujeito a limite de aquisição."
+42,Vending Machine Token,,Moeda usada para operar o Vending Machine.
+43,Giant’s Vending Machine Token,,Recurso utilizado para operar o Giant do Vending Machine.
+6,Fragmento de Relic of Subjugation,,Fragmento para criar o Baú da Relíquia Sagrada.
+7,Fragmento de Relic of Loyalty,,Fragmento para criar o Baú da Relíquia Sagrada.
+10,Fragmento de Relíquia Sagrada: Conflito,,Fragmento para criar o Baú da Relíquia Sagrada.
+49,Selo da Fenda,,"Moeda necessária para obter recompensas Rift.
+Obtido completando comissões semanais.
+Você pode conter até um máximo de 600 por vez."
+8,Quilometragem,,Trocável por vários itens na Mileage Shop.
+33,Ouro do Clã,,"Ouro acumulado no Clã.
+Alguns membros autorizados podem distribuí-lo aos Membros do Clã."
+34,Clan’s Diamonds,,"Diamantes acumulados no Clã.
+Certos membros autorizados podem distribuí-los aos membros do clã."
+23,Contribuição do Clã,,"Pontos obtidos quando um indivíduo contribui para o Clã.
+Esses pontos distinguem o quanto você e outras pessoas contribuíram para o Clã."
+31,EXP de Clã,,EXP necessária para subir de nível no Clã.
+4,Pontuação do troféu,,"Pontos concedidos por completar o Troféu atingindo objetivos.
+Se você adquirir pontos suficientes para atingir a quantidade desejada, poderá obter uma recompensa de Troféu."
+35,{Param} Graça das constelações Pontos de Fusão,1 estrela,Pontos usados ​​para trocar Cartões de Graça das constelações.
+36,{Param} Graça das constelações Pontos de Fusão,2 estrelas,Pontos usados ​​para trocar Cartões de Graça das constelações.
+37,{Param} Graça das constelações Pontos de Fusão,3 estrelas,Pontos usados ​​para trocar Cartões de Graça das constelações.
+38,{Param} Graça das constelações Pontos de Fusão,4 estrelas,Pontos usados ​​para trocar Cartões de Graça das constelações.
+39,{Param} Graça das constelações Pontos de Fusão,5 Estrelas,Pontos usados ​​para trocar Cartões de Graça das constelações.
+40,{Param} Graça das constelações Pontos de Fusão,6 estrelas,Pontos usados ​​para trocar Cartões de Graça das constelações.
+24,{Param} Afinidade da guilda,Merchant,{Param} Pontos usados para construir afinidade com a Guilda.
+25,{Param} Afinidade da guilda,Blacksmith,{Param} Pontos usados para construir afinidade com a Guilda.
+26,{Param} Afinidade da guilda,Artisan,{Param} Pontos usados para construir afinidade com a Guilda.
+27,{Param} Afinidade da guilda,Appraisor,{Param} Pontos usados para construir afinidade com a Guilda.
+28,{Param} Afinidade da guilda,Hunter,{Param} Pontos usados para construir afinidade com a Guilda.
+29,{Param} Afinidade da guilda,Explorer,{Param} Pontos usados para construir afinidade com a Guilda.
+30,{Param} Afinidade da guilda,Wayfinder,{Param} Pontos usados para construir afinidade com a Guilda.
+50,Selo da Fenda Anomalia,,"Moeda necessária para obter a recompensa “Anomaly Rift: Uninvited Guest”.
+Obtido através do conteúdo do Aburu's Bounty Festival."
+53,Token de Cooperação do Clã,,Recurso do clã necessário para ativar a Clan Expedition.
+58,Pontos de arquiteto,,Obtido na compra de itens no aplicativo por meio do cliente Architect.

@@ -1,6 +1,13 @@
 # Glossário e decisões editoriais
 
-> Este arquivo é a fonte de verdade das decisões de tradução. Qualquer pessoa ou IA que continue o projeto deve ler este documento antes de traduzir ou revisar, e registrar aqui toda decisão nova. Última consolidação: 2026-09-27 (v14).
+> Este arquivo é a fonte de verdade das decisões de tradução. Qualquer pessoa ou IA que continue o projeto deve ler este documento antes de traduzir ou revisar, e registrar aqui toda decisão nova. Última consolidação: 2026-09-30 (v15).
+
+## Decisões da v15
+
+- **Tournament Cheer** é **Torcida do torneio**; *Cheer* em botões e avisos é **torcida**. O jogo substituiu a nomenclatura anterior de *Betting*. A mecânica ainda usa previsões e taxa de inscrição; traduza esses termos literalmente quando aparecem no texto.
+- **Factor** isolado em objetivos de coleta é **fator**, como em `GadgetInteraction_Name.csv` e `Gadget_Name.csv` da versão anterior. **Replica Seed**, **Explorers Guild**, **Naruru Dice Festival** e nomes de lugares continuam em inglês por serem nomes próprios.
+- Bailiegh é referido no texto original do novo diálogo com pronome masculino; nas descrições novas, use **vice-mestre** e pronomes masculinos para ele.
+- **Incursion / Grand Incursion** em texto genérico seguem como **Incursão / Grande Incursão**, conforme a regra anterior. Preserve nomes próprios completos que contenham esses termos.
 
 ## Regra número 1: nome próprio não se traduz — em lugar nenhum
 

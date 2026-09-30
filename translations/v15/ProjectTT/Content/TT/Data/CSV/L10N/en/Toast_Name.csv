@@ -1,0 +1,91 @@
+﻿Type,Message,Button1Name,Button2Name
+0,,,
+1,O grupo foi criado.,,
+2,"<Green>[UserName]</> convidou você para a festa.
+Você quer participar da festa?",Aceitar,Rejeitar
+3,Você entrou no grupo.,,
+4,<Green>[UserName]</> se juntou à festa.,,
+5,Você saiu do grupo.,,
+6,<Green>[UserName]</> saiu do grupo.,,
+7,Você foi removido do grupo.,,
+8,<Green>[UserName]</> foi expulso do grupo.,,
+9,Você foi nomeado líder do partido.,,
+10,<Green>[UserName]</> foi nomeado líder do partido.,,
+11,"Localização: <Green>[AreaName]</>
+<Yellow>[UserName]</> definiu um novo ponto de encontro.",,
+12,<Yellow>[UserName]</> definiu um novo ponto de encontro.,,
+13,Solicitação para participação <Green>[PartyName]</> Festa.,,
+14,"<Green>[UserName]</><Yellow> (Lv.[UserLevel] Combat Power [CombatPower])</> solicitou para se juntar ao Party.
+Você deseja aprovar?",Aceitar,Rejeitar
+15,A solicitação para ingressar na Parte <Green>[PartyName]</> foi rejeitada.,,
+16,O grupo foi dissolvido.,,
+17,O método de distribuição partidária foi configurado como <Yellow>[PartyRule]</>.,,
+18,Um Esquadrão de Clã foi criado.,,
+19,"<Green>[UserName]</> convidou você para o Esquadrão do Clã.
+Você quer se juntar ao Esquadrão do Clã?",Aceitar,Rejeitar
+20,Você se juntou ao Esquadrão do Clã.,,
+21,Saiu do esquadrão do Clã.,,
+22,Expulso do esquadrão do clã.,,
+23,<Green>[UserName]</> foi expulso do Esquadrão do Clã.,,
+24,Você foi nomeado líder do esquadrão.,,
+25,<Green>[UserName]</> foi nomeado líder do esquadrão.,,
+26,"Localização: <Green>[AreaName]</>
+<Yellow>[UserName]</> definiu um novo ponto de encontro.",,
+27,<Yellow>[UserName]</> definiu um novo ponto de encontro.,,
+28,O esquadrão do clã foi dissolvido.,,
+29,"O método de distribuição do Esquadrão do Clã foi definido como <Yellow>[ClanUnitRule]</>, e o objetivo foi definido como <Yellow>[Target]</>.",,
+30,<Green>[UserName]</> enviou uma solicitação pronta.,concluídas,Não pronto
+31,Você se juntou ao clã <Blue>[ClanName]</>.,,
+32,"O clã <Blue>[ClanName]</> enviou um convite para você.
+Deseja revisá-lo agora?",Leia,
+33,Você foi expulso do clã <Blue>[ClanName]</>.,,
+34,"Localização: <Green>[AreaName]</>
+<Yellow>[UserName]</> está emitindo uma chamada de clã em um Localização Clan Beacon. Você quer se mudar para lá?",Mova,
+35,<Yellow>[UserName]</> está emitindo uma chamada de clã em um local Clan Beacon. Você quer se mudar para lá?,Mova,
+36,"O clã <Green>[ClanName]</> solicitou uma aliança.
+Deseja revisá-la agora?",Leia,
+37,O clã <Green>[ClanName]</> aceitou o pedido de aliança.,,
+38,O clã <Green>[ClanName]</> rejeitou o pedido de aliança.,,
+39,Renovação automática de <Green>[Name]</> A pesquisa foi desativada devido a fundos insuficientes.,Mova,
+41,"<Green>[UserName]</> enviou uma solicitação de amizade.
+Deseja revisá-lo agora?",Aceitar,Rejeitar
+42,<Green>[UserName]</> aceitou sua solicitação de amizade.,,
+43,<Green>[UserName]</> rejeitou seu pedido de amizade.,,
+44,"Monolith War começará em breve.
+Por favor, verifique seu reino participante.",Leia,
+45,"Monolith War começou.
+Por favor, verifique seu reino participante.",Leia,
+46,"Localização: <Green>[AreaName]</>
+O portal Angbar Arena foi aberto. Você quer se mudar para lá?",Mova,
+47,O portal Angbar Arena foi aberto. Você quer se mudar para lá?,Mova,
+48,"O líder do partido solicitou entrada automática em <Green>[DungeonName]</>.
+Por favor, prepare-se para a entrada.",,
+49,A correspondência foi concluída. Inserindo <Green>[DungeonName]</> em breve.,,
+50,"Devido à inatividade prolongada, você será removido da masmorra em breve.",,
+51,"Devido à inatividade prolongada, você será removido da Giant's Tower em breve.",,
+52,"O chefe <Yellow>[NpcName]</> irá aparecer em 5 minutos.
+Você quer ir para a localização do chefe?",Mova,
+53,"O <Yellow>[NpcName]</> chefe irá aparecer em 60 segundos.
+Você quer ir para a localização do chefe?",Mova,
+54,<Green>[UserName]</> ativou o modo IA offline.,,
+55,<Green>[UserName]</> desativou o modo AI offline.,,
+56,<Green>[UserName]</> conectado e o modo IA offline agora está desativado.,,
+57,"<Green>[UserName]</> desativou o modo IA offline, saindo da festa.",,
+58,Você alcançou <Yellow>#1 no Character Combat Power Ranking.</> Deseja revisá-lo agora?,Leia,
+59,Você alcançou <Yellow>#1 na classificação de nível de personagem.</> Deseja revisá-lo agora?,Leia,
+40,<Green>[Name]</> ativou a Replica Seed de <Yellow>[BossName]</>. Ir para lá agora?,Mova,
+60,O evento <Green>[GamePlayEventName]</> foi iniciado. Você quer se mudar para lá?,Mova,
+61,Inserindo <Green>[WorldName]</> em breve.,,
+62,Saindo em breve devido à inatividade prolongada.,,
+65,A Conquista da Fortaleza Abyss Battlefield começará em breve. Você gostaria de se mudar para lá?,Mova,
+66,do Absoluto A conquista da fortaleza Abyss Battlefield começou. Você gostaria de se mudar para lá?,Mova,
+63,O Sentinel Scramble Abyss Battlefield começará em breve. Você gostaria de se mudar para lá?,Mova,
+64,O Sentinel Scramble Abyss Battlefield foi iniciado. Você gostaria de se mudar para lá?,Mova,
+67,A Clan Expedition agora está ativa. Mudar para o local?,Mova,
+68,Um <Yellow>Rift Boss</> foi gerado. Ir agora?,Mova,
+69,<Yellow>Rift Boss</> entrada fechando em <Yellow>5 minutos</>. Ir agora?,Mova,
+72,"<Yellow>[Name]</> ativou o Buff do servidor Abyss Battlefield.
+Mover para Abyss Battlefield?",Mova,
+74,Organização de partida concluída. Inserindo <Green>[ClashTypeName]</> em breve.,,
+75,Você será removido da partida em breve devido à inatividade.,,
+73,O Hall of Proof agora está ativo. Vai lá agora?,Mova,

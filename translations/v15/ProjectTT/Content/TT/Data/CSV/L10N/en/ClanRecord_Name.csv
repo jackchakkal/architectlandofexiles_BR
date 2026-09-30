@@ -1,0 +1,30 @@
+﻿RecordType,ClanRecordString
+19,<Yellow>[Param1]</> consumido <Yellow>[Param2]</> <Yellow>[Param3]</>{jstag:} para marcar o Clã <Yellow>[Param4]</> como Hostil na Forsaken Land.
+26,<Yellow>[Param1]</> consumido <Yellow>[Param2]</> <Yellow>[Param3]</>{jstag:} para marcar o clã <Yellow>[Param4]</> como hostil no Abyss Battlefield.
+11,Suporte recebido do clã <Yellow>[Param1]</>. <Yellow>[Param2]</> (<Yellow>-[Param3]</>) Diamantes depositados no Tesouro do Clã.
+12,<Yellow>[Param1]</> (-<Yellow>[Param2]</>) <Yellow>[Param3]</>{jstag:} distribuído para <Yellow>[Param4]</>{jstag:}.
+0,<Yellow>[Param2]</> x<Yellow>[Param1]</> distribuído para <Yellow>[Param3]</>{jstag:}.
+13,<Yellow>[Param2]</> <Yellow>[Param3]</>{jstag:} recebido do Algoritmo <Yellow>[Param1]</>. [Param5] </> <Yellow>[Param4] enviado ao Tesouro do Clã.
+9,<Yellow>[Param2]</> <Yellow>[Param3]</>{jstag:} depositado no Tesouro do Clã de <Yellow>[Param1]</> Recompensa.
+7,<Yellow>[Param1]</> depositado <Yellow>[Param4]</> x<Yellow>[Param3]</> para o Tesouro do Clã através de <Yellow>[Param2]</>{jstag:}.
+10,<Yellow>[Param2]</> <Yellow>[Param3]</>{jstag:} depositado no Tesouro do Clã de <Yellow>[Param1]</> vendas de bônus.
+8,<Yellow>[Param2]</> <Yellow>[Param3]</>{jstag:} depositado no Tesouro do Clã pela venda do Item <Yellow>[Param1]</> até <Yellow>[Param4]</>{jstag:}.
+2,<Yellow>[Param1]</> usado <Yellow>[Param2]</> <Yellow>[Param3]</>{jstag:} para se registrar para participação em <Yellow>[Param4]</>.
+21,<Yellow>[Param2]</> <Yellow>[Param3]</>{jstag:} consumido para adquirir Pesquisa <Yellow>[Param1]</>.
+23,<Yellow>[Param2]</> <Yellow>[Param3]</>{jstag:} consumido para ativar a Pesquisa <Yellow>[Param1]</>.
+22,<Yellow>[Param2]</> <Yellow>[Param3]</>{jstag:} consumido para aprimorar a pesquisa <Yellow>[Param1]</>.
+24,O tempo de renovação da pesquisa ativa <Yellow>[Param1]</> foi atingido. <Yellow>[Param2]</> <Yellow>[Param3]</>{jstag:} foi deduzido pelo sistema.
+6,<Yellow>[Param2]</> x<Yellow>[Param3]</> depositado no Tesouro do Clã de <Yellow>[Param1]</> Recompensa.
+5,<Yellow>[Param2]</> x<Yellow>[Param3]</> depositado no Tesouro do Clã para limpar o <Yellow>[Param1]</> Masmorra.
+4,O Esquadrão do Clã obteve <Yellow>[Param2]</> x<Yellow>[Param3]</> Itens e os depositou no Tesouro do Clã.
+14,<Yellow>[Param1]</> x<Yellow>[Param2]</> depositado no Tesouro do Clã a partir da Recompensa de Proteção.
+15,"Além disso, <Yellow>[Param2]</> x<Yellow>[Param3]</> obtido do algoritmo de recompensa de proteção <Yellow>[Param1]</> foram depositados no Tesouro do Clã."
+16,Golem Guardião derrotado por <Yellow>[Param1]</>: <Yellow>[Param2]</> x<Yellow>[Param3]</> depositado no Tesouro do Clã.
+1,<Yellow>[Param1]</> gasto <Yellow>[Param3]</> <Yellow>[Param2]</>{jstag:} para comprar <Yellow>[Param4]</> x<Yellow>[Param5]</> da loja.
+3,<Yellow>[Param1]</> listado <Yellow>[Param2]</> x<Yellow>[Param4]</> à venda no Tesouro do Clã como <Yellow>[Param3]</>{jstag:}.
+17,<Yellow>[Param1]</> retirou <Yellow>[Param2]</> x<Yellow>[Param4]</> à venda em <Yellow>[Param3]</>.
+18,<Yellow>[Param2]</> x<Yellow>[Param3]</> listado no <Yellow>[Param1]</> devolvido ao Tesouro (listagem expirada).
+20,<Yellow>[Param1]</> usado <Yellow>[Param2]</> <Yellow>[Param3]</>{jstag:} para ativar a Chamada do Clã.
+25,"<Yellow>[Param1]</> classificou <Yellow>[Param3]</> no Evento <Yellow>[Param2]</>, então as recompensas foram entregues ao Tesouro do Clã."
+27,O clã alcançou a pontuação do clã de <Yellow>[Param1]</> e adquiriu <Yellow>[Param3]</> <Yellow>[Param2]</>. Os itens são armazenados no Cofre do Clã.{jstag:}
+28,<Yellow>[Param2]</> x<Yellow>[Param3]</> depositado no Tesouro do Clã de <Yellow>[Param1]</> Recompensa.

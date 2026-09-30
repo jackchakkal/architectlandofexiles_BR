@@ -1,0 +1,12 @@
+﻿Id,PKGrade,Param
+1,Neutro,
+11,Bom nível {Param},1
+12,Bom nível {Param},2
+13,Bom nível {Param},3
+14,Bom nível {Param},4
+15,Bom nível {Param},5
+21,Nível maligno {Param},1
+22,Nível maligno {Param},2
+23,Nível maligno {Param},3
+24,Nível maligno {Param},4
+25,Nível maligno {Param},5

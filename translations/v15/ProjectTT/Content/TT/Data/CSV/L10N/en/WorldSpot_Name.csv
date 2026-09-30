@@ -1,0 +1,943 @@
+﻿Id,SpotName
+11,
+99,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+109,
+110,
+111,
+112,
+113,
+114,
+115,
+116,
+117,
+121,
+131,
+141,
+151,
+161,
+171,
+181,
+191,
+201,
+202,
+203,
+204,
+1000,Abandoned Land
+2000,Forsaken Land: Otherworld
+10011,Labyrinth
+10012,Labyrinth Boss Battle Start Location
+10013,Labyrinth
+10014,Abandoned Land
+10016,Abandoned Land
+20000,
+20001,Aburu Village
+20002,Ea's Navel
+20003,Ea's Navel Floating Island
+20004,Naruru Brewery
+20005,Great Arbor Domain
+20006,Great Arbor Domain Above the Cliff
+20007,Monolith Occupied Territory
+20008,Trial of Flight
+20011,Trial of Glide Gadget Location
+20012,Trial of Puzzle Gadget Location
+20013,Trial Gates Gadget Location
+100100,Scything Barrens
+100101,Babylon
+100102,Bardad Expedition Garrison
+100103,Taima Pioneer Village
+100104,First Step Village
+100105,Sunshade Encampment
+100106,Central Detachment Garrison
+100107,Magobi Encampment
+100108,Thundercrest
+100109,Gate of Lament
+100111,Pilgrim's Path
+100112,Mirage Gorge
+100113,Gale Ravine
+100114,Ancient Ruins Diggings
+100115,Golem's Tomb
+100116,Predator's Hunting Ground
+100117,White-Bone Expanse
+100118,Valley of Beasts
+100119,Gorge of Perdition
+100120,Taima Oasis
+100121,Crimson Shimmer Wastes
+100122,Whirlwind Gorge
+100123,Valley of Oblivion
+100124,Arcal’s Territory
+100125,Shrieking Vale
+100126,Whirling Barrows
+100127,Thunderbird's Nest
+100128,Red Rock Garden
+100129,Gate of Lament
+100130,Red Plains
+100147,Firststride Village Approach
+100148,Magobi Encampment Approach
+100149,Babylon Outskirts Market Entrance
+100150,Central Detachment Garrison Entrance
+100151,Around Aburu Village Entrance
+100152,Canyon Pass
+100153,Path to the White-Bone Expanse
+100154,Ancient Ruins Diggings Approach
+100155,Bardad Expedition Approach
+100156,Firststride Village Outskirts
+100157,Wolf Clan Outpost Outskirts
+100158,Bardad Expedition Garrison Entrance
+100159,Firststride Village Outskirts
+100160,Inner White-Bone Expanse
+100161,Central Detachment Garrison Outskirts
+100162,Polaris Clan Hideout Outskirts
+100163,Taima Pioneer Village Outskirts
+100164,Babylon
+100165,West Gate in Babylon
+100166,Asientet Legation in Babylon
+100167,Bardad Expedition Garrison
+100168,Sunshade Encampment Outskirts Bridge
+100169,Sunshade Encampment Outskirts Road
+100170,Road of Hardship
+100171,Babylon Outskirts Market Entrance
+100172,Road of Hardship
+100173,Road of Hardship
+100174,Labyrinth
+100175,Firststride Village
+100176,Magobi Encampment
+100177,Giant's Garden Entrance
+100178,Inner Babylon Polaris Clan
+100179,Sunshade Encampment
+100180,Temporary Clinic
+100181,Babylon Polaris Clan Outskirts
+100182,Firststride Village Outskirts
+100183,Inner Babylon Polaris Clan
+100184,On the Walls of Babylon
+100185,Shadow Wolves Hideout
+100186,Babylon Outskirts
+100187,Temporary Shelter
+100188,Shadow Wolves Hideout
+100189,Shadow Wolves Hideout Entrance
+100190,Pilgrim's Path
+100191,Old Ruins
+100192,Thunderbird's Nest
+100193,Polaris Clan Hideout Outskirts
+100194,Golem's Tomb
+100195,Taima Oasis Outskirts
+100196,Polaris Clan Hideout Outskirts
+100197,Babylon Square
+100198,Firststride Village Future Reclamation Area
+100199,Firststride Village Outskirts
+100201,Giant's Garden
+100202,Aburu Village
+100203,Rappie Ranch
+100204,Sunset Brewery
+100211,Wide Riverbank
+100212,Sunrise Slope
+100213,Tenebrous Hollow
+100214,Brume-Veiled Meadow
+100215,Beast Corral
+100216,Kuduru's Domain
+100217,Garden of Twilight
+100218,Woodland of Elder Gods
+100219,Nameless Heights
+100220,Forsaken Mine Entrance
+100221,Forsaken Mine
+100222,Forsaken Mine Outreaches
+100223,Ancient Imperial Institute Ruins
+100224,Hallowed Mana-Sanctum
+100225,The Savage Ravine
+100226,Forest of Bellowing Dragons
+100227,Wyvern’s Nest
+100270,Near Ancient Tree Shelter
+100271,Paradise Advent Society Hideout Entrance
+100272,Forsaken Mine
+100273,The Savage Ravine
+100274,Forest of Bellowing Dragons
+100275,Woodland of Elder Gods Hill
+100276,Aburu Village Outskirts
+100277,Aburu Village West
+100278,Rappie Ranch Entrance
+100279,Kuduru Tribe Territory Entrance
+100280,Near the Encampment
+100281,Aburu Village Entrance
+100301,Hesperia
+100302,Frantia Gate
+100303,Rappie Training Ground
+100311,Halcyon-Hush Woods
+100312,Hesperia Farm (South)
+100313,Hesperia Farm (North)
+100314,Ember-Choke Grove
+100315,Borderlands
+100316,Adamant Ascent
+100317,War Drum Ridge
+100318,Ironblood Brigade Hideout
+100319,Hallowed Obsidian Mountain
+100320,Whirlwind Heights
+100321,Thunderfall Falls
+100322,Waterfall Grotto
+100323,Thunderfall Ridges
+100324,Forgotten Ridges
+100325,Ruins of the Forgotten Kingdom
+100326,Ruins Outskirts
+100327,Maelstrom Strand
+100328,Flay-Stone Reef
+100370,Ember-Choke Grove Entrance
+100371,Hesperia Village Entrance
+100372,Hesperia Outpost Approach
+100373,Hesperia Inner Keep
+100374,War Drum Ridge Outskirts
+100375,Hesperia Inner Keep Center
+100376,Hallowed Black Rock Mountain
+100377,Hallowed Black Rock Mountain Slope
+100378,Ironblood Brigade Hideout Entrance
+100379,Inside Rappie Training Ground
+100380,Ironblood Brigade Hideout Entrance
+100381,Bridge
+100382,Ruins Around Great Echo Encampment
+100383,Around the Bridge
+100384,Hesperia Inner Keep
+100385,War Drum Ridge
+100386,Ruins of the Forgotten Kingdom Edifice Surroundings
+100387,Bridge Near the Borderlands
+100388,Bardad Expedition Encampment Entrance
+100389,Hill of Grief
+100390,Whirlwind Heights
+100391,Bardad Expedition Encampment
+100401,Starfall Plateau
+100402,Verzard Outpost
+100403,Stragglers' Camp
+100404,Stormkel Gate
+100405,Naruru Hot Springs
+100411,Hoarfrost Snowfield Entrance
+100412,Geyser Field
+100413,Black Pillar Cliffs
+100414,Gray Forest
+100415,Astrid Rebel Stronghold
+100416,Sere-Moss Heights
+100417,Serpent's Path
+100418,White Stag's Cradle
+100419,Hoarfrost Snowfield Crossroads
+100420,Silver Shadow Temple
+100421,Black Rock Plateau
+100422,Giant's Refuge
+100423,Giant's Refuge 2
+100424,Frozen Shore
+100425,Shrill-Whistle Coast
+100426,Blizzard's Breath Plain
+100427,Whispering Wind Plain
+100428,End of the Forsaken Land
+100470,Gray Forest
+100471,Astrid Rebel Stronghold
+100472,Silver Shadow Temple
+100473,Outpost Western Entrance
+100474,Black Pillar Cliffs Entrance
+100475,Astrid Stronghold Entrance
+100476,Expedition Encampment Entrance
+100477,Snowfield Crossroads
+100478,Outpost Southern Entrance
+100479,Sere-Moss Heights Entrance
+100480,Stormkel Gate Entrance
+100481,Stormkel Gate Outskirts
+100482,Stormkel Gate Outskirts
+100483,Naruru Hot Springs Approach
+100511,Dragon's Breath
+100512,Ascent
+100513,Tranquil Field
+100514,Low Wind
+100515,Demonic Beast's Mane
+100516,Devouring Cliff
+100517,Plain of Two Steps
+100518,Hunter's Platform
+100519,Dredged Shore
+100520,Broken Keel
+100521,Dragon's Maw
+100522,Vile Dragon's Lair
+100523,Three-Way Exit
+100524,Sunrise Shade
+100525,Twilight Forest
+100526,Red Veil Valley
+100527,Encampment Entrance
+100528,Eye of the Forest
+100529,Holy Water Springs
+100530,Explorer's Corridor
+100531,Bedrock Falls
+100532,Lake of Spirits
+100533,Sunlight Rapids
+100534,Ancient Fall Site
+100535,Adventurer's Recollection
+100570,Evil Dragon's Lair Outskirts
+100571,Forest Keeper's Encampment Outskirts
+100572,Ruins of the Tower
+100573,Lake of Spirits
+100574,Hunter Watchpost Entrance
+100575,Valley of Beasts Outskirts
+100576,Valley of Beasts Outskirts
+100577,Evil Dragon's Lair Outskirts
+100578,Ruins of the Tower
+100579,Holy Beast Forest Entrance
+100580,Evil Dragon's Lair Entrance
+100581,Hunter's Village
+100582,Building Near the Forest Keeper’s Encampment
+100583,Forest Keeper’s Encampment Entrance
+100584,Holy Beast Forest
+100585,Southern Entrance of Bardad Expedition Forward Waypoints
+100586,Lake of Spirits Entrance
+100587,Hunter’s Village Western Hunting Grounds
+100588,Bridge of Bardad Expedition Forward Waypoints
+100589,Hunter's Outpost Outskirts
+100590,Hunter's Outpost Outskirts
+100591,Deep Forest Outskirts
+100592,Vile Dragon's Lair Interior
+100593,Vile Dragon's Lair Depths
+100594,Nameless Village Outskirts
+100595,Soul's Repose
+100596,Path to Sorrow's Manor
+100597,Bardad Expedition Forward Waypoints
+100598,Nameless Village
+100601,Firststride Village Northeast
+100602,Hesperia Reconnaissance Outpost
+100603,Expedition Garrison South
+100604,Vagrant’s Repose
+100605,Bardad Expedition Encampment
+100606,Tenebrous Hollow
+100607,Aburu Village
+100608,Phase Shift Device
+200101,
+2001011,
+2001012,
+2001013,
+2001014,
+200102,
+2001021,
+2001022,
+2001023,
+200103,
+2001031,
+2001032,
+2001033,
+2001034,
+200104,
+2001041,
+2001042,
+200105,
+2001051,
+2001052,
+2001053,
+2001054,
+2001055,
+200106,
+2001061,
+2001062,
+2001063,
+200107,
+2001071,
+2001072,
+2001073,
+2001074,
+200108,
+2001081,
+2001082,
+200109,
+2001091,
+2001092,
+200110,
+2001101,
+2001102,
+2001103,
+200111,
+2001111,
+2001112,
+2001113,
+2001114,
+200112,
+200113,
+2001131,
+2001132,
+200114,
+2001141,
+2001142,
+200115,
+200201,
+2002011,
+2002012,
+2002013,
+2002014,
+2002015,
+2002016,
+200202,
+2002021,
+2002022,
+2002023,
+2002024,
+200203,
+2002031,
+2002032,
+2002033,
+2002034,
+200204,
+2002041,
+2002042,
+200205,
+2002051,
+2002052,
+2002053,
+2002054,
+2002055,
+2002056,
+200206,
+2002061,
+2002062,
+2002063,
+2002064,
+200207,
+2002071,
+2002072,
+2002073,
+2002074,
+2002075,
+200208,
+2002081,
+2002082,
+200209,
+200210,
+2002101,
+2002102,
+2002103,
+2002104,
+200211,
+2002111,
+2002112,
+2002113,
+2002114,
+200212,
+200213,
+2002131,
+2002132,
+2002133,
+2002134,
+200214,
+2002141,
+200215,
+200301,
+2003011,
+200302,
+2003021,
+2003022,
+2003023,
+200303,
+2003031,
+200304,
+2003041,
+2003042,
+200305,
+2003051,
+2003052,
+2003053,
+2003054,
+2003055,
+200306,
+2003061,
+2003062,
+2003063,
+200307,
+2003071,
+2003072,
+2003073,
+2003074,
+200308,
+2003081,
+2003082,
+200309,
+20030901,
+200310,
+2003101,
+2003102,
+2003103,
+2003104,
+200311,
+20031101,
+20031102,
+20031103,
+200312,
+200313,
+20031301,
+200314,
+20031401,
+20031402,
+20031403,
+20031404,
+200315,
+200401,
+2004011,
+2004012,
+2004013,
+2004014,
+200402,
+2004021,
+2004022,
+200403,
+2004031,
+2004032,
+2004033,
+2004034,
+200404,
+2004041,
+2004042,
+200405,
+2004051,
+2004052,
+200406,
+2004061,
+2004062,
+2004063,
+2004064,
+200407,
+2004071,
+2004072,
+2004073,
+2004074,
+200408,
+2004081,
+2004082,
+200409,
+2004091,
+2004092,
+2004093,
+200410,
+2004101,
+2004102,
+200411,
+2004111,
+2004112,
+2004113,
+200412,
+2004121,
+2004122,
+200413,
+2004301,
+200414,
+2004141,
+200415,
+200501,
+2005011,
+200502,
+2005021,
+2005022,
+2005023,
+200503,
+2005031,
+2005032,
+200504,
+200505,
+2005051,
+200506,
+2005061,
+200507,
+200508,
+200516,
+10021,
+10022,
+10023,
+10031,
+10032,
+10033,
+10034,
+10041,
+10042,
+10051,
+10052,
+1002,
+1003,
+1004,
+1111,
+1112,
+10001,
+10002,
+10003,
+10004,
+10005,
+10201,
+10401,
+10402,
+10403,
+10404,
+10405,
+10406,
+10407,
+11001,
+102001,
+30011,
+30012,
+30021,
+30022,
+30031,
+30032,
+30091,
+30092,
+30093,
+30094,
+110101,Babylon
+110102,Bardad Expedition Garrison
+110103,Taima Pioneer Village
+110104,Polaris Hideout
+110105,Central Detachment Garrison
+110106,First Step Village
+110107,Sunshade Encampment
+110108,Magobi Encampment
+110109,Thundercrest
+110110,Gate of Lament
+110111,Asientet Gate
+110112,Thunderbird's Nest
+110113,Red Plains
+110201,Aburu Village
+110202,Rappie Ranch
+110203,Sunset Brewery
+110204,Monolith War
+110205,Giant's Corridor
+110206,Cactus Nest
+110208,Great Arbor Domain
+110210,Ancient Tree Bower
+110211,Forsaken Mine
+110212,Wide Riverbank
+110213,Ancient Imperial Institute Ruins
+110214,Forest of Bellowing Dragons
+110301,Hesperia
+110302,Frantia Gate
+110303,Rappie Training Ground
+110304,Reconnaissance Outpost
+110305,Great Echo Encampment
+110306,Monolith War
+110307,Bardad Expedition Encampment
+110308,Thunderfall Falls
+110309,Hesperia Farm (South)
+110310,Hallowed Obsidian Mountain
+110311,Ruins Outskirts
+110312,Flay-Stone Reef
+110401,Verzard Outpost
+110402,Vagrant's Repose
+110403,Stormkel Gate
+110404,Naruru Hot Springs
+110405,Verzard Secret Outpost
+110406,Bardad Expedition Encampment
+110407,Crossroads Shelter
+110408,Alabaster Encampment
+110409,Monolith War
+110410,Coast of Howling Winds
+110411,Obsidian Encampment
+110412,Gray Forest
+110413,Silver Shadow Temple
+110414,End of the Forsaken Land
+110501,Hunter's Village
+110502,Bardad Expedition Forward Waypoints
+110504,Hunter's Border Outpost
+110505,Forest Keeper's Encampment
+110507,Valley of Beasts Outpost
+110508,Heart of the Beast Valley
+110509,Upper Dragon's Lair 
+110510,Depths of the Dragon's Lair
+110511,Deep Forest Village
+9999001,
+9999002,
+9999003,
+1151,Arbiter’s Ordeal
+1152,Arbiter’s Ordeal
+1153,Arbiter’s Ordeal
+1154,Arbiter’s Ordeal
+2010111,
+2010211,
+2010212,
+2010311,
+2010411,
+2010412,
+2010511,
+2010512,
+2010513,
+2010611,
+2010711,
+2010811,
+2010812,
+2020111,
+2020112,
+2020113,
+2020114,
+2020115,
+2020116,
+2020117,
+2020118,
+2020121,
+2020122,
+2020123,
+2020124,
+2020125,
+2020126,
+2020127,
+2020128,
+2020211,
+2020212,
+2020213,
+2020214,
+2020215,
+2020216,
+2020217,
+2020311,
+2030111,
+2030211,
+2130111,
+2130211,
+2131111,
+2040111,
+2040121,
+2040131,
+2040141,
+20401101,
+20401102,
+20401103,
+20401104,
+20401105,
+20401106,
+20401107,
+20401108,
+20401201,
+20401202,
+20401203,
+20401204,
+20401205,
+20401206,
+20401207,
+20401208,
+20401301,
+20401302,
+20401303,
+20401304,
+20401305,
+20401306,
+20401307,
+20401308,
+20401401,
+20401402,
+20401403,
+20401404,
+20401405,
+20401406,
+20401407,
+20401408,
+3010011,
+3010021,
+3010031,
+3010041,
+3020011,
+3020021,
+3020031,
+3020041,
+3030011,
+3030021,
+3030031,
+3030041,
+3040011,
+3011011,
+3011021,
+3011031,
+3011041,
+3021011,
+3021021,
+3021031,
+3021041,
+3031011,
+3031021,
+3031031,
+3031041,
+3110011,
+3110021,
+3110031,
+4010011,
+4020011,
+5010011,
+5011011,
+3001001,Giant's Tower 1F Lower
+3001002,Giant's Tower 1F Middle
+3001003,Giant's Tower 1F Upper
+3002001,Giant's Tower 2F Lower
+3002002,Giant's Tower 2F Middle
+3002003,Giant's Tower 2F Upper
+3003001,Giant's Tower 3F Lower
+3003002,Giant's Tower 3F Middle
+3003003,Giant's Tower 3F Upper
+3004001,Giant's Tower 4F Lower
+3004002,Giant's Tower 4F Middle
+3004003,Giant's Tower 4F Upper
+3005001,
+3501001,
+3501002,
+81101001,
+81102001,
+81103001,
+81104001,
+4001001,Giant's Tower 1F - Lobby
+4002001,Giant's Tower 2F - Lobby
+4003001,Giant's Tower 3F - Lobby
+4004001,Giant's Tower 4F - Lobby
+5002001,Abyss Battlefield
+5002011,Redoubt of Valor
+5002012,Redoubt of Resilience
+5002013,Redoubt of Determination
+5002111,Redoubt of Valor
+5002112,Redoubt of Resilience
+5002113,Redoubt of Determination
+5002301,Fortress of Wrath
+5002302,Fortress of Fierce Combat
+5002303,Fortress of Tremors
+5002401,Fortress of Wrath
+5002402,Fortress of Fierce Combat
+5002403,Fortress of Tremors
+5002501,Fortress of Fierce Combat
+5002502,Fortress of Fierce Combat
+5002503,Fortress of Fierce Combat
+5002504,Fortress of Tremors
+5002505,Fortress of Tremors
+5002506,Fortress of Tremors
+5002507,Fortress of Wrath
+5002508,Fortress of Wrath
+5002509,Fortress of Wrath
+5002511,Fortress of Fierce Combat
+5002512,Fortress of Tremors
+5002513,Fortress of Wrath
+5002910,Throne of Ruin
+5003001,Abyss Battlefield
+5003011,Redoubt of Resolve
+5003012,Redoubt of Invincible
+5003013,Redoubt of Torment
+5003111,Redoubt of Resolve
+5003112,Redoubt of Invincible
+5003113,Redoubt of Torment
+5003301,Fortress of Bloodshed
+5003302,Fortress of Slaughter
+5003303,Fortress of Frenzy
+5003401,Fortress of Bloodshed
+5003402,Fortress of Slaughter
+5003403,Fortress of Frenzy
+5003501,Fortress of Slaughter
+5003502,Fortress of Slaughter
+5003503,Fortress of Slaughter
+5003504,Fortress of Frenzy
+5003505,Fortress of Frenzy
+5003506,Fortress of Frenzy
+5003507,Fortress of Bloodshed
+5003508,Fortress of Bloodshed
+5003509,Fortress of Bloodshed
+5003511,Fortress of Slaughter
+5003512,Fortress of Frenzy
+5003513,Fortress of Bloodshed
+5003910,Throne of Apocalypse
+6001011,
+6001021,
+6001031,
+6001041,
+6001051,
+6001061,
+6001071,
+6001012,
+6001022,
+6001032,
+6001042,
+6001052,
+6001062,
+6001072,
+6001081,
+6001082,
+6002011,
+6002021,
+6002031,
+6002041,
+6002051,
+6002061,
+6002071,
+6002012,
+6002022,
+6002032,
+6002042,
+6002052,
+6002062,
+6002072,
+6002081,
+6002082,
+7001011,
+7001021,
+7001031,
+7001041,
+7001051,
+7001061,
+7001012,
+7001022,
+7001032,
+7001042,
+7001052,
+7001062,
+7001071,
+7001072,
+7001081,
+7001082,
+3000000,
+3000101,
+3000102,
+3000103,
+3000104,
+3000201,
+3000202,
+3000203,
+3000204,
+3000301,
+3000302,
+3000303,
+3000304,
+3000305,
+3000401,
+3000402,
+3000403,
+3000404,
+3000405,
+3000010,
+3000111,
+3000112,
+3000113,
+3000114,
+3000211,
+3000212,
+3000213,
+3000214,
+3000311,
+3000312,
+3000313,
+3000314,
+3000315,
+3000411,
+3000412,
+3000413,
+3000414,
+3000415,
+300201,
+300301,
+300302,
+700101,
+700102,
+700103,
+700104,
+700105,
+700106,
+600100,
+600101,
+600102,
+600103,
+600200,
+600201,
+600202,
+600203,
+600300,
+600301,
+600302,
+600303,

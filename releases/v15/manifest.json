@@ -1,0 +1,42 @@
+{
+  "version": "v15",
+  "translation_snapshot": "translations/v15",
+  "changes": "changes/v14-to-v15/changes.json",
+  "built_with": "tools/build_pak.py",
+  "game_update_date": "2026-09-30",
+  "game_source_pak_sha256": "87948AD2D4DD5BF5EC3C04598CF4F4301F78887FBFFDC532F3FE25630A67CFAE",
+  "install_path": "ProjectTT/Content/Paks/pakchunk9999-Windows_21474835_P.pak",
+  "format": {
+    "pak_version": "V11",
+    "mount_point": "../../../",
+    "encrypted_index": true,
+    "path_hash_seed": "E92532A4",
+    "compression": "None",
+    "entries": 227
+  },
+  "files": {
+    "player_download": {
+      "filename": "Architect-PTBR-v15.zip",
+      "bytes": 1650334,
+      "sha256": "c821ad62b18d5307c3004e0b96f0a745c9249e58e22882f21d2db4fcda0fee53"
+    },
+    "pak": {
+      "filename": "pakchunk9999-Windows_21474835_P.pak",
+      "bytes": 12407799,
+      "sha256": "38737fb2e9022f939c4f997e448b23ec96c0f71b0974cc54a07272ad7aa8fa9a"
+    }
+  },
+  "validation": {
+    "missing_tables": 0,
+    "missing_ids": 0,
+    "new_ids": 0,
+    "empty_translations": 0,
+    "placeholder_mismatches": 0,
+    "item_name_mismatches": 0,
+    "bad_tower_mentions": 0,
+    "name_mentions": 0,
+    "pak_entries_match_snapshot": "227/227 byte-for-byte",
+    "in_game_launch_test": "Não realizado nesta máquina; instalação e execução no jogo devem ser confirmadas após a publicação."
+  },
+  "summary": "v15 sincroniza a tradução PT-BR com a atualização de 30/09/2026: 584 registros novos, 5 removidos e 27 textos alterados no original, incluindo missões da Explorers Guild e da Replica Seed e a nova nomenclatura Torcida do torneio."
+}
